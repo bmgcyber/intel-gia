@@ -68,7 +68,7 @@ Each slide is static HTML: geographic hot-zone map with the current step's zones
 - **Must be served over http** because browsers block Cesium's web workers on file://. Use `open-3d.command` (Mac), `open-3d.bat` (Windows) or `open-3d.sh`, or run `python3 -m http.server 8000`. On file://, the page shows an explanation and keeps the static SVG map.
 
 ## Daily packet (inbox/YYYY-MM-DD.json)
-One edition per file. The file name is the edition date. `apply_packet.py` rejects the whole file on any error and leaves the corpus unchanged. A shock day uses the same file: it declares the new nodes and attaches them with a story.
+One edition per file. The file name is the edition date. `apply_packet.py` rejects the whole file on any error and leaves the corpus unchanged. There is one packet shape. Include whichever records this edition has: stories, new entities, zones, links, storylines, relationships, corrections. A new place is an object in `entities`, same as any other field.
 
 | field | required | notes |
 |---|---|---|

@@ -6,7 +6,7 @@ A Grok bot delivers one JSON packet a day by committing `inbox/YYYY-MM-DD.json`.
 
 ## How a day lands
 
-Quiet days add stories to threads that already exist and can refresh the hot-zone snapshot. A shock day is the same file. It can declare new entities, hot zones, links, storylines, and relationships, then attach them with a story. Pearl Harbor is that kind of day: `docs/examples/1941-12-07-pearl-harbor.json`.
+The bot sends one JSON object. Whatever records are in it get checked and merged: stories, entities, hot zones, links, storylines, relationships, corrections. A day that only adds a story and a day that also adds a new place are the same kind of file. `docs/examples/1941-12-07-pearl-harbor.json` is a full example, with a new place and a new hot zone included.
 
 `summary` is the reported fact. `analysis` is the judgment, labeled `likely`, `possible`, or `speculative`. The field rules are in `data/SCHEMA.md`.
 
