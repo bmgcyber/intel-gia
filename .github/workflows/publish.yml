@@ -1,0 +1,65 @@
+name: Publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Apply inbox packets
+        run: python3 apply_packet.py
+      - name: Build site
+        run: python3 build_dashboard.py
+      - name: Stage site
+        run: |
+          rm -rf site
+          mkdir -p site
+          cp dashboard.html site/index.html
+          cp dashboard.html site/dashboard.html
+          cp dashboard-cesium.html site/dashboard-cesium.html
+          cp -a history site/history
+          cp -a vendor site/vendor
+      - name: Commit merged corpus
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No corpus changes"
+          else
+            git commit -m "Apply inbox packets"
+            git push
+          fi
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,39 @@
+{
+ "edition": "1941-12-07",
+ "entities": [
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor"
+  }
+ ],
+ "zones": [
+  {
+   "id": "hawaii",
+   "name": "Hawaii",
+   "lat": 21.36,
+   "lon": -157.95,
+   "severity": "critical",
+   "note": "Pacific Fleet attacked at Pearl Harbor",
+   "entities": ["pearl-harbor", "united-states", "japan"]
+  }
+ ],
+ "stories": [
+  {
+   "id": "1941-12-07-pearl-harbor",
+   "date": "1941-12-07",
+   "region": "Asia-Pacific",
+   "title": "Japan attacks Pearl Harbor",
+   "summary": "Japanese aircraft attacked the US Pacific Fleet at Pearl Harbor.",
+   "analysis": {
+    "text": "Illustrative judgment, kept separate from the reported fact.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {"name": "Example source", "url": "https://example.com/pearl-harbor"}
+   ],
+   "entities": ["japan", "united-states", "pearl-harbor"]
+  }
+ ]
+}

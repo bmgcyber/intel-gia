@@ -1,0 +1,349 @@
+[
+  {
+    "id": "iran--patron-proxy--houthis",
+    "a": "iran",
+    "b": "houthis",
+    "type": "patron-proxy",
+    "start": "2014",
+    "end": null,
+    "stated": "Support for 'Axis of Resistance' against US, Israel and Saudi Arabia",
+    "actual": "Cheap, deniable lever on Saudi Arabia and the Red Sea",
+    "confidence": "likely",
+    "evidence": [
+      "2022-01-abu-dhabi-attack",
+      "2022-03-25-jeddah-attack",
+      "houthis-hit-aramco",
+      "houthis-saudi-oct15",
+      "gfs-pride-sunk"
+    ]
+  },
+  {
+    "id": "iran--patron-proxy--kataib-hezbollah",
+    "a": "iran",
+    "b": "kataib-hezbollah",
+    "type": "patron-proxy",
+    "start": "2007",
+    "end": null,
+    "stated": "Resistance to US occupation",
+    "actual": "Iranian power projection and influence over the Iraqi state",
+    "confidence": "likely",
+    "evidence": [
+      "2021-11-07-kadhimi-drone",
+      "kataib-hezbollah-halt"
+    ]
+  },
+  {
+    "id": "saudi-arabia--rivalry--houthis",
+    "a": "saudi-arabia",
+    "b": "houthis",
+    "type": "rivalry",
+    "start": "2015",
+    "end": null,
+    "stated": "Restore legitimate government",
+    "actual": "Keep an Iran-aligned armed movement off its border and away from Bab el-Mandeb",
+    "confidence": "likely",
+    "evidence": [
+      "2022-03-25-jeddah-attack",
+      "2022-04-02-yemen-truce",
+      "houthis-hit-aramco"
+    ]
+  },
+  {
+    "id": "uae--rivalry--houthis",
+    "a": "uae",
+    "b": "houthis",
+    "type": "rivalry",
+    "start": "2015",
+    "end": null,
+    "stated": "Coalition partner",
+    "actual": "Control of southern coast and ports",
+    "confidence": "possible",
+    "evidence": [
+      "2022-01-abu-dhabi-attack"
+    ]
+  },
+  {
+    "id": "russia--alliance--china",
+    "a": "russia",
+    "b": "china",
+    "type": "alliance",
+    "start": "2022-02-04",
+    "end": null,
+    "stated": "'No limits' partnership",
+    "actual": "Mutual cover against US pressure; China gains discounted energy",
+    "confidence": "likely",
+    "evidence": [
+      "2022-02-04-no-limits"
+    ]
+  },
+  {
+    "id": "russia--supplier--iran",
+    "a": "russia",
+    "b": "iran",
+    "type": "supplier",
+    "start": "2022-07",
+    "end": null,
+    "stated": "Strategic partnership",
+    "actual": "Iran supplies drones; Russia offers diplomatic and military-tech cover",
+    "confidence": "likely",
+    "evidence": [
+      "2022-07-19-putin-tehran",
+      "2022-10-iran-drones-russia"
+    ]
+  },
+  {
+    "id": "russia--rivalry--nato",
+    "a": "russia",
+    "b": "nato",
+    "type": "rivalry",
+    "start": "2021-12",
+    "end": null,
+    "stated": "'Security guarantees'",
+    "actual": "Restore sphere of influence over Ukraine",
+    "confidence": "likely",
+    "evidence": [
+      "2021-12-17-russia-drafts",
+      "2022-06-29-madrid"
+    ]
+  },
+  {
+    "id": "russia--rivalry--ukraine",
+    "a": "russia",
+    "b": "ukraine",
+    "type": "rivalry",
+    "start": "2014",
+    "end": null,
+    "stated": "'Denazification', protecting Russian speakers",
+    "actual": "Control of Ukraine's alignment and territory",
+    "confidence": "likely",
+    "evidence": [
+      "2022-02-24-invasion",
+      "energy-ceasefire",
+      "energy-ceasefire-collapse"
+    ]
+  },
+  {
+    "id": "united-states--sanction--russia",
+    "a": "united-states",
+    "b": "russia",
+    "type": "sanction",
+    "start": "2022-02-26",
+    "end": null,
+    "stated": "Punish aggression",
+    "actual": "Degrade Russia's war economy",
+    "confidence": "likely",
+    "evidence": [
+      "2022-02-26-swift-cbr",
+      "2022-03-08-us-oil-ban",
+      "diesel-deal"
+    ]
+  },
+  {
+    "id": "european-union--sanction--russia",
+    "a": "european-union",
+    "b": "russia",
+    "type": "sanction",
+    "start": "2022-02",
+    "end": null,
+    "stated": "Punish aggression",
+    "actual": "End energy dependence",
+    "confidence": "likely",
+    "evidence": [
+      "2022-06-03-eu-oil-embargo",
+      "2022-05-18-repowereu"
+    ]
+  },
+  {
+    "id": "russia--supplier--european-union",
+    "a": "russia",
+    "b": "european-union",
+    "type": "supplier",
+    "start": "1970",
+    "end": "2022-09-26",
+    "stated": "Reliable gas supplier",
+    "actual": "Gas as political leverage",
+    "confidence": "likely",
+    "evidence": [
+      "2022-04-27-gas-cutoff-poland",
+      "2022-06-14-nordstream-cut",
+      "2022-09-26-nord-stream-sabotage"
+    ]
+  },
+  {
+    "id": "united-states--sanction--china",
+    "a": "united-states",
+    "b": "china",
+    "type": "sanction",
+    "start": "2022-08-31",
+    "end": null,
+    "stated": "National security export controls",
+    "actual": "Keep China behind in AI compute",
+    "confidence": "likely",
+    "evidence": [
+      "2022-08-31-nvidia-ban",
+      "2022-10-07-bis-controls"
+    ]
+  },
+  {
+    "id": "china--sanction--united-states",
+    "a": "china",
+    "b": "united-states",
+    "type": "sanction",
+    "start": "2023",
+    "end": null,
+    "stated": "Non-proliferation licensing",
+    "actual": "Mineral leverage in response to chip controls",
+    "confidence": "likely",
+    "evidence": [
+      "rare-earth-nov10"
+    ]
+  },
+  {
+    "id": "china--rivalry--taiwan",
+    "a": "china",
+    "b": "taiwan",
+    "type": "rivalry",
+    "start": "1949",
+    "end": null,
+    "stated": "'Reunification'",
+    "actual": "Prevent formal independence; deter US backing",
+    "confidence": "likely",
+    "evidence": [
+      "2022-08-04-pla-drills",
+      "pla-drills"
+    ]
+  },
+  {
+    "id": "united-states--alliance--taiwan",
+    "a": "united-states",
+    "b": "taiwan",
+    "type": "alliance",
+    "start": "1979",
+    "end": null,
+    "stated": "Taiwan Relations Act",
+    "actual": "Deterrence; chips",
+    "confidence": "likely",
+    "evidence": [
+      "2022-08-02-pelosi"
+    ]
+  },
+  {
+    "id": "russia--patron-proxy--mali",
+    "a": "russia",
+    "b": "mali",
+    "type": "patron-proxy",
+    "start": "2021-12",
+    "end": null,
+    "stated": "Counterterrorism partnership",
+    "actual": "Regime protection for influence and resources",
+    "confidence": "likely",
+    "evidence": [
+      "2021-12-wagner-mali",
+      "2022-03-27-moura",
+      "kidal"
+    ]
+  },
+  {
+    "id": "france--alliance--mali",
+    "a": "france",
+    "b": "mali",
+    "type": "alliance",
+    "start": "2013",
+    "end": "2022-08",
+    "stated": "Counterterrorism (Barkhane)",
+    "actual": "Sahel stability and influence",
+    "confidence": "likely",
+    "evidence": [
+      "2022-02-17-france-leaves-mali"
+    ]
+  },
+  {
+    "id": "rwanda--patron-proxy--m23",
+    "a": "rwanda",
+    "b": "m23",
+    "type": "patron-proxy",
+    "start": "2012",
+    "end": null,
+    "stated": "Kigali denies support",
+    "actual": "Buffer zone and mineral rents in eastern DRC (per UN experts)",
+    "confidence": "likely",
+    "evidence": [
+      "2022-06-13-bunagana",
+      "rubaya-coltan"
+    ]
+  },
+  {
+    "id": "saudi-arabia--alliance--russia",
+    "a": "saudi-arabia",
+    "b": "russia",
+    "type": "alliance",
+    "start": "2016",
+    "end": null,
+    "stated": "OPEC+ market stabilisation",
+    "actual": "Price support and independence from US",
+    "confidence": "likely",
+    "evidence": [
+      "2022-10-05-opec-cut"
+    ]
+  },
+  {
+    "id": "united-states--alliance--saudi-arabia",
+    "a": "united-states",
+    "b": "saudi-arabia",
+    "type": "alliance",
+    "start": "1945",
+    "end": null,
+    "stated": "Strategic partnership",
+    "actual": "Oil-for-security bargain under strain",
+    "confidence": "likely",
+    "evidence": [
+      "2022-07-15-biden-saudi",
+      "2022-10-05-opec-cut"
+    ]
+  },
+  {
+    "id": "israel--alliance--uae",
+    "a": "israel",
+    "b": "uae",
+    "type": "alliance",
+    "start": "2020",
+    "end": null,
+    "stated": "Abraham Accords",
+    "actual": "Anti-Iran alignment",
+    "confidence": "likely",
+    "evidence": [
+      "2022-03-27-negev-summit"
+    ]
+  },
+  {
+    "id": "united-states--sanction--venezuela",
+    "a": "united-states",
+    "b": "venezuela",
+    "type": "sanction",
+    "start": "2019",
+    "end": "2026-01",
+    "stated": "Democracy",
+    "actual": "Regime pressure; later oil access",
+    "confidence": "likely",
+    "evidence": [
+      "2022-03-05-us-venezuela-talks",
+      "venezuela-oil"
+    ]
+  },
+  {
+    "id": "united-states--patron-proxy--ukraine",
+    "a": "united-states",
+    "b": "ukraine",
+    "type": "patron-proxy",
+    "start": "2022",
+    "end": null,
+    "stated": "Support for Ukraine's sovereignty and defense against Russian aggression",
+    "actual": "Aid and intel as leverage for Kyiv to pause energy strikes and accommodate US diesel politics with Moscow",
+    "confidence": "likely",
+    "evidence": [
+      "energy-ceasefire",
+      "diesel-deal",
+      "energy-ceasefire-collapse"
+    ]
+  }
+]
