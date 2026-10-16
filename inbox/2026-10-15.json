@@ -228,8 +228,17 @@
     "yemen-houthis-saudi"
    ],
    "causes": [
-    "houthis-saudi-oct15"
-   ]
+    {
+     "story": "houthis-saudi-oct15",
+     "why": "Escalation of the Houthi campaign against Saudi Arabia and its Yemeni allies",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-15",
+   "region": "Middle East"
   },
   {
    "id": "kirovohrad-drone-barrage",
@@ -254,7 +263,12 @@
    ],
    "storylines": [
     "russia-ukraine"
-   ]
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-15",
+   "region": "Europe"
   }
  ],
  "corrections": [
