@@ -1,0 +1,160 @@
+{
+ "edition": "2026-10-15",
+ "zones": [
+  {
+   "id": "hormuz",
+   "name": "Strait of Hormuz",
+   "lat": 26.6,
+   "lon": 56.3,
+   "severity": "critical",
+   "note": "GFS Pride sunk; >20 vessels hit this month; midterm oil leverage",
+   "entities": [
+    "strait-of-hormuz",
+    "iran",
+    "irgc",
+    "persian-gulf",
+    "petroleum",
+    "united-states"
+   ],
+   "stories": [
+    "hormuz-attacks-surge",
+    "us-iran-talks-deadlock",
+    "gfs-pride-sunk"
+   ]
+  },
+  {
+   "id": "yemen",
+   "name": "Yemen / Bab el-Mandeb",
+   "lat": 13.3,
+   "lon": 43.4,
+   "severity": "critical",
+   "note": "Houthi campaign continues; Bab el-Mandeb / Mokha fight",
+   "entities": [
+    "houthis",
+    "yemen",
+    "bab-el-mandeb",
+    "red-sea",
+    "mokha",
+    "iran"
+   ],
+   "stories": [
+    "houthis-hit-aramco",
+    "saudi-offensive-mokha",
+    "houthis-saudi-oct15"
+   ]
+  },
+  {
+   "id": "saudi",
+   "name": "Saudi (Aramco)",
+   "lat": 25.5,
+   "lon": 48.5,
+   "severity": "high",
+   "note": "Medina intercept claimed; Aramco HQ & airports still targeted",
+   "entities": [
+    "saudi-arabia",
+    "aramco",
+    "houthis",
+    "petroleum"
+   ],
+   "stories": [
+    "houthis-hit-aramco",
+    "houthis-saudi-oct15"
+   ]
+  },
+  {
+   "id": "ukraine",
+   "name": "Ukraine",
+   "lat": 49.5,
+   "lon": 32.0,
+   "severity": "critical",
+   "note": "Energy ceasefire collapsed; Kyiv resumes refinery strikes",
+   "entities": [
+    "ukraine",
+    "russia",
+    "volodymyr-zelenskyy",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "energy-ceasefire",
+    "diesel-deal",
+    "energy-ceasefire-collapse"
+   ]
+  },
+  {
+   "id": "russia",
+   "name": "Russia (oil/diesel)",
+   "lat": 55.7,
+   "lon": 37.6,
+   "severity": "high",
+   "note": "Diesel deal intact; Ryazan hit as Kyiv ends pause",
+   "entities": [
+    "russia",
+    "petroleum",
+    "steve-witkoff"
+   ],
+   "stories": [
+    "diesel-deal",
+    "energy-ceasefire-collapse"
+   ]
+  },
+  {
+   "id": "taiwan",
+   "name": "Taiwan Strait",
+   "lat": 24.0,
+   "lon": 120.0,
+   "severity": "high",
+   "note": "15 PLA aircraft / 10 PLAN ships Oct 14\u201315; live-fire to Oct 17",
+   "entities": [
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "china"
+   ],
+   "stories": [
+    "pla-drills",
+    "pla-patrol-oct14-15"
+   ]
+  },
+  {
+   "id": "china",
+   "name": "China (rare earths)",
+   "lat": 35.0,
+   "lon": 105.0,
+   "severity": "high",
+   "note": "Nov 10 REE suspension deadline; drills + minerals leverage",
+   "entities": [
+    "china",
+    "rare-earths",
+    "gallium",
+    "mp-materials"
+   ],
+   "stories": [
+    "rare-earth-nov10",
+    "ai-minerals",
+    "pla-patrol-oct14-15"
+   ]
+  },
+  {
+   "id": "drc",
+   "name": "Eastern DRC",
+   "lat": -1.5,
+   "lon": 29.0,
+   "severity": "high",
+   "note": "FRN dissolves AFC; Kabila claims Doha mantle; Rubaya still held",
+   "entities": [
+    "drc",
+    "m23",
+    "joseph-kabila",
+    "rubaya",
+    "coltan",
+    "rwanda"
+   ],
+   "stories": [
+    "kabila-m23",
+    "rubaya-coltan",
+    "kabila-frn-succeeds-afc"
+   ]
+  }
+ ]
+}
