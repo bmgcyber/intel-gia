@@ -983,7 +983,13 @@ def merge_packet(corpus, path, wikipedia):
     counts = Counter()
     undo = apply_changes(corpus, lists, edition, owned, counts)
     if not any(counts.values()) and not replacing:
-        raise PacketError([f"{path.name}: packet does not change the corpus"])
+        # Restating the current corpus is a successful ingest. Record the bytes
+        # so a later edit of this edition is a republish, and do not write the
+        # other data files. Raising here leaves the file on main and blocks Pages.
+        corpus.dirty.clear()
+        corpus.ledger.setdefault("packets", {})[edition] = {"sha256": digest, "undo": undo.to_json()}
+        corpus.dirty.add("ledger")
+        return f"applied {edition}: no change"
     broken = integrity(corpus)
     if broken:
         raise PacketError([f"{path.name}: {err}" for err in broken])

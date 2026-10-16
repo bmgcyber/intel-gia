@@ -291,6 +291,27 @@ class ApplyTests(unittest.TestCase):
         ids = [e["id"] for e in read(root / "data" / "entities.json")]
         self.assertIn("pearl-harbor", ids)
 
+    def test_identical_zone_packet_is_recorded_and_skipped_next_time(self):
+        root = fixture()
+        drop(root, "1941-12-07", {
+            "edition": "1941-12-07",
+            "zones": [{
+                "id": "japan-home", "name": "Japan", "lat": 36.2, "lon": 138.2,
+                "severity": "watch", "note": "Negotiations",
+                "entities": ["japan"], "stories": ["1941-11-26-hull-note"],
+            }],
+        })
+        before = hashes(root)
+        notes = apply_all(root, wikipedia=wiki_ok)
+        self.assertEqual(notes, ["applied 1941-12-07: no change"])
+        after = hashes(root)
+        self.assertEqual({k: v for k, v in after.items() if k != "ledger.json"},
+                         {k: v for k, v in before.items() if k != "ledger.json"})
+        self.assertIn("1941-12-07", read(root / "data" / "ledger.json")["packets"])
+        again = apply_all(root, wikipedia=wiki_ok)
+        self.assertEqual(again, ["unchanged 1941-12-07"])
+        self.assertEqual(hashes(root), after)
+
     def test_real_corpus_empty_inbox_is_noop(self):
         tmp = Path(tempfile.mkdtemp())
         root = tmp / "gia"
