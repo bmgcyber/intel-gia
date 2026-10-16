@@ -1,962 +1,998 @@
 [
-  {
-    "id": "iran",
-    "name": "Iran",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Iran"
-  },
-  {
-    "id": "irgc",
-    "name": "IRGC",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Revolution_Guards_Corps"
-  },
-  {
-    "id": "houthis",
-    "name": "Houthis",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Houthis"
-  },
-  {
-    "id": "saudi-arabia",
-    "name": "Saudi Arabia",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Saudi_Arabia"
-  },
-  {
-    "id": "aramco",
-    "name": "Saudi Aramco",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Saudi_Aramco"
-  },
-  {
-    "id": "united-states",
-    "name": "United States",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/United_States"
-  },
-  {
-    "id": "israel",
-    "name": "Israel",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Israel"
-  },
-  {
-    "id": "strait-of-hormuz",
-    "name": "Strait of Hormuz",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
-  },
-  {
-    "id": "bab-el-mandeb",
-    "name": "Bab-el-Mandeb",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
-  },
-  {
-    "id": "mokha",
-    "name": "Mokha",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mokha"
-  },
-  {
-    "id": "yemen",
-    "name": "Yemen",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yemen"
-  },
-  {
-    "id": "kataib-hezbollah",
-    "name": "Kata'ib Hezbollah",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kata'ib_Hezbollah"
-  },
-  {
-    "id": "iraq",
-    "name": "Iraq",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Iraq"
-  },
-  {
-    "id": "russia",
-    "name": "Russia",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Russia"
-  },
-  {
-    "id": "ukraine",
-    "name": "Ukraine",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ukraine"
-  },
-  {
-    "id": "donald-trump",
-    "name": "Donald Trump",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"
-  },
-  {
-    "id": "volodymyr-zelenskyy",
-    "name": "Volodymyr Zelenskyy",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
-  },
-  {
-    "id": "steve-witkoff",
-    "name": "Steve Witkoff",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Witkoff"
-  },
-  {
-    "id": "china",
-    "name": "China",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/China"
-  },
-  {
-    "id": "taiwan",
-    "name": "Taiwan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Taiwan"
-  },
-  {
-    "id": "japan",
-    "name": "Japan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Japan"
-  },
-  {
-    "id": "lai-ching-te",
-    "name": "Lai Ching-te",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lai_Ching-te"
-  },
-  {
-    "id": "pla",
-    "name": "People's Liberation Army",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/People's_Liberation_Army"
-  },
-  {
-    "id": "mp-materials",
-    "name": "MP Materials",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/MP_Materials"
-  },
-  {
-    "id": "european-union",
-    "name": "European Union",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/European_Union"
-  },
-  {
-    "id": "rare-earths",
-    "name": "Rare-earth elements",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rare-earth_element"
-  },
-  {
-    "id": "gallium",
-    "name": "Gallium",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gallium"
-  },
-  {
-    "id": "copper",
-    "name": "Copper",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Copper"
-  },
-  {
-    "id": "coltan",
-    "name": "Coltan",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Coltan"
-  },
-  {
-    "id": "ai-data-centers",
-    "name": "Data centers",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Data_center"
-  },
-  {
-    "id": "drc",
-    "name": "DR Congo",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
-  },
-  {
-    "id": "rwanda",
-    "name": "Rwanda",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rwanda"
-  },
-  {
-    "id": "m23",
-    "name": "M23",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/March_23_Movement"
-  },
-  {
-    "id": "joseph-kabila",
-    "name": "Joseph Kabila",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Kabila"
-  },
-  {
-    "id": "rubaya",
-    "name": "Rubaya",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rubaya"
-  },
-  {
-    "id": "mali",
-    "name": "Mali",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mali"
-  },
-  {
-    "id": "kidal",
-    "name": "Kidal",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kidal",
-    "lat": 18.43888889,
-    "lon": 1.40833333,
-    "precision": "city"
-  },
-  {
-    "id": "africa-corps",
-    "name": "Africa Corps (Russia)",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)"
-  },
-  {
-    "id": "jnim",
-    "name": "JNIM",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jama'at_Nasr_al-Islam_wal-Muslimin"
-  },
-  {
-    "id": "fla",
-    "name": "Azawad Liberation Front",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Azawad_Liberation_Front"
-  },
-  {
-    "id": "venezuela",
-    "name": "Venezuela",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Venezuela"
-  },
-  {
-    "id": "pdvsa",
-    "name": "PDVSA",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/PDVSA"
-  },
-  {
-    "id": "india",
-    "name": "India",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/India"
-  },
-  {
-    "id": "reliance",
-    "name": "Reliance Industries",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Industries"
-  },
-  {
-    "id": "ofac",
-    "name": "OFAC",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control"
-  },
-  {
-    "id": "nicolas-maduro",
-    "name": "Nicolás Maduro",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
-  },
-  {
-    "id": "petroleum",
-    "name": "Oil markets",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Price_of_oil"
-  },
-  {
-    "id": "red-sea",
-    "name": "Red Sea",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Red_Sea"
-  },
-  {
-    "id": "persian-gulf",
-    "name": "Persian Gulf",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Persian_Gulf"
-  },
-  {
-    "id": "sahel",
-    "name": "Sahel",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sahel"
-  },
-  {
-    "id": "vladimir-putin",
-    "name": "Vladimir Putin",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin"
-  },
-  {
-    "id": "joe-biden",
-    "name": "Joe Biden",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Biden"
-  },
-  {
-    "id": "xi-jinping",
-    "name": "Xi Jinping",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping"
-  },
-  {
-    "id": "nancy-pelosi",
-    "name": "Nancy Pelosi",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Pelosi"
-  },
-  {
-    "id": "nato",
-    "name": "NATO",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/NATO"
-  },
-  {
-    "id": "wagner-group",
-    "name": "Wagner Group",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Wagner_Group"
-  },
-  {
-    "id": "germany",
-    "name": "Germany",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Germany"
-  },
-  {
-    "id": "nord-stream",
-    "name": "Nord Stream",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nord_Stream"
-  },
-  {
-    "id": "opec-plus",
-    "name": "OPEC+",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/OPEC_Plus"
-  },
-  {
-    "id": "federal-reserve",
-    "name": "Federal Reserve",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Federal_Reserve"
-  },
-  {
-    "id": "natural-gas",
-    "name": "Natural gas",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Natural_gas"
-  },
-  {
-    "id": "food-security",
-    "name": "Food security",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Food_security"
-  },
-  {
-    "id": "inflation",
-    "name": "Inflation",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Inflation"
-  },
-  {
-    "id": "wheat",
-    "name": "Wheat",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Wheat"
-  },
-  {
-    "id": "finland",
-    "name": "Finland",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Finland"
-  },
-  {
-    "id": "sweden",
-    "name": "Sweden",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sweden"
-  },
-  {
-    "id": "turkey",
-    "name": "Turkey",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Turkey"
-  },
-  {
-    "id": "belarus",
-    "name": "Belarus",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Belarus"
-  },
-  {
-    "id": "kazakhstan",
-    "name": "Kazakhstan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kazakhstan"
-  },
-  {
-    "id": "csto",
-    "name": "CSTO",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Collective_Security_Treaty_Organization"
-  },
-  {
-    "id": "france",
-    "name": "France",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/France"
-  },
-  {
-    "id": "burkina-faso",
-    "name": "Burkina Faso",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Burkina_Faso"
-  },
-  {
-    "id": "sudan",
-    "name": "Sudan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sudan"
-  },
-  {
-    "id": "ecowas",
-    "name": "ECOWAS",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/ECOWAS"
-  },
-  {
-    "id": "uae",
-    "name": "United Arab Emirates",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
-  },
-  {
-    "id": "mohammed-bin-salman",
-    "name": "Mohammed bin Salman",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
-  },
-  {
-    "id": "ebrahim-raisi",
-    "name": "Ebrahim Raisi",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ebrahim_Raisi"
-  },
-  {
-    "id": "jcpoa",
-    "name": "JCPOA (Iran nuclear deal)",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
-  },
-  {
-    "id": "iaea",
-    "name": "IAEA",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
-  },
-  {
-    "id": "lebanon",
-    "name": "Lebanon",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lebanon"
-  },
-  {
-    "id": "tsmc",
-    "name": "TSMC",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/TSMC"
-  },
-  {
-    "id": "nvidia",
-    "name": "Nvidia",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nvidia"
-  },
-  {
-    "id": "semiconductors",
-    "name": "Semiconductors",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Semiconductor_industry"
-  },
-  {
-    "id": "lithium",
-    "name": "Lithium",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lithium"
-  },
-  {
-    "id": "nickel",
-    "name": "Nickel",
-    "type": "theme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nickel"
-  },
-  {
-    "id": "sri-lanka",
-    "name": "Sri Lanka",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sri_Lanka"
-  },
-  {
-    "id": "pakistan",
-    "name": "Pakistan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Pakistan"
-  },
-  {
-    "id": "north-korea",
-    "name": "North Korea",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/North_Korea"
-  },
-  {
-    "id": "south-korea",
-    "name": "South Korea",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/South_Korea"
-  },
-  {
-    "id": "philippines",
-    "name": "Philippines",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Philippines"
-  },
-  {
-    "id": "solomon-islands",
-    "name": "Solomon Islands",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Solomon_Islands"
-  },
-  {
-    "id": "colombia",
-    "name": "Colombia",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Colombia"
-  },
-  {
-    "id": "brazil",
-    "name": "Brazil",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Brazil"
-  },
-  {
-    "id": "chile",
-    "name": "Chile",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Chile"
-  },
-  {
-    "id": "mexico",
-    "name": "Mexico",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mexico"
-  },
-  {
-    "id": "haiti",
-    "name": "Haiti",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Haiti"
-  },
-  {
-    "id": "united-kingdom",
-    "name": "United Kingdom",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom"
-  },
-  {
-    "id": "egypt",
-    "name": "Egypt",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Egypt"
-  },
-  {
-    "id": "crimea",
-    "name": "Crimea",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Crimea",
-    "lat": 45.3,
-    "lon": 34.4,
-    "precision": "feature"
-  },
-  {
-    "id": "mariupol",
-    "name": "Mariupol",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mariupol",
-    "lat": 47.09583333,
-    "lon": 37.54944444,
-    "precision": "city"
-  },
-  {
-    "id": "zaporizhzhia-npp",
-    "name": "Zaporizhzhia Nuclear Power Plant",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant"
-  },
-  {
-    "id": "swift",
-    "name": "SWIFT",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/SWIFT"
-  },
-  {
-    "id": "g7",
-    "name": "G7",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/G7"
-  },
-  {
-    "id": "afghanistan",
-    "name": "Afghanistan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Afghanistan"
-  },
-  {
-    "id": "al-qaeda",
-    "name": "al-Qaeda",
-    "type": "group",
-    "wikipedia": "https://en.wikipedia.org/wiki/Al-Qaeda"
-  },
-  {
-    "id": "muqtada-al-sadr",
-    "name": "Muqtada al-Sadr",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Muqtada_al-Sadr"
-  },
-  {
-    "id": "black-sea",
-    "name": "Black Sea",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Black_Sea"
-  },
-  {
-    "id": "armenia",
-    "name": "Armenia",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Armenia"
-  },
-  {
-    "id": "azerbaijan",
-    "name": "Azerbaijan",
-    "type": "country",
-    "wikipedia": "https://en.wikipedia.org/wiki/Azerbaijan"
-  },
-  {
-    "id": "gazprom",
-    "name": "Gazprom",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gazprom"
-  },
-  {
-    "id": "olaf-scholz",
-    "name": "Olaf Scholz",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz"
-  },
-  {
-    "id": "kim-jong-un",
-    "name": "Kim Jong Un",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
-  },
-  {
-    "id": "ali-khamenei",
-    "name": "Ali Khamenei",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ali_Khamenei"
-  },
-  {
-    "id": "assimi-goita",
-    "name": "Assimi Goïta",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Assimi_Goïta"
-  },
-  {
-    "id": "ibrahim-traore",
-    "name": "Ibrahim Traoré",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ibrahim_Traoré"
-  },
-  {
-    "id": "bunagana",
-    "name": "Bunagana",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Bunagana"
-  },
-  {
-    "id": "lula",
-    "name": "Lula da Silva",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva"
-  },
-  {
-    "id": "gustavo-petro",
-    "name": "Gustavo Petro",
-    "type": "person",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Petro"
-  },
-  {
-    "id": "presidential-leadership-council",
-    "name": "Presidential Leadership Council (Yemen)",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Presidential_Leadership_Council"
-  },
-  {
-    "id": "starlink",
-    "name": "Starlink",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
-  },
-  {
-    "id": "spacex",
-    "name": "SpaceX",
-    "type": "organization",
-    "wikipedia": "https://en.wikipedia.org/wiki/SpaceX"
-  },
-  {
-    "id": "yelnya",
-    "name": "Yelnya",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Yelnya,_Yelninsky_District,_Smolensk_Oblast",
-    "lat": 54.58333333,
-    "lon": 33.18333333,
-    "precision": "city"
-  },
-  {
-    "id": "voronezh",
-    "name": "Voronezh",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Voronezh",
-    "lat": 51.67166667,
-    "lon": 39.21055556,
-    "precision": "city"
-  },
-  {
-    "id": "kyiv",
-    "name": "Kyiv",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kyiv",
-    "lat": 50.45,
-    "lon": 30.52333333,
-    "precision": "city"
-  },
-  {
-    "id": "kharkiv",
-    "name": "Kharkiv",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kharkiv",
-    "lat": 49.9925,
-    "lon": 36.23111111,
-    "precision": "city"
-  },
-  {
-    "id": "moscow",
-    "name": "Moscow",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
-    "lat": 55.75583333,
-    "lon": 37.61777778,
-    "precision": "city"
-  },
-  {
-    "id": "donetsk",
-    "name": "Donetsk",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Donetsk",
-    "lat": 48.0158,
-    "lon": 37.8028,
-    "precision": "city"
-  },
-  {
-    "id": "luhansk",
-    "name": "Luhansk",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Luhansk",
-    "lat": 48.56777778,
-    "lon": 39.30305556,
-    "precision": "city"
-  },
-  {
-    "id": "izium",
-    "name": "Izium",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Izium",
-    "lat": 49.21277778,
-    "lon": 37.25694444,
-    "precision": "city"
-  },
-  {
-    "id": "kupiansk",
-    "name": "Kupiansk",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kupiansk",
-    "lat": 49.71666667,
-    "lon": 37.58333333,
-    "precision": "city"
-  },
-  {
-    "id": "azovstal",
-    "name": "Azovstal Iron and Steel Works",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Azovstal_Iron_and_Steel_Works",
-    "lat": 47.098,
-    "lon": 37.61,
-    "precision": "feature"
-  },
-  {
-    "id": "crimean-bridge",
-    "name": "Crimean Bridge",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Crimean_Bridge",
-    "lat": 45.3086,
-    "lon": 36.5061,
-    "precision": "feature"
-  },
-  {
-    "id": "lviv",
-    "name": "Lviv",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lviv",
-    "lat": 49.8425,
-    "lon": 24.03222222,
-    "precision": "city"
-  },
-  {
-    "id": "ternopil",
-    "name": "Ternopil",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ternopil",
-    "lat": 49.56666667,
-    "lon": 25.6,
-    "precision": "city"
-  },
-  {
-    "id": "zhytomyr",
-    "name": "Zhytomyr",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Zhytomyr",
-    "lat": 50.25,
-    "lon": 28.66666667,
-    "precision": "city"
-  },
-  {
-    "id": "dnipro",
-    "name": "Dnipro",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dnipro",
-    "lat": 48.4675,
-    "lon": 35.04,
-    "precision": "city"
-  },
-  {
-    "id": "kremenchuk",
-    "name": "Kremenchuk",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kremenchuk",
-    "lat": 49.06305556,
-    "lon": 33.40388889,
-    "precision": "city"
-  },
-  {
-    "id": "zaporizhzhia",
-    "name": "Zaporizhzhia",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia",
-    "lat": 47.85,
-    "lon": 35.1175,
-    "precision": "city"
-  },
-  {
-    "id": "abu-dhabi",
-    "name": "Abu Dhabi",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi",
-    "lat": 24.46666667,
-    "lon": 54.36666667,
-    "precision": "city"
-  },
-  {
-    "id": "saada",
-    "name": "Saada",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Saada",
-    "lat": 16.94,
-    "lon": 43.75916667,
-    "precision": "city"
-  },
-  {
-    "id": "jeddah",
-    "name": "Jeddah",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jeddah",
-    "lat": 21.54333333,
-    "lon": 39.17277778,
-    "precision": "city"
-  },
-  {
-    "id": "hodeidah",
-    "name": "Al Hudaydah",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Al_Hudaydah",
-    "lat": 14.80222222,
-    "lon": 42.95111111,
-    "precision": "city"
-  },
-  {
-    "id": "sanaa",
-    "name": "Sanaa",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sanaa",
-    "lat": 15.34833333,
-    "lon": 44.20638889,
-    "precision": "city"
-  },
-  {
-    "id": "dhahran",
-    "name": "Dhahran",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dhahran",
-    "lat": 26.26666667,
-    "lon": 50.15,
-    "precision": "city"
-  },
-  {
-    "id": "riyadh",
-    "name": "Riyadh",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Riyadh",
-    "lat": 24.6383,
-    "lon": 46.715,
-    "precision": "city"
-  },
-  {
-    "id": "taipei",
-    "name": "Taipei",
-    "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Taipei",
-    "lat": 25.0375,
-    "lon": 121.5625,
-    "precision": "city"
-  }
+ {
+  "id": "iran",
+  "name": "Iran",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Iran"
+ },
+ {
+  "id": "irgc",
+  "name": "IRGC",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Revolution_Guards_Corps"
+ },
+ {
+  "id": "houthis",
+  "name": "Houthis",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Houthis"
+ },
+ {
+  "id": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+ },
+ {
+  "id": "aramco",
+  "name": "Saudi Aramco",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Saudi_Aramco"
+ },
+ {
+  "id": "united-states",
+  "name": "United States",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_States"
+ },
+ {
+  "id": "israel",
+  "name": "Israel",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Israel"
+ },
+ {
+  "id": "strait-of-hormuz",
+  "name": "Strait of Hormuz",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+ },
+ {
+  "id": "bab-el-mandeb",
+  "name": "Bab-el-Mandeb",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bab-el-Mandeb"
+ },
+ {
+  "id": "mokha",
+  "name": "Mokha",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mokha"
+ },
+ {
+  "id": "yemen",
+  "name": "Yemen",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yemen"
+ },
+ {
+  "id": "kataib-hezbollah",
+  "name": "Kata'ib Hezbollah",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kata'ib_Hezbollah"
+ },
+ {
+  "id": "iraq",
+  "name": "Iraq",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Iraq"
+ },
+ {
+  "id": "russia",
+  "name": "Russia",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Russia"
+ },
+ {
+  "id": "ukraine",
+  "name": "Ukraine",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ukraine"
+ },
+ {
+  "id": "donald-trump",
+  "name": "Donald Trump",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"
+ },
+ {
+  "id": "volodymyr-zelenskyy",
+  "name": "Volodymyr Zelenskyy",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
+ },
+ {
+  "id": "steve-witkoff",
+  "name": "Steve Witkoff",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Steve_Witkoff"
+ },
+ {
+  "id": "china",
+  "name": "China",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/China"
+ },
+ {
+  "id": "taiwan",
+  "name": "Taiwan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Taiwan"
+ },
+ {
+  "id": "japan",
+  "name": "Japan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Japan"
+ },
+ {
+  "id": "lai-ching-te",
+  "name": "Lai Ching-te",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lai_Ching-te"
+ },
+ {
+  "id": "pla",
+  "name": "People's Liberation Army",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/People's_Liberation_Army"
+ },
+ {
+  "id": "mp-materials",
+  "name": "MP Materials",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/MP_Materials"
+ },
+ {
+  "id": "european-union",
+  "name": "European Union",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/European_Union"
+ },
+ {
+  "id": "rare-earths",
+  "name": "Rare-earth elements",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rare-earth_element"
+ },
+ {
+  "id": "gallium",
+  "name": "Gallium",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gallium"
+ },
+ {
+  "id": "copper",
+  "name": "Copper",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Copper"
+ },
+ {
+  "id": "coltan",
+  "name": "Coltan",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Coltan"
+ },
+ {
+  "id": "ai-data-centers",
+  "name": "Data centers",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Data_center"
+ },
+ {
+  "id": "drc",
+  "name": "DR Congo",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+ },
+ {
+  "id": "rwanda",
+  "name": "Rwanda",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rwanda"
+ },
+ {
+  "id": "m23",
+  "name": "M23",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/March_23_Movement"
+ },
+ {
+  "id": "joseph-kabila",
+  "name": "Joseph Kabila",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Kabila"
+ },
+ {
+  "id": "rubaya",
+  "name": "Rubaya",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rubaya"
+ },
+ {
+  "id": "mali",
+  "name": "Mali",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mali"
+ },
+ {
+  "id": "kidal",
+  "name": "Kidal",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kidal",
+  "lat": 18.43888889,
+  "lon": 1.40833333,
+  "precision": "city"
+ },
+ {
+  "id": "africa-corps",
+  "name": "Africa Corps (Russia)",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)"
+ },
+ {
+  "id": "jnim",
+  "name": "JNIM",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jama'at_Nasr_al-Islam_wal-Muslimin"
+ },
+ {
+  "id": "fla",
+  "name": "Azawad Liberation Front",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Azawad_Liberation_Front"
+ },
+ {
+  "id": "venezuela",
+  "name": "Venezuela",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Venezuela"
+ },
+ {
+  "id": "pdvsa",
+  "name": "PDVSA",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/PDVSA"
+ },
+ {
+  "id": "india",
+  "name": "India",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/India"
+ },
+ {
+  "id": "reliance",
+  "name": "Reliance Industries",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Industries"
+ },
+ {
+  "id": "ofac",
+  "name": "OFAC",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control"
+ },
+ {
+  "id": "nicolas-maduro",
+  "name": "Nicolás Maduro",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+ },
+ {
+  "id": "petroleum",
+  "name": "Oil markets",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Price_of_oil"
+ },
+ {
+  "id": "red-sea",
+  "name": "Red Sea",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Red_Sea"
+ },
+ {
+  "id": "persian-gulf",
+  "name": "Persian Gulf",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Persian_Gulf"
+ },
+ {
+  "id": "sahel",
+  "name": "Sahel",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sahel"
+ },
+ {
+  "id": "vladimir-putin",
+  "name": "Vladimir Putin",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin"
+ },
+ {
+  "id": "joe-biden",
+  "name": "Joe Biden",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Joe_Biden"
+ },
+ {
+  "id": "xi-jinping",
+  "name": "Xi Jinping",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping"
+ },
+ {
+  "id": "nancy-pelosi",
+  "name": "Nancy Pelosi",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Pelosi"
+ },
+ {
+  "id": "nato",
+  "name": "NATO",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/NATO"
+ },
+ {
+  "id": "wagner-group",
+  "name": "Wagner Group",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wagner_Group"
+ },
+ {
+  "id": "germany",
+  "name": "Germany",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Germany"
+ },
+ {
+  "id": "nord-stream",
+  "name": "Nord Stream",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nord_Stream"
+ },
+ {
+  "id": "opec-plus",
+  "name": "OPEC+",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/OPEC_Plus"
+ },
+ {
+  "id": "federal-reserve",
+  "name": "Federal Reserve",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Federal_Reserve"
+ },
+ {
+  "id": "natural-gas",
+  "name": "Natural gas",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Natural_gas"
+ },
+ {
+  "id": "food-security",
+  "name": "Food security",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Food_security"
+ },
+ {
+  "id": "inflation",
+  "name": "Inflation",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Inflation"
+ },
+ {
+  "id": "wheat",
+  "name": "Wheat",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wheat"
+ },
+ {
+  "id": "finland",
+  "name": "Finland",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Finland"
+ },
+ {
+  "id": "sweden",
+  "name": "Sweden",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sweden"
+ },
+ {
+  "id": "turkey",
+  "name": "Turkey",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Turkey"
+ },
+ {
+  "id": "belarus",
+  "name": "Belarus",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Belarus"
+ },
+ {
+  "id": "kazakhstan",
+  "name": "Kazakhstan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kazakhstan"
+ },
+ {
+  "id": "csto",
+  "name": "CSTO",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Collective_Security_Treaty_Organization"
+ },
+ {
+  "id": "france",
+  "name": "France",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/France"
+ },
+ {
+  "id": "burkina-faso",
+  "name": "Burkina Faso",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Burkina_Faso"
+ },
+ {
+  "id": "sudan",
+  "name": "Sudan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sudan"
+ },
+ {
+  "id": "ecowas",
+  "name": "ECOWAS",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/ECOWAS"
+ },
+ {
+  "id": "uae",
+  "name": "United Arab Emirates",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+ },
+ {
+  "id": "mohammed-bin-salman",
+  "name": "Mohammed bin Salman",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
+ },
+ {
+  "id": "ebrahim-raisi",
+  "name": "Ebrahim Raisi",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ebrahim_Raisi"
+ },
+ {
+  "id": "jcpoa",
+  "name": "JCPOA (Iran nuclear deal)",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
+ },
+ {
+  "id": "iaea",
+  "name": "IAEA",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
+ },
+ {
+  "id": "lebanon",
+  "name": "Lebanon",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lebanon"
+ },
+ {
+  "id": "tsmc",
+  "name": "TSMC",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/TSMC"
+ },
+ {
+  "id": "nvidia",
+  "name": "Nvidia",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nvidia"
+ },
+ {
+  "id": "semiconductors",
+  "name": "Semiconductors",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Semiconductor_industry"
+ },
+ {
+  "id": "lithium",
+  "name": "Lithium",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lithium"
+ },
+ {
+  "id": "nickel",
+  "name": "Nickel",
+  "type": "theme",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nickel"
+ },
+ {
+  "id": "sri-lanka",
+  "name": "Sri Lanka",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sri_Lanka"
+ },
+ {
+  "id": "pakistan",
+  "name": "Pakistan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pakistan"
+ },
+ {
+  "id": "north-korea",
+  "name": "North Korea",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Korea"
+ },
+ {
+  "id": "south-korea",
+  "name": "South Korea",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Korea"
+ },
+ {
+  "id": "philippines",
+  "name": "Philippines",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Philippines"
+ },
+ {
+  "id": "solomon-islands",
+  "name": "Solomon Islands",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Solomon_Islands"
+ },
+ {
+  "id": "colombia",
+  "name": "Colombia",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Colombia"
+ },
+ {
+  "id": "brazil",
+  "name": "Brazil",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Brazil"
+ },
+ {
+  "id": "chile",
+  "name": "Chile",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Chile"
+ },
+ {
+  "id": "mexico",
+  "name": "Mexico",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mexico"
+ },
+ {
+  "id": "haiti",
+  "name": "Haiti",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Haiti"
+ },
+ {
+  "id": "united-kingdom",
+  "name": "United Kingdom",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom"
+ },
+ {
+  "id": "egypt",
+  "name": "Egypt",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Egypt"
+ },
+ {
+  "id": "crimea",
+  "name": "Crimea",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crimea",
+  "lat": 45.3,
+  "lon": 34.4,
+  "precision": "feature"
+ },
+ {
+  "id": "mariupol",
+  "name": "Mariupol",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mariupol",
+  "lat": 47.09583333,
+  "lon": 37.54944444,
+  "precision": "city"
+ },
+ {
+  "id": "zaporizhzhia-npp",
+  "name": "Zaporizhzhia Nuclear Power Plant",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant"
+ },
+ {
+  "id": "swift",
+  "name": "SWIFT",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/SWIFT"
+ },
+ {
+  "id": "g7",
+  "name": "G7",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/G7"
+ },
+ {
+  "id": "afghanistan",
+  "name": "Afghanistan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Afghanistan"
+ },
+ {
+  "id": "al-qaeda",
+  "name": "al-Qaeda",
+  "type": "group",
+  "wikipedia": "https://en.wikipedia.org/wiki/Al-Qaeda"
+ },
+ {
+  "id": "muqtada-al-sadr",
+  "name": "Muqtada al-Sadr",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Muqtada_al-Sadr"
+ },
+ {
+  "id": "black-sea",
+  "name": "Black Sea",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Black_Sea"
+ },
+ {
+  "id": "armenia",
+  "name": "Armenia",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Armenia"
+ },
+ {
+  "id": "azerbaijan",
+  "name": "Azerbaijan",
+  "type": "country",
+  "wikipedia": "https://en.wikipedia.org/wiki/Azerbaijan"
+ },
+ {
+  "id": "gazprom",
+  "name": "Gazprom",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gazprom"
+ },
+ {
+  "id": "olaf-scholz",
+  "name": "Olaf Scholz",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz"
+ },
+ {
+  "id": "kim-jong-un",
+  "name": "Kim Jong Un",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
+ },
+ {
+  "id": "ali-khamenei",
+  "name": "Ali Khamenei",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ali_Khamenei"
+ },
+ {
+  "id": "assimi-goita",
+  "name": "Assimi Goïta",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Assimi_Goïta"
+ },
+ {
+  "id": "ibrahim-traore",
+  "name": "Ibrahim Traoré",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ibrahim_Traoré"
+ },
+ {
+  "id": "bunagana",
+  "name": "Bunagana",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bunagana"
+ },
+ {
+  "id": "lula",
+  "name": "Lula da Silva",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva"
+ },
+ {
+  "id": "gustavo-petro",
+  "name": "Gustavo Petro",
+  "type": "person",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Petro"
+ },
+ {
+  "id": "presidential-leadership-council",
+  "name": "Presidential Leadership Council (Yemen)",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Presidential_Leadership_Council"
+ },
+ {
+  "id": "starlink",
+  "name": "Starlink",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
+ },
+ {
+  "id": "spacex",
+  "name": "SpaceX",
+  "type": "organization",
+  "wikipedia": "https://en.wikipedia.org/wiki/SpaceX"
+ },
+ {
+  "id": "yelnya",
+  "name": "Yelnya",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yelnya,_Yelninsky_District,_Smolensk_Oblast",
+  "lat": 54.58333333,
+  "lon": 33.18333333,
+  "precision": "city"
+ },
+ {
+  "id": "voronezh",
+  "name": "Voronezh",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Voronezh",
+  "lat": 51.67166667,
+  "lon": 39.21055556,
+  "precision": "city"
+ },
+ {
+  "id": "kyiv",
+  "name": "Kyiv",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kyiv",
+  "lat": 50.45,
+  "lon": 30.52333333,
+  "precision": "city"
+ },
+ {
+  "id": "kharkiv",
+  "name": "Kharkiv",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kharkiv",
+  "lat": 49.9925,
+  "lon": 36.23111111,
+  "precision": "city"
+ },
+ {
+  "id": "moscow",
+  "name": "Moscow",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+  "lat": 55.75583333,
+  "lon": 37.61777778,
+  "precision": "city"
+ },
+ {
+  "id": "donetsk",
+  "name": "Donetsk",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Donetsk",
+  "lat": 48.0158,
+  "lon": 37.8028,
+  "precision": "city"
+ },
+ {
+  "id": "luhansk",
+  "name": "Luhansk",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Luhansk",
+  "lat": 48.56777778,
+  "lon": 39.30305556,
+  "precision": "city"
+ },
+ {
+  "id": "izium",
+  "name": "Izium",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Izium",
+  "lat": 49.21277778,
+  "lon": 37.25694444,
+  "precision": "city"
+ },
+ {
+  "id": "kupiansk",
+  "name": "Kupiansk",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kupiansk",
+  "lat": 49.71666667,
+  "lon": 37.58333333,
+  "precision": "city"
+ },
+ {
+  "id": "azovstal",
+  "name": "Azovstal Iron and Steel Works",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Azovstal_Iron_and_Steel_Works",
+  "lat": 47.098,
+  "lon": 37.61,
+  "precision": "feature"
+ },
+ {
+  "id": "crimean-bridge",
+  "name": "Crimean Bridge",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crimean_Bridge",
+  "lat": 45.3086,
+  "lon": 36.5061,
+  "precision": "feature"
+ },
+ {
+  "id": "lviv",
+  "name": "Lviv",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lviv",
+  "lat": 49.8425,
+  "lon": 24.03222222,
+  "precision": "city"
+ },
+ {
+  "id": "ternopil",
+  "name": "Ternopil",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ternopil",
+  "lat": 49.56666667,
+  "lon": 25.6,
+  "precision": "city"
+ },
+ {
+  "id": "zhytomyr",
+  "name": "Zhytomyr",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Zhytomyr",
+  "lat": 50.25,
+  "lon": 28.66666667,
+  "precision": "city"
+ },
+ {
+  "id": "dnipro",
+  "name": "Dnipro",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Dnipro",
+  "lat": 48.4675,
+  "lon": 35.04,
+  "precision": "city"
+ },
+ {
+  "id": "kremenchuk",
+  "name": "Kremenchuk",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kremenchuk",
+  "lat": 49.06305556,
+  "lon": 33.40388889,
+  "precision": "city"
+ },
+ {
+  "id": "zaporizhzhia",
+  "name": "Zaporizhzhia",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia",
+  "lat": 47.85,
+  "lon": 35.1175,
+  "precision": "city"
+ },
+ {
+  "id": "abu-dhabi",
+  "name": "Abu Dhabi",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+  "lat": 24.46666667,
+  "lon": 54.36666667,
+  "precision": "city"
+ },
+ {
+  "id": "saada",
+  "name": "Saada",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Saada",
+  "lat": 16.94,
+  "lon": 43.75916667,
+  "precision": "city"
+ },
+ {
+  "id": "jeddah",
+  "name": "Jeddah",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jeddah",
+  "lat": 21.54333333,
+  "lon": 39.17277778,
+  "precision": "city"
+ },
+ {
+  "id": "hodeidah",
+  "name": "Al Hudaydah",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Al_Hudaydah",
+  "lat": 14.80222222,
+  "lon": 42.95111111,
+  "precision": "city"
+ },
+ {
+  "id": "sanaa",
+  "name": "Sanaa",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanaa",
+  "lat": 15.34833333,
+  "lon": 44.20638889,
+  "precision": "city"
+ },
+ {
+  "id": "dhahran",
+  "name": "Dhahran",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Dhahran",
+  "lat": 26.26666667,
+  "lon": 50.15,
+  "precision": "city"
+ },
+ {
+  "id": "riyadh",
+  "name": "Riyadh",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Riyadh",
+  "lat": 24.6383,
+  "lon": 46.715,
+  "precision": "city"
+ },
+ {
+  "id": "taipei",
+  "name": "Taipei",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Taipei",
+  "lat": 25.0375,
+  "lon": 121.5625,
+  "precision": "city"
+ },
+ {
+  "id": "medina",
+  "name": "Medina",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Medina",
+  "lat": 24.47,
+  "lon": 39.61,
+  "precision": "city"
+ },
+ {
+  "id": "goma",
+  "name": "Goma",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Goma",
+  "lat": -1.67944444,
+  "lon": 29.23361111,
+  "precision": "city"
+ },
+ {
+  "id": "ryazan",
+  "name": "Ryazan",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ryazan",
+  "lat": 54.63,
+  "lon": 39.7425,
+  "precision": "city"
+ },
+ {
+  "id": "aden",
+  "name": "Aden",
+  "type": "place",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aden",
+  "lat": 12.8,
+  "lon": 45.03333333,
+  "precision": "city"
+ }
 ]

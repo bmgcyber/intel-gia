@@ -1,15 +1,653 @@
 {
  "packets": {
   "2026-10-15": {
-   "sha256": "ec5a44daa06553cb6cdbab0f461e76c67567b129ebcc83744f05ab331cc791c6",
+   "sha256": "32f1c4d9d6e1081cfc96649282272e31ad5f75fd1d62c75d7fdbe6044c6dcc38",
    "undo": {
-    "stories": {},
+    "stories": {
+     "houthis-hit-aden-palace": null,
+     "kirovohrad-drone-barrage": null,
+     "energy-ceasefire-collapse": {
+      "id": "energy-ceasefire-collapse",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Europe",
+      "title": "Ukraine ends energy pause; Zelenskyy says 'we're done' with Trump ceasefire",
+      "summary": "President Zelenskyy told the Financial Times Ukraine will resume strikes on Russian oil refineries after a three-day pause requested by Washington. He said Russia struck Ukrainian energy infrastructure (Kyiv cited ~40 ballistic missiles in one assault) while Ukraine held fire. Russia said Ukraine hit a Ryazan-region refinery early Thursday. Zelenskyy also cited alleged limits on Starlink/Starshield mobility and reduced missile-warning intel; SpaceX's Musk said Starshield is US-government controlled. Trump's Sunday 'energy ceasefire' was tied to a US purchase of Russian diesel meant to ease US fuel prices before midterms.",
+      "analysis": {
+       "text": "Stated US goal was protecting energy infrastructure and cutting fuel prices; actual bargain mixed a diesel import deal with Moscow and pressure on Kyiv to stop hitting Russian refining. Collapse raises diesel/oil risk again and deepens Kyiv–Washington trust fracture ahead of Nov 3.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "volodymyr-zelenskyy",
+       "donald-trump",
+       "vladimir-putin",
+       "united-states",
+       "petroleum",
+       "starlink",
+       "spacex"
+      ],
+      "storylines": [
+       "russia-ukraine",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "energy-ceasefire",
+        "why": "Unilateral US energy ceasefire announcement failed when Russia kept striking Ukrainian energy and Kyiv ended its pause",
+        "confidence": "likely"
+       },
+       {
+        "story": "diesel-deal",
+        "why": "US–Russia diesel deal was the political quid for pressing Kyiv to halt refinery strikes",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "energy-ceasefire",
+       "diesel-deal"
+      ]
+     },
+     "houthis-saudi-oct15": {
+      "id": "houthis-saudi-oct15",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Middle East",
+      "title": "Saudi coalition says cruise missile intercepted over Medina; Houthis keep targeting oil and airports",
+      "summary": "On Oct 15 the Saudi-led coalition said it intercepted a cruise missile over the Medina region; Houthis called the claim a lie. On Oct 14 Houthis vowed more attacks on Saudi airports and oil after a strike that sources said heavily damaged Aramco's Dhahran HQ (Saudi Energy Ministry: limited fire). Riyadh King Khalid airport was hit Oct 10 (13 killed). Saudi-led strikes hit Sanaa-area fuel sites. Houthis swept to Bab el-Mandeb in September; Saudi-backed forces later pressed toward Mokha.",
+      "analysis": {
+       "text": "Stated Houthi motive is retaliation for Saudi strikes in Yemen; as Iran's proxy they open a second chokepoint (Bab el-Mandeb) while Hormuz burns, multiplying oil and Red Sea shipping risk without Tehran owning every shot.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/"
+       },
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001752/saudi-arabia-issues-new-security-alerts-after-houthi-rebels-hit-saudi-oil-company"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/saudi-arabia-yemen-strikes-mideast-conflict-riyadh-c81a91347c00b17097c8fafde7e4eeec"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "saudi-arabia",
+       "aramco",
+       "yemen",
+       "iran",
+       "bab-el-mandeb",
+       "red-sea",
+       "petroleum",
+       "mohammed-bin-salman"
+      ],
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "houthis-hit-aramco",
+        "why": "Continuation of the Oct Houthi campaign against Saudi oil and airports",
+        "confidence": "likely"
+       },
+       {
+        "story": "gfs-pride-sunk",
+        "why": "Same Iran-linked Gulf crisis: Hormuz pressure plus Red Sea/Bab el-Mandeb second front",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "hormuz-attacks-surge",
+       "gfs-pride-sunk"
+      ]
+     },
+     "kabila-frn-succeeds-afc": {
+      "id": "kabila-frn-succeeds-afc",
+      "date": "2026-10-14",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Africa",
+      "title": "Kabila's FRN dissolves AFC/M23 umbrella, claims Doha peace commitments",
+      "summary": "In a Goma statement dated Oct 14, the Front for the Refoundation of the Nation (FRN) led by ex-president Joseph Kabila said it had dissolved the Congo River Alliance (AFC) and assumed AFC's rights and Doha-process obligations. FRN was launched Oct 12 with M23 figures (incl. Sultani Makenga) as deputies. UN envoy Huang Xia told the Security Council a 'window of opportunity' remains via US- and Qatar-led tracks; illicit mineral trade still funds armed groups. M23 still holds Rubaya (~15% of world coltan).",
+      "analysis": {
+       "text": "Stated aim is national refoundation and honoring Doha; actual move consolidates Kabila's open leadership of the Rwanda-accused M23 mineral machine while keeping a diplomatic off-ramp. US–DRC minerals pact and AI/electronics demand make Rubaya leverage real.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "ChimpReports",
+        "url": "https://chimpreports.com/kabila-led-frn-dissolves-m23-afc/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo"
+       },
+       {
+        "name": "Business Day",
+        "url": "https://www.businessday.co.za/world/africa/2026-10-13-kabila-forms-new-coalition-with-m23-rebel-leaders/"
+       }
+      ],
+      "entities": [
+       "joseph-kabila",
+       "m23",
+       "drc",
+       "rwanda",
+       "rubaya",
+       "coltan",
+       "united-states",
+       "china"
+      ],
+      "storylines": [
+       "drc-m23-minerals",
+       "ai-compute-minerals"
+      ],
+      "causes": [
+       {
+        "story": "kabila-m23",
+        "why": "FRN is the formal successor structure to the Oct 12 Kabila–M23 coalition announcement",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "ai-minerals"
+      ]
+     },
+     "gfs-pride-sunk": {
+      "id": "gfs-pride-sunk",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Middle East",
+      "title": "Singapore-flagged GFS Pride sinks in Hormuz after projectile strike",
+      "summary": "The Singapore-registered container ship GFS Pride sank in the Strait of Hormuz after being struck by an unidentified projectile; all 21 crew were evacuated uninjured (Singapore MPA). UKMTO had reported the attack Tuesday; sister ship GFS Giselle was damaged. IRGC claimed a naval mine on an 'unauthorised' route; maritime firm Marisks said there is no independent evidence of mining. Reuters quoted Iranian officials saying Tehran is changing shipping tactics to keep oil prices high ahead of the Nov 3 US midterms. More than 20 vessels have been attacked this month in Hormuz, the Gulf and Gulf of Oman (UKMTO).",
+      "analysis": {
+       "text": "Stated motive is enforcing Iran's transit rules after the US blockade; real leverage is midterm oil-price pressure and forcing Washington to trade sanctions/blockade relief for shipping safety. Expanding beyond tankers to containers raises insurance and rerouting costs globally.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/10/15/fire-sinking-and-reported-scramble-for-cargo-what-we-know-about-ship-lost-in-strait-of-hormuz/"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
+       },
+       {
+        "name": "Al-Monitor / Reuters",
+        "url": "https://www.al-monitor.com/originals/2026/10/two-ships-sink-near-hormuz-after-being-hit-projectiles-amid-surge-attacks"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "petroleum",
+       "persian-gulf",
+       "donald-trump"
+      ],
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "hormuz-attacks-surge",
+        "why": "Continuation of the Oct surge in Iranian strikes on commercial shipping",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "venezuela-oil"
+      ]
+     },
+     "pla-patrol-oct14-15": {
+      "id": "pla-patrol-oct14-15",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Asia-Pacific",
+      "title": "Taiwan tracks 15 PLA aircraft and 10 PLAN ships; median-line crossings continue",
+      "summary": "Taiwan's MND reported that from 06:00 Oct 14 to 06:00 Oct 15 it tracked 15 PLA aircraft, 10 PLAN ships and seven official ships; 13 aircraft crossed the median line into northern, central, southwestern and eastern ADIZ sectors. On Oct 14 alone it had reported 13 sorties with 11 median-line crossings during a 'joint combat readiness patrol.' China's announced live-fire window runs Oct 12–17.",
+      "analysis": {
+       "text": "Stated PLA framing is routine combat readiness; pressure after Lai's speech keeps Taiwan and US allies reacting while China retains rare-earth and chip-supply leverage into the Nov 10 control-suspension date.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "Taiwan MND",
+        "url": "https://www.mnd.gov.tw/EN/News/PLAAct/87996"
+       },
+       {
+        "name": "Taiwan MND (prior day)",
+        "url": "https://www.mnd.gov.tw/en/Publication/87988"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "pla",
+       "china",
+       "lai-ching-te",
+       "united-states",
+       "rare-earths"
+      ],
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "pla-drills",
+        "why": "Continuation of the Oct 12–17 live-fire / readiness patrol cycle after Lai's speech",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "pla-drills",
+       "rare-earth-nov10"
+      ]
+     },
+     "energy-ceasefire": {
+      "id": "energy-ceasefire",
+      "date": "2026-10-13",
+      "region": "Russia/Eurasia",
+      "title": "Russia spares Ukrainian energy for first time since Trump's 'energy ceasefire', pounds cities",
+      "summary": "Overnight into Oct 13, Russia struck cities and transport, killing at least four in Kharkiv, but hit no energy targets. On Oct 12 it had struck six energy sites. Neither side has confirmed the ceasefire, and the Kremlin rejected a 60-day truce.",
+      "analysis": {
+       "text": "The pause is fragile and unverifiable heading into winter.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire"
+       },
+       {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/en/international/20261013-eu-cautious-over-trump-s-energy-ceasefire-as-russia-continues-ukraine-attacks"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/10/13/europe/ukraine-zelensky-missile-latam-intl"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "european-union",
+       "kharkiv"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "2022-10-10-energy-strikes",
+       "diesel-deal"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-10-energy-strikes",
+        "why": "Energy-strike war began in October 2022",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "marker": "strike",
+      "where": [
+       "kharkiv"
+      ]
+     },
+     "diesel-deal": {
+      "id": "diesel-deal",
+      "date": "2026-10-13",
+      "region": "Russia/Eurasia",
+      "title": "US hopes Russian diesel deal can 'soften' Moscow on peace talks",
+      "summary": "Witkoff and Kushner told Ukrainian officials that a deal for Russia to supply more than 2.25M barrels of diesel could revive talks, and urged Kyiv to stop striking Russian refineries. Zelensky called it a 'gift to Putin.'",
+      "analysis": {
+       "text": "High oil prices from the Gulf war give Russia energy leverage over US policy.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "Reuters via Korea Times",
+        "url": "https://www.koreatimes.co.kr/world/20261013/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "united-states",
+       "steve-witkoff",
+       "volodymyr-zelenskyy",
+       "petroleum",
+       "donald-trump"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "russia-ukraine",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-24-invasion",
+       "2022-03-08-us-oil-ban",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "energy-ceasefire",
+       "venezuela-oil"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-03-eu-oil-embargo",
+        "why": "Embargo rerouted Russian products and created today's leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-09-02-price-cap",
+        "why": "Price-cap regime shapes Russian product sales",
+        "confidence": "possible"
+       }
+      ],
+      "effects": []
+     },
+     "houthis-hit-aramco": {
+      "id": "houthis-hit-aramco",
+      "date": "2026-10-14",
+      "region": "Middle East",
+      "title": "Houthis vow more attacks on Saudi airports and oil after hitting Aramco HQ",
+      "summary": "On Oct 14 the Houthis vowed to keep striking Saudi airports and oil facilities, a day after a strike sources say badly damaged Aramco headquarters in Dhahran. An attack on Riyadh's King Khalid airport killed 13. The Houthis call this retaliation for Saudi backing of Yemeni government forces.",
+      "analysis": {
+       "text": "Iran gets a deniable second front against Gulf energy, while the Houthis pursue their own goal of holding the Red Sea coast and its revenue.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "Reuters via Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-vow-more-attacks-saudi-airports-oil-facilities-after-aramco-hq-hit"
+       },
+       {
+        "name": "ISW",
+        "url": "https://understandingwar.org/research/middle-east/iran-update-october-8-2026/"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "saudi-arabia",
+       "aramco",
+       "yemen",
+       "iran",
+       "petroleum",
+       "red-sea",
+       "persian-gulf",
+       "united-states",
+       "dhahran",
+       "riyadh"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2022-01-21-saada-strike",
+       "2022-01-abu-dhabi-attack",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-07-15-biden-saudi",
+       "2022-10-02-truce-expires",
+       "2022-10-05-opec-cut",
+       "hormuz-attacks-surge",
+       "saudi-offensive-mokha"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-25-jeddah-attack",
+        "why": "Same Houthi playbook of striking Aramco to coerce Riyadh",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-10-02-truce-expires",
+        "why": "De-escalation of 2022 never became a settlement",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "marker": "strike",
+      "where": [
+       "dhahran",
+       "riyadh"
+      ]
+     },
+     "kabila-m23": {
+      "id": "kabila-m23",
+      "date": "2026-10-14",
+      "region": "Africa",
+      "title": "Ex-DRC president Kabila launches coalition replacing M23-AFC",
+      "summary": "On Oct 13 Joseph Kabila launched a new political-military coalition to replace M23-AFC, which holds large areas of eastern DRC, including Goma.",
+      "analysis": {
+       "text": "Defections from the Congolese army and a collapse of the US/Qatar peace tracks are the main risks.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters"
+       }
+      ],
+      "entities": [
+       "joseph-kabila",
+       "m23",
+       "drc",
+       "rwanda",
+       "rubaya",
+       "coltan",
+       "united-states"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "related_stories": [
+       "2022-06-13-bunagana",
+       "ai-minerals",
+       "rubaya-coltan"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-13-bunagana",
+        "why": "M23's 2022 resurgence began today's war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": []
+     },
+     "hormuz-attacks-surge": {
+      "id": "hormuz-attacks-surge",
+      "date": "2026-10-14",
+      "region": "Middle East",
+      "title": "Iran steps up Hormuz surveillance as tanker attacks soar and oil flows crash",
+      "summary": "Iran deployed new units to watch the Strait of Hormuz. Kpler counted 10 tankers struck Sep 28–Oct 4; UKMTO counted 15 attacks Oct 6–14 (11 in the last four days). Flows fell from ~20.8M bbl on Oct 8 to 2.9M on Oct 11 (pre-war average 17.1M/day). The US keeps up its blockade of Iranian ports.",
+      "analysis": {
+       "text": "Iran is using control of the strait as bargaining leverage for sanctions relief, its frozen assets and an end to the blockade.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "petroleum",
+       "persian-gulf",
+       "saudi-arabia"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2022-03-25-jeddah-attack",
+       "2022-03-27-negev-summit",
+       "2022-07-15-biden-saudi",
+       "2022-10-05-opec-cut",
+       "houthis-hit-aramco",
+       "kataib-hezbollah-halt",
+       "us-iran-talks-deadlock",
+       "venezuela-oil"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-05-opec-cut",
+        "why": "OPEC+/Saudi oil leverage and US–Gulf friction persisted into the 2026 Gulf crisis",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": []
+     },
+     "pla-drills": {
+      "id": "pla-drills",
+      "date": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "PLA live-fire drills in five sea areas after Lai speech; 11 aircraft cross median line",
+      "summary": "China set drills Oct 12–17 in five sea areas while attacking President Lai's speech. Taiwan's MND reported 13 aircraft on Oct 14, 11 of which crossed the median line. China is also reportedly slowing germanium and quartz exports to Taiwan.",
+      "analysis": {
+       "text": "This is calibrated coercion rather than a sign of imminent action.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "Taiwan Defence",
+        "url": "https://taiwandefence.com/article/chinas-military-sets-live-fire-drills-in-five-sea-areas-this-week-as-beijing-attacks-lais-speech"
+       },
+       {
+        "name": "ROC MND",
+        "url": "https://www.mnd.gov.tw/en/News/PressRelease/87988"
+       },
+       {
+        "name": "Die Signal",
+        "url": "https://diesignal.com/articles/china-slows-critical-material-exports-to-taiwan-hitting-chip-supply-chain-97fe726d"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan",
+       "gallium"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific"
+      ],
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "rare-earth-nov10"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "2022 drills set the template for encirclement exercises",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "marker": "military",
+      "unplaced": "The drills were five sea areas, not one point."
+     }
+    },
     "zones": {},
     "links": {},
     "relationships": {},
     "storylines": {},
     "entities": {},
-    "entities_added": [],
+    "entities_added": [
+     "aden",
+     "goma",
+     "medina",
+     "ryazan"
+    ],
     "date_saved": false,
     "hotzones_date": null
    }
