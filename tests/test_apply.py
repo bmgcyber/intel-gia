@@ -60,7 +60,11 @@ def wiki_ok(_url):
 def shock(summary="Japanese aircraft attacked the US Pacific Fleet at Pearl Harbor.", severity="critical", name="Pearl Harbor"):
     return {
         "edition": "1941-12-07",
-        "entities": [{"id": "pearl-harbor", "name": name, "type": "place", "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor"}],
+        "entities": [{
+            "id": "pearl-harbor", "name": name, "type": "place",
+            "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+            "lat": 21.3679, "lon": -157.9771, "precision": "feature",
+        }],
         "zones": [{
             "id": "hawaii", "name": "Hawaii", "lat": 21.36, "lon": -157.95, "severity": severity,
             "note": "Pacific Fleet attacked", "entities": ["pearl-harbor", "united-states", "japan"],
@@ -70,6 +74,7 @@ def shock(summary="Japanese aircraft attacked the US Pacific Fleet at Pearl Harb
             "title": "Japan attacks Pearl Harbor", "summary": summary,
             "sources": [{"name": "Example", "url": "https://example.com/pearl"}],
             "entities": ["japan", "united-states", "pearl-harbor"],
+            "where": ["pearl-harbor"], "marker": "strike",
             "causes": [{"story": "1941-11-26-hull-note", "why": "Diplomacy had already failed.", "confidence": "likely"}],
         }],
     }
@@ -153,6 +158,7 @@ class ApplyTests(unittest.TestCase):
                 "title": "The United States declares war", "summary": "Congress declared war on Japan.",
                 "sources": [{"name": "Example", "url": "https://example.com/war"}],
                 "entities": ["united-states", "japan"],
+                "marker": "political", "unplaced": "Congress declared war in Washington, and the record names no single building.",
                 "causes": [{"story": "1941-12-07-pearl-harbor", "why": "The attack was the immediate cause.", "confidence": "likely"}],
             }],
         })
@@ -174,6 +180,7 @@ class ApplyTests(unittest.TestCase):
                 "title": "The United States declares war", "summary": "Congress declared war on Japan.",
                 "sources": [{"name": "Example", "url": "https://example.com/war"}],
                 "entities": ["japan", "united-states"],
+                "marker": "political", "unplaced": "Congress declared war in Washington, and the record names no single building.",
             }],
         })
         apply_all(root, wikipedia=wiki_ok)
@@ -308,6 +315,7 @@ class ApplyTests(unittest.TestCase):
                 "title": "Apply test", "summary": "This story exists only in a test copy.",
                 "sources": [{"name": "Test", "url": "https://example.com/apply-test"}],
                 "entities": ["iran", "united-states"],
+                "marker": "political", "unplaced": "This test story names no place.",
                 "causes": [{"story": "gfs-pride-sunk", "why": "Test link into the archive.", "confidence": "possible"}],
             }],
         })
@@ -321,6 +329,144 @@ class ApplyTests(unittest.TestCase):
         self.assertEqual(pride["summary"], before_summary)
         self.assertIn("2026-10-16-apply-test", pride.get("related_stories") or [])
         self.assertEqual(read(root / "data" / "hotzones.json")["date"], before_zones)
+
+    def test_country_is_not_a_pin(self):
+        root = fixture()
+        packet = shock()
+        packet["stories"][0]["where"] = ["japan"]
+        drop(root, "1941-12-07", packet)
+        before = hashes(root)
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("not a placed location", str(caught.exception))
+        self.assertEqual(before, hashes(root))
+
+    def test_unknown_place_is_rejected(self):
+        root = fixture()
+        packet = shock()
+        packet["stories"][0]["where"] = ["midway"]
+        drop(root, "1941-12-07", packet)
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("unknown place midway", str(caught.exception))
+
+    def test_new_place_needs_coordinates(self):
+        root = fixture()
+        packet = shock()
+        for key in ("lat", "lon", "precision"):
+            del packet["entities"][0][key]
+        drop(root, "1941-12-07", packet)
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("lat must be a latitude", str(caught.exception))
+
+    def test_where_and_unplaced_conflict(self):
+        root = fixture()
+        packet = shock()
+        packet["stories"][0]["unplaced"] = "Somewhere in the Pacific."
+        drop(root, "1941-12-07", packet)
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("cannot set both where and unplaced", str(caught.exception))
+
+    def test_conflicting_coordinate_needs_a_correction(self):
+        root = fixture()
+        drop(root, "1941-12-07", shock())
+        apply_all(root, wikipedia=wiki_ok)
+        drop(root, "1941-12-08", {
+            "edition": "1941-12-08",
+            "entities": [{
+                "id": "pearl-harbor", "name": "Pearl Harbor", "type": "place",
+                "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+                "lat": 21.3, "lon": -157.9, "precision": "feature",
+            }],
+            "stories": [{
+                "id": "1941-12-08-declaration", "date": "1941-12-08", "region": "Asia-Pacific",
+                "title": "The United States declares war", "summary": "Congress declared war on Japan.",
+                "sources": [{"name": "Example", "url": "https://example.com/war"}],
+                "entities": ["japan", "united-states"],
+                "marker": "political", "unplaced": "Congress declared war in Washington, and the record names no single building.",
+            }],
+        })
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("place_corrections", str(caught.exception))
+        entity = next(e for e in read(root / "data" / "entities.json") if e["id"] == "pearl-harbor")
+        self.assertEqual(entity["lat"], 21.3679)
+
+    def test_place_correction_updates_and_republish_rolls_back(self):
+        root = fixture()
+        drop(root, "1941-12-07", shock())
+        apply_all(root, wikipedia=wiki_ok)
+        drop(root, "1941-12-08", {
+            "edition": "1941-12-08",
+            "place_corrections": [{
+                "id": "pearl-harbor", "lat": 21.35, "lon": -157.96, "precision": "feature",
+                "why": "The pin marks the harbor basin.",
+            }],
+        })
+        notes = apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("1 place correction", notes[-1])
+        entity = next(e for e in read(root / "data" / "entities.json") if e["id"] == "pearl-harbor")
+        self.assertEqual(entity["lat"], 21.35)
+        self.assertEqual(entity["location_revisions"][0]["edition"], "1941-12-08")
+        self.assertIn("harbor basin", entity["location_revisions"][0]["why"])
+        drop(root, "1941-12-08", {
+            "edition": "1941-12-08",
+            "stories": [{
+                "id": "1941-12-08-declaration", "date": "1941-12-08", "region": "Asia-Pacific",
+                "title": "The United States declares war", "summary": "Congress declared war on Japan.",
+                "sources": [{"name": "Example", "url": "https://example.com/war"}],
+                "entities": ["japan", "united-states"],
+                "marker": "political", "unplaced": "Congress declared war in Washington, and the record names no single building.",
+            }],
+        })
+        apply_all(root, wikipedia=wiki_ok)
+        entity = next(e for e in read(root / "data" / "entities.json") if e["id"] == "pearl-harbor")
+        self.assertEqual(entity["lat"], 21.3679)
+        self.assertNotIn("location_revisions", entity)
+
+    def test_same_packet_place_correction_is_rejected(self):
+        root = fixture()
+        packet = shock()
+        packet["place_corrections"] = [{
+            "id": "pearl-harbor", "lat": 21.35, "lon": -157.96, "precision": "feature",
+            "why": "Put these on the entity instead.",
+        }]
+        drop(root, "1941-12-07", packet)
+        with self.assertRaises(PacketError) as caught:
+            apply_all(root, wikipedia=wiki_ok)
+        self.assertIn("put the coordinates on the entity", str(caught.exception))
+
+    def test_correction_can_place_a_story(self):
+        root = fixture()
+        drop(root, "1941-12-07", shock())
+        apply_all(root, wikipedia=wiki_ok)
+        drop(root, "1941-12-08", {
+            "edition": "1941-12-08",
+            "corrections": [{
+                "id": "1941-11-26-hull-note", "why": "The note was delivered in Washington, but the placed record we have is the harbor it led to.",
+                "where": ["pearl-harbor"], "marker": "diplomacy",
+            }],
+        })
+        apply_all(root, wikipedia=wiki_ok)
+        hull = next(s for s in read(root / "data" / "stories.json") if s["id"] == "1941-11-26-hull-note")
+        self.assertEqual(hull["where"], ["pearl-harbor"])
+        self.assertEqual(hull["marker"], "diplomacy")
+        self.assertNotIn("unplaced", hull)
+        self.assertEqual(hull["edition"], "1941-11-26")
+        drop(root, "1941-12-09", {
+            "edition": "1941-12-09",
+            "corrections": [{
+                "id": "1941-12-07-pearl-harbor", "why": "The slide should say the pin is not a single building.",
+                "unplaced": "The attack covered the harbor, not one building.",
+                "marker": "strike",
+            }],
+        })
+        apply_all(root, wikipedia=wiki_ok)
+        pearl = next(s for s in read(root / "data" / "stories.json") if s["id"] == "1941-12-07-pearl-harbor")
+        self.assertNotIn("where", pearl)
+        self.assertEqual(pearl["unplaced"], "The attack covered the harbor, not one building.")
 
 if __name__ == "__main__":
     unittest.main()

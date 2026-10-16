@@ -1,0 +1,17 @@
+{
+  "name": "gia-ingest",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-15",
+  "workers_dev": true,
+  "observability": {
+    "enabled": true,
+    "logs": { "enabled": true, "head_sampling_rate": 1 },
+    "traces": { "enabled": true, "head_sampling_rate": 1 }
+  },
+  // Secrets GITHUB_TOKEN and INGEST_SECRET are set in the dashboard, not here.
+  "vars": {
+    "GITHUB_OWNER": "bmgcyber",
+    "GITHUB_REPO": "intel-gia",
+    "GITHUB_BRANCH": "main"
+  }
+}

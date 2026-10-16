@@ -18,16 +18,20 @@ KINDS = {"event", "daily-brief", "analysis", "backfill"}
 ENTITY_TYPES = {"country", "group", "person", "place", "organization", "theme"}
 REL_TYPES = {"alliance", "rivalry", "patron-proxy", "supplier", "sanction"}
 SEVERITY = {"critical", "high", "elevated", "watch"}
+PLACE_PRECISIONS = {"city", "sector", "feature"}
+MARKERS = {"military", "strike", "diplomacy", "energy", "political"}
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-PACKET_KEYS = {"edition", "entities", "storylines", "zones", "links", "relationships", "stories", "corrections"}
-STORY_KEYS = {"id", "date", "date_precision", "kind", "era", "edition", "region", "title", "summary", "analysis", "sources", "entities", "storylines", "causes"}
-CORRECTION_FIELDS = ["title", "summary", "analysis", "sources", "entities", "storylines", "causes", "region", "date", "date_precision", "kind", "era"]
+PACKET_KEYS = {"edition", "entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections"}
+STORY_KEYS = {"id", "date", "date_precision", "kind", "era", "edition", "region", "title", "summary", "analysis", "sources", "entities", "storylines", "causes", "where", "marker", "unplaced"}
+CORRECTION_FIELDS = ["title", "summary", "analysis", "sources", "entities", "storylines", "causes", "region", "date", "date_precision", "kind", "era", "where", "marker", "unplaced"]
 ENTITY_KEYS = {"id", "name", "type", "wikipedia"}
+PLACE_KEYS = ENTITY_KEYS | {"lat", "lon", "precision"}
 ZONE_KEYS = {"id", "name", "lat", "lon", "severity", "note", "entities", "stories", "label_dx", "label_dy"}
 LINK_KEYS = {"id", "from", "to", "label", "entities", "stories"}
 REL_KEYS = {"id", "a", "b", "type", "start", "end", "stated", "actual", "confidence", "evidence"}
 LINE_KEYS = {"id", "name", "entities", "stories", "source"}
-LIST_KEYS = ("entities", "storylines", "zones", "links", "relationships", "stories", "corrections")
+PLACE_CORRECTION_KEYS = {"id", "lat", "lon", "precision", "why"}
+LIST_KEYS = ("entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections")
 
 class PacketError(Exception):
     def __init__(self, errors):
@@ -197,7 +201,84 @@ def check_id_list(value, path, known, errors, label):
             errors.append(f"{path}: unknown {label} {ident}")
 
 def same_entity(have, want):
-    return all(have.get(k) == want.get(k) for k in ("id", "name", "type", "wikipedia"))
+    keys = ["id", "name", "type", "wikipedia"]
+    if any(k in have or k in want for k in ("lat", "lon", "precision")):
+        keys += ["lat", "lon", "precision"]
+    return all(have.get(k) == want.get(k) for k in keys)
+
+def check_coords(item, path, errors):
+    lat, lon = item.get("lat"), item.get("lon")
+    ok = True
+    if not is_num(lat) or not -90 <= lat <= 90:
+        errors.append(f"{path}.lat must be a latitude")
+        ok = False
+    if not is_num(lon) or not -180 <= lon <= 180:
+        errors.append(f"{path}.lon must be a longitude")
+        ok = False
+    if item.get("precision") not in PLACE_PRECISIONS:
+        errors.append(f"{path}.precision must be city, sector, or feature")
+        ok = False
+    return ok
+
+def is_placed(entity):
+    if not entity or entity.get("type") != "place":
+        return False
+    lat, lon = entity.get("lat"), entity.get("lon")
+    return (
+        is_num(lat) and is_num(lon)
+        and -90 <= lat <= 90 and -180 <= lon <= 180
+        and entity.get("precision") in PLACE_PRECISIONS
+    )
+
+def placed_ids(corpus, lists, prior_entities=None):
+    prior_entities = prior_entities or {}
+    found = set()
+    for ident, entity in corpus.entity.items():
+        base = prior_entities[ident] if ident in prior_entities and prior_entities[ident] else entity
+        if is_placed(base):
+            found.add(ident)
+    for item in lists["entities"]:
+        if item.get("type") == "place" and check_coords(item, "entities", []):
+            found.add(item["id"])
+    for item in lists["place_corrections"]:
+        have = corpus.entity.get(item.get("id"))
+        if have and have.get("type") == "place" and check_coords(item, "place_corrections", []):
+            found.add(item["id"])
+    return found
+
+def check_marker(item, path, errors, required):
+    if "marker" not in item:
+        if required:
+            errors.append(f"{path}.marker must be military, strike, diplomacy, energy, or political")
+        return
+    if item.get("marker") not in MARKERS:
+        errors.append(f"{path}.marker must be military, strike, diplomacy, energy, or political")
+
+def check_location(item, path, errors, places, entities, required):
+    has_where = "where" in item
+    has_unplaced = "unplaced" in item
+    if has_where and has_unplaced:
+        errors.append(f"{path} cannot set both where and unplaced")
+        return
+    if has_unplaced:
+        if not isinstance(item.get("unplaced"), str) or not item["unplaced"].strip():
+            errors.append(f"{path}.unplaced must be a non-empty string")
+        return
+    if has_where:
+        where = item.get("where")
+        if not isinstance(where, list) or not where or not all(isinstance(i, str) for i in where):
+            errors.append(f"{path}.where must list at least one place")
+            return
+        for ident in where:
+            if ident in places:
+                continue
+            if ident in entities:
+                errors.append(f"{path}.where: {ident} is not a placed location")
+            else:
+                errors.append(f"{path}.where: unknown place {ident}")
+        return
+    if required:
+        errors.append(f"{path} needs where or unplaced")
 
 class Corpus:
     def __init__(self, root):
@@ -243,6 +324,7 @@ class Undo:
     def __init__(self):
         self.stories, self.zones, self.links = {}, {}, {}
         self.relationships, self.storylines = {}, {}
+        self.entities = {}
         self.entities_added = []
         self.date_saved = False
         self.hotzones_date = None
@@ -251,6 +333,7 @@ class Undo:
         return {
             "stories": self.stories, "zones": self.zones, "links": self.links,
             "relationships": self.relationships, "storylines": self.storylines,
+            "entities": self.entities,
             "entities_added": self.entities_added, "date_saved": self.date_saved,
             "hotzones_date": self.hotzones_date,
         }
@@ -260,6 +343,7 @@ class Undo:
         undo = cls()
         for name in ("stories", "zones", "links", "relationships", "storylines"):
             setattr(undo, name, (raw or {}).get(name) or {})
+        undo.entities = (raw or {}).get("entities") or {}
         undo.entities_added = list((raw or {}).get("entities_added") or [])
         undo.date_saved = bool((raw or {}).get("date_saved"))
         undo.hotzones_date = (raw or {}).get("hotzones_date")
@@ -295,6 +379,12 @@ def restore(corpus, undo):
     if undo.storylines:
         corpus.storylines = put_back(corpus.storylines, undo.storylines)
         corpus.dirty.add("storylines")
+    if undo.entities:
+        by = {item["id"]: i for i, item in enumerate(corpus.entities)}
+        for ident, before in undo.entities.items():
+            if before and ident in by:
+                corpus.entities[by[ident]] = copy.deepcopy(before)
+        corpus.dirty.add("entities")
     corpus.reindex()
 
 def path_ids(paths):
@@ -368,6 +458,13 @@ def integrity(corpus):
             req(ident, stories, story["id"], "story")
         for cause in story.get("causes") or []:
             req(cause.get("story"), stories, story["id"], "cause")
+        if story.get("where") and story.get("unplaced"):
+            errors.append(f"integrity: {story['id']} sets both where and unplaced")
+        if "marker" in story and story.get("marker") not in MARKERS:
+            errors.append(f"integrity: {story['id']} has an unknown marker")
+        for ident in story.get("where") or []:
+            if not is_placed(corpus.entity.get(ident)):
+                errors.append(f"integrity: {story['id']} where {ident} is not a placed location")
     for zone in corpus.hotzones.get("zones", []):
         for ident in zone.get("entities") or []:
             req(ident, entities, zone["id"], "entity")
@@ -392,7 +489,7 @@ def integrity(corpus):
             req(ident, stories, line["id"], "story")
     return errors
 
-def validate(corpus, packet, edition, gone, owned, wikipedia):
+def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=None):
     errors = []
     unknown(packet, PACKET_KEYS, "packet", errors)
     if packet.get("edition") != edition:
@@ -408,15 +505,20 @@ def validate(corpus, packet, edition, gone, owned, wikipedia):
 
     for item in lists["entities"]:
         path = f"entities.{item['id']}"
-        unknown(item, ENTITY_KEYS, path, errors)
+        unknown(item, PLACE_KEYS if item.get("type") == "place" else ENTITY_KEYS, path, errors)
         need_str(item, "name", path, errors)
         if item.get("type") not in ENTITY_TYPES:
             errors.append(f"{path}.type must be a known entity type")
+        have = corpus.entity.get(item["id"])
+        if item.get("type") == "place" and (have is None or any(k in item for k in ("lat", "lon", "precision"))):
+            check_coords(item, path, errors)
         if check_url(item.get("wikipedia"), f"{path}.wikipedia", errors, wikipedia=True):
-            have = corpus.entity.get(item["id"])
             if have and item["id"] not in owned:
+                moved = any(k in item and have.get(k) != item.get(k) for k in ("lat", "lon", "precision"))
                 if same_entity(have, item):
                     errors.append(f"{path} already exists; omit it")
+                elif moved:
+                    errors.append(f"{path} coordinates can only change through place_corrections")
                 else:
                     errors.append(f"{path} already exists and cannot be changed by a later edition")
             elif have and item["id"] in owned:
@@ -549,6 +651,8 @@ def validate(corpus, packet, edition, gone, owned, wikipedia):
         if any(isinstance(c, dict) and c.get("story") == item["id"] for c in causes or []):
             errors.append(f"{path} cannot cause itself")
         check_causes(causes, path, known_stories - {item["id"]}, errors)
+        check_marker(item, path, errors, required=True)
+        check_location(item, path, errors, placed_ids(corpus, lists, prior_entities), known_entities, required=True)
 
     for item in lists["corrections"]:
         path = f"corrections.{item['id']}"
@@ -579,13 +683,37 @@ def validate(corpus, packet, edition, gone, owned, wikipedia):
             check_sources(item.get("sources"), path, errors)
         check_id_list(item.get("entities"), f"{path}.entities", known_entities, errors, "entity")
         check_id_list(item.get("storylines"), f"{path}.storylines", known_lines, errors, "storyline")
+        check_marker(item, path, errors, required=False)
+        check_location(item, path, errors, placed_ids(corpus, lists, prior_entities), known_entities, required=False)
         if "causes" in item:
             if any(isinstance(c, dict) and c.get("story") == item["id"] for c in item.get("causes") or []):
                 errors.append(f"{path} cannot cause itself")
             check_causes(item.get("causes"), path, known_stories - {item["id"]}, errors)
         changed = any(have.get(k) != item.get(k) for k in CORRECTION_FIELDS if k in item)
+        if "where" in item and have.get("unplaced") and "unplaced" not in item:
+            changed = True
+        if "unplaced" in item and have.get("where") and "where" not in item:
+            changed = True
         if not changed:
             errors.append(f"{path} matches the story already on file")
+
+    declared = {e["id"] for e in lists["entities"]}
+    for item in lists["place_corrections"]:
+        path = f"place_corrections.{item['id']}"
+        unknown(item, PLACE_CORRECTION_KEYS, path, errors)
+        need_str(item, "why", path, errors)
+        if item["id"] in declared or item["id"] in owned:
+            errors.append(f"{path} is declared in this packet; put the coordinates on the entity")
+            continue
+        have = corpus.entity.get(item["id"])
+        if have is None or have.get("type") != "place":
+            errors.append(f"{path} is not an existing place")
+            continue
+        base = prior_entities.get(item["id"]) if prior_entities and prior_entities.get(item["id"]) else have
+        if not check_coords(item, path, errors):
+            continue
+        if (base.get("lat"), base.get("lon"), base.get("precision")) == (item.get("lat"), item.get("lon"), item.get("precision")):
+            errors.append(f"{path} does not change the place")
 
     latest = max(corpus.ledger.get("packets") or {"": {}})
     if latest and edition < latest and (lists["zones"] or lists["links"]):
@@ -603,12 +731,22 @@ def apply_changes(corpus, lists, edition, owned, counts):
     for item in lists["entities"]:
         have = corpus.entity.get(item["id"])
         if have and item["id"] in owned:
-            if not same_entity(have, item):
-                have.update({k: item[k] for k in ("name", "type", "wikipedia")})
+            updates = {k: item[k] for k in ("name", "type", "wikipedia")}
+            if item.get("type") == "place":
+                for key in ("lat", "lon", "precision"):
+                    if key in item:
+                        updates[key] = item[key]
+            if any(have.get(k) != v for k, v in updates.items()):
+                if any(have.get(k) != updates.get(k) for k in ("lat", "lon", "precision") if k in updates):
+                    remember(undo.entities, item["id"], have)
+                have.update(updates)
                 counts["entity"] += 1
                 corpus.dirty.add("entities")
         elif have is None:
-            corpus.entities.append({k: item[k] for k in ("id", "name", "type", "wikipedia")})
+            stored = {k: item[k] for k in ("id", "name", "type", "wikipedia")}
+            if item.get("type") == "place":
+                stored.update({k: item[k] for k in ("lat", "lon", "precision")})
+            corpus.entities.append(stored)
             counts["entity"] += 1
             corpus.dirty.add("entities")
             corpus.reindex()
@@ -735,6 +873,11 @@ def apply_changes(corpus, lists, edition, owned, counts):
             stored["storylines"] = list(item["storylines"])
         if item.get("era"):
             stored["era"] = item["era"]
+        stored["marker"] = item["marker"]
+        if item.get("where"):
+            stored["where"] = list(item["where"])
+        if item.get("unplaced"):
+            stored["unplaced"] = item["unplaced"]
         corpus.stories.append(stored)
         touched.append(item["id"])
         counts["story"] += 1
@@ -751,6 +894,12 @@ def apply_changes(corpus, lists, edition, owned, counts):
                 changed.append(key)
         if "date" in item and "date_precision" not in item:
             story["date_precision"] = precision_of(item["date"])
+        if "where" in item and story.get("unplaced"):
+            story.pop("unplaced", None)
+            changed.append("unplaced")
+        if "unplaced" in item and story.get("where"):
+            story.pop("where", None)
+            changed.append("where")
         story.setdefault("revisions", []).append({"edition": edition, "why": item["why"], "fields": changed})
         touched.append(item["id"])
         counts["correction"] += 1
@@ -765,6 +914,19 @@ def apply_changes(corpus, lists, edition, owned, counts):
             corpus.hotzones["date"] = edition
             corpus.dirty.add("hotzones")
 
+    for item in lists["place_corrections"]:
+        have = corpus.entity[item["id"]]
+        remember(undo.entities, item["id"], have)
+        have["lat"] = item["lat"]
+        have["lon"] = item["lon"]
+        have["precision"] = item["precision"]
+        have.setdefault("location_revisions", []).append({
+            "edition": edition, "why": item["why"],
+            "lat": item["lat"], "lon": item["lon"], "precision": item["precision"],
+        })
+        counts["place"] += 1
+        corpus.dirty.add("entities")
+
     recompute_related(corpus, undo, touched)
     corpus.reindex()
     return undo
@@ -773,6 +935,7 @@ def format_counts(counts):
     parts = []
     for key, label in (
         ("story", "story"), ("correction", "correction"), ("entity", "entity"),
+        ("place", "place correction"),
         ("zone", "zone"), ("link", "link"), ("relationship", "relationship"),
         ("storyline", "storyline"),
     ):
@@ -811,7 +974,8 @@ def merge_packet(corpus, path, wikipedia):
         blocked = sorted((gone["stories"] - new_story_ids) & path_ids(corpus.paths))
         if blocked:
             raise PacketError([f"{path.name}: {', '.join(blocked)} is on a published path and must stay in the packet"])
-    errors, lists = validate(corpus, packet, edition, gone, owned, wikipedia)
+    prior_entities = Undo.from_json(previous.get("undo")).entities if replacing else {}
+    errors, lists = validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities)
     if errors:
         raise PacketError([f"{path.name}: {err}" for err in errors])
     if replacing:

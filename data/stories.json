@@ -135,7 +135,9 @@
    "petroleum",
    "red-sea",
    "persian-gulf",
-   "united-states"
+   "united-states",
+   "dhahran",
+   "riyadh"
   ],
   "date_precision": "day",
   "kind": "event",
@@ -169,7 +171,12 @@
     "confidence": "possible"
    }
   ],
-  "effects": []
+  "effects": [],
+  "marker": "strike",
+  "where": [
+   "dhahran",
+   "riyadh"
+  ]
  },
  {
   "id": "saudi-offensive-mokha",
@@ -305,7 +312,8 @@
    "ukraine",
    "donald-trump",
    "volodymyr-zelenskyy",
-   "european-union"
+   "european-union",
+   "kharkiv"
   ],
   "date_precision": "day",
   "kind": "event",
@@ -326,7 +334,11 @@
     "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "marker": "strike",
+  "where": [
+   "kharkiv"
+  ]
  },
  {
   "id": "diesel-deal",
@@ -458,7 +470,9 @@
     "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "marker": "political",
+  "unplaced": "The measures span China, the United States, and Japan. No single place is named."
  },
  {
   "id": "ai-minerals",
@@ -577,7 +591,9 @@
     "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "marker": "military",
+  "unplaced": "The drills were five sea areas, not one point."
  },
  {
   "id": "kabila-m23",
@@ -733,7 +749,11 @@
     "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "marker": "military",
+  "where": [
+   "kidal"
+  ]
  },
  {
   "id": "venezuela-oil",
@@ -966,7 +986,10 @@
    "ukraine",
    "nato",
    "united-states",
-   "vladimir-putin"
+   "vladimir-putin",
+   "yelnya",
+   "voronezh",
+   "crimea"
   ],
   "storylines": [
    "russia-ukraine"
@@ -995,6 +1018,12 @@
    "2022-09-21-mobilization",
    "2022-09-30-annexation",
    "diesel-deal"
+  ],
+  "marker": "military",
+  "where": [
+   "yelnya",
+   "voronezh",
+   "crimea"
   ]
  },
  {
@@ -1055,7 +1084,8 @@
    "nato",
    "united-states",
    "ukraine",
-   "vladimir-putin"
+   "vladimir-putin",
+   "moscow"
   ],
   "storylines": [
    "russia-ukraine"
@@ -1089,6 +1119,10 @@
    "2022-09-21-mobilization",
    "2022-09-30-annexation",
    "diesel-deal"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "moscow"
   ]
  },
  {
@@ -1183,7 +1217,9 @@
    "2022-05-16-mali-g5",
    "2022-09-30-burkina-coup2",
    "kidal"
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "The summary names Mali, not a town."
  },
  {
   "id": "2022-01-kazakhstan-unrest",
@@ -1230,7 +1266,8 @@
    "houthis",
    "uae",
    "yemen",
-   "iran"
+   "iran",
+   "abu-dhabi"
   ],
   "storylines": [
    "yemen-houthis-saudi",
@@ -1256,6 +1293,10 @@
    "2022-03-27-negev-summit",
    "houthis-hit-aramco",
    "saudi-offensive-mokha"
+  ],
+  "marker": "strike",
+  "where": [
+   "abu-dhabi"
   ]
  },
  {
@@ -1276,7 +1317,8 @@
   "entities": [
    "saudi-arabia",
    "yemen",
-   "houthis"
+   "houthis",
+   "saada"
   ],
   "storylines": [
    "yemen-houthis-saudi"
@@ -1303,6 +1345,10 @@
    "2022-10-02-truce-expires",
    "houthis-hit-aramco",
    "saudi-offensive-mokha"
+  ],
+  "marker": "strike",
+  "where": [
+   "saada"
   ]
  },
  {
@@ -1493,7 +1539,9 @@
    "2022-05-16-mali-g5",
    "2022-09-30-burkina-coup2",
    "kidal"
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "The announcement names the operation, not a town."
  },
  {
   "id": "2022-02-22-nord-stream-2-halt",
@@ -1554,7 +1602,9 @@
   "entities": [
    "russia",
    "ukraine",
-   "vladimir-putin"
+   "vladimir-putin",
+   "donetsk",
+   "luhansk"
   ],
   "storylines": [
    "russia-ukraine"
@@ -1586,6 +1636,11 @@
    "2022-02-24-invasion",
    "2022-09-21-mobilization",
    "2022-09-30-annexation"
+  ],
+  "marker": "military",
+  "where": [
+   "donetsk",
+   "luhansk"
   ]
  },
  {
@@ -1608,7 +1663,10 @@
    "ukraine",
    "vladimir-putin",
    "belarus",
-   "volodymyr-zelenskyy"
+   "volodymyr-zelenskyy",
+   "kyiv",
+   "kharkiv",
+   "crimea"
   ],
   "storylines": [
    "russia-ukraine"
@@ -1727,6 +1785,12 @@
    "2022-09-30-annexation",
    "diesel-deal",
    "energy-ceasefire"
+  ],
+  "marker": "military",
+  "where": [
+   "kyiv",
+   "kharkiv",
+   "crimea"
   ]
  },
  {
@@ -2225,7 +2289,8 @@
    "aramco",
    "yemen",
    "iran",
-   "petroleum"
+   "petroleum",
+   "jeddah"
   ],
   "storylines": [
    "yemen-houthis-saudi",
@@ -2259,6 +2324,10 @@
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha"
+  ],
+  "marker": "strike",
+  "where": [
+   "jeddah"
   ]
  },
  {
@@ -2449,7 +2518,9 @@
    "yemen",
    "houthis",
    "saudi-arabia",
-   "red-sea"
+   "red-sea",
+   "hodeidah",
+   "sanaa"
   ],
   "storylines": [
    "yemen-houthis-saudi"
@@ -2481,6 +2552,11 @@
    "2022-10-02-truce-expires",
    "houthis-hit-aramco",
    "saudi-offensive-mokha"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "hodeidah",
+   "sanaa"
   ]
  },
  {
@@ -2949,7 +3025,8 @@
    "russia",
    "ukraine",
    "mariupol",
-   "crimea"
+   "crimea",
+   "azovstal"
   ],
   "storylines": [
    "russia-ukraine"
@@ -2973,6 +3050,11 @@
    "2022-02-24-invasion",
    "2022-06-23-himars",
    "2022-10-08-crimea-bridge"
+  ],
+  "marker": "military",
+  "where": [
+   "mariupol",
+   "azovstal"
   ]
  },
  {
@@ -3371,7 +3453,9 @@
    "2022-05-20-mariupol",
    "2022-09-06-kharkiv",
    "diesel-deal"
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "The systems arrived in Ukraine. The summary names no city."
  },
  {
   "id": "2022-06-23-ukraine-eu",
@@ -3698,7 +3782,8 @@
    "nancy-pelosi",
    "taiwan",
    "united-states",
-   "china"
+   "china",
+   "taipei"
   ],
   "storylines": [
    "taiwan-indopacific"
@@ -3715,6 +3800,10 @@
   "related_stories": [
    "2022-08-04-pla-drills",
    "rare-earth-nov10"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "taipei"
   ]
  },
  {
@@ -3768,7 +3857,9 @@
    "2022-08-31-nvidia-ban",
    "pla-drills",
    "rare-earth-nov10"
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "The drills were zones around Taiwan, not one point."
  },
  {
   "id": "2022-08-09-chips-act",
@@ -3817,7 +3908,9 @@
    "2022-08-16-ira",
    "2022-08-31-nvidia-ban",
    "2022-10-07-bis-controls"
-  ]
+  ],
+  "marker": "political",
+  "unplaced": "A statute. The summary names no place."
  },
  {
   "id": "2022-08-16-ira",
@@ -4118,7 +4211,9 @@
   ],
   "entities": [
    "ukraine",
-   "russia"
+   "russia",
+   "izium",
+   "kupiansk"
   ],
   "storylines": [
    "russia-ukraine"
@@ -4147,6 +4242,11 @@
    "2022-06-23-himars",
    "2022-09-13-armenia-azerbaijan",
    "2022-09-21-mobilization"
+  ],
+  "marker": "military",
+  "where": [
+   "izium",
+   "kupiansk"
   ]
  },
  {
@@ -4554,7 +4654,9 @@
    "2022-04-02-yemen-truce",
    "houthis-hit-aramco",
    "saudi-offensive-mokha"
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "The truce covered Yemen. The summary names no town."
  },
  {
   "id": "2022-10-05-opec-cut",
@@ -4667,7 +4769,9 @@
    "2022-08-31-nvidia-ban",
    "ai-minerals",
    "rare-earth-nov10"
-  ]
+  ],
+  "marker": "political",
+  "unplaced": "An export-control rule. The summary names no place."
  },
  {
   "id": "2022-10-08-crimea-bridge",
@@ -4687,7 +4791,8 @@
   "entities": [
    "crimea",
    "russia",
-   "ukraine"
+   "ukraine",
+   "crimean-bridge"
   ],
   "storylines": [
    "russia-ukraine"
@@ -4715,6 +4820,10 @@
   "related_stories": [
    "2022-05-20-mariupol",
    "2022-10-10-energy-strikes"
+  ],
+  "marker": "strike",
+  "where": [
+   "crimean-bridge"
   ]
  },
  {
@@ -4734,7 +4843,15 @@
   ],
   "entities": [
    "russia",
-   "ukraine"
+   "ukraine",
+   "kyiv",
+   "lviv",
+   "ternopil",
+   "zhytomyr",
+   "dnipro",
+   "kremenchuk",
+   "zaporizhzhia",
+   "kharkiv"
   ],
   "storylines": [
    "russia-ukraine"
@@ -4763,6 +4880,17 @@
    "2022-10-08-crimea-bridge",
    "2022-10-iran-drones-russia",
    "energy-ceasefire"
+  ],
+  "marker": "energy",
+  "where": [
+   "kyiv",
+   "lviv",
+   "ternopil",
+   "zhytomyr",
+   "dnipro",
+   "kremenchuk",
+   "zaporizhzhia",
+   "kharkiv"
   ]
  },
  {

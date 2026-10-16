@@ -5,7 +5,10 @@
    "id": "pearl-harbor",
    "name": "Pearl Harbor",
    "type": "place",
-   "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor"
+   "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+   "lat": 21.3679,
+   "lon": -157.9771,
+   "precision": "feature"
   }
  ],
  "zones": [
@@ -33,7 +36,9 @@
    "sources": [
     {"name": "Example source", "url": "https://example.com/pearl-harbor"}
    ],
-   "entities": ["japan", "united-states", "pearl-harbor"]
+   "entities": ["japan", "united-states", "pearl-harbor"],
+   "where": ["pearl-harbor"],
+   "marker": "strike"
   }
  ]
 }

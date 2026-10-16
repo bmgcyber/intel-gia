@@ -36,62 +36,64 @@ for f in G['features']:
     COUNTRY_PATHS.append(f'<path d="{d}"><title>{esc(f["properties"].get("NAME",""))}</title></path>')
 SEV={"critical":("#ff3b30",13),"high":("#ff9f0a",10),"elevated":("#ffd60a",8),"watch":("#64d2ff",6)}
 
-def zones_for_story(s):
-    """Hot zones touched by a story. Prefer explicit story tags; else require ≥2 shared entities
-    (avoids lighting Hormuz just because a story tags united-states)."""
-    ents=set(s.get('entities',[])); hit=[]
-    for z in HZ['zones']:
-        if s['id'] in z.get('stories',[]): hit.append(z['id']); continue
-        shared=ents & set(z.get('entities',[]))
-        if len(shared)>=2: hit.append(z['id'])
-    # region fallback so every slide lights something
-    if not hit:
-        REGZ={"Russia/Eurasia":["ukraine","russia"],"Middle East":["hormuz","yemen","saudi","iraq"],
-              "Africa":["drc","mali"],"Asia-Pacific":["taiwan","china"],"Americas":["venezuela","india"],
-              "Europe":["ukraine","russia"]}
-        for zid in REGZ.get(s.get('region',''),[]):
-            if zid in ZD: hit.append(zid)
-    return hit
+MARK_COLOR={"military":"#ff5a4f","strike":"#ff5a4f","diplomacy":"#7eb6ff","energy":"#ffe08a","political":"#c9a6ff"}
 
-def primary_zone(s):
-    zs=zones_for_story(s)
-    if not zs: return None
-    ents=set(s.get('entities',[]))
-    order={"critical":0,"high":1,"elevated":2,"watch":3}
-    # prefer most shared entities, then severity (stops petroleum stories lighting Hormuz over Saudi)
-    return sorted(zs, key=lambda i: (-len(ents & set(ZD[i].get('entities',[]))), order.get(ZD[i]['severity'],9)))[0]
+def story_places(s):
+    """Places the story names and that already have coordinates. Never a hot-zone centroid."""
+    out=[]
+    for ident in s.get("where") or []:
+        ent=E.get(ident)
+        lat,lon=(ent or {}).get("lat"),(ent or {}).get("lon")
+        if ent and ent.get("type")=="place" and isinstance(lat,(int,float)) and isinstance(lon,(int,float)):
+            out.append(ent)
+    return out
 
-def map_svg(active=None, past=None, trail=None, href_prefix="../", show_links=True, current_label=None, now_place=None, now_date=None, step_n=None, step_total=None, story_title=None, prior_steps=None):
-    """Render world map. Auto-zooms to active theater. Current zones bright+labeled; past dim; rest nearly invisible."""
-    active=set(active or []); past=set(past or [])-active
-    # --- compute crop around action ---
-    focus_ids=list(active) or list(past) or [z['id'] for z in HZ['zones'][:1]]
-    # theater presets (lon0,lon1,lat0,lat1) — tighter than world
-    THEATERS={
-        "gulf":(30,65,8,40), "eeurope":(10,55,35,65), "sahel":(-20,50,-10,30),
-        "easia":(95,145,5,45), "americas":(-100,-40,-20,25), "world":(LON0,LON1,LAT0,LAT1),
-    }
-    # pick theater by which active/past zones dominate
-    ZTHEATER={"hormuz":"gulf","yemen":"gulf","saudi":"gulf","iraq":"gulf","india":"gulf",
-              "ukraine":"eeurope","russia":"eeurope",
-              "mali":"sahel","drc":"sahel",
-              "taiwan":"easia","china":"easia",
-              "venezuela":"americas"}
-    votes={}
-    for zid in list(active)+list(past):
-        t=ZTHEATER.get(zid,"world"); votes[t]=votes.get(t,0)+(2 if zid in active else 1)
-    theater=max(votes, key=votes.get) if votes else "world"
-    lon0,lon1,lat0,lat1=THEATERS[theater]
-    # further tighten around active zone centroids with padding
-    if active:
-        lons=[ZD[z]['lon'] for z in active]; lats=[ZD[z]['lat'] for z in active]
-        if past:
-            lons+=[ZD[z]['lon'] for z in past]; lats+=[ZD[z]['lat'] for z in past]
-        pad_lon=max(12,(max(lons)-min(lons))*0.8+8); pad_lat=max(8,(max(lats)-min(lats))*0.8+6)
+def svg_pin(x, y, marker, active=True, label=None):
+    c=MARK_COLOR.get(marker,"#c9a6ff"); op="1" if active else ".45"
+    if marker=="military":
+        s=12 if active else 8
+        body=f'<rect x="{x-s/2:.1f}" y="{y-s/2:.1f}" width="{s}" height="{s}" fill="{c}" opacity="{op}" stroke="#fff" stroke-width="1.4"/>'
+    elif marker=="strike":
+        s=8 if active else 5
+        body=f'<path d="M{x-s:.1f},{y-s:.1f} L{x+s:.1f},{y+s:.1f} M{x+s:.1f},{y-s:.1f} L{x-s:.1f},{y+s:.1f}" stroke="{c}" stroke-width="2.6" opacity="{op}" fill="none"/>'
+    elif marker=="diplomacy":
+        s=8 if active else 5
+        body=f'<path d="M{x:.1f},{y-s:.1f} L{x+s:.1f},{y:.1f} L{x:.1f},{y+s:.1f} L{x-s:.1f},{y:.1f} Z" fill="{c}" opacity="{op}" stroke="#fff" stroke-width="1.1"/>'
+    elif marker=="energy":
+        s=9 if active else 6
+        body=f'<path d="M{x:.1f},{y-s:.1f} L{x+s:.1f},{y+s*.7:.1f} L{x-s:.1f},{y+s*.7:.1f} Z" fill="{c}" opacity="{op}" stroke="#fff" stroke-width="1.1"/>'
+    else:
+        r=7 if active else 5
+        body=f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="none" stroke="{c}" stroke-width="2" opacity="{op}"/>'
+    if label:
+        fill="#fff" if active else "#9aa8b8"
+        size=13 if active else 11
+        body+=f'<text x="{x+12:.0f}" y="{y-6:.0f}" fill="#000" font-size="{size}" font-family="Arial">{esc(label)}</text><text x="{x+11:.0f}" y="{y-7:.0f}" fill="{fill}" font-size="{size}" font-weight="bold" font-family="Arial">{esc(label)}</text>'
+    return body
+
+def shape_legend():
+    labels=(("military","Military"),("strike","Strike"),("diplomacy","Diplomacy"),("energy","Energy"),("political","Political"))
+    bits=[]
+    for marker,name in labels:
+        bits.append(f'<span><svg width="18" height="18" viewBox="-10 -10 20 20" class="pinleg">{svg_pin(0,0,marker,True)}</svg>{name}</span>')
+    return '<div class="legend"><b>Events</b> '+"".join(bits)+'</div>'
+
+def map_svg(active=None, past=None, trail=None, now_place=None, now_date=None, step_n=None, step_total=None, story_title=None, prior_steps=None, region=None):
+    """Path-slide map. Pins are event places. Hot-zone rings are not drawn."""
+    active=list(active or []); past=list(past or [])
+    points=[(p["lon"],p["lat"]) for p in active+past]
+    if points:
+        lons=[p[0] for p in points]; lats=[p[1] for p in points]
+        span_lon=max(lons)-min(lons); span_lat=max(lats)-min(lats)
+        pad_lon=max(1.4, span_lon*0.55+0.8); pad_lat=max(1.0, span_lat*0.55+0.6)
         lon0=max(LON0, min(lons)-pad_lon); lon1=min(LON1, max(lons)+pad_lon)
         lat0=max(LAT0, min(lats)-pad_lat); lat1=min(LAT1, max(lats)+pad_lat)
-        if lon1-lon0<20: mid=(lon0+lon1)/2; lon0,lon1=mid-10,mid+10
-        if lat1-lat0<14: mid=(lat0+lat1)/2; lat0,lat1=mid-7,mid+7
+        if lon1-lon0<3: mid=(lon0+lon1)/2; lon0,lon1=mid-1.5,mid+1.5
+        if lat1-lat0<2: mid=(lat0+lat1)/2; lat0,lat1=mid-1,mid+1
+    else:
+        REGION_VIEW={"Russia/Eurasia":(22,48,43,60),"Middle East":(32,62,12,36),"Africa":(-18,16,8,28),
+                     "Asia-Pacific":(100,140,18,42),"Americas":(-125,-65,15,50),"Europe":(-5,40,36,62)}
+        lon0,lon1,lat0,lat1=REGION_VIEW.get(region or "", (LON0,LON1,LAT0,LAT1))
     # local projection into fixed pixel box
     W,H=1000,560
     def lp(lon,lat):
@@ -112,56 +114,35 @@ def map_svg(active=None, past=None, trail=None, href_prefix="../", show_links=Tr
     out=[f'<svg viewBox="0 0 {W} {H}" width="100%" class="wmap" xmlns="http://www.w3.org/2000/svg">',
          f'<rect width="{W}" height="{H}" fill="#071018"/>',
          f'<g fill="#152030" stroke="#2a3f55" stroke-width="0.6">{"".join(paths)}</g>']
-    # trail arcs (only up through this step)
     if trail and len(trail)>=2:
         for i in range(len(trail)-1):
             a,b=trail[i],trail[i+1]
-            if a not in ZD or b not in ZD: continue
-            if a==b: continue
-            x1,y1=lp(ZD[a]['lon'],ZD[a]['lat']); x2,y2=lp(ZD[b]['lon'],ZD[b]['lat'])
+            if a["lat"]==b["lat"] and a["lon"]==b["lon"]: continue
+            x1,y1=lp(a["lon"],a["lat"]); x2,y2=lp(b["lon"],b["lat"])
             mx,my=(x1+x2)/2,(y1+y2)/2; dx,dy=x2-x1,y2-y1; cx,cy=mx-dy*.25,my+dx*.25
             last=i==len(trail)-2
             out.append(f'<path d="M{x1:.0f},{y1:.0f}Q{cx:.0f},{cy:.0f} {x2:.0f},{y2:.0f}" fill="none" stroke="{"#ffe08a" if last else "#ff6b5f"}" stroke-width="{4 if last else 2}" opacity="{.95 if last else .4}" stroke-dasharray="{"0" if last else "6 4"}"/>')
-    # inactive first (nearly invisible)
-    for z in HZ['zones']:
-        zid=z['id']
-        if zid in active or zid in past: continue
-        x,y=lp(z['lon'],z['lat'])
-        if x<-50 or x>W+50 or y<-50 or y>H+50: continue
-        out.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="4" fill="#1a2838" opacity=".35"/>')
-    # past zones
-    for zid in past:
-        z=ZD[zid]; x,y=lp(z['lon'],z['lat']); c,_=SEV[z['severity']]
-        out.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="18" fill="{c}" opacity=".12" stroke="{c}" stroke-width="2" stroke-dasharray="4 3"/>'
-                   f'<circle cx="{x:.0f}" cy="{y:.0f}" r="6" fill="{c}" opacity=".55"/>'
-                   f'<text x="{x+12:.0f}" y="{y-10:.0f}" fill="#99aabb" font-size="12" font-family="Arial" opacity=".7">{esc(z["name"])}</text>')
-    # active zones — BIG
-    for zid in active:
-        z=ZD[zid]; x,y=lp(z['lon'],z['lat']); c,_=SEV[z['severity']]
-        out.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="42" fill="{c}" opacity=".2"/>'
-                   f'<circle cx="{x:.0f}" cy="{y:.0f}" r="28" fill="none" stroke="{c}" stroke-width="3" opacity=".85"/>'
-                   f'<circle cx="{x:.0f}" cy="{y:.0f}" r="12" fill="{c}" stroke="#fff" stroke-width="3"/>'
-                   f'<text x="{x+20:.0f}" y="{y-18:.0f}" fill="#000" font-size="16" font-weight="bold" font-family="Arial">{esc(z["name"])}</text>'
-                   f'<text x="{x+19:.0f}" y="{y-19:.0f}" fill="#fff" font-size="16" font-weight="bold" font-family="Arial">{esc(z["name"])}</text>')
-    # NOW badge (always changes per slide) — includes story title so same-theater paths still look different
-    place=esc(now_place or (ZD[next(iter(active))]['name'] if active else '—'))
+    for ent in past:
+        x,y=lp(ent["lon"],ent["lat"])
+        out.append(svg_pin(x,y,ent.get("_marker","political"),active=False,label=ent["name"]))
+    for ent in active:
+        x,y=lp(ent["lon"],ent["lat"])
+        out.append(f'<a href="../entity-{ent["id"]}.html">{svg_pin(x,y,ent.get("_marker","political"),active=True,label=ent["name"])}</a>')
+    place=esc(now_place or "No placed location")
     date=esc(now_date or '')
     step=f'Step {step_n}/{step_total}' if step_n else ''
     title=esc((story_title or '')[:72])
-    out.append(f'<rect x="16" y="12" width="520" height="78" rx="8" fill="#0b0f14" fill-opacity=".92" stroke="#ff5a4f" stroke-width="2"/>'
+    out.append(f'<rect x="16" y="12" width="640" height="78" rx="8" fill="#0b0f14" fill-opacity=".92" stroke="#ff5a4f" stroke-width="2"/>'
                f'<text x="28" y="34" fill="#ff5a4f" font-size="13" font-weight="bold" font-family="Arial">NOW · {date} · {step}</text>'
-               f'<text x="28" y="54" fill="#ffffff" font-size="16" font-weight="bold" font-family="Arial">{place}</text>'
+               f'<text x="28" y="54" fill="#ffffff" font-size="15" font-weight="bold" font-family="Arial">{place[:78]}</text>'
                f'<text x="28" y="74" fill="#c8d4e0" font-size="12" font-family="Arial">{title}</text>')
-    # prior-step timeline pills (grow each slide) — key for Ukraine-only paths
     if prior_steps:
         y=100
         out.append(f'<text x="28" y="{y}" fill="#7f8fa3" font-size="11" font-family="Arial">Path so far</text>'); y+=6
-        for i,(pd,pt) in enumerate(prior_steps[-8:]):  # last 8
+        for i,(pd,pt) in enumerate(prior_steps[-6:]):
             y+=18
             out.append(f'<rect x="28" y="{y-12}" width="8" height="8" rx="2" fill="#ff5a4f" opacity=".5"/>'
                        f'<text x="42" y="{y-4}" fill="#9aa8b8" font-size="11" font-family="Arial">{esc(pd)} · {esc(pt[:40])}</text>')
-    # theater tag
-    out.append(f'<text x="{W-12}" y="28" fill="#7f8fa3" font-size="11" font-family="Arial" text-anchor="end">zoom: {theater}</text>')
     out.append('</svg>')
     return "".join(out)
 
@@ -176,12 +157,17 @@ def world_map_dashboard():
         out.append(f'<a href="history/link-{l["id"]}.html"><path d="M{x1:.0f},{y1:.0f}Q{cx:.0f},{cy:.0f} {x2:.0f},{y2:.0f}" fill="none" stroke="#ff6b5f" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#ah)" opacity=".85"/><circle cx="{(mx+cx)/2:.0f}" cy="{(my+cy)/2-4:.0f}" r="8" fill="#3a1414" stroke="#ff6b5f"/><text x="{(mx+cx)/2:.0f}" y="{(my+cy)/2:.0f}" fill="#ffd0cc" font-size="10" font-weight="bold" font-family="Arial" text-anchor="middle">{i+1}</text></a>')
     for z in HZ['zones']:
         x,y=pj(z['lon'],z['lat']); c,r=SEV_L[z['severity']]
-        out.append(f'<a href="history/zone-{z["id"]}.html"><circle cx="{x:.0f}" cy="{y:.0f}" r="{r*1.8}" fill="{c}" opacity=".25"/><circle cx="{x:.0f}" cy="{y:.0f}" r="{r/2+2}" fill="{c}" stroke="#000" stroke-width="1"/><text x="{x+z.get("label_dx",r)+1:.0f}" y="{y+z.get("label_dy",-r/2)+1:.0f}" fill="#000" font-size="11" font-weight="bold" font-family="Arial">{esc(z["name"])}</text><text x="{x+z.get("label_dx",r):.0f}" y="{y+z.get("label_dy",-r/2):.0f}" fill="#fff" font-size="11" font-weight="bold" font-family="Arial">{esc(z["name"])}</text></a>')
+        out.append(f'<a href="history/zone-{z["id"]}.html"><circle cx="{x:.0f}" cy="{y:.0f}" r="{r*1.6}" fill="{c}" opacity=".12" stroke="{c}" stroke-width="2"/><text x="{x+z.get("label_dx",r):.0f}" y="{y+z.get("label_dy",-r/2):.0f}" fill="#fff" font-size="11" font-weight="bold" font-family="Arial">{esc(z["name"])}</text></a>')
+    seen=set()
+    for s in LATEST:
+        for ent in story_places(s):
+            if ent["id"] in seen: continue
+            seen.add(ent["id"])
+            x,y=pj(ent["lon"],ent["lat"])
+            out.append(f'<a href="history/trace-{s["id"]}.html">{svg_pin(x,y,s.get("marker") or "political",True,None)}</a>')
     out.append('</svg>'); svg="".join(out)
-    leg='<div class="legend">'+" ".join(f'<span><i style="background:{c}"></i>{k}</span>' for k,(c,_) in SEV.items())+'</div>'
-    lk='<ol class="links">'+"".join(f'<li><a href="history/zone-{l["from"]}.html">{esc(ZD[l["from"]]["name"])}</a> → <a href="history/zone-{l["to"]}.html">{esc(ZD[l["to"]]["name"])}</a>: {esc(l["label"])} · <a href="history/link-{l["id"]}.html">History</a></li>' for l in HZ['links'])+'</ol>'
-    zl='<ul class="zones">'+"".join(f'<li><a href="history/zone-{z["id"]}.html">{esc(z["name"])}</a> <small>{z["severity"]}</small>: {esc(z["note"])}</li>' for z in HZ['zones'])+'</ul>'
-    return svg, leg+'<div class="two">'+lk+zl+'</div>'
+    leg='<div class="legend"><b>Hot zones</b> '+" ".join(f'<span><i style="background:{c}"></i>{k}</span>' for k,(c,_) in SEV.items())+'</div>'
+    return svg, leg+shape_legend()
 
 
 # ---- Leaflet progressive enhancement (vendored Leaflet 1.9.4; Carto dark tiles need network) ----
@@ -263,7 +249,8 @@ main{padding:0 24px 40px;max-width:1300px;margin:auto}a{color:#6fb1ff}.meta,smal
 .chip{display:inline-block;margin:3px 4px 0 0;padding:1px 8px;border-radius:10px;background:#1b2d4a;color:#a9c8ff;font-size:12px;text-decoration:none}
 .idx{columns:4;list-style:none;padding:0}.idx li{break-inside:avoid}
 .wmap{border:1px solid #223041;border-radius:8px;display:block}.wmap .zs{fill:#000;font-size:11px;font-weight:bold}.wmap .zl{fill:#fff;font-size:11px;font-weight:bold}
-.legend span{margin-right:14px;font-size:12px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px;font-size:13px}.links,.zones{margin:6px 0}
+.legend{margin:8px 0}.legend span{margin-right:14px;font-size:12px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}.legend b{margin-right:8px;color:#9ab}.pinleg{vertical-align:middle;margin-right:4px}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px;font-size:13px}.links,.zones{margin:6px 0}
+.row{border-bottom:1px solid #1f2a36;padding:12px 0}.row h3{margin:0;font-size:16px;color:#fff}.row p{margin:4px 0 0}.gia-pin{background:transparent!important;border:none!important}
 :target{outline:2px solid #ff5a4f;background:#1a1f2b}#q{padding:6px;background:#121a24;border:1px solid #2a3a4e;color:#fff;border-radius:6px;width:260px}.tl h3.yr{color:#ff5a4f;font-size:18px;margin:22px 0 4px}.tl h4{color:#8fb6ff;margin:10px 0 4px;font-size:13px}.sl{background:#2a1f3a;color:#d6b8ff}
 .cz{font-size:12px;margin-top:6px}.cz ul{margin:2px 0;padding-left:18px}.tree{border-left:2px solid #ff5a4f55;margin-left:6px;padding-left:16px;list-style:none}.tree li{margin:6px 0}.chainlist li.cur{color:#ff5a4f;font-weight:bold}
 table{width:100%;border-collapse:collapse;font-size:12px}td,th{border-bottom:1px solid #1f2a36;padding:5px;text-align:left;vertical-align:top}.rt{font-size:10px;padding:1px 6px;border-radius:8px;background:#1b2d4a}.rt.rivalry{background:#4a1b1b}.rt.alliance{background:#173d24}.rt.patron-proxy{background:#3a2a10}.rt.sanction{background:#3a1430}.rel{font-size:12px;color:#9aa8b8}
@@ -278,7 +265,14 @@ table{width:100%;border-collapse:collapse;font-size:12px}td,th{border-bottom:1px
 .paths{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}.pathcard{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px}"""
 
 WMAP,WLEG=world_map_dashboard()
-LEAF_DASH=leaflet_html(dict(mode="dashboard",zones=zone_payload("history/"),
+_today_places=[]; _seen_today=set()
+for _s in LATEST:
+    for _ent in story_places(_s):
+        if _ent["id"] in _seen_today: continue
+        _seen_today.add(_ent["id"])
+        _today_places.append(dict(id=_ent["id"],name=_ent["name"],lat=_ent["lat"],lon=_ent["lon"],
+            marker=_s.get("marker") or "political",role="today",href=f"history/trace-{_s['id']}.html"))
+LEAF_DASH=leaflet_html(dict(mode="dashboard",zones=zone_payload("history/"),places=_today_places,
     links=[{"from":l["from"],"to":l["to"],"label":l["label"],"href":f"history/link-{l['id']}.html"} for l in HZ['links']]),"")
 board=[]
 for r in REG:
@@ -292,17 +286,17 @@ pathcards="".join(f'<div class="pathcard"><b>{esc(info["title"])}</b><div class=
 # only top-level demos
 pathcards="".join(f'<div class="pathcard"><b>{esc(v["title"])}</b><div class="meta">{len(v["steps"])} slides · {ddisp(ST[k])} → {ddisp(ST[v["goal"]])}</div><p class="meta">{esc(ST[k]["title"])} → … → {esc(ST[v["goal"]]["title"])}</p><a class="pathbtn" href="history/path-{k}/slide-01.html">▶ Play path</a></div>' for k,v in PATH_INDEX.items() if "root" not in v)
 
+def edition_row(s):
+    named=", ".join(ent["name"] for ent in story_places(s))
+    loc=named or s.get("unplaced") or "Location not placed yet"
+    return (f'<article class="row"><h3><a href="history/trace-{s["id"]}.html">{esc(s["title"])}</a></h3>'
+            f'<div class="meta">{ddisp(s)} · {esc(s.get("region",""))} · {esc(loc)}</div><p>{esc(s["summary"])}</p></article>')
+
 out=f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>GIA World Intel — {ed}</title><style>{CSS}</style></head><body id="top">
-<header><h1>GIA <b>//</b> WORLD INTEL</h1><div class="meta">Edition {ed} · {len(LATEST)} stories this edition · {len(S)} in archive · {len(ENTS)} entities · <span class="an">purple = analysis with confidence label</span> · works without JavaScript</div>
-<div class="meta"><a href="#world">World map</a> · <a href="#paths">Path to today</a> · <a href="#board">Regional board</a> · <a href="#storylines">Storylines</a> · <a href="#stories">Stories</a> · <a href="#index">Entity index</a> · <a href="history/index.html">Full history archive</a></div></header><main>
-<h2 id="world">World hot zones</h2><div class="meta">Markers are sized and colored by severity (analysis). Click a marker or a numbered arc to open its history timeline. Interactive map (Leaflet, Esri dark-gray tiles with OpenStreetMap data) when JavaScript and network are available; static map otherwise.</div><div id="gia-fallback">{WMAP}</div>{LEAF_DASH}{WLEG}
-<h2 id="paths">Path to current day</h2><div class="meta">Click a past event, then walk the causal chain forward as a slideshow on the world map — no JavaScript required.</div><div class="paths">{pathcards}</div>
-<h2 id="board">Regional board</h2><div class="boardgrid">{"".join(board)}</div>
-<h2 id="storylines">Storylines (history)</h2><ul class="idx">{slh}</ul>
-<h2 id="stories">Stories, edition {ed}</h2><div class="meta">Each chip opens that entity's history timeline. Look for the red <b>Path to current day</b> button on backfilled events.</div>{"".join(card(s) for s in sorted(LATEST,key=lambda s:s['date'],reverse=True))}
-<h2 id="index">Entity index (history)</h2><input id="q" placeholder="Filter (needs JS; optional)" hidden><ul class="idx" id="idxl">{idx}</ul>
-<p class="meta">Sources linked on each story. Generated by build_dashboard.py.</p></main>
-<script>(function(){{var q=document.getElementById('q');if(!q)return;q.hidden=false;q.oninput=function(){{var v=q.value.toLowerCase();document.querySelectorAll('#idxl li').forEach(function(l){{l.style.display=l.dataset.n.indexOf(v)>=0?'':'none';}});}};}})();</script>
+<header><h1>GIA <b>//</b> WORLD INTEL</h1><div class="meta">Edition {ed} · {len(LATEST)} stories today · {len(S)} in the archive · <a href="history/index.html">Archive</a></div></header><main>
+<h2 id="world">Right now</h2><div class="meta">Rings are hot zones, colored by severity. Pins are places named in today's stories. Square military, X strike, diamond diplomacy, triangle energy, hollow ring political. A story with no honest place has no pin. Interactive map (Leaflet, Esri dark-gray tiles) when JavaScript and the network are available; static map otherwise.</div><div id="gia-fallback">{WMAP}</div>{LEAF_DASH}{WLEG}
+<h2 id="stories">Today, {ed}</h2><div class="meta">Each title opens the trace page, with sources, the causal chain, and any path.</div>{"".join(edition_row(s) for s in sorted(LATEST,key=lambda s:s['date'],reverse=True))}
+<p class="meta">Paths, the regional board, storylines, and the entity index are in the <a href="history/index.html">archive</a>. Generated by build_dashboard.py.</p></main>
 </body></html>"""
 open(f"{D}/dashboard.html","w").write(out)
 
@@ -391,32 +385,46 @@ for s in S:
 # ---- Path-to-today slideshow pages ----
 def write_path(root, info):
     steps=info['steps']; n=len(steps); pd=f"{HD}/path-{root}"; os.makedirs(pd,exist_ok=True)
-    # precompute primary zones along path for trail
-    prims=[]
+    def marked(sid):
+        story=ST[sid]; marker=story.get("marker") or "political"
+        out=[]
+        for ent in story_places(story):
+            pin=dict(ent); pin["_marker"]=marker; out.append(pin)
+        return out
+    firsts=[]
     for sid,_,_ in steps:
-        pz=primary_zone(ST[sid]); prims.append(pz)
+        pins=marked(sid); firsts.append(pins[0] if pins else None)
     for i,(sid,why,conf) in enumerate(steps):
         s=ST[sid]; nn=i+1
-        past_ids=set()
-        for j in range(i): past_ids |= set(zones_for_story(ST[steps[j][0]]))
-        active=set(zones_for_story(s))
-        trail=[p for p in prims[:i+1] if p]
-        # collapse consecutive duplicates in trail for cleaner arcs
+        active=marked(sid)
+        active_ids={p["id"] for p in active}
+        past=[]
+        seen=set(active_ids)
+        for j in range(i):
+            for ent in marked(steps[j][0]):
+                if ent["id"] in seen: continue
+                seen.add(ent["id"]); past.append(ent)
+        trail=[p for p in firsts[:i+1] if p]
         t2=[]
-        for z in trail:
-            if not t2 or t2[-1]!=z: t2.append(z)
-        # place label: prefer primary zone name, else region
-        pz=primary_zone(s); place=(ZD[pz]['name'] if pz else s.get('region','—'))
-        # if trail is a single repeated zone, still show step markers by appending synthetic offsets via step badge
+        for p in trail:
+            if not t2 or (t2[-1]["lat"],t2[-1]["lon"])!=(p["lat"],p["lon"]): t2.append(p)
+        if active:
+            place=", ".join(p["name"] for p in active)
+        else:
+            place=s.get("unplaced") or "No honest location for this step"
         prior=[(ddisp(ST[steps[j][0]]), ST[steps[j][0]]['title']) for j in range(i)]
         prevb=None
         if i>0:
-            pa=set(zones_for_story(ST[steps[i-1][0]])); prevb=[[ZD[z]['lat'],ZD[z]['lon']] for z in pa] or None
-        badge=f'<b style="color:#ff5a4f">NOW · {esc(ddisp(s))} · Step {nn}/{n}</b><br><b>{esc(ZD[primary_zone(s)]["name"] if primary_zone(s) else s.get("region",""))}</b><br><span>{esc(s["title"][:80])}</span>'
-        leaf=leaflet_html(dict(mode="path",zones=zone_payload("../"),active=sorted(active),past=sorted(past_ids-active),trail=t2,prevBounds=prevb,badge=badge),"../../",height=500)
-        svg=map_svg(active=active, past=past_ids, trail=t2, href_prefix="../", show_links=False,
-                    current_label=ddisp(s), now_place=place, now_date=ddisp(s), step_n=nn, step_total=n,
-                    story_title=s['title'], prior_steps=prior)
+            prev_pins=marked(steps[i-1][0]) or past
+            prevb=[[p["lat"],p["lon"]] for p in prev_pins] or None
+        badge=f'<b style="color:#ff5a4f">NOW · {esc(ddisp(s))} · Step {nn}/{n}</b><br><b>{esc(place)}</b><br><span>{esc(s["title"][:80])}</span>'
+        def pack(ent, role):
+            return dict(id=ent["id"],name=ent["name"],lat=ent["lat"],lon=ent["lon"],marker=ent["_marker"],role=role,href=f"../entity-{ent['id']}.html")
+        places=[pack(p,"past") for p in past]+[pack(p,"active") for p in active]
+        trail_pts=[dict(lat=p["lat"],lon=p["lon"]) for p in t2]
+        leaf=leaflet_html(dict(mode="path",zones=[],places=places,trailPlaces=trail_pts,prevBounds=prevb,badge=badge),"../../",height=500)
+        svg=map_svg(active=active, past=past, trail=t2, now_place=place, now_date=ddisp(s), step_n=nn, step_total=n,
+                    story_title=s['title'], prior_steps=prior, region=s.get("region"))
         prev=f'<a class="btn" href="slide-{nn-1:02d}.html">← Prev</a>' if nn>1 else '<a class="btn disabled" href="#">← Prev</a>'
         nxt=f'<a class="btn" href="slide-{nn+1:02d}.html">Next →</a>' if nn<n else f'<a class="btn" href="index.html">Finish ✓</a>'
         dots="".join(f'<a class="{"on" if k==nn else ""}" href="slide-{k:02d}.html" title="{esc(ST[steps[k-1][0]]["title"])}"></a>' for k in range(1,n+1))
@@ -432,10 +440,10 @@ def write_path(root, info):
 <header><h1>GIA <b>//</b> PATH TO TODAY</h1><div class="meta">{esc(info['title'])} · slide {nn} of {n} · <a href="../../dashboard.html">Dashboard</a> · <a href="index.html">Path index</a> · <a href="../trace-{sid}.html">Trace</a></div></header>
 <div class="slidewrap">
 <div class="navrow">{prev}<div class="prog"><i style="width:{pct}%"></i></div>{nxt}<div class="dots">{dots}</div></div>
-<div class="meta">Bright = active this step · Dim = earlier in path · Gold arc = path so far</div>
+<div class="meta">Bright pin = this step · Dim pin = an earlier place · Gold line = the path · No pin means the step has no honest location. Square military, X strike, diamond diplomacy, triangle energy, hollow ring political.</div>
 <div id="gia-fallback">{svg}</div>{leaf}
 <div class="panel">
-<div class="meta">{ddisp(s)} · {esc(s.get('region',''))} · step {nn}/{n}</div>
+<div class="meta">{ddisp(s)} · {esc(s.get('region',''))} · step {nn}/{n} · {esc(place)}</div>
 <h2>{esc(s['title'])}</h2>
 <p>{esc(s['summary'])}</p>
 {(f'<p class="an"><span class="conf {ac}">{ac}</span>{esc(at)}</p>' if at else '')}
@@ -464,7 +472,8 @@ for root,info in list(PATH_INDEX.items()):
 byyear=defaultdict(list)
 for s in sorted(S,key=lambda s:(s['date'],s['id'])): byyear[s['date'][:4]].append(s)
 arch="".join(f'<h3 class="yr" id="y{y}">{y}</h3>'+"".join(card(s,pre="") for s in v) for y,v in sorted(byyear.items()))
-lists=('<h2>Path to today</h2><div class="paths">'+pathcards.replace('history/path-','path-')+'</div>'
+lists=('<h2 id="board">Regional board, edition '+esc(ed)+'</h2><div class="boardgrid">'+"".join(board)+'</div>'
+ '<h2>Path to today</h2><div class="paths">'+pathcards.replace('history/path-','path-')+'</div>'
  '<h2>Storylines</h2><ul class="idx">'+"".join(f'<li><a href="storyline-{l["id"]}.html">{esc(l["name"])}</a></li>' for l in SL)+'</ul>'
  '<h2>Hot zones</h2><ul class="idx">'+"".join(f'<li><a href="zone-{z["id"]}.html">{esc(z["name"])}</a></li>' for z in HZ['zones'])+'</ul>'
  '<h2>Causal links</h2><ul class="idx">'+"".join(f'<li><a href="link-{l["id"]}.html">{esc(ZD[l["from"]]["name"])} → {esc(ZD[l["to"]]["name"])}</a></li>' for l in HZ['links'])+'</ul>'

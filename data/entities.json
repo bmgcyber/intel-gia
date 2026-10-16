@@ -219,7 +219,10 @@
     "id": "kidal",
     "name": "Kidal",
     "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Kidal"
+    "wikipedia": "https://en.wikipedia.org/wiki/Kidal",
+    "lat": 18.43888889,
+    "lon": 1.40833333,
+    "precision": "city"
   },
   {
     "id": "africa-corps",
@@ -591,13 +594,19 @@
     "id": "crimea",
     "name": "Crimea",
     "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Crimea"
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimea",
+    "lat": 45.3,
+    "lon": 34.4,
+    "precision": "feature"
   },
   {
     "id": "mariupol",
     "name": "Mariupol",
     "type": "place",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mariupol"
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariupol",
+    "lat": 47.09583333,
+    "lon": 37.54944444,
+    "precision": "city"
   },
   {
     "id": "zaporizhzhia-npp",
@@ -724,5 +733,230 @@
     "name": "SpaceX",
     "type": "organization",
     "wikipedia": "https://en.wikipedia.org/wiki/SpaceX"
+  },
+  {
+    "id": "yelnya",
+    "name": "Yelnya",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yelnya,_Yelninsky_District,_Smolensk_Oblast",
+    "lat": 54.58333333,
+    "lon": 33.18333333,
+    "precision": "city"
+  },
+  {
+    "id": "voronezh",
+    "name": "Voronezh",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Voronezh",
+    "lat": 51.67166667,
+    "lon": 39.21055556,
+    "precision": "city"
+  },
+  {
+    "id": "kyiv",
+    "name": "Kyiv",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyiv",
+    "lat": 50.45,
+    "lon": 30.52333333,
+    "precision": "city"
+  },
+  {
+    "id": "kharkiv",
+    "name": "Kharkiv",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kharkiv",
+    "lat": 49.9925,
+    "lon": 36.23111111,
+    "precision": "city"
+  },
+  {
+    "id": "moscow",
+    "name": "Moscow",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+    "lat": 55.75583333,
+    "lon": 37.61777778,
+    "precision": "city"
+  },
+  {
+    "id": "donetsk",
+    "name": "Donetsk",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donetsk",
+    "lat": 48.0158,
+    "lon": 37.8028,
+    "precision": "city"
+  },
+  {
+    "id": "luhansk",
+    "name": "Luhansk",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luhansk",
+    "lat": 48.56777778,
+    "lon": 39.30305556,
+    "precision": "city"
+  },
+  {
+    "id": "izium",
+    "name": "Izium",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Izium",
+    "lat": 49.21277778,
+    "lon": 37.25694444,
+    "precision": "city"
+  },
+  {
+    "id": "kupiansk",
+    "name": "Kupiansk",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kupiansk",
+    "lat": 49.71666667,
+    "lon": 37.58333333,
+    "precision": "city"
+  },
+  {
+    "id": "azovstal",
+    "name": "Azovstal Iron and Steel Works",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Azovstal_Iron_and_Steel_Works",
+    "lat": 47.098,
+    "lon": 37.61,
+    "precision": "feature"
+  },
+  {
+    "id": "crimean-bridge",
+    "name": "Crimean Bridge",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimean_Bridge",
+    "lat": 45.3086,
+    "lon": 36.5061,
+    "precision": "feature"
+  },
+  {
+    "id": "lviv",
+    "name": "Lviv",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lviv",
+    "lat": 49.8425,
+    "lon": 24.03222222,
+    "precision": "city"
+  },
+  {
+    "id": "ternopil",
+    "name": "Ternopil",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ternopil",
+    "lat": 49.56666667,
+    "lon": 25.6,
+    "precision": "city"
+  },
+  {
+    "id": "zhytomyr",
+    "name": "Zhytomyr",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhytomyr",
+    "lat": 50.25,
+    "lon": 28.66666667,
+    "precision": "city"
+  },
+  {
+    "id": "dnipro",
+    "name": "Dnipro",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dnipro",
+    "lat": 48.4675,
+    "lon": 35.04,
+    "precision": "city"
+  },
+  {
+    "id": "kremenchuk",
+    "name": "Kremenchuk",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kremenchuk",
+    "lat": 49.06305556,
+    "lon": 33.40388889,
+    "precision": "city"
+  },
+  {
+    "id": "zaporizhzhia",
+    "name": "Zaporizhzhia",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia",
+    "lat": 47.85,
+    "lon": 35.1175,
+    "precision": "city"
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+    "lat": 24.46666667,
+    "lon": 54.36666667,
+    "precision": "city"
+  },
+  {
+    "id": "saada",
+    "name": "Saada",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saada",
+    "lat": 16.94,
+    "lon": 43.75916667,
+    "precision": "city"
+  },
+  {
+    "id": "jeddah",
+    "name": "Jeddah",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeddah",
+    "lat": 21.54333333,
+    "lon": 39.17277778,
+    "precision": "city"
+  },
+  {
+    "id": "hodeidah",
+    "name": "Al Hudaydah",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_Hudaydah",
+    "lat": 14.80222222,
+    "lon": 42.95111111,
+    "precision": "city"
+  },
+  {
+    "id": "sanaa",
+    "name": "Sanaa",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanaa",
+    "lat": 15.34833333,
+    "lon": 44.20638889,
+    "precision": "city"
+  },
+  {
+    "id": "dhahran",
+    "name": "Dhahran",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhahran",
+    "lat": 26.26666667,
+    "lon": 50.15,
+    "precision": "city"
+  },
+  {
+    "id": "riyadh",
+    "name": "Riyadh",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riyadh",
+    "lat": 24.6383,
+    "lon": 46.715,
+    "precision": "city"
+  },
+  {
+    "id": "taipei",
+    "name": "Taipei",
+    "type": "place",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taipei",
+    "lat": 25.0375,
+    "lon": 121.5625,
+    "precision": "city"
   }
 ]
