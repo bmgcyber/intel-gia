@@ -1,5 +1,43 @@
 {
  "edition": "2026-10-15",
+ "entities": [
+  {
+   "id": "medina",
+   "name": "Medina",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Medina",
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "city"
+  },
+  {
+   "id": "goma",
+   "name": "Goma",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Goma",
+   "lat": -1.67944444,
+   "lon": 29.23361111,
+   "precision": "city"
+  },
+  {
+   "id": "ryazan",
+   "name": "Ryazan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ryazan",
+   "lat": 54.63,
+   "lon": 39.7425,
+   "precision": "city"
+  },
+  {
+   "id": "aden",
+   "name": "Aden",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aden",
+   "lat": 12.8,
+   "lon": 45.03333333,
+   "precision": "city"
+  }
+ ],
  "zones": [
   {
    "id": "hormuz",
@@ -155,6 +193,108 @@
     "rubaya-coltan",
     "kabila-frn-succeeds-afc"
    ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "houthis-hit-aden-palace",
+   "date": "2026-10-15",
+   "title": "Houthi missiles hit Aden presidential palace, killing five",
+   "marker": "strike",
+   "where": [
+    "aden"
+   ],
+   "summary": "Houthis fired missiles and drones at Aden's Al-Maashiq presidential palace complex, seat of Yemen's Saudi-backed government, killing five and wounding 16 (Yemeni health minister). The PM and cabinet were safe. It is the first strike on the palace in the current Houthi-Saudi conflict. The coalition said Houthis made 20 attacks on Riyadh's King Khalid airport this month (17 killed, 333 wounded); ICAO's council condemned attacks on Saudi civil aviation.",
+   "analysis": {
+    "text": "Hitting the government seat signals the Houthis will widen the war beyond Saudi territory to the Yemeni government itself, raising pressure on the Mokha/Bab el-Mandeb front and on Riyadh to escalate or negotiate.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "yemen",
+    "saudi-arabia",
+    "presidential-leadership-council",
+    "iran",
+    "aden",
+    "riyadh"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    "houthis-saudi-oct15"
+   ]
+  },
+  {
+   "id": "kirovohrad-drone-barrage",
+   "date": "2026-10-15",
+   "title": "Record Russian drone barrage hits Kirovohrad region during 'energy truce'",
+   "marker": "strike",
+   "unplaced": "Governor reported 26 locations across Kirovohrad region; no single site named.",
+   "summary": "Kirovohrad region suffered its largest Russian attack of the war overnight: 360+ drones hit 26 locations, killing three and wounding six (Gov. Andriy Raikovych). Ukraine's air force said 580 drones were launched nationwide, 536 shot down.",
+   "analysis": {
+    "text": "Strikes of this scale on infrastructure are the stated reason Kyiv abandoned the energy pause; expect tit-for-tat refinery and grid strikes to resume at pace.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/world-news/central-ukrainian-region-hit-by-vast-drone-attack-killing-three-4950672"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "energy-ceasefire-collapse",
+   "marker": "strike",
+   "where": [
+    "ryazan"
+   ],
+   "why": "Place today's story: Reuters/AP name the Rosneft refinery in Ryazan as the target hit."
+  },
+  {
+   "id": "houthis-saudi-oct15",
+   "marker": "strike",
+   "where": [
+    "medina",
+    "dhahran",
+    "riyadh"
+   ],
+   "why": "Place today's story at the named sites: Medina intercept, Dhahran HQ, Riyadh airport."
+  },
+  {
+   "id": "kabila-frn-succeeds-afc",
+   "marker": "political",
+   "where": [
+    "goma"
+   ],
+   "why": "FRN statement was issued in Goma."
+  },
+  {
+   "id": "gfs-pride-sunk",
+   "marker": "strike",
+   "unplaced": "Exact sinking position not reported, and strait-of-hormuz has no sourced coordinates yet; hot zone is not a pin.",
+   "why": "Add required marker/unplaced under new place rules."
+  },
+  {
+   "id": "pla-patrol-oct14-15",
+   "marker": "military",
+   "unplaced": "Activity spread across several ADIZ sectors; no single point.",
+   "why": "Add required marker/unplaced under new place rules."
   }
  ]
 }
