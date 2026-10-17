@@ -1325,6 +1325,742 @@
     "date_saved": true,
     "hotzones_date": "2026-10-15"
    }
+  },
+  "2026-10-17": {
+   "sha256": "91a946e587698ead858b203a035fb2a41256e9313ebb5cbbc82b674aa0cc0ac5",
+   "undo": {
+    "stories": {
+     "trump-waives-russia-sanctions": null,
+     "putin-security-zone": null,
+     "russia-grid-strikes-oct16": null,
+     "irgc-mine-supertanker-brent-110": null,
+     "yanbu-missile-intercepted": null,
+     "tech-selloff-worst-week": null,
+     "dongsha-coast-guard-incursion": null,
+     "eu-china-rare-earth-green-channel": null,
+     "ethiopia-tigray-advance": null,
+     "diesel-deal": {
+      "id": "diesel-deal",
+      "date": "2026-10-13",
+      "region": "Russia/Eurasia",
+      "title": "US hopes Russian diesel deal can 'soften' Moscow on peace talks",
+      "summary": "Witkoff and Kushner told Ukrainian officials that a deal for Russia to supply more than 2.25M barrels of diesel could revive talks, and urged Kyiv to stop striking Russian refineries. Zelensky called it a 'gift to Putin.'",
+      "analysis": {
+       "text": "High oil prices from the Gulf war give Russia energy leverage over US policy.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "Reuters via Korea Times",
+        "url": "https://www.koreatimes.co.kr/world/20261013/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "united-states",
+       "steve-witkoff",
+       "volodymyr-zelenskyy",
+       "petroleum",
+       "donald-trump"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "russia-ukraine",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-24-invasion",
+       "2022-03-08-us-oil-ban",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-03-eu-oil-embargo",
+        "why": "Embargo rerouted Russian products and created today's leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-09-02-price-cap",
+        "why": "Price-cap regime shapes Russian product sales",
+        "confidence": "possible"
+       }
+      ],
+      "effects": []
+     },
+     "trump-disgrace-eu-summit": {
+      "id": "trump-disgrace-eu-summit",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Europe",
+      "title": "Trump calls Kyiv's refinery strikes a 'disgrace' as EU summit rallies around Zelenskiy",
+      "summary": "Trump told Newsmax that Ukraine's resumed strikes on Russian refineries are 'a disgrace' that push world oil prices higher. EU leaders hosted Zelenskiy at their Brussels summit on Oct 16, where he sought a 'winter package' of energy, air defence and funding. Ukraine's finance minister puts the unfunded 2027 budget gap at $32.6 billion, excluding about $40 billion in direct military supplies. Putin said the refinery strikes caused 'nothing particularly significant'. A Putin decree dated Oct 15 (No. 738) placed Russian units of Tarkett, Menshen, Ontex, Kappa Rus (Swedish-owned) and a Sonoco-linked packaging firm under temporary state-appointed management.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/eu-leaders-rally-around-zelenskiy-as-trump-calls-ukrainian-strikes-on-russia-a-disgrace-4953324"
+       },
+       {
+        "name": "AK&M (Decree No. 738)",
+        "url": "https://www.akm.ru/eng/news/vladimir-putin-has-transferred-the-assets-of-a-number-of-foreign-companies-to-temporary-management-/"
+       },
+       {
+        "name": "Russian legal portal: Decree No. 738",
+        "url": "http://www.publication.pravo.gov.ru/document/0001202610150039"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "european-union",
+       "russia",
+       "vladimir-putin",
+       "france",
+       "germany",
+       "sweden",
+       "petroleum",
+       "brussels"
+      ],
+      "causes": [
+       {
+        "story": "energy-ceasefire-collapse",
+        "why": "Kyiv's exit from the energy pause and new refinery strikes drew Trump's rebuke",
+        "confidence": "likely"
+       },
+       {
+        "story": "diesel-deal",
+        "why": "EU leaders object to the US-Russia diesel deal that underpins Washington's pressure on Kyiv",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Washington's operative goal is lower pump prices before the Nov 3 midterms; Europe's is keeping Ukraine solvent and lit through winter without dependable US cover. The asset seizures signal that any EU move on frozen Russian state assets will be answered in kind against European companies still inside Russia.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "energy-ceasefire-collapse",
+       "diesel-deal",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-03-08-us-oil-ban",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed"
+      ]
+     },
+     "lutsk-blackout-volyn": {
+      "id": "lutsk-blackout-volyn",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Europe",
+      "title": "Russian drones black out Lutsk and Volyn; three killed in Kharkiv",
+      "summary": "Russian drone strikes on Volyn region, which borders Poland, left 370,000 people without power on Oct 16 (Reuters, citing local authorities); Lutsk lost electricity and city services ran on backup power. Russian drone strikes on Kharkiv killed three people, and DTEK reported emergency power cuts in Kyiv.",
+      "sources": [
+       {
+        "name": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/10/16/8058269/"
+       },
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/eu-leaders-rally-around-zelenskiy-as-trump-calls-ukrainian-strikes-on-russia-a-disgrace-4953324"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "lutsk",
+       "kharkiv",
+       "kyiv"
+      ],
+      "causes": [
+       {
+        "story": "kirovohrad-drone-barrage",
+        "why": "Same Russian campaign against Ukrainian energy infrastructure, now reaching the west",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Hitting the far west signals that no part of Ukraine's grid is out of reach heading into winter, which strengthens Kyiv's ask in Brussels for air defence alongside money.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "lutsk",
+       "kharkiv"
+      ],
+      "related_stories": [
+       "kirovohrad-drone-barrage",
+       "energy-ceasefire",
+       "2022-02-24-invasion",
+       "2022-10-10-energy-strikes"
+      ]
+     },
+     "gulf-of-oman-tanker-fires": {
+      "id": "gulf-of-oman-tanker-fires",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Middle East",
+      "title": "Second tanker in a day burns in Iran's declared 'prohibited zone'; Cape Dao sinks",
+      "summary": "Iran's navy said an unnamed oil tanker that had switched off its tracking systems caught fire in the Gulf of Oman while crossing the zone the IRGC declared prohibited in September; it gave no cause, flag or crew status, and CENTCOM did not immediately comment. Euronews called it the second such incident in 24 hours. The bulk carrier Cape Dao, struck by a projectile on Sept 23, sank on Oct 14. Kpler said intensified Iranian attacks drove Gulf crude flows sharply lower.",
+      "sources": [
+       {
+        "name": "AFP via Arab News",
+        "url": "https://www.arabnews.com/middle-east/irans-military-says-oil-tanker-on-fire-in-gulf-of-oman-3006549"
+       },
+       {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks"
+       },
+       {
+        "name": "Anadolu",
+        "url": "https://www.aa.com.tr/en/middle-east/iran-reports-another-oil-tanker-fire-in-restricted-area-east-of-strait-of-hormuz/4090144"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "gfs-pride-sunk",
+        "why": "Continuation of the October campaign against shipping on the Hormuz approaches",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Tehran is running a permission regime on the approaches rather than a full closure: transit on Iran's terms is the leverage it is trading against the US blockade of its ports.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "unplaced": "Iran said only that the tanker was east of the Strait of Hormuz in the Gulf of Oman; no position given.",
+      "related_stories": [
+       "gfs-pride-sunk",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "kataib-hezbollah-halt",
+       "venezuela-oil",
+       "us-weighs-shadow-fleet-relief"
+      ]
+     },
+     "saudi-blames-iran-eu-gcc-postponed": {
+      "id": "saudi-blames-iran-eu-gcc-postponed",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Middle East",
+      "title": "Saudi Arabia blames Iran for Houthi escalation; EU-GCC summit in Riyadh postponed",
+      "summary": "The GCC and the EU postponed indefinitely the second EU-GCC summit set for Oct 24 in Riyadh, citing Houthi attacks and the closure of King Khalid International Airport. Saudi deputy minister Rayed Krimly told reporters Iran is encouraging the Houthi escalation, that the Houthis refused a July meeting in Oman, that Riyadh has not asked for Iranian mediation, and that some Iranian and Houthi capabilities or intelligence come from 'elements in Russia or China'. AP reported at least 19 killed; the coalition said the Riyadh airport was targeted 20 times this month.",
+      "sources": [
+       {
+        "name": "AP via PBS",
+        "url": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom"
+       },
+       {
+        "name": "Council of the EU",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/postponement-of-the-second-eu-gcc-summit/"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "houthis",
+       "iran",
+       "european-union",
+       "riyadh",
+       "russia",
+       "china",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "houthis-saudi-oct15",
+        "why": "Houthi strikes on Riyadh airport and oil sites made the summit unsafe to host",
+        "confidence": "likely"
+       },
+       {
+        "story": "houthis-hit-aden-palace",
+        "why": "The widening Houthi campaign sharpened Riyadh's public case against Tehran",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Riyadh is building the case for more US military help and for keeping Iran's Yemen card inside any US-Iran deal, while keeping its own line to Tehran open. Losing the summit dents the kingdom's safe-hub pitch to investors.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "rare-earth-nov10",
+       "2021-11-29-jcpoa-vienna",
+       "2022-02-26-swift-cbr",
+       "2022-03-25-jeddah-attack",
+       "2022-06-14-msp",
+       "2022-09-02-price-cap",
+       "2022-09-jcpoa-stall",
+       "2022-10-05-opec-cut",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief"
+      ]
+     },
+     "coreweave-ai-credit-shock": {
+      "id": "coreweave-ai-credit-shock",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Americas",
+      "title": "CoreWeave debt scare jolts AI trade; Treasuries rally despite hot inflation",
+      "summary": "Yields on CoreWeave's junk-rated 2031 bonds rose to about 16% and its default-insurance cost to roughly 1,000 basis points (Reuters); the company has about $50 billion of debt (LSEG). Nvidia's Jensen Huang said CoreWeave's finances are improving and no backstop is needed; Nvidia has agreed to buy its unsold capacity through April 2032. South Korea's KOSPI fell nearly 8% and the Nikkei about 5% on Oct 15 before rebounding about 3% and 1.5% on Oct 16. The US 10-year yield fell 10.2bp to 5.086%, its biggest one-day drop in over a year, even as September PPI rose 6.3% year on year against a 5.3% consensus.",
+      "sources": [
+       {
+        "name": "Reuters explainer via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500"
+       },
+       {
+        "name": "Reuters Morning Bid via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/morning-bid-calm-after-coreweave-shock-but-for-how-long-4953079"
+       },
+       {
+        "name": "WSJ markets",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/thursday-recap-treasurys-bounce-back-aWdBi36xqCwHhWwH1kg4"
+       },
+       {
+        "name": "Anadolu (PPI)",
+        "url": "https://www.aa.com.tr/en/economy/us-producer-inflation-hits-63-in-september-exceeding-expectations-of-53-/4089880"
+       }
+      ],
+      "entities": [
+       "coreweave",
+       "nvidia",
+       "ai-data-centers",
+       "semiconductors",
+       "federal-reserve",
+       "inflation",
+       "south-korea",
+       "japan",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "hormuz-attacks-surge",
+        "why": "Energy-driven inflation keeps long yields high, raising financing costs for leveraged AI builders",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "The AI build-out runs on credit. With 10-year yields above 5%, held up partly by war-driven energy inflation, the most leveraged borrowers crack first. This is where the Hormuz shock meets the AI-compute storyline.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Market-wide credit move; no event site.",
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "rare-earth-nov10",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls"
+      ]
+     },
+     "pla-patrol-oct15-16": {
+      "id": "pla-patrol-oct15-16",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Asia-Pacific",
+      "title": "Taiwan tracks 8 PLA sorties, all across the median line, plus 9 navy and 7 official ships",
+      "summary": "Taiwan's defence ministry detected 8 PLA aircraft sorties, 9 PLAN ships and 7 official ships around Taiwan from 6 a.m. Oct 15 to 6 a.m. Oct 16 (UTC+8). All 8 sorties crossed the median line into the northern and southwestern ADIZ.",
+      "sources": [
+       {
+        "name": "Taiwan Ministry of National Defense",
+        "url": "https://www.mnd.gov.tw/en/Publication/88002"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "pla",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "pla-drills",
+        "why": "Continued pressure after the post-Lai-speech drills",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Fewer aircraft but every sortie across the median line, with coast-guard-type 'official ships' present, fits Beijing's normalisation of pressure rather than a surge.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "unplaced": "Activity spread across Taiwan's northern and southwestern ADIZ; no single point.",
+      "related_stories": [
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "pla-patrol-oct14-15"
+      ]
+     },
+     "rare-earth-nov10": {
+      "id": "rare-earth-nov10",
+      "date": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "China's rare-earth leverage: Nov 10 suspension deadline, US refiners blacklisted",
+      "summary": "China's April 2025 controls on 7 rare earths remain in force; the Oct 2025 expansion is suspended until Nov 10, 2026. On Oct 3, MP Materials and USA Rare Earth were barred from dual-use inputs. Per CFR, supplies to Japan were cut to near zero in 2026. The Oct 9 EU–China outcome promises fast-track licences without volumes or dates.",
+      "analysis": {
+       "text": "China treats mineral licensing as a strategic deterrent, including on Taiwan.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CFR",
+        "url": "https://www.cfr.org/reports/dismantling-chinas-supply-chain-weapon"
+       },
+       {
+        "name": "Crux Investor",
+        "url": "https://www.cruxinvestor.com/posts/chinas-export-cap-shifts-rare-earth-margin-toward-producers"
+       },
+       {
+        "name": "East Asia Brief",
+        "url": "https://eastasiabrief.com/semiconductors/china-bans-dual-use-sales-mp-materials-us-refiners-526"
+       },
+       {
+        "name": "TSN",
+        "url": "https://tsnmedia.org/eu-china-rare-earth-export-licences-fast-track-first-step-sefcovic/"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths",
+       "mp-materials",
+       "united-states",
+       "japan",
+       "european-union",
+       "taiwan",
+       "gallium",
+       "ai-data-centers"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific",
+       "ai-compute-minerals"
+      ],
+      "related_stories": [
+       "2021-12-china-rare-earth-group",
+       "2022-05-23-ipef",
+       "2022-06-14-msp",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "ai-minerals",
+       "pla-drills"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State consolidation enabled licensing leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "marker": "political",
+      "unplaced": "The measures span China, the United States, and Japan. No single place is named."
+     }
+    },
+    "zones": {
+     "hormuz": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz",
+      "lat": 26.6,
+      "lon": 56.3,
+      "severity": "critical",
+      "note": "Two tanker fires in Iran's 'prohibited zone'; Cape Dao sank; Brent ~$106",
+      "label_dx": 8,
+      "label_dy": -14,
+      "entities": [
+       "strait-of-hormuz",
+       "iran",
+       "irgc",
+       "persian-gulf",
+       "petroleum",
+       "united-states",
+       "iea"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "us-weighs-shadow-fleet-relief",
+       "iea-diesel-release"
+      ]
+     },
+     "saudi": {
+      "id": "saudi",
+      "name": "Saudi (Aramco)",
+      "lat": 25.5,
+      "lon": 48.5,
+      "severity": "high",
+      "note": "Riyadh airport hit 20x in October; EU-GCC summit postponed",
+      "label_dx": -105,
+      "label_dy": -12,
+      "entities": [
+       "saudi-arabia",
+       "aramco",
+       "houthis",
+       "petroleum",
+       "riyadh"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed"
+      ]
+     },
+     "yemen": {
+      "id": "yemen",
+      "name": "Yemen / Bab el-Mandeb",
+      "lat": 13.3,
+      "lon": 43.4,
+      "severity": "critical",
+      "note": "Aden palace hit; Riyadh blames Iran; EU-GCC summit off",
+      "label_dx": -60,
+      "label_dy": 32,
+      "entities": [
+       "houthis",
+       "yemen",
+       "bab-el-mandeb",
+       "red-sea",
+       "mokha",
+       "iran"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed"
+      ]
+     },
+     "ukraine": {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "lat": 49.5,
+      "lon": 32.0,
+      "severity": "critical",
+      "note": "Volyn blackout; Trump calls strikes a 'disgrace'; Starshield throttled",
+      "label_dx": -62,
+      "label_dy": -10,
+      "entities": [
+       "ukraine",
+       "russia",
+       "volodymyr-zelenskyy",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "lutsk-blackout-volyn"
+      ]
+     },
+     "russia": {
+      "id": "russia",
+      "name": "Russia (oil/diesel)",
+      "lat": 55.7,
+      "lon": 37.6,
+      "severity": "high",
+      "note": "Decree 738 seizes EU firms' units; Putin shrugs off refinery hits",
+      "entities": [
+       "russia",
+       "petroleum",
+       "steve-witkoff",
+       "european-union"
+      ],
+      "stories": [
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit"
+      ]
+     },
+     "taiwan": {
+      "id": "taiwan",
+      "name": "Taiwan Strait",
+      "lat": 24.0,
+      "lon": 120.0,
+      "severity": "high",
+      "note": "8 sorties all across median line, 9 PLAN + 7 official ships Oct 15-16",
+      "entities": [
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "china"
+      ],
+      "stories": [
+       "pla-drills",
+       "pla-patrol-oct14-15",
+       "pla-patrol-oct15-16"
+      ]
+     },
+     "china": {
+      "id": "china",
+      "name": "China (rare earths)",
+      "lat": 35.0,
+      "lon": 105.0,
+      "severity": "high",
+      "note": "Nov 10 REE suspension deadline; drills + minerals leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-patrol-oct14-15"
+      ]
+     },
+     "tigray": null
+    },
+    "links": {
+     "hormuz--saudi": null,
+     "tigray--yemen": null,
+     "hormuz--ukraine": {
+      "id": "hormuz--ukraine",
+      "from": "hormuz",
+      "to": "ukraine",
+      "label": "Oil price → US pressure on Kyiv",
+      "entities": [
+       "petroleum",
+       "donald-trump",
+       "ukraine",
+       "strait-of-hormuz"
+      ],
+      "stories": [
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "iea-diesel-release"
+      ]
+     }
+    },
+    "relationships": {},
+    "storylines": {
+     "horn-of-africa-tigray": null
+    },
+    "entities": {},
+    "entities_added": [
+     "beijing",
+     "eritrea",
+     "ethiopia",
+     "kramatorsk",
+     "mekelle",
+     "pratas-island",
+     "rivne",
+     "tplf",
+     "yanbu"
+    ],
+    "date_saved": true,
+    "hotzones_date": "2026-10-16"
+   }
   }
  }
 }
