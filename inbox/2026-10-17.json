@@ -1,0 +1,660 @@
+{
+ "edition": "2026-10-17",
+ "entities": [
+  {
+   "id": "yanbu",
+   "name": "Yanbu",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yanbu",
+   "lat": 24.08944444,
+   "lon": 38.06194444,
+   "precision": "city"
+  },
+  {
+   "id": "pratas-island",
+   "name": "Pratas Island (Dongsha)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pratas_Island",
+   "lat": 20.70222222,
+   "lon": 116.7275,
+   "precision": "feature"
+  },
+  {
+   "id": "mekelle",
+   "name": "Mekelle",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mekelle",
+   "lat": 13.49694444,
+   "lon": 39.47694444,
+   "precision": "city"
+  },
+  {
+   "id": "kramatorsk",
+   "name": "Kramatorsk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kramatorsk",
+   "lat": 48.73916667,
+   "lon": 37.58388889,
+   "precision": "city"
+  },
+  {
+   "id": "rivne",
+   "name": "Rivne",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rivne",
+   "lat": 50.61916667,
+   "lon": 26.25194444,
+   "precision": "city"
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Beijing",
+   "lat": 39.90666667,
+   "lon": 116.3975,
+   "precision": "city"
+  },
+  {
+   "id": "ethiopia",
+   "name": "Ethiopia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ethiopia"
+  },
+  {
+   "id": "eritrea",
+   "name": "Eritrea",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eritrea"
+  },
+  {
+   "id": "tplf",
+   "name": "Tigray People's Liberation Front",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tigray_People's_Liberation_Front"
+  }
+ ],
+ "stories": [
+  {
+   "id": "trump-waives-russia-sanctions",
+   "date": "2026-10-16",
+   "region": "Americas",
+   "marker": "political",
+   "unplaced": "Executive order signed in Washington; a policy act with no event site.",
+   "title": "Trump waives much of the new Russia sanctions law two days before it takes effect",
+   "summary": "Trump signed an executive order on Friday night suspending many sanctions, restrictions and duties in the Russia sanctions law Congress passed and he signed in September, telling Congress the pause was in the US 'national interest'. The law gave him power to levy tariffs of up to 100% on the top five buyers of Russian oil and gas, chiefly China and India, and sanctioned senior Russian figures including Putin, Russian financial institutions and the shadow fleet; the BBC said many of those provisions were waived. Kremlin envoy Kirill Dmitriev called it 'an important and truly historic moment'. Zelenskyy said the sanctions 'could have helped enormously'; Democratic Rep. Don Beyer called it a 'surrender to Putin'.",
+   "analysis": {
+    "text": "The waiver completes a pivot: Washington is now trading Russia pressure for lower fuel prices before Nov 3, after the diesel deal, the energy pause and the Starshield curbs. Secondary tariffs on China and India were also the one tool that could have hit Russian oil revenue hard, so their removal eases pressure on Beijing and Delhi too. Expect Europe to carry more of Ukraine's financing and sanctions burden.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+    },
+    {
+     "name": "The Guardian (Ukraine war briefing)",
+     "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "united-states",
+    "russia",
+    "vladimir-putin",
+    "ukraine",
+    "volodymyr-zelenskyy",
+    "china",
+    "india",
+    "petroleum",
+    "ofac"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "diesel-deal",
+     "why": "The Russian diesel deal set the frame of easing Russia pressure to cut US fuel prices",
+     "confidence": "likely"
+    },
+    {
+     "story": "trump-disgrace-eu-summit",
+     "why": "The waiver followed Trump's open break with Zelenskyy over refinery strikes",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "putin-security-zone",
+   "date": "2026-10-16",
+   "region": "Russia/Eurasia",
+   "marker": "military",
+   "unplaced": "A planned 660 km border strip in Sumy and Kharkiv regions; no single site named.",
+   "title": "Putin declares a 'security zone' inside Ukraine non-negotiable; Kremlin says it spans 660 km",
+   "summary": "Speaking in uniform at a command post, Putin said Russian forces were establishing a 'security zone' in Ukrainian territory adjacent to Russia's border, framed as a response to Ukraine's 2024-25 Kursk incursion, and that Russia does 'not plan to make this a subject for potential peace negotiations'. Kremlin spokesman Dmitry Peskov said the zone spans 660 km, about 70% of it under Russian control, without saying how deep it would reach. It would require land in Sumy and Kharkiv regions, which Russia has not claimed to annex. Russia's military chief told Putin the military had allocated the assets to press its air campaign against Ukraine's energy system.",
+   "analysis": {
+    "text": "Moscow is pocketing a new territorial demand outside its four claimed regions while US pressure is aimed at Kyiv, not Russia. Timing it with the sanctions waiver suggests the Kremlin reads Washington as unwilling to impose costs.",
+    "confidence": "possible"
+   },
+   "sources": [
+    {
+     "name": "The Guardian (Ukraine war briefing)",
+     "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "ukraine",
+    "kharkiv"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "russia-grid-strikes-oct16",
+   "date": "2026-10-16",
+   "region": "Europe",
+   "marker": "strike",
+   "where": [
+    "kharkiv",
+    "kramatorsk",
+    "rivne"
+   ],
+   "title": "Russia hits 15 energy sites; more than 1 million lose power and at least 8 are killed",
+   "summary": "Russian attacks on Oct 16 struck nine regions, killing at least eight people and injuring 60, hitting two shopping centres and cutting power to more than a million people, Ukrainian officials said; the energy ministry said power was later restored to over a million. Two were killed in Kharkiv, two in Kramatorsk and two in Dnipropetrovsk region; drones hit a shopping centre in Rivne (one killed) and a food plant in Volyn (one killed), and torched about 10 trucks at a Kovel customs terminal. Zelenskyy said 15 energy facilities were hit overnight. A strike on Kherson on Oct 17 killed an ambulance driver. The UN monitoring mission said 328 civilians were killed in September, 85% more than a year earlier.",
+   "analysis": {
+    "text": "Russia is racing to break Ukraine's grid before winter while Kyiv's US enablers are degraded; the western strikes near Poland also test EU air-defence resolve.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million"
+    },
+    {
+     "name": "The Guardian (Ukraine war briefing)",
+     "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "kharkiv",
+    "kramatorsk",
+    "rivne",
+    "volodymyr-zelenskyy"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "lutsk-blackout-volyn",
+     "why": "Continuation of the same pre-winter campaign against the grid",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "irgc-mine-supertanker-brent-110",
+   "date": "2026-10-17",
+   "region": "Middle East",
+   "marker": "strike",
+   "unplaced": "The IRGC gave no position for the tanker, and no maritime authority has confirmed the incident.",
+   "title": "IRGC says supertanker hit a mine in Hormuz as Brent touches $110",
+   "summary": "Iran's IRGC navy said a tanker carrying more than 2 million barrels of oil struck a mine on Oct 17 while taking an 'unauthorised route' with its positioning systems off, causing a 'massive explosion'; it gave no location, and the ship's identity was not reported. Al Jazeera said three tankers had been reported hit since Friday, one by an RPG fired from a small boat according to UKMTO. CENTCOM's Adm. Brad Cooper said the strait 'is controlled by the United States and our regional partners, not Iran'. On Oct 16 Brent settled up 3.7% at $109.86 after touching $110, its highest since May, and WTI rose 3.5% to $101.41. Kpler put Hormuz crude exports at 9.4 million b/d in the week to Wednesday, about 70% of pre-war levels.",
+   "analysis": {
+    "text": "Mines change the risk math more than missiles: insurers and owners cannot see the threat, so transit may fall even without new attacks. Iran's aim is to make the US blockade of its ports cost the world more than it costs Tehran. Goldman's $120 upside case is in play if flows keep falling.",
+    "confidence": "possible"
+   },
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"
+    },
+    {
+     "name": "Al Jazeera live",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+    },
+    {
+     "name": "Reuters via Business Recorder",
+     "url": "https://www.brecorder.com/news/40444629/oil-touches-usd110-a-barrel-for-first-time-since-may"
+    },
+    {
+     "name": "Economic Times (Goldman scenarios)",
+     "url": "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms"
+    }
+   ],
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "petroleum"
+   ],
+   "storylines": [
+    "iran-war-hormuz",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "gulf-of-oman-tanker-fires",
+     "why": "Escalation of Iran's campaign against ships crossing its declared zone",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "yanbu-missile-intercepted",
+   "date": "2026-10-16",
+   "region": "Middle East",
+   "marker": "strike",
+   "where": [
+    "yanbu"
+   ],
+   "title": "Houthi ballistic missile aimed at Yanbu, Saudi Arabia's Hormuz bypass, is intercepted",
+   "summary": "The Saudi-led coalition said it intercepted a ballistic missile over Yanbu, the Red Sea terminus of a major oil pipeline, plus two cruise missiles over the Red Sea and three drones over southern Saudi Arabia and Riyadh; initial reports indicated no damage. Saudi deputy minister Rayed Krimly said Iran's support for the Houthis violates the China-brokered 2023 Beijing agreement. Iran's foreign ministry spokesman Esmaeil Baqaei rejected any role and offered to mediate. The UN Security Council condemned the Houthi attacks on Oct 15. On Oct 17 the coalition said it destroyed two ballistic-missile launch platforms in Saada.",
+   "analysis": {
+    "text": "Yanbu is the escape valve that lets Saudi crude avoid Hormuz. Targeting it signals that the Houthi campaign is aimed at Gulf export capacity, not just Saudi morale, which pairs with Iran's squeeze on Hormuz. Invoking the Beijing deal also puts China on the spot as guarantor.",
+    "confidence": "likely"
+   },
+   "sources": [
+    {
+     "name": "AFP via Khaleej Times",
+     "url": "https://www.khaleejtimes.com/world/gulf/saudi-coalition-intercept-missiles-drones-riyadh-oct-16-2026"
+    },
+    {
+     "name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/gulf/5330363-coalition-intercepts-ballistic-cruise-missiles-and-uavs"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran"
+    },
+    {
+     "name": "Khaleej Times live (Iran denial)",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-16-2026"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "saudi-arabia",
+    "yanbu",
+    "iran",
+    "china",
+    "aramco",
+    "petroleum",
+    "saada"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "saudi-blames-iran-eu-gcc-postponed",
+     "why": "Same Houthi escalation against the kingdom, now aimed at its Red Sea export outlet",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "tech-selloff-worst-week",
+   "date": "2026-10-16",
+   "region": "Americas",
+   "marker": "political",
+   "unplaced": "Market-wide move; no event site.",
+   "title": "AI selloff gives stocks their worst week since June as oil and yields stay high",
+   "summary": "The S&P 500 fell 1.09% to 7,659.44 and the Nasdaq 2.15% to 26,140.03 on Oct 16; the S&P lost about 2% on the week and the Nasdaq about 4.5%, while the Dow eked out a weekly gain. CoreWeave fell 11.9% on the day and more than 23% on the week (WSJ). The 10-year Treasury yield ended near 5.10% after hitting about 5.33% following Wednesday's CPI; September import prices rose 1.1% on the month. The VIX rose about 22% to 20.07, the dollar index slipped 0.24% and gold was little changed near $4,189. Fed Chair Kevin Warsh gave no rate guidance; CME FedWatch showed more than 80% odds of a hold this month.",
+   "analysis": {
+    "text": "Equities are being squeezed from both ends: energy-led inflation keeps long yields above 5%, which punishes the debt-financed AI build-out. The Dow's resilience shows rotation toward energy and value rather than a broad panic.",
+    "confidence": "possible"
+   },
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3"
+    },
+    {
+     "name": "CNBC (Treasuries)",
+     "url": "https://www.cnbc.com/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html"
+    },
+    {
+     "name": "The Closing Print",
+     "url": "https://www.theclosingprint.net/2026/10/closing-macro-recap-2026-10-16/"
+    }
+   ],
+   "entities": [
+    "coreweave",
+    "nvidia",
+    "ai-data-centers",
+    "federal-reserve",
+    "inflation",
+    "united-states",
+    "petroleum"
+   ],
+   "storylines": [
+    "ai-compute-minerals"
+   ],
+   "causes": [
+    {
+     "story": "coreweave-ai-credit-shock",
+     "why": "CoreWeave's debt scare kept pressure on AI stocks through the week",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "dongsha-coast-guard-incursion",
+   "date": "2026-10-16",
+   "region": "Asia-Pacific",
+   "marker": "military",
+   "where": [
+    "pratas-island"
+   ],
+   "title": "Chinese coast guard ships enter Dongsha restricted waters; PLA flies 9 sorties near Taiwan",
+   "summary": "Two Chinese coast guard vessels, 3301 and 3303, entered restricted waters around Taiwan-controlled Dongsha (Pratas) Atoll at 3:34 p.m. on Oct 16, and Taiwan's Coast Guard sent ships to order them out; the standoff was ongoing when the CGA issued its statement. The CGA said it had run 11 expulsion operations near Dongsha this year. Taiwan's defence ministry separately detected 9 PLA aircraft sorties, 6 PLAN ships and 8 official ships from 6 a.m. Oct 16 to 6 a.m. Oct 17 (UTC+8); 5 sorties crossed the median line.",
+   "analysis": {
+    "text": "Dongsha is Taiwan's most exposed outpost, far closer to Hong Kong than to Taipei. Repeated coast-guard 'law enforcement' patrols build a paper trail of Chinese jurisdiction that could later justify a quarantine without firing a shot.",
+    "confidence": "possible"
+   },
+   "sources": [
+    {
+     "name": "Focus Taiwan (CNA)",
+     "url": "https://focustaiwan.tw/politics/202610170005"
+    },
+    {
+     "name": "Taiwan Ministry of National Defense",
+     "url": "https://www.mnd.gov.tw/en/News/PLAAct/88006"
+    }
+   ],
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "pratas-island"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "pla-patrol-oct15-16",
+     "why": "Continued daily grey-zone pressure around Taiwan",
+     "confidence": "likely"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "eu-china-rare-earth-green-channel",
+   "date": "2026-10-09",
+   "region": "Asia-Pacific",
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ],
+   "title": "EU-China trade truce adds a rare-earth 'green channel' but leaves Europe dependent",
+   "summary": "EU trade commissioner Maroš Šefčovič and Chinese commerce minister Wang Wentao agreed a 16-point list in Beijing on Oct 8-9, including a 'green channel' to speed licences for rare earths and permanent magnets exported to the EU; in return the EU will work to accelerate priority licences for dual-use items going to China. China also committed to halving hybrid and plug-in hybrid car exports to the EU, with the mechanism undisclosed. EU leaders reviewed the deal at their Oct 15-16 summit. Separately, China continues to restrict controlled rare-earth sales to listed US firms; its suspension of the 0.1% foreign-content rule expires Nov 10.",
+   "analysis": {
+    "text": "Beijing is splitting the West: faster licences for Europe while US firms stay on restricted lists, just as Washington eases Russia sanctions over European objections. Europe gains predictability, not independence; China can still slow approvals at will.",
+    "confidence": "possible"
+   },
+   "sources": [
+    {
+     "name": "Decode39",
+     "url": "https://decode39.com/16992/eu-and-china-reach-a-trade-truce-in-beijing-but-europes-rare-earth-exposure-remains/"
+    },
+    {
+     "name": "European Commission joint statement",
+     "url": "https://europa.eu/newsroom/ecpc-failover/pdf/statement-26-2122_en.pdf"
+    },
+    {
+     "name": "China Daily",
+     "url": "https://www.chinadaily.com.cn/a/202610/15/WS6ad089c1e4b06d4aa0562fd5.html"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "china",
+    "rare-earths",
+    "beijing",
+    "mp-materials",
+    "united-states"
+   ],
+   "storylines": [
+    "china-minerals-leverage"
+   ],
+   "causes": [
+    {
+     "story": "rare-earth-nov10",
+     "why": "The looming Nov 10 expiry keeps rare-earth licensing at the centre of China's trade leverage",
+     "confidence": "possible"
+    }
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  },
+  {
+   "id": "ethiopia-tigray-advance",
+   "date": "2026-10-16",
+   "region": "Africa",
+   "marker": "military",
+   "where": [
+    "mekelle"
+   ],
+   "title": "Ethiopian forces sweep Tigray to the Eritrean border, raising fears of interstate war",
+   "summary": "The New Humanitarian reported on Oct 16 that Ethiopian troops and the pro-government Tigray Peace Force militia took control of towns on Tigray's northern border this week as Eritrean forces stationed along the Zalambessa-Fatsi line crossed back into Eritrea, though some Eritrean troops remain inside Tigray. TPLF fighters withdrew deeper into the mountains after swift reversals since the war resumed in late September, and some residents of the regional capital Mekelle welcomed TPF leaders.",
+   "analysis": {
+    "text": "The question is whether Addis Ababa stops at the border or pushes on Asmara, possibly toward its long-sought access to the Red Sea. A war there would sit across the Bab el-Mandeb from the Houthi-Saudi fight and could pull in Egypt, Sudan's factions and Gulf patrons.",
+    "confidence": "speculative"
+   },
+   "sources": [
+    {
+     "name": "The New Humanitarian",
+     "url": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet"
+    }
+   ],
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf",
+    "mekelle"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "date_precision": "day",
+   "kind": "event",
+   "era": "2020s",
+   "edition": "2026-10-17"
+  }
+ ],
+ "storylines": [
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "ethiopia-tigray-advance"
+   ]
+  }
+ ],
+ "zones": [
+  {
+   "id": "hormuz",
+   "note": "IRGC claims supertanker hit a mine; 3 tankers reported hit since Fri; Brent $109.86",
+   "stories": [
+    "irgc-mine-supertanker-brent-110"
+   ]
+  },
+  {
+   "id": "saudi",
+   "note": "Missile aimed at Yanbu bypass terminal intercepted; Riyadh says Iran broke Beijing deal",
+   "stories": [
+    "yanbu-missile-intercepted"
+   ],
+   "entities": [
+    "yanbu"
+   ]
+  },
+  {
+   "id": "yemen",
+   "note": "Coalition hits Saada launchers; Houthis keep firing at Saudi oil and airports",
+   "stories": [
+    "yanbu-missile-intercepted"
+   ]
+  },
+  {
+   "id": "ukraine",
+   "note": "15 energy sites hit, 1m+ without power; US waives Russia sanctions",
+   "stories": [
+    "russia-grid-strikes-oct16",
+    "trump-waives-russia-sanctions"
+   ]
+  },
+  {
+   "id": "russia",
+   "note": "Putin declares 660 km 'security zone' non-negotiable; sanctions waiver hailed",
+   "stories": [
+    "putin-security-zone",
+    "trump-waives-russia-sanctions"
+   ]
+  },
+  {
+   "id": "taiwan",
+   "note": "CCG ships enter Dongsha waters; 9 sorties, 5 across median line",
+   "stories": [
+    "dongsha-coast-guard-incursion"
+   ],
+   "entities": [
+    "pratas-island"
+   ]
+  },
+  {
+   "id": "china",
+   "note": "Rare-earth green channel for EU; US firms still restricted ahead of Nov 10",
+   "stories": [
+    "eu-china-rare-earth-green-channel"
+   ]
+  },
+  {
+   "id": "tigray",
+   "name": "Tigray / Ethiopia-Eritrea border",
+   "lat": 14.12444444,
+   "lon": 38.72388889,
+   "severity": "elevated",
+   "note": "Ethiopian forces reach Eritrean border; TPLF retreats",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf",
+    "mekelle"
+   ],
+   "stories": [
+    "ethiopia-tigray-advance"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "id": "hormuz--saudi",
+   "from": "hormuz",
+   "to": "saudi",
+   "label": "Hormuz squeeze + Houthi fire on Yanbu bypass",
+   "entities": [
+    "strait-of-hormuz",
+    "yanbu",
+    "petroleum",
+    "iran",
+    "houthis"
+   ],
+   "stories": [
+    "irgc-mine-supertanker-brent-110",
+    "yanbu-missile-intercepted"
+   ]
+  },
+  {
+   "id": "tigray--yemen",
+   "from": "tigray",
+   "to": "yemen",
+   "label": "Two wars either side of Bab el-Mandeb",
+   "entities": [
+    "eritrea",
+    "houthis",
+    "bab-el-mandeb"
+   ],
+   "stories": [
+    "ethiopia-tigray-advance",
+    "yanbu-missile-intercepted"
+   ]
+  },
+  {
+   "id": "hormuz--ukraine",
+   "from": "hormuz",
+   "to": "ukraine",
+   "label": "Oil price → US eases Russia, presses Kyiv",
+   "entities": [
+    "petroleum",
+    "donald-trump"
+   ],
+   "stories": [
+    "trump-waives-russia-sanctions"
+   ]
+  }
+ ]
+}
