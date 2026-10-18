@@ -43518,5 +43518,493 @@
    "2025-04-02-liberation-day",
    "2018-03-08-steel-aluminum-tariffs"
   ]
+ },
+ {
+  "id": "2015-01-07-charlie-hebdo",
+  "date": "2015-01-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Europe",
+  "title": "Gunmen kill 12 at Charlie Hebdo in Paris",
+  "summary": "Two brothers claiming allegiance to al-Qaeda in the Arabian Peninsula attacked the satirical weekly; a linked gunman killed four at a kosher supermarket.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/jan/07/charlie-hebdo-shooting-paris-magazine-target-raid"
+   }
+  ],
+  "entities": [
+   "france",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "where": [
+   "paris"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2015-01-22-houthis-oust-hadi",
+  "date": "2015-01-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Middle East",
+  "title": "Houthi rebels force Yemen's President Hadi to resign",
+  "summary": "After seizing Sanaa in September 2014 the Houthis put Hadi under house arrest; he escaped to Aden in February and withdrew his resignation.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Houthi_takeover_of_Yemen"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/jan/19/yemen-state-news-agency-tv-station-seized-by-shia-rebels"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "yemen",
+   "abdrabbuh-mansur-hadi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "yemen-houthis-saudi"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "where": [
+   "sanaa"
+  ],
+  "related_stories": [
+   "2015-03-26-saudi-intervention-yemen"
+  ]
+ },
+ {
+  "id": "2015-01-23-king-salman-accedes",
+  "date": "2015-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Middle East",
+  "title": "Salman becomes king of Saudi Arabia and elevates his son Mohammed",
+  "summary": "On King Abdullah's death Salman named his 29-year-old son defence minister, beginning MBS's rapid rise.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2015/1/23/profile-king-salman-of-saudi-arabia"
+   }
+  ],
+  "entities": [
+   "king-salman",
+   "mohammed-bin-salman",
+   "saudi-arabia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2015-03-26-saudi-intervention-yemen"
+  ]
+ },
+ {
+  "id": "2015-01-26-kobani-retaken",
+  "date": "2015-01-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Middle East",
+  "title": "Kurdish YPG fighters backed by US airstrikes retake Kobani from the Islamic State",
+  "summary": "The four-month siege was the group's first big defeat and began the US partnership with the Syrian Kurds.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2015/01/27/world/middleeast/kurds-isis-syria-kobani.html"
+   }
+  ],
+  "entities": [
+   "ypg",
+   "islamic-state",
+   "united-states",
+   "syria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "isis-war",
+   "levant-wars"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "military",
+  "where": [
+   "kobani"
+  ],
+  "related_stories": [
+   "2019-03-23-baghuz-caliphate-ends",
+   "2017-10-17-raqqa-falls",
+   "2016-08-24-euphrates-shield"
+  ]
+ },
+ {
+  "id": "2015-02-12-minsk-ii",
+  "date": "2015-02-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Minsk II deal agreed as Russian-backed forces close on Debaltseve",
+  "summary": "Merkel and Hollande brokered the ceasefire with Putin and Poroshenko. Fighting went on and Ukrainian forces withdrew from Debaltseve on Feb 18.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Minsk_agreements"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Debaltseve"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/feb/18/ukraine-debaltseve-troops-withdraw-fighting-rebels-russia"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "vladimir-putin",
+   "petro-poroshenko",
+   "angela-merkel",
+   "francois-hollande",
+   "germany",
+   "france"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "analysis": {
+   "text": "Minsk II froze the Donbas war on terms Kyiv never implemented; Putin declared it dead days before the 2022 invasion.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "diplomacy",
+  "where": [
+   "minsk"
+  ],
+  "related_stories": [
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-02-24-invasion",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "iea-diesel-release",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2025-08-15-alaska-summit",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "poland-starlink-arson-russia-gang",
+   "2021-04-01-russia-spring-buildup",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2018-07-11-trump-nord-stream-2",
+   "2018-11-25-kerch-strait-incident"
+  ]
+ },
+ {
+  "id": "2015-02-15-isis-libya-copts",
+  "date": "2015-02",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Africa",
+  "title": "Islamic State in Libya beheads 21 Coptic Christians; Egypt bombs Derna",
+  "summary": "The video showed the group's spread into Libya's chaos; it seized Sirte that year.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Islamic_State_killing_of_Christian_migrants_in_Libya"
+   }
+  ],
+  "entities": [
+   "islamic-state",
+   "libya",
+   "egypt"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "isis-war",
+   "sahel"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "unplaced": "Filmed on a Libyan coast, exact site unknown.",
+  "related_stories": []
+ },
+ {
+  "id": "2015-02-27-nemtsov-killed",
+  "date": "2015-02-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Opposition leader Boris Nemtsov is shot dead near the Kremlin",
+  "summary": "The killing hours after he called for an anti-war march marked a new level of danger for Putin's critics.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov"
+   }
+  ],
+  "entities": [
+   "boris-nemtsov",
+   "russia",
+   "vladimir-putin"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2015-03-07-boko-haram-pledges-isis",
+  "date": "2015-03-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Africa",
+  "title": "Boko Haram pledges allegiance to the Islamic State",
+  "summary": "Abubakar Shekau's pledge created the 'West Africa Province', which later split from his faction as ISWAP.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boko_Haram"
+   }
+  ],
+  "entities": [
+   "boko-haram",
+   "islamic-state",
+   "nigeria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "sahel",
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "unplaced": "Audio message.",
+  "related_stories": []
+ },
+ {
+  "id": "2015-03-18-bardo-attack",
+  "date": "2015-03-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Africa",
+  "title": "Gunmen kill 21 tourists at Tunis's Bardo museum",
+  "summary": "In June a gunman killed 38 at a beach resort near Sousse, devastating Tunisia's tourism.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Sousse_attacks"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/mar/18/eight-people-killed-in-attack-on-tunisia-bardo-museum"
+   }
+  ],
+  "entities": [
+   "tunisia",
+   "islamic-state"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "where": [
+   "bardo-museum"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2015-03-26-saudi-intervention-yemen",
+  "date": "2015-03-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Middle East",
+  "title": "Saudi Arabia leads a coalition into Yemen's war against the Houthis",
+  "summary": "Defence minister Mohammed bin Salman launched 'Decisive Storm' to restore Hadi; the war became a stalemate and a humanitarian catastrophe.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/mar/26/saudi-arabia-begins-airstrikes-against-houthi-in-yemen"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "uae",
+   "houthis",
+   "yemen",
+   "mohammed-bin-salman",
+   "iran",
+   "abdrabbuh-mansur-hadi"
+  ],
+  "causes": [
+   {
+    "story": "2015-01-22-houthis-oust-hadi",
+    "why": "Restore the ousted government",
+    "confidence": "likely"
+   },
+   {
+    "story": "2015-01-23-king-salman-accedes",
+    "why": "MBS's first big gamble",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "analysis": {
+   "text": "The war lies behind the Houthis' missile and drone arsenal and their later Red Sea campaign.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "yemen-houthis-saudi"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "military",
+  "unplaced": "Nationwide air campaign.",
+  "related_stories": [
+   "2015-01-22-houthis-oust-hadi",
+   "2015-01-23-king-salman-accedes",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-abu-dhabi-attack",
+   "2022-01-21-saada-strike",
+   "2022-03-25-jeddah-attack",
+   "2022-04-02-yemen-truce",
+   "2022-04-07-plc",
+   "2022-10-02-truce-expires",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "yanbu-missile-intercepted",
+   "2026-01-09-stc-dissolution",
+   "2026-07-20-houthi-saudi-blockade",
+   "2025-12-03-stc-seizes-hadramawt",
+   "2023-08-24-brics-expansion",
+   "second-mine-tanker-ukmto-record",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
+   "2020-04-25-stc-self-rule",
+   "2021-01-05-al-ula-qatar",
+   "2021-02-04-biden-yemen-shift",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2019-09-14-abqaiq-attack",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-06-05-qatar-blockade",
+   "2017-12-04-saleh-killed"
+  ]
+ },
+ {
+  "id": "2015-03-31-buhari-wins",
+  "date": "2015-03-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-03-31",
+  "region": "Africa",
+  "title": "Muhammadu Buhari defeats Goodluck Jonathan, the first incumbent to lose in Nigeria",
+  "summary": "The ex-general campaigned on beating Boko Haram and corruption.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/may/29/historic-succession-complete-buhari-sworn-in-nigerian-president"
+   }
+  ],
+  "entities": [
+   "nigeria",
+   "muhammadu-buhari",
+   "boko-haram"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-03-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "where": [
+   "abuja"
+  ],
+  "related_stories": []
  }
 ]
