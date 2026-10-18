@@ -1,0 +1,718 @@
+{
+ "edition": "2012-12-31",
+ "stories": [
+  {
+   "id": "2012-10-07-chavez-reelected",
+   "date": "2012-10-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Hugo Chávez wins a fourth term, beating Capriles",
+   "summary": "He died five months later.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Venezuelan_presidential_election"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez"
+   ],
+   "storylines": [
+    "venezuela-oil"
+   ],
+   "marker": "political",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2012-10-09-malala-shot",
+   "date": "2012-10-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Pakistani Taliban shoot schoolgirl activist Malala Yousafzai",
+   "summary": "She survived, and won the Nobel Peace Prize in 2014.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Malala_Yousafzai"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/oct/09/taliban-pakistan-shoot-girl-malala-yousafzai"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "ttp",
+    "malala-yousafzai"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "mingora"
+   ]
+  },
+  {
+   "id": "2012-11-06-obama-reelected",
+   "date": "2012-11-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Obama is re-elected, defeating Mitt Romney",
+   "summary": "His second term brought the Iran nuclear deal, the Cuba thaw and the Paris Agreement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama",
+    "mitt-romney"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2012-11-14-pillar-of-defense",
+   "date": "2012-11-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "Israel kills Hamas commander Jabari and launches an eight-day Gaza campaign",
+   "summary": "Egypt's Morsi government brokered the ceasefire.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Gaza_War"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "egypt"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2012-11-15-xi-general-secretary",
+   "date": "2012-11-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Xi Jinping becomes Communist Party general secretary",
+   "summary": "Weeks later he launched his 'Chinese Dream' of national rejuvenation.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/18th_National_Congress_of_the_Chinese_Communist_Party"
+    }
+   ],
+   "entities": [
+    "china",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "taiwan-indopacific",
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2012-03-15-bo-xilai-purged",
+     "why": "Rival removed",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "Xi's rise began the more assertive policies that drive today's China threads.",
+    "confidence": "likely"
+   },
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2012-11-20-m23-takes-goma",
+   "date": "2012-11-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Rwanda-backed M23 rebels seize Goma",
+   "summary": "They withdrew under pressure and were defeated in 2013, but returned in 2021.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/M23_rebellion_%282012%E2%80%932013%29"
+    }
+   ],
+   "entities": [
+    "m23",
+    "drc",
+    "rwanda"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "military",
+   "where": [
+    "goma"
+   ]
+  },
+  {
+   "id": "2012-11-22-morsi-decree",
+   "date": "2012-11-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Morsi grants himself sweeping powers, setting off mass protests",
+   "summary": "The decree put his decisions beyond judicial review and split Egypt.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Egyptian_protests"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "mohamed-morsi"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2012-06-24-morsi-wins",
+     "why": "Morsi in power",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "cairo"
+   ]
+  },
+  {
+   "id": "2012-12-12-nk-satellite-launch",
+   "date": "2012-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "North Korea puts its first satellite in orbit",
+   "summary": "The launch, condemned as a ballistic-missile test, followed a failed attempt in April.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-3_Unit_2"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2012/12/11/world/asia/north-korea-rocket-launch/index.html"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "military",
+   "unplaced": "Sohae launch site."
+  },
+  {
+   "id": "2012-12-16-abe-returns",
+   "date": "2012-12-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Shinzo Abe's LDP wins a landslide in Japan",
+   "summary": "Abe promised to revive the economy and strengthen defence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Japanese_general_election"
+    }
+   ],
+   "entities": [
+    "japan",
+    "shinzo-abe"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2012-12-19-park-elected",
+   "date": "2012-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Park Geun-hye is elected South Korea's first woman president",
+   "summary": "She was impeached in 2016.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_South_Korean_presidential_election"
+    }
+   ],
+   "entities": [
+    "south-korea",
+    "park-geun-hye"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "seoul"
+   ]
+  },
+  {
+   "id": "2012-11-29-un-palestine-observer",
+   "date": "2012-11-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "UN General Assembly upgrades Palestine to non-member observer state",
+   "summary": "Mahmoud Abbas pushed the vote over US and Israeli objections.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19"
+    }
+   ],
+   "entities": [
+    "mahmoud-abbas",
+    "israel",
+    "united-states"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2016-10-02-colombia-referendum-farc-deal",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-09-04-farc-talks-open",
+     "why": "Talks began in 2012",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-01-26-kobani-retaken",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-08-08-us-strikes-isis-iraq",
+     "why": "US air campaign",
+     "confidence": "likely"
+    },
+    {
+     "story": "2012-07-19-ypg-takes-kobani",
+     "why": "YPG had held Kobani since 2012",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-07-05-greek-referendum",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-05-06-greek-election-syriza",
+     "why": "Syriza's rise",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-02-15-ramaphosa-president",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2017-12-18-ramaphosa-anc-leader",
+     "why": "ANC recalled Zuma",
+     "confidence": "likely"
+    },
+    {
+     "story": "2012-08-16-marikana-massacre",
+     "why": "Marikana dogged Ramaphosa",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2013-01-11-operation-serval",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-03-22-mali-coup",
+     "why": "Collapse of the north",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-07-03-morsi-ousted",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-11-22-morsi-decree",
+     "why": "Protests began over the decree",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-03-14-xi-becomes-president",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-11-15-xi-general-secretary",
+     "why": "Party post came first",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-01-22-philippines-files-arbitration",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-04-08-scarborough-standoff",
+     "why": "Response to losing the shoal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-08-21-ghouta-sarin",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-08-20-obama-red-line",
+     "why": "Tested the red line",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-03-05-chavez-dies",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-10-07-chavez-reelected",
+     "why": "Re-elected months before",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-11-23-china-ecs-adiz",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-09-11-senkaku-purchase",
+     "why": "Escalation over the Senkakus",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-09-21-westgate-attack",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-09-28-kismayo-falls",
+     "why": "Retaliation for Kenya's Somalia campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-04-04-boj-qqe",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-12-16-abe-returns",
+     "why": "Abenomics",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-02-12-nk-third-nuclear-test",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-12-12-nk-satellite-launch",
+     "why": "UN sanctions over the launch",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-04-08-isil-founded",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-01-23-nusra-founded",
+     "why": "Baghdadi tried to absorb Nusra",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-12-22-aleppo-falls",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-09-30-russia-enters-syria",
+     "why": "Russian air power",
+     "confidence": "likely"
+    },
+    {
+     "story": "2012-07-18-damascus-bombing",
+     "why": "Battle began in 2012",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-12-09-park-impeached",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-12-19-park-elected",
+     "why": "Her presidency",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-08-25-rohingya-exodus",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-06-08-rakhine-riots",
+     "why": "Earlier persecution",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-11-08-nld-wins-myanmar",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-04-01-suu-kyi-elected",
+     "why": "Opening",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-08-18-mali-coup",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-03-22-mali-coup",
+     "why": "Earlier coup",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-27-m23-takes-goma",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2022-06-13-bunagana",
+     "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-05-02-m23-seizes-rubaya",
+     "why": "Coltan revenue from Rubaya financed the advance",
+     "confidence": "possible"
+    },
+    {
+     "story": "2012-11-20-m23-takes-goma",
+     "why": "Earlier seizure",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-03-18-putin-reelected",
+   "why": "2012 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-03-04-putin-returns",
+     "why": "Third term",
+     "confidence": "likely"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2012-10-07-chavez-reelected"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2012-10-09-malala-shot"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2012-11-14-pillar-of-defense",
+    "2012-11-29-un-palestine-observer"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2012-11-15-xi-general-secretary",
+    "2012-12-16-abe-returns"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2012-11-15-xi-general-secretary"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2012-11-20-m23-takes-goma"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2012-11-22-morsi-decree"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2012-12-12-nk-satellite-launch",
+    "2012-12-19-park-elected"
+   ]
+  }
+ ]
+}
