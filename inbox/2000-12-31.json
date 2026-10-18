@@ -1,0 +1,694 @@
+{
+ "edition": "2000-12-31",
+ "stories": [
+  {
+   "id": "2000-10-05-milosevic-ousted",
+   "date": "2000-10-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Europe",
+   "title": "Mass protests topple Slobodan Milošević",
+   "summary": "He was handed to The Hague in 2001.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+    }
+   ],
+   "entities": [
+    "serbia",
+    "slobodan-milosevic"
+   ],
+   "marker": "political",
+   "where": [
+    "belgrade"
+   ]
+  },
+  {
+   "id": "2000-10-07-hezbollah-raid",
+   "date": "2000-10-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Middle East",
+   "title": "Hezbollah captures three Israeli soldiers on the border",
+   "summary": "Later abduction attempts led to the 2006 war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_Hezbollah_cross-border_raid"
+    }
+   ],
+   "entities": [
+    "hezbollah",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "marker": "strike",
+   "unplaced": "Israel–Lebanon border, near the Shebaa Farms."
+  },
+  {
+   "id": "2000-10-10-us-china-pntr",
+   "date": "2000-10-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Americas",
+   "title": "Clinton signs permanent normal trade relations with China",
+   "summary": "It cleared the way for China's WTO entry.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/U.S.%E2%80%93China_Relations_Act_of_2000"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "bill-clinton"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "china-economy"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2000-10-12-uss-cole",
+   "date": "2000-10-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Middle East",
+   "title": "Al-Qaeda bombs the USS Cole in Aden, killing seventeen sailors",
+   "summary": "It foreshadowed 9/11.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/USS_Cole_bombing"
+    }
+   ],
+   "entities": [
+    "al-qaeda",
+    "yemen",
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "aden"
+   ]
+  },
+  {
+   "id": "2000-10-gbagbo-takes-power",
+   "date": "2000-10",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Africa",
+   "title": "Protests drive out Ivory Coast's junta leader and Laurent Gbagbo takes power",
+   "summary": "Civil war broke out two years later.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_Ivorian_presidential_election"
+    }
+   ],
+   "entities": [
+    "ivory-coast",
+    "laurent-gbagbo"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "abidjan"
+   ]
+  },
+  {
+   "id": "2000-11-fujimori-falls",
+   "date": "2000-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Americas",
+   "title": "Alberto Fujimori flees to Japan and is removed as Peru's president",
+   "summary": "A bribery scandal had engulfed his government.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+    }
+   ],
+   "entities": [
+    "peru",
+    "alberto-fujimori",
+    "japan"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "lima"
+   ]
+  },
+  {
+   "id": "2000-11-cassette-scandal",
+   "date": "2000-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Russia/Eurasia",
+   "title": "Secret tapes implicate Ukraine's Kuchma in a journalist's murder",
+   "summary": "The scandal fed the opposition that later led the Orange Revolution.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cassette_Scandal"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "leonid-kuchma"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2000-12-nice-treaty",
+   "date": "2000-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Europe",
+   "title": "EU leaders agree the Treaty of Nice to prepare for enlargement",
+   "summary": "It reformed voting rules for an expanding union.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Nice"
+    }
+   ],
+   "entities": [
+    "european-union"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "nice"
+   ]
+  },
+  {
+   "id": "2000-12-12-bush-v-gore",
+   "date": "2000-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Americas",
+   "title": "The Supreme Court stops Florida's recount, handing the election to Bush",
+   "summary": "Al Gore conceded the next day.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bush_v._Gore"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2000-12-12-algiers-agreement",
+   "date": "2000-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Africa",
+   "title": "Ethiopia and Eritrea sign the Algiers peace agreement",
+   "summary": "A border commission later awarded Badme to Eritrea, which Ethiopia resisted.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Algiers_Agreement_%282000%29"
+    }
+   ],
+   "entities": [
+    "ethiopia",
+    "eritrea"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "algiers"
+   ]
+  },
+  {
+   "id": "2000-12-sharif-exiled",
+   "date": "2000-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Asia-Pacific",
+   "title": "Ousted Pakistani leader Nawaz Sharif goes into exile in Saudi Arabia",
+   "summary": "Musharraf consolidated military rule.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "nawaz-sharif",
+    "pervez-musharraf",
+    "saudi-arabia"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "jeddah"
+   ]
+  },
+  {
+   "id": "2000-12-kufuor-wins-ghana",
+   "date": "2000-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Africa",
+   "title": "John Kufuor wins Ghana's presidency in a runoff",
+   "summary": "He defeated John Atta Mills.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_Ghanaian_general_election"
+    }
+   ],
+   "entities": [
+    "ghana"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "accra"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2001-01-20-bush-inaugurated",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-12-12-bush-v-gore",
+     "why": "Contested election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-02-06-sharon-elected",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-09-28-second-intifada",
+     "why": "Intifada",
+     "confidence": "likely"
+    },
+    {
+     "story": "2000-07-11-camp-david-summit",
+     "why": "Collapse of talks",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-04-14-ntv-takeover",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-06-gusinsky-arrested",
+     "why": "Owner's arrest",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-11-10-china-wto-approved",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-10-10-us-china-pntr",
+     "why": "US trade deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-09-11-september-11-attacks",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-10-12-uss-cole",
+     "why": "Same network",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2001-06-01-dolphinarium-bombing",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-09-28-second-intifada",
+     "why": "Intifada",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-06-28-milosevic-extradited",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-10-05-milosevic-ousted",
+     "why": "Fall from power",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-01-18-sierra-leone-war-ends",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-05-operation-palliser",
+     "why": "British intervention",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2001-03-zimbabwe-land-seizures",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-02-zimbabwe-referendum",
+     "why": "Referendum defeat",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-07-12-lebanon-war",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-03-14-cedar-revolution",
+     "why": "Syria's exit left Hezbollah exposed",
+     "confidence": "possible"
+    },
+    {
+     "story": "2000-10-07-hezbollah-raid",
+     "why": "Earlier abduction",
+     "confidence": "likely"
+    },
+    {
+     "story": "2000-05-israel-leaves-lebanon",
+     "why": "Post-withdrawal border",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2004-11-22-orange-revolution",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-11-23-rose-revolution",
+     "why": "Colour revolution",
+     "confidence": "likely"
+    },
+    {
+     "story": "2000-11-cassette-scandal",
+     "why": "Kuchma scandal",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2006-12-05-fiji-coup",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-05-19-fiji-coup",
+     "why": "Coup culture",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2004-03-20-chen-reelected",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-03-18-chen-elected",
+     "why": "First term",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-03-14-putin-reelected",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-03-26-putin-elected",
+     "why": "First term",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-12-03-chavez-reelected",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-07-30-chavez-reelected",
+     "why": "Earlier term",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-08-07-uribe-takes-office",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-07-plan-colombia",
+     "why": "US-backed offensive",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2002-09-19-ivory-coast-war",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-10-gbagbo-takes-power",
+     "why": "Disputed 2000 transition",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-05-11-sharif-wins",
+   "why": "2000 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2000-12-sharif-exiled",
+     "why": "Earlier ouster and exile",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2000-10-07-hezbollah-raid"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2000-10-07-hezbollah-raid"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2000-10-10-us-china-pntr"
+   ]
+  },
+  {
+   "id": "china-economy",
+   "name": "China's economy and property crisis",
+   "entities": [
+    "china",
+    "evergrande"
+   ],
+   "stories": [
+    "2000-10-10-us-china-pntr"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2000-10-12-uss-cole"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2000-10-gbagbo-takes-power",
+    "2000-12-kufuor-wins-ghana"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2000-11-fujimori-falls"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2000-11-cassette-scandal"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2000-12-12-bush-v-gore"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2000-12-12-algiers-agreement"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2000-12-sharif-exiled"
+   ]
+  }
+ ]
+}
