@@ -1,0 +1,1553 @@
+{
+ "edition": "2025-12-26",
+ "stories": [
+  {
+   "id": "2025-02-23-german-election",
+   "date": "2025-02-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Merz's CDU/CSU wins Germany's snap election as the AfD doubles its vote",
+   "summary": "The conservatives took 28.5% and the AfD came second. Friedrich Merz formed a coalition with the SPD.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_German_federal_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/2/24/german-election-who-won-who-lost-and-whats-next"
+    }
+   ],
+   "entities": [
+    "germany",
+    "friedrich-merz"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2024-11-06-german-coalition-collapses",
+     "why": "Snap election after the coalition collapse",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-03-06-alawite-massacres",
+   "date": "2025-03-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Over 1,000 Alawites are killed after an Assad-loyalist uprising on Syria's coast",
+   "summary": "Loyalist insurgents ambushed security forces near Latakia; the government counter-offensive and allied fighters then massacred Alawite civilians.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/March_2025_Western_Syria_clashes"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/3/6/syrian-forces-in-deadly-clashes-with-assad-loyalists-in-latakia"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2025/03/09/middleeast/syria-executions-violence-assad-alawite-intl/index.html"
+    }
+   ],
+   "entities": [
+    "syria",
+    "ahmed-al-sharaa"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2024-12-08-assad-falls",
+     "why": "Insurgency after Assad's fall",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "latakia"
+   ]
+  },
+  {
+   "id": "2025-04-13-noboa-reelected",
+   "date": "2025-04-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Daniel Noboa wins re-election in Ecuador on a hardline security platform",
+   "summary": "Noboa beat Luisa González in the runoff, a rematch of 2023, with gang violence the top issue.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Ecuadorian_general_election"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2025/04/13/nx-s1-5363690/ecuadors-president-daniel-noboa-wins-re-election"
+    }
+   ],
+   "entities": [
+    "ecuador",
+    "daniel-noboa"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2024-01-09-ecuador-internal-conflict",
+     "why": "Mandate for his war on gangs",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-04-26-russia-claims-kursk",
+   "date": "2025-04-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Russia claims it has driven Ukraine out of Kursk and admits North Korean troops fought there",
+   "summary": "Gerasimov said the region was retaken and praised North Korean soldiers, the first such acknowledgement. Kyiv denied the claim, saying its troops were in a 'difficult position' but still fighting; a new Ukrainian raid near Tyotkino followed in May.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kursk_campaign"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/putin-hails-end-ukraines-kursk-incursion-with-expulsion-last-ukrainian-troops-2025-04-26/"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2025/04/26/europe/russia-regains-kursk-claim-intl/index.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "north-korea"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "korean-peninsula"
+   ],
+   "causes": [
+    {
+     "story": "2025-03-13-kursk-exit",
+     "why": "Final phase after Sudzha fell",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-10-18-dprk-troops-to-russia",
+     "why": "North Korean troops in the fight",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Claim covering the whole Kursk front."
+  },
+  {
+   "id": "2025-04-28-carney-wins",
+   "date": "2025-04-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Mark Carney's Liberals win Canada's election on an anti-Trump wave",
+   "summary": "Tariffs and Trump's annexation threats dominated the campaign; the Liberals won a fourth term as a minority government.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Canadian_federal_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/apr/29/canada-election-result-liberal-win-mark-carney-anti-trump"
+    }
+   ],
+   "entities": [
+    "canada",
+    "mark-carney",
+    "donald-trump"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2025-01-07-trump-greenland-panama",
+     "why": "Trump's expansionist threats",
+     "confidence": "possible"
+    },
+    {
+     "story": "2025-04-02-liberation-day",
+     "why": "Tariff war",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-06-01-operation-spiderweb",
+   "date": "2025-06-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Operation Spiderweb: Ukrainian drones hidden in trucks hit Russian bomber bases",
+   "summary": "The SBU launched 117 drones from trucks inside Russia at five air bases, including Olenya and Belaya in Siberia. US officials told Reuters about 20 aircraft were hit and ten destroyed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/aerospace-defense/ukraine-attacks-russian-nuclear-capable-bombers-siberia-2025-06-01/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/6/1/ukrainian-drones-target-russian-airbases-in-unprecedented-operation"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "olenya-air-base",
+    "belaya-air-base"
+   ]
+  },
+  {
+   "id": "2025-06-01-nawrocki-elected",
+   "date": "2025-06-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "PiS-backed Karol Nawrocki narrowly wins Poland's presidency",
+   "summary": "Nawrocki beat Warsaw mayor Rafał Trzaskowski 50.89% to 49.11%, leaving Tusk's government facing a hostile veto.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/jun/01/exit-poll-in-polish-presidential-run-off-puts-candidates-neck-and-neck"
+    }
+   ],
+   "entities": [
+    "poland",
+    "karol-nawrocki",
+    "donald-tusk"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-15-poland-tusk",
+     "why": "Cohabitation with Tusk's government",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-07-13-sweida-clashes",
+   "date": "2025-07-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Druze–Bedouin fighting in Suwayda draws Syrian troops and Israeli strikes",
+   "summary": "Government forces sent to restore order were accused of abuses against Druze civilians, and Israel struck Syrian forces, citing protection of the Druze.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Southern_Syria_clashes_%28July%E2%80%93September_2025%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/jul/15/israel-attacks-syrian-military-amid-deadly-clashes-between-druze-and-bedouin-clans"
+    }
+   ],
+   "entities": [
+    "syria",
+    "israel",
+    "ahmed-al-sharaa"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2025-03-06-alawite-massacres",
+     "why": "Sectarian violence under the new government",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "suwayda"
+   ]
+  },
+  {
+   "id": "2025-09-08-nepal-gen-z",
+   "date": "2025-09-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "Gen Z protests topple Nepal's government",
+   "summary": "A ban on 26 social-media platforms set off youth anti-corruption protests; parliament was torched and PM K.P. Sharma Oli resigned on Sep 9.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/sep/08/nepal-bans-26-social-media-sites-including-x-whatsapp-and-youtube"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/gallery/2025/9/9/protesters-torch-nepal-parliament-as-pm-resigns-amid-turmoil"
+    }
+   ],
+   "entities": [
+    "nepal"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "kathmandu"
+   ]
+  },
+  {
+   "id": "2025-09-10-drones-over-poland",
+   "date": "2025-09-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Russian drones enter Poland; NATO jets shoot some down and Warsaw invokes Article 4",
+   "summary": "More than 30 drones crossed into Poland during a Russian attack on Ukraine; Polish and Dutch jets downed up to four and airports closed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/sep/10/poland-shoots-down-drones-over-its-territory-amid-russian-attack-on-ukraine-says-military"
+    }
+   ],
+   "entities": [
+    "poland",
+    "russia",
+    "nato",
+    "donald-tusk"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift"
+   ],
+   "marker": "military",
+   "unplaced": "Several crossing points in eastern Poland."
+  },
+  {
+   "id": "2025-10-04-babis-wins",
+   "date": "2025-10-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Andrej Babiš's ANO wins the Czech election",
+   "summary": "The populist ANO returned as the largest party, adding a third Ukraine-skeptic government to Hungary and Slovakia in central Europe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/oct/05/czech-populist-andrej-babis-in-talks-to-form-stable-government-after-election-win"
+    }
+   ],
+   "entities": [
+    "czech-republic",
+    "andrej-babis"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "causes": [
+    {
+     "story": "2023-09-30-fico-wins",
+     "why": "Central European populist wave",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "Babiš's return strengthens the Orbán–Fico bloc that slows EU decisions on Ukraine.",
+    "confidence": "possible"
+   },
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-10-19-bolivia-paz",
+   "date": "2025-10-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Rodrigo Paz wins Bolivia's runoff, ending two decades of MAS rule",
+   "summary": "Amid fuel and dollar shortages, the centrist senator beat ex-president Jorge Quiroga with 55%; the MAS did not reach the runoff.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Bolivian_general_election"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/bolivia-votes-runoff-election-marking-pro-market-shift-us-embrace-2025-10-19/"
+    }
+   ],
+   "entities": [
+    "bolivia",
+    "rodrigo-paz",
+    "luis-arce"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2020-10-18-bolivia-arce",
+     "why": "End of the MAS era begun again in 2020",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-10-26-milei-midterm-win",
+   "date": "2025-10-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Milei's party wins Argentina's midterms after a US rescue",
+   "summary": "La Libertad Avanza won 64 seats and its bloc rose to 95 deputies, after Washington offered financial support before the vote.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Argentine_legislative_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/10/27/mileis-party-wins-big-in-argentina-midterm-elections-early-results-show"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2025/10/28/world/trump-argentina-election-influence.html"
+    }
+   ],
+   "entities": [
+    "argentina",
+    "javier-milei",
+    "united-states"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2023-11-19-milei-elected",
+     "why": "Mandate for Milei's program",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2025-12-20-khan-toshakhana-ii",
+   "date": "2025-12-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "Imran Khan and his wife get 17 years in a second state-gifts case",
+   "summary": "The Toshakhana-II verdict came the same month Khan received a 14-year term in the Al-Qadir Trust case; he has been in prison since August 2023.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Imprisonment_of_Imran_Khan"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/pakistan-court-hands-imran-khan-wife-17-year-jail-terms-another-graft-case-2025-12-20/"
+    }
+   ],
+   "entities": [
+    "imran-khan",
+    "bushra-bibi",
+    "pakistan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2025-01-17-khan-al-qadir-conviction",
+     "why": "Latest in a string of convictions",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-01-30-khan-convictions",
+     "why": "Earlier convictions",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2021-11-russia-buildup",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-04-01-russia-spring-buildup",
+     "why": "Second buildup after the spring one",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-07-12-putin-unity-essay",
+     "why": "Ideological case against Ukrainian statehood",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2022-02-24-invasion",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-02-21-recognition",
+     "why": "Recognition was the pretext step",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-belarus-drills",
+     "why": "Forces staged in Belarus attacked toward Kyiv",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-04-no-limits",
+     "why": "Moscow moved after securing Chinese political backing",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-07-12-putin-unity-essay",
+     "why": "Putin's stated rationale",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-01-24-burkina-coup",
+   "why": "Archive audit: link to earlier causes; Pin to Ouagadougou now that it is a place",
+   "causes": [
+    {
+     "story": "2020-08-18-mali-coup",
+     "why": "Sahel coup wave",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-09-05-guinea-coup",
+     "why": "Regional coup wave",
+     "confidence": "possible"
+    }
+   ],
+   "where": [
+    "ouagadougou"
+   ]
+  },
+  {
+   "id": "2021-12-wagner-mali",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-08-18-mali-coup",
+     "why": "Junta that came to power in 2020",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-05-24-mali-second-coup",
+     "why": "Goïta consolidated power",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-07-31-zawahiri",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-02-29-doha-agreement",
+     "why": "Taliban's Doha counterterror pledge",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-08-15-fall-of-kabul",
+     "why": "Al-Qaeda leader sheltered in Taliban Kabul",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-26-pakistan-afghanistan-war",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-07-31-zawahiri",
+     "why": "Al-Qaeda's leader sheltering in Kabul showed the Taliban hosting militants, the core of Pakistan's complaint",
+     "confidence": "speculative"
+    },
+    {
+     "story": "2025-10-19-afpak-doha-ceasefire",
+     "why": "The October 2025 ceasefire failed",
+     "confidence": "likely"
+    },
+    {
+     "story": "2025-01-01-pakistan-deadliest-year",
+     "why": "TTP violence Pakistan blamed on Kabul",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-08-15-fall-of-kabul",
+     "why": "Taliban rule let the TTP regroup",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-01-pakistan-deadliest-year",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-08-15-fall-of-kabul",
+     "why": "TTP resurgence after the Taliban takeover",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-10-27-operation-1027",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-11-08-myanmar-election",
+     "why": "Army fraud claims led to the coup and civil war",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-02-01-myanmar-coup",
+     "why": "Civil war that followed the coup",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2026-01-30-myanmar-junta-election",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-03-28-myanmar-earthquake",
+     "why": "The junta pressed ahead with its election plan",
+     "confidence": "speculative"
+    },
+    {
+     "story": "2023-10-27-operation-1027",
+     "why": "The junta lost much territory after Operation 1027",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-08-03-lashio-falls",
+     "why": "Territorial losses shaped where voting was possible",
+     "confidence": "possible"
+    },
+    {
+     "story": "2024-12-20-arakan-army-ann",
+     "why": "Rakhine largely outside junta control",
+     "confidence": "possible"
+    },
+    {
+     "story": "2025-04-22-lashio-handback",
+     "why": "Junta regained a major northern city months before the vote",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-02-01-myanmar-coup",
+     "why": "Junta promised a vote after its coup",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-10-07-hamas-attack",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-05-10-gaza-war",
+     "why": "Hamas tied Gaza to Jerusalem",
+     "confidence": "possible"
+    },
+    {
+     "story": "2023-03-26-israel-judicial-protests",
+     "why": "Israeli divisions",
+     "confidence": "speculative"
+    },
+    {
+     "story": "2020-08-13-abraham-accords",
+     "why": "Normalisation sidelined the Palestinians",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2022-09-16-mahsa-amini",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-06-18-raisi-elected",
+     "why": "Raisi government's hijab enforcement",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2021-11-29-jcpoa-vienna",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-11-27-fakhrizadeh-killed",
+     "why": "Iran expanded enrichment after the killing",
+     "confidence": "likely"
+    },
+    {
+     "story": "2020-11-03-us-election",
+     "why": "Biden sought a return to the deal",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-04-11-natanz-sabotage",
+     "why": "Iran raised enrichment after Natanz",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-06-18-raisi-elected",
+     "why": "Talks resumed under a hardline president",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-05-19-raisi-killed",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-06-18-raisi-elected",
+     "why": "Raisi's presidency",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-10-haiti-fuel",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-03-07-oil-spike",
+     "why": "Fuel subsidy cuts amid high prices",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-07-07-moise-assassinated",
+     "why": "Power vacuum after the assassination",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-03-11-haiti-henry-resigns",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-10-haiti-fuel",
+     "why": "Gang control grew from the 2022 fuel blockade",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-07-07-moise-assassinated",
+     "why": "Henry took over after Moïse's killing",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-03-13-aukus-pathway",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-09-15-aukus",
+     "why": "Implements the 2021 pact",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-05-23-ipef",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-11-15-rcep",
+     "why": "US response to Asian trade pact without it",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-03-12-quad-summit-anchorage",
+     "why": "Quad elevated to leaders' level",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-12-16-japan-security-strategy",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Chinese drills after Pelosi's visit, missiles landing in Japan's EEZ",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-24-invasion",
+     "why": "Russia's invasion shattered assumptions",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-10-04-kishida-pm",
+     "why": "Kishida government's strategy",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-10-18-country-garden-default",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-01-08-china-reopens",
+     "why": "The reopening failed to revive property",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-09-20-evergrande-crisis",
+     "why": "Property crisis begun by Evergrande",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-02-22-nord-stream-2-halt",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-02-21-recognition",
+     "why": "Direct response to recognition",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-07-21-nord-stream-2-deal",
+     "why": "Germany's pledge to act if Russia weaponised energy",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-03-16-fed-hike",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-03-07-oil-spike",
+     "why": "Energy-driven inflation",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-10-europe-gas-crunch",
+     "why": "Energy inflation already building in 2021",
+     "confidence": "possible"
+    },
+    {
+     "story": "2020-03-15-fed-zero-rates",
+     "why": "Lift-off from pandemic zero rates",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-03-11-american-rescue-plan",
+     "why": "Fiscal stimulus and inflation",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2022-09-04-chile-vote",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-10-25-chile-plebiscite",
+     "why": "Draft from the 2020-mandated convention",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-12-19-boric-elected",
+     "why": "Boric backed the draft",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2025-12-14-kast-chile",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-11-19-milei-elected",
+     "why": "The region's right-wing wave began with Milei",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-12-19-boric-elected",
+     "why": "Kast lost to Boric in 2021",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-04-shanghai-lockdown",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-01-23-wuhan-lockdown",
+     "why": "Zero-COVID model began in Wuhan",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-11-26-omicron",
+     "why": "Omicron overwhelmed zero-COVID",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-01-08-china-reopens",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-04-shanghai-lockdown",
+     "why": "End of the lockdown era",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-10-16-party-congress",
+     "why": "Xi's third term",
+     "confidence": "possible"
+    },
+    {
+     "story": "2020-01-23-wuhan-lockdown",
+     "why": "End of the zero-COVID regime begun in 2020",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-11-26-omicron",
+     "why": "Omicron made zero-COVID unsustainable",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-07-28-venezuela-stolen-election",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-03-05-us-venezuela-talks",
+     "why": "US engagement with Maduro since 2022 failed to produce a fair vote",
+     "confidence": "possible"
+    },
+    {
+     "story": "2020-12-06-venezuela-assembly-vote",
+     "why": "Maduro's grip on institutions",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-01-28-tower-22",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Iraqi militia attacks during the Gaza war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-03-22-crocus-attack",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-08-26-kabul-airport-bombing",
+     "why": "ISIS-K's resurgence",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-06-19-putin-kim-treaty",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-09-13-kim-putin-vostochny",
+     "why": "Builds on the 2023 summit",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-10-18-dprk-troops-to-russia",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-06-19-putin-kim-treaty",
+     "why": "Under the June treaty",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-08-06-kursk-incursion",
+     "why": "Russia needed troops to retake Kursk",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-09-13-kim-putin-vostochny",
+     "why": "Arms cooperation agreed in 2023",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-11-05-trump-elected",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-07-21-biden-withdraws",
+     "why": "Harris replaced Biden late",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-07-13-trump-shot",
+     "why": "Rallied his base",
+     "confidence": "possible"
+    },
+    {
+     "story": "2021-01-06-capitol-attack",
+     "why": "Trump survived the Jan 6 fallout",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-11-06-german-coalition-collapses",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2021-09-26-german-election",
+     "why": "Three-party coalition formed in 2021",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-03-18-germany-debt-brake",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-02-28-oval-office-clash",
+     "why": "Doubts over the US commitment pushed Berlin to spend",
+     "confidence": "possible"
+    },
+    {
+     "story": "2024-11-06-german-coalition-collapses",
+     "why": "Coalition broke over the debt brake",
+     "confidence": "likely"
+    },
+    {
+     "story": "2025-02-23-german-election",
+     "why": "Merz moved before the new Bundestag sat",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-09-10-scarborough-nature-reserve",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-08-05-second-thomas-shoal-water-cannon",
+     "why": "Escalating China–Philippines clashes",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-06-04-modi-loses-majority",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2020-11-26-farmers-protest",
+     "why": "Rural discontent",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2025-10-14-madagascar-coup",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-09-08-nepal-gen-z",
+     "why": "Gen Z protest wave",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2025-08-29-indonesia-protests",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-02-14-prabowo-elected",
+     "why": "Protests against Prabowo's government",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2025-02-18-riyadh-us-russia-talks",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-11-05-trump-elected",
+     "why": "Trump's push for a deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-02-28-oval-office-clash",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-11-05-trump-elected",
+     "why": "Trump's Ukraine policy",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-07-trump-greenland-panama",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-11-05-trump-elected",
+     "why": "President-elect's agenda",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-02-20-cartels-fto",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-11-05-trump-elected",
+     "why": "Trump's cartel agenda",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-09-09-israel-strikes-doha",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Israel's pursuit of Hamas leaders",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-01-09-ecuador-internal-conflict",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-08-09-villavicencio-killed",
+     "why": "Gang violence in politics",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-02-08-pakistan-election",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-05-09-imran-khan-arrested",
+     "why": "Khan jailed and barred",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-01-30-khan-convictions",
+     "why": "Khan barred and jailed before the vote",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-17-khan-al-qadir-conviction",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-05-09-imran-khan-arrested",
+     "why": "The case behind his 2023 arrest",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-01-30-khan-convictions",
+     "why": "String of convictions",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-05-20-bakhmut-falls",
+   "why": "Archive audit: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-02-24-invasion",
+     "why": "Battle of the invasion",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-09-30-burkina-coup2",
+   "why": "Pin to Ouagadougou now that it is a place",
+   "where": [
+    "ouagadougou"
+   ]
+  },
+  {
+   "id": "2024-05-25-burkina-extends-transition",
+   "why": "Pin to Ouagadougou now that it is a place",
+   "where": [
+    "ouagadougou"
+   ]
+  },
+  {
+   "id": "2024-01-25-africa-corps-burkina",
+   "why": "Pin to Ouagadougou now that it is a place",
+   "where": [
+    "ouagadougou"
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "pakistan--patron-proxy--taliban",
+   "a": "pakistan",
+   "b": "taliban",
+   "type": "patron-proxy",
+   "start": "1994",
+   "end": null,
+   "stated": "Pakistan denies directing the Taliban",
+   "actual": "Long-time sponsor whose client turned hostile after 2021",
+   "confidence": "likely",
+   "evidence": [
+    "2021-08-15-fall-of-kabul",
+    "2026-02-26-pakistan-afghanistan-war"
+   ]
+  },
+  {
+   "id": "united-states--alliance--australia",
+   "a": "united-states",
+   "b": "australia",
+   "type": "alliance",
+   "start": "1951",
+   "end": null,
+   "stated": "ANZUS treaty allies",
+   "actual": "AUKUS deepened the alliance against China",
+   "confidence": "likely",
+   "evidence": [
+    "2021-09-15-aukus",
+    "2023-03-13-aukus-pathway"
+   ]
+  },
+  {
+   "id": "china--rivalry--united-states",
+   "a": "china",
+   "b": "united-states",
+   "type": "rivalry",
+   "start": "2018",
+   "end": null,
+   "stated": "Competition with guardrails",
+   "actual": "Strategic rivalry across trade, tech and Taiwan",
+   "confidence": "likely",
+   "evidence": [
+    "2023-02-04-spy-balloon",
+    "2023-11-15-biden-xi-woodside",
+    "2021-03-12-quad-summit-anchorage"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2025-02-23-german-election",
+    "2025-09-10-drones-over-poland"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2025-03-06-alawite-massacres",
+    "2025-07-13-sweida-clashes"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2025-04-13-noboa-reelected",
+    "2025-04-28-carney-wins",
+    "2025-10-19-bolivia-paz",
+    "2025-10-26-milei-midterm-win"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2025-04-26-russia-claims-kursk",
+    "2025-06-01-operation-spiderweb",
+    "2025-09-10-drones-over-poland"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2025-04-26-russia-claims-kursk"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2025-04-28-carney-wins"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2025-06-01-nawrocki-elected",
+    "2025-10-04-babis-wins",
+    "2026-04-12-orban-ousted",
+    "2026-10-13-hungary-lifts-accession-veto",
+    "2023-12-14-eu-opens-ukraine-talks",
+    "2024-07-07-france-hung-parliament"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2025-09-08-nepal-gen-z",
+    "2025-12-20-khan-toshakhana-ii"
+   ]
+  },
+  {
+   "id": "covid-shock",
+   "name": "COVID-19 pandemic & the 2020 economic shock",
+   "entities": [
+    "covid-19",
+    "who",
+    "federal-reserve",
+    "ecb",
+    "imf",
+    "china"
+   ],
+   "stories": [
+    "2022-04-shanghai-lockdown",
+    "2023-01-08-china-reopens"
+   ]
+  },
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2022-09-13-armenia-azerbaijan",
+    "2023-09-19-karabakh-falls",
+    "2025-08-08-armenia-azerbaijan-deal"
+   ]
+  },
+  {
+   "id": "europe-cost-of-living",
+   "name": "Europe: energy shock, cost of living & the populist surge",
+   "entities": [
+    "france",
+    "european-union",
+    "inflation"
+   ],
+   "stories": [
+    "2021-10-europe-gas-crunch",
+    "2022-08-eu-gas-record",
+    "2022-09-23-uk-mini-budget"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2022-03-16-fed-hike",
+    "2022-06-15-fed-75"
+   ]
+  }
+ ]
+}
