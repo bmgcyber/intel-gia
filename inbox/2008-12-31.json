@@ -1,0 +1,816 @@
+{
+ "edition": "2008-12-31",
+ "stories": [
+  {
+   "id": "2008-10-03-tarp-signed",
+   "date": "2008-10-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "Bush signs the $700bn TARP bank rescue",
+   "summary": "Congress passed it after a first House vote failed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-10-06-iceland-banks-collapse",
+   "date": "2008-10-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Europe",
+   "title": "Iceland's three main banks collapse",
+   "summary": "Iceland turned to the IMF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis"
+    }
+   ],
+   "entities": [
+    "iceland",
+    "imf"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "reykjavik"
+   ]
+  },
+  {
+   "id": "2008-10-10-us-india-nuclear-deal",
+   "date": "2008-10-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "The US and India sign a civil nuclear deal",
+   "summary": "The agreement ended India's nuclear isolation and anchored a US–India strategic partnership.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/India%E2%80%93United_States_Civil_Nuclear_Agreement"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "india"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-11-04-obama-elected",
+   "date": "2008-11-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "Barack Obama is elected US president",
+   "summary": "He won on opposition to the Iraq war and amid the crash.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-11-09-china-stimulus",
+   "date": "2008-11-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "China unveils a 4 trillion yuan stimulus",
+   "summary": "The credit-fuelled spending boom built the debt and property excesses of the next decade.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chinese_economic_stimulus_program"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "storylines": [
+    "china-economy",
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2008-11-15-g20-washington-summit",
+   "date": "2008-11-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "First G20 leaders' summit meets in Washington",
+   "summary": "Crisis turned the finance-ministers' forum into a leaders' body.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_G20_Washington_summit"
+    }
+   ],
+   "entities": [
+    "g20",
+    "united-states"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-11-15-sirius-star-seized",
+   "date": "2008-11-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Africa",
+   "title": "Somali pirates hijack the supertanker Sirius Star",
+   "summary": "It was the largest ship ever seized; the EU launched Operation Atalanta weeks later.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/MV_Sirius_Star"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Atalanta"
+    }
+   ],
+   "entities": [
+    "somalia",
+    "saudi-arabia",
+    "european-union"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "unplaced": "Indian Ocean off Kenya."
+  },
+  {
+   "id": "2008-11-25-fed-qe1",
+   "date": "2008-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "The Fed launches QE1 with purchases of mortgage-backed securities",
+   "summary": "It was the start of quantitative easing in the US.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Quantitative_easing"
+    }
+   ],
+   "entities": [
+    "federal-reserve",
+    "united-states"
+   ],
+   "storylines": [
+    "global-financial-crisis",
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-11-26-mumbai-attacks",
+   "date": "2008-11-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "Lashkar-e-Taiba gunmen attack Mumbai, killing 166",
+   "summary": "Ten attackers from Pakistan hit hotels and a railway station over four days.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan",
+    "lashkar-e-taiba"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan",
+    "south-asia-security"
+   ],
+   "marker": "strike",
+   "where": [
+    "mumbai"
+   ]
+  },
+  {
+   "id": "2008-11-27-iraq-sofa",
+   "date": "2008-11-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Middle East",
+   "title": "Iraq's parliament approves the status-of-forces deal for a US exit by 2011",
+   "summary": "It set the deadline that Obama later kept.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/U.S.%E2%80%93Iraq_Status_of_Forces_Agreement"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "united-states"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2008-11-25-thai-airports-seized",
+   "date": "2008-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "Anti-Thaksin protesters seize Bangkok's airports",
+   "summary": "A court then dissolved the ruling party.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_Thai_political_crisis"
+    }
+   ],
+   "entities": [
+    "thailand"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2008-12-23-guinea-coup",
+   "date": "2008-12-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Africa",
+   "title": "Soldiers seize power in Guinea after Lansana Conté's death",
+   "summary": "Captain Moussa Dadis Camara led the junta.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_Guinean_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "guinea"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "conakry"
+   ]
+  },
+  {
+   "id": "2008-12-27-operation-cast-lead",
+   "date": "2008-12-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Middle East",
+   "title": "Israel launches Operation Cast Lead against Hamas in Gaza",
+   "summary": "The three-week war began the cycle of Gaza wars that followed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gaza_War_%282008%E2%80%932009%29"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "gaza-city"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2009-01-20-obama-inaugurated",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-04-obama-elected",
+     "why": "Election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-02-10-israel-election-netanyahu",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-12-27-operation-cast-lead",
+     "why": "War shaped the vote",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2009-02-27-obama-iraq-drawdown",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-27-iraq-sofa",
+     "why": "SOFA deadline",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-03-18-fed-expands-qe1",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-25-fed-qe1",
+     "why": "Expansion of QE1",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-04-02-g20-london-summit",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-15-g20-washington-summit",
+     "why": "Second leaders' summit",
+     "confidence": "likely"
+    },
+    {
+     "story": "2008-09-15-lehman-collapse",
+     "why": "Crisis response",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-02-17-us-stimulus",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-09-15-lehman-collapse",
+     "why": "Recession",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-05-07-eastern-partnership",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-08-08-russia-georgia-war",
+     "why": "EU response to the war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-09-28-guinea-stadium-massacre",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-12-23-guinea-coup",
+     "why": "Junta",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-04-11-thai-red-shirts-pattaya",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-25-thai-airports-seized",
+     "why": "Rival protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-05-25-nk-second-nuclear-test",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-06-27-yongbyon-tower-demolished",
+     "why": "Collapse of the deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-11-25-dubai-world-standstill",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-09-15-lehman-collapse",
+     "why": "Credit crunch",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-10-20-greece-deficit-revealed",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-09-15-lehman-collapse",
+     "why": "Recession",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2009-12-01-lisbon-treaty-in-force",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-06-12-ireland-rejects-lisbon",
+     "why": "Second Irish vote",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-05-08-swat-offensive",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-08-18-musharraf-resigns",
+     "why": "New civilian government",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2010-08-04-kenya-constitution",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-02-28-kenya-power-sharing",
+     "why": "Reform agenda of the deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-03-04-putin-returns",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-10-moscow-protests",
+     "why": "Faced mass protests",
+     "confidence": "likely"
+    },
+    {
+     "story": "2008-03-02-medvedev-elected",
+     "why": "Tandem",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-03-18-sunflower-movement",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-03-22-ma-ying-jeou-elected",
+     "why": "Ma's cross-strait deals",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-03-18-crimea-annexed",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-02-22-yanukovych-ousted",
+     "why": "Moscow's response to the revolution",
+     "confidence": "likely"
+    },
+    {
+     "story": "2008-08-08-russia-georgia-war",
+     "why": "Precedent",
+     "confidence": "likely"
+    },
+    {
+     "story": "2008-04-03-nato-bucharest-summit",
+     "why": "Membership pledge",
+     "confidence": "possible"
+    },
+    {
+     "story": "2008-02-17-kosovo-independence",
+     "why": "Putin cited Kosovo",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2017-11-15-mugabe-coup",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-03-29-zimbabwe-election",
+     "why": "Earlier crisis",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2016-09-18-uri-attack",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-07-08-burhan-wani-kashmir-unrest",
+     "why": "Kashmir unrest",
+     "confidence": "possible"
+    },
+    {
+     "story": "2008-11-26-mumbai-attacks",
+     "why": "Earlier attack",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-08-24-china-black-monday",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-11-09-china-stimulus",
+     "why": "Debt build-up",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2010-11-13-suu-kyi-released",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-05-02-cyclone-nargis",
+     "why": "Constitution referendum",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2010-12-17-bouazizi",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-04-food-price-crisis",
+     "why": "Food inflation",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2014-11-27-opec-no-cut",
+   "why": "2008 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2008-07-11-oil-peaks-147",
+     "why": "Earlier oil cycle",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "russia--rivalry--georgia",
+   "a": "russia",
+   "b": "georgia",
+   "type": "rivalry",
+   "start": "2008",
+   "end": null,
+   "stated": "Russia called it peace enforcement",
+   "actual": "Russia occupies about a fifth of Georgia",
+   "confidence": "likely",
+   "evidence": [
+    "2008-08-08-russia-georgia-war"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "global-financial-crisis",
+   "name": "Global financial crisis 2007–09",
+   "entities": [
+    "federal-reserve",
+    "imf",
+    "g20",
+    "united-states"
+   ],
+   "stories": [
+    "2008-10-03-tarp-signed",
+    "2008-10-06-iceland-banks-collapse",
+    "2008-11-09-china-stimulus",
+    "2008-11-15-g20-washington-summit",
+    "2008-11-25-fed-qe1"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2008-10-10-us-india-nuclear-deal",
+    "2008-11-26-mumbai-attacks"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2008-11-04-obama-elected"
+   ]
+  },
+  {
+   "id": "china-economy",
+   "name": "China's economy and property crisis",
+   "entities": [
+    "china",
+    "evergrande"
+   ],
+   "stories": [
+    "2008-11-09-china-stimulus"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2008-11-15-sirius-star-seized"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2008-11-25-fed-qe1"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2008-11-26-mumbai-attacks"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2008-11-27-iraq-sofa"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2008-11-25-thai-airports-seized"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2008-12-23-guinea-coup"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2008-12-27-operation-cast-lead"
+   ]
+  }
+ ]
+}
