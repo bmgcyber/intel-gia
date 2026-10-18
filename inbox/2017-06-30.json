@@ -1,0 +1,513 @@
+{
+ "edition": "2017-06-30",
+ "stories": [
+  {
+   "id": "2017-04-04-khan-shaykhun-sarin",
+   "date": "2017-04-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Sarin attack on Khan Shaykhun kills at least 89",
+   "summary": "It was the deadliest chemical attack in Syria since 2013; the UN–OPCW mechanism later blamed the Syrian government.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Khan_Shaykhun_chemical_attack"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2017/04/04/world/middleeast/syria-gas-attack.html"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "khan-shaykhun"
+   ]
+  },
+  {
+   "id": "2017-04-07-shayrat-strike",
+   "date": "2017-04-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "US fires 59 Tomahawks at Syria's Shayrat airbase",
+   "summary": "It was the first deliberate US military action against the Assad government, in reprisal for Khan Shaykhun.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_Shayrat_missile_strike"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2017/apr/07/donald-trump-us-missile-strikes-syria-legal"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "syria",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2017-04-04-khan-shaykhun-sarin",
+     "why": "Reprisal for the sarin attack",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "shayrat-airbase"
+   ]
+  },
+  {
+   "id": "2017-04-16-turkey-referendum",
+   "date": "2017-04-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Turks narrowly approve Erdoğan's executive presidency",
+   "summary": "The constitutional changes abolished the prime minister's office after the 2016 coup attempt; the opposition contested the count.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_Turkish_constitutional_referendum"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2017/04/16/world/europe/turkey-referendum-polls-erdogan.html"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "marker": "political",
+   "unplaced": "National referendum."
+  },
+  {
+   "id": "2017-05-07-macron-elected",
+   "date": "2017-05-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Europe",
+   "title": "Emmanuel Macron defeats Marine Le Pen for the French presidency",
+   "summary": "The 39-year-old centrist beat the far-right leader in a runoff, after incumbent François Hollande declined to run.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_French_presidential_election"
+    }
+   ],
+   "entities": [
+    "france",
+    "emmanuel-macron",
+    "marine-le-pen"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2017-05-12-wannacry",
+   "date": "2017-05-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Europe",
+   "title": "WannaCry ransomware cripples computers worldwide, including Britain's NHS",
+   "summary": "The worm used a leaked NSA exploit; the US and UK later attributed it to North Korea.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/technology/2017/may/12/global-cyber-attack-ransomware-nsa-uk-nhs"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "united-kingdom"
+   ],
+   "marker": "strike",
+   "unplaced": "Global cyberattack."
+  },
+  {
+   "id": "2017-05-19-rouhani-reelected",
+   "date": "2017-05-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Rouhani wins re-election in Iran, defeating Ebrahim Raisi",
+   "summary": "The architect of the nuclear deal won 57% of the vote; Raisi succeeded him in 2021.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_Iranian_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2017/may/20/iran-hassan-rouhani-set-for-landslide-in-huge-victory-for-reformists"
+    }
+   ],
+   "entities": [
+    "iran",
+    "hassan-rouhani",
+    "ebrahim-raisi"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2017-05-22-manchester-bombing",
+   "date": "2017-05-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Europe",
+   "title": "Suicide bomber kills 22 at Manchester Arena",
+   "summary": "The Islamist attack at an Ariana Grande concert was Britain's deadliest terrorist attack since 2005.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Manchester_Arena_bombing"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2017/may/25/manchester-bomb-same-explosive-paris-brussels-attacks-mike-mccaul"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "islamic-state"
+   ],
+   "marker": "strike",
+   "where": [
+    "manchester-arena"
+   ]
+  },
+  {
+   "id": "2017-05-23-marawi-siege",
+   "date": "2017-05-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Asia-Pacific",
+   "title": "IS-linked militants seize Marawi, starting a five-month siege",
+   "summary": "Maute and Abu Sayyaf fighters held parts of the Philippine city until October; Duterte declared martial law on Mindanao.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Marawi"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "http://www.aljazeera.com/news/2017/05/mindanao-churchgoers-hostage-marawi-siege-170524085829461.html"
+    }
+   ],
+   "entities": [
+    "philippines",
+    "islamic-state",
+    "rodrigo-duterte"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "military",
+   "where": [
+    "marawi"
+   ]
+  },
+  {
+   "id": "2017-06-01-us-quits-paris-agreement",
+   "date": "2017-06-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Americas",
+   "title": "Trump announces US withdrawal from the Paris climate agreement",
+   "summary": "He said the 2015 accord would 'undermine' the US economy; withdrawal took effect in November 2020 and Biden rejoined in 2021.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement"
+    },
+    {
+     "name": "CNN",
+     "url": "http://www.cnn.com/2017/06/01/politics/trump-paris-climate-decision/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "paris-agreement"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2017-06-05-qatar-blockade",
+   "date": "2017-06-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Saudi Arabia, the UAE, Bahrain and Egypt cut ties with and blockade Qatar",
+   "summary": "They accused Doha of backing terrorism and getting too close to Iran, and issued 13 demands including closing Al Jazeera; Qatar refused all of them. Turkey sent troops to Qatar.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Qatar_diplomatic_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2017/jun/05/saudi-arabia-and-bahrain-break-diplomatic-ties-with-qatar-over-terrorism"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "bahrain",
+    "egypt",
+    "qatar",
+    "iran",
+    "turkey",
+    "mohammed-bin-salman"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "doha"
+   ]
+  },
+  {
+   "id": "2017-06-08-uk-hung-parliament",
+   "date": "2017-06-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Europe",
+   "title": "Theresa May loses her majority in a snap election",
+   "summary": "The Conservatives fell short and governed with the DUP's support, weakening May's hand in the Brexit talks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "theresa-may"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2017-03-29-article-50",
+     "why": "Called to strengthen her Brexit hand",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2017-06-16-doklam-standoff",
+   "date": "2017-06-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Asia-Pacific",
+   "title": "Indian troops block a Chinese road-building crew at Doklam",
+   "summary": "The 73-day face-off on the Bhutan–China–India trijunction ended with mutual withdrawal on Aug 28.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2017_China%E2%80%93India_border_standoff"
+    }
+   ],
+   "entities": [
+    "india",
+    "china",
+    "bhutan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "military",
+   "where": [
+    "doklam"
+   ]
+  },
+  {
+   "id": "2017-06-21-mbs-crown-prince",
+   "date": "2017-06-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Mohammed bin Salman is named Saudi crown prince",
+   "summary": "King Salman removed his nephew Mohammed bin Nayef, making his 31-year-old son heir and the architect of Vision 2030.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "http://www.aljazeera.com/news/2017/06/saudi-arabia-appoints-king-salman-son-crown-prince-170621033707437.html"
+    }
+   ],
+   "entities": [
+    "mohammed-bin-salman",
+    "saudi-arabia"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "riyadh"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2017-04-04-khan-shaykhun-sarin",
+    "2017-04-07-shayrat-strike"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2017-05-07-macron-elected"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2017-05-19-rouhani-reelected"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2017-05-23-marawi-siege"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2017-06-01-us-quits-paris-agreement",
+    "2017-06-08-uk-hung-parliament"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2017-06-05-qatar-blockade",
+    "2017-06-21-mbs-crown-prince"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2017-06-16-doklam-standoff"
+   ]
+  }
+ ]
+}
