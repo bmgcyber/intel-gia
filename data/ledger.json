@@ -115377,6 +115377,1771 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2000-12-31": {
+   "sha256": "0c7e5e3ee9f77982d8b1d86a8dcaff8485f0a383bfd9e7bf9db9023ea7aec54d",
+   "undo": {
+    "stories": {
+     "2000-10-05-milosevic-ousted": null,
+     "2000-10-07-hezbollah-raid": null,
+     "2000-10-10-us-china-pntr": null,
+     "2000-10-12-uss-cole": null,
+     "2000-10-gbagbo-takes-power": null,
+     "2000-11-fujimori-falls": null,
+     "2000-11-cassette-scandal": null,
+     "2000-12-nice-treaty": null,
+     "2000-12-12-bush-v-gore": null,
+     "2000-12-12-algiers-agreement": null,
+     "2000-12-sharif-exiled": null,
+     "2000-12-kufuor-wins-ghana": null,
+     "2001-01-20-bush-inaugurated": {
+      "id": "2001-01-20-bush-inaugurated",
+      "date": "2001-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Americas",
+      "title": "George W. Bush is inaugurated after the contested 2000 election",
+      "summary": "The Supreme Court had halted the Florida recount.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_inauguration_of_George_W._Bush"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "george-w-bush"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "us-domestic-politics"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2002-06-13-us-quits-abm"
+      ]
+     },
+     "2001-02-06-sharon-elected": {
+      "id": "2001-02-06-sharon-elected",
+      "date": "2001-02-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Middle East",
+      "title": "Ariel Sharon wins Israel's election amid the second intifada",
+      "summary": "He took a hard line, and in 2005 pulled out of Gaza.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_Israeli_prime_ministerial_election"
+       }
+      ],
+      "entities": [
+       "israel",
+       "ariel-sharon"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "jerusalem"
+      ],
+      "related_stories": [
+       "2005-08-15-gaza-disengagement"
+      ]
+     },
+     "2001-04-14-ntv-takeover": {
+      "id": "2001-04-14-ntv-takeover",
+      "date": "2001-04-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Gazprom takes over NTV, Russia's main independent channel",
+      "summary": "It marked the Kremlin's takeover of national television.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NTV_%28Russia%29"
+       }
+      ],
+      "entities": [
+       "russia",
+       "gazprom",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": [
+       "2019-12-02-power-of-siberia",
+       "2014-05-21-russia-china-gas-deal"
+      ]
+     },
+     "2001-11-10-china-wto-approved": {
+      "id": "2001-11-10-china-wto-approved",
+      "date": "2001-11-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-12-31",
+      "region": "Asia-Pacific",
+      "title": "The WTO approves China's membership",
+      "summary": "China joined on December 11 and became the world's factory.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/China_and_the_World_Trade_Organization"
+       }
+      ],
+      "entities": [
+       "china",
+       "wto"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-12-31",
+      "storylines": [
+       "china-economy",
+       "us-tariffs-trade"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "doha"
+      ],
+      "related_stories": []
+     },
+     "2001-09-11-september-11-attacks": {
+      "id": "2001-09-11-september-11-attacks",
+      "date": "2001-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Americas",
+      "title": "Al-Qaeda hijackers kill nearly 3,000 in the September 11 attacks",
+      "summary": "Planes hit the World Trade Center and the Pentagon. The attacks launched the war on terror and the wars in Afghanistan and Iraq.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+       }
+      ],
+      "entities": [
+       "al-qaeda",
+       "osama-bin-laden",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "strike",
+      "where": [
+       "new-york-city"
+      ],
+      "related_stories": [
+       "2011-05-02-bin-laden-killed",
+       "2002-01-29-axis-of-evil",
+       "2002-09-20-bush-doctrine",
+       "2003-03-20-iraq-invasion",
+       "2004-07-22-911-commission-report"
+      ]
+     },
+     "2001-06-01-dolphinarium-bombing": {
+      "id": "2001-06-01-dolphinarium-bombing",
+      "date": "2001-06-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Middle East",
+      "title": "A suicide bomber kills 21 at a Tel Aviv disco",
+      "summary": "Most of the victims were teenagers.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_massacre"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "strike",
+      "where": [
+       "dolphinarium"
+      ],
+      "related_stories": []
+     },
+     "2001-06-28-milosevic-extradited": {
+      "id": "2001-06-28-milosevic-extradited",
+      "date": "2001-06-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Europe",
+      "title": "Serbia hands Slobodan Milošević to The Hague tribunal",
+      "summary": "He died in custody in 2006 before a verdict.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87"
+       }
+      ],
+      "entities": [
+       "serbia",
+       "slobodan-milosevic"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": []
+     },
+     "2002-01-18-sierra-leone-war-ends": {
+      "id": "2002-01-18-sierra-leone-war-ends",
+      "date": "2002-01-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-03-31",
+      "region": "Africa",
+      "title": "Sierra Leone declares its civil war over",
+      "summary": "British and UN forces had helped end the war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
+       }
+      ],
+      "entities": [
+       "sierra-leone",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-03-31",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "freetown"
+      ],
+      "related_stories": []
+     },
+     "2001-03-zimbabwe-land-seizures": {
+      "id": "2001-03-zimbabwe-land-seizures",
+      "date": "2001",
+      "date_precision": "year",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Africa",
+      "title": "Zimbabwe's land seizures from white farmers accelerate",
+      "summary": "Farm output collapsed and the economy went into freefall.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Land_reform_in_Zimbabwe"
+       }
+      ],
+      "entities": [
+       "zimbabwe",
+       "robert-mugabe"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "harare"
+      ],
+      "related_stories": []
+     },
+     "2006-07-12-lebanon-war": {
+      "id": "2006-07-12-lebanon-war",
+      "date": "2006-07-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-09-30",
+      "region": "Middle East",
+      "title": "Hezbollah's cross-border raid triggers a 34-day war with Israel",
+      "summary": "Hezbollah survived Israel's air and ground campaign, and its standing rose across the region.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+       }
+      ],
+      "entities": [
+       "hezbollah",
+       "israel",
+       "lebanon",
+       "hassan-nasrallah"
+      ],
+      "causes": [
+       {
+        "story": "2005-03-14-cedar-revolution",
+        "why": "Syria's exit left Hezbollah exposed",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2006-09-30",
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": [
+       "2005-03-14-cedar-revolution",
+       "2008-05-21-doha-agreement-lebanon",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "lebanon-tampa-talks-demands",
+       "2006-08-11-unsc-1701"
+      ],
+      "revisions": [
+       {
+        "edition": "2005-12-31",
+        "why": "2005 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2004-11-22-orange-revolution": {
+      "id": "2004-11-22-orange-revolution",
+      "date": "2004-11-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine's Orange Revolution erupts over a rigged election",
+      "summary": "Mass protests forced a rerun that Yushchenko won; Moscow saw Western interference.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orange_Revolution"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "viktor-yushchenko",
+       "viktor-yanukovych",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2003-11-23-rose-revolution",
+        "why": "Colour revolution",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2004-12-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "maidan"
+      ],
+      "related_stories": [
+       "2003-11-23-rose-revolution",
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-03-24-tulip-revolution",
+       "2014-02-22-yanukovych-ousted",
+       "2013-11-21-euromaidan"
+      ],
+      "revisions": [
+       {
+        "edition": "2003-12-31",
+        "why": "2003 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2006-12-05-fiji-coup": {
+      "id": "2006-12-05-fiji-coup",
+      "date": "2006-12-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Asia-Pacific",
+      "title": "Fiji's military commander Frank Bainimarama seizes power",
+      "summary": "It was Fiji's fourth coup in two decades.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "fiji"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "suva"
+      ],
+      "related_stories": []
+     },
+     "2004-03-20-chen-reelected": {
+      "id": "2004-03-20-chen-reelected",
+      "date": "2004-03-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Asia-Pacific",
+      "title": "Chen Shui-bian narrowly wins re-election in Taiwan after being shot",
+      "summary": "His pro-independence term raised tension with Beijing.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Taiwanese_presidential_election"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "chen-shui-bian",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "taipei"
+      ],
+      "related_stories": []
+     },
+     "2004-03-14-putin-reelected": {
+      "id": "2004-03-14-putin-reelected",
+      "date": "2004-03-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Putin wins a second term in a landslide",
+      "summary": "Observers said the vote was not a real contest.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Russian_presidential_election"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2006-12-03-chavez-reelected": {
+      "id": "2006-12-03-chavez-reelected",
+      "date": "2006-12-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Americas",
+      "title": "Chávez wins re-election by a wide margin",
+      "summary": "He promised to deepen 'socialism of the 21st century'.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Venezuelan_presidential_election"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "hugo-chavez"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "storylines": [
+       "venezuela-oil"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": [
+       "2007-05-01-chavez-orinoco-nationalised",
+       "2007-12-02-venezuela-rejects-reform"
+      ]
+     },
+     "2002-08-07-uribe-takes-office": {
+      "id": "2002-08-07-uribe-takes-office",
+      "date": "2002-08-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Americas",
+      "title": "Álvaro Uribe takes office in Colombia",
+      "summary": "His 'democratic security' campaign with US Plan Colombia aid pushed back the FARC.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+       }
+      ],
+      "entities": [
+       "colombia",
+       "alvaro-uribe",
+       "farc"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "bogota"
+      ],
+      "related_stories": []
+     },
+     "2002-09-19-ivory-coast-war": {
+      "id": "2002-09-19-ivory-coast-war",
+      "date": "2002-09-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Africa",
+      "title": "A failed coup splits Ivory Coast into north and south",
+      "summary": "The division ran until the 2011 post-election war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Ivorian_Civil_War"
+       }
+      ],
+      "entities": [
+       "ivory-coast",
+       "laurent-gbagbo"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "military",
+      "where": [
+       "abidjan"
+      ],
+      "related_stories": [
+       "2003-01-24-linas-marcoussis"
+      ]
+     },
+     "2013-05-11-sharif-wins": {
+      "id": "2013-05-11-sharif-wins",
+      "date": "2013-05-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Asia-Pacific",
+      "title": "Nawaz Sharif wins Pakistan's election in its first democratic transfer of power",
+      "summary": "Sharif's PML-N defeated the ruling PPP; Imran Khan's PTI emerged as a major force.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2013_Pakistani_general_election"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2013/05/11/world/asia/pakistan-election"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "imran-khan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war",
+       "south-asia-security"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": []
+     },
+     "2000-09-28-second-intifada": {
+      "id": "2000-09-28-second-intifada",
+      "date": "2000-09-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Middle East",
+      "title": "Ariel Sharon visits the Temple Mount and the second intifada erupts",
+      "summary": "The uprising lasted for years.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Second_Intifada"
+       }
+      ],
+      "entities": [
+       "israel",
+       "ariel-sharon",
+       "yasser-arafat"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "military",
+      "where": [
+       "jerusalem"
+      ],
+      "related_stories": []
+     },
+     "2000-07-11-camp-david-summit": {
+      "id": "2000-07-11-camp-david-summit",
+      "date": "2000-07-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Americas",
+      "title": "Clinton's Camp David summit with Barak and Arafat ends without a deal",
+      "summary": "The second intifada broke out two months later.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Camp_David_Summit"
+       }
+      ],
+      "entities": [
+       "israel",
+       "yasser-arafat",
+       "bill-clinton",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "diplomacy",
+      "where": [
+       "camp-david"
+      ],
+      "related_stories": []
+     },
+     "2000-06-gusinsky-arrested": {
+      "id": "2000-06-gusinsky-arrested",
+      "date": "2000-06",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Media tycoon Vladimir Gusinsky is arrested",
+      "summary": "His NTV channel was later taken over by Gazprom.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Gusinsky"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-gusinsky",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2000-05-operation-palliser": {
+      "id": "2000-05-operation-palliser",
+      "date": "2000-05",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-06-30",
+      "region": "Africa",
+      "title": "British troops land in Sierra Leone",
+      "summary": "The intervention helped end the civil war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Palliser"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "sierra-leone"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-06-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "military",
+      "where": [
+       "freetown"
+      ],
+      "related_stories": []
+     },
+     "2000-02-zimbabwe-referendum": {
+      "id": "2000-02-zimbabwe-referendum",
+      "date": "2000-02",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-03-31",
+      "region": "Africa",
+      "title": "Zimbabwe's voters reject Mugabe's draft constitution",
+      "summary": "Land invasions of white-owned farms followed.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Zimbabwean_constitutional_referendum"
+       }
+      ],
+      "entities": [
+       "zimbabwe",
+       "robert-mugabe"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-03-31",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "harare"
+      ],
+      "related_stories": []
+     },
+     "2000-05-19-fiji-coup": {
+      "id": "2000-05-19-fiji-coup",
+      "date": "2000-05-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-06-30",
+      "region": "Asia-Pacific",
+      "title": "George Speight's gunmen seize Fiji's parliament",
+      "summary": "They held the government hostage for weeks.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Fijian_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "fiji"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-06-30",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "suva"
+      ],
+      "related_stories": []
+     },
+     "2000-03-26-putin-elected": {
+      "id": "2000-03-26-putin-elected",
+      "date": "2000-03-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Vladimir Putin wins Russia's presidential election",
+      "summary": "He had been acting president since Boris Yeltsin resigned.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Russian_presidential_election"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2000-07-30-chavez-reelected": {
+      "id": "2000-07-30-chavez-reelected",
+      "date": "2000-07-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Americas",
+      "title": "Hugo Chávez wins re-election under Venezuela's new constitution",
+      "summary": "The vote followed the 1999 constitution.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Venezuelan_general_election"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "hugo-chavez"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "storylines": [
+       "western-hemisphere",
+       "venezuela-oil"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": []
+     },
+     "2000-07-plan-colombia": {
+      "id": "2000-07-plan-colombia",
+      "date": "2000-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Americas",
+      "title": "The US backs Plan Colombia with aid against drugs and guerrillas",
+      "summary": "Military aid flowed to the fight against the FARC.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plan_Colombia"
+       }
+      ],
+      "entities": [
+       "colombia",
+       "united-states",
+       "farc",
+       "bill-clinton"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "military",
+      "where": [
+       "bogota"
+      ],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria",
+       "2015-11-24-turkey-downs-su-24",
+       "2014-07-08-gaza-war",
+       "2013-06-05-qusayr-hezbollah",
+       "2013-08-21-ghouta-sarin",
+       "2013-09-14-syria-chemical-deal",
+       "2012-01-23-nusra-founded",
+       "2012-05-25-houla-massacre",
+       "2012-07-18-damascus-bombing",
+       "2012-08-20-obama-red-line",
+       "2012-07-19-ypg-takes-kobani",
+       "2012-11-14-pillar-of-defense",
+       "2012-11-29-un-palestine-observer",
+       "2011-03-15-syria-uprising",
+       "2011-07-29-fsa-formed",
+       "2010-05-31-gaza-flotilla-raid",
+       "2009-02-10-israel-election-netanyahu",
+       "2009-06-04-obama-cairo-speech",
+       "2008-05-21-doha-agreement-lebanon",
+       "2008-12-27-operation-cast-lead",
+       "2007-06-14-hamas-takes-gaza",
+       "2007-09-06-israel-strikes-syrian-reactor",
+       "2007-11-27-annapolis-conference",
+       "2006-01-25-hamas-wins-election",
+       "2006-06-25-shalit-captured",
+       "2006-07-12-lebanon-war",
+       "2006-08-11-unsc-1701",
+       "2005-02-14-hariri-assassinated",
+       "2005-03-14-cedar-revolution",
+       "2005-08-15-gaza-disengagement",
+       "2004-03-22-yassin-killed",
+       "2004-07-09-icj-wall-opinion",
+       "2004-11-11-arafat-dies",
+       "2003-04-30-road-map",
+       "2002-03-28-arab-peace-initiative",
+       "2002-03-29-defensive-shield",
+       "2001-02-06-sharon-elected",
+       "2001-06-01-dolphinarium-bombing",
+       "2000-05-israel-leaves-lebanon",
+       "2000-06-10-hafez-assad-dies",
+       "2000-07-11-camp-david-summit",
+       "2000-09-28-second-intifada"
+      ],
+      "source": "inbox"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2023-10-08-hezbollah-support-front",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2020-05-07-kadhimi-pm",
+       "2019-10-01-iraq-protests",
+       "2019-12-27-k1-rocket-attack",
+       "2019-12-29-us-strikes-kataib-hezbollah",
+       "2019-12-31-baghdad-embassy-siege",
+       "2017-09-25-kurdish-referendum",
+       "2017-10-16-kirkuk-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-09-21-houthis-take-sanaa",
+       "2013-06-05-qusayr-hezbollah",
+       "2011-03-14-gcc-crushes-bahrain",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-02-12-mughniyeh-killed",
+       "2008-05-21-doha-agreement-lebanon",
+       "2006-07-12-lebanon-war",
+       "2004-04-04-sadr-uprising",
+       "2002-01-03-karine-a-seized",
+       "2000-05-israel-leaves-lebanon"
+      ],
+      "source": "threads.md"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-11-24-china-cables",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-04-16-zte-export-ban",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-09-30-usmca-deal",
+       "2018-12-01-meng-wanzhou-arrested",
+       "2017-01-20-trump-inaugurated",
+       "2017-01-23-us-quits-tpp",
+       "2016-11-08-trump-elected",
+       "2015-05-19-made-in-china-2025",
+       "2015-06-29-aiib-signed",
+       "2014-11-08-silk-road-fund",
+       "2013-03-14-xi-becomes-president",
+       "2013-09-07-silk-road-economic-belt",
+       "2012-11-15-xi-general-secretary",
+       "2005-07-21-yuan-peg-ends",
+       "2001-11-10-china-wto-approved",
+       "2001-11-14-doha-round"
+      ],
+      "source": "inbox"
+     },
+     "china-economy": {
+      "id": "china-economy",
+      "name": "China's economy and property crisis",
+      "entities": [
+       "china",
+       "evergrande"
+      ],
+      "stories": [
+       "2015-08-24-china-black-monday",
+       "2020-11-03-ant-ipo-halted",
+       "2021-09-20-evergrande-crisis",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens",
+       "2023-10-18-country-garden-default",
+       "2008-08-08-beijing-olympics",
+       "2008-11-09-china-stimulus",
+       "2007-10-22-xi-joins-standing-committee",
+       "2005-07-21-yuan-peg-ends",
+       "2001-11-10-china-wto-approved"
+      ],
+      "source": "inbox"
+     },
+     "war-on-terror": {
+      "id": "war-on-terror",
+      "name": "9/11 and the war on terror",
+      "entities": [
+       "al-qaeda",
+       "united-states",
+       "taliban",
+       "osama-bin-laden"
+      ],
+      "stories": [
+       "2009-11-05-fort-hood-shooting",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-25-underwear-bomber",
+       "2009-12-30-camp-chapman-attack",
+       "2011-05-02-bin-laden-killed",
+       "2006-08-10-transatlantic-plot",
+       "2006-09-02-operation-medusa",
+       "2005-07-07-london-bombings",
+       "2005-11-09-amman-bombings",
+       "2004-03-11-madrid-bombings",
+       "2004-04-28-abu-ghraib",
+       "2004-05-29-khobar-massacre",
+       "2004-07-22-911-commission-report",
+       "2003-05-12-riyadh-compound-bombings",
+       "2003-05-16-casablanca-bombings",
+       "2003-11-15-istanbul-bombings",
+       "2002-01-11-guantanamo-opens",
+       "2002-01-29-axis-of-evil",
+       "2002-02-01-daniel-pearl-killed",
+       "2002-03-02-operation-anaconda",
+       "2002-09-20-bush-doctrine",
+       "2002-10-12-bali-bombings",
+       "2002-11-03-yemen-drone-strike",
+       "2001-09-09-massoud-assassinated",
+       "2001-09-11-september-11-attacks",
+       "2001-09-12-nato-article-5",
+       "2001-09-18-aumf",
+       "2001-10-07-afghanistan-invasion",
+       "2001-10-26-patriot-act",
+       "2001-12-12-tora-bora"
+      ],
+      "source": "inbox"
+     },
+     "africa-governance": {
+      "id": "africa-governance",
+      "name": "Africa: coups, elections and governance",
+      "entities": [
+       "south-africa",
+       "kenya",
+       "nigeria",
+       "zimbabwe"
+      ],
+      "stories": [
+       "2010-08-04-kenya-constitution",
+       "2010-11-28-ivory-coast-runoff",
+       "2011-04-11-gbagbo-captured",
+       "2011-10-23-tunisia-election",
+       "2012-08-16-marikana-massacre",
+       "2013-03-04-kenyatta-elected",
+       "2013-03-24-seleka-takes-bangui",
+       "2013-12-05-mandela-dies",
+       "2013-12-05-france-sangaris-car",
+       "2014-05-28-sisi-elected",
+       "2015-04-26-burundi-third-term",
+       "2016-08-31-bongo-reelected",
+       "2017-01-21-gambia-jammeh-exits",
+       "2017-09-01-kenya-election-annulled",
+       "2017-11-15-mugabe-coup",
+       "2017-12-18-ramaphosa-anc-leader",
+       "2018-02-15-ramaphosa-president",
+       "2018-07-30-zimbabwe-election",
+       "2019-04-02-bouteflika-resigns",
+       "2020-10-20-endsars-lekki",
+       "2023-02-25-tinubu-elected",
+       "2024-05-29-anc-loses-majority",
+       "2024-06-25-kenya-parliament-stormed",
+       "2025-10-14-madagascar-coup",
+       "2026-03-09-madagascar-government-dismissed",
+       "2009-03-17-madagascar-coup",
+       "2009-07-26-boko-haram-uprising",
+       "2009-08-04-niger-tandja-referendum",
+       "2009-09-28-guinea-stadium-massacre",
+       "2008-02-28-kenya-power-sharing",
+       "2008-03-29-zimbabwe-election",
+       "2008-08-06-mauritania-coup",
+       "2008-12-23-guinea-coup",
+       "2007-04-21-nigeria-yaradua",
+       "2007-12-30-kenya-disputed-election",
+       "2006-01-16-sirleaf-inaugurated",
+       "2005-02-05-togo-succession",
+       "2005-05-murambatsvina",
+       "2005-08-03-mauritania-coup",
+       "2004-03-07-equatorial-guinea-coup-plot",
+       "2004-11-06-france-ivory-coast-clash",
+       "2003-01-24-linas-marcoussis",
+       "2003-08-11-charles-taylor-exiled",
+       "2002-01-18-sierra-leone-war-ends",
+       "2002-02-22-savimbi-killed",
+       "2002-03-13-zimbabwe-mugabe-reelected",
+       "2002-07-09-african-union-launched",
+       "2002-09-19-ivory-coast-war",
+       "2002-12-27-kibaki-elected",
+       "2001-03-zimbabwe-land-seizures",
+       "2001-07-lusaka-au-plan",
+       "2000-02-zimbabwe-referendum",
+       "2000-03-19-wade-wins-senegal",
+       "2000-05-operation-palliser"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies",
+       "2015-11-22-macri-elected",
+       "2014-03-17-car-wash-begins",
+       "2014-09-26-iguala-kidnapping",
+       "2014-10-26-rousseff-reelected",
+       "2014-12-17-cuba-thaw-announced",
+       "2013-03-05-chavez-dies",
+       "2013-06-20-brazil-protests",
+       "2012-06-22-lugo-impeached",
+       "2012-07-01-pena-nieto-elected",
+       "2012-09-04-farc-talks-open",
+       "2011-01-01-rousseff-takes-office",
+       "2010-01-12-haiti-earthquake",
+       "2010-06-20-santos-elected",
+       "2010-08-24-san-fernando-massacre",
+       "2010-10-31-dilma-elected",
+       "2009-06-28-honduras-coup",
+       "2009-12-06-bolivia-morales-reelected",
+       "2008-02-19-fidel-castro-steps-down",
+       "2008-03-01-andean-crisis",
+       "2008-06-30-merida-initiative",
+       "2007-01-10-ortega-returns",
+       "2007-01-15-correa-takes-office",
+       "2006-05-01-bolivia-gas-nationalised",
+       "2006-07-02-mexico-calderon-wins",
+       "2006-10-29-lula-reelected",
+       "2006-12-11-mexico-drug-war",
+       "2005-11-05-mar-del-plata-summit",
+       "2005-12-18-morales-elected",
+       "2004-02-29-aristide-ousted",
+       "2004-10-31-uruguay-left-wins",
+       "2003-01-01-lula-takes-office",
+       "2003-05-25-kirchner-takes-office",
+       "2003-10-17-bolivia-gas-war",
+       "2002-01-argentina-peso-devalued",
+       "2002-08-07-uribe-takes-office",
+       "2002-10-27-lula-elected",
+       "2001-06-03-toledo-elected",
+       "2001-12-20-argentina-collapse",
+       "2000-01-21-ecuador-coup",
+       "2000-07-02-fox-wins-mexico",
+       "2000-07-plan-colombia",
+       "2000-07-30-chavez-reelected"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected",
+       "2018-11-25-kerch-strait-incident",
+       "2017-08-02-caatsa",
+       "2016-07-08-nato-warsaw-summit",
+       "2016-09-28-mh17-jit-findings",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-02-27-nemtsov-killed",
+       "2014-02-22-yanukovych-ousted",
+       "2014-03-18-crimea-annexed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-25-poroshenko-elected",
+       "2014-07-17-mh17-shot-down",
+       "2014-08-29-ilovaisk",
+       "2014-09-05-nato-wales-2pct",
+       "2014-12-16-ruble-crash",
+       "2013-11-21-euromaidan",
+       "2012-03-04-putin-returns",
+       "2011-12-10-moscow-protests",
+       "2010-02-07-yanukovych-elected",
+       "2010-04-08-new-start",
+       "2010-12-19-belarus-election-crackdown",
+       "2009-01-07-russia-ukraine-gas-cutoff",
+       "2009-04-16-chechnya-operation-ends",
+       "2009-05-07-eastern-partnership",
+       "2008-03-02-medvedev-elected",
+       "2008-04-03-nato-bucharest-summit",
+       "2008-08-08-russia-georgia-war",
+       "2007-02-10-putin-munich-speech",
+       "2007-04-27-estonia-cyberattacks",
+       "2007-09-30-ukraine-snap-election",
+       "2006-01-01-russia-ukraine-gas-cut",
+       "2006-03-19-belarus-election",
+       "2006-03-26-ukraine-election-yanukovych",
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-09-08-nord-stream-deal",
+       "2004-03-14-putin-reelected",
+       "2004-03-29-nato-enlargement",
+       "2004-05-09-kadyrov-assassinated",
+       "2004-09-01-beslan-siege",
+       "2004-11-22-orange-revolution",
+       "2002-05-28-nato-russia-council",
+       "2002-10-23-moscow-theatre-siege",
+       "2002-11-21-nato-prague-summit",
+       "2001-07-16-sino-russian-treaty",
+       "2000-02-grozny-falls",
+       "2000-03-26-putin-elected",
+       "2000-06-gusinsky-arrested",
+       "2000-05-13-russia-federal-districts",
+       "2000-08-12-kursk-sinks"
+      ],
+      "source": "threads.md"
+     },
+     "us-domestic-politics": {
+      "id": "us-domestic-politics",
+      "name": "US domestic politics",
+      "entities": [
+       "united-states"
+      ],
+      "stories": [
+       "2010-11-02-us-midterms",
+       "2011-09-17-occupy-wall-street",
+       "2012-11-06-obama-reelected",
+       "2013-04-15-boston-bombing",
+       "2013-10-01-us-shutdown",
+       "2014-08-09-ferguson",
+       "2017-01-27-travel-ban",
+       "2017-12-22-tax-cuts-signed",
+       "2018-11-06-us-midterms",
+       "2020-05-26-george-floyd-protests",
+       "2024-07-13-trump-shot",
+       "2024-07-21-biden-withdraws",
+       "2009-01-20-obama-inaugurated",
+       "2008-11-04-obama-elected",
+       "2006-11-07-us-midterms-democrats",
+       "2005-08-29-hurricane-katrina",
+       "2004-11-02-bush-reelected",
+       "2001-01-20-bush-inaugurated",
+       "2001-10-26-patriot-act",
+       "2001-10-anthrax-letters"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement",
+       "2019-10-11-abiy-nobel",
+       "2018-04-02-abiy-pm",
+       "2018-07-09-ethiopia-eritrea-peace",
+       "2016-10-09-ethiopia-state-of-emergency",
+       "2013-09-21-westgate-attack",
+       "2013-12-15-south-sudan-civil-war",
+       "2012-02-09-shabaab-joins-al-qaeda",
+       "2012-04-10-heglig-crisis",
+       "2012-09-28-kismayo-falls",
+       "2011-01-09-south-sudan-referendum",
+       "2011-07-09-south-sudan-independence",
+       "2011-07-20-somalia-famine",
+       "2011-10-16-kenya-invades-somalia",
+       "2009-04-08-maersk-alabama-hijacked",
+       "2008-11-15-sirius-star-seized",
+       "2007-02-20-amisom-authorised",
+       "2006-06-05-icu-takes-mogadishu",
+       "2006-12-24-ethiopia-invades-somalia",
+       "2005-05-15-ethiopia-election-crackdown"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing",
+       "2008-10-10-us-india-nuclear-deal",
+       "2008-11-26-mumbai-attacks",
+       "2007-07-10-lal-masjid-siege",
+       "2007-11-03-musharraf-emergency",
+       "2007-12-14-ttp-formed",
+       "2007-12-27-bhutto-assassinated",
+       "2006-03-02-bush-singh-nuclear-deal",
+       "2006-07-11-mumbai-train-bombings",
+       "2006-06-sri-lanka-eelam-war-iv",
+       "2005-11-17-rajapaksa-elected",
+       "2004-02-04-aq-khan-confession",
+       "2004-05-13-india-manmohan-singh",
+       "2002-02-27-gujarat-riots",
+       "2001-09-pakistan-sides-with-us",
+       "2000-04-elephant-pass"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
