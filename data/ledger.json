@@ -58570,6 +58570,1725 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2015-12-31": {
+   "sha256": "7fde0ea9755fc0869c1cd674ab55c041db63e58b9cea0483551e930322e258a4",
+   "undo": {
+    "stories": {
+     "2015-10-10-ankara-bombings": null,
+     "2015-10-31-metrojet-bombing": null,
+     "2015-11-08-nld-wins-myanmar": null,
+     "2015-11-13-paris-attacks": null,
+     "2015-11-22-macri-elected": null,
+     "2015-11-24-turkey-downs-su-24": null,
+     "2015-12-06-venezuela-opposition-wins-assembly": null,
+     "2015-12-12-paris-climate-agreement": null,
+     "2015-12-17-libyan-political-agreement": null,
+     "2015-12-28-ramadi-retaken": null,
+     "2016-01-16-jcpoa-implementation": {
+      "id": "2016-01-16-jcpoa-implementation",
+      "date": "2016-01-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-03-31",
+      "region": "Middle East",
+      "title": "Iran nuclear deal takes effect and sanctions are lifted",
+      "summary": "The IAEA certified Iran had cut its programme as required under the 2015 JCPOA, unlocking frozen assets and oil exports; a prisoner swap with the US came the same day.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2016/jan/16/sanctions-against-iran-to-be-lifted-after-compliance-with-nuclear-deal"
+       }
+      ],
+      "entities": [
+       "iran",
+       "jcpoa",
+       "iaea",
+       "united-states",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-03-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "diplomacy",
+      "unplaced": "IAEA certification.",
+      "related_stories": [
+       "2021-11-29-jcpoa-vienna",
+       "2022-09-jcpoa-stall",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "2025-09-28-iran-snapback",
+       "2021-04-11-natanz-sabotage",
+       "2018-05-08-us-quits-jcpoa"
+      ]
+     },
+     "2016-03-14-putin-partial-syria-withdrawal": {
+      "id": "2016-03-14-putin-partial-syria-withdrawal",
+      "date": "2016-03-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Putin declares the Syria mission 'on the whole accomplished' and orders a partial pullout",
+      "summary": "Russian air power had turned the war in Assad's favour; most forces stayed and the Aleppo offensive followed.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Russian_military_intervention_in_the_Syrian_civil_war"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin",
+       "syria",
+       "bashar-al-assad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "military",
+      "unplaced": "Announcement in Moscow.",
+      "related_stories": [
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2020-03-05-idlib-ceasefire",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal"
+      ]
+     },
+     "2016-03-18-eu-turkey-migrant-deal": {
+      "id": "2016-03-18-eu-turkey-migrant-deal",
+      "date": "2016-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-03-31",
+      "region": "Europe",
+      "title": "EU and Turkey agree a deal to stem migrant crossings to Greece",
+      "summary": "Ankara agreed to take back migrants in return for money and visa promises, after more than a million people reached Europe in 2015.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/European_migrant_crisis"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "turkey",
+       "greece",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-03-31",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2020-08-12-east-med-standoff"
+      ]
+     },
+     "2016-03-22-brussels-bombings": {
+      "id": "2016-03-22-brussels-bombings",
+      "date": "2016-03-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-03-31",
+      "region": "Europe",
+      "title": "Islamic State bombers kill 32 at Brussels airport and metro",
+      "summary": "The cell was linked to the November 2015 Paris attacks.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_Brussels_bombings"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/ng-interactive/2016/mar/22/where-the-brussels-attackers-struck"
+       }
+      ],
+      "entities": [
+       "belgium",
+       "islamic-state"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-03-31",
+      "storylines": [
+       "isis-war"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "strike",
+      "where": [
+       "brussels-airport"
+      ],
+      "related_stories": []
+     },
+     "2016-03-30-gna-arrives-tripoli": {
+      "id": "2016-03-30-gna-arrives-tripoli",
+      "date": "2016-03-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-03-31",
+      "region": "Africa",
+      "title": "Libya's UN-backed unity government arrives in Tripoli",
+      "summary": "The Government of National Accord, formed under the 2015 Libyan Political Agreement, was rejected by Khalifa Haftar's eastern camp.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Government_of_National_Accord"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "http://www.aljazeera.com/news/2016/03/libya-backed-unity-government-arrives-tripoli-160330125804929.html"
+       }
+      ],
+      "entities": [
+       "libya",
+       "gna-libya",
+       "khalifa-haftar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-03-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "political",
+      "unplaced": "Tripoli has no coordinates on its Wikipedia page.",
+      "related_stories": [
+       "2016-12-06-sirte-liberated"
+      ]
+     },
+     "2016-04-25-vision-2030": {
+      "id": "2016-04-25-vision-2030",
+      "date": "2016-04-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-06-30",
+      "region": "Middle East",
+      "title": "Mohammed bin Salman launches Saudi Vision 2030",
+      "summary": "The plan to diversify away from oil included selling part of Aramco; many of its megaprojects were later scaled back.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saudi_Vision_2030"
+       }
+      ],
+      "entities": [
+       "mohammed-bin-salman",
+       "saudi-arabia",
+       "vision-2030",
+       "aramco"
+      ],
+      "causes": [
+       {
+        "story": "2016-01-20-oil-below-30",
+        "why": "Oil crash exposed fiscal dependence",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-06-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "energy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "2016-01-20-oil-below-30",
+       "houthis-saudi-oct15",
+       "2019-12-11-aramco-ipo",
+       "2017-06-21-mbs-crown-prince"
+      ]
+     },
+     "2016-06-23-brexit-referendum": {
+      "id": "2016-06-23-brexit-referendum",
+      "date": "2016-06-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-06-30",
+      "region": "Europe",
+      "title": "Britain votes 52–48 to leave the European Union",
+      "summary": "David Cameron resigned and Theresa May took over on Jul 13; it was the biggest blow yet to European integration.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2016/jun/25/article-50-brexit-debate-britain-eu"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "european-union",
+       "theresa-may"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-06-30",
+      "analysis": {
+       "text": "Brexit and Trump's win months later marked the populist turn that shaped Western politics to today.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift",
+       "europe-populism"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "political",
+      "unplaced": "National referendum.",
+      "related_stories": [
+       "2018-11-25-brexit-deal-endorsed",
+       "2017-03-29-article-50"
+      ]
+     },
+     "2016-07-12-south-china-sea-ruling": {
+      "id": "2016-07-12-south-china-sea-ruling",
+      "date": "2016-07-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-09-30",
+      "region": "Asia-Pacific",
+      "title": "Hague tribunal rules against China's South China Sea claims",
+      "summary": "The arbitral tribunal in the Philippines' case found no legal basis for the 'nine-dash line'; Beijing rejected the ruling and kept militarising its artificial islands.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/South_China_Sea_Arbitration"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china"
+       }
+      ],
+      "entities": [
+       "philippines",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-09-30",
+      "analysis": {
+       "text": "The ruling underpins today's Philippine–Chinese clashes at Second Thomas and Scarborough shoals.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "taiwan-indopacific",
+       "southeast-asia"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "diplomacy",
+      "unplaced": "Ruling covers the whole South China Sea.",
+      "related_stories": []
+     },
+     "2016-12-22-aleppo-falls": {
+      "id": "2016-12-22-aleppo-falls",
+      "date": "2016-12-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-12-31",
+      "region": "Middle East",
+      "title": "Assad's forces retake all of Aleppo with Russian and Iranian help",
+      "summary": "Evacuation of the last rebel-held districts ended the four-year battle, the war's biggest turning point until 2024.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_%282012%E2%80%932016%29"
+       },
+       {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/endgame-in-aleppo-the-most-decisive-battle-yet-in-syrias-war/2016/12/13/eff36c3a-c16c-11e6-92e8-c07f4f671da4_story.html"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad",
+       "russia",
+       "iran",
+       "hezbollah"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-12-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "military",
+      "where": [
+       "aleppo"
+      ],
+      "related_stories": [
+       "2017-01-23-astana-talks",
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2020-03-05-idlib-ceasefire",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-06-19-southern-syria-offensive",
+       "2016-03-14-putin-partial-syria-withdrawal"
+      ]
+     },
+     "2016-08-24-euphrates-shield": {
+      "id": "2016-08-24-euphrates-shield",
+      "date": "2016-08-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-09-30",
+      "region": "Middle East",
+      "title": "Turkey sends troops into Syria, taking Jarabulus from the Islamic State",
+      "summary": "Operation Euphrates Shield with allied Syrian rebels also aimed to stop Kurdish forces linking their territories.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Euphrates_Shield"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2016/aug/24/turkey-launches-major-operation-against-isis-in-key-border-town"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "free-syrian-army",
+       "islamic-state",
+       "ypg",
+       "syria"
+      ],
+      "causes": [
+       {
+        "story": "2016-07-15-turkey-coup-attempt",
+        "why": "Erdoğan reasserted control over the army",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-09-30",
+      "storylines": [
+       "levant-wars",
+       "isis-war"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "military",
+      "where": [
+       "jarabulus"
+      ],
+      "related_stories": [
+       "2016-07-15-turkey-coup-attempt",
+       "2018-01-20-operation-olive-branch"
+      ]
+     },
+     "2016-12-10-opec-plus-formed": {
+      "id": "2016-12-10-opec-plus-formed",
+      "date": "2016-12",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2016-12-31",
+      "region": "Middle East",
+      "title": "OPEC and Russia-led producers agree joint cuts, creating 'OPEC+'",
+      "summary": "After OPEC agreed its first cut in eight years, Russia and other non-members joined the deal in Vienna, a Saudi–Russian partnership that has managed supply ever since.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OPEC"
+       }
+      ],
+      "entities": [
+       "opec",
+       "opec-plus",
+       "saudi-arabia",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2016-01-20-oil-below-30",
+        "why": "Response to the price crash",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-12-31",
+      "analysis": {
+       "text": "OPEC+ remains the main tool of Saudi–Russian oil cooperation, including the 2020 price war and record cut.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "energy",
+      "unplaced": "Agreed in Vienna.",
+      "related_stories": [
+       "2016-01-20-oil-below-30",
+       "2020-03-09-oil-price-war",
+       "2022-10-05-opec-cut",
+       "2026-04-28-uae-quits-opec",
+       "2020-04-12-opec-plus-record-cut"
+      ]
+     },
+     "2016-05-21-mansour-killed": {
+      "id": "2016-05-21-mansour-killed",
+      "date": "2016-05-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-06-30",
+      "region": "Asia-Pacific",
+      "title": "US drone kills Taliban leader Akhtar Mansour in Pakistan",
+      "summary": "Hibatullah Akhundzada, a reclusive cleric who later became Afghanistan's supreme leader, succeeded him.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Akhtar_Mansur"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor"
+       }
+      ],
+      "entities": [
+       "akhtar-mansour",
+       "hibatullah-akhundzada",
+       "taliban",
+       "united-states",
+       "pakistan",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "strike",
+      "unplaced": "Balochistan, location not precisely given.",
+      "related_stories": [
+       "2021-08-15-fall-of-kabul"
+      ]
+     },
+     "2016-12-06-sirte-liberated": {
+      "id": "2016-12-06-sirte-liberated",
+      "date": "2016-12-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-12-31",
+      "region": "Africa",
+      "title": "Libyan forces backed by US airstrikes drive the Islamic State from Sirte",
+      "summary": "The GNA-aligned Misrata brigades took the group's last stronghold in Libya after a months-long battle.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Sirte_%282016%29"
+       }
+      ],
+      "entities": [
+       "libya",
+       "gna-libya",
+       "islamic-state",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2016-03-30-gna-arrives-tripoli",
+        "why": "Unity government's forces led the battle",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-12-31",
+      "storylines": [
+       "isis-war",
+       "sahel"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "military",
+      "where": [
+       "sirte"
+      ],
+      "related_stories": [
+       "2016-03-30-gna-arrives-tripoli"
+      ]
+     },
+     "2017-07-30-venezuela-constituent-assembly": {
+      "id": "2017-07-30-venezuela-constituent-assembly",
+      "date": "2017-07-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-09-30",
+      "region": "Americas",
+      "title": "Maduro holds a vote for a Constituent Assembly to sideline the opposition parliament",
+      "summary": "After months of deadly protests the new body took over legislative powers; the voting-machine supplier said turnout was inflated, and the US sanctioned Maduro.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_Venezuelan_Constituent_Assembly_election"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_Venezuelan_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2017/jul/30/fear-of-violence-hangs-over-venezuela-assembly-election"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "nicolas-maduro",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-09-30",
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2026-01-03-maduro-captured",
+       "2025-09-02-boat-strikes-begin",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2020-03-26-maduro-indicted",
+       "2019-01-23-guaido-interim-president",
+       "2019-01-28-pdvsa-sanctions"
+      ]
+     },
+     "2017-06-01-us-quits-paris-agreement": {
+      "id": "2017-06-01-us-quits-paris-agreement",
+      "date": "2017-06-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-06-30",
+      "region": "Americas",
+      "title": "Trump announces US withdrawal from the Paris climate agreement",
+      "summary": "He said the 2015 accord would 'undermine' the US economy; withdrawal took effect in November 2020 and Biden rejoined in 2021.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement"
+       },
+       {
+        "name": "CNN",
+        "url": "http://www.cnn.com/2017/06/01/politics/trump-paris-climate-decision/index.html"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "paris-agreement"
+      ],
+      "causes": [
+       {
+        "story": "2016-11-04-paris-agreement-in-force",
+        "why": "Withdrew from the treaty in force",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2017-06-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2016-11-04-paris-agreement-in-force"
+      ],
+      "revisions": [
+       {
+        "edition": "2016-12-31",
+        "why": "2016 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2018-01-20-operation-olive-branch": {
+      "id": "2018-01-20-operation-olive-branch",
+      "date": "2018-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Middle East",
+      "title": "Turkey invades Syria's Kurdish-held Afrin region",
+      "summary": "Turkish troops and allied Syrian militias attacked the YPG, the core of the US-backed SDF, and took Afrin city on Mar 18.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2018/01/20/middleeast/turkey-syria-military-operation/index.html"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan",
+       "ypg",
+       "sdf",
+       "syria"
+      ],
+      "causes": [
+       {
+        "story": "2017-10-17-raqqa-falls",
+        "why": "With IS beaten, Turkey turned on the YPG",
+        "confidence": "possible"
+       },
+       {
+        "story": "2017-01-23-astana-talks",
+        "why": "Russia–Turkey bargaining over Syria",
+        "confidence": "possible"
+       },
+       {
+        "story": "2016-08-24-euphrates-shield",
+        "why": "Second Turkish incursion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "military",
+      "unplaced": "Afrin has no coordinates on Wikipedia.",
+      "related_stories": [
+       "2017-10-17-raqqa-falls",
+       "2017-01-23-astana-talks",
+       "2016-08-24-euphrates-shield",
+       "2019-10-09-operation-peace-spring",
+       "2024-12-01-sna-tell-rifaat",
+       "2020-03-05-idlib-ceasefire",
+       "2018-09-17-idlib-sochi-deal"
+      ],
+      "revisions": [
+       {
+        "edition": "2017-12-31",
+        "why": "2017 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2016-12-31",
+        "why": "2016 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2018-07-06-us-china-tariffs-begin": {
+      "id": "2018-07-06-us-china-tariffs-begin",
+      "date": "2018-07-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Americas",
+      "title": "US and China slap 25% tariffs on $34bn of each other's goods",
+      "summary": "The first shots of the trade war; Washington soon targeted another $200bn of Chinese imports.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/07/05/business/china-us-trade-war-trump-tariffs.html"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "donald-trump",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2018-03-08-steel-aluminum-tariffs",
+        "why": "Escalation from metals tariffs",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "analysis": {
+       "text": "The 2018 tariffs began the US–China decoupling that ran through export controls to the 2025–26 rare-earth fights.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Tariff decision.",
+      "related_stories": [
+       "2018-03-08-steel-aluminum-tariffs",
+       "trump-waives-russia-sanctions",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china",
+       "2020-01-15-phase-one-deal",
+       "2020-06-30-hong-kong-nsl",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list"
+      ]
+     },
+     "2021-02-01-myanmar-coup": {
+      "id": "2021-02-01-myanmar-coup",
+      "date": "2021-02-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-03-31",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's military seizes power and detains Aung San Suu Kyi",
+      "summary": "On the day before the new parliament was to sit, the army declared the 2020 election invalid, proclaimed a state of emergency and handed power to Min Aung Hlaing. Armed resistance by the People's Defence Force followed the crackdown on protests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2021/2/1/world-reacts-to-military-coup-in-myanmar"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2021/02/01/962758188/myanmar-coup-military-detains-aung-san-suu-kyi-plans-new-election-in-2022"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing",
+       "aung-san-suu-kyi"
+      ],
+      "causes": [
+       {
+        "story": "2020-11-08-myanmar-election",
+        "why": "Army rejected the NLD landslide",
+        "confidence": "likely"
+       },
+       {
+        "story": "2017-08-25-rohingya-exodus",
+        "why": "Military impunity after 2017",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-03-31",
+      "analysis": {
+       "text": "The coup started the civil war that later produced Operation 1027 and the junta's 2025–26 election.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "where": [
+       "naypyidaw"
+      ],
+      "related_stories": [
+       "2020-11-08-myanmar-election",
+       "2017-08-25-rohingya-exodus",
+       "2026-01-30-myanmar-junta-election",
+       "2023-10-27-operation-1027"
+      ],
+      "revisions": [
+       {
+        "edition": "2017-12-31",
+        "why": "2017 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2018-07-30-wagner-car-journalists": {
+      "id": "2018-07-30-wagner-car-journalists",
+      "date": "2018-07-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Africa",
+      "title": "Three Russian journalists investigating Wagner are killed in the Central African Republic",
+      "summary": "They died in an ambush three days after arriving, as Russian mercenaries began guarding President Touadéra's government.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/07/31/world/africa/russian-journalists-killed-central-african-republic.html"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "central-african-republic",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Ambush site outside Bangui not precisely located.",
+      "related_stories": [
+       "2019-10-23-russia-africa-summit"
+      ]
+     },
+     "2015-09-30-russia-enters-syria": {
+      "id": "2015-09-30-russia-enters-syria",
+      "date": "2015-09-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Russia begins airstrikes in Syria to rescue Assad",
+      "summary": "Flying from Khmeimim air base, Russian jets hit mainly non-IS rebels; it was Moscow's first war outside the former USSR since 1991.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_civil_war"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2015/sep/30/russia-launches-first-airstrikes-against-targets-in-syria-says-us"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin",
+       "syria",
+       "bashar-al-assad",
+       "iran"
+      ],
+      "causes": [
+       {
+        "story": "2015-05-17-ramadi-falls",
+        "why": "Assad was losing ground",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "analysis": {
+       "text": "The intervention kept Assad in power for nine more years and gave Wagner its first big theatre outside Ukraine.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "military",
+      "where": [
+       "khmeimim"
+      ],
+      "related_stories": [
+       "2015-05-17-ramadi-falls",
+       "2022-07-19-putin-tehran",
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2020-03-05-idlib-ceasefire",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-12-22-aleppo-falls"
+      ]
+     },
+     "2015-05-17-ramadi-falls": {
+      "id": "2015-05-17-ramadi-falls",
+      "date": "2015-05-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-06-30",
+      "region": "Middle East",
+      "title": "Islamic State captures Ramadi; days later it takes Palmyra in Syria",
+      "summary": "Iraqi forces abandoned the Anbar capital and the group seized Syria's ancient city of Palmyra. It was the caliphate at its peak.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Ramadi_%282014%E2%80%932015%29"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Palmyra_offensive_%28May_2015%29"
+       },
+       {
+        "name": "CNN",
+        "url": "http://www.cnn.com/2015/05/15/middleeast/iraq-isis/"
+       }
+      ],
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-06-30",
+      "storylines": [
+       "isis-war"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "military",
+      "where": [
+       "ramadi"
+      ],
+      "related_stories": [
+       "2015-09-30-russia-enters-syria"
+      ]
+     },
+     "2015-09-04-merkel-opens-border": {
+      "id": "2015-09-04-merkel-opens-border",
+      "date": "2015-09-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Europe",
+      "title": "Germany and Austria let stranded refugees in from Hungary",
+      "summary": "Days after the photo of drowned toddler Alan Kurdi, thousands marched from Budapest; about 1.3 million people sought asylum in Europe that year.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_European_migrant_crisis"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Alan_Kurdi"
+       },
+       {
+        "name": "The Guardian",
+        "url": "http://www.theguardian.com/world/2015/sep/04/hundreds-refugees-march-austria-budapest-hungary-syrians"
+       }
+      ],
+      "entities": [
+       "germany",
+       "angela-merkel",
+       "european-union",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "analysis": {
+       "text": "The influx fuelled the rise of the AfD and anti-migration politics across Europe.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "where": [
+       "budapest"
+      ],
+      "related_stories": []
+     },
+     "2015-01-23-king-salman-accedes": {
+      "id": "2015-01-23-king-salman-accedes",
+      "date": "2015-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-03-31",
+      "region": "Middle East",
+      "title": "Salman becomes king of Saudi Arabia and elevates his son Mohammed",
+      "summary": "On King Abdullah's death Salman named his 29-year-old son defence minister, beginning MBS's rapid rise.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2015/1/23/profile-king-salman-of-saudi-arabia"
+       }
+      ],
+      "entities": [
+       "king-salman",
+       "mohammed-bin-salman",
+       "saudi-arabia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-03-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "2015-03-26-saudi-intervention-yemen"
+      ]
+     },
+     "2015-05-08-cameron-majority": {
+      "id": "2015-05-08-cameron-majority",
+      "date": "2015-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-06-30",
+      "region": "Europe",
+      "title": "Cameron wins a surprise majority, committing Britain to an EU referendum",
+      "summary": "The Conservative manifesto had promised an in-out vote by 2017.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "david-cameron",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-06-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": []
+     },
+     "2015-04-09-south-china-sea-reclamation": {
+      "id": "2015-04-09-south-china-sea-reclamation",
+      "date": "2015-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2015-06-30",
+      "region": "Asia-Pacific",
+      "title": "US warns of China's 'Great Wall of Sand' in the Spratlys",
+      "summary": "China built artificial islands such as Fiery Cross Reef, later with runways and military facilities, despite Xi's pledge not to militarise them.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Wall_of_Sand"
+       }
+      ],
+      "entities": [
+       "china",
+       "united-states",
+       "philippines",
+       "vietnam"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-06-30",
+      "storylines": [
+       "taiwan-indopacific",
+       "southeast-asia"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "military",
+      "where": [
+       "fiery-cross-reef"
+      ],
+      "related_stories": [
+       "2026-04-15-scarborough-blocked"
+      ]
+     },
+     "2015-07-20-suruc-bombing-pkk-war": {
+      "id": "2015-07-20-suruc-bombing-pkk-war",
+      "date": "2015-07-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Middle East",
+      "title": "Suruç suicide bombing triggers the collapse of Turkey's peace process with the PKK",
+      "summary": "The IS-linked attack killed 34 activists; days later the PKK killed two police officers and Turkey bombed PKK camps, ending a two-year ceasefire.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Suru%C3%A7_bombing"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Kurdistan_Workers%27_Party_insurgency_%282015%E2%80%932025%29"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "pkk",
+       "islamic-state",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "strike",
+      "where": [
+       "suruc"
+      ],
+      "related_stories": []
+     },
+     "2015-07-29-mullah-omar-death-revealed": {
+      "id": "2015-07-29-mullah-omar-death-revealed",
+      "date": "2015-07-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Asia-Pacific",
+      "title": "Taliban founder Mullah Omar is revealed to have died in 2013",
+      "summary": "Akhtar Mansour took over amid infighting.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mullah_Omar"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2015/07/31/world/asia/taliban-confirm-death-of-mullah-omar-and-weigh-successor.html"
+       }
+      ],
+      "entities": [
+       "mullah-omar",
+       "taliban",
+       "afghanistan",
+       "akhtar-mansour"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "unplaced": "Announcement.",
+      "related_stories": [
+       "2015-09-28-taliban-take-kunduz"
+      ]
+     },
+     "2015-02-15-isis-libya-copts": {
+      "id": "2015-02-15-isis-libya-copts",
+      "date": "2015-02",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2015-03-31",
+      "region": "Africa",
+      "title": "Islamic State in Libya beheads 21 Coptic Christians; Egypt bombs Derna",
+      "summary": "The video showed the group's spread into Libya's chaos; it seized Sirte that year.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_Islamic_State_killing_of_Christian_migrants_in_Libya"
+       }
+      ],
+      "entities": [
+       "islamic-state",
+       "libya",
+       "egypt"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-03-31",
+      "storylines": [
+       "isis-war",
+       "sahel"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "strike",
+      "unplaced": "Filmed on a Libyan coast, exact site unknown.",
+      "related_stories": []
+     },
+     "2015-01-26-kobani-retaken": {
+      "id": "2015-01-26-kobani-retaken",
+      "date": "2015-01-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-03-31",
+      "region": "Middle East",
+      "title": "Kurdish YPG fighters backed by US airstrikes retake Kobani from the Islamic State",
+      "summary": "The four-month siege was the group's first big defeat and began the US partnership with the Syrian Kurds.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2015/01/27/world/middleeast/kurds-isis-syria-kobani.html"
+       }
+      ],
+      "entities": [
+       "ypg",
+       "islamic-state",
+       "united-states",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-03-31",
+      "storylines": [
+       "isis-war",
+       "levant-wars"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "military",
+      "where": [
+       "kobani"
+      ],
+      "related_stories": [
+       "2019-03-23-baghuz-caliphate-ends",
+       "2017-10-17-raqqa-falls",
+       "2016-08-24-euphrates-shield"
+      ]
+     },
+     "2015-05-19-made-in-china-2025": {
+      "id": "2015-05-19-made-in-china-2025",
+      "date": "2015-05",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2015-06-30",
+      "region": "Asia-Pacific",
+      "title": "China launches 'Made in China 2025'",
+      "summary": "Li Keqiang's plan aimed at self-sufficiency in chips, robotics, EVs and aerospace; Washington later cited it as a reason for the trade war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Made_in_China_2025"
+       }
+      ],
+      "entities": [
+       "china",
+       "made-in-china-2025",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-06-30",
+      "storylines": [
+       "ai-compute-minerals",
+       "us-tariffs-trade"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "unplaced": "National industrial policy.",
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "russia--patron-proxy--wagner-group": null,
+     "saudi-arabia--patron-proxy--abdrabbuh-mansur-hadi": null
+    },
+    "storylines": {
+     "isis-war": {
+      "id": "isis-war",
+      "name": "Islamic State: caliphate and the war against it",
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "syria",
+       "united-states",
+       "sdf"
+      ],
+      "stories": [
+       "2016-03-22-brussels-bombings",
+       "2016-07-14-nice-truck-attack",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-06-sirte-liberated",
+       "2016-12-19-berlin-market-attack",
+       "2015-01-07-charlie-hebdo",
+       "2015-01-26-kobani-retaken",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-18-bardo-attack",
+       "2015-05-17-ramadi-falls"
+      ],
+      "source": "inbox"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup",
+       "2024-02-14-prabowo-elected",
+       "2019-11-11-gambia-v-myanmar",
+       "2018-05-09-mahathir-wins",
+       "2018-08-27-un-myanmar-genocide-call",
+       "2017-05-23-marawi-siege",
+       "2017-08-25-rohingya-exodus",
+       "2016-06-30-duterte-drug-war",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2015-08-17-bangkok-bombing"
+      ],
+      "source": "inbox"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote",
+       "2018-11-17-yellow-vests",
+       "2017-05-07-macron-elected",
+       "2017-09-24-afd-enters-bundestag",
+       "2016-03-18-eu-turkey-migrant-deal",
+       "2016-06-23-brexit-referendum",
+       "2016-12-19-berlin-market-attack",
+       "2015-09-04-merkel-opens-border"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria"
+      ],
+      "source": "inbox"
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "name": "Venezuela reopening & oil reroute",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "india",
+       "reliance",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-06-19-petro",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2024-07-28-venezuela-stolen-election",
+       "2023-12-03-essequibo-referendum",
+       "2020-03-26-maduro-indicted",
+       "2020-12-06-venezuela-assembly-vote",
+       "2019-01-23-guaido-interim-president",
+       "2019-01-28-pdvsa-sanctions",
+       "2018-05-20-maduro-reelected",
+       "2017-07-30-venezuela-constituent-assembly"
+      ],
+      "source": "threads.md"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists",
+       "2017-10-04-tongo-tongo-ambush",
+       "2016-03-30-gna-arrives-tripoli",
+       "2016-12-06-sirte-liberated",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-31-buhari-wins",
+       "2015-09-16-burkina-coup-attempt"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

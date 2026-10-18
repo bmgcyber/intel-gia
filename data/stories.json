@@ -31022,6 +31022,11 @@
     "story": "2017-08-25-rohingya-exodus",
     "why": "Military impunity after 2017",
     "confidence": "possible"
+   },
+   {
+    "story": "2015-11-08-nld-wins-myanmar",
+    "why": "Army never accepted NLD dominance",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -31041,6 +31046,7 @@
   "related_stories": [
    "2020-11-08-myanmar-election",
    "2017-08-25-rohingya-exodus",
+   "2015-11-08-nld-wins-myanmar",
    "2026-01-30-myanmar-junta-election",
    "2023-10-27-operation-1027"
   ],
@@ -31048,6 +31054,13 @@
    {
     "edition": "2017-12-31",
     "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -37619,6 +37632,11 @@
     "story": "2016-08-24-euphrates-shield",
     "why": "Second Turkish incursion",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-01-26-kobani-retaken",
+    "why": "Rise of US-backed YPG",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -37633,6 +37651,7 @@
    "2017-10-17-raqqa-falls",
    "2017-01-23-astana-talks",
    "2016-08-24-euphrates-shield",
+   "2015-01-26-kobani-retaken",
    "2019-10-09-operation-peace-spring",
    "2024-12-01-sna-tell-rifaat",
    "2020-03-05-idlib-ceasefire",
@@ -37649,6 +37668,13 @@
    {
     "edition": "2016-12-31",
     "why": "2016 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -38950,6 +38976,11 @@
     "story": "2018-03-08-steel-aluminum-tariffs",
     "why": "Escalation from metals tariffs",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-05-19-made-in-china-2025",
+    "why": "US cited China's industrial plan",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -38966,6 +38997,8 @@
   "unplaced": "Tariff decision.",
   "related_stories": [
    "2018-03-08-steel-aluminum-tariffs",
+   "2015-05-19-made-in-china-2025",
+   "2019-05-10-us-china-tariffs-escalate",
    "trump-waives-russia-sanctions",
    "2026-02-20-scotus-ieepa",
    "2026-05-14-trump-xi-beijing",
@@ -38977,8 +39010,16 @@
    "2020-06-30-hong-kong-nsl",
    "2023-11-15-biden-xi-woodside",
    "2022-11-14-biden-xi-bali",
-   "2019-05-10-us-china-tariffs-escalate",
    "2019-05-15-huawei-entity-list"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -39140,7 +39181,13 @@
    "central-african-republic",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Wagner grew in Syria",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-09-30",
   "storylines": [
@@ -39150,7 +39197,17 @@
   "marker": "political",
   "unplaced": "Ambush site outside Bangui not precisely located.",
   "related_stories": [
+   "2015-09-30-russia-enters-syria",
    "2019-10-23-russia-africa-summit"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -40701,6 +40758,11 @@
     "story": "2016-11-04-paris-agreement-in-force",
     "why": "Withdrew from the treaty in force",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-12-12-paris-climate-agreement",
+    "why": "Treaty agreed in 2015",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -40714,12 +40776,20 @@
    "washington-dc"
   ],
   "related_stories": [
-   "2016-11-04-paris-agreement-in-force"
+   "2016-11-04-paris-agreement-in-force",
+   "2015-12-12-paris-climate-agreement"
   ],
   "revisions": [
    {
     "edition": "2016-12-31",
     "why": "2016 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -41022,7 +41092,13 @@
    "nicolas-maduro",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-12-06-venezuela-opposition-wins-assembly",
+    "why": "Bypassing the opposition parliament",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-09-30",
   "storylines": [
@@ -41035,6 +41111,7 @@
    "caracas"
   ],
   "related_stories": [
+   "2015-12-06-venezuela-opposition-wins-assembly",
    "venezuela-oil",
    "2022-03-05-us-venezuela-talks",
    "2026-01-03-maduro-captured",
@@ -41044,6 +41121,15 @@
    "2020-03-26-maduro-indicted",
    "2019-01-23-guaido-interim-president",
    "2019-01-28-pdvsa-sanctions"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42062,7 +42148,13 @@
    "united-states",
    "european-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-07-14-jcpoa-agreed",
+    "why": "Deal took effect",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-03-31",
   "storylines": [
@@ -42072,12 +42164,22 @@
   "marker": "diplomacy",
   "unplaced": "IAEA certification.",
   "related_stories": [
+   "2015-07-14-jcpoa-agreed",
+   "2018-05-08-us-quits-jcpoa",
    "2021-11-29-jcpoa-vienna",
    "2022-09-jcpoa-stall",
    "saudi-blames-iran-eu-gcc-postponed",
    "2025-09-28-iran-snapback",
-   "2021-04-11-natanz-sabotage",
-   "2018-05-08-us-quits-jcpoa"
+   "2021-04-11-natanz-sabotage"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42137,7 +42239,13 @@
    "belgium",
    "islamic-state"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-11-13-paris-attacks",
+    "why": "Same cell",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-03-31",
   "storylines": [
@@ -42148,7 +42256,18 @@
   "where": [
    "brussels-airport"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2015-11-13-paris-attacks"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2016-03-30-gna-arrives-tripoli",
@@ -42174,7 +42293,13 @@
    "gna-libya",
    "khalifa-haftar"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-12-17-libyan-political-agreement",
+    "why": "Government created by the agreement",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-03-31",
   "storylines": [
@@ -42184,7 +42309,17 @@
   "marker": "political",
   "unplaced": "Tripoli has no coordinates on its Wikipedia page.",
   "related_stories": [
+   "2015-12-17-libyan-political-agreement",
    "2016-12-06-sirte-liberated"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42208,7 +42343,13 @@
    "syria",
    "bashar-al-assad"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Ending the first phase",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-03-31",
   "storylines": [
@@ -42218,12 +42359,23 @@
   "marker": "military",
   "unplaced": "Announcement in Moscow.",
   "related_stories": [
+   "2015-09-30-russia-enters-syria",
    "2024-12-08-assad-falls",
    "2024-11-30-aleppo-falls",
    "2020-03-05-idlib-ceasefire",
    "2018-02-18-eastern-ghouta-assault",
    "2018-06-19-southern-syria-offensive",
-   "2018-09-17-idlib-sochi-deal"
+   "2018-09-17-idlib-sochi-deal",
+   "2016-12-22-aleppo-falls"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42281,7 +42433,13 @@
    "greece",
    "recep-tayyip-erdogan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-09-04-merkel-opens-border",
+    "why": "Response to the 2015 influx",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-03-31",
   "storylines": [
@@ -42293,7 +42451,17 @@
    "brussels"
   ],
   "related_stories": [
+   "2015-09-04-merkel-opens-border",
    "2020-08-12-east-med-standoff"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42352,6 +42520,11 @@
     "story": "2016-01-20-oil-below-30",
     "why": "Oil crash exposed fiscal dependence",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-01-23-king-salman-accedes",
+    "why": "MBS empowered",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -42366,9 +42539,19 @@
   ],
   "related_stories": [
    "2016-01-20-oil-below-30",
-   "houthis-saudi-oct15",
+   "2015-01-23-king-salman-accedes",
    "2019-12-11-aramco-ipo",
-   "2017-06-21-mbs-crown-prince"
+   "2017-06-21-mbs-crown-prince",
+   "houthis-saudi-oct15"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42439,7 +42622,13 @@
    "pakistan",
    "barack-obama"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-07-29-mullah-omar-death-revealed",
+    "why": "Mansour succeeded Omar",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-06-30",
   "storylines": [
@@ -42449,7 +42638,17 @@
   "marker": "strike",
   "unplaced": "Balochistan, location not precisely given.",
   "related_stories": [
+   "2015-07-29-mullah-omar-death-revealed",
    "2021-08-15-fall-of-kabul"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42476,7 +42675,18 @@
    "european-union",
    "theresa-may"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-05-08-cameron-majority",
+    "why": "Manifesto pledge",
+    "confidence": "likely"
+   },
+   {
+    "story": "2015-09-04-merkel-opens-border",
+    "why": "Migration fears",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-06-30",
   "analysis": {
@@ -42491,8 +42701,19 @@
   "marker": "political",
   "unplaced": "National referendum.",
   "related_stories": [
-   "2018-11-25-brexit-deal-endorsed",
-   "2017-03-29-article-50"
+   "2015-05-08-cameron-majority",
+   "2015-09-04-merkel-opens-border",
+   "2017-03-29-article-50",
+   "2018-11-25-brexit-deal-endorsed"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -42654,7 +42875,13 @@
    "philippines",
    "china"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-04-09-south-china-sea-reclamation",
+    "why": "Island building at issue",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-09-30",
   "analysis": {
@@ -42668,7 +42895,18 @@
   "era": "2016 (Brexit and Trump)",
   "marker": "diplomacy",
   "unplaced": "Ruling covers the whole South China Sea.",
-  "related_stories": []
+  "related_stories": [
+   "2015-04-09-south-china-sea-reclamation"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2016-07-14-nice-truck-attack",
@@ -42777,6 +43015,11 @@
     "story": "2016-07-15-turkey-coup-attempt",
     "why": "Erdoğan reasserted control over the army",
     "confidence": "possible"
+   },
+   {
+    "story": "2015-07-20-suruc-bombing-pkk-war",
+    "why": "Renewed war with Kurdish militants",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -42792,7 +43035,18 @@
   ],
   "related_stories": [
    "2016-07-15-turkey-coup-attempt",
-   "2018-01-20-operation-olive-branch"
+   "2015-07-20-suruc-bombing-pkk-war",
+   "2018-01-20-operation-olive-branch",
+   "2015-01-26-kobani-retaken"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -43257,6 +43511,11 @@
     "story": "2016-01-20-oil-below-30",
     "why": "Response to the price crash",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Saudi–Russian channel",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -43273,10 +43532,20 @@
   "unplaced": "Agreed in Vienna.",
   "related_stories": [
    "2016-01-20-oil-below-30",
+   "2015-09-30-russia-enters-syria",
    "2020-03-09-oil-price-war",
    "2022-10-05-opec-cut",
    "2026-04-28-uae-quits-opec",
    "2020-04-12-opec-plus-record-cut"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -43305,6 +43574,11 @@
     "story": "2016-03-30-gna-arrives-tripoli",
     "why": "Unity government's forces led the battle",
     "confidence": "likely"
+   },
+   {
+    "story": "2015-02-15-isis-libya-copts",
+    "why": "IS foothold in Libya",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -43319,7 +43593,17 @@
    "sirte"
   ],
   "related_stories": [
-   "2016-03-30-gna-arrives-tripoli"
+   "2016-03-30-gna-arrives-tripoli",
+   "2015-02-15-isis-libya-copts"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -43461,7 +43745,13 @@
    "iran",
    "hezbollah"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Russian air power",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-12-31",
   "storylines": [
@@ -43473,6 +43763,7 @@
    "aleppo"
   ],
   "related_stories": [
+   "2015-09-30-russia-enters-syria",
    "2017-01-23-astana-talks",
    "2024-12-08-assad-falls",
    "2024-11-30-aleppo-falls",
@@ -43480,6 +43771,15 @@
    "2018-02-18-eastern-ghouta-assault",
    "2018-06-19-southern-syria-offensive",
    "2016-03-14-putin-partial-syria-withdrawal"
+  ],
+  "revisions": [
+   {
+    "edition": "2015-12-31",
+    "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -43630,7 +43930,8 @@
    "riyadh"
   ],
   "related_stories": [
-   "2015-03-26-saudi-intervention-yemen"
+   "2015-03-26-saudi-intervention-yemen",
+   "2016-04-25-vision-2030"
   ]
  },
  {
@@ -43673,7 +43974,8 @@
   "related_stories": [
    "2019-03-23-baghuz-caliphate-ends",
    "2017-10-17-raqqa-falls",
-   "2016-08-24-euphrates-shield"
+   "2016-08-24-euphrates-shield",
+   "2018-01-20-operation-olive-branch"
   ]
  },
  {
@@ -43777,7 +44079,9 @@
   "era": "2015 (refugees, Iran deal, Russia in Syria)",
   "marker": "strike",
   "unplaced": "Filmed on a Libyan coast, exact site unknown.",
-  "related_stories": []
+  "related_stories": [
+   "2016-12-06-sirte-liberated"
+  ]
  },
  {
   "id": "2015-02-27-nemtsov-killed",
@@ -44074,7 +44378,8 @@
    "fiery-cross-reef"
   ],
   "related_stories": [
-   "2026-04-15-scarborough-blocked"
+   "2026-04-15-scarborough-blocked",
+   "2016-07-12-south-china-sea-ruling"
   ]
  },
  {
@@ -44164,7 +44469,9 @@
   "era": "2015 (refugees, Iran deal, Russia in Syria)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [
+   "2016-06-23-brexit-referendum"
+  ]
  },
  {
   "id": "2015-05-17-ramadi-falls",
@@ -44206,7 +44513,8 @@
    "ramadi"
   ],
   "related_stories": [
-   "2015-09-30-russia-enters-syria"
+   "2015-09-30-russia-enters-syria",
+   "2015-12-28-ramadi-retaken"
   ]
  },
  {
@@ -44239,7 +44547,9 @@
   "era": "2015 (refugees, Iran deal, Russia in Syria)",
   "marker": "political",
   "unplaced": "National industrial policy.",
-  "related_stories": []
+  "related_stories": [
+   "2018-07-06-us-china-tariffs-begin"
+  ]
  },
  {
   "id": "2015-06-29-aiib-signed",
@@ -44423,7 +44733,9 @@
   "where": [
    "suruc"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2016-08-24-euphrates-shield"
+  ]
  },
  {
   "id": "2015-07-20-cuba-us-embassies",
@@ -44497,7 +44809,8 @@
   "marker": "political",
   "unplaced": "Announcement.",
   "related_stories": [
-   "2015-09-28-taliban-take-kunduz"
+   "2015-09-28-taliban-take-kunduz",
+   "2016-05-21-mansour-killed"
   ]
  },
  {
@@ -44607,7 +44920,10 @@
   "where": [
    "budapest"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2016-03-18-eu-turkey-migrant-deal",
+   "2016-06-23-brexit-referendum"
+  ]
  },
  {
   "id": "2015-09-16-burkina-coup-attempt",
@@ -44780,7 +45096,394 @@
    "2018-09-17-idlib-sochi-deal",
    "2017-01-23-astana-talks",
    "2016-03-14-putin-partial-syria-withdrawal",
-   "2016-12-22-aleppo-falls"
+   "2016-12-22-aleppo-falls",
+   "2015-10-31-metrojet-bombing",
+   "2015-11-24-turkey-downs-su-24",
+   "2016-12-10-opec-plus-formed",
+   "2018-07-30-wagner-car-journalists"
+  ]
+ },
+ {
+  "id": "2015-10-10-ankara-bombings",
+  "date": "2015-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Middle East",
+  "title": "Twin suicide bombs at an Ankara peace rally kill 109",
+  "summary": "It was the deadliest terrorist attack in Turkish history, blamed on Islamic State militants.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Ankara_bombings"
+   }
+  ],
+  "entities": [
+   "turkey",
+   "islamic-state"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "where": [
+   "ankara"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2015-10-31-metrojet-bombing",
+  "date": "2015-10-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Middle East",
+  "title": "Bomb downs a Russian airliner over Sinai, killing 224",
+  "summary": "The Islamic State's Sinai branch claimed it as revenge for Russia's Syria campaign.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Metrojet_Flight_9268"
+   }
+  ],
+  "entities": [
+   "russia",
+   "egypt",
+   "islamic-state"
+  ],
+  "causes": [
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Revenge for the intervention",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "unplaced": "Crash site in northern Sinai.",
+  "related_stories": [
+   "2015-09-30-russia-enters-syria"
+  ]
+ },
+ {
+  "id": "2015-11-08-nld-wins-myanmar",
+  "date": "2015-11-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Asia-Pacific",
+  "title": "Aung San Suu Kyi's NLD wins Myanmar's first free election in decades",
+  "summary": "The landslide began a power-sharing period with the army that ended in the 2021 coup.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Myanmar_general_election"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/nov/11/aung-san-suu-kyi-wins-seat-myanmar-election-results-tallied"
+   }
+  ],
+  "entities": [
+   "myanmar",
+   "aung-san-suu-kyi",
+   "nld"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": [
+   "2021-02-01-myanmar-coup"
+  ]
+ },
+ {
+  "id": "2015-11-13-paris-attacks",
+  "date": "2015-11-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Europe",
+  "title": "Islamic State attacks in Paris kill 130",
+  "summary": "Gunmen and suicide bombers hit the Bataclan, cafés and the Stade de France; France stepped up strikes in Syria.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2015/11/13/world/paris-shooting/index.html"
+   }
+  ],
+  "entities": [
+   "france",
+   "islamic-state",
+   "francois-hollande"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "isis-war",
+   "europe-populism"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "strike",
+  "where": [
+   "bataclan"
+  ],
+  "related_stories": [
+   "2016-03-22-brussels-bombings"
+  ]
+ },
+ {
+  "id": "2015-11-22-macri-elected",
+  "date": "2015-11-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Americas",
+  "title": "Mauricio Macri wins Argentina's presidency, ending 12 years of Kirchner rule",
+  "summary": "The centre-right mayor won the country's first-ever runoff.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Argentine_general_election"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/nov/22/argentina-election-exit-polls-buenos-aires-mauricio-macri"
+   }
+  ],
+  "entities": [
+   "argentina",
+   "mauricio-macri"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2015-11-24-turkey-downs-su-24",
+  "date": "2015-11-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Middle East",
+  "title": "Turkey shoots down a Russian Su-24 bomber near the Syrian border",
+  "summary": "Moscow imposed sanctions on Turkey until Erdoğan apologised in mid-2016.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Russian_Sukhoi_Su-24_shootdown"
+   }
+  ],
+  "entities": [
+   "turkey",
+   "russia",
+   "recep-tayyip-erdogan",
+   "vladimir-putin"
+  ],
+  "causes": [
+   {
+    "story": "2015-09-30-russia-enters-syria",
+    "why": "Russian jets near Turkey's border",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "military",
+  "unplaced": "Syria–Turkey border area.",
+  "related_stories": [
+   "2015-09-30-russia-enters-syria",
+   "2022-07-19-putin-tehran",
+   "2020-03-05-idlib-ceasefire",
+   "2019-10-09-operation-peace-spring",
+   "2018-09-17-idlib-sochi-deal"
+  ]
+ },
+ {
+  "id": "2015-12-06-venezuela-opposition-wins-assembly",
+  "date": "2015-12-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Americas",
+  "title": "Venezuela's opposition wins a supermajority in the National Assembly",
+  "summary": "The MUD took 112 of 167 seats; Maduro's courts and the 2017 Constituent Assembly then stripped the parliament of power.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015_Venezuelan_parliamentary_election"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "nicolas-maduro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "venezuela-oil"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": [
+   "2017-07-30-venezuela-constituent-assembly"
+  ]
+ },
+ {
+  "id": "2015-12-12-paris-climate-agreement",
+  "date": "2015-12-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Europe",
+  "title": "196 parties adopt the Paris climate agreement",
+  "summary": "Countries pledged to hold warming 'well below' 2°C, with national targets reviewed every five years.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paris_Agreement"
+   },
+   {
+    "name": "The Guardian",
+    "url": "http://www.theguardian.com/environment/2015/dec/12/paris-climate-deal-200-nations-sign-finish-fossil-fuel-era"
+   }
+  ],
+  "entities": [
+   "paris-agreement",
+   "united-states",
+   "china",
+   "france",
+   "barack-obama"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "diplomacy",
+  "where": [
+   "paris"
+  ],
+  "related_stories": [
+   "2017-06-01-us-quits-paris-agreement",
+   "2021-09-15-aukus",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-07-14-jcpoa-agreed"
+  ]
+ },
+ {
+  "id": "2015-12-17-libyan-political-agreement",
+  "date": "2015-12-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Africa",
+  "title": "Libya's rival parliaments sign the UN-brokered Skhirat agreement",
+  "summary": "The deal created the Government of National Accord; Haftar later declared it void.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Libyan_Political_Agreement"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2015/dec/17/libyan-politicians-sign-un-peace-deal-unify-rival-governments"
+   }
+  ],
+  "entities": [
+   "libya",
+   "gna-libya",
+   "khalifa-haftar"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "diplomacy",
+  "unplaced": "Signed in Skhirat, Morocco.",
+  "related_stories": [
+   "2016-03-30-gna-arrives-tripoli"
+  ]
+ },
+ {
+  "id": "2015-12-28-ramadi-retaken",
+  "date": "2015-12-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2015-12-31",
+  "region": "Middle East",
+  "title": "Iraqi forces retake Ramadi from the Islamic State",
+  "summary": "US airpower backed the counter-offensive that started the caliphate's long retreat in Iraq.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Ramadi_%282015%E2%80%932016%29"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2015/12/23/middleeast/iraq-isis-ramadi/"
+   }
+  ],
+  "entities": [
+   "iraq",
+   "islamic-state",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2015-05-17-ramadi-falls",
+    "why": "Recapture",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2015-12-31",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2015 (refugees, Iran deal, Russia in Syria)",
+  "marker": "military",
+  "where": [
+   "ramadi"
+  ],
+  "related_stories": [
+   "2015-05-17-ramadi-falls",
+   "2017-07-10-mosul-liberated",
+   "2016-10-17-mosul-offensive"
   ]
  }
 ]

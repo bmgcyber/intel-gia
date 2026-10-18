@@ -970,5 +970,35 @@
    "2016-12-22-aleppo-falls",
    "2018-06-19-southern-syria-offensive"
   ]
+ },
+ {
+  "id": "russia--patron-proxy--wagner-group",
+  "a": "russia",
+  "b": "wagner-group",
+  "type": "patron-proxy",
+  "start": "2014",
+  "end": null,
+  "stated": "Kremlin denied any link until 2023",
+  "actual": "State-funded force for deniable wars from Donbas and Syria to Africa",
+  "confidence": "likely",
+  "evidence": [
+   "2015-02-12-minsk-ii",
+   "2018-02-07-battle-of-khasham",
+   "2018-07-30-wagner-car-journalists"
+  ]
+ },
+ {
+  "id": "saudi-arabia--patron-proxy--abdrabbuh-mansur-hadi",
+  "a": "saudi-arabia",
+  "b": "abdrabbuh-mansur-hadi",
+  "type": "patron-proxy",
+  "start": "2015",
+  "end": null,
+  "stated": "Coalition restores the legitimate government",
+  "actual": "Saudi-hosted government with little power on the ground",
+  "confidence": "likely",
+  "evidence": [
+   "2015-03-26-saudi-intervention-yemen"
+  ]
  }
 ]
