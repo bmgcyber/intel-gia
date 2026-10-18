@@ -1,0 +1,665 @@
+{
+ "edition": "2013-12-31",
+ "stories": [
+  {
+   "id": "2013-10-03-lampedusa-shipwreck",
+   "date": "2013-10-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Europe",
+   "title": "More than 360 migrants drown off Lampedusa",
+   "summary": "The boat came from Libya; Italy started the Mare Nostrum rescue operation.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/oct/03/lampedusa-migrants-killed-boat-sinks-italy"
+    }
+   ],
+   "entities": [
+    "italy",
+    "libya",
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "lampedusa"
+   ]
+  },
+  {
+   "id": "2013-11-08-typhoon-haiyan",
+   "date": "2013-11-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Typhoon Haiyan kills more than 6,300 in the Philippines",
+   "summary": "One of the strongest landfalling storms ever recorded flattened Tacloban.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Haiyan"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/global-development/2013/nov/08/philippines-rescue-services-typhoon-haiyan"
+    }
+   ],
+   "entities": [
+    "philippines"
+   ],
+   "marker": "political",
+   "where": [
+    "tacloban"
+   ]
+  },
+  {
+   "id": "2013-11-21-euromaidan",
+   "date": "2013-11-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Russia/Eurasia",
+   "title": "Euromaidan protests begin after Yanukovych drops the EU deal",
+   "summary": "Under pressure from Moscow, he suspended the association agreement; protests on Kyiv's Maidan grew after a violent police raid.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Euromaidan"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "viktor-yanukovych",
+    "european-union",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "maidan"
+   ]
+  },
+  {
+   "id": "2013-11-23-china-ecs-adiz",
+   "date": "2013-11-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "China declares an air defence zone over the East China Sea, covering the Senkakus",
+   "summary": "The US flew B-52s through it unannounced; Japan and South Korea rejected it.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_%28East_China_Sea%29"
+    }
+   ],
+   "entities": [
+    "china",
+    "japan",
+    "united-states"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "unplaced": "East China Sea air zone."
+  },
+  {
+   "id": "2013-11-24-iran-interim-deal",
+   "date": "2013-11-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Iran and the P5+1 sign an interim nuclear deal in Geneva",
+   "summary": "The Joint Plan of Action froze parts of Iran's programme for limited sanctions relief and led to the JCPOA.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Joint_Plan_of_Action"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-states",
+    "european-union",
+    "russia",
+    "china",
+    "hassan-rouhani"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2013-06-14-rouhani-elected",
+     "why": "Rouhani's opening",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "geneva"
+   ]
+  },
+  {
+   "id": "2013-12-12-jang-executed",
+   "date": "2013-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Kim Jong Un executes his uncle Jang Song-thaek",
+   "summary": "The purge of the regime's No 2, seen as Beijing's interlocutor, consolidated Kim's power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jang_Song-thaek"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-un",
+    "china"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2013-12-15-south-sudan-civil-war",
+   "date": "2013-12-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "South Sudan descends into civil war between Kiir and Machar",
+   "summary": "Kiir accused his ex-deputy of a coup; fighting along Dinka–Nuer lines killed hundreds of thousands by 2018.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/dec/23/south-sudan-state-that-fell-apart-in-a-week"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "salva-kiir",
+    "riek-machar"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "where": [
+    "juba"
+   ]
+  },
+  {
+   "id": "2013-10-01-us-shutdown",
+   "date": "2013-10-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "US government shuts down for 16 days over Obamacare",
+   "summary": "The shutdown ended with a stopgap deal that also lifted the debt ceiling.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_United_States_federal_government_shutdown"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2013-12-05-france-sangaris-car",
+   "date": "2013-12-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "UN authorises African and French troops for the Central African Republic",
+   "summary": "Resolution 2127 led to France's Operation Sangaris as Christian militias and Séléka fighters massacred civilians.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Sangaris"
+    }
+   ],
+   "entities": [
+    "france",
+    "central-african-republic"
+   ],
+   "causes": [
+    {
+     "story": "2013-03-24-seleka-takes-bangui",
+     "why": "Collapse after the Séléka takeover",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "bangui"
+   ]
+  },
+  {
+   "id": "2013-12-05-mandela-dies",
+   "date": "2013-12-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "Nelson Mandela dies at 95",
+   "summary": "He died at his home in Houghton, Johannesburg.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+    }
+   ],
+   "entities": [
+    "south-africa"
+   ],
+   "marker": "political",
+   "where": [
+    "johannesburg"
+   ]
+  },
+  {
+   "id": "2013-12-26-abe-yasukuni",
+   "date": "2013-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Abe visits the Yasukuni shrine, drawing condemnation from China and South Korea",
+   "summary": "China called it moving Japan in an 'extremely dangerous' direction.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shinzo_Abe"
+    }
+   ],
+   "entities": [
+    "japan",
+    "shinzo-abe",
+    "china",
+    "south-korea"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tokyo"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2017-06-05-qatar-blockade",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-06-25-tamim-emir",
+     "why": "Doha's independent line under Tamim",
+     "confidence": "possible"
+    },
+    {
+     "story": "2013-07-03-morsi-ousted",
+     "why": "Split over the Brotherhood",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-09-01-kenya-election-annulled",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-03-04-kenyatta-elected",
+     "why": "Kenyatta–Odinga rivalry",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-10-28-bolsonaro-elected",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-06-20-brazil-protests",
+     "why": "Start of the anti-establishment backlash",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2014-02-22-yanukovych-ousted",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-11-21-euromaidan",
+     "why": "Climax of the protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-05-28-sisi-elected",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-07-03-morsi-ousted",
+     "why": "Coup leader turned president",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-06-29-caliphate-declared",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-06-10-fall-of-mosul",
+     "why": "Proclaimed after the June blitz",
+     "confidence": "likely"
+    },
+    {
+     "story": "2013-04-08-isil-founded",
+     "why": "Syria expansion",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-06-10-fall-of-mosul",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-04-08-isil-founded",
+     "why": "ISIL's growth in Syria",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-08-01-barkhane",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-01-11-operation-serval",
+     "why": "Successor to Serval",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-11-08-silk-road-fund",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-09-07-silk-road-economic-belt",
+     "why": "Funding the 2013 plan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-03-01-kunming-attack",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-03-14-xi-becomes-president",
+     "why": "Xi's security agenda",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-07-14-jcpoa-agreed",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-11-24-iran-interim-deal",
+     "why": "Interim deal led to the JCPOA",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-06-29-aiib-signed",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-09-07-silk-road-economic-belt",
+     "why": "BRI financing",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-12-06-venezuela-opposition-wins-assembly",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-03-05-chavez-dies",
+     "why": "Maduro's weaker rule",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2016-07-12-south-china-sea-ruling",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-04-09-south-china-sea-reclamation",
+     "why": "Island building at issue",
+     "confidence": "likely"
+    },
+    {
+     "story": "2013-01-22-philippines-files-arbitration",
+     "why": "Ruling on Manila's case",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-07-15-turkey-coup-attempt",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-05-28-gezi-protests",
+     "why": "Erdoğan's authoritarian turn",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2017-04-04-khan-shaykhun-sarin",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-09-14-syria-chemical-deal",
+     "why": "Stockpile not fully removed",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-02-13-kim-jong-nam-killed",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-12-12-jang-executed",
+     "why": "Kim's purge of rivals",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2018-07-30-wagner-car-journalists",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-09-30-russia-enters-syria",
+     "why": "Wagner grew in Syria",
+     "confidence": "possible"
+    },
+    {
+     "story": "2013-03-24-seleka-takes-bangui",
+     "why": "CAR's conflict",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-05-19-rouhani-reelected",
+   "why": "2013 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-06-14-rouhani-elected",
+     "why": "Second term",
+     "confidence": "likely"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "russia--rivalry--european-union",
+   "a": "russia",
+   "b": "european-union",
+   "type": "rivalry",
+   "start": "2013",
+   "end": null,
+   "stated": "Partnership talk",
+   "actual": "Contest over Ukraine's EU association deal",
+   "confidence": "likely",
+   "evidence": [
+    "2013-11-21-euromaidan",
+    "2014-03-18-crimea-annexed"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2013-10-03-lampedusa-shipwreck"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2013-11-21-euromaidan"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2013-11-23-china-ecs-adiz",
+    "2013-12-26-abe-yasukuni"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2013-11-24-iran-interim-deal"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2013-12-12-jang-executed"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2013-12-15-south-sudan-civil-war"
+   ]
+  }
+ ]
+}
