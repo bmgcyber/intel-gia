@@ -1,0 +1,563 @@
+{
+ "edition": "2024-12-29",
+ "stories": [
+  {
+   "id": "2024-02-08-pakistan-election",
+   "date": "2024-02-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Asia-Pacific",
+   "title": "Pakistan election: Khan-backed independents win the most seats but Sharif forms the government",
+   "summary": "With Khan jailed and his PTI stripped of its symbol, independents backed by the PTI won 93 seats, more than PML-N's 75 and PPP's 54. Amid rigging allegations, PML-N and PPP formed a coalition and Shehbaz Sharif returned as PM in March.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/2/8/pakistan-voting-ends-results-expected-soon-amid-charges-of-manipulation"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/how-will-pakistan-form-its-next-government-2024-02-12/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20240208-polls-open-in-pakistan-with-khan-in-jail-and-sharif-tipped-to-win"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Pakistani_general_election"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "imran-khan",
+    "shehbaz-sharif",
+    "asim-munir"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2023-05-09-imran-khan-arrested",
+     "why": "Khan jailed and barred",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2024-03-06-true-confidence",
+   "date": "2024-03-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Houthi missile kills three crew on the True Confidence, the campaign's first deaths",
+   "summary": "The strike in the Gulf of Aden came days after the Rubymar, hit in February, sank. US–UK strikes had not stopped the campaign, and shippers kept diverting around the Cape of Good Hope.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/3/6/suspected-houthi-attack-ship-gulf-of-aden-yemen"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2024/mar/06/houthis-strike-ship-in-gulf-of-aden-yemen"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2024/03/06/politics/crew-members-killed-houthi-attack/index.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/MV_True_Confidence"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "yemen",
+    "united-states"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2024-01-12-us-uk-strike-houthis",
+     "why": "Campaign escalated despite strikes",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-11-19-galaxy-leader-seized",
+     "why": "Continuation of the shipping campaign",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "At sea in the Gulf of Aden."
+  },
+  {
+   "id": "2024-04-01-damascus-consulate-strike",
+   "date": "2024-04-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Israeli strike on Iran's Damascus consulate kills Quds Force general Zahedi",
+   "summary": "The strike on the embassy compound killed 16, including Mohammad Reza Zahedi and seven other IRGC officers. Iran called it an attack on its territory, and it triggered Tehran's first direct attack on Israel on Apr 13.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2024/apr/01/israeli-airstrike-on-iranian-consulate-in-damascus-kills-irgc-commander"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/building-close-iranian-embassy-hit-syria-iranian-media-report-2024-04-01/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Israeli_airstrike_on_the_Iranian_consulate_in_Damascus"
+    }
+   ],
+   "entities": [
+    "israel",
+    "iran",
+    "irgc",
+    "syria"
+   ],
+   "storylines": [
+    "iran-proxy-network",
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Shadow war widened after Oct 7",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2024-06-10-unsc-2735",
+   "date": "2024-06-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "UN Security Council backs Biden's three-phase Gaza ceasefire plan (Resolution 2735)",
+   "summary": "The US-drafted text passed 14–0 with Russia abstaining. It welcomed the May 31 proposal Israel had accepted and called on Hamas to accept it: ceasefire and hostage releases, then permanent end and withdrawal, then reconstruction. It rejected any reduction of Gaza's territory.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2024/06/1150886"
+    },
+    {
+     "name": "UN (S/RES/2735 text)",
+     "url": "https://www.un.org/unispal/document/sres2735-2024-10jun24/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/hamas-welcomes-un-security-council-resolution-gaza-ceasefire-2024-06-10/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_2735"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "israel",
+    "hamas",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-11-24-gaza-hostage-truce",
+     "why": "Built on the hostage-exchange formula",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-03-18-gaza-famine-warning",
+     "why": "Humanitarian pressure",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Adopted at UN headquarters in New York."
+  },
+  {
+   "id": "2024-07-20-israel-strikes-hodeidah",
+   "date": "2024-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Houthi drone kills one in Tel Aviv; Israel bombs Hodeidah port the next day",
+   "summary": "After months of Houthi missiles and drones aimed mostly at Eilat, a drone evaded air defences and hit central Tel Aviv on Jul 19. Israel's first strike on Yemen hit Hodeidah's fuel storage, power plant and cranes, killing 14.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/7/19/drone-attack-on-israels-tel-aviv-leaves-one-dead-at-least-10-injured"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/article/2024/jul/20/airstrikes-hit-yemens-hodeidah-port-after-israel-vows-revenge-for-houthi-attack"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/houthi-tv-says-israeli-airstrikes-target-yemens-hodeidah-port-2024-07-20/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/July_2024_Houthi–Israel_attacks"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "israel",
+    "yemen"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network"
+   ],
+   "causes": [
+    {
+     "story": "2024-03-06-true-confidence",
+     "why": "Escalating Houthi campaign",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "hodeidah",
+    "tel-aviv"
+   ]
+  },
+  {
+   "id": "2024-08-05-us-leaves-agadez",
+   "date": "2024-08-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Africa",
+   "title": "US troops complete their withdrawal from Niger's Agadez drone base",
+   "summary": "Niger's junta revoked its military accord with Washington on Mar 16. The US then pulled out of Air Base 201, the US-built drone base that was its main Sahel counterterrorism hub, ahead of a Sep 15 deadline.",
+   "sources": [
+    {
+     "name": "US DoD/Niger joint statement",
+     "url": "https://www.war.gov/News/Releases/Release/Article/3861097/joint-statement-from-the-us-department-of-defense-and-the-department-of-nationa/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/us-military-completes-withdrawal-key-drone-base-niger-2024-08-05/"
+    },
+    {
+     "name": "Reuters (accord revoked)",
+     "url": "https://www.reuters.com/world/africa/niger-revokes-military-accord-with-us-junta-spokesperson-says-2024-03-16/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Niger_Air_Base_201"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "niger",
+    "abdourahamane-tiani",
+    "russia"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2023-07-26-niger-coup",
+     "why": "The junta turned away from the West",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "niger-air-base-201"
+   ]
+  },
+  {
+   "id": "2024-08-24-barsalogho-massacre",
+   "date": "2024-08-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Africa",
+   "title": "JNIM kills hundreds of civilians digging trenches at Barsalogho, Burkina Faso",
+   "summary": "Estimates of the death toll range from 200 to 600. Many were civilians conscripted by Traoré's junta to dig defensive trenches, one of the deadliest attacks in the Sahel war.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/suspected-jihadists-kill-hundreds-burkina-faso-attack-2024-08-27/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/8/25/up-to-200-people-killed-in-attack-in-central-burkina-faso"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Barsalogho_massacre"
+    }
+   ],
+   "entities": [
+    "jnim",
+    "burkina-faso",
+    "ibrahim-traore"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2022-09-30-burkina-coup2",
+     "why": "Traoré's mass-mobilisation strategy",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "barsalogho"
+   ]
+  },
+  {
+   "id": "2024-11-30-aleppo-falls",
+   "date": "2024-11-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "HTS-led rebels seize Aleppo in a three-day offensive as Assad's forces collapse",
+   "summary": "The offensive launched on Nov 27 took most of Syria's second city by Nov 30. Hama fell on Dec 5 and Damascus on Dec 8.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2024/11/30/middleeast/syrian-rebels-control-aleppo-city-intl/index.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/aleppo-airport-closed-sources-say-syrian-rebels-reach-heart-city-2024-11-29/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/11/28/dozen-killed-as-armed-groups-attack-syrian-military-in-northern-aleppo"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_(2024)"
+    }
+   ],
+   "entities": [
+    "hts",
+    "syria",
+    "bashar-al-assad",
+    "turkey",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-05-07-syria-arab-league",
+     "why": "Normalisation did not shore up the regime",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "aleppo"
+   ]
+  },
+  {
+   "id": "2024-12-01-sna-tell-rifaat",
+   "date": "2024-12-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Turkish-backed SNA seizes Tell Rifaat from Kurdish-led forces, then Manbij",
+   "summary": "In 'Operation Dawn of Freedom', the Syrian National Army used the rebel offensive to push the SDF out of Tell Rifaat on Dec 1. After a US–Turkey arrangement it entered Manbij on Dec 8–9.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20241201-monitor-says-pro-turkey-fighters-seize-syria-town-from-kurdish-forces"
+    },
+    {
+     "name": "Reuters (Manbij)",
+     "url": "https://www.reuters.com/world/middle-east/rebels-take-north-syria-town-us-backed-group-turkish-source-says-2024-12-09/"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://h.aa.com.tr/en/middle-east/syrian-national-army-enters-tel-rifaat-in-major-offensive-against-pkk-ypg-terror-corridor/3410334"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Dawn_of_Freedom"
+    }
+   ],
+   "entities": [
+    "sna",
+    "sdf",
+    "turkey",
+    "recep-tayyip-erdogan",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2024-11-30-aleppo-falls",
+     "why": "Opening created by the rebel offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "tell-rifaat"
+   ]
+  },
+  {
+   "id": "2024-12-26-suez-revenue-loss",
+   "date": "2024-12-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Houthi campaign costs Egypt about $7bn in Suez Canal revenue in 2024",
+   "summary": "Sisi said canal revenue fell by more than 60%. The canal authority put 2024 receipts at about $4bn, against $10.2bn in 2023, with transits halved to about 13,200. Israel's Eilat port had declared bankruptcy in July after activity fell 85%.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/regional-challenges-cost-egypt-around-7-bln-suez-canal-revenues-2024-sisi-says-2024-12-26/"
+    },
+    {
+     "name": "Ahram Online",
+     "url": "https://english.ahram.org.eg/News/537710.aspx"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/business/economy/2024/12/26/egypt-commits-to-boosting-private-sector-role-as-it-loses-7bn-in-suez-canal-revenue-this-year/"
+    },
+    {
+     "name": "Seatrade Maritime (Eilat)",
+     "url": "https://www.seatrade-maritime.com/ports-logistics/attacks-on-red-sea-shipping-bankrupt-israeli-port"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "houthis",
+    "israel"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2024-03-06-true-confidence",
+     "why": "Attacks drove ships away from the Red Sea",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "suez-canal"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2024-02-08-pakistan-election"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2024-03-06-true-confidence",
+    "2024-07-20-israel-strikes-hodeidah",
+    "2024-12-26-suez-revenue-loss"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2024-04-01-damascus-consulate-strike",
+    "2024-07-20-israel-strikes-hodeidah"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2024-04-01-damascus-consulate-strike",
+    "2024-06-10-unsc-2735",
+    "2024-11-30-aleppo-falls",
+    "2024-12-01-sna-tell-rifaat"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2024-08-05-us-leaves-agadez",
+    "2024-08-24-barsalogho-massacre"
+   ]
+  }
+ ]
+}
