@@ -1,0 +1,572 @@
+{
+ "edition": "2018-09-30",
+ "stories": [
+  {
+   "id": "2018-07-01-amlo-elected",
+   "date": "2018-07-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "López Obrador wins Mexico's presidency in a landslide",
+   "summary": "The leftist's Morena movement swept Congress too, after the most violent campaign in Mexico's recent history.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Mexican_general_election"
+    }
+   ],
+   "entities": [
+    "mexico",
+    "andres-manuel-lopez-obrador"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "mexico-city"
+   ]
+  },
+  {
+   "id": "2018-07-06-us-china-tariffs-begin",
+   "date": "2018-07-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "US and China slap 25% tariffs on $34bn of each other's goods",
+   "summary": "The first shots of the trade war; Washington soon targeted another $200bn of Chinese imports.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2018/07/05/business/china-us-trade-war-trump-tariffs.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "donald-trump",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2018-03-08-steel-aluminum-tariffs",
+     "why": "Escalation from metals tariffs",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The 2018 tariffs began the US–China decoupling that ran through export controls to the 2025–26 rare-earth fights.",
+    "confidence": "likely"
+   },
+   "unplaced": "Tariff decision."
+  },
+  {
+   "id": "2018-07-09-ethiopia-eritrea-peace",
+   "date": "2018-07-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Abiy and Isaias declare an end to the Ethiopia–Eritrea war",
+   "summary": "Their joint declaration in Asmara restored ties frozen since the 1998–2000 war; it later became an alliance against Tigray's TPLF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Eritrea%E2%80%93Ethiopia_summit"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2018/07/09/world/africa/ethiopia-eritrea-war.html"
+    }
+   ],
+   "entities": [
+    "abiy-ahmed",
+    "isaias-afwerki",
+    "ethiopia",
+    "eritrea"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [
+    {
+     "story": "2018-04-02-abiy-pm",
+     "why": "Abiy's outreach",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "asmara"
+   ]
+  },
+  {
+   "id": "2018-07-11-trump-nord-stream-2",
+   "date": "2018-07-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "Trump says Germany is 'captive of Russia' over Nord Stream 2",
+   "summary": "At the NATO summit in Brussels he attacked the Baltic gas pipeline and pressed allies to spend more on defence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nord_Stream_2"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2018/jul/11/germany-and-russia-gas-links-trump-questions-europe-nord-stream2"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "germany",
+    "angela-merkel",
+    "nord-stream-2",
+    "nato",
+    "russia"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "energy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2018-07-25-imran-khan-elected",
+   "date": "2018-07-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "Imran Khan's PTI wins Pakistan's election",
+   "summary": "Opponents alleged military 'engineering'. Khan became prime minister on Aug 18 at the head of a coalition.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Pakistani_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/jul/27/pakistan-election-imran-khan-official-results-win-coalition"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "imran-khan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2018-07-30-wagner-car-journalists",
+   "date": "2018-07-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Three Russian journalists investigating Wagner are killed in the Central African Republic",
+   "summary": "They died in an ambush three days after arriving, as Russian mercenaries began guarding President Touadéra's government.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2018/07/31/world/africa/russian-journalists-killed-central-african-republic.html"
+    }
+   ],
+   "entities": [
+    "wagner-group",
+    "central-african-republic",
+    "russia"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "unplaced": "Ambush site outside Bangui not precisely located."
+  },
+  {
+   "id": "2018-07-30-zimbabwe-election",
+   "date": "2018-07-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Mnangagwa wins Zimbabwe's first post-Mugabe election",
+   "summary": "The vote came eight months after the 2017 coup; soldiers shot protesters in Harare as results were delayed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Zimbabwean_general_election"
+    }
+   ],
+   "entities": [
+    "zimbabwe",
+    "emmerson-mnangagwa"
+   ],
+   "marker": "political",
+   "where": [
+    "harare"
+   ]
+  },
+  {
+   "id": "2018-08-09-dahyan-bus-strike",
+   "date": "2018-08-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Saudi coalition airstrike on a school bus kills about 40 children in Yemen",
+   "summary": "The bomb that hit the bus in Dahyan was reported to be US-made, which increased pressure in Congress to end support for the war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dahyan_airstrike"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/aug/09/dozens-dead-in-yemen-as-bus-carrying-children-hit-by-airstrike-icrc"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "houthis",
+    "yemen",
+    "united-states"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "strike",
+   "where": [
+    "dahyan"
+   ]
+  },
+  {
+   "id": "2018-08-10-turkish-lira-crash",
+   "date": "2018-08-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Turkish lira crashes as Trump doubles metals tariffs over a detained US pastor",
+   "summary": "The currency crisis exposed Turkey's foreign-currency debts; Erdoğan called it an economic war. It became years of high inflation.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Turkish_economic_crisis_%282018%E2%80%93current%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/aug/14/erdogan-turkey-boycott-us-lira-trump-pastor-brunson"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan",
+    "united-states",
+    "donald-trump"
+   ],
+   "causes": [
+    {
+     "story": "2018-03-08-steel-aluminum-tariffs",
+     "why": "Tariffs on Turkish metals doubled",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Currency crisis."
+  },
+  {
+   "id": "2018-08-13-xinjiang-un-review",
+   "date": "2018-08-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "UN panel says China may be holding a million Uyghurs in camps",
+   "summary": "At a UN anti-racism committee review, members cited credible reports of mass detention in Xinjiang; Beijing first denied the camps and later called them vocational centres.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Xinjiang_internment_camps"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2018/08/13/asia/china-xinjiang-uyghur-united-nations-intl/index.html"
+    }
+   ],
+   "entities": [
+    "china",
+    "xinjiang-camps"
+   ],
+   "marker": "political",
+   "unplaced": "UN review in Geneva about camps across Xinjiang."
+  },
+  {
+   "id": "2018-08-27-un-myanmar-genocide-call",
+   "date": "2018-08-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "UN investigators call for Myanmar's generals to be tried for genocide",
+   "summary": "The fact-finding mission named commander Min Aung Hlaing over the 2017 expulsion of Rohingya; Facebook removed his account.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rohingya_genocide"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "min-aung-hlaing",
+    "rohingya"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "unplaced": "UN report."
+  },
+  {
+   "id": "2018-09-17-idlib-sochi-deal",
+   "date": "2018-09-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Putin and Erdoğan agree an Idlib buffer zone, averting an Assad offensive",
+   "summary": "The deal created a demilitarised zone around the last big rebel enclave to be patrolled by Russian and Turkish forces.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Idlib_demilitarization_%282018%E2%80%932019%29"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2018/09/erdogan-warn-human-catastrophe-idlib-180911065036878.html"
+    }
+   ],
+   "entities": [
+    "vladimir-putin",
+    "recep-tayyip-erdogan",
+    "russia",
+    "turkey",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2018-06-19-southern-syria-offensive",
+     "why": "Idlib was next after the south fell",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "sochi"
+   ]
+  },
+  {
+   "id": "2018-09-30-usmca-deal",
+   "date": "2018-09-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "US, Canada and Mexico agree the USMCA to replace NAFTA",
+   "summary": "A last-minute deal with Canada kept a three-way pact; it took effect in July 2020 with a six-year review clause.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2018/09/30/politics/trump-nafta-canada/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "canada",
+    "mexico",
+    "nafta-usmca",
+    "donald-trump"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2018-03-08-steel-aluminum-tariffs",
+     "why": "Tariff pressure on partners",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Trilateral agreement."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2018-07-01-amlo-elected",
+    "2018-09-30-usmca-deal"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2018-07-06-us-china-tariffs-begin",
+    "2018-09-30-usmca-deal"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2018-07-09-ethiopia-eritrea-peace"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2018-07-11-trump-nord-stream-2"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2018-07-25-imran-khan-elected"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2018-07-30-wagner-car-journalists"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2018-08-09-dahyan-bus-strike"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2018-08-27-un-myanmar-genocide-call"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2018-09-17-idlib-sochi-deal"
+   ]
+  }
+ ]
+}
