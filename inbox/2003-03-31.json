@@ -1,0 +1,551 @@
+{
+ "edition": "2003-03-31",
+ "entities": [
+  {
+   "id": "charles-taylor",
+   "name": "Charles Taylor",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Taylor_%28Liberian_politician%29"
+  },
+  {
+   "id": "nestor-kirchner",
+   "name": "Néstor Kirchner",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner"
+  },
+  {
+   "id": "solomon-islands-ramsi",
+   "name": "RAMSI",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Regional_Assistance_Mission_to_Solomon_Islands"
+  },
+  {
+   "id": "colin-powell",
+   "name": "Colin Powell",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Colin_Powell"
+  },
+  {
+   "id": "hong-kong",
+   "name": "Hong Kong",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+   "lat": 22.3,
+   "lon": 114.2,
+   "precision": "city"
+  },
+  {
+   "id": "novosibirsk",
+   "name": "Novosibirsk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Novosibirsk",
+   "lat": 55.05,
+   "lon": 82.95,
+   "precision": "city"
+  },
+  {
+   "id": "buenos-aires",
+   "name": "Buenos Aires",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Buenos_Aires",
+   "lat": -34.60388889,
+   "lon": -58.38138889,
+   "precision": "city"
+  },
+  {
+   "id": "bunia",
+   "name": "Bunia",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bunia",
+   "lat": 1.56666667,
+   "lon": 30.25,
+   "precision": "city"
+  },
+  {
+   "id": "casablanca",
+   "name": "Casablanca",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Casablanca",
+   "lat": 33.53333333,
+   "lon": -7.58333333,
+   "precision": "city"
+  },
+  {
+   "id": "bam",
+   "name": "Bam",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bam%2C_Iran",
+   "lat": 29.09944444,
+   "lon": 58.34361111,
+   "precision": "city"
+  },
+  {
+   "id": "honiara",
+   "name": "Honiara",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honiara",
+   "lat": -9.43194444,
+   "lon": 159.95555556,
+   "precision": "city"
+  },
+  {
+   "id": "jiuquan",
+   "name": "Jiuquan Satellite Launch Center",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
+   "lat": 40.95805556,
+   "lon": 100.29111111,
+   "precision": "feature"
+  },
+  {
+   "id": "canal-hotel",
+   "name": "Canal Hotel, Baghdad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Canal_Hotel_bombing",
+   "lat": 33.33361111,
+   "lon": 44.46722222,
+   "precision": "feature"
+  },
+  {
+   "id": "prince-sultan-air-base",
+   "name": "Prince Sultan Air Base",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base",
+   "lat": 24.05527778,
+   "lon": 47.56361111,
+   "precision": "feature"
+  },
+  {
+   "id": "stockholm",
+   "name": "Stockholm",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stockholm",
+   "lat": 59.32944444,
+   "lon": 18.06861111,
+   "precision": "city"
+  },
+  {
+   "id": "firdos-square",
+   "name": "Firdos Square, Baghdad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Firdos_Square_statue_destruction",
+   "lat": 33.31442,
+   "lon": 44.42084,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2003-01-01-lula-takes-office",
+   "date": "2003-01-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Lula takes office as Brazil's first working-class president",
+   "summary": "His social programmes and commodity boom made Brazil a rising power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "brasilia"
+   ]
+  },
+  {
+   "id": "2003-01-10-nk-quits-npt",
+   "date": "2003-01-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "North Korea announces its withdrawal from the NPT",
+   "summary": "It came after the US accused it of a secret enrichment programme.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-il",
+    "united-states"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2003-02-03-venezuela-strike-ends",
+   "date": "2003-02-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Venezuela's oil strike collapses, and Chávez purges PDVSA",
+   "summary": "Thousands of oil workers were fired and PDVSA came under political control.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Venezuelan_general_strike_of_2002%E2%80%932003"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez",
+    "pdvsa"
+   ],
+   "storylines": [
+    "venezuela-oil"
+   ],
+   "marker": "energy",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2003-02-05-powell-un-presentation",
+   "date": "2003-02-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Powell makes the US case at the UN that Iraq has banned weapons",
+   "summary": "The claims proved false.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Colin_Powell%27s_presentation_to_the_United_Nations_Security_Council"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "colin-powell",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  },
+  {
+   "id": "2003-02-15-global-antiwar-protests",
+   "date": "2003-02-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Europe",
+   "title": "Millions march worldwide against the coming Iraq war",
+   "summary": "Some of the largest crowds were in London, Rome and Madrid.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/15_February_2003_anti-war_protests"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "italy",
+    "spain"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2003-02-26-darfur-rebellion",
+   "date": "2003-02-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "Rebels attack government forces in Darfur, starting the war there",
+   "summary": "Khartoum armed Janjaweed militias whose leaders later formed the RSF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/War_in_Darfur"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "rsf"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "military",
+   "unplaced": "Darfur, western Sudan."
+  },
+  {
+   "id": "2003-03-14-erdogan-prime-minister",
+   "date": "2003-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Erdoğan becomes Turkey's prime minister",
+   "summary": "Days earlier Turkey's parliament had refused to let US troops invade Iraq from Turkish soil.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "storylines": [
+    "turkey-erdogan"
+   ],
+   "marker": "political",
+   "where": [
+    "ankara"
+   ]
+  },
+  {
+   "id": "2003-03-15-hu-jintao-president",
+   "date": "2003-03-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "Hu Jintao becomes China's president",
+   "summary": "Hu led China until Xi Jinping took over.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
+    }
+   ],
+   "entities": [
+    "china",
+    "hu-jintao"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2003-03-sars-outbreak",
+   "date": "2003-03",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "SARS spreads from southern China to Hong Kong and the world",
+   "summary": "China's early cover-up drew global criticism.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak"
+    }
+   ],
+   "entities": [
+    "china",
+    "who"
+   ],
+   "storylines": [
+    "covid-shock"
+   ],
+   "marker": "political",
+   "where": [
+    "hong-kong"
+   ]
+  },
+  {
+   "id": "2003-03-20-iraq-invasion",
+   "date": "2003-03-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "US-led forces invade Iraq",
+   "summary": "Baghdad fell on April 9. No weapons of mass destruction were found.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq",
+    "united-kingdom",
+    "saddam-hussein",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2003-01-24-linas-marcoussis",
+   "date": "2003-01-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "France brokers the Linas-Marcoussis peace deal for Ivory Coast",
+   "summary": "The power-sharing deal did not end the split between north and south.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Linas-Marcoussis_Agreement"
+    }
+   ],
+   "entities": [
+    "ivory-coast",
+    "france",
+    "laurent-gbagbo"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "paris"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2003-01-01-lula-takes-office"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2003-01-10-nk-quits-npt"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2003-02-03-venezuela-strike-ends"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2003-02-05-powell-un-presentation",
+    "2003-02-15-global-antiwar-protests",
+    "2003-03-20-iraq-invasion"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2003-02-26-darfur-rebellion"
+   ]
+  },
+  {
+   "id": "turkey-erdogan",
+   "name": "Erdoğan's Turkey",
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "stories": [
+    "2003-03-14-erdogan-prime-minister"
+   ]
+  },
+  {
+   "id": "covid-shock",
+   "name": "COVID-19 pandemic & the 2020 economic shock",
+   "entities": [
+    "covid-19",
+    "who",
+    "federal-reserve",
+    "ecb",
+    "imf",
+    "china"
+   ],
+   "stories": [
+    "2003-03-sars-outbreak"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2003-01-24-linas-marcoussis"
+   ]
+  }
+ ]
+}
