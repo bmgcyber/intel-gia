@@ -1,0 +1,511 @@
+{
+ "edition": "2005-09-30",
+ "stories": [
+  {
+   "id": "2005-07-05-sco-astana-summit",
+   "date": "2005-07-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Russia/Eurasia",
+   "title": "SCO summit calls for a timeline for US bases in Central Asia",
+   "summary": "Russia and China used the bloc to push back on the US presence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+    }
+   ],
+   "entities": [
+    "sco",
+    "russia",
+    "china",
+    "kazakhstan"
+   ],
+   "storylines": [
+    "central-asia"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "astana"
+   ]
+  },
+  {
+   "id": "2005-07-07-london-bombings",
+   "date": "2005-07-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "Suicide bombers kill 52 on London's transport network",
+   "summary": "The home-grown attackers had links to al-Qaeda in Pakistan.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2005-07-21-yuan-peg-ends",
+   "date": "2005-07-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "China ends the yuan's dollar peg and revalues",
+   "summary": "The managed float answered US pressure over the trade gap.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Renminbi"
+    }
+   ],
+   "entities": [
+    "china",
+    "united-states"
+   ],
+   "storylines": [
+    "china-economy",
+    "us-tariffs-trade"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2005-07-28-ira-ends-campaign",
+   "date": "2005-07-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "The Provisional IRA formally ends its armed campaign",
+   "summary": "It verified putting its weapons beyond use in September.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+    }
+   ],
+   "entities": [
+    "provisional-ira",
+    "united-kingdom",
+    "ireland"
+   ],
+   "marker": "political",
+   "where": [
+    "belfast"
+   ]
+  },
+  {
+   "id": "2005-08-15-aceh-peace",
+   "date": "2005-08-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Indonesia and Aceh rebels sign the Helsinki peace deal",
+   "summary": "The 2004 tsunami's devastation helped end a three-decade insurgency.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Helsinki_Agreement_%28Aceh%29"
+    }
+   ],
+   "entities": [
+    "indonesia",
+    "free-aceh-movement"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "banda-aceh"
+   ]
+  },
+  {
+   "id": "2005-08-15-gaza-disengagement",
+   "date": "2005-08-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Israel begins evacuating its settlements from Gaza",
+   "summary": "Sharon's pullout left Gaza to the Palestinians; Hamas claimed it as a victory.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2005-08-29-hurricane-katrina",
+   "date": "2005-08-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Americas",
+   "title": "Hurricane Katrina floods New Orleans",
+   "summary": "The botched federal response badly damaged the Bush administration.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hurricane_Katrina"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "new-orleans"
+   ]
+  },
+  {
+   "id": "2005-09-07-egypt-multicandidate-election",
+   "date": "2005-09-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Mubarak wins Egypt's first multi-candidate presidential vote",
+   "summary": "The Muslim Brotherhood then won a fifth of parliament's seats in the autumn elections.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Egyptian_presidential_election"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "hosni-mubarak",
+    "muslim-brotherhood"
+   ],
+   "marker": "political",
+   "where": [
+    "cairo"
+   ]
+  },
+  {
+   "id": "2005-09-08-nord-stream-deal",
+   "date": "2005-09-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "Gazprom, BASF and E.ON agree to build a Baltic gas pipeline to Germany",
+   "summary": "The project, later called Nord Stream, bypassed Ukraine and Poland.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nord_Stream_1"
+    }
+   ],
+   "entities": [
+    "gazprom",
+    "germany",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "energy",
+   "where": [
+    "berlin"
+   ]
+  },
+  {
+   "id": "2005-09-19-six-party-joint-statement",
+   "date": "2005-09-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "North Korea agrees in principle to abandon nuclear weapons",
+   "summary": "The Six-Party joint statement soon stalled over US financial sanctions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Six-party_talks"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "united-states",
+    "china"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2005-07-30-garang-killed",
+   "date": "2005-07-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "South Sudan leader John Garang dies in a helicopter crash",
+   "summary": "He died three weeks after becoming Sudan's first vice-president; Salva Kiir took over.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/John_Garang"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "salva-kiir"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "political",
+   "unplaced": "Crash in southern Sudan near the Ugandan border."
+  },
+  {
+   "id": "2005-08-03-mauritania-coup",
+   "date": "2005-08-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "Mauritania's army topples President Taya",
+   "summary": "The junta handed over to an elected government in 2007.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Mauritanian_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "mauritania"
+   ],
+   "storylines": [
+    "africa-governance",
+    "sahel"
+   ],
+   "marker": "military",
+   "where": [
+    "nouakchott"
+   ]
+  },
+  {
+   "id": "2005-09-11-koizumi-landslide",
+   "date": "2005-09-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Koizumi wins a landslide in Japan's 'postal' election",
+   "summary": "The vote handed the LDP a big majority.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Japanese_general_election"
+    }
+   ],
+   "entities": [
+    "japan"
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "central-asia",
+   "name": "Central Asia upheavals",
+   "entities": [
+    "kyrgyzstan",
+    "kazakhstan"
+   ],
+   "stories": [
+    "2005-07-05-sco-astana-summit"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2005-07-07-london-bombings"
+   ]
+  },
+  {
+   "id": "china-economy",
+   "name": "China's economy and property crisis",
+   "entities": [
+    "china",
+    "evergrande"
+   ],
+   "stories": [
+    "2005-07-21-yuan-peg-ends"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2005-07-21-yuan-peg-ends"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2005-08-15-aceh-peace"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2005-08-15-gaza-disengagement"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2005-08-29-hurricane-katrina"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2005-09-08-nord-stream-deal"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2005-09-19-six-party-joint-statement"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2005-07-30-garang-killed"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2005-08-03-mauritania-coup"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2005-08-03-mauritania-coup"
+   ]
+  }
+ ]
+}
