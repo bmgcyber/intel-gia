@@ -14633,6 +14633,318 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-03-31": {
+   "sha256": "db79e7eb9e999f28791b28ce6fb557e41d879b43bf41ecde7ff0e50a0a5873bf",
+   "undo": {
+    "stories": {
+     "2024-01-12-us-uk-strike-houthis": null,
+     "2024-01-13-lai-elected-taiwan": null,
+     "2024-01-28-tower-22": null,
+     "2024-02-16-navalny-dies": null,
+     "2024-02-17-avdiivka-falls": null,
+     "2024-03-11-haiti-henry-resigns": null,
+     "2024-03-17-putin-fifth-term": null,
+     "2024-03-22-crocus-attack": null,
+     "2022-08-04-pla-drills": {
+      "id": "2022-08-04-pla-drills",
+      "date": "2022-08-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "China holds unprecedented drills encircling Taiwan",
+      "summary": "The PLA held live-fire exercises in zones around Taiwan, firing ballistic missiles over the island; Beijing also halted some US dialogues and sanctioned Pelosi.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Chinese military exercises around Taiwan",
+        "url": "https://en.wikipedia.org/wiki/2022_Chinese_military_exercises_around_Taiwan"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "united-states",
+       "japan"
+      ],
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-02-pelosi",
+        "why": "Retaliation for the visit",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "pla-drills",
+        "why": "2022 drills set the template for encirclement exercises",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Heightened US–China military tension",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-31-nvidia-ban",
+       "pla-drills",
+       "rare-earth-nov10",
+       "2025-12-29-justice-mission-drills",
+       "2025-04-02-strait-thunder"
+      ],
+      "marker": "military",
+      "unplaced": "The drills were zones around Taiwan, not one point."
+     },
+     "2022-10-haiti-fuel": {
+      "id": "2022-10-haiti-fuel",
+      "date": "2022-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "Haiti requests foreign troops as gangs blockade fuel terminal",
+      "summary": "With gangs blockading the Varreux fuel terminal, Haiti's government asked for an international armed force.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Haitian fuel protests",
+        "url": "https://en.wikipedia.org/wiki/2022_Haitian_fuel_protests"
+       }
+      ],
+      "entities": [
+       "haiti"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-03-07-oil-spike",
+        "why": "Fuel subsidy cuts amid high prices",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-03-07-oil-spike"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "alexei-navalny",
+     "alliance-of-sahel-states",
+     "avdiivka",
+     "bangladesh",
+     "bashar-al-assad",
+     "crocus-city-hall",
+     "dhaka",
+     "emmanuel-macron",
+     "hassan-nasrallah",
+     "hts",
+     "isis-k",
+     "ismail-haniyeh",
+     "port-au-prince",
+     "rafah",
+     "sheikh-hasina",
+     "shigeru-ishiba",
+     "sudzha",
+     "yahya-sinwar",
+     "zamzam-camp"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
