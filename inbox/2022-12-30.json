@@ -1,0 +1,350 @@
+{
+ "edition": "2022-12-30",
+ "entities": [
+  {
+   "id": "giorgia-meloni",
+   "name": "Giorgia Meloni",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giorgia_Meloni"
+  },
+  {
+   "id": "italy",
+   "name": "Italy",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Italy"
+  },
+  {
+   "id": "rishi-sunak",
+   "name": "Rishi Sunak",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rishi_Sunak"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2022-10-22-meloni-government",
+   "date": "2022-10-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Europe",
+   "title": "Giorgia Meloni takes office as Italy's first woman prime minister",
+   "summary": "Her Brothers of Italy-led coalition was described as the first far-right-led government in Italy since the Second World War; it kept Rome firmly behind Ukraine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Meloni_government"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html"
+    }
+   ],
+   "entities": [
+    "italy",
+    "giorgia-meloni",
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "unplaced": "Government formation."
+  },
+  {
+   "id": "2022-10-25-sunak-pm",
+   "date": "2022-10-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Europe",
+   "title": "Rishi Sunak becomes UK prime minister after Truss's 49-day tenure",
+   "summary": "Liz Truss quit after her mini-budget crashed the gilt market; Sunak, the former chancellor, took over to steady the markets.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rishi_Sunak"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/politics/2022/oct/24/spotlight-on-rishi-sunaks-family-as-they-prepare-to-enter-no-10"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "rishi-sunak"
+   ],
+   "storylines": [
+    "europe-cost-of-living"
+   ],
+   "causes": [
+    {
+     "story": "2022-09-23-uk-mini-budget",
+     "why": "Truss fell after the gilt crisis",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2022-11-01-netanyahu-returns",
+   "date": "2022-11-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Middle East",
+   "title": "Netanyahu's bloc wins Israel's election with far-right allies",
+   "summary": "The right-wing camp won a Knesset majority as the far right gained, ending the Bennett–Lapid interlude; Netanyahu formed his most right-wing government in December.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2022_Israeli_legislative_election"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2022/11/02/1133516979/israel-election-results-netanyahu"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2022/11/11/netanyahu-mandated-to-form-new-israeli-government"
+    }
+   ],
+   "entities": [
+    "israel",
+    "benjamin-netanyahu",
+    "knesset"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2021-06-13-bennett-government",
+     "why": "Collapse of the Bennett–Lapid coalition",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2022-11-02-pretoria-agreement",
+   "date": "2022-11-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Africa",
+   "title": "Ethiopia and the TPLF sign the Pretoria agreement ending the Tigray war",
+   "summary": "The AU-brokered deal provided a 'permanent cessation of hostilities' from Nov 3, the war's second anniversary. Eritrea was not a party.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ethiopia%E2%80%93Tigray_peace_agreement"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2022/11/2/ethiopias-warring-sides-agree-cessation-of-hostilities-au"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2022/nov/02/ethiopian-civil-war-parties-agree-truce-to-end-hostilities"
+    }
+   ],
+   "entities": [
+    "ethiopia",
+    "tplf",
+    "abiy-ahmed",
+    "eritrea"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [
+    {
+     "story": "2021-11-02-ethiopia-emergency",
+     "why": "War's turning points",
+     "confidence": "likely"
+    },
+    {
+     "story": "2020-11-04-tigray-war",
+     "why": "Ends the war begun in 2020",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Leaving Eritrea out of the deal stored up the Ethiopia–Eritrea tension that erupted in 2026.",
+    "confidence": "possible"
+   },
+   "unplaced": "Signed in Pretoria; no place entity."
+  },
+  {
+   "id": "2022-11-14-biden-xi-bali",
+   "date": "2022-11-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Asia-Pacific",
+   "title": "Biden and Xi hold their first in-person meeting as leaders in Bali",
+   "summary": "Meeting before the G20 summit, the two agreed to resume some cooperation and jointly opposed the use of nuclear weapons in Ukraine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2022_G20_Bali_summit"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/china-praises-russias-opposition-nuclear-war-g20-summit-2022-11-15"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "joe-biden",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Thaw after the Pelosi crisis",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Bali; no place entity."
+  },
+  {
+   "id": "2022-12-21-zelensky-washington",
+   "date": "2022-12-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022 (invasion year)",
+   "region": "Russia/Eurasia",
+   "title": "Zelenskyy makes his first wartime trip abroad, to Washington",
+   "summary": "He met Biden and addressed Congress as the US announced a $1.85bn package including a Patriot air-defence battery.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2022_visit_by_Volodymyr_Zelenskyy_to_the_United_States"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2022/12/21/zelenskyy-to-meet-with-biden-address-a-joint-session-of-congress-on-his-first-wartime-trip-to-us.html"
+    }
+   ],
+   "entities": [
+    "volodymyr-zelenskyy",
+    "joe-biden",
+    "ukraine",
+    "united-states"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-10-energy-strikes",
+     "why": "Russian strikes drove the air-defence request",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2022-10-22-meloni-government"
+   ]
+  },
+  {
+   "id": "europe-cost-of-living",
+   "name": "Europe: energy shock, cost of living & the populist surge",
+   "entities": [
+    "france",
+    "european-union",
+    "inflation"
+   ],
+   "stories": [
+    "2022-10-25-sunak-pm"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2022-11-01-netanyahu-returns"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2022-11-02-pretoria-agreement"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2022-11-14-biden-xi-bali"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2022-12-21-zelensky-washington"
+   ]
+  }
+ ]
+}
