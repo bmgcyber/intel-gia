@@ -50963,6 +50963,11 @@
     "story": "2009-10-17-south-waziristan-offensive",
     "why": "Army–TTP war",
     "confidence": "possible"
+   },
+   {
+    "story": "2007-12-14-ttp-formed",
+    "why": "TTP",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -50977,12 +50982,20 @@
   ],
   "related_stories": [
    "2014-06-15-zarb-e-azb",
-   "2009-10-17-south-waziristan-offensive"
+   "2009-10-17-south-waziristan-offensive",
+   "2007-12-14-ttp-formed"
   ],
   "revisions": [
    {
     "edition": "2009-12-31",
     "why": "2009 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -54224,7 +54237,13 @@
    "venezuela",
    "hugo-chavez"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-05-01-chavez-orinoco-nationalised",
+    "why": "Oil-funded rule",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2012-12-31",
   "storylines": [
@@ -54236,7 +54255,17 @@
    "caracas"
   ],
   "related_stories": [
+   "2007-05-01-chavez-orinoco-nationalised",
    "2013-03-05-chavez-dies"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -54593,6 +54622,11 @@
     "story": "2009-08-30-japan-dpj-landslide",
     "why": "DPJ government failed",
     "confidence": "likely"
+   },
+   {
+    "story": "2007-09-12-abe-resigns",
+    "why": "Second term",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -54607,12 +54641,20 @@
   ],
   "related_stories": [
    "2009-08-30-japan-dpj-landslide",
+   "2007-09-12-abe-resigns",
    "2013-04-04-boj-qqe"
   ],
   "revisions": [
    {
     "edition": "2009-12-31",
     "why": "2009 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -58317,7 +58359,13 @@
    "venezuela",
    "hugo-chavez"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-12-02-venezuela-rejects-reform",
+    "why": "Second attempt",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-03-31",
   "storylines": [
@@ -58329,7 +58377,17 @@
    "caracas"
   ],
   "related_stories": [
+   "2007-12-02-venezuela-rejects-reform",
    "2013-03-05-chavez-dies"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -58816,6 +58874,11 @@
     "story": "2008-08-08-russia-georgia-war",
     "why": "EU response to the war",
     "confidence": "likely"
+   },
+   {
+    "story": "2007-01-01-bulgaria-romania-join-eu",
+    "why": "Enlargement reached the Black Sea",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -58831,12 +58894,20 @@
   ],
   "related_stories": [
    "2008-08-08-russia-georgia-war",
+   "2007-01-01-bulgaria-romania-join-eu",
    "2013-11-21-euromaidan"
   ],
   "revisions": [
    {
     "edition": "2008-12-31",
     "why": "2008 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -58867,6 +58938,11 @@
     "story": "2008-08-18-musharraf-resigns",
     "why": "New civilian government",
     "confidence": "possible"
+   },
+   {
+    "story": "2007-12-14-ttp-formed",
+    "why": "Pakistani Taliban",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -58881,12 +58957,20 @@
   ],
   "related_stories": [
    "2008-08-18-musharraf-resigns",
+   "2007-12-14-ttp-formed",
    "2012-10-09-malala-shot"
   ],
   "revisions": [
    {
     "edition": "2008-12-31",
     "why": "2008 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -59164,7 +59248,13 @@
    "nigeria",
    "boko-haram"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-04-21-nigeria-yaradua",
+    "why": "Government response",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-09-30",
   "storylines": [
@@ -59176,7 +59266,17 @@
    "maiduguri"
   ],
   "related_stories": [
+   "2007-04-21-nigeria-yaradua",
    "2011-08-26-abuja-un-bombing"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -59773,7 +59873,13 @@
    "united-states",
    "china"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-12-15-bali-roadmap",
+    "why": "Deadline set at Bali",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-12-31",
   "storylines": [
@@ -59785,7 +59891,17 @@
    "copenhagen"
   ],
   "related_stories": [
+   "2007-12-15-bali-roadmap",
    "2015-12-12-paris-climate-agreement"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -59990,7 +60106,18 @@
    "pakistan",
    "pervez-musharraf"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-12-27-bhutto-assassinated",
+    "why": "Sympathy vote",
+    "confidence": "likely"
+   },
+   {
+    "story": "2007-11-03-musharraf-emergency",
+    "why": "Backlash",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-03-31",
   "storylines": [
@@ -60001,7 +60128,19 @@
   "where": [
    "islamabad"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-12-27-bhutto-assassinated",
+   "2007-11-03-musharraf-emergency"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-02-19-fidel-castro-steps-down",
@@ -60055,7 +60194,13 @@
    "kenya",
    "raila-odinga"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-12-30-kenya-disputed-election",
+    "why": "Post-election crisis",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-03-31",
   "storylines": [
@@ -60067,7 +60212,17 @@
    "nairobi"
   ],
   "related_stories": [
+   "2007-12-30-kenya-disputed-election",
    "2010-08-04-kenya-constitution"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60186,7 +60341,13 @@
    "federal-reserve",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-08-09-credit-crunch",
+    "why": "Subprime losses",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-03-31",
   "storylines": [
@@ -60197,7 +60358,18 @@
   "where": [
    "new-york-city"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-08-09-credit-crunch"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-03-22-ma-ying-jeou-elected",
@@ -60254,7 +60426,13 @@
    "nouri-al-maliki",
    "muqtada-al-sadr"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-01-10-iraq-surge-announced",
+    "why": "Surge momentum",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-03-31",
   "storylines": [
@@ -60265,7 +60443,18 @@
   "where": [
    "basra"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-01-10-iraq-surge-announced"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-03-29-zimbabwe-election",
@@ -60513,7 +60702,13 @@
    "ireland",
    "european-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-12-13-lisbon-treaty-signed",
+    "why": "Ratification",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "storylines": [
@@ -60525,7 +60720,17 @@
    "dublin"
   ],
   "related_stories": [
+   "2007-12-13-lisbon-treaty-signed",
    "2009-12-01-lisbon-treaty-in-force"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60548,7 +60753,13 @@
    "united-states",
    "china"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-02-13-six-party-deal",
+    "why": "Implements the deal",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "storylines": [
@@ -60560,8 +60771,18 @@
    "yongbyon"
   ],
   "related_stories": [
-   "2017-03-06-thaad-deployed",
-   "2009-05-25-nk-second-nuclear-test"
+   "2007-02-13-six-party-deal",
+   "2009-05-25-nk-second-nuclear-test",
+   "2017-03-06-thaad-deployed"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60709,7 +60930,13 @@
    "mikheil-saakashvili",
    "dmitry-medvedev"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-02-10-putin-munich-speech",
+    "why": "Russian grievance",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-09-30",
   "storylines": [
@@ -60722,8 +60949,18 @@
    "tskhinvali"
   ],
   "related_stories": [
-   "2009-05-07-eastern-partnership",
-   "2014-03-18-crimea-annexed"
+   "2007-02-10-putin-munich-speech",
+   "2014-03-18-crimea-annexed",
+   "2009-05-07-eastern-partnership"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60745,7 +60982,13 @@
    "pakistan",
    "pervez-musharraf"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-11-03-musharraf-emergency",
+    "why": "Lost legitimacy",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-09-30",
   "storylines": [
@@ -60757,7 +61000,17 @@
    "islamabad"
   ],
   "related_stories": [
+   "2007-11-03-musharraf-emergency",
    "2009-05-08-swat-offensive"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60811,7 +61064,13 @@
    "united-states",
    "federal-reserve"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-08-09-credit-crunch",
+    "why": "Crisis began",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-09-30",
   "storylines": [
@@ -60823,10 +61082,20 @@
    "new-york-city"
   ],
   "related_stories": [
-   "2009-04-02-g20-london-summit",
+   "2007-08-09-credit-crunch",
    "2009-02-17-us-stimulus",
-   "2009-11-25-dubai-world-standstill",
-   "2009-10-20-greece-deficit-revealed"
+   "2009-04-02-g20-london-summit",
+   "2009-10-20-greece-deficit-revealed",
+   "2009-11-25-dubai-world-standstill"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61314,7 +61583,13 @@
    "israel",
    "hamas"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-06-14-hamas-takes-gaza",
+    "why": "Hamas rule in Gaza",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-12-31",
   "storylines": [
@@ -61326,7 +61601,17 @@
    "gaza-city"
   ],
   "related_stories": [
+   "2007-06-14-hamas-takes-gaza",
    "2009-02-10-israel-election-netanyahu"
+  ],
+  "revisions": [
+   {
+    "edition": "2007-12-31",
+    "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61360,7 +61645,9 @@
   "where": [
    "bucharest"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2009-05-07-eastern-partnership"
+  ]
  },
  {
   "id": "2007-01-10-ortega-returns",
@@ -61425,7 +61712,9 @@
   "where": [
    "baghdad"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-03-25-battle-of-basra"
+  ]
  },
  {
   "id": "2007-01-11-china-asat-test",
@@ -61505,7 +61794,8 @@
    "2021-06-16-biden-putin-geneva",
    "2016-10-07-russia-election-interference",
    "2014-03-18-crimea-annexed",
-   "2011-03-19-libya-intervention"
+   "2011-03-19-libya-intervention",
+   "2008-08-08-russia-georgia-war"
   ]
  },
  {
@@ -61734,7 +62024,9 @@
   "where": [
    "abuja"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2009-07-26-boko-haram-uprising"
+  ]
  },
  {
   "id": "2007-04-27-estonia-cyberattacks",
@@ -61800,7 +62092,9 @@
   "where": [
    "caracas"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2012-10-07-chavez-reelected"
+  ]
  },
  {
   "id": "2007-05-06-sarkozy-elected",
@@ -61863,7 +62157,9 @@
   "where": [
    "gaza-city"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-12-27-operation-cast-lead"
+  ]
  },
  {
   "id": "2007-06-27-brown-succeeds-blair",
@@ -62075,7 +62371,10 @@
   "where": [
    "paris"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-09-15-lehman-collapse",
+   "2008-03-16-bear-stearns-rescue"
+  ]
  },
  {
   "id": "2007-08-14-yazidi-bombings",
@@ -62295,6 +62594,409 @@
   "marker": "political",
   "where": [
    "tokyo"
+  ],
+  "related_stories": [
+   "2012-12-16-abe-returns"
+  ]
+ },
+ {
+  "id": "2007-10-22-xi-joins-standing-committee",
+  "date": "2007-10-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "China's 17th Party Congress puts Xi Jinping on the Politburo Standing Committee",
+  "summary": "Xi emerged as Hu Jintao's likely successor.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/17th_National_Congress_of_the_Chinese_Communist_Party"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping",
+   "hu-jintao"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "china-economy"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2007-11-03-musharraf-emergency",
+  "date": "2007-11-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Musharraf declares emergency rule in Pakistan",
+  "summary": "He suspended the constitution and sacked judges.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_Pakistani_state_of_emergency"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "pervez-musharraf"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2008-02-18-pakistan-election-ppp",
+   "2008-08-18-musharraf-resigns"
+  ]
+ },
+ {
+  "id": "2007-11-24-rudd-elected",
+  "date": "2007-11-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Kevin Rudd's Labor wins Australia's election",
+  "summary": "Rudd's first act was to ratify the Kyoto Protocol.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_Australian_federal_election"
+   }
+  ],
+  "entities": [
+   "australia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "canberra"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2007-11-27-annapolis-conference",
+  "date": "2007-11-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Americas",
+  "title": "Annapolis conference relaunches Israeli–Palestinian talks",
+  "summary": "The talks collapsed with the 2008 Gaza war.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annapolis_Conference"
+   }
+  ],
+  "entities": [
+   "israel",
+   "mahmoud-abbas",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "diplomacy",
+  "where": [
+   "annapolis"
+  ],
+  "related_stories": [
+   "2012-11-29-un-palestine-observer"
+  ]
+ },
+ {
+  "id": "2007-12-02-venezuela-rejects-reform",
+  "date": "2007-12-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Americas",
+  "title": "Venezuelans narrowly reject Chávez's constitutional reform",
+  "summary": "It was Chávez's first electoral defeat.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_Venezuelan_constitutional_referendum"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "hugo-chavez"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "venezuela-oil"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "caracas"
+  ],
+  "related_stories": [
+   "2009-02-15-venezuela-term-limits"
+  ]
+ },
+ {
+  "id": "2007-12-13-lisbon-treaty-signed",
+  "date": "2007-12-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Europe",
+  "title": "EU leaders sign the Lisbon Treaty",
+  "summary": "It salvaged reforms from the constitution rejected in 2005.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Treaty_of_Lisbon"
+   }
+  ],
+  "entities": [
+   "european-union"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "europe-populism"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "diplomacy",
+  "where": [
+   "lisbon"
+  ],
+  "related_stories": [
+   "2008-06-12-ireland-rejects-lisbon"
+  ]
+ },
+ {
+  "id": "2007-12-14-ttp-formed",
+  "date": "2007-12-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Pakistani militant groups unite as Tehrik-i-Taliban Pakistan",
+  "summary": "Baitullah Mehsud led the alliance, which waged war on the Pakistani state.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tehrik-i-Taliban_Pakistan"
+   }
+  ],
+  "entities": [
+   "ttp",
+   "pakistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "south-asia-security",
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "military",
+  "unplaced": "Pakistan's tribal areas.",
+  "related_stories": [
+   "2014-12-16-peshawar-school-massacre",
+   "2009-05-08-swat-offensive"
+  ]
+ },
+ {
+  "id": "2007-12-15-bali-roadmap",
+  "date": "2007-12-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Bali climate talks agree a roadmap to a post-Kyoto deal",
+  "summary": "The roadmap set a 2009 deadline for a deal.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_United_Nations_Climate_Change_Conference"
+   }
+  ],
+  "entities": [
+   "cop"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "diplomacy",
+  "where": [
+   "nusa-dua"
+  ],
+  "related_stories": [
+   "2009-12-18-copenhagen-accord"
+  ]
+ },
+ {
+  "id": "2007-12-19-lee-myung-bak-elected",
+  "date": "2007-12-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Lee Myung-bak is elected South Korea's president",
+  "summary": "He ended the 'Sunshine Policy' of engagement with the North.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_South_Korean_presidential_election"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "lee-myung-bak"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2007-12-27-bhutto-assassinated",
+  "date": "2007-12-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Asia-Pacific",
+  "title": "Benazir Bhutto is assassinated at a rally in Rawalpindi",
+  "summary": "Her killing, blamed on the Pakistani Taliban, swept her party to power.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "benazir-bhutto",
+   "ttp"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "strike",
+  "where": [
+   "rawalpindi"
+  ],
+  "related_stories": [
+   "2008-02-18-pakistan-election-ppp"
+  ]
+ },
+ {
+  "id": "2007-12-30-kenya-disputed-election",
+  "date": "2007-12-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Africa",
+  "title": "Kibaki is declared winner of Kenya's disputed election, and violence erupts",
+  "summary": "Raila Odinga's camp alleged rigging; the violence ended with a February power-sharing deal.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2007_Kenyan_presidential_election"
+   }
+  ],
+  "entities": [
+   "kenya",
+   "raila-odinga"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "africa-governance"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "nairobi"
+  ],
+  "related_stories": [
+   "2008-02-28-kenya-power-sharing"
+  ]
+ },
+ {
+  "id": "2007-12-03-iran-nie",
+  "date": "2007-12-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2007-12-31",
+  "region": "Middle East",
+  "title": "US intelligence estimate says Iran halted nuclear-weapons work in 2003",
+  "summary": "The finding undercut the case for military action against Iran.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran"
+   }
+  ],
+  "entities": [
+   "iran",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2007-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
   ],
   "related_stories": []
  }
