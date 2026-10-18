@@ -1,0 +1,364 @@
+{
+ "edition": "2024-06-30",
+ "stories": [
+  {
+   "id": "2024-04-13-iran-strikes-israel",
+   "date": "2024-04-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Iran launches its first direct attack on Israel after the Damascus consulate strike",
+   "summary": "Answering Israel's Apr 1 strike on its consulate in Damascus, Iran fired more than 300 drones and missiles at Israel. Nearly all were intercepted with US, UK, French and Jordanian help, and Israel's limited reply on Apr 19 hit near Isfahan.",
+   "sources": [
+    {
+     "name": "UN Secretary-General",
+     "url": "https://www.un.org/sg/en/content/sg/statement/2024-04-13/statement-the-secretary-general-regarding-attacks-the-islamic-republic-of-iran-targeting-israel"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel"
+    }
+   ],
+   "entities": [
+    "iran",
+    "israel",
+    "irgc",
+    "united-states"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "analysis": {
+    "text": "This broke the taboo on direct Iran–Israel strikes, leading to October 2024, June 2025 and the 2026 war.",
+    "confidence": "likely"
+   },
+   "unplaced": "Launched across the region at Israel."
+  },
+  {
+   "id": "2024-05-07-rafah-offensive",
+   "date": "2024-05-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Israel launches the Rafah offensive and seizes Gaza's border crossing with Egypt",
+   "summary": "Israeli forces took the Rafah crossing on May 7 and pushed into Gaza's southernmost city, where over a million people had sheltered. Hundreds of thousands fled again despite US objections.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/5/7/israel-takes-control-of-rafah-crossing-gazas-lifeline-whats-going-on"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/israeli-tanks-encircle-eastern-half-rafah-2024-05-10/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/article/2024/may/09/more-than-100000-flee-rafah-israel-steps-up-strikes-says-un"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "egypt"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "rafah"
+   ]
+  },
+  {
+   "id": "2024-05-14-biden-ev-tariffs",
+   "date": "2024-05-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Americas",
+   "title": "Biden quadruples tariffs on Chinese EVs to 100% and raises duties on chips, batteries and minerals",
+   "summary": "Following a Section 301 review, the US raised tariffs on $18bn of Chinese imports, including 100% on EVs, 50% on semiconductors by 2025 and new duties on critical minerals, steel and solar cells.",
+   "sources": [
+    {
+     "name": "White House (archived fact sheet)",
+     "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/China–United_States_trade_war"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "joe-biden",
+    "semiconductors"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Extends the 2022 tech containment",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A trade action; no site."
+  },
+  {
+   "id": "2024-05-19-raisi-killed",
+   "date": "2024-05-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Iran's President Raisi dies in a helicopter crash; reformist Pezeshkian wins the snap election",
+   "summary": "Raisi and Foreign Minister Amir-Abdollahian were killed when their helicopter crashed in fog in East Azerbaijan. In the Jul 5 runoff, reformist Masoud Pezeshkian beat hardliner Saeed Jalili.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/5/19/president-raisis-helicopter-crashed-in-iran-what-we-know-so-far"
+    },
+    {
+     "name": "Al Jazeera (runoff)",
+     "url": "https://www.aljazeera.com/news/2024/7/6/irans-reformist-masoud-pezeshkian-wins-run-off-presidential-vote-reports"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20240519-helicopter-carrying-iran-s-president-raisi-makes-hard-landing-state-tv-says"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Varzaqan_helicopter_crash"
+    }
+   ],
+   "entities": [
+    "iran",
+    "ebrahim-raisi",
+    "masoud-pezeshkian"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "Crash in remote East Azerbaijan."
+  },
+  {
+   "id": "2024-06-02-sheinbaum-elected",
+   "date": "2024-06-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Americas",
+   "title": "Claudia Sheinbaum elected Mexico's first woman president in a Morena landslide",
+   "summary": "Sheinbaum won about 60% of the vote, and the ruling coalition won a lower-house supermajority, which it used to push through a contested judicial overhaul.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/mexicans-vote-election-seen-crowning-first-female-president-2024-06-02/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Mexican_general_election"
+    }
+   ],
+   "entities": [
+    "mexico",
+    "claudia-sheinbaum"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2024-06-04-modi-loses-majority",
+   "date": "2024-06-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Asia-Pacific",
+   "title": "Modi wins a third term but the BJP loses its majority",
+   "summary": "In results declared on Jun 4, the BJP fell to 240 of 543 seats and needed allies such as the TDP and JD(U) to form a government, a setback after a decade of single-party rule.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20240604-india-begins-vote-count-world-biggest-election-narendra-modi-poised-win-third-term"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/article/2024/jun/05/narendra-modi-wins-backing-of-allies-to-form-indian-government"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Indian_general_election"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2024-06-19-putin-kim-treaty",
+   "date": "2024-06-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Asia-Pacific",
+   "title": "Putin and Kim sign a mutual-defence pact in Pyongyang",
+   "summary": "The Comprehensive Strategic Partnership treaty commits each side to give military aid if the other is attacked. It was the strongest Moscow–Pyongyang tie since the Cold War.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2024/06/20/asia/russia-putin-kim-deal-military-assistance-intl-hnk/index.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/North_Korean–Russian_Treaty_on_Comprehensive_Strategic_Partnership"
+    }
+   ],
+   "entities": [
+    "russia",
+    "north-korea",
+    "vladimir-putin",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula",
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "where": [
+    "pyongyang"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2024-04-13-iran-strikes-israel",
+    "2024-05-19-raisi-killed"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2024-05-07-rafah-offensive"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2024-05-14-biden-ev-tariffs"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2024-06-02-sheinbaum-elected"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2024-06-04-modi-loses-majority"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2024-06-19-putin-kim-treaty"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2024-06-19-putin-kim-treaty"
+   ]
+  }
+ ]
+}
