@@ -1,0 +1,880 @@
+{
+ "edition": "2025-09-30",
+ "stories": [
+  {
+   "id": "2025-07-10-mp-materials-dod",
+   "date": "2025-07-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Pentagon becomes MP Materials' largest shareholder and guarantees a rare-earth price floor",
+   "summary": "The Department of Defense agreed to invest $400m in MP Materials, set a 10-year price floor of $110/kg for NdPr, and buy all the magnets from a planned new plant for 10 years.",
+   "sources": [
+    {
+     "name": "MP Materials",
+     "url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Announces-Transformational-Public-Private-Partnership-with-the-Department-of-Defense-to-Accelerate-U-S--Rare-Earth-Magnet-Independence/default.aspx"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html"
+    },
+    {
+     "name": "Payne Institute",
+     "url": "https://payneinstitute.mines.edu/explainer-on-the-mp-materials-department-of-defense-partnership/"
+    }
+   ],
+   "entities": [
+    "mp-materials",
+    "united-states",
+    "rare-earths",
+    "china"
+   ],
+   "storylines": [
+    "china-minerals-leverage",
+    "ai-compute-minerals"
+   ],
+   "causes": [
+    {
+     "story": "2025-04-04-china-rare-earth-controls",
+     "why": "April's magnet squeeze exposed US dependence",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A corporate–government deal; no site."
+  },
+  {
+   "id": "2025-07-27-eu-us-turnberry",
+   "date": "2025-07-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Turnberry deal: EU accepts a 15% US tariff ceiling to avoid a trade war",
+   "summary": "Von der Leyen and Trump agreed in Scotland on a 15% all-inclusive tariff ceiling for most EU exports, including cars, chips and pharmaceuticals. The EU agreed to remove tariffs on US industrial goods.",
+   "sources": [
+    {
+     "name": "European Commission Q&A",
+     "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/qanda_25_1930/QANDA_25_1930_EN.pdf"
+    },
+    {
+     "name": "EU–US joint statement",
+     "url": "https://policy.trade.ec.europa.eu/news/joint-statement-united-states-european-union-framework-agreement-reciprocal-fair-and-balanced-trade-2025-08-21_en"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/us-eu-avert-trade-war-with-15-tariff-deal-2025-07-28/"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "united-states",
+    "donald-trump"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2025-04-02-liberation-day",
+     "why": "Negotiated under threat of the 'reciprocal' tariffs",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Turnberry has no coordinates on Wikipedia, so it is not placed."
+  },
+  {
+   "id": "2025-08-05-lebanon-disarm-hezbollah",
+   "date": "2025-08-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Lebanon's cabinet orders the army to bring all weapons under state control",
+   "summary": "The government told the army to draft a plan to restrict weapons to state forces by year-end, a direct challenge to Hezbollah. The plan, adopted in September, began south of the Litani. Reuters reported the army avoided confrontation in Hezbollah strongholds.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/lebanon-tasks-army-with-limiting-arms-state-forces-challenge-hezbollah-2025-08-05/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/lebanon-israel-hezbollah-disarmament-kassem-cabinet-7d8cca554405c85e80b010df0770b1ca"
+    },
+    {
+     "name": "Reuters (army tightrope)",
+     "url": "https://www.reuters.com/world/middle-east/lebanese-army-walks-political-tightrope-disarm-hezbollah-2025-10-28/"
+    }
+   ],
+   "entities": [
+    "lebanon",
+    "hezbollah",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "Disarmament pressure and the loss of Iranian supply routes after Assad's fall left Hezbollah weak but defiant when it rejoined the war in March 2026.",
+    "confidence": "possible"
+   },
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2025-08-08-armenia-azerbaijan-deal",
+   "date": "2025-08-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Armenia and Azerbaijan initial a peace deal at the White House with a US-backed 'TRIPP' corridor",
+   "summary": "Aliyev and Pashinyan initialled a peace agreement and signed a joint declaration with Trump that commits the parties to develop the Trump Route for International Peace and Prosperity through Armenia to Nakhchivan. Final signing and ratification were still pending.",
+   "sources": [
+    {
+     "name": "Government of Armenia",
+     "url": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/"
+    },
+    {
+     "name": "White House",
+     "url": "https://www.whitehouse.gov/releases/2025/08/president-trump-brokers-another-historic-peace-deal/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/trump-announces-peace-agreement-between-azerbaijan-armenia-2025-08-08/"
+    }
+   ],
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "united-states",
+    "russia"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "A US-run corridor in the South Caucasus erodes Russia's role as broker there, which the CSTO's weakness had already started.",
+    "confidence": "possible"
+   },
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2025-08-15-alaska-summit",
+   "date": "2025-08-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Trump–Putin Alaska summit ends with no ceasefire",
+   "summary": "Trump and Putin met for nearly three hours at Joint Base Elmendorf-Richardson in Anchorage. No ceasefire or deal was announced. Trump said 'there's no deal until there's a deal'.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/trump-putin-summit-alaska-russia-ukraine-a7b167f17a3e06fbce2f583c93f8bae1"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/updates-trump-putin-meet-alaska-summit-war-ukraine-2025-08-15/"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2025/08/15/trump-putin-summit-sober-mood/"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "donald-trump",
+    "vladimir-putin",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2025-02-28-oval-office-clash",
+     "why": "Trump's turn to direct dealing with Moscow",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "anchorage"
+   ]
+  },
+  {
+   "id": "2025-08-22-gaza-famine",
+   "date": "2025-08-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Famine confirmed in Gaza City for the first time",
+   "summary": "The IPC confirmed Phase 5 famine in Gaza Governorate and projected it would spread to Deir al-Balah and Khan Younis. More than 500,000 people faced catastrophic hunger, the WHO said.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"
+    },
+    {
+     "name": "IPC Famine Review Committee",
+     "url": "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Famine_Review_Committee_Report_Gaza_Aug2025.pdf"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/gaza-city-officially-famine-with-hunger-spreading-says-global-hunger-monitor-2025-08-22/"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "who"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2025-03-18-gaza-war-resumes",
+     "why": "Renewed war and aid restrictions",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2025-08-27-india-50pct-tariff",
+   "date": "2025-08-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "US doubles tariffs on India to 50% over Russian oil purchases",
+   "summary": "An extra 25% duty took effect on Indian goods as a penalty for buying Russian oil, bringing the total to 50%. Reuters reported the move damaged ties.",
+   "sources": [
+    {
+     "name": "Federal Register",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2025-08-27/html/2025-16419.htm"
+    },
+    {
+     "name": "White House fact sheet",
+     "url": "https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-the-russian-federation/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/india/trumps-doubling-tariffs-hits-india-damaging-ties-2025-08-27/"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "india",
+    "russia",
+    "petroleum"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2025-04-02-liberation-day",
+     "why": "Tariffs used as a sanctions tool",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "Secondary tariffs on buyers of Russian oil foreshadowed the 2026 Graham act, and helped push New Delhi into the EU free-trade deal.",
+    "confidence": "possible"
+   },
+   "unplaced": "A tariff order; no site."
+  },
+  {
+   "id": "2025-08-refinery-strikes",
+   "date": "2025-08",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Ukrainian drones knock out about 17% of Russia's refining capacity",
+   "summary": "In August, strikes hit at least 10 Russian refineries, leaving record idle capacity of about 1.1–1.2 million barrels a day and causing gasoline shortages from the Far East to Crimea.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/energy/russias-idle-oil-refining-capacity-record-high-after-ukrainian-drone-attacks-2025-08-28/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/russia-gasoline-shortage-ukraine-war-2c1364fd199fa594f67ad097d6761814"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/aug/27/frustrated-russians-grapple-with-fuel-crisis-as-ukraine-attacks-oil-refineries"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia",
+    "petroleum",
+    "diesel"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-10-energy-strikes",
+     "why": "Ukraine's answer to Russia's war on its energy",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "Many refineries across Russia."
+  },
+  {
+   "id": "2025-09-02-boat-strikes-begin",
+   "date": "2025-09-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "US strikes an alleged drug boat from Venezuela, killing 11, the first of a campaign",
+   "summary": "Trump said the military killed 11 people in a strike on a vessel he said had left Venezuela and was run by Tren de Aragua, as US warships gathered in the Caribbean.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/us-military-kills-11-people-strike-alleged-drug-boat-venezuela-trump-says-2025-09-03/"
+    },
+    {
+     "name": "USNI News",
+     "url": "https://news.usni.org/2025/09/02/u-s-military-makes-precision-strike-against-suspected-drug-vessel-as-warships-gather-in-the-caribbean"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/venezuela/trump-says-us-strike-vessel-caribbean-targeted-venezuelas-tren-de-arag-rcna228709"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "venezuela",
+    "tren-de-aragua",
+    "nicolas-maduro"
+   ],
+   "storylines": [
+    "western-hemisphere",
+    "venezuela-oil"
+   ],
+   "causes": [
+    {
+     "story": "2025-02-20-cartels-fto",
+     "why": "The terrorist designation was the legal basis claimed",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "International waters of the southern Caribbean."
+  },
+  {
+   "id": "2025-09-jnim-fuel-blockade",
+   "date": "2025-09",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Africa",
+   "title": "JNIM imposes a fuel blockade on Mali, shutting schools by October",
+   "summary": "Al-Qaeda-linked JNIM began attacking fuel tankers in early September to cut supplies to landlocked Mali. Bamako was hit hardest. By Oct 27 the government had closed schools nationwide and struck a fuel deal with Russia.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/mali-army-carries-out-airstrikes-after-militants-announce-blockade-fuel-imports-2025-09-08/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/mali-jnim-fuel-blockade-schools-dc75c7ef62995c4f7a25ca4be4b4a07a"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cm2w0zpew0ko"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/news/2025/10/28/education-in-mali-shuttered-amid-islamist-armed-groups-siege"
+    }
+   ],
+   "entities": [
+    "jnim",
+    "mali",
+    "russia"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2025-06-06-wagner-leaves-mali",
+     "why": "A thinner Russian security presence",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "bamako"
+   ]
+  },
+  {
+   "id": "2025-09-09-israel-strikes-doha",
+   "date": "2025-09-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Israel strikes Hamas leaders in Doha",
+   "summary": "Israel bombed a Doha compound where Hamas officials were discussing a US ceasefire proposal. Hamas said its top leaders survived but five members were killed, and Qatar said a security officer died. Qatar called it a violation of international law.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/qatar-explosion-doha-e319dd51b170161372442831a8023db5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/israel-targets-hamas-leadership-military-strikes-qatar-officials-say-2025-09-09/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ced58zywdwno"
+    }
+   ],
+   "entities": [
+    "israel",
+    "qatar",
+    "hamas",
+    "united-states"
+   ],
+   "storylines": [
+    "gulf-realignment",
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "analysis": {
+    "text": "An Israeli strike in a US-allied Gulf capital weakened Gulf confidence in Washington's protection. Within eight days Saudi Arabia signed a defence pact with Pakistan.",
+    "confidence": "likely"
+   },
+   "where": [
+    "doha"
+   ]
+  },
+  {
+   "id": "2025-09-10-scarborough-nature-reserve",
+   "date": "2025-09-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "China declares a 'nature reserve' at Scarborough Shoal; Manila protests",
+   "summary": "China's State Council approved a Huangyan Island national nature reserve covering about 3,524 hectares of the shoal. The Philippines filed a diplomatic protest on Sep 12, calling it a pretext for occupation.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/scarborough-shoal-south-china-sea-philippines-nature-reserve-ff53daacbc170f570132339c1aca4196"
+    },
+    {
+     "name": "Manila Bulletin",
+     "url": "https://mb.com.ph/2025/09/13/strong-unequivocal-ph-files-diplomatic-protest-vs-china-over-scarborough-nature-reserve"
+    },
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/959018/ph-diplomatic-protest-china-scarborough-shoal/story/"
+    }
+   ],
+   "entities": [
+    "china",
+    "philippines",
+    "scarborough-shoal"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [],
+   "marker": "political",
+   "where": [
+    "scarborough-shoal"
+   ]
+  },
+  {
+   "id": "2025-09-11-bolsonaro-convicted",
+   "date": "2025-09-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "Brazil's Supreme Court sentences Bolsonaro to 27 years for a coup plot",
+   "summary": "A panel of the court convicted Jair Bolsonaro 4–1 of plotting to overturn the 2022 election and sentenced him to 27 years and three months. He began serving the sentence in November.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/brazil-bolsonaro-supreme-court-trial-coup-attempt-f95765c36dbbdc3355ad3af0b70eacf6"
+    },
+    {
+     "name": "Brazil Supreme Court (STF)",
+     "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/brazils-bolsonaro-sentenced-27-years-after-landmark-coup-plot-conviction-2025-09-12/"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "jair-bolsonaro",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-30-lula",
+     "why": "Stems from the attempt to reverse Lula's 2022 win",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "With the father barred and jailed, the right rallied behind his son Flávio, who led the 2026 first round.",
+    "confidence": "likely"
+   },
+   "unplaced": "A court ruling; Brasília has no place entity."
+  },
+  {
+   "id": "2025-09-17-saudi-pakistan-pact",
+   "date": "2025-09-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Saudi Arabia and nuclear-armed Pakistan sign a mutual defence pact",
+   "summary": "Mohammed bin Salman and Shehbaz Sharif signed the Strategic Mutual Defence Agreement in Riyadh, under which aggression against one is aggression against both. AP noted it came days after Israel's strike in Qatar.",
+   "sources": [
+    {
+     "name": "Pakistan Foreign Ministry",
+     "url": "https://mofa.gov.pk/press-releases/joint-statement-on-the-state-visit-of-prime-minister-of-the-islamic-republic-of-pakistan-muhammad-shehbaz-sharif-to-the-kingdom-of-saudi-arabia"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-nuclear-armed-pakistan-sign-mutual-defence-pact-2025-09-17/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/pakistan-saudi-arabia-defense-agreement-israel-c2b5a57072eefed21041d39cb49f598e"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "pakistan",
+    "mohammed-bin-salman"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2025-09-09-israel-strikes-doha",
+     "why": "Gulf doubts over US protection",
+     "confidence": "likely"
+    },
+    {
+     "story": "2025-05-07-operation-sindoor",
+     "why": "Pakistan's military stock was rising",
+     "confidence": "speculative"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2025-09-28-iran-snapback",
+   "date": "2025-09-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "UN sanctions on Iran snap back",
+   "summary": "UN sanctions lifted under the 2015 nuclear deal were reimposed on Sep 28 at 00:00 GMT, a month after France, Germany and the UK triggered the snapback, once the Security Council failed to extend relief. The EU reimposed its own measures the next day.",
+   "sources": [
+    {
+     "name": "UN Secretary-General",
+     "url": "https://www.un.org/sg/en/content/sg/notes-correspondents/2025-09-28/note-correspondents-re-application-of-resolutions-1696-%282006%29-1737-%282006%29-1747-%282007%29-1803-%282008%29-1835-%282008%29-and-1929-%282010%29-concerning-the-islamic"
+    },
+    {
+     "name": "E3 statement (GOV.UK)",
+     "url": "https://www.gov.uk/government/news/e3-joint-statement-on-iran-activation-of-the-snapback"
+    },
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/09/29/iran-sanctions-snapback-council-reimposes-restrictive-measures/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/snapback-sends-west-back-drawing-board-irans-nuclear-programme-2025-09-27/"
+    }
+   ],
+   "entities": [
+    "iran",
+    "jcpoa",
+    "united-kingdom",
+    "france",
+    "germany",
+    "european-union"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2025-06-22-midnight-hammer",
+     "why": "Iran curbed IAEA access after the strikes",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-09-jcpoa-stall",
+     "why": "The deal never revived",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A UN legal step; no site."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "china-minerals-leverage",
+   "name": "China rare-earth / tech leverage",
+   "entities": [
+    "china",
+    "rare-earths",
+    "gallium",
+    "mp-materials",
+    "japan",
+    "european-union"
+   ],
+   "stories": [
+    "2025-07-10-mp-materials-dod"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2025-07-10-mp-materials-dod"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2025-07-27-eu-us-turnberry",
+    "2025-08-27-india-50pct-tariff"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2025-07-27-eu-us-turnberry"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2025-08-05-lebanon-disarm-hezbollah",
+    "2025-08-22-gaza-famine",
+    "2025-09-09-israel-strikes-doha"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2025-08-05-lebanon-disarm-hezbollah"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2025-08-15-alaska-summit",
+    "2025-08-27-india-50pct-tariff",
+    "2025-08-refinery-strikes"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2025-08-refinery-strikes"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2025-09-02-boat-strikes-begin",
+    "2025-09-11-bolsonaro-convicted"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2025-09-02-boat-strikes-begin"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2025-09-jnim-fuel-blockade"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2025-09-09-israel-strikes-doha",
+    "2025-09-17-saudi-pakistan-pact"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2025-09-10-scarborough-nature-reserve"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2025-09-28-iran-snapback"
+   ]
+  }
+ ]
+}
