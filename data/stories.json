@@ -1490,7 +1490,8 @@
   "related_stories": [
    "2022-06-14-msp",
    "rare-earth-nov10",
-   "2026-05-22-china-japan-rare-earths"
+   "2026-05-22-china-japan-rare-earths",
+   "2025-04-04-china-rare-earth-controls"
   ]
  },
  {
@@ -1544,7 +1545,8 @@
    "2022-05-16-mali-g5",
    "2022-09-30-burkina-coup2",
    "kidal",
-   "2026-04-25-mali-offensive"
+   "2026-04-25-mali-offensive",
+   "2025-06-06-wagner-leaves-mali"
   ],
   "marker": "military",
   "unplaced": "The summary names Mali, not a town."
@@ -3873,7 +3875,8 @@
   "related_stories": [
    "2022-02-04-no-limits",
    "2022-05-18-finland-sweden",
-   "2026-07-08-nato-ankara"
+   "2026-07-08-nato-ankara",
+   "2025-06-25-nato-hague-5pct"
   ]
  },
  {
@@ -4198,7 +4201,8 @@
    "2022-08-31-nvidia-ban",
    "pla-drills",
    "rare-earth-nov10",
-   "2025-12-29-justice-mission-drills"
+   "2025-12-29-justice-mission-drills",
+   "2025-04-02-strait-thunder"
   ],
   "marker": "military",
   "unplaced": "The drills were zones around Taiwan, not one point."
@@ -4744,7 +4748,8 @@
    "2021-11-29-jcpoa-vienna",
    "2022-09-16-mahsa-amini",
    "us-iran-talks-deadlock",
-   "2026-02-28-iran-war-begins"
+   "2026-02-28-iran-war-begins",
+   "2025-06-13-israel-strikes-iran"
   ]
  },
  {
@@ -4998,7 +5003,8 @@
    "2022-04-02-yemen-truce",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
-   "2026-07-20-houthi-saudi-blockade"
+   "2026-07-20-houthi-saudi-blockade",
+   "2025-05-06-us-houthi-truce"
   ],
   "marker": "diplomacy",
   "unplaced": "The truce covered Yemen. The summary names no town."
@@ -5056,7 +5062,8 @@
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "venezuela-oil",
-   "2026-04-28-uae-quits-opec"
+   "2026-04-28-uae-quits-opec",
+   "2025-05-03-opec-plus-hikes"
   ]
  },
  {
@@ -11631,7 +11638,8 @@
    "trump-disgrace-eu-summit",
    "starshield-curbs-white-house",
    "trump-waives-russia-sanctions",
-   "2026-09-22-zelensky-trump-unga"
+   "2026-09-22-zelensky-trump-unga",
+   "2025-04-30-us-ukraine-minerals-deal"
   ]
  },
  {
@@ -11776,7 +11784,8 @@
   "marker": "political",
   "unplaced": "A Bundestag vote; Berlin has no place entity yet.",
   "related_stories": [
-   "2025-02-28-oval-office-clash"
+   "2025-02-28-oval-office-clash",
+   "2025-06-25-nato-hague-5pct"
   ]
  },
  {
@@ -11889,6 +11898,718 @@
   "related_stories": [
    "2026-09-23-tplf-offensive",
    "2026-10-09-ethiopia-eritrea-accusations"
+  ]
+ },
+ {
+  "id": "2025-04-02-liberation-day",
+  "date": "2025-04-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Americas",
+  "title": "'Liberation Day': Trump invokes IEEPA for a 10% global tariff and higher 'reciprocal' rates",
+  "summary": "Executive Order 14257 declared trade deficits a national emergency under IEEPA. It imposed a 10% tariff on all countries from Apr 5 and higher country-specific rates from Apr 9, adding to the earlier IEEPA 'fentanyl' tariffs on Canada, Mexico and China.",
+  "sources": [
+   {
+    "name": "White House (EO 14257)",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/"
+   },
+   {
+    "name": "White House fact sheet",
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-unveils-global-reciprocal-tariffs-2025-04-02/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump",
+   "china",
+   "european-union",
+   "india"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "Basing the tariffs on emergency powers rather than trade statutes made them fast to impose but exposed them in court. That is the weakness the Supreme Court ruled on in Feb 2026.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2025-04-04-china-rare-earth-controls",
+   "rare-earth-nov10",
+   "2022-05-23-ipef",
+   "2022-06-14-msp",
+   "trump-disgrace-eu-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "eu-china-rare-earth-green-channel",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-01-21-greenland-davos",
+   "2026-02-20-scotus-ieepa",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-18-graham-act-signed"
+  ]
+ },
+ {
+  "id": "2025-04-02-strait-thunder",
+  "date": "2025-04-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Asia-Pacific",
+  "title": "PLA's 'Strait Thunder-2025A' rehearses a blockade of Taiwan",
+  "summary": "China's Eastern Theater Command drilled interception, 'regional control' and joint blockade in the Taiwan Strait, with live-fire strikes on simulated ports and energy facilities. Taiwan counted 59 aircraft and 23 warships.",
+  "sources": [
+   {
+    "name": "China Ministry of National Defense",
+    "url": "http://eng.mod.gov.cn/xb/News_213114/TopStories/16378460.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/taiwan-says-59-chinese-warplanes-23-warships-detected-around-island-2025-04-03/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c24q5pg8m07o"
+   }
+  ],
+  "entities": [
+   "china",
+   "pla",
+   "taiwan"
+  ],
+  "causes": [
+   {
+    "story": "2022-08-04-pla-drills",
+    "why": "Builds on the 2022 encirclement template",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Drill zones in the Taiwan Strait; no single site.",
+  "related_stories": [
+   "2022-08-04-pla-drills",
+   "pla-drills",
+   "pla-patrol-oct14-15",
+   "pla-patrol-oct15-16",
+   "dongsha-coast-guard-incursion",
+   "2025-12-29-justice-mission-drills"
+  ]
+ },
+ {
+  "id": "2025-04-04-china-rare-earth-controls",
+  "date": "2025-04-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Asia-Pacific",
+  "title": "China retaliates against US tariffs with licences for seven rare earths and magnets",
+  "summary": "China imposed export licences on samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium and on related magnets. Shipments stalled, and by June some European and US auto plants had cut output.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china-hits-back-us-tariffs-with-rare-earth-export-controls-2025-04-04/"
+   },
+   {
+    "name": "Reuters (exports halt)",
+    "url": "https://www.reuters.com/markets/commodities/chinas-rare-earth-exports-grind-halt-trade-war-controls-bite-2025-04-11/"
+   },
+   {
+    "name": "Reuters (autos)",
+    "url": "https://www.reuters.com/business/autos-transportation/some-european-auto-supplier-plants-shut-down-after-chinas-rare-earth-curbs-2025-06-04/"
+   }
+  ],
+  "entities": [
+   "china",
+   "rare-earths",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "Retaliation for the tariffs",
+    "confidence": "likely"
+   },
+   {
+    "story": "2021-12-china-rare-earth-group",
+    "why": "State consolidation made licensing a usable weapon",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "china-minerals-leverage",
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "An export regime; no site.",
+  "related_stories": [
+   "2025-04-02-liberation-day",
+   "2021-12-china-rare-earth-group",
+   "rare-earth-nov10",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "pla-patrol-oct14-15",
+   "eu-china-rare-earth-green-channel",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce"
+  ]
+ },
+ {
+  "id": "2025-04-30-us-ukraine-minerals-deal",
+  "date": "2025-04-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Russia/Eurasia",
+  "title": "US and Ukraine sign the minerals deal setting up a joint reconstruction investment fund",
+  "summary": "Two months after the Oval Office blow-up, the two governments signed an agreement creating the US-Ukraine Reconstruction Investment Fund. Ukraine contributes 50% of revenue from new mineral, oil and gas licences. It entered into force on May 23.",
+  "sources": [
+   {
+    "name": "US Treasury",
+    "url": "https://home.treasury.gov/news/press-releases/sb0126"
+   },
+   {
+    "name": "Ukraine Ministry of Economy",
+    "url": "https://me.gov.ua/News/Detail/91af98f8-9ae6-49ba-99ae-adb847fe493a?lang=en-GB&title=UkraineAndTheUnitedStatesSignEconomicPartnershipAgreem"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/breaking-ground-us-ukraine-mineral-deal-ratified-ukraine-paving-way-2025-05-22/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "ukraine",
+   "rare-earths"
+  ],
+  "causes": [
+   {
+    "story": "2025-02-28-oval-office-clash",
+    "why": "Repaired the Feb rupture",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "russia-ukraine",
+   "ai-compute-minerals"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Signing location not stated in the sources used.",
+  "related_stories": [
+   "2025-02-28-oval-office-clash"
+  ]
+ },
+ {
+  "id": "2025-05-01-reform-local-elections",
+  "date": "2025-05-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Europe",
+  "title": "Reform UK wins 677 council seats and takes Runcorn by six votes",
+  "summary": "In England's local elections Reform UK won 677 seats and control of about 10 councils. It also took Runcorn and Helsby from Labour by six votes after a recount.",
+  "sources": [
+   {
+    "name": "House of Commons Library",
+    "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10272/"
+   },
+   {
+    "name": "BBC (maps)",
+    "url": "https://www.bbc.com/news/articles/cd925jk27k0o"
+   },
+   {
+    "name": "BBC (Runcorn)",
+    "url": "https://www.bbc.co.uk/news/articles/c5y6v02vv6wo"
+   }
+  ],
+  "entities": [
+   "reform-uk",
+   "united-kingdom",
+   "keir-starmer"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "Local elections across England.",
+  "related_stories": [
+   "2026-06-22-starmer-resigns"
+  ]
+ },
+ {
+  "id": "2025-05-03-opec-plus-hikes",
+  "date": "2025-05-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Middle East",
+  "title": "OPEC+ speeds up the unwinding of cuts with a 411,000 bpd hike",
+  "summary": "Eight OPEC+ producers agreed a second triple-sized monthly increase of 411,000 barrels a day, accelerating the unwinding of 2.2 million bpd of voluntary cuts. Reuters called it a sign of fading discipline. CRS records Brent at $60.85 on Jan 1, 2026.",
+  "sources": [
+   {
+    "name": "OPEC",
+    "url": "https://www.opec.org/pr-detail/563-03-may-2025.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/energy/opec-set-make-another-accelerated-oil-output-hike-june-sources-say-2025-05-03/"
+   },
+   {
+    "name": "Reuters (Bousso)",
+    "url": "https://www.reuters.com/business/energy/opec-surprise-output-hikes-highlight-fading-discipline-bousso-2025-04-04/"
+   },
+   {
+    "name": "Congressional Research Service (Brent series)",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "opec-plus",
+   "saudi-arabia",
+   "uae",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-05-opec-cut",
+    "why": "Reverses the cuts of the 2022–23 era",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "The fight for market share inside OPEC+ is an early form of the Saudi–UAE rift that ended in the UAE's 2026 exit.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "global-oil",
+   "gulf-realignment"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "energy",
+  "unplaced": "A virtual ministerial decision.",
+  "related_stories": [
+   "2022-10-05-opec-cut",
+   "2026-04-28-uae-quits-opec"
+  ]
+ },
+ {
+  "id": "2025-05-06-us-houthi-truce",
+  "date": "2025-05-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Middle East",
+  "title": "Oman brokers a US–Houthi truce: US bombing stops, but Israel stays a target",
+  "summary": "Oman said the US and the Houthis agreed not to target each other, including US ships in the Red Sea and Bab el-Mandeb. Trump said the bombing campaign would stop. The Houthis said attacks on Israel would continue.",
+  "sources": [
+   {
+    "name": "Oman Foreign Ministry",
+    "url": "https://www.fm.gov.om/en/24568/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-us-will-stop-bombing-houthis-after-agreement-struck-2025-05-06/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/5/6/trump-says-bombing-of-yemen-to-stop-as-oman-confirms-us-houthi-ceasefire"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "houthis",
+   "oman",
+   "israel",
+   "red-sea"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-02-truce-expires",
+    "why": "The Yemen front stayed unsettled after 2022",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "A deal that protects only US ships leaves the Houthis free to pick other targets: Israel in 2025, and Saudi shipping from July 2026.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "yemen-houthis-saudi",
+   "iran-proxy-network"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Agreement announced in Muscat; no place entity.",
+  "related_stories": [
+   "2022-10-02-truce-expires",
+   "houthis-hit-aramco"
+  ]
+ },
+ {
+  "id": "2025-05-07-operation-sindoor",
+  "date": "2025-05-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Asia-Pacific",
+  "title": "India's Operation Sindoor strikes Pakistan; a ceasefire follows four days later",
+  "summary": "After the Apr 22 Pahalgam attack, India struck nine sites it called terrorist infrastructure in Pakistan and Pakistan-administered Kashmir. Four days of missile, drone and artillery exchanges followed until the military chiefs agreed to stop on May 10.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/what-happened-indias-attack-pakistan-over-kashmir-tourists-killings-2025-05-07/"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/IF13000"
+   },
+   {
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com/specials/four-days-in-may-how-operation-sindoor-evolved/index.html"
+   },
+   {
+    "name": "India PIB",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128747&lang=2&reg=3"
+   }
+  ],
+  "entities": [
+   "india",
+   "pakistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "Pakistan came out of the clash with more standing in Washington and the Gulf, which fed its 2025–26 roles as Saudi defence partner and US–Iran mediator.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "strike",
+  "unplaced": "Strikes on several sites in Pakistan and Pakistan-administered Kashmir.",
+  "related_stories": []
+ },
+ {
+  "id": "2025-05-13-trump-lifts-syria-sanctions",
+  "date": "2025-05-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Middle East",
+  "title": "In Riyadh, Trump says he will lift Syria sanctions, then meets al-Sharaa",
+  "summary": "During his Gulf visit Trump announced he would lift US sanctions on Syria, citing Mohammed bin Salman and Erdoğan, and briefly met interim President Ahmed al-Sharaa the next day.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-will-remove-us-sanctions-syria-2025-05-13/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/trump-syria-saudi-arabia-sharaa-assad-sanctions-bb208f25cfedecd6446fd1626012c0fb"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2025/05/13/politics/syria-sanctions-lift-trump"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "syria",
+   "ahmed-al-sharaa",
+   "saudi-arabia",
+   "mohammed-bin-salman",
+   "turkey"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "levant-wars",
+   "gulf-realignment"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2022-07-15-biden-saudi",
+   "2026-08-20-sdf-integration"
+  ]
+ },
+ {
+  "id": "2025-06-06-wagner-leaves-mali",
+  "date": "2025-06-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Africa",
+  "title": "Wagner leaves Mali and the state-run Africa Corps takes over",
+  "summary": "Wagner said it was leaving Mali after about three and a half years. Russia's defence-ministry-controlled Africa Corps said it would stay, with Crisis Group describing a shift toward training and protection roles.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/russias-wagner-mercenary-group-says-it-is-leaving-mali-after-mission-2025-06-06/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/mali-wagner-russia-withdraws-b29349be737cbc14dfc435b3536711eb"
+   },
+   {
+    "name": "International Crisis Group",
+    "url": "https://www.crisisgroup.org/alr/africa/sahel/mali-russia-internal/mali-and-russia-restructure-their-security-partnership-what-end"
+   }
+  ],
+  "entities": [
+   "wagner-group",
+   "africa-corps",
+   "mali",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2021-12-wagner-mali",
+    "why": "Ends the deployment that began in 2021",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "A smaller, less combat-focused Russian force left Bamako's junta more exposed, as the April 2026 offensive showed.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Country-wide withdrawal.",
+  "related_stories": [
+   "2021-12-wagner-mali",
+   "kidal",
+   "2026-04-25-mali-offensive"
+  ]
+ },
+ {
+  "id": "2025-06-13-israel-strikes-iran",
+  "date": "2025-06-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Middle East",
+  "title": "Israel's 'Rising Lion' strikes Iran's nuclear sites and kills its top commanders",
+  "summary": "About 200 Israeli aircraft hit more than 100 targets, including Natanz, and killed armed forces chief Bagheri, IRGC commander Salami and senior nuclear scientists. Iran retaliated with drones and missiles, starting a 12-day war.",
+  "sources": [
+   {
+    "name": "IDF briefing",
+    "url": "https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-bg-effie-defrin/june-25-press-briefings/press-briefing-by-idf-spokesperson-bg-effie-defrin-june-13-2025/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/iran-explosions-israel-tehran-00234a06e5128a8aceb406b140297299"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iranian-commanders-nuclear-scientists-killed-israeli-strikes-2025-06-13/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c2lk5j18k4vo"
+   }
+  ],
+  "entities": [
+   "israel",
+   "iran",
+   "irgc",
+   "benjamin-netanyahu"
+  ],
+  "causes": [
+   {
+    "story": "2022-09-jcpoa-stall",
+    "why": "The collapse of nuclear diplomacy",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "strike",
+  "where": [
+   "tehran",
+   "natanz"
+  ],
+  "related_stories": [
+   "2022-09-jcpoa-stall",
+   "2025-06-22-midnight-hammer",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins"
+  ]
+ },
+ {
+  "id": "2025-06-22-midnight-hammer",
+  "date": "2025-06-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Middle East",
+  "title": "Operation Midnight Hammer: US bombs Fordow, Natanz and Isfahan; ceasefire on Jun 24",
+  "summary": "Seven B-2 bombers dropped 14 GBU-57 bunker-busters on Fordow and Natanz, and a submarine fired Tomahawks at Isfahan. US officials claimed severe damage. Trump announced a US- and Qatar-brokered Israel–Iran ceasefire on Jun 24, ending the 12-day war.",
+  "sources": [
+   {
+    "name": "US Department of War",
+    "url": "https://www.war.gov/News/Releases/Release/Article/4222543/secretary-of-defense-pete-hegseth-and-chairman-of-the-joint-chiefs-of-staff-gen/"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12571/IN12571.1.pdf"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cvg9r4q99g4o"
+   },
+   {
+    "name": "AP (ceasefire)",
+    "url": "https://apnews.com/article/trump-iran-israel-ceasefire-agreement-terms-b5fc5cc8a8c32b4899646130b496798a"
+   },
+   {
+    "name": "BBC (ceasefire)",
+    "url": "https://www.bbc.com/news/articles/czjk3kxr3zno"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iran",
+   "israel",
+   "qatar",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-06-13-israel-strikes-iran",
+    "why": "The US joined Israel's war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "analysis": {
+   "text": "The war set the precedent of direct US strikes on Iran and showed the regime could survive them. Eight months later Washington and Israel went further and targeted the leadership itself.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "strike",
+  "where": [
+   "fordow",
+   "natanz"
+  ],
+  "related_stories": [
+   "2025-06-13-israel-strikes-iran",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "2022-03-27-negev-summit",
+   "gfs-pride-sunk",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-06-17-islamabad-mou",
+   "2026-08-17-mou-expires",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan"
+  ]
+ },
+ {
+  "id": "2025-06-25-nato-hague-5pct",
+  "date": "2025-06-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-06-30",
+  "region": "Europe",
+  "title": "NATO's Hague summit commits allies to 5% of GDP on defence by 2035",
+  "summary": "Allies pledged to spend 5% of GDP a year by 2035: at least 3.5% on core defence and up to 1.5% on resilience, infrastructure and the defence industrial base, with a review in 2029.",
+  "sources": [
+   {
+    "name": "NATO (Hague declaration)",
+    "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration"
+   },
+   {
+    "name": "NATO (5% explainer)",
+    "url": "https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment"
+   }
+  ],
+  "entities": [
+   "nato",
+   "united-states",
+   "european-union",
+   "germany"
+  ],
+  "causes": [
+   {
+    "story": "2025-03-18-germany-debt-brake",
+    "why": "Germany's fiscal room made the target reachable",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-06-29-madrid",
+    "why": "Funds the threat assessment adopted at Madrid",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-06-30",
+  "storylines": [
+   "transatlantic-rift",
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "the-hague"
+  ],
+  "related_stories": [
+   "2025-03-18-germany-debt-brake",
+   "2022-06-29-madrid",
+   "trump-disgrace-eu-summit",
+   "2026-01-21-greenland-davos"
   ]
  }
 ]
