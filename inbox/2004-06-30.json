@@ -1,0 +1,362 @@
+{
+ "edition": "2004-06-30",
+ "stories": [
+  {
+   "id": "2004-04-04-first-battle-of-fallujah",
+   "date": "2004-04-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "US Marines assault Fallujah after the killing of four contractors",
+   "summary": "The siege was called off, leaving the city to insurgents.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_Battle_of_Fallujah"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "fallujah"
+   ]
+  },
+  {
+   "id": "2004-04-04-sadr-uprising",
+   "date": "2004-04-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "Muqtada al-Sadr's Mahdi Army rises against the occupation",
+   "summary": "Fighting around Najaf peaked in August.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Najaf_%282004%29"
+    }
+   ],
+   "entities": [
+    "muqtada-al-sadr",
+    "iraq",
+    "united-states"
+   ],
+   "storylines": [
+    "iraq-war",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "where": [
+    "najaf"
+   ]
+  },
+  {
+   "id": "2004-04-28-abu-ghraib",
+   "date": "2004-04-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "Photos of US abuse of prisoners at Abu Ghraib are published",
+   "summary": "The scandal became a recruiting tool for jihadists.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war",
+    "war-on-terror"
+   ],
+   "marker": "political",
+   "where": [
+    "abu-ghraib"
+   ]
+  },
+  {
+   "id": "2004-05-01-eu-enlargement",
+   "date": "2004-05-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Europe",
+   "title": "Ten countries, mostly ex-communist, join the EU",
+   "summary": "It was the EU's largest enlargement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_enlargement_of_the_European_Union"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "poland",
+    "estonia",
+    "czech-republic",
+    "hungary",
+    "cyprus"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2004-05-13-india-manmohan-singh",
+   "date": "2004-05-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "Congress wins India's election; Manmohan Singh becomes prime minister",
+   "summary": "He went on to sign the US nuclear deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Indian_general_election"
+    }
+   ],
+   "entities": [
+    "india",
+    "manmohan-singh"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "new-delhi"
+   ]
+  },
+  {
+   "id": "2004-05-29-khobar-massacre",
+   "date": "2004-05-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "Al-Qaeda gunmen kill 22 in Khobar, Saudi Arabia",
+   "summary": "It was part of al-Qaeda's campaign in the kingdom that led to the founding of AQAP.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Khobar_massacre"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "khobar"
+   ]
+  },
+  {
+   "id": "2004-06-18-yemen-houthi-war-begins",
+   "date": "2004-06-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "Yemen's army fights Hussein al-Houthi's movement in Saada",
+   "summary": "Hussein al-Houthi was killed in September; his movement took his name and fought six rounds of war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hussein_Badreddin_al-Houthi"
+    }
+   ],
+   "entities": [
+    "yemen",
+    "houthis",
+    "ali-abdullah-saleh"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "military",
+   "where": [
+    "saada"
+   ]
+  },
+  {
+   "id": "2004-06-28-iraq-sovereignty-handover",
+   "date": "2004-06-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "US hands sovereignty to Iraq's interim government",
+   "summary": "Ayad Allawi led the government as the insurgency grew.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iraqi_Interim_Government"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "united-states"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2004-05-09-kadyrov-assassinated",
+   "date": "2004-05-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Russia/Eurasia",
+   "title": "Chechnya's pro-Moscow president Akhmad Kadyrov is killed by a bomb",
+   "summary": "His son Ramzan later took over and ruled with Putin's backing.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Akhmad_Kadyrov"
+    }
+   ],
+   "entities": [
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "grozny"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2004-04-04-first-battle-of-fallujah",
+    "2004-04-04-sadr-uprising",
+    "2004-04-28-abu-ghraib",
+    "2004-06-28-iraq-sovereignty-handover"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2004-04-04-sadr-uprising"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2004-04-28-abu-ghraib",
+    "2004-05-29-khobar-massacre"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2004-05-01-eu-enlargement"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2004-05-13-india-manmohan-singh"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2004-06-18-yemen-houthi-war-begins"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2004-05-09-kadyrov-assassinated"
+   ]
+  }
+ ]
+}
