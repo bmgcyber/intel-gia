@@ -6707,6 +6707,389 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2025-03-31": {
+   "sha256": "9796f30f7ebcba5638c4e91dd1828863ddb69639162f84c357a2c443a8f3e0e9",
+   "undo": {
+    "stories": {
+     "2025-01-07-trump-greenland-panama": null,
+     "2025-01-19-gaza-ceasefire": null,
+     "2025-01-27-m23-takes-goma": null,
+     "2025-01-27-deepseek-shock": null,
+     "2025-02-20-cartels-fto": null,
+     "2025-02-28-oval-office-clash": null,
+     "2025-03-10-sdf-damascus-deal": null,
+     "2025-03-18-gaza-war-resumes": null,
+     "2025-03-18-germany-debt-brake": null,
+     "2025-03-21-khartoum-retaken": null,
+     "2025-03-tplf-split": null,
+     "2022-06-13-bunagana": {
+      "id": "2022-06-13-bunagana",
+      "date": "2022-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "M23 seizes Bunagana on DRC–Uganda border",
+      "summary": "M23 rebels, whose 2022 resurgence Kinshasa blames on Rwanda, captured the border town of Bunagana.",
+      "sources": [
+       {
+        "name": "Wikipedia: M23 campaign (2022–present)",
+        "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022–present)"
+       }
+      ],
+      "entities": [
+       "m23",
+       "drc",
+       "rwanda",
+       "bunagana"
+      ],
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kabila-m23",
+        "why": "M23's 2022 resurgence began today's war",
+        "confidence": "likely"
+       },
+       {
+        "story": "rubaya-coltan",
+        "why": "M23 territorial expansion since 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "2026-01-19-m23-leaves-uvira"
+      ]
+     },
+     "2022-10-07-bis-controls": {
+      "id": "2022-10-07-bis-controls",
+      "date": "2022-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US imposes sweeping chip export controls on China",
+      "summary": "The Commerce Department restricted exports of advanced AI chips, chipmaking tools and US-person support to Chinese fabs.",
+      "sources": [
+       {
+        "name": "Wikipedia: United States New Export Controls on Advanced Computing and Semiconductors to China",
+        "url": "https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "semiconductors",
+       "nvidia",
+       "ai-data-centers"
+      ],
+      "storylines": [
+       "ai-compute-minerals",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Licence letter formalised into rules",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-09-chips-act",
+        "why": "Paired industrial and denial strategy",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "rare-earth-nov10",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "ai-minerals",
+        "why": "AI compute became a strategic commodity",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "ai-minerals",
+       "rare-earth-nov10",
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-14-trump-xi-beijing"
+      ],
+      "marker": "political",
+      "unplaced": "An export-control rule. The summary names no place."
+     },
+     "2021-10-25-sudan-coup": {
+      "id": "2021-10-25-sudan-coup",
+      "date": "2021-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Sudan's military seizes power from transitional government",
+      "summary": "Gen. Abdel Fattah al-Burhan dissolved the civilian-military transitional government and detained Prime Minister Abdalla Hamdok.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021 Sudan coup d'état",
+        "url": "https://en.wikipedia.org/wiki/2021_Sudan_coup_d'état"
+       }
+      ],
+      "entities": [
+       "sudan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2026-02-03-kadugli-siege-broken"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line"
+      ],
+      "source": "inbox"
+     },
+     "drc-m23-minerals": {
+      "id": "drc-m23-minerals",
+      "name": "DRC / M23 minerals war",
+      "entities": [
+       "drc",
+       "m23",
+       "rwanda",
+       "joseph-kabila",
+       "rubaya",
+       "coltan"
+      ],
+      "stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "ai-minerals",
+       "2022-06-13-bunagana",
+       "kabila-frn-succeeds-afc"
+      ],
+      "source": "threads.md"
+     },
+     "ai-compute-minerals": {
+      "id": "ai-compute-minerals",
+      "name": "AI compute → critical minerals",
+      "entities": [
+       "ai-data-centers",
+       "copper",
+       "gallium",
+       "rare-earths",
+       "coltan"
+      ],
+      "stories": [
+       "ai-minerals",
+       "rare-earth-nov10",
+       "rubaya-coltan",
+       "2022-03-08-lme-nickel",
+       "2022-04-19-mexico-lithium",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "kabila-frn-succeeds-afc"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "anchorage",
+     "antananarivo",
+     "australia",
+     "benjamin-netanyahu",
+     "busan",
+     "damascus",
+     "deepseek",
+     "doha",
+     "el-fasher",
+     "fordow",
+     "friedrich-merz",
+     "gaza-city",
+     "jair-bolsonaro",
+     "jose-antonio-kast",
+     "khartoum",
+     "lukoil",
+     "madagascar",
+     "mar-a-lago",
+     "maria-corina-machado",
+     "meta",
+     "mukalla",
+     "natanz",
+     "oman",
+     "qatar",
+     "rosneft",
+     "sharm-el-sheikh",
+     "the-hague",
+     "tren-de-aragua",
+     "washington-dc"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
