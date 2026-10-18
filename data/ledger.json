@@ -71000,6 +71000,168 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2011-06-30": {
+   "sha256": "843cc923060d8ce1629edcf28f4bfbaa8dec977fa917ba18e159f0ec4c3bb264",
+   "undo": {
+    "stories": {
+     "2011-04-05-hazare-hunger-strike": null,
+     "2011-04-11-gbagbo-captured": null,
+     "2011-05-02-bin-laden-killed": null,
+     "2011-05-30-germany-nuclear-exit": null,
+     "2011-03-11-fukushima-meltdown": {
+      "id": "2011-03-11-fukushima-meltdown",
+      "date": "2011-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Asia-Pacific",
+      "title": "Tsunami causes triple meltdown at Fukushima Daiichi",
+      "summary": "The worst nuclear accident since Chernobyl shut Japan's reactors and led Germany to abandon nuclear power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/24/japan-nuclear-plant-workers-hospital"
+       }
+      ],
+      "entities": [
+       "japan",
+       "tepco"
+      ],
+      "causes": [
+       {
+        "story": "2011-03-11-tohoku-earthquake",
+        "why": "Tsunami knocked out cooling",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "energy",
+      "where": [
+       "fukushima-daiichi"
+      ],
+      "related_stories": [
+       "2011-03-11-tohoku-earthquake"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins"
+      ],
+      "source": "inbox"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul",
+       "2021-08-26-kabul-airport-bombing",
+       "2019-09-07-camp-david-cancelled",
+       "2016-05-21-mansour-killed",
+       "2015-07-29-mullah-omar-death-revealed",
+       "2015-09-28-taliban-take-kunduz",
+       "2014-06-15-zarb-e-azb",
+       "2014-09-29-ghani-inaugurated",
+       "2014-12-16-peshawar-school-massacre",
+       "2014-12-28-isaf-ends",
+       "2013-05-11-sharif-wins",
+       "2012-10-09-malala-shot"
+      ],
+      "source": "inbox"
+     },
+     "europe-cost-of-living": {
+      "id": "europe-cost-of-living",
+      "name": "Europe: energy shock, cost of living & the populist surge",
+      "entities": [
+       "france",
+       "european-union",
+       "inflation"
+      ],
+      "stories": [
+       "france-cost-of-living-riots",
+       "2020-07-21-ngeu",
+       "2021-10-europe-gas-crunch",
+       "2022-08-eu-gas-record",
+       "2022-09-23-uk-mini-budget",
+       "2022-10-25-sunak-pm"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
