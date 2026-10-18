@@ -1,0 +1,363 @@
+{
+ "edition": "2011-09-30",
+ "stories": [
+  {
+   "id": "2011-07-03-yingluck-wins",
+   "date": "2011-07-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Yingluck Shinawatra wins Thailand's election, becoming its first woman PM",
+   "summary": "Her brother Thaksin's camp returned to power; the army removed her government in 2014.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Thai_general_election"
+    }
+   ],
+   "entities": [
+    "thailand",
+    "yingluck-shinawatra"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2011-07-09-south-sudan-independence",
+   "date": "2011-07-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "South Sudan becomes the world's newest country",
+   "summary": "It took most of Sudan's oil, but its pipelines ran north.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/South_Sudan"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2011/07/381552"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "sudan",
+    "salva-kiir"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [
+    {
+     "story": "2011-01-09-south-sudan-referendum",
+     "why": "Vote for secession",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "juba"
+   ]
+  },
+  {
+   "id": "2011-07-20-somalia-famine",
+   "date": "2011-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "UN declares famine in southern Somalia",
+   "summary": "The worst drought in 60 years hit 9.5 million people in East Africa; al-Shabaab blocked aid.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_East_Africa_drought"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/global-development/2011/jul/20/un-declares-famine-somalia"
+    }
+   ],
+   "entities": [
+    "somalia",
+    "al-shabaab"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "unplaced": "Southern Somalia."
+  },
+  {
+   "id": "2011-07-22-norway-attacks",
+   "date": "2011-07-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Europe",
+   "title": "Far-right extremist Anders Breivik kills 77 in Oslo and on Utøya",
+   "summary": "Most victims were at a Labour Party youth camp.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Norway_attacks"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/jul/23/utoya-mass-murder-anders-behring-breivik"
+    }
+   ],
+   "entities": [
+    "norway"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "strike",
+   "where": [
+    "utoya"
+   ]
+  },
+  {
+   "id": "2011-07-29-fsa-formed",
+   "date": "2011-07-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Defecting officers form the Free Syrian Army",
+   "summary": "The uprising began to turn into an armed insurgency.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Free_Syrian_Army"
+    }
+   ],
+   "entities": [
+    "free-syrian-army",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2011-03-15-syria-uprising",
+     "why": "Repression drove defections",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Announced by video."
+  },
+  {
+   "id": "2011-08-05-us-downgrade",
+   "date": "2011-08-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Americas",
+   "title": "S&P strips the US of its AAA rating after the debt-ceiling fight",
+   "summary": "It was the first downgrade of US government debt in history.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_United_States_debt-ceiling_crisis"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2011-08-20-fall-of-tripoli",
+   "date": "2011-08-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Rebels seize Tripoli as Gaddafi's regime collapses",
+   "summary": "An uprising inside the city linked up with rebel forces backed by NATO air power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Tripoli_%282011%29"
+    }
+   ],
+   "entities": [
+    "libya",
+    "muammar-gaddafi",
+    "nato"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2011-03-19-libya-intervention",
+     "why": "NATO air support",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "tripoli"
+   ]
+  },
+  {
+   "id": "2011-08-26-abuja-un-bombing",
+   "date": "2011-08-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Boko Haram suicide bomber hits UN headquarters in Abuja",
+   "summary": "At least 21 were killed in the group's first big attack on an international target.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Abuja_United_Nations_bombing"
+    }
+   ],
+   "entities": [
+    "boko-haram",
+    "nigeria"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "strike",
+   "where": [
+    "abuja"
+   ]
+  },
+  {
+   "id": "2011-09-17-occupy-wall-street",
+   "date": "2011-09-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Americas",
+   "title": "Occupy Wall Street begins in New York",
+   "summary": "The 59-day protest against inequality spread worldwide.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Occupy_Wall_Street"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "marker": "political",
+   "where": [
+    "zuccotti-park"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2011-07-03-yingluck-wins"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2011-07-09-south-sudan-independence",
+    "2011-07-20-somalia-famine"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2011-07-22-norway-attacks"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2011-07-29-fsa-formed"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2011-08-05-us-downgrade"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2011-08-20-fall-of-tripoli",
+    "2011-08-26-abuja-un-bombing"
+   ]
+  }
+ ]
+}
