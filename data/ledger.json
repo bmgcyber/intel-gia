@@ -46174,6 +46174,1847 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2019-12-31": {
+   "sha256": "5d332572f8ea920a4b6799b0f49b2df8b84f58e97d8425eee60dd19f39bbf20b",
+   "undo": {
+    "stories": {
+     "2019-10-01-iraq-protests": null,
+     "2019-10-03-ecuador-fuel-protests": null,
+     "2019-10-09-operation-peace-spring": null,
+     "2019-10-11-abiy-nobel": null,
+     "2019-10-17-lebanon-protests": null,
+     "2019-10-18-chile-estallido": null,
+     "2019-10-23-russia-africa-summit": null,
+     "2019-10-27-baghdadi-killed": null,
+     "2019-11-10-morales-resigns": null,
+     "2019-11-11-gambia-v-myanmar": null,
+     "2019-11-24-china-cables": null,
+     "2019-12-02-power-of-siberia": null,
+     "2019-12-11-aramco-ipo": null,
+     "2019-12-11-india-caa": null,
+     "2019-12-12-johnson-landslide": null,
+     "2019-12-27-k1-rocket-attack": null,
+     "2019-12-29-us-strikes-kataib-hezbollah": null,
+     "2019-12-31-baghdad-embassy-siege": null,
+     "2019-12-31-wuhan-pneumonia-cluster": null,
+     "2020-01-03-soleimani-killed": {
+      "id": "2020-01-03-soleimani-killed",
+      "date": "2020-01-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Middle East",
+      "title": "US drone strike kills Iran's Qasem Soleimani at Baghdad airport",
+      "summary": "Trump ordered the strike that killed the Quds Force commander and Iraqi militia leader Abu Mahdi al-Muhandis. Iraq's parliament voted to expel US troops, and Iran vowed revenge.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jan/03/baghdad-airport-iraq-attack-deaths-iran-us-tensions"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/20200103-a-more-dangerous-world-usa-killing-soleimani-stokes-fears-regional-conflict-iran-iraq-trump"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "irgc",
+       "qasem-soleimani",
+       "abu-mahdi-al-muhandis",
+       "iraq",
+       "donald-trump",
+       "kataib-hezbollah"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "Removing Soleimani weakened Iran's coordination of its proxy network but hardened the US–Iran confrontation that runs to the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-proxy-network"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "strike",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2020-01-08-iran-retaliates-ps752",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "kataib-hezbollah-halt",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-13-kharg-strike",
+       "2026-07-08-mou-collapses",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2026-09-30-us-leaves-iraq",
+       "2025-06-22-midnight-hammer",
+       "2024-01-28-tower-22",
+       "2024-04-13-iran-strikes-israel",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record",
+       "2020-05-07-kadhimi-pm"
+      ]
+     },
+     "2020-01-23-wuhan-lockdown": {
+      "id": "2020-01-23-wuhan-lockdown",
+      "date": "2020-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Asia-Pacific",
+      "title": "China locks down Wuhan as a new coronavirus spreads",
+      "summary": "Beijing sealed off Wuhan and other Hubei cities, an unprecedented quarantine of tens of millions, as the virus was already spreading abroad.",
+      "sources": [
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2020/01/26/asia/wuhan-coronavirus-update-intl-hnk/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_Hubei"
+       }
+      ],
+      "entities": [
+       "china",
+       "covid-19",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "storylines": [
+       "covid-shock"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "wuhan"
+      ],
+      "related_stories": [
+       "2020-03-11-who-pandemic",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens"
+      ]
+     },
+     "2020-01-31-brexit": {
+      "id": "2020-01-31-brexit",
+      "date": "2020-01-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Europe",
+      "title": "The UK formally leaves the European Union",
+      "summary": "Britain left at 23:00 GMT, entering a transition period to Dec 31 during which it stayed in the single market while negotiating a trade deal.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/video/2020/jan/31/britain-leaves-the-eu-to-virtual-bongs-and-god-save-the-queen-video"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brexit"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": [
+       "2020-12-24-uk-eu-trade-deal"
+      ]
+     },
+     "2020-01-15-phase-one-deal": {
+      "id": "2020-01-15-phase-one-deal",
+      "date": "2020-01-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Americas",
+      "title": "US and China sign the 'Phase One' trade deal",
+      "summary": "Trump and Vice Premier Liu He signed a truce in which China pledged to buy at least $200bn more US goods and services over 2020–21. China later bought only about 58% of the promised extra, and most tariffs stayed.",
+      "sources": [
+       {
+        "name": "USTR fact sheet",
+        "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Phase_One_Agreement-Expanding_Trade_Fact_Sheet.pdf"
+       },
+       {
+        "name": "PIIE",
+        "url": "https://www.piie.com/blogs/realtime-economics/2022/china-bought-none-extra-200-billion-us-exports-trumps-trade-deal"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/article/business/whats-in-the-us-china-phase-1-trade-deal-idUSKBN1ZE2IF/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "donald-trump"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "trump-waives-russia-sanctions",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china",
+       "2020-05-15-huawei-fdpr"
+      ]
+     },
+     "2020-01-11-tsai-reelected": {
+      "id": "2020-01-11-tsai-reelected",
+      "date": "2020-01-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Asia-Pacific",
+      "title": "Tsai Ing-wen wins re-election in a landslide, rebuffing Beijing",
+      "summary": "Tsai and running mate Lai Ching-te won with a record vote after Hong Kong's 2019 unrest, defeating the KMT's Han Kuo-yu.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jan/11/taiwan-re-elects-tsai-ing-wen-as-president-in-clear-message-to-china"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Taiwanese_presidential_election"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "tsai-ing-wen",
+       "lai-ching-te",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "taipei"
+      ],
+      "related_stories": [
+       "pla-drills",
+       "pla-patrol-oct14-15",
+       "2025-12-29-justice-mission-drills",
+       "2024-01-13-lai-elected-taiwan",
+       "2023-04-05-tsai-mccarthy"
+      ]
+     },
+     "2020-02-29-doha-agreement": {
+      "id": "2020-02-29-doha-agreement",
+      "date": "2020-02-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Asia-Pacific",
+      "title": "US and Taliban sign the Doha deal on a full US withdrawal from Afghanistan",
+      "summary": "Washington agreed to withdraw all troops within 14 months; the Taliban pledged not to let al-Qaeda use Afghan soil and to open talks with Kabul, which began in Doha in September. The Afghan government was not a party.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/feb/29/us-taliban-sign-peace-agreement-afghanistan-war"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/02/afghanistan-taliban-sign-deal-america-longest-war-200213063412531.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States–Taliban_deal"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "taliban",
+       "afghanistan",
+       "al-qaeda",
+       "qatar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "The deal set the timetable for the August 2021 collapse of the Afghan republic and the Taliban's return.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "doha"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul"
+      ]
+     },
+     "2020-03-05-idlib-ceasefire": {
+      "id": "2020-03-05-idlib-ceasefire",
+      "date": "2020-03-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Middle East",
+      "title": "Turkey's Operation Spring Shield hits Assad's forces; Putin and Erdoğan agree an Idlib ceasefire",
+      "summary": "After a Feb 27 airstrike killed more than 30 Turkish soldiers, Turkey launched drone strikes on Syrian government forces and shot down Syrian jets. A Moscow-brokered ceasefire froze the last rebel enclave, dominated by HTS.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/3/1/turkey-shoots-down-two-syrian-fighter-jets-over-idlib"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Spring_Shield"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "syria",
+       "russia",
+       "hts",
+       "recep-tayyip-erdogan",
+       "vladimir-putin",
+       "bashar-al-assad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "The frozen Idlib enclave let HTS survive and rebuild, launching the 2024 offensive that toppled Assad.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "idlib"
+      ],
+      "related_stories": [
+       "2022-07-19-putin-tehran",
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat"
+      ]
+     },
+     "2020-03-26-maduro-indicted": {
+      "id": "2020-03-26-maduro-indicted",
+      "date": "2020-03-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Americas",
+      "title": "US charges Maduro with narco-terrorism and offers $15m for his arrest",
+      "summary": "The Justice Department indicted Maduro and 14 officials over cocaine trafficking with FARC. In May, a botched mercenary raid ('Operation Gideon') to seize him was crushed.",
+      "sources": [
+       {
+        "name": "US DEA",
+        "url": "https://www.dea.gov/press-releases/2020/03/26/nicolas-maduro-moros-and-14-current-and-former-venezuelan-officials"
+       },
+       {
+        "name": "US State Department (archived)",
+        "url": "https://2017-2021.state.gov/department-of-state-offers-rewards-for-information-to-bring-venezuelan-drug-traffickers-to-justice/"
+       },
+       {
+        "name": "Al Jazeera (Gideon)",
+        "url": "https://www.aljazeera.com/news/2020/5/6/venezuela-failed-coup-plot-what-we-know-so-far"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "nicolas-maduro"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "Indictment unsealed in New York.",
+      "related_stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2026-01-03-maduro-captured",
+       "2025-09-02-boat-strikes-begin",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade"
+      ]
+     },
+     "2020-05-15-huawei-fdpr": {
+      "id": "2020-05-15-huawei-fdpr",
+      "date": "2020-05-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Americas",
+      "title": "US uses the foreign direct product rule to cut Huawei off from chipmakers",
+      "summary": "Commerce required licences for chips made abroad with US tools and software for Huawei. TSMC stopped taking new Huawei orders; the rule was tightened again in August.",
+      "sources": [
+       {
+        "name": "US Commerce (archived)",
+        "url": "https://2017-2021.commerce.gov/news/press-releases/2020/05/commerce-addresses-huaweis-efforts-undermine-entity-list-restricts.html"
+       },
+       {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2020/05/19/2020-10856/export-administration-regulations-amendments-to-general-prohibition-three-foreign-produced-direct"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2020/05/15/us-china-tensions-rise-as-trump-administration-moves-to-cut-huawei-off-from-global-chip-suppliers.html"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "huawei",
+       "china",
+       "tsmc",
+       "semiconductors"
+      ],
+      "causes": [
+       {
+        "story": "2020-01-15-phase-one-deal",
+        "why": "Tech war continued despite the trade truce",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "analysis": {
+       "text": "The FDPR became the template for the 2022 controls on China's whole chip sector.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade",
+       "ai-compute-minerals"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "A regulatory action.",
+      "related_stories": [
+       "2020-01-15-phase-one-deal",
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2026-05-14-trump-xi-beijing",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-12-08-h200-china",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2023-10-17-us-chip-rules-tightened",
+       "china-draft-ai-export-controls"
+      ]
+     },
+     "2020-06-15-galwan-clash": {
+      "id": "2020-06-15-galwan-clash",
+      "date": "2020-06-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "Galwan Valley clash kills 20 Indian soldiers in the first deadly China–India border fight in decades",
+      "summary": "Troops fought with clubs and stones in Ladakh amid a standoff that began in May. China later acknowledged four deaths. India banned dozens of Chinese apps and tightened Chinese investment rules.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jun/16/india-says-soldiers-killed-on-disputed-himalayan-border-with-china"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/06/china-releases-indian-soldiers-days-ladakh-clash-reports-200619033527314.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020–2021_China–India_skirmishes"
+       }
+      ],
+      "entities": [
+       "india",
+       "china",
+       "pla",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "analysis": {
+       "text": "Galwan pushed India closer to the US-led Quad while it kept buying Russian arms and oil.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "galwan-river"
+      ],
+      "related_stories": [
+       "2023-09-09-delhi-g20",
+       "2020-10-06-quad-tokyo-malabar"
+      ]
+     },
+     "2020-06-16-liaison-office-blown-up": {
+      "id": "2020-06-16-liaison-office-blown-up",
+      "date": "2020-06-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "North Korea blows up the inter-Korean liaison office in Kaesong",
+      "summary": "After weeks of anger over activists' leaflet launches, voiced by Kim Yo Jong, Pyongyang demolished the joint office opened in 2018, ending the détente of the Moon–Kim summits.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/06/south-korea-north-blew-liaison-office-tensions-rise-200616071045580.html"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2020/06/16/asia/north-korea-explosion-intl-hnk/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inter-Korean_Liaison_Office"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "south-korea",
+       "kim-jong-un"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "inter-korean-liaison-office"
+      ],
+      "related_stories": []
+     },
+     "2020-06-30-hong-kong-nsl": {
+      "id": "2020-06-30-hong-kong-nsl",
+      "date": "2020-06-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "Beijing imposes a national security law on Hong Kong",
+      "summary": "The NPC Standing Committee passed a law criminalising secession, subversion, terrorism and collusion with foreign forces, with sentences up to life. The US ended Hong Kong's special trade status and the UK opened a path to citizenship for BN(O) holders.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jun/30/china-passes-controversial-hong-kong-national-security-law"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2020/06/29/china/hong-kong-national-security-law-passed-intl-hnk/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "united-states",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "analysis": {
+       "text": "Hong Kong's fate hardened Taiwanese opinion against 'one country, two systems'.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2026-05-14-trump-xi-beijing",
+       "2025-10-30-busan-truce",
+       "2023-03-13-aukus-pathway"
+      ]
+     },
+     "2020-10-03-juba-agreement": {
+      "id": "2020-10-03-juba-agreement",
+      "date": "2020-10-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Africa",
+      "title": "Sudan's transitional government signs the Juba peace deal with rebel groups",
+      "summary": "The agreement with the Sudan Revolutionary Front promised power-sharing and integration of fighters; two major rebel groups stayed out.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/10/3/sudans-government-rebels-set-to-sign-landmak-deal"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Juba_Peace_Agreement"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "sudanese-armed-forces"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "juba"
+      ],
+      "related_stories": [
+       "2021-10-25-sudan-coup"
+      ]
+     },
+     "2020-10-18-bolivia-arce": {
+      "id": "2020-10-18-bolivia-arce",
+      "date": "2020-10-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Americas",
+      "title": "Morales's MAS returns to power as Luis Arce wins Bolivia's election",
+      "summary": "A year after the disputed 2019 vote and Evo Morales's exit, Arce won outright in the first round and the interim government's candidates conceded.",
+      "sources": [
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/10/19/925342186/ally-of-socialist-evo-morales-wins-bolivias-election-as-rival-concedes"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/oct/19/bolivia-election-exit-polls-suggest-thumping-win-evo-morales-party-luis-arce"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election"
+       }
+      ],
+      "entities": [
+       "bolivia",
+       "luis-arce"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2025-10-19-bolivia-paz"
+      ]
+     },
+     "2020-10-23-libya-ceasefire": {
+      "id": "2020-10-23-libya-ceasefire",
+      "date": "2020-10-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Africa",
+      "title": "Libya's warring sides sign a permanent ceasefire in Geneva",
+      "summary": "The UN-backed 5+5 military commission agreed a nationwide ceasefire and the departure of foreign fighters within three months, after Turkey's intervention broke Haftar's siege of Tripoli. Foreign forces, including Russia's Wagner, stayed.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/10/23/un-says-libya-sides-reach-permanent-ceasefire-deal"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Libyan_peace_process"
+       }
+      ],
+      "entities": [
+       "libya",
+       "turkey",
+       "wagner-group",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "geneva"
+      ],
+      "related_stories": []
+     },
+     "2020-10-25-chile-plebiscite": {
+      "id": "2020-10-25-chile-plebiscite",
+      "date": "2020-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Americas",
+      "title": "Chileans vote 78% to replace Pinochet's constitution",
+      "summary": "A year after mass protests, 78.27% approved drafting a new constitution and 78.99% chose a fully elected convention.",
+      "sources": [
+       {
+        "name": "BCN Chile",
+        "url": "https://www.bcn.cl/procesoconstituyente/plebiscito2020"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/rebirth-chileans-vote-by-millions-tear-up-pinochets-constitution-2020-10-26/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/world-latin-america-54687090"
+       }
+      ],
+      "entities": [
+       "chile"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National vote.",
+      "related_stories": [
+       "2022-09-04-chile-vote",
+       "2021-12-19-boric-elected"
+      ]
+     },
+     "2020-11-04-tigray-war": {
+      "id": "2020-11-04-tigray-war",
+      "date": "2020-11-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Africa",
+      "title": "Abiy launches an offensive in Tigray, starting a two-year war",
+      "summary": "After accusing the TPLF of attacking a federal army base, Abiy sent troops and declared an emergency; Eritrean forces joined. Federal forces took Mekelle on Nov 28.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/11/4/ethiopia-declares-state-of-emergency-in-opposition-tigray-region"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/11/13/934241830/what-to-know-about-ethiopias-tigray-conflict"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tigray_war"
+       }
+      ],
+      "entities": [
+       "ethiopia",
+       "tplf",
+       "eritrea",
+       "abiy-ahmed"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2025-03-tplf-split",
+       "ethiopia-tigray-advance",
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2022-11-02-pretoria-agreement"
+      ]
+     },
+     "2020-11-03-us-election": {
+      "id": "2020-11-03-us-election",
+      "date": "2020-11-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Americas",
+      "title": "Biden defeats Trump; Trump refuses to concede",
+      "summary": "Biden won 306 electoral votes amid record turnout and mail voting. Trump's fraud claims were rejected by courts and culminated in the Jan 6 2021 Capitol attack.",
+      "sources": [
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/11/17/936003057/cisa-director-chris-krebs-fired-after-trying-to-correct-voter-fraud-disinformati"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "joe-biden",
+       "donald-trump"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2021-11-29-jcpoa-vienna",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated"
+      ]
+     },
+     "2020-08-04-beirut-blast": {
+      "id": "2020-08-04-beirut-blast",
+      "date": "2020-08-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Middle East",
+      "title": "Ammonium nitrate explosion devastates Beirut's port",
+      "summary": "About 2,750 tonnes of ammonium nitrate stored for years at the port detonated, killing more than 200 and wrecking much of the city amid an economic collapse. The government resigned within a week.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/aug/04/huge-explosion-beirut-lebanon-shatters-windows-rocks-buildings"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/8/4/dozens-killed-as-huge-explosion-rips-through-lebanons-beirut"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+       }
+      ],
+      "entities": [
+       "lebanon",
+       "hezbollah"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": []
+     },
+     "2020-05-07-kadhimi-pm": {
+      "id": "2020-05-07-kadhimi-pm",
+      "date": "2020-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Middle East",
+      "title": "Iraq's intelligence chief Mustafa al-Kadhimi becomes PM after months of protests",
+      "summary": "After protests toppled Adel Abdul-Mahdi, parliament approved Kadhimi, who promised early elections and to rein in armed groups. Iran-aligned militias distrusted him.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/5/7/who-is-mustafa-al-kadhimi-iraqs-new-prime-minister"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/may/07/iraq-appoints-new-prime-minister-after-months-of-protests-and-jockeying"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "mustafa-al-kadhimi",
+       "kataib-hezbollah"
+      ],
+      "causes": [
+       {
+        "story": "2020-01-03-soleimani-killed",
+        "why": "Post-Soleimani crisis over US troops",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "storylines": [
+       "iran-proxy-network"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2020-01-03-soleimani-killed",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone"
+      ]
+     },
+     "2019-03-23-baghuz-caliphate-ends": {
+      "id": "2019-03-23-baghuz-caliphate-ends",
+      "date": "2019-03-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Middle East",
+      "title": "US-backed SDF takes Baghuz, ending the Islamic State's territorial caliphate",
+      "summary": "The last IS enclave on the Euphrates near the Iraqi border fell after a six-week battle; tens of thousands of fighters' relatives were moved to camps such as al-Hol.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Baghuz_Fawqani"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"
+       }
+      ],
+      "entities": [
+       "sdf",
+       "islamic-state",
+       "united-states",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "military",
+      "where": [
+       "baghuz"
+      ],
+      "related_stories": [
+       "2026-08-20-sdf-integration"
+      ]
+     },
+     "2019-09-14-abqaiq-attack": {
+      "id": "2019-09-14-abqaiq-attack",
+      "date": "2019-09-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Middle East",
+      "title": "Drones and missiles knock out half of Saudi oil output at Abqaiq and Khurais",
+      "summary": "The Houthis claimed the attack; the US and Saudi Arabia blamed Iran, and France, Germany and the UK agreed Iran was responsible. Brent briefly jumped by the most on record.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/sep/14/major-saudi-arabia-oil-facilities-hit-by-drone-strikes"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2019/09/14/explosion-fire-hit-major-saudi-aramco-facility.html"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "aramco",
+       "houthis",
+       "iran",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2019-05-12-fujairah-tanker-sabotage",
+        "why": "Gulf escalation",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "analysis": {
+       "text": "The muted US response convinced Riyadh it could not rely on Washington, pushing it toward détente with Iran in 2023.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "global-oil",
+       "iran-war-hormuz",
+       "yemen-houthis-saudi"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "strike",
+      "where": [
+       "abqaiq"
+      ],
+      "related_stories": [
+       "2019-05-12-fujairah-tanker-sabotage",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-03-25-jeddah-attack",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "2026-09-10-east-west-pipeline-attack",
+       "second-mine-tanker-ukmto-record",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait",
+       "2021-02-04-biden-yemen-shift"
+      ]
+     },
+     "2019-05-23-modi-reelected": {
+      "id": "2019-05-23-modi-reelected",
+      "date": "2019-05-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Asia-Pacific",
+      "title": "Modi's BJP wins a bigger majority in India's election",
+      "summary": "The BJP won 303 seats with 37% of the vote, the highest share for any party since 1989, weeks after the Balakot strike.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Indian_general_election"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2019/05/19/world/asia/india-election-results.html"
+       }
+      ],
+      "entities": [
+       "india",
+       "narendra-modi"
+      ],
+      "causes": [
+       {
+        "story": "2019-02-26-balakot-strike",
+        "why": "Nationalist mood after Balakot",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked"
+      ]
+     },
+     "2019-07-24-johnson-pm": {
+      "id": "2019-07-24-johnson-pm",
+      "date": "2019-07-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Europe",
+      "title": "Boris Johnson becomes UK prime minister vowing Brexit 'do or die'",
+      "summary": "Johnson replaced Theresa May, who quit after Parliament rejected her withdrawal deal three times.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boris_Johnson"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2019/jul/24/philip-hammond-quits-johnson-fully-aligned-chancellor-gauke-stewart"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "boris-johnson",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": []
+     },
+     "2019-06-09-hong-kong-protests": {
+      "id": "2019-06-09-hong-kong-protests",
+      "date": "2019-06-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Asia-Pacific",
+      "title": "Hong Kong's extradition-bill protests become the largest in its history",
+      "summary": "Mass marches against a bill allowing extradition to mainland China grew into a months-long movement against Beijing's tightening control.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/jun/18/hong-kong-carrie-lam-to-apologise-to-protesters-extradition-bill"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Hong Kong's Wikipedia coordinates are a territory centroid.",
+      "related_stories": []
+     },
+     "2019-08-05-article-370-revoked": {
+      "id": "2019-08-05-article-370-revoked",
+      "date": "2019-08-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Asia-Pacific",
+      "title": "India revokes Kashmir's special status under Article 370",
+      "summary": "New Delhi split the state into two union territories, cut communications for months and detained Kashmiri leaders. Pakistan downgraded ties.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2019/08/05/world/asia/india-pakistan-kashmir-jammu.html"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2019/08/india-imposes-lockdown-kashmir-puts-leaders-house-arrest-190804174841241.html"
+       }
+      ],
+      "entities": [
+       "india",
+       "pakistan",
+       "narendra-modi"
+      ],
+      "causes": [
+       {
+        "story": "2019-05-23-modi-reelected",
+        "why": "BJP manifesto pledge",
+        "confidence": "likely"
+       },
+       {
+        "story": "2019-02-14-pulwama-attack",
+        "why": "Kashmir crisis",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "storylines": [
+       "kashmir-india-pakistan",
+       "south-asia-security"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Constitutional order covering the whole region.",
+      "related_stories": [
+       "2019-05-23-modi-reelected",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike"
+      ]
+     },
+     "2019-02-28-hanoi-summit": {
+      "id": "2019-02-28-hanoi-summit",
+      "date": "2019-02-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Asia-Pacific",
+      "title": "Trump–Kim summit in Hanoi collapses without a deal",
+      "summary": "The second summit was cut short over North Korea's demand for sanctions relief; Trump said Kim wanted all sanctions lifted.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_North_Korea%E2%80%93United_States_Hanoi_Summit"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2019/02/28/white-house-trump-kim-meetings-change-of-schedule.html"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "kim-jong-un",
+       "north-korea",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "where": [
+       "hanoi"
+      ],
+      "related_stories": [
+       "2019-06-30-dmz-meeting"
+      ]
+     },
+     "2019-04-11-bashir-ousted": {
+      "id": "2019-04-11-bashir-ousted",
+      "date": "2019-04-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Africa",
+      "title": "Sudan's army ousts Omar al-Bashir after months of protests",
+      "summary": "The military ended his three-decade rule and formed a Transitional Military Council led by Abdel Fattah al-Burhan with RSF chief Hemedti as deputy.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Sudanese_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2019/4/11/sudans-military-seizes-power-from-president-omar-al-bashir"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/apr/11/sudan-army-ousts-bashir-after-30-years-in-power"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "omar-al-bashir",
+       "abdel-fattah-al-burhan",
+       "hemedti",
+       "sudanese-armed-forces",
+       "rsf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "analysis": {
+       "text": "The Burhan–Hemedti partnership born here broke apart in the 2023 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2019-06-03-khartoum-massacre",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-11-wad-madani-retaken",
+       "sudan-nyala-strikes"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2023-10-08-hezbollah-support-front",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2020-05-07-kadhimi-pm"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive"
+      ],
+      "source": "threads.md"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup",
+       "2024-02-14-prabowo-elected"
+      ],
+      "source": "inbox"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list"
+      ],
+      "source": "inbox"
+     },
+     "global-oil": {
+      "id": "global-oil",
+      "name": "Global oil price & flows",
+      "entities": [
+       "petroleum",
+       "strait-of-hormuz",
+       "saudi-arabia",
+       "russia",
+       "venezuela"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "2021-10-europe-gas-crunch",
+       "2022-03-05-us-venezuela-talks",
+       "2022-03-07-oil-spike",
+       "2022-03-08-us-oil-ban",
+       "2022-03-25-jeddah-attack",
+       "2022-03-31-spr-release",
+       "2022-06-03-eu-oil-embargo",
+       "2022-07-15-biden-saudi",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2020-03-09-oil-price-war",
+       "2020-04-12-opec-plus-record-cut",
+       "2020-04-20-wti-negative",
+       "2021-03-23-ever-given",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-09-14-abqaiq-attack"
+      ],
+      "source": "threads.md"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted",
+       "2021-01-05-al-ula-qatar"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked"
+      ],
+      "source": "inbox"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated",
+       "2021-09-26-german-election",
+       "2025-02-23-german-election",
+       "2025-09-10-drones-over-poland",
+       "2019-07-24-johnson-pm"
+      ],
+      "source": "inbox"
+     },
+     "covid-shock": {
+      "id": "covid-shock",
+      "name": "COVID-19 pandemic & the 2020 economic shock",
+      "entities": [
+       "covid-19",
+       "who",
+       "federal-reserve",
+       "ecb",
+       "imf",
+       "china"
+      ],
+      "stories": [
+       "2020-01-23-wuhan-lockdown",
+       "2020-03-09-oil-price-war",
+       "2020-03-11-who-pandemic",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2020-04-14-imf-great-lockdown",
+       "2020-04-20-wti-negative",
+       "2020-07-21-ngeu",
+       "2020-12-08-vaccine-rollout",
+       "2021-03-11-american-rescue-plan",
+       "2021-11-26-omicron",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
