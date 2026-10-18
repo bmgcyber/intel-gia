@@ -1251,7 +1251,13 @@
   "storylines": [
    "iran-proxy-network"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-05-07-kadhimi-pm",
+    "why": "Kadhimi promised early elections",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [
    {
@@ -1266,10 +1272,23 @@
    }
   ],
   "related_stories": [
+   "2020-05-07-kadhimi-pm",
    "2021-11-07-kadhimi-drone",
    "2022-08-29-baghdad-clashes",
+   "kataib-hezbollah-halt",
    "2022-10-27-sudani-govt",
-   "kataib-hezbollah-halt"
+   "2026-09-30-us-leaves-iraq",
+   "2024-01-28-tower-22",
+   "2020-01-03-soleimani-killed"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -1291,13 +1310,29 @@
    "sudan"
   ],
   "storylines": [],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-10-03-juba-agreement",
+    "why": "Juba signatories sided with the army",
+    "confidence": "possible"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
+   "2020-10-03-juba-agreement",
    "2026-02-03-kadugli-siege-broken",
    "2025-03-21-khartoum-retaken",
    "2023-04-15-sudan-war-begins"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -1328,15 +1363,33 @@
     "story": "2021-10-10-iraq-election",
     "why": "Militias' election losses were the backdrop to the attack",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-05-07-kadhimi-pm",
+    "why": "Militia anger at Kadhimi",
+    "confidence": "possible"
    }
   ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
    "2021-10-10-iraq-election",
+   "2020-05-07-kadhimi-pm",
+   "kataib-hezbollah-halt",
    "2022-08-29-baghdad-clashes",
    "2022-10-27-sudani-govt",
-   "kataib-hezbollah-halt"
+   "2026-09-30-us-leaves-iraq",
+   "2024-01-28-tower-22",
+   "2020-01-03-soleimani-killed"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -1424,7 +1477,18 @@
   "storylines": [
    "iran-war-hormuz"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-11-27-fakhrizadeh-killed",
+    "why": "Iran expanded enrichment after the killing",
+    "confidence": "likely"
+   },
+   {
+    "story": "2020-11-03-us-election",
+    "why": "Biden sought a return to the deal",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [
    {
@@ -1434,7 +1498,20 @@
    }
   ],
   "related_stories": [
-   "2022-09-jcpoa-stall"
+   "2020-11-27-fakhrizadeh-killed",
+   "2020-11-03-us-election",
+   "2022-09-jcpoa-stall",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2025-09-28-iran-snapback"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -1568,7 +1645,13 @@
   "storylines": [
    "sahel"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-08-18-mali-coup",
+    "why": "Junta that came to power in 2020",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [
    {
@@ -1588,16 +1671,26 @@
    }
   ],
   "related_stories": [
+   "2020-08-18-mali-coup",
+   "kidal",
    "2022-02-17-france-leaves-mali",
    "2022-03-27-moura",
-   "2022-05-16-mali-g5",
-   "2022-09-30-burkina-coup2",
-   "kidal",
    "2026-04-25-mali-offensive",
-   "2025-06-06-wagner-leaves-mali"
+   "2025-06-06-wagner-leaves-mali",
+   "2022-05-16-mali-g5",
+   "2022-09-30-burkina-coup2"
   ],
   "marker": "military",
-  "unplaced": "The summary names Mali, not a town."
+  "unplaced": "The summary names Mali, not a town.",
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-01-kazakhstan-unrest",
@@ -1849,6 +1942,11 @@
     "story": "2021-11-russia-buildup",
     "why": "Part of the buildup",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-08-09-belarus-protests",
+    "why": "Lukashenko's dependence on Moscow after 2020",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
@@ -1861,7 +1959,17 @@
   ],
   "related_stories": [
    "2021-11-russia-buildup",
+   "2020-08-09-belarus-protests",
    "2022-02-24-invasion"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -2600,6 +2708,11 @@
     "story": "2021-10-europe-gas-crunch",
     "why": "Energy inflation already building in 2021",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-03-15-fed-zero-rates",
+    "why": "Lift-off from pandemic zero rates",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
@@ -2616,11 +2729,27 @@
    }
   ],
   "related_stories": [
-   "2021-10-europe-gas-crunch",
    "2022-03-07-oil-spike",
+   "2021-10-europe-gas-crunch",
+   "2020-03-15-fed-zero-rates",
    "2022-05-sri-lanka-default",
    "2022-06-15-fed-75",
-   "2023-07-26-fed-peak-rate"
+   "2023-07-26-fed-peak-rate",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-05-13-warsh-confirmed",
+   "2026-09-16-fed-hikes",
+   "2025-12-10-fed-third-cut",
+   "2024-09-18-fed-jumbo-cut"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -2792,14 +2921,44 @@
     "story": "2022-01-abu-dhabi-attack",
     "why": "Houthi attacks on the UAE strengthened security ties with Israel",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-08-13-abraham-accords",
+    "why": "Summit of Abraham Accords states",
+    "confidence": "likely"
+   },
+   {
+    "story": "2020-11-14-western-sahara-clashes",
+    "why": "Morocco joined via the Dec 2020 deal",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
    "2022-01-abu-dhabi-attack",
+   "2020-08-13-abraham-accords",
+   "2020-11-14-western-sahara-clashes",
    "hormuz-attacks-surge",
-   "us-iran-talks-deadlock"
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins",
+   "2026-06-17-islamabad-mou",
+   "2026-08-17-mou-expires",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2024-04-13-iran-strikes-israel",
+   "2023-08-24-brics-expansion",
+   "2023-11-24-gaza-hostage-truce",
+   "second-mine-tanker-ukmto-record"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -3129,10 +3288,27 @@
   "storylines": [
    "taiwan-indopacific"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-05-australia-china-trade-war",
+    "why": "Sharpened Australia–China rivalry",
+    "confidence": "possible"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2020-05-australia-china-trade-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-04-19-mexico-lithium",
@@ -3184,7 +3360,13 @@
    "china"
   ],
   "storylines": [],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-01-23-wuhan-lockdown",
+    "why": "Zero-COVID model began in Wuhan",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [
    {
@@ -3194,8 +3376,18 @@
    }
   ],
   "related_stories": [
+   "2020-01-23-wuhan-lockdown",
    "2022-08-09-chips-act",
    "2023-01-08-china-reopens"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -3397,14 +3589,29 @@
     "story": "2022-04-27-gas-cutoff-poland",
     "why": "Gas weaponisation",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-07-21-ngeu",
+    "why": "Built on recovery-fund financing",
+    "confidence": "possible"
    }
   ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2021-10-europe-gas-crunch",
    "2022-04-27-gas-cutoff-poland",
+   "2020-07-21-ngeu",
+   "2021-10-europe-gas-crunch",
    "2022-08-eu-gas-record"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -3534,14 +3741,36 @@
   "storylines": [
    "taiwan-indopacific"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-11-15-rcep",
+    "why": "US response to Asian trade pact without it",
+    "confidence": "possible"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
+   "2020-11-15-rcep",
+   "rare-earth-nov10",
    "2022-08-04-pla-drills",
    "2022-08-09-chips-act",
    "2022-08-16-ira",
-   "rare-earth-nov10"
+   "trump-waives-russia-sanctions",
+   "2025-12-29-justice-mission-drills",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2024-05-14-biden-ev-tariffs"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -4171,11 +4400,27 @@
    "afghanistan"
   ],
   "storylines": [],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-02-29-doha-agreement",
+    "why": "Taliban's Doha counterterror pledge",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
+   "2020-02-29-doha-agreement",
    "2026-02-26-pakistan-afghanistan-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -4692,10 +4937,27 @@
    "lithium"
   ],
   "storylines": [],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-10-25-chile-plebiscite",
+    "why": "Draft from the 2020-mandated convention",
+    "confidence": "likely"
+   }
+  ],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2020-10-25-chile-plebiscite"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-09-13-armenia-azerbaijan",
@@ -4725,13 +4987,30 @@
     "story": "2022-09-06-kharkiv",
     "why": "Russia tied down in Ukraine",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-11-10-karabakh-ceasefire",
+    "why": "Unsettled border after the 2020 ceasefire",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
    "2022-09-06-kharkiv",
-   "2023-09-19-karabakh-falls"
+   "2020-11-10-karabakh-ceasefire",
+   "2023-09-19-karabakh-falls",
+   "2025-08-08-armenia-azerbaijan-deal",
+   "2020-09-27-karabakh-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -5128,6 +5407,11 @@
     "story": "2022-09-02-price-cap",
     "why": "Producers resisted consumer price-setting",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-04-12-opec-plus-record-cut",
+    "why": "OPEC+ coordination forged in 2020",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
@@ -5139,15 +5423,36 @@
    }
   ],
   "related_stories": [
-   "2022-03-08-us-oil-ban",
    "2022-07-15-biden-saudi",
    "2022-09-02-price-cap",
-   "diesel-deal",
+   "2020-04-12-opec-plus-record-cut",
    "hormuz-attacks-surge",
-   "houthis-hit-aramco",
-   "venezuela-oil",
    "2026-04-28-uae-quits-opec",
-   "2025-05-03-opec-plus-hikes"
+   "2025-05-03-opec-plus-hikes",
+   "houthis-hit-aramco",
+   "diesel-deal",
+   "venezuela-oil",
+   "2022-03-08-us-oil-ban",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "us-weighs-shadow-fleet-relief",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "2026-02-06-us-india-tariff-cut",
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-02-18-riyadh-us-russia-talks",
+   "second-mine-tanker-ukmto-record",
+   "2020-03-09-oil-price-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -5186,6 +5491,11 @@
     "story": "2022-08-09-chips-act",
     "why": "Paired industrial and denial strategy",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-05-15-huawei-fdpr",
+    "why": "Foreign direct product rule first used on Huawei",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
@@ -5202,10 +5512,11 @@
    }
   ],
   "related_stories": [
-   "2022-08-09-chips-act",
    "2022-08-31-nvidia-ban",
-   "ai-minerals",
+   "2022-08-09-chips-act",
+   "2020-05-15-huawei-fdpr",
    "rare-earth-nov10",
+   "ai-minerals",
    "2026-03-17-hyperscaler-ai-debt",
    "2026-05-14-trump-xi-beijing",
    "2025-01-27-deepseek-shock",
@@ -5214,10 +5525,22 @@
    "2024-05-14-biden-ev-tariffs",
    "2024-12-03-china-bans-gallium-to-us",
    "2023-07-03-china-gallium-controls",
-   "2023-10-17-us-chip-rules-tightened"
+   "2023-10-17-us-chip-rules-tightened",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "china-draft-ai-export-controls"
   ],
   "marker": "political",
-  "unplaced": "An export-control rule. The summary names no place."
+  "unplaced": "An export-control rule. The summary names no place.",
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-10-08-crimea-bridge",
@@ -7584,6 +7907,11 @@
     "story": "2025-12-16-venezuela-tanker-blockade",
     "why": "Oil blockade before the raid",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-03-26-maduro-indicted",
+    "why": "The 2020 narco-terrorism indictment",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7606,16 +7934,25 @@
    "2025-09-02-boat-strikes-begin",
    "2025-11-16-ford-caribbean",
    "2025-12-16-venezuela-tanker-blockade",
+   "2020-03-26-maduro-indicted",
    "2026-01-06-us-venezuela-oil-deal",
    "2026-02-22-el-mencho-killed",
    "2026-03-13-cuba-talks",
    "2026-10-12-cuba-blockade-bites",
-   "venezuela-oil"
+   "venezuela-oil",
+   "venezuela-talks-election-rules"
   ],
   "revisions": [
    {
     "edition": "2025-12-31",
     "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12958,7 +13295,13 @@
    "ethiopia",
    "abiy-ahmed"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-11-04-tigray-war",
+    "why": "Legacy of the 2020–22 war",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-03-31",
   "analysis": {
@@ -12974,9 +13317,20 @@
    "mekelle"
   ],
   "related_stories": [
+   "2020-11-04-tigray-war",
+   "2026-01-29-tigray-clashes",
    "2026-09-23-tplf-offensive",
    "2026-10-09-ethiopia-eritrea-accusations",
-   "2026-01-29-tigray-clashes"
+   "tigray-federal-takeover-rubio"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15873,6 +16227,11 @@
     "story": "2022-04-07-plc",
     "why": "The 2022 council papered over Saudi–UAE splits",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-04-25-stc-self-rule",
+    "why": "STC's 2020 self-rule bid",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -15892,8 +16251,19 @@
   ],
   "related_stories": [
    "2022-04-07-plc",
+   "2020-04-25-stc-self-rule",
    "2026-01-09-stc-dissolution",
-   "houthis-hit-aden-palace"
+   "houthis-hit-aden-palace",
+   "houthis-aden-airport-khamis-mushait"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -18086,6 +18456,11 @@
     "story": "2023-04-05-tsai-mccarthy",
     "why": "Cross-strait tension in the run-up",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-01-11-tsai-reelected",
+    "why": "DPP's third straight win built on 2020",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -18101,6 +18476,7 @@
   "related_stories": [
    "2022-08-04-pla-drills",
    "2023-04-05-tsai-mccarthy",
+   "2020-01-11-tsai-reelected",
    "2025-04-02-strait-thunder",
    "pla-drills",
    "pla-patrol-oct14-15",
@@ -18110,6 +18486,13 @@
    {
     "edition": "2026-09-28",
     "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -18195,7 +18578,13 @@
    "russia",
    "vladimir-putin"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-08-20-navalny-poisoned",
+    "why": "Poisoning, return and imprisonment",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2024-03-31",
   "storylines": [
@@ -18205,7 +18594,17 @@
   "marker": "political",
   "unplaced": "Kharp penal colony; no place entity.",
   "related_stories": [
+   "2020-08-20-navalny-poisoned",
    "2024-03-17-putin-fifth-term"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -20019,7 +20418,13 @@
    "peru",
    "pedro-castillo"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-11-10-peru-crisis",
+    "why": "Congress–president clashes since 2020",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2022-12-31",
   "storylines": [
@@ -20029,7 +20434,17 @@
   "marker": "political",
   "unplaced": "Lima has no place entity.",
   "related_stories": [
+   "2020-11-10-peru-crisis",
    "2026-06-07-peru-fujimori-wins"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -20942,6 +21357,11 @@
     "story": "2022-09-13-armenia-azerbaijan",
     "why": "Escalation from the 2022 border war",
     "confidence": "likely"
+   },
+   {
+    "story": "2020-11-10-karabakh-ceasefire",
+    "why": "2020 war left Karabakh isolated behind Russian peacekeepers",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -20957,7 +21377,18 @@
   ],
   "related_stories": [
    "2022-09-13-armenia-azerbaijan",
-   "2025-08-08-armenia-azerbaijan-deal"
+   "2020-11-10-karabakh-ceasefire",
+   "2025-08-08-armenia-azerbaijan-deal",
+   "2020-09-27-karabakh-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -21149,7 +21580,13 @@
    "min-aung-hlaing",
    "china"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2020-11-08-myanmar-election",
+    "why": "Army fraud claims led to the coup and civil war",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2023-12-31",
   "storylines": [
@@ -21159,9 +21596,19 @@
   "marker": "military",
   "unplaced": "Northern Shan State.",
   "related_stories": [
+   "2020-11-08-myanmar-election",
    "2026-01-30-myanmar-junta-election",
    "2024-08-03-lashio-falls",
    "2024-12-20-arakan-army-ann"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -21444,6 +21891,11 @@
     "story": "2022-10-16-party-congress",
     "why": "Xi's third term",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-01-23-wuhan-lockdown",
+    "why": "End of the zero-COVID regime begun in 2020",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -21454,7 +21906,17 @@
   "related_stories": [
    "2022-04-shanghai-lockdown",
    "2022-10-16-party-congress",
+   "2020-01-23-wuhan-lockdown",
    "2023-10-18-country-garden-default"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -23132,6 +23594,11 @@
     "story": "2023-05-07-syria-arab-league",
     "why": "Normalisation did not shore up the regime",
     "confidence": "possible"
+   },
+   {
+    "story": "2020-03-05-idlib-ceasefire",
+    "why": "HTS consolidated in Idlib under the 2020 freeze",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -23146,8 +23613,18 @@
   ],
   "related_stories": [
    "2023-05-07-syria-arab-league",
-   "2024-12-01-sna-tell-rifaat",
-   "2024-12-08-assad-falls"
+   "2020-03-05-idlib-ceasefire",
+   "2024-12-08-assad-falls",
+   "2024-12-01-sna-tell-rifaat"
+  ],
+  "revisions": [
+   {
+    "edition": "2020-12-31",
+    "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -26374,7 +26851,9 @@
    "wuhan"
   ],
   "related_stories": [
-   "2020-03-11-who-pandemic"
+   "2020-03-11-who-pandemic",
+   "2022-04-shanghai-lockdown",
+   "2023-01-08-china-reopens"
   ]
  },
  {
@@ -26411,7 +26890,9 @@
   "where": [
    "london"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2020-12-24-uk-eu-trade-deal"
+  ]
  },
  {
   "id": "2020-02-29-doha-agreement",
@@ -26604,7 +27085,8 @@
    "2020-03-18-ecb-pepp",
    "2020-04-14-imf-great-lockdown",
    "2020-04-20-wti-negative",
-   "2020-07-21-ngeu"
+   "2020-07-21-ngeu",
+   "2020-12-08-vaccine-rollout"
   ]
  },
  {
@@ -26660,7 +27142,8 @@
   ],
   "related_stories": [
    "2020-03-11-who-pandemic",
-   "2026-09-16-fed-hikes"
+   "2026-09-16-fed-hikes",
+   "2022-03-16-fed-hike"
   ]
  },
  {
@@ -27002,7 +27485,9 @@
    "baghdad"
   ],
   "related_stories": [
-   "2020-01-03-soleimani-killed"
+   "2020-01-03-soleimani-killed",
+   "2021-10-10-iraq-election",
+   "2021-11-07-kadhimi-drone"
   ]
  },
  {
@@ -27101,7 +27586,9 @@
   "era": "2020 (pandemic year)",
   "marker": "political",
   "unplaced": "Trade measures; no single site.",
-  "related_stories": []
+  "related_stories": [
+   "2022-04-19-solomon-pact"
+  ]
  },
  {
   "id": "2020-06-15-galwan-clash",
@@ -27362,7 +27849,8 @@
   "related_stories": [
    "2020-03-11-who-pandemic",
    "trump-disgrace-eu-summit",
-   "2025-09-28-iran-snapback"
+   "2025-09-28-iran-snapback",
+   "2022-05-18-repowereu"
   ]
  },
  {
@@ -27446,7 +27934,9 @@
   "where": [
    "minsk"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2022-02-belarus-drills"
+  ]
  },
  {
   "id": "2020-08-12-east-med-standoff",
@@ -27569,7 +28059,8 @@
    "2022-03-27-negev-summit",
    "2026-02-28-iran-war-begins",
    "2025-06-22-midnight-hammer",
-   "2025-10-10-gaza-ceasefire-trump-plan"
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2020-11-14-western-sahara-clashes"
   ]
  },
  {
@@ -27658,7 +28149,8 @@
    "omsk"
   ],
   "related_stories": [
-   "trump-disgrace-eu-summit"
+   "trump-disgrace-eu-summit",
+   "2024-02-16-navalny-dies"
   ]
  },
  {
@@ -27744,7 +28236,730 @@
   "related_stories": [
    "2022-09-13-armenia-azerbaijan",
    "2025-08-08-armenia-azerbaijan-deal",
-   "2023-09-19-karabakh-falls"
+   "2023-09-19-karabakh-falls",
+   "2020-11-10-karabakh-ceasefire"
+  ]
+ },
+ {
+  "id": "2020-10-03-juba-agreement",
+  "date": "2020-10-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Africa",
+  "title": "Sudan's transitional government signs the Juba peace deal with rebel groups",
+  "summary": "The agreement with the Sudan Revolutionary Front promised power-sharing and integration of fighters; two major rebel groups stayed out.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/10/3/sudans-government-rebels-set-to-sign-landmak-deal"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Juba_Peace_Agreement"
+   }
+  ],
+  "entities": [
+   "sudan",
+   "sudanese-armed-forces"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "juba"
+  ],
+  "related_stories": [
+   "2021-10-25-sudan-coup"
+  ]
+ },
+ {
+  "id": "2020-10-05-kyrgyz-revolution",
+  "date": "2020-10-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Protests overturn Kyrgyzstan's election; Japarov rises from prison to power",
+  "summary": "Protesters stormed government buildings after a disputed vote. The result was annulled, President Jeenbekov resigned, and nationalist Sadyr Japarov, freed from jail, became PM and then acting president. Moscow called the situation chaos.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/10/8/kremlin-says-kyrgyzstan-is-in-chaos-and-needs-stabilising"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2020/10/06/asia/post-election-protests-kyrgyzstan-hnk-intl/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Kyrgyz_Revolution"
+   }
+  ],
+  "entities": [
+   "kyrgyzstan",
+   "sadyr-japarov",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "bishkek"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-10-15-thai-emergency",
+  "date": "2020-10-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Asia-Pacific",
+  "title": "Thailand imposes emergency rule against youth protests demanding monarchy reform",
+  "summary": "Months of student-led protests broke a taboo by calling for limits on the monarchy. The government of Prayut Chan-o-cha banned gatherings; protesters defied it.",
+  "sources": [
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/10/16/924616262/police-in-bangkok-use-water-cannon-to-break-up-anti-government-protests"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/10/26/thai-parliament-opens-to-discuss-pro-democracy-protests"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020–2021_Thai_protests"
+   }
+  ],
+  "entities": [
+   "thailand"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "bangkok"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-10-18-bolivia-arce",
+  "date": "2020-10-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Americas",
+  "title": "Morales's MAS returns to power as Luis Arce wins Bolivia's election",
+  "summary": "A year after the disputed 2019 vote and Evo Morales's exit, Arce won outright in the first round and the interim government's candidates conceded.",
+  "sources": [
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/10/19/925342186/ally-of-socialist-evo-morales-wins-bolivias-election-as-rival-concedes"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/oct/19/bolivia-election-exit-polls-suggest-thumping-win-evo-morales-party-luis-arce"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election"
+   }
+  ],
+  "entities": [
+   "bolivia",
+   "luis-arce"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2020-10-20-endsars-lekki",
+  "date": "2020-10-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Africa",
+  "title": "Nigerian troops fire on #EndSARS protesters at Lagos's Lekki toll gate",
+  "summary": "Weeks of youth-led protests against a police unit's abuses ended in a shooting at Lekki that drew global condemnation and denials from the army.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/10/20/nigerian-security-forces-use-live-fire-to-disperse-protesters"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/10/25/africa/nigeria-end-sars-protests-analysis-intl/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/End_SARS"
+   }
+  ],
+  "entities": [
+   "nigeria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "lagos"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-10-23-libya-ceasefire",
+  "date": "2020-10-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Africa",
+  "title": "Libya's warring sides sign a permanent ceasefire in Geneva",
+  "summary": "The UN-backed 5+5 military commission agreed a nationwide ceasefire and the departure of foreign fighters within three months, after Turkey's intervention broke Haftar's siege of Tripoli. Foreign forces, including Russia's Wagner, stayed.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/10/23/un-says-libya-sides-reach-permanent-ceasefire-deal"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Libyan_peace_process"
+   }
+  ],
+  "entities": [
+   "libya",
+   "turkey",
+   "wagner-group",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "geneva"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-10-25-chile-plebiscite",
+  "date": "2020-10-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Americas",
+  "title": "Chileans vote 78% to replace Pinochet's constitution",
+  "summary": "A year after mass protests, 78.27% approved drafting a new constitution and 78.99% chose a fully elected convention.",
+  "sources": [
+   {
+    "name": "BCN Chile",
+    "url": "https://www.bcn.cl/procesoconstituyente/plebiscito2020"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/rebirth-chileans-vote-by-millions-tear-up-pinochets-constitution-2020-10-26/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/world-latin-america-54687090"
+   }
+  ],
+  "entities": [
+   "chile"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "National vote.",
+  "related_stories": [
+   "2022-09-04-chile-vote"
+  ]
+ },
+ {
+  "id": "2020-11-03-us-election",
+  "date": "2020-11-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Americas",
+  "title": "Biden defeats Trump; Trump refuses to concede",
+  "summary": "Biden won 306 electoral votes amid record turnout and mail voting. Trump's fraud claims were rejected by courts and culminated in the Jan 6 2021 Capitol attack.",
+  "sources": [
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/11/17/936003057/cisa-director-chris-krebs-fired-after-trying-to-correct-voter-fraud-disinformati"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "joe-biden",
+   "donald-trump"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": [
+   "2021-11-29-jcpoa-vienna"
+  ]
+ },
+ {
+  "id": "2020-11-04-tigray-war",
+  "date": "2020-11-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Africa",
+  "title": "Abiy launches an offensive in Tigray, starting a two-year war",
+  "summary": "After accusing the TPLF of attacking a federal army base, Abiy sent troops and declared an emergency; Eritrean forces joined. Federal forces took Mekelle on Nov 28.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/11/4/ethiopia-declares-state-of-emergency-in-opposition-tigray-region"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/11/13/934241830/what-to-know-about-ethiopias-tigray-conflict"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tigray_war"
+   }
+  ],
+  "entities": [
+   "ethiopia",
+   "tplf",
+   "eritrea",
+   "abiy-ahmed"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "military",
+  "where": [
+   "mekelle"
+  ],
+  "related_stories": [
+   "2025-03-tplf-split",
+   "ethiopia-tigray-advance",
+   "2026-09-23-tplf-offensive",
+   "2026-10-09-ethiopia-eritrea-accusations",
+   "tigray-federal-takeover-rubio"
+  ]
+ },
+ {
+  "id": "2020-11-08-myanmar-election",
+  "date": "2020-11-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Asia-Pacific",
+  "title": "Suu Kyi's NLD wins Myanmar's election in a landslide; the army cries fraud",
+  "summary": "The NLD took a large majority while the military-backed USDP won only 33 seats. The army's fraud claims, rejected by the election commission, became the pretext for the February 2021 coup.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/crisis-myanmar-after-army-alleges-election-fraud-2021-02-01/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/world-asia-57144397"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Myanmar_general_election"
+   }
+  ],
+  "entities": [
+   "myanmar",
+   "aung-san-suu-kyi",
+   "min-aung-hlaing"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "analysis": {
+   "text": "The 2021 coup that followed set off the civil war behind Operation 1027.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": [
+   "2023-10-27-operation-1027"
+  ]
+ },
+ {
+  "id": "2020-11-10-karabakh-ceasefire",
+  "date": "2020-11-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Russia brokers a Karabakh ceasefire; Armenia cedes territory and Russian peacekeepers deploy",
+  "summary": "Aliyev, Pashinyan and Putin signed a deal locking in Azerbaijan's gains, returning surrounding districts and putting about 2,000 Russian peacekeepers along the line and the Lachin corridor.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/11/15/armenia-cedes-disputed-land-to-azerbaijan-after-peace-deal"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/nov/14/nagorno-karabakh-villagers-burn-their-homes-ahead-of-peace-deal"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement"
+   }
+  ],
+  "entities": [
+   "azerbaijan",
+   "armenia",
+   "russia",
+   "ilham-aliyev",
+   "nikol-pashinyan",
+   "vladimir-putin"
+  ],
+  "causes": [
+   {
+    "story": "2020-09-27-karabakh-war",
+    "why": "Ends the 44-day war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "south-caucasus"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "unplaced": "Signed remotely by the three leaders.",
+  "related_stories": [
+   "2020-09-27-karabakh-war",
+   "2022-09-13-armenia-azerbaijan",
+   "2023-09-19-karabakh-falls",
+   "2025-08-08-armenia-azerbaijan-deal"
+  ]
+ },
+ {
+  "id": "2020-11-10-peru-crisis",
+  "date": "2020-11-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Americas",
+  "title": "Peru's Congress removes Vizcarra; two deaths in protests topple his successor",
+  "summary": "Lawmakers impeached Vizcarra over bribery allegations. Interim president Manuel Merino resigned on Nov 15 after police killed two protesters, and Francisco Sagasti took over.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/11/15/americas/peru-interim-president-resigns-intl/index.html"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/11/10/933334195/in-midst-of-pandemic-crisis-perus-legislature-impeaches-the-nations-president"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peruvian_political_crisis_(2016–present)"
+   }
+  ],
+  "entities": [
+   "peru",
+   "martin-vizcarra"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "lima"
+  ],
+  "related_stories": [
+   "2022-12-07-castillo-self-coup"
+  ]
+ },
+ {
+  "id": "2020-11-14-western-sahara-clashes",
+  "date": "2020-11-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Africa",
+  "title": "Morocco–Polisario ceasefire collapses at Guerguerat; US recognises Moroccan sovereignty",
+  "summary": "After Moroccan troops cleared a Polisario blockade at the Guerguerat crossing, the Polisario declared the 1991 ceasefire over. On Dec 10 the US recognised Morocco's claim to Western Sahara as Morocco agreed to normalise ties with Israel.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/11/18/the-failed-diplomacy-between-morocco-and-polisario"
+   },
+   {
+    "name": "UN News",
+    "url": "https://news.un.org/en/story/2020/11/1077672"
+   },
+   {
+    "name": "Al Jazeera (Israel deal)",
+    "url": "https://www.aljazeera.com/news/2020/12/10/israel-morocco-agree-to-normalise-relations-in-us-brokered-deal"
+   }
+  ],
+  "entities": [
+   "morocco",
+   "polisario-front",
+   "israel",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2020-08-13-abraham-accords",
+    "why": "Extends the normalisation wave",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "military",
+  "where": [
+   "guerguerat"
+  ],
+  "related_stories": [
+   "2020-08-13-abraham-accords",
+   "2022-03-27-negev-summit"
+  ]
+ },
+ {
+  "id": "2020-11-15-rcep",
+  "date": "2020-11-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Asia-Pacific",
+  "title": "Fifteen Asia-Pacific nations sign RCEP, the world's biggest trade pact",
+  "summary": "China, Japan, South Korea, Australia, New Zealand and the 10 ASEAN states signed the deal; India had pulled out and the US was absent.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2020/11/15/rcep-15-asia-pacific-nations-set-worlds-biggest-trade-pact"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Regional_Comprehensive_Economic_Partnership"
+   }
+  ],
+  "entities": [
+   "rcep",
+   "china",
+   "japan",
+   "south-korea",
+   "australia",
+   "indonesia",
+   "vietnam"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "unplaced": "Signed virtually.",
+  "related_stories": [
+   "2022-05-23-ipef"
+  ]
+ },
+ {
+  "id": "2020-11-27-fakhrizadeh-killed",
+  "date": "2020-11-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Middle East",
+  "title": "Iran's top nuclear scientist Mohsen Fakhrizadeh is assassinated near Tehran",
+  "summary": "Iran blamed Israel for the ambush at Absard. Days later its parliament passed a law to raise uranium enrichment and restrict UN inspections.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/11/27/top-iranian-nuclear-scientist-killed-iran-armed-forces"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/11/27/939491725/top-iranian-military-scientist-assassinated-state-media-reports"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh"
+   }
+  ],
+  "entities": [
+   "iran",
+   "israel",
+   "mohsen-fakhrizadeh",
+   "iaea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "where": [
+   "absard"
+  ],
+  "related_stories": [
+   "2021-11-29-jcpoa-vienna"
+  ]
+ },
+ {
+  "id": "2020-12-08-vaccine-rollout",
+  "date": "2020-12-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Europe",
+  "title": "Britain gives the first approved COVID vaccine dose, starting global vaccination",
+  "summary": "After the UK licensed the Pfizer–BioNTech mRNA vaccine on Dec 2, the first shot was given on Dec 8; the US authorised it days later. Rich countries' advance purchases led to a vaccine-equity fight.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/society/2020/dec/02/pfizer-biontech-covid-vaccine-wins-licence-for-use-in-the-uk"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/12/4/bahrain-becomes-second-country-to-approve-pfizer-covid-19-vaccine"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "covid-19",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-11-who-pandemic",
+    "why": "Response to the pandemic",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "Rollout across the UK.",
+  "related_stories": [
+   "2020-03-11-who-pandemic"
+  ]
+ },
+ {
+  "id": "2020-12-24-uk-eu-trade-deal",
+  "date": "2020-12-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-31",
+  "region": "Europe",
+  "title": "UK and EU strike a last-minute post-Brexit trade deal",
+  "summary": "The Trade and Cooperation Agreement avoided tariffs and quotas on goods from Jan 1 2021 but brought customs checks, and left services and Northern Ireland friction.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2020/dec/24/uk-eu-agree-brexit-trade-deal-agreement"
+   },
+   {
+    "name": "Council of the EU",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2020/12/29/eu-uk-trade-and-cooperation-agreement-council-adopts-decision-on-the-signing/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/EU–UK_Trade_and_Cooperation_Agreement"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union"
+  ],
+  "causes": [
+   {
+    "story": "2020-01-31-brexit",
+    "why": "End of the transition period",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "brussels"
+  ],
+  "related_stories": [
+   "2020-01-31-brexit"
   ]
  }
 ]
