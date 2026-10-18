@@ -45485,5 +45485,259 @@
    "2017-07-10-mosul-liberated",
    "2016-10-17-mosul-offensive"
   ]
+ },
+ {
+  "id": "2014-02-22-yanukovych-ousted",
+  "date": "2014-02-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Ukraine's parliament removes Yanukovych after the deadly Maidan crackdown",
+  "summary": "Months of protest over his rejection of an EU association deal ended with scores killed in Kyiv; Yanukovych fled to Russia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Revolution_of_Dignity"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2014/2/22/ukraine-president-yanukovich-impeached"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "viktor-yanukovych",
+   "russia",
+   "european-union"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "maidan"
+  ],
+  "related_stories": [
+   "2014-03-18-crimea-annexed",
+   "energy-ceasefire",
+   "trump-disgrace-eu-summit",
+   "2026-04-23-eu-90bn-loan",
+   "2025-12-18-eu-90bn-loan-agreed"
+  ]
+ },
+ {
+  "id": "2014-03-01-kunming-attack",
+  "date": "2014-03-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Asia-Pacific",
+  "title": "Knife attackers kill 31 at Kunming railway station",
+  "summary": "China blamed Xinjiang separatists and launched a 'Strike Hard' campaign, the precursor of the mass internment camps.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Kunming_attack"
+   }
+  ],
+  "entities": [
+   "china",
+   "xinjiang-camps"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "strike",
+  "where": [
+   "kunming"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-03-08-mh370-vanishes",
+  "date": "2014-03-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Asia-Pacific",
+  "title": "Malaysia Airlines Flight 370 disappears with 239 aboard",
+  "summary": "The Beijing-bound Boeing 777 vanished from radar; it was never found.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/mar/08/malaysia-airlines-experts-surprised-at-disappearance-of-very-safe-boeing-777"
+   }
+  ],
+  "entities": [
+   "malaysia",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "unplaced": "Lost over the Indian Ocean.",
+  "related_stories": []
+ },
+ {
+  "id": "2014-03-17-car-wash-begins",
+  "date": "2014-03-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Americas",
+  "title": "Brazil's 'Car Wash' corruption probe begins",
+  "summary": "It uncovered a vast bribery scheme at Petrobras that brought down politicians, contributed to Rousseff's impeachment and jailed Lula.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Car_Wash"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "petrobras",
+   "lula"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "unplaced": "Federal investigation.",
+  "related_stories": []
+ },
+ {
+  "id": "2014-03-18-crimea-annexed",
+  "date": "2014-03-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Russia annexes Crimea after a referendum held under occupation",
+  "summary": "Unmarked Russian troops seized the peninsula in late February; the US and EU imposed the first sanctions on Russia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/mar/18/red-square-rally-vladimir-putin-crimea"
+   }
+  ],
+  "entities": [
+   "russia",
+   "vladimir-putin",
+   "crimea",
+   "ukraine",
+   "united-states",
+   "european-union"
+  ],
+  "causes": [
+   {
+    "story": "2014-02-22-yanukovych-ousted",
+    "why": "Moscow's response to the revolution",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "analysis": {
+   "text": "Crimea was the start of the Russo-Ukrainian war that escalated into the 2022 invasion.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "where": [
+   "simferopol"
+  ],
+  "related_stories": [
+   "2014-02-22-yanukovych-ousted",
+   "energy-ceasefire",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-02-24-invasion",
+   "2022-02-26-swift-cbr",
+   "2022-05-20-mariupol",
+   "2022-06-23-himars",
+   "2022-09-02-price-cap",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "2022-10-08-crimea-bridge",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2026-04-23-eu-90bn-loan",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-08-15-alaska-summit",
+   "2025-11-20-28-point-plan",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2025-09-22-putin-new-start-offer",
+   "2025-02-18-riyadh-us-russia-talks",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2018-11-25-kerch-strait-incident",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2015-07-14-jcpoa-agreed"
+  ]
+ },
+ {
+  "id": "2014-03-18-sunflower-movement",
+  "date": "2014-03-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-03-31",
+  "region": "Asia-Pacific",
+  "title": "Taiwan students occupy parliament against a China trade pact",
+  "summary": "The Sunflower Movement blocked the services agreement with Beijing and boosted the DPP, which won the presidency in 2016.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sunflower_Student_Movement"
+   }
+  ],
+  "entities": [
+   "taiwan",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-03-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "legislative-yuan"
+  ],
+  "related_stories": []
  }
 ]
