@@ -17935,6 +17935,282 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2022-12-31": {
+   "sha256": "295a0f33e019822f920bf8ff2661ab8df634062514d03c9a300493d25b9414a4",
+   "undo": {
+    "stories": {
+     "2022-11-11-kherson-liberated": null,
+     "2022-11-30-chatgpt-launch": null,
+     "2022-12-07-castillo-self-coup": null,
+     "2022-09-30-annexation": {
+      "id": "2022-09-30-annexation",
+      "date": "2022-09-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Russia claims annexation of four Ukrainian regions",
+      "summary": "After staged referendums, Putin declared the annexation of Donetsk, Luhansk, Zaporizhzhia and Kherson oblasts; most of the UN General Assembly rejected it.",
+      "sources": [
+       {
+        "name": "Wikipedia: Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts",
+        "url": "https://en.wikipedia.org/wiki/Russian_annexation_of_Donetsk,_Kherson,_Luhansk_and_Zaporizhzhia_oblasts"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "vladimir-putin"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-21-mobilization",
+        "why": "Paired escalation",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-09-21-mobilization"
+      ]
+     },
+     "2022-09-06-kharkiv": {
+      "id": "2022-09-06-kharkiv",
+      "date": "2022-09-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine's lightning Kharkiv counteroffensive",
+      "summary": "Ukrainian forces recaptured most of Kharkiv oblast, including Izium and Kupiansk.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Kharkiv counteroffensive",
+        "url": "https://en.wikipedia.org/wiki/2022_Kharkiv_counteroffensive"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "izium",
+       "kupiansk"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-23-himars",
+        "why": "HIMARS strikes degraded Russian logistics",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-13-armenia-azerbaijan",
+        "why": "Russia tied down in Ukraine",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-09-21-mobilization",
+        "why": "Battlefield losses",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-06-23-himars",
+       "2022-09-13-armenia-azerbaijan",
+       "2022-09-21-mobilization"
+      ],
+      "marker": "military",
+      "where": [
+       "izium",
+       "kupiansk"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia"
+      ],
+      "source": "threads.md"
+     },
+     "ai-compute-minerals": {
+      "id": "ai-compute-minerals",
+      "name": "AI compute → critical minerals",
+      "entities": [
+       "ai-data-centers",
+       "copper",
+       "gallium",
+       "rare-earths",
+       "coltan"
+      ],
+      "stories": [
+       "ai-minerals",
+       "rare-earth-nov10",
+       "rubaya-coltan",
+       "2022-03-08-lme-nickel",
+       "2022-04-19-mexico-lithium",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-deepseek-shock",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-08-h200-china",
+       "2024-12-03-china-bans-gallium-to-us"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "argentina",
+     "bakhmut",
+     "brasilia",
+     "guyana",
+     "javier-milei",
+     "kahramanmaras",
+     "kakhovka-dam",
+     "kherson",
+     "mohamed-bazoum",
+     "openai",
+     "pedro-castillo",
+     "recep-tayyip-erdogan",
+     "silicon-valley-bank",
+     "stepanakert",
+     "three-brotherhood-alliance",
+     "yevgeny-prigozhin"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

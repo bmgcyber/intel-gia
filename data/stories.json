@@ -4621,7 +4621,8 @@
   "related_stories": [
    "2022-06-23-himars",
    "2022-09-13-armenia-azerbaijan",
-   "2022-09-21-mobilization"
+   "2022-09-21-mobilization",
+   "2022-11-11-kherson-liberated"
   ],
   "marker": "military",
   "where": [
@@ -4942,7 +4943,8 @@
    "2021-12-17-russia-drafts",
    "2022-02-21-recognition",
    "2022-02-24-invasion",
-   "2022-09-21-mobilization"
+   "2022-09-21-mobilization",
+   "2022-11-11-kherson-liberated"
   ]
  },
  {
@@ -19116,5 +19118,136 @@
    "2025-03-10-sdf-damascus-deal",
    "2025-05-13-trump-lifts-syria-sanctions"
   ]
+ },
+ {
+  "id": "2022-11-11-kherson-liberated",
+  "date": "2022-11-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2022-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Russia retreats from Kherson city; Ukraine retakes the right bank of the Dnipro",
+  "summary": "Weeks after Moscow claimed to annex the region, Russian troops withdrew across the Dnipro and Ukrainian forces entered Kherson, completing a second major autumn counter-offensive after Kharkiv.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2022/11/11/russia-kherson-retreat-marks-tectonic-shift-in-ukraine-war"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/kremlin-status-kherson-part-russia-unchanged-2022-11-11/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Liberation_of_Kherson"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2022-09-30-annexation",
+    "why": "Retreat from an 'annexed' region",
+    "confidence": "likely"
+   },
+   {
+    "story": "2022-09-06-kharkiv",
+    "why": "Second autumn counter-offensive",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2022-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "military",
+  "where": [
+   "kherson"
+  ],
+  "related_stories": [
+   "2022-09-30-annexation",
+   "2022-09-06-kharkiv"
+  ]
+ },
+ {
+  "id": "2022-11-30-chatgpt-launch",
+  "date": "2022-11-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2022-12-31",
+  "region": "Americas",
+  "title": "OpenAI releases ChatGPT, setting off the generative-AI boom",
+  "summary": "The chatbot drew mass adoption within weeks and set off a race in AI models, chips and data centres, with Nvidia as the main beneficiary.",
+  "sources": [
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ChatGPT"
+   }
+  ],
+  "entities": [
+   "openai",
+   "nvidia",
+   "ai-data-centers"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2022-12-31",
+  "storylines": [
+   "ai-compute-minerals"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "unplaced": "A product launch; no site.",
+  "related_stories": []
+ },
+ {
+  "id": "2022-12-07-castillo-self-coup",
+  "date": "2022-12-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2022-12-31",
+  "region": "Americas",
+  "title": "Peru's Pedro Castillo tries to dissolve Congress, then is impeached and arrested",
+  "summary": "Facing an impeachment vote, Castillo announced he would dissolve Congress and rule by decree. Congress removed him within hours, Dina Boluarte took over, and deadly protests followed.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/perus-president-says-will-dissolve-congress-calls-elections-2022-12-07/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2022/12/7/peru-president-pedro-castillo-calls-to-dissolve-congress"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2022/dec/07/peru-president-detained-pedro-castillo-coup"
+   }
+  ],
+  "entities": [
+   "peru",
+   "pedro-castillo"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2022-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "unplaced": "Lima has no place entity.",
+  "related_stories": []
  }
 ]
