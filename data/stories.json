@@ -20828,7 +20828,8 @@
    "2023-11-19-galaxy-leader-seized",
    "2024-07-31-haniyeh-killed",
    "2024-10-16-sinwar-killed",
-   "2024-04-01-damascus-consulate-strike"
+   "2024-04-01-damascus-consulate-strike",
+   "2023-10-08-hezbollah-support-front"
   ]
  },
  {
@@ -23476,6 +23477,60 @@
   "unplaced": "Arlit mine area; no place entity.",
   "related_stories": [
    "2023-07-26-niger-coup"
+  ]
+ },
+ {
+  "id": "2023-10-08-hezbollah-support-front",
+  "date": "2023-10-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-12-28",
+  "region": "Middle East",
+  "title": "Hezbollah opens a 'support front' for Gaza, starting a year of cross-border war",
+  "summary": "A day after Oct 7, Hezbollah shelled Israeli positions in the Shebaa Farms. Daily exchanges of rockets, drones and airstrikes followed, emptying border communities on both sides for nearly a year.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israel-strikes-lebanon-after-hezbollah-hits-shebaa-farms-2023-10-08/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/10/8/israel-hezbollah-exchange-fire-raising-regional-tensions"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hezbollah–Israel_conflict_(2023–present)"
+   }
+  ],
+  "entities": [
+   "hezbollah",
+   "israel",
+   "lebanon"
+  ],
+  "causes": [
+   {
+    "story": "2023-10-07-hamas-attack",
+    "why": "Solidarity front opened after Oct 7",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-12-28",
+  "storylines": [
+   "levant-wars",
+   "iran-proxy-network"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "military",
+  "unplaced": "Along the Lebanon–Israel border.",
+  "related_stories": [
+   "2023-10-07-hamas-attack",
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-10-14-lebanon-yellow-line",
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2024-09-17-pager-attacks",
+   "2024-11-27-israel-hezbollah-ceasefire"
   ]
  }
 ]
