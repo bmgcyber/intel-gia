@@ -24665,6 +24665,1417 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2025-12-28": {
+   "sha256": "39517cc84383f918b8cef36da9b1ab37c9b4d2c1cfeaf77cdb6a8faded0230d8",
+   "undo": {
+    "stories": {
+     "2025-01-01-pakistan-deadliest-year": null,
+     "2025-01-10-nsr-record": null,
+     "2025-01-11-wad-madani-retaken": null,
+     "2025-01-29-aes-leaves-ecowas": null,
+     "2025-03-11-jaffar-express": null,
+     "2025-03-14-svalbard-militarisation-row": null,
+     "2025-05-20-munir-field-marshal": null,
+     "2025-06-19-niger-nationalises-somair": null,
+     "2024-04-13-iran-strikes-israel": {
+      "id": "2024-04-13-iran-strikes-israel",
+      "date": "2024-04-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-06-30",
+      "region": "Middle East",
+      "title": "Iran launches its first direct attack on Israel after the Damascus consulate strike",
+      "summary": "Answering Israel's Apr 1 strike on its consulate in Damascus, Iran fired more than 300 drones and missiles at Israel. Nearly all were intercepted with US, UK, French and Jordanian help, and Israel's limited reply on Apr 19 hit near Isfahan.",
+      "sources": [
+       {
+        "name": "UN Secretary-General",
+        "url": "https://www.un.org/sg/en/content/sg/statement/2024-04-13/statement-the-secretary-general-regarding-attacks-the-islamic-republic-of-iran-targeting-israel"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "irgc",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-07-hamas-attack",
+        "why": "The Gaza war drew Iran and Israel into direct conflict",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-06-30",
+      "analysis": {
+       "text": "This broke the taboo on direct Iran–Israel strikes, leading to October 2024, June 2025 and the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "unplaced": "Launched across the region at Israel.",
+      "related_stories": [
+       "2023-10-07-hamas-attack",
+       "2025-06-13-israel-strikes-iran",
+       "2024-07-31-haniyeh-killed",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "kataib-hezbollah-halt",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-13-kharg-strike",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-08-17-mou-expires",
+       "2025-06-22-midnight-hammer",
+       "2024-10-01-iran-missile-barrage"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-12-08-assad-falls": {
+      "id": "2024-12-08-assad-falls",
+      "date": "2024-12-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-31",
+      "region": "Middle East",
+      "title": "Assad's regime collapses as HTS-led rebels take Damascus",
+      "summary": "An 11-day offensive from Idlib took Aleppo, Hama and Homs before rebels entered Damascus. Assad fled to Moscow, ending more than five decades of family rule. HTS leader Ahmed al-Sharaa took charge.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/dec/08/syrian-rebels-enter-damascus-everything-we-know"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/suspected-israeli-strikes-hit-part-damascus-two-security-sources-say-2024-12-08/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime"
+       }
+      ],
+      "entities": [
+       "syria",
+       "hts",
+       "bashar-al-assad",
+       "ahmed-al-sharaa",
+       "russia",
+       "iran"
+      ],
+      "causes": [
+       {
+        "story": "2024-11-27-israel-hezbollah-ceasefire",
+        "why": "Hezbollah too weakened to rescue Assad",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-08-06-kursk-incursion",
+        "why": "Russia stretched by Ukraine",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-31",
+      "analysis": {
+       "text": "Iran lost its land bridge to Hezbollah, opening the way for the 2025 US embrace of al-Sharaa.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "damascus"
+      ],
+      "related_stories": [
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-08-06-kursk-incursion",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-05-13-trump-lifts-syria-sanctions"
+      ]
+     },
+     "2025-03-10-sdf-damascus-deal": {
+      "id": "2025-03-10-sdf-damascus-deal",
+      "date": "2025-03-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Middle East",
+      "title": "Syria's al-Sharaa and the SDF sign a deal to merge Kurdish-run institutions into the state",
+      "summary": "Interim President Ahmed al-Sharaa and SDF commander Mazloum Abdi signed an eight-point deal to bring the northeast's civil and military institutions, border crossings and oil and gas fields under the Syrian state by year-end. The deadline passed without full implementation.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/syria-reaches-deal-integrate-sdf-within-state-institutions-presidency-says-2025-03-10/"
+       },
+       {
+        "name": "SANA",
+        "url": "https://archive.sana.sy/en/?p=349228"
+       },
+       {
+        "name": "Washington Institute",
+        "url": "https://www.washingtoninstitute.org/policy-analysis/sdfs-approach-integration-talks-syria-and-risk-expanded-conflict"
+       }
+      ],
+      "entities": [
+       "syria",
+       "sdf",
+       "ahmed-al-sharaa"
+      ],
+      "causes": [
+       {
+        "story": "2024-12-08-assad-falls",
+        "why": "Post-Assad order",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "damascus"
+      ],
+      "related_stories": [
+       "2024-12-08-assad-falls",
+       "2026-08-20-sdf-integration"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-01-19-gaza-ceasefire": {
+      "id": "2025-01-19-gaza-ceasefire",
+      "date": "2025-01-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Middle East",
+      "title": "First Gaza ceasefire takes effect; first hostages and prisoners swapped",
+      "summary": "A ceasefire between Israel and Hamas took effect on Jan 19 after a nearly three-hour delay. Hamas freed three Israeli women hostages and Israel released 90 Palestinian prisoners on the first day.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cvgpe1pmyq5o"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/1/19/israel-hamas-ceasefire-takes-effect-in-gaza"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2024-10-16-sinwar-killed",
+        "why": "Hamas leadership decapitated",
+        "confidence": "possible"
+       },
+       {
+        "story": "2023-11-24-gaza-hostage-truce",
+        "why": "The 2023 truce was the template for the hostage-prisoner exchange",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "unplaced": "Gaza Strip-wide; no single site.",
+      "related_stories": [
+       "2024-10-16-sinwar-killed",
+       "2023-11-24-gaza-hostage-truce",
+       "2025-03-18-gaza-war-resumes"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-09-28",
+        "why": "Phase D gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-03-21-khartoum-retaken": {
+      "id": "2025-03-21-khartoum-retaken",
+      "date": "2025-03-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Africa",
+      "title": "Sudan's army retakes the presidential palace; Burhan declares 'Khartoum is free'",
+      "summary": "The army recaptured the Republican Palace on Mar 21 and then Khartoum airport. On Mar 26 army chief Abdel Fattah al-Burhan returned to the palace and declared the capital free, though the RSF still held scattered positions.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/sudan-khartoum-republican-palace-rsf-war-3790a105d19b8da9ec484d6c48b46a89"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/3/21/sudans-army-retakes-presidential-palace-in-khartoum-strikes-blow-to-rsf"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cx2g0ppj9lyo"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2025/mar/21/sudan-army-recaptures-presidential-palace-khartoum-major-battlefield-gain"
+       }
+      ],
+      "entities": [
+       "sudanese-armed-forces",
+       "rsf",
+       "sudan"
+      ],
+      "causes": [
+       {
+        "story": "2021-10-25-sudan-coup",
+        "why": "The 2021 coup set the army–RSF split that became the 2023 war",
+        "confidence": "likely"
+       },
+       {
+        "story": "2023-04-15-sudan-war-begins",
+        "why": "The RSF seized much of Khartoum in April 2023",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "Losing the capital pushed the RSF west to Darfur and Kordofan, where the war has been concentrated since.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2021-10-25-sudan-coup",
+       "2023-04-15-sudan-war-begins",
+       "2025-10-26-el-fasher-falls",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-02-26-pakistan-afghanistan-war": {
+      "id": "2026-02-26-pakistan-afghanistan-war",
+      "date": "2026-02-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "Pakistan declares 'open war' on Taliban-ruled Afghanistan",
+      "summary": "After days of cross-border fighting, Pakistan's defence minister said the country was in 'open war' with Afghanistan, and Pakistani jets struck targets in Kabul, Kandahar and other provinces. The Taliban said it was open to talks.",
+      "sources": [
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/pakistan-strikes-afghanistan-targets-clashes-intensify-2026-02-27/"
+       },
+       {
+        "name": "Reuters (clashes)",
+        "url": "https://www.reuters.com/world/asia-pacific/afghanistan-has-launched-retaliatory-attacks-pakistani-border-posts-taliban-2026-02-26/"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "causes": [
+       {
+        "story": "2022-07-31-zawahiri",
+        "why": "Al-Qaeda's leader sheltering in Kabul showed the Taliban hosting militants, the core of Pakistan's complaint",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2025-10-19-afpak-doha-ceasefire",
+        "why": "The October 2025 ceasefire failed",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Islamabad blames the Taliban for sheltering the Pakistani Taliban (TTP). Its former proxy has become an enemy.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "kabul"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-09-17-saudi-pakistan-pact": {
+      "id": "2025-09-17-saudi-pakistan-pact",
+      "date": "2025-09-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Middle East",
+      "title": "Saudi Arabia and nuclear-armed Pakistan sign a mutual defence pact",
+      "summary": "Mohammed bin Salman and Shehbaz Sharif signed the Strategic Mutual Defence Agreement in Riyadh, under which aggression against one is aggression against both. AP noted it came days after Israel's strike in Qatar.",
+      "sources": [
+       {
+        "name": "Pakistan Foreign Ministry",
+        "url": "https://mofa.gov.pk/press-releases/joint-statement-on-the-state-visit-of-prime-minister-of-the-islamic-republic-of-pakistan-muhammad-shehbaz-sharif-to-the-kingdom-of-saudi-arabia"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-nuclear-armed-pakistan-sign-mutual-defence-pact-2025-09-17/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/pakistan-saudi-arabia-defense-agreement-israel-c2b5a57072eefed21041d39cb49f598e"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "pakistan",
+       "mohammed-bin-salman"
+      ],
+      "causes": [
+       {
+        "story": "2025-09-09-israel-strikes-doha",
+        "why": "Gulf doubts over US protection",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-05-07-operation-sindoor",
+        "why": "Pakistan's military stock was rising",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "2025-09-09-israel-strikes-doha",
+       "2025-05-07-operation-sindoor",
+       "2026-08-07-mecca-pact"
+      ]
+     },
+     "2025-09-jnim-fuel-blockade": {
+      "id": "2025-09-jnim-fuel-blockade",
+      "date": "2025-09",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Africa",
+      "title": "JNIM imposes a fuel blockade on Mali, shutting schools by October",
+      "summary": "Al-Qaeda-linked JNIM began attacking fuel tankers in early September to cut supplies to landlocked Mali. Bamako was hit hardest. By Oct 27 the government had closed schools nationwide and struck a fuel deal with Russia.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/mali-army-carries-out-airstrikes-after-militants-announce-blockade-fuel-imports-2025-09-08/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/mali-jnim-fuel-blockade-schools-dc75c7ef62995c4f7a25ca4be4b4a07a"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cm2w0zpew0ko"
+       },
+       {
+        "name": "Human Rights Watch",
+        "url": "https://www.hrw.org/news/2025/10/28/education-in-mali-shuttered-amid-islamist-armed-groups-siege"
+       }
+      ],
+      "entities": [
+       "jnim",
+       "mali",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2025-06-06-wagner-leaves-mali",
+        "why": "A thinner Russian security presence",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "bamako"
+      ],
+      "related_stories": [
+       "2025-06-06-wagner-leaves-mali",
+       "kidal",
+       "2026-04-25-mali-offensive",
+       "2026-04-28-bamako-blockade"
+      ]
+     },
+     "2024-05-02-m23-seizes-rubaya": {
+      "id": "2024-05-02-m23-seizes-rubaya",
+      "date": "2024-05-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Africa",
+      "title": "M23 seizes Rubaya, the Great Lakes' largest coltan mine, and taxes its output",
+      "summary": "After fighting in late April, M23 said on May 2 it held Rubaya. It had briefly entered in February 2023 before the army retook it. UN experts later found the rebels ran a parallel mining administration earning at least $800,000 a month, and that at least 150 tonnes of coltan were smuggled into Rwanda. They estimated 3,000–4,000 Rwandan troops in Congo.",
+      "sources": [
+       {
+        "name": "UN Group of Experts (S/2024/969)",
+        "url": "https://documents.un.org/doc/undoc/gen/n24/373/37/pdf/n2437337.pdf"
+       },
+       {
+        "name": "Reuters (UN experts)",
+        "url": "https://www.reuters.com/world/africa/congo-rebels-muddy-minerals-market-with-illegal-rwanda-exports-says-un-report-2025-01-08/"
+       },
+       {
+        "name": "AP (Rwandan troops)",
+        "url": "https://apnews.com/article/un-congo-rwanda-troops-m23-panel-experts-8619a4ce5727a7fec85808ef76762d9b"
+       },
+       {
+        "name": "Radio Okapi (2023 recapture)",
+        "url": "https://www.radiookapi.net/2023/03/01/actualite/securite/masisi-les-fardc-reprennent-la-cite-de-rubaya"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rubaya"
+       }
+      ],
+      "entities": [
+       "m23",
+       "rwanda",
+       "drc",
+       "coltan"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-13-bunagana",
+        "why": "M23's 2022 resurgence",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "unplaced": "Rubaya, Masisi territory, North Kivu (the existing rubaya entity has no coordinates).",
+      "related_stories": [
+       "2022-06-13-bunagana",
+       "kabila-m23",
+       "rubaya-coltan",
+       "kabila-frn-succeeds-afc",
+       "2026-01-19-m23-leaves-uvira",
+       "2026-03-washington-accords",
+       "2025-01-27-m23-takes-goma",
+       "2025-12-04-washington-accords-uvira"
+      ]
+     },
+     "rubaya-coltan": {
+      "id": "rubaya-coltan",
+      "date": "2026-10-14",
+      "region": "Africa",
+      "title": "M23 control of Rubaya coltan funds the rebellion",
+      "summary": "Rubaya produces ~15% of the world's coltan. UN experts say M23 taxation and smuggling via Rwanda can raise up to $800k a month. The US–DRC minerals pact is slowed by conflict.",
+      "analysis": {
+       "text": "Global demand for electronics and AI hardware flows into conflict financing.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "Argus",
+        "url": "https://www.argusmedia.com/en/news-and-insights/market-opinion-and-analysis-blog/rubaya-mine-collapse-tantalum-supply-chain"
+       },
+       {
+        "name": "OWP",
+        "url": "https://theowp.org/breaking-the-war-economy-behind-the-drcs-critical-minerals/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/us-struggling-de-risk-congos-war-zone-minerals-even-after-pact-sources-say-2026-03-02/"
+       }
+      ],
+      "entities": [
+       "m23",
+       "rubaya",
+       "coltan",
+       "rwanda",
+       "drc",
+       "united-states",
+       "china"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "drc-m23-minerals",
+       "ai-compute-minerals"
+      ],
+      "related_stories": [
+       "2022-06-13-bunagana",
+       "ai-minerals",
+       "kabila-m23"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-13-bunagana",
+        "why": "M23 territorial expansion since 2022",
+        "confidence": "likely"
+       }
+      ],
+      "effects": []
+     },
+     "2024-10-02-china-coast-guard-arctic": {
+      "id": "2024-10-02-china-coast-guard-arctic",
+      "date": "2024-10-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Russia/Eurasia",
+      "title": "China's coast guard enters the Arctic for the first time on a joint patrol with Russia",
+      "summary": "Days after the US Coast Guard tracked Chinese and Russian ships in the Bering Sea, China's Meishan entered the Arctic Ocean. Bombers had flown jointly near Alaska in July, and the US called it growing strategic interest in the Arctic.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/chinas-coast-guard-enters-arctic-first-time-patrol-with-russia-2024-10-02/"
+       },
+       {
+        "name": "US Coast Guard",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/3922625/us-coast-guard-encounters-joint-chinese-coast-guard-russian-border-guard-patrol/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/us-china-russia-coast-guard-356dfbf91a4861798c9b920196c4bc50"
+       },
+       {
+        "name": "CSIS ChinaPower",
+        "url": "https://chinapower.csis.org/analysis/china-russia-coast-guard-cooperation/"
+       }
+      ],
+      "entities": [
+       "china",
+       "russia",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-04-no-limits",
+        "why": "Sino-Russian partnership extended to the Arctic",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "analysis": {
+       "text": "The Arctic became an arena of great-power competition, part of the backdrop to Trump's 2025–26 Greenland push.",
+       "confidence": "possible"
+      },
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "unplaced": "At sea in the Arctic.",
+      "related_stories": [
+       "2022-02-04-no-limits",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-11-06-c5-plus-1-summit",
+       "2026-01-21-greenland-davos"
+      ]
+     },
+     "2023-12-18-wad-madani-falls": {
+      "id": "2023-12-18-wad-madani-falls",
+      "date": "2023-12-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Africa",
+      "title": "RSF seizes Wad Madani, Sudan's second city and an aid hub",
+      "summary": "The army withdrew from Gezira state's capital, where hundreds of thousands who had fled Khartoum were sheltering, setting off new flight and RSF abuses in Gezira.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2023/12/19/losing-hope-sudan-civilians-terrified-as-rsf-attacks-second-biggest-city"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/12/20/world/africa/sudan-army-rsf-wad-madani.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Wad_Madani"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudanese-armed-forces",
+       "sudan"
+      ],
+      "causes": [
+       {
+        "story": "2023-04-15-sudan-war-begins",
+        "why": "RSF expansion beyond Khartoum",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "wad-madani"
+      ],
+      "related_stories": [
+       "2023-04-15-sudan-war-begins",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-05-11-jeddah-declaration",
+       "2024-05-10-el-fasher-siege"
+      ]
+     },
+     "2024-07-06-aes-confederation": {
+      "id": "2024-07-06-aes-confederation",
+      "date": "2024-07-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Africa",
+      "title": "Mali, Burkina Faso and Niger form the Alliance of Sahel States confederation",
+      "summary": "Having announced their exit from ECOWAS in January, the three juntas signed a confederation treaty in Niamey and turned further toward Russia.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/7/6/niger-mali-and-burkina-faso-military-leaders-sign-new-pact-rebuff-ecowas"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+       }
+      ],
+      "entities": [
+       "alliance-of-sahel-states",
+       "mali",
+       "burkina-faso",
+       "niger",
+       "ecowas",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Shift from France to Russia",
+        "confidence": "likely"
+       },
+       {
+        "story": "2023-07-26-niger-coup",
+        "why": "Niger's coup completed the junta bloc",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-01-25-africa-corps-burkina",
+        "why": "Russian security backing for the juntas",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "diplomacy",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-02-17-france-leaves-mali",
+       "2023-07-26-niger-coup",
+       "2024-01-25-africa-corps-burkina",
+       "2025-06-06-wagner-leaves-mali"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-09-28",
+        "why": "Phase D gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-03-07-sweden-joins-nato": {
+      "id": "2024-03-07-sweden-joins-nato",
+      "date": "2024-03-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Europe",
+      "title": "Sweden joins NATO, making the Baltic almost a NATO lake and adding Arctic depth",
+      "summary": "After Hungary's ratification, Sweden became the 32nd member. With Finland, it put most of the Nordic Arctic inside NATO, facing Russia's Kola Peninsula bases.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/hungarys-parliament-speaker-signs-off-swedens-nato-accession-2024-03-02/"
+       },
+       {
+        "name": "US State Department (protocol)",
+        "url": "https://www.state.gov/wp-content/uploads/2024/03/website-39-Protocol-to-the-North-Atlantic-Treaty-on-the-Accession-of-the-Kingdom-of-Sweden.pdf"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sweden–NATO_relations"
+       }
+      ],
+      "entities": [
+       "sweden",
+       "finland",
+       "nato",
+       "russia",
+       "hungary"
+      ],
+      "causes": [
+       {
+        "story": "2023-04-04-finland-joins-nato",
+        "why": "Completes the Nordic enlargement",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "diplomacy",
+      "unplaced": "Ceremony in Washington.",
+      "related_stories": [
+       "2023-04-04-finland-joins-nato",
+       "2022-05-18-finland-sweden",
+       "2022-06-29-madrid"
+      ]
+     },
+     "2025-05-07-operation-sindoor": {
+      "id": "2025-05-07-operation-sindoor",
+      "date": "2025-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Asia-Pacific",
+      "title": "India's Operation Sindoor strikes Pakistan; a ceasefire follows four days later",
+      "summary": "After the Apr 22 Pahalgam attack, India struck nine sites it called terrorist infrastructure in Pakistan and Pakistan-administered Kashmir. Four days of missile, drone and artillery exchanges followed until the military chiefs agreed to stop on May 10.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/what-happened-indias-attack-pakistan-over-kashmir-tourists-killings-2025-05-07/"
+       },
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IF13000"
+       },
+       {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/specials/four-days-in-may-how-operation-sindoor-evolved/index.html"
+       },
+       {
+        "name": "India PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128747&lang=2&reg=3"
+       }
+      ],
+      "entities": [
+       "india",
+       "pakistan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "Pakistan came out of the clash with more standing in Washington and the Gulf, which fed its 2025–26 roles as Saudi defence partner and US–Iran mediator.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "strike",
+      "unplaced": "Strikes on several sites in Pakistan and Pakistan-administered Kashmir.",
+      "related_stories": [
+       "2025-09-17-saudi-pakistan-pact"
+      ]
+     },
+     "2023-07-26-niger-coup": {
+      "id": "2023-07-26-niger-coup",
+      "date": "2023-07-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Africa",
+      "title": "Niger's presidential guard ousts Bazoum; Tiani takes power",
+      "summary": "Gen. Abdourahamane Tiani's guard detained President Bazoum. ECOWAS threatened force but backed down, and the junta expelled French and later US troops, completing the Sahel's turn from the West.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/soldiers-nigers-presidential-guard-blockade-presidents-office-security-sources-2023-07-26/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/7/26/soldiers-holding-niger-president-inside-palace-security-sources"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/africa/20230726-african-union-ecowas-condemn-attempted-coup-in-niger"
+       }
+      ],
+      "entities": [
+       "niger",
+       "abdourahamane-tiani",
+       "mohamed-bazoum",
+       "ecowas",
+       "france"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Contagion of Sahel coups",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "France's Sahel retreat",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-09-30-burkina-coup2",
+       "2022-02-17-france-leaves-mali",
+       "2024-07-06-aes-confederation",
+       "2024-08-05-us-leaves-agadez"
+      ]
+     },
+     "2024-12-01-sna-tell-rifaat": {
+      "id": "2024-12-01-sna-tell-rifaat",
+      "date": "2024-12-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-29",
+      "region": "Middle East",
+      "title": "Turkish-backed SNA seizes Tell Rifaat from Kurdish-led forces, then Manbij",
+      "summary": "In 'Operation Dawn of Freedom', the Syrian National Army used the rebel offensive to push the SDF out of Tell Rifaat on Dec 1. After a US–Turkey arrangement it entered Manbij on Dec 8–9.",
+      "sources": [
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/live-news/20241201-monitor-says-pro-turkey-fighters-seize-syria-town-from-kurdish-forces"
+       },
+       {
+        "name": "Reuters (Manbij)",
+        "url": "https://www.reuters.com/world/middle-east/rebels-take-north-syria-town-us-backed-group-turkish-source-says-2024-12-09/"
+       },
+       {
+        "name": "Anadolu",
+        "url": "https://h.aa.com.tr/en/middle-east/syrian-national-army-enters-tel-rifaat-in-major-offensive-against-pkk-ypg-terror-corridor/3410334"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Dawn_of_Freedom"
+       }
+      ],
+      "entities": [
+       "sna",
+       "sdf",
+       "turkey",
+       "recep-tayyip-erdogan",
+       "syria"
+      ],
+      "causes": [
+       {
+        "story": "2024-11-30-aleppo-falls",
+        "why": "Opening created by the rebel offensive",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-29",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "tell-rifaat"
+      ],
+      "related_stories": [
+       "2024-11-30-aleppo-falls"
+      ]
+     },
+     "2024-06-10-unsc-2735": {
+      "id": "2024-06-10-unsc-2735",
+      "date": "2024-06-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-29",
+      "region": "Middle East",
+      "title": "UN Security Council backs Biden's three-phase Gaza ceasefire plan (Resolution 2735)",
+      "summary": "The US-drafted text passed 14–0 with Russia abstaining. It welcomed the May 31 proposal Israel had accepted and called on Hamas to accept it: ceasefire and hostage releases, then permanent end and withdrawal, then reconstruction. It rejected any reduction of Gaza's territory.",
+      "sources": [
+       {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2024/06/1150886"
+       },
+       {
+        "name": "UN (S/RES/2735 text)",
+        "url": "https://www.un.org/unispal/document/sres2735-2024-10jun24/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/hamas-welcomes-un-security-council-resolution-gaza-ceasefire-2024-06-10/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_2735"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "israel",
+       "hamas",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2023-11-24-gaza-hostage-truce",
+        "why": "Built on the hostage-exchange formula",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-03-18-gaza-famine-warning",
+        "why": "Humanitarian pressure",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-29",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "diplomacy",
+      "unplaced": "Adopted at UN headquarters in New York.",
+      "related_stories": [
+       "2023-11-24-gaza-hostage-truce",
+       "2024-03-18-gaza-famine-warning",
+       "2026-10-gaza-phase-two-stalled",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803"
+      ]
+     },
+     "2024-08-24-barsalogho-massacre": {
+      "id": "2024-08-24-barsalogho-massacre",
+      "date": "2024-08-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-29",
+      "region": "Africa",
+      "title": "JNIM kills hundreds of civilians digging trenches at Barsalogho, Burkina Faso",
+      "summary": "Estimates of the death toll range from 200 to 600. Many were civilians conscripted by Traoré's junta to dig defensive trenches, one of the deadliest attacks in the Sahel war.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/suspected-jihadists-kill-hundreds-burkina-faso-attack-2024-08-27/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/8/25/up-to-200-people-killed-in-attack-in-central-burkina-faso"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Barsalogho_massacre"
+       }
+      ],
+      "entities": [
+       "jnim",
+       "burkina-faso",
+       "ibrahim-traore"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Traoré's mass-mobilisation strategy",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-29",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "barsalogho"
+      ],
+      "related_stories": [
+       "2022-09-30-burkina-coup2"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-07-us-rsf-genocide"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre"
+      ],
+      "source": "threads.md"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {
+     "rubaya": {
+      "id": "rubaya",
+      "name": "Rubaya",
+      "type": "place",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rubaya"
+     }
+    },
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

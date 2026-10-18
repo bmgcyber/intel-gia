@@ -207,7 +207,19 @@
   "id": "rubaya",
   "name": "Rubaya",
   "type": "place",
-  "wikipedia": "https://en.wikipedia.org/wiki/Rubaya"
+  "wikipedia": "https://en.wikipedia.org/wiki/Rubaya",
+  "lat": -1.54625,
+  "lon": 28.87352778,
+  "precision": "city",
+  "location_revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Coordinates from the Rubaya Wikipedia article (1°32′46.5″S 28°52′24.7″E); the entity was created without them.",
+    "lat": -1.54625,
+    "lon": 28.87352778,
+    "precision": "city"
+   }
+  ]
  },
  {
   "id": "mali",

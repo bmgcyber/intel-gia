@@ -987,7 +987,13 @@
   "related_stories": [
    "2022-06-13-bunagana",
    "ai-minerals",
-   "kabila-m23"
+   "kabila-m23",
+   "kabila-frn-succeeds-afc",
+   "2026-01-19-m23-leaves-uvira",
+   "2026-03-washington-accords",
+   "2025-01-27-m23-takes-goma",
+   "2025-12-04-washington-accords-uvira",
+   "2024-05-02-m23-seizes-rubaya"
   ],
   "causes": [
    {
@@ -996,7 +1002,19 @@
     "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "where": [
+   "rubaya"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Re-pin to Rubaya now that the place has coordinates",
+    "fields": [
+     "where"
+    ]
+   }
+  ]
  },
  {
   "id": "kidal",
@@ -8590,6 +8608,11 @@
     "story": "2025-10-19-afpak-doha-ceasefire",
     "why": "The October 2025 ceasefire failed",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-01-01-pakistan-deadliest-year",
+    "why": "TTP violence Pakistan blamed on Kabul",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -8609,6 +8632,7 @@
   "related_stories": [
    "2022-07-31-zawahiri",
    "2025-10-19-afpak-doha-ceasefire",
+   "2025-01-01-pakistan-deadliest-year",
    "2026-03-16-kabul-hospital-strike",
    "2026-10-05-taliban-diplomacy"
   ],
@@ -8616,6 +8640,13 @@
    {
     "edition": "2025-12-31",
     "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12264,6 +12295,11 @@
     "story": "2023-11-24-gaza-hostage-truce",
     "why": "The 2023 truce was the template for the hostage-prisoner exchange",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-06-10-unsc-2735",
+    "why": "The deal followed the 2735 three-phase framework",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12277,6 +12313,7 @@
   "related_stories": [
    "2024-10-16-sinwar-killed",
    "2023-11-24-gaza-hostage-truce",
+   "2024-06-10-unsc-2735",
    "2025-03-18-gaza-war-resumes"
   ],
   "revisions": [
@@ -12290,6 +12327,13 @@
    {
     "edition": "2026-09-28",
     "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12575,6 +12619,11 @@
     "story": "2024-12-08-assad-falls",
     "why": "Post-Assad order",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-12-01-sna-tell-rifaat",
+    "why": "Turkish-backed pressure on the SDF",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -12589,12 +12638,20 @@
   ],
   "related_stories": [
    "2024-12-08-assad-falls",
+   "2024-12-01-sna-tell-rifaat",
    "2026-08-20-sdf-integration"
   ],
   "revisions": [
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12762,6 +12819,11 @@
     "story": "2023-04-15-sudan-war-begins",
     "why": "The RSF seized much of Khartoum in April 2023",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-01-11-wad-madani-retaken",
+    "why": "Army momentum from Gezira",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12781,15 +12843,26 @@
   "related_stories": [
    "2021-10-25-sudan-coup",
    "2023-04-15-sudan-war-begins",
+   "2025-01-11-wad-madani-retaken",
    "2025-10-26-el-fasher-falls",
    "2026-02-03-kadugli-siege-broken",
    "2026-06-el-obeid-atrocity-warning",
-   "2026-10-09-el-obeid-drones"
+   "2026-10-09-el-obeid-drones",
+   "2023-05-11-jeddah-declaration",
+   "2023-12-18-wad-madani-falls",
+   "2024-05-10-el-fasher-siege"
   ],
   "revisions": [
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -13367,7 +13440,8 @@
   "marker": "strike",
   "unplaced": "Strikes on several sites in Pakistan and Pakistan-administered Kashmir.",
   "related_stories": [
-   "2025-09-17-saudi-pakistan-pact"
+   "2025-09-17-saudi-pakistan-pact",
+   "2025-05-20-munir-field-marshal"
   ]
  },
  {
@@ -14327,6 +14401,11 @@
     "story": "2025-06-06-wagner-leaves-mali",
     "why": "A thinner Russian security presence",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-08-24-barsalogho-massacre",
+    "why": "JNIM's growing reach across the Sahel",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -14341,9 +14420,19 @@
   ],
   "related_stories": [
    "2025-06-06-wagner-leaves-mali",
+   "2024-08-24-barsalogho-massacre",
+   "2026-04-28-bamako-blockade",
    "kidal",
-   "2026-04-25-mali-offensive",
-   "2026-04-28-bamako-blockade"
+   "2026-04-25-mali-offensive"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -14546,6 +14635,11 @@
     "story": "2025-05-07-operation-sindoor",
     "why": "Pakistan's military stock was rising",
     "confidence": "speculative"
+   },
+   {
+    "story": "2025-05-20-munir-field-marshal",
+    "why": "Munir's elevated role in foreign policy",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -14561,7 +14655,17 @@
   "related_stories": [
    "2025-09-09-israel-strikes-doha",
    "2025-05-07-operation-sindoor",
+   "2025-05-20-munir-field-marshal",
    "2026-08-07-mecca-pact"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -18188,6 +18292,11 @@
     "story": "2023-10-07-hamas-attack",
     "why": "The Gaza war drew Iran and Israel into direct conflict",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-04-01-damascus-consulate-strike",
+    "why": "Iran retaliated for the consulate strike",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -18204,6 +18313,7 @@
   "unplaced": "Launched across the region at Israel.",
   "related_stories": [
    "2023-10-07-hamas-attack",
+   "2024-04-01-damascus-consulate-strike",
    "2025-06-13-israel-strikes-iran",
    "2024-07-31-haniyeh-killed",
    "hormuz-attacks-surge",
@@ -18226,6 +18336,13 @@
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -18637,7 +18754,8 @@
    "2022-02-17-france-leaves-mali",
    "2023-07-26-niger-coup",
    "2024-01-25-africa-corps-burkina",
-   "2025-06-06-wagner-leaves-mali"
+   "2025-06-06-wagner-leaves-mali",
+   "2025-01-29-aes-leaves-ecowas"
   ],
   "revisions": [
    {
@@ -19555,6 +19673,11 @@
     "story": "2024-08-06-kursk-incursion",
     "why": "Russia stretched by Ukraine",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-11-30-aleppo-falls",
+    "why": "Aleppo's fall began the collapse",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -19575,8 +19698,18 @@
   "related_stories": [
    "2024-11-27-israel-hezbollah-ceasefire",
    "2024-08-06-kursk-incursion",
+   "2024-11-30-aleppo-falls",
    "2025-03-10-sdf-damascus-deal",
    "2025-05-13-trump-lifts-syria-sanctions"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Phase E gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -20416,7 +20549,8 @@
    "2022-09-30-burkina-coup2",
    "2022-02-17-france-leaves-mali",
    "2024-07-06-aes-confederation",
-   "2024-08-05-us-leaves-agadez"
+   "2024-08-05-us-leaves-agadez",
+   "2025-06-19-niger-nationalises-somair"
   ]
  },
  {
@@ -21571,7 +21705,8 @@
    "2025-03-21-khartoum-retaken",
    "2025-10-26-el-fasher-falls",
    "2023-05-11-jeddah-declaration",
-   "2024-05-10-el-fasher-siege"
+   "2024-05-10-el-fasher-siege",
+   "2025-01-11-wad-madani-retaken"
   ]
  },
  {
@@ -21754,7 +21889,8 @@
   "related_stories": [
    "2023-04-04-finland-joins-nato",
    "2022-05-18-finland-sweden",
-   "2022-06-29-madrid"
+   "2022-06-29-madrid",
+   "2025-03-14-svalbard-militarisation-row"
   ]
  },
  {
@@ -21861,16 +21997,28 @@
   ],
   "era": "2024 (wars widen; election year)",
   "marker": "military",
-  "unplaced": "Rubaya, Masisi territory, North Kivu (the existing rubaya entity has no coordinates).",
   "related_stories": [
    "2022-06-13-bunagana",
+   "2025-01-27-m23-takes-goma",
    "kabila-m23",
    "rubaya-coltan",
    "kabila-frn-succeeds-afc",
    "2026-01-19-m23-leaves-uvira",
    "2026-03-washington-accords",
-   "2025-01-27-m23-takes-goma",
    "2025-12-04-washington-accords-uvira"
+  ],
+  "where": [
+   "rubaya"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-28",
+    "why": "Re-pin to Rubaya now that the place has coordinates",
+    "fields": [
+     "where",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -21983,7 +22131,8 @@
    "2026-02-05-new-start-expires",
    "2026-09-18-graham-act-signed",
    "2025-11-06-c5-plus-1-summit",
-   "2026-01-21-greenland-davos"
+   "2026-01-21-greenland-davos",
+   "2025-01-10-nsr-record"
   ]
  },
  {
@@ -22589,7 +22738,8 @@
    "2026-10-gaza-phase-two-stalled",
    "2025-09-09-israel-strikes-doha",
    "2025-10-10-gaza-ceasefire-trump-plan",
-   "2025-11-17-unsc-2803"
+   "2025-11-17-unsc-2803",
+   "2025-01-19-gaza-ceasefire"
   ]
  },
  {
@@ -22749,7 +22899,8 @@
    "barsalogho"
   ],
   "related_stories": [
-   "2022-09-30-burkina-coup2"
+   "2022-09-30-burkina-coup2",
+   "2025-09-jnim-fuel-blockade"
   ]
  },
  {
@@ -22861,7 +23012,8 @@
    "tell-rifaat"
   ],
   "related_stories": [
-   "2024-11-30-aleppo-falls"
+   "2024-11-30-aleppo-falls",
+   "2025-03-10-sdf-damascus-deal"
   ]
  },
  {
@@ -22915,6 +23067,415 @@
   ],
   "related_stories": [
    "2024-03-06-true-confidence"
+  ]
+ },
+ {
+  "id": "2025-01-01-pakistan-deadliest-year",
+  "date": "2025-01-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Asia-Pacific",
+  "title": "2024 was Pakistan's deadliest year in a decade as TTP and BLA attacks surged",
+  "summary": "PICSS counted 908 militant attacks in 2024, up about 41%, killing 1,158. The TTP was most active in Khyber Pakhtunkhwa and the BLA in Balochistan. Islamabad blamed Taliban-ruled Afghanistan for sheltering the TTP.",
+  "sources": [
+   {
+    "name": "PICSS annual report 2024",
+    "url": "https://picss.net/wp-content/uploads/2025/04/PICSS-Annual-Report-2024-Final.pdf"
+   },
+   {
+    "name": "CRSS",
+    "url": "https://crss.pk/2024-marks-deadliest-year-for-pakistans-security-forces-record-high-fatalities-in-a-decade/"
+   },
+   {
+    "name": "The Nation",
+    "url": "https://www.nation.com.pk/01-Jan-2025/pakistan-witnessed-40pc-surge-in-militant-attacks-in-2024"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "ttp",
+   "bla",
+   "afghanistan",
+   "taliban"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "pakistan-afghanistan-war",
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Nationwide statistics.",
+  "related_stories": [
+   "2026-02-26-pakistan-afghanistan-war",
+   "2025-03-11-jaffar-express",
+   "2026-03-16-kabul-hospital-strike",
+   "2026-10-05-taliban-diplomacy",
+   "2025-10-19-afpak-doha-ceasefire"
+  ]
+ },
+ {
+  "id": "2025-01-10-nsr-record",
+  "date": "2025-01-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Russia/Eurasia",
+  "title": "Russia reports record Northern Sea Route cargo as it pushes Arctic shipping",
+  "summary": "Rosatom said 2024 NSR cargo reached nearly 37.9m tonnes, with a record 92 transit voyages and over 3m tonnes of transit cargo. The largest container ship yet crossed the route.",
+  "sources": [
+   {
+    "name": "Rosatom",
+    "url": "https://www.rosatom.ru/en/press-centre/news/new-record-set-for-volume-of-cargo-shipped-along-the-northern-sea-route/"
+   },
+   {
+    "name": "World Nuclear News",
+    "url": "https://world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Northern_Sea_Route"
+   }
+  ],
+  "entities": [
+   "russia",
+   "rosatom",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2024-10-02-china-coast-guard-arctic",
+    "why": "Sino-Russian Arctic cooperation",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "energy",
+  "unplaced": "Route spans the Russian Arctic.",
+  "related_stories": [
+   "2024-10-02-china-coast-guard-arctic"
+  ]
+ },
+ {
+  "id": "2025-01-11-wad-madani-retaken",
+  "date": "2025-01-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Africa",
+  "title": "Sudan's army retakes Wad Madani, opening the road back to Khartoum",
+  "summary": "Thirteen months after the RSF seized it, the army re-entered Gezira's capital. Its momentum carried to the recapture of Khartoum in March.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/1/11/sudan-army-says-its-forces-enter-wad-madani-in-push-to-retake-city-from-rsf"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/sudanese-army-advances-retake-city-wad-madani-rebels-2025-01-11/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Wad_Madani"
+   }
+  ],
+  "entities": [
+   "sudanese-armed-forces",
+   "rsf",
+   "sudan"
+  ],
+  "causes": [
+   {
+    "story": "2023-12-18-wad-madani-falls",
+    "why": "Reverses the 2023 loss",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "wad-madani"
+  ],
+  "related_stories": [
+   "2023-12-18-wad-madani-falls",
+   "2025-03-21-khartoum-retaken",
+   "2026-02-03-kadugli-siege-broken",
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-10-09-el-obeid-drones",
+   "2025-10-26-el-fasher-falls",
+   "2023-04-15-sudan-war-begins",
+   "2023-05-11-jeddah-declaration",
+   "2024-05-10-el-fasher-siege"
+  ]
+ },
+ {
+  "id": "2025-01-29-aes-leaves-ecowas",
+  "date": "2025-01-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Africa",
+  "title": "Mali, Burkina Faso and Niger formally leave ECOWAS",
+  "summary": "A year after announcing their exit, the three juntas' withdrawal took effect. ECOWAS kept free movement and trade in place for now while the Alliance of Sahel States built its own institutions.",
+  "sources": [
+   {
+    "name": "ECOWAS",
+    "url": "https://www.ecowas.int/burkina-faso-mali-and-nigers-withdrawal-from-ecowas-is-now-a-reality/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/west-africa-bloc-announces-formal-exit-three-junta-led-states-2025-01-29/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c5yvd91j72eo"
+   }
+  ],
+  "entities": [
+   "aes",
+   "ecowas",
+   "mali",
+   "burkina-faso",
+   "niger"
+  ],
+  "causes": [
+   {
+    "story": "2024-07-06-aes-confederation",
+    "why": "Confederation completed the break",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Announced in Abuja.",
+  "related_stories": [
+   "2024-07-06-aes-confederation"
+  ]
+ },
+ {
+  "id": "2025-03-11-jaffar-express",
+  "date": "2025-03-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Asia-Pacific",
+  "title": "BLA hijacks the Jaffar Express in Balochistan with about 380 aboard",
+  "summary": "Militants blew up the track in a remote mountainous area and seized the Quetta–Peshawar train. The army freed 354 hostages. Officials said 64 died, including 33 attackers, and Pakistan accused India of sponsoring the group.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/3/11/deadly-pakistan-train-hijack-what-happened-and-whats-next"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/mar/14/pakistan-accuses-india-of-sponsoring-militant-terror-group-after-train-hijacking"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/who-are-pakistani-baloch-separatist-militants-behind-train-hijacking-2025-03-11/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2025_Jaffar_Express_hijacking"
+   }
+  ],
+  "entities": [
+   "bla",
+   "pakistan",
+   "india"
+  ],
+  "causes": [
+   {
+    "story": "2025-01-01-pakistan-deadliest-year",
+    "why": "Rising Baloch insurgency",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Bolan district, Balochistan (no place entity).",
+  "related_stories": [
+   "2025-01-01-pakistan-deadliest-year"
+  ]
+ },
+ {
+  "id": "2025-03-14-svalbard-militarisation-row",
+  "date": "2025-03-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Europe",
+  "title": "Russia accuses Norway of militarising Svalbard; Oslo says it complies with the 1920 treaty",
+  "summary": "Moscow summoned Norway's ambassador over dual-use facilities and NATO activity on the archipelago, where Russia keeps the mining town of Barentsburg. China's research presence has also drawn Norwegian scrutiny.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-accuses-norway-militarising-svalbard-arctic-islands-2025-03-14/"
+   },
+   {
+    "name": "TASS",
+    "url": "https://tass.com/politics/1928209"
+   },
+   {
+    "name": "NRK",
+    "url": "https://www.nrk.no/nyheter/ud-etter-russisk-svalbard-utspill_-_-opptrer-selvfolgelig-i-trad-med-svalbardtraktaten-1.17340591"
+   },
+   {
+    "name": "Radio Free Asia",
+    "url": "https://www.rfa.org/english/china/2024/11/07/china-arctic-norway-svalbard/"
+   }
+  ],
+  "entities": [
+   "russia",
+   "norway",
+   "nato",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2024-03-07-sweden-joins-nato",
+    "why": "Nordic NATO expansion sharpened Arctic rivalry",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Diplomatic row in Moscow and Oslo.",
+  "related_stories": [
+   "2024-03-07-sweden-joins-nato",
+   "2022-02-04-no-limits",
+   "2022-06-29-madrid"
+  ]
+ },
+ {
+  "id": "2025-05-20-munir-field-marshal",
+  "date": "2025-05-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Asia-Pacific",
+  "title": "Pakistan promotes army chief Asim Munir to field marshal after the India clash",
+  "summary": "The cabinet made Munir only the second field marshal in Pakistan's history after the May conflict with India. He was later also named Pakistan's first Chief of Defence Forces.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/5/21/pakistan-promotes-army-chief-asim-munir-to-field-marshal-why-it-matters"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/may/10/who-is-gen-asim-munir-army-chief-leading-pakistan-military-over-india-crisis"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Asim_Munir"
+   }
+  ],
+  "entities": [
+   "asim-munir",
+   "pakistan",
+   "shehbaz-sharif"
+  ],
+  "causes": [
+   {
+    "story": "2025-05-07-operation-sindoor",
+    "why": "Claimed victory over India",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2025-05-07-operation-sindoor",
+   "2025-09-17-saudi-pakistan-pact",
+   "2024-02-08-pakistan-election"
+  ]
+ },
+ {
+  "id": "2025-06-19-niger-nationalises-somair",
+  "date": "2025-06-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-28",
+  "region": "Africa",
+  "title": "Niger nationalises Orano's Somair uranium mine, completing the French ouster",
+  "summary": "The junta revoked Orano's Imouraren permit in June 2024 and took operational control of Somair in December. It then nationalised the mine, accusing the French state company of taking more than its share of output. Orano went to arbitration.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/niger-nationalize-somair-uranium-venture-operated-by-frances-orano-2025-06-19/"
+   },
+   {
+    "name": "Reuters (Somair control)",
+    "url": "https://www.reuters.com/markets/commodities/frances-orano-says-it-has-lost-control-uranium-mine-niger-2024-12-04/"
+   },
+   {
+    "name": "Orano annual report 2024",
+    "url": "https://www.orano.group/finance-raa2024/en/32/"
+   },
+   {
+    "name": "Africanews",
+    "url": "https://www.africanews.com/2024/12/21/frances-orano-launches-arbitration-against-niger-over-mining-licence/"
+   }
+  ],
+  "entities": [
+   "niger",
+   "orano",
+   "france",
+   "abdourahamane-tiani"
+  ],
+  "causes": [
+   {
+    "story": "2023-07-26-niger-coup",
+    "why": "Break with France after the coup",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-28",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "energy",
+  "unplaced": "Arlit mine area; no place entity.",
+  "related_stories": [
+   "2023-07-26-niger-coup"
   ]
  }
 ]
