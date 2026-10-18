@@ -1,0 +1,799 @@
+{
+ "edition": "2009-12-31",
+ "stories": [
+  {
+   "id": "2009-10-17-south-waziristan-offensive",
+   "date": "2009-10-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "Pakistan launches a major offensive against the Pakistani Taliban in South Waziristan",
+   "summary": "Operation Rah-e-Nijat pushed militants into North Waziristan and Afghanistan.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Rah-e-Nijat"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "ttp"
+   ],
+   "storylines": [
+    "south-asia-security",
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "unplaced": "South Waziristan, Pakistani tribal areas."
+  },
+  {
+   "id": "2009-10-20-greece-deficit-revealed",
+   "date": "2009-10-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Europe",
+   "title": "Greece's new government reveals a far larger deficit than reported",
+   "summary": "Papandreou's admission set off the sovereign-debt crisis that engulfed the eurozone.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+    }
+   ],
+   "entities": [
+    "greece",
+    "george-papandreou",
+    "european-union"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "athens"
+   ]
+  },
+  {
+   "id": "2009-11-05-fort-hood-shooting",
+   "date": "2009-11-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "An Army psychiatrist kills 13 at Fort Hood in Texas",
+   "summary": "Nidal Hasan had corresponded with AQAP cleric Anwar al-Awlaki.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Fort_Hood_shooting"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "aqap"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "fort-hood"
+   ]
+  },
+  {
+   "id": "2009-11-25-dubai-world-standstill",
+   "date": "2009-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Middle East",
+   "title": "Dubai World asks creditors to freeze its debts, shaking markets",
+   "summary": "Abu Dhabi bailed Dubai out, shifting power within the UAE toward the capital.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dubai_World"
+    }
+   ],
+   "entities": [
+    "uae",
+    "dubai-world"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "dubai"
+   ]
+  },
+  {
+   "id": "2009-12-01-lisbon-treaty-in-force",
+   "date": "2009-12-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Europe",
+   "title": "The Lisbon Treaty takes effect, creating an EU president and foreign-policy chief",
+   "summary": "Its Article 50 created the exit procedure later used by the UK.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Lisbon"
+    }
+   ],
+   "entities": [
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2009-12-01-obama-afghan-surge",
+   "date": "2009-12-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "Obama orders 30,000 more troops to Afghanistan, with a drawdown from 2011",
+   "summary": "The West Point speech launched the surge led by McChrystal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/War_in_Afghanistan_%282001%E2%80%932021%29"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "afghanistan",
+    "barack-obama",
+    "taliban",
+    "stanley-mcchrystal"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "war-on-terror"
+   ],
+   "marker": "military",
+   "where": [
+    "kabul"
+   ]
+  },
+  {
+   "id": "2009-12-18-copenhagen-accord",
+   "date": "2009-12-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Europe",
+   "title": "Copenhagen climate summit ends with a weak, non-binding accord",
+   "summary": "The failure to agree binding targets shaped the bottom-up Paris Agreement of 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference"
+    }
+   ],
+   "entities": [
+    "cop",
+    "united-states",
+    "china"
+   ],
+   "storylines": [
+    "climate-diplomacy"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "copenhagen"
+   ]
+  },
+  {
+   "id": "2009-12-25-underwear-bomber",
+   "date": "2009-12-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "AQAP's 'underwear bomber' tries to bring down a Detroit-bound airliner",
+   "summary": "Umar Farouk Abdulmutallab's failed attack drew US attention to Yemen and AQAP.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Umar_Farouk_Abdulmutallab"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula"
+    }
+   ],
+   "entities": [
+    "aqap",
+    "united-states",
+    "yemen",
+    "nigeria"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "detroit"
+   ]
+  },
+  {
+   "id": "2009-12-30-camp-chapman-attack",
+   "date": "2009-12-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "A double agent kills seven CIA officers at Camp Chapman in Khost",
+   "summary": "The Jordanian bomber was meant to lead the CIA to al-Qaeda's leadership.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Camp_Chapman_attack"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "al-qaeda",
+    "afghanistan",
+    "jordan"
+   ],
+   "storylines": [
+    "war-on-terror",
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "camp-chapman"
+   ]
+  },
+  {
+   "id": "2009-12-06-bolivia-morales-reelected",
+   "date": "2009-12-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "Evo Morales wins re-election under Bolivia's new constitution",
+   "summary": "The January 2009 referendum adopted a plurinational constitution; his push for further terms led to his 2019 ouster.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Bolivian_constitutional_referendum"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Bolivian_political_crisis"
+    }
+   ],
+   "entities": [
+    "bolivia",
+    "evo-morales"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "la-paz"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2010-05-02-greek-bailout",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-10-20-greece-deficit-revealed",
+     "why": "The deficit revelation started the crisis",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-02-07-yanukovych-elected",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-01-07-russia-ukraine-gas-cutoff",
+     "why": "Gas crisis weakened Tymoshenko's government",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2010-06-09-unsc-1929",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-09-25-fordow-revealed",
+     "why": "Secret site raised pressure for sanctions",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-02-13-marjah-offensive",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-12-01-obama-afghan-surge",
+     "why": "Surge troops",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-06-23-mcchrystal-out",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-02-13-marjah-offensive",
+     "why": "Surge under strain",
+     "confidence": "possible"
+    },
+    {
+     "story": "2009-12-01-obama-afghan-surge",
+     "why": "McChrystal led the surge",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-09-01-operation-new-dawn",
+   "why": "2009 backfill: thread forward to later stories; Thread into storyline",
+   "causes": [
+    {
+     "story": "2009-02-27-obama-iraq-drawdown",
+     "why": "Planned end of combat operations",
+     "confidence": "likely"
+    }
+   ],
+   "storylines": [
+    "isis-war",
+    "iraq-war"
+   ]
+  },
+  {
+   "id": "2010-03-07-iraq-election",
+   "why": "2009 backfill: thread forward to later stories; Thread into storyline",
+   "causes": [
+    {
+     "story": "2009-02-27-obama-iraq-drawdown",
+     "why": "US drawdown",
+     "confidence": "possible"
+    }
+   ],
+   "storylines": [
+    "isis-war",
+    "iran-proxy-network",
+    "iraq-war"
+   ]
+  },
+  {
+   "id": "2010-11-03-fed-qe2",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-03-18-fed-expands-qe1",
+     "why": "Second round of QE",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-04-08-new-start",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-03-06-us-russia-reset",
+     "why": "Product of the reset",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-05-19-thai-crackdown",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-04-11-thai-red-shirts-pattaya",
+     "why": "Red Shirt campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-04-11-bashir-ousted",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-12-19-sudan-protests-begin",
+     "why": "Months of protest",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-03-04-icc-bashir-warrant",
+     "why": "ICC warrant",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2011-08-26-abuja-un-bombing",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-07-26-boko-haram-uprising",
+     "why": "Group's radicalisation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-03-26-saudi-intervention-yemen",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-01-22-houthis-oust-hadi",
+     "why": "Restore the ousted government",
+     "confidence": "likely"
+    },
+    {
+     "story": "2015-01-23-king-salman-accedes",
+     "why": "MBS's first big gamble",
+     "confidence": "likely"
+    },
+    {
+     "story": "2014-09-21-houthis-take-sanaa",
+     "why": "Houthi takeover",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-08-11-yemen-scorched-earth",
+     "why": "First Saudi war with the Houthis",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-09-16-mahsa-amini",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2021-06-18-raisi-elected",
+     "why": "Raisi government's hijab enforcement",
+     "confidence": "possible"
+    },
+    {
+     "story": "2009-06-12-iran-green-movement",
+     "why": "Earlier protest wave",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2018-08-13-xinjiang-un-review",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-01-kunming-attack",
+     "why": "Strike Hard campaign",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-07-05-urumqi-riots",
+     "why": "Security crackdown after the riots",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-02-12-nk-third-nuclear-test",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-12-12-nk-satellite-launch",
+     "why": "UN sanctions over the launch",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-05-25-nk-second-nuclear-test",
+     "why": "Earlier test",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-12-16-abe-returns",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-08-30-japan-dpj-landslide",
+     "why": "DPJ government failed",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-11-10-morales-resigns",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-12-06-bolivia-morales-reelected",
+     "why": "Term-limit fight",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2021-09-05-guinea-coup",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2020-08-18-mali-coup",
+     "why": "Regional coup wave",
+     "confidence": "possible"
+    },
+    {
+     "story": "2009-09-28-guinea-stadium-massacre",
+     "why": "Earlier junta",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2012-10-09-malala-shot",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-05-08-swat-offensive",
+     "why": "Swat Taliban",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-11-21-euromaidan",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-02-07-yanukovych-elected",
+     "why": "Yanukovych's turn to Moscow",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-05-07-eastern-partnership",
+     "why": "Association agreement",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-12-12-paris-climate-agreement",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2009-12-18-copenhagen-accord",
+     "why": "Lessons of Copenhagen",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-03-05-chavez-dies",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-10-07-chavez-reelected",
+     "why": "Re-elected months before",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-02-15-venezuela-term-limits",
+     "why": "Indefinite rule",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2016-06-23-brexit-referendum",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-05-08-cameron-majority",
+     "why": "Manifesto pledge",
+     "confidence": "likely"
+    },
+    {
+     "story": "2015-09-04-merkel-opens-border",
+     "why": "Migration fears",
+     "confidence": "possible"
+    },
+    {
+     "story": "2010-05-11-cameron-coalition",
+     "why": "Cameron's premiership",
+     "confidence": "possible"
+    },
+    {
+     "story": "2009-12-01-lisbon-treaty-in-force",
+     "why": "Article 50 exit route",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2014-12-16-peshawar-school-massacre",
+   "why": "2009 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-06-15-zarb-e-azb",
+     "why": "Revenge for the offensive",
+     "confidence": "likely"
+    },
+    {
+     "story": "2009-10-17-south-waziristan-offensive",
+     "why": "Army–TTP war",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2011-12-18-us-leaves-iraq",
+   "why": "Thread into storyline",
+   "storylines": [
+    "isis-war",
+    "iran-proxy-network",
+    "iraq-war"
+   ]
+  },
+  {
+   "id": "2011-05-02-bin-laden-killed",
+   "why": "Thread into storyline",
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "war-on-terror"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2009-10-17-south-waziristan-offensive"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2009-10-17-south-waziristan-offensive",
+    "2009-12-01-obama-afghan-surge",
+    "2009-12-30-camp-chapman-attack"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2009-10-20-greece-deficit-revealed"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2009-11-05-fort-hood-shooting",
+    "2009-12-01-obama-afghan-surge",
+    "2009-12-25-underwear-bomber",
+    "2009-12-30-camp-chapman-attack",
+    "2011-05-02-bin-laden-killed"
+   ]
+  },
+  {
+   "id": "global-financial-crisis",
+   "name": "Global financial crisis 2007–09",
+   "entities": [
+    "federal-reserve",
+    "imf",
+    "g20",
+    "united-states"
+   ],
+   "stories": [
+    "2009-11-25-dubai-world-standstill"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2009-12-01-lisbon-treaty-in-force"
+   ]
+  },
+  {
+   "id": "climate-diplomacy",
+   "name": "Climate diplomacy",
+   "entities": [
+    "paris-agreement",
+    "cop"
+   ],
+   "stories": [
+    "2009-12-18-copenhagen-accord"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2009-12-06-bolivia-morales-reelected"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2010-09-01-operation-new-dawn",
+    "2011-12-18-us-leaves-iraq",
+    "2010-03-07-iraq-election"
+   ]
+  }
+ ]
+}
