@@ -1,0 +1,306 @@
+{
+ "edition": "2023-12-29",
+ "stories": [
+  {
+   "id": "2023-05-09-imran-khan-arrested",
+   "date": "2023-05-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "Imran Khan is arrested at the Islamabad High Court, setting off attacks on army sites",
+   "summary": "Paramilitary Rangers detained the ousted PM in the Al-Qadir Trust case a day after the army rebuked his accusations against an ISI officer. Supporters stormed military buildings. The Supreme Court freed him, but he was jailed in August after a Toshakhana conviction and barred from politics.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/5/9/what-is-al-qadir-trust-case-under-which-imran-khan-is-arrested"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/may/14/imran-khan-arrest-pakistan-military"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/supporters-pakistan-ex-pm-khan-plan-march-capital-protest-arrest-2023-05-10/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan"
+    }
+   ],
+   "entities": [
+    "imran-khan",
+    "pakistan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2022-04-10-imran-khan",
+     "why": "Fallout from his 2022 ouster and clash with the army",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2023-05-07-syria-arab-league",
+   "date": "2023-05-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Arab League readmits Assad's Syria, demanding a crackdown on captagon smuggling",
+   "summary": "After a 12-year suspension, Arab states brought Syria back in a bet on normalisation. In return they demanded action on captagon, the amphetamine-type pill whose Syrian-run trade had become a key source of regime revenue and was flooding the Gulf via Jordan.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/arabs-bring-syrias-assad-back-into-fold-want-action-drugs-trade-2023-05-09/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/5/1/syria-agrees-to-curb-drug-trade-in-arab-ministers-meeting"
+    },
+    {
+     "name": "Al Jazeera (captagon explainer)",
+     "url": "https://www.aljazeera.com/news/2023/5/9/what-is-captagon-the-addictive-drug-mass-produced-in-syria"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad",
+    "arab-league",
+    "saudi-arabia",
+    "jordan"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-03-10-saudi-iran-beijing",
+     "why": "Regional de-escalation wave",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Normalisation gave Assad legitimacy but not the means to survive; his regime collapsed 19 months later.",
+    "confidence": "likely"
+   },
+   "unplaced": "Decision taken in Cairo."
+  },
+  {
+   "id": "2023-07-12-imf-pakistan-sba",
+   "date": "2023-07-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "IMF approves a $3bn stand-by loan, pulling Pakistan back from default",
+   "summary": "The nine-month programme released about $1.2bn at once in exchange for fiscal tightening and a market exchange rate. A 37-month, $7bn Extended Fund Facility followed on Sep 25 2024.",
+   "sources": [
+    {
+     "name": "IMF press release (2023)",
+     "url": "https://www.imf.org/en/news/articles/2023/07/12/pr23261-pakistan-imf-exec-board-approves-us3bil-sba"
+    },
+    {
+     "name": "IMF press release (2024 EFF)",
+     "url": "https://www.imf.org/en/news/articles/2024/09/27/pr-24343-pakistan-imf-concludes-2024-aiv-consultation-pakistan-approves-37-mo-extended-arr"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/pakistan-optimistic-securing-imf-approval-3-bln-bailout-2023-07-12/"
+    },
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/1860850"
+    }
+   ],
+   "entities": [
+    "imf",
+    "pakistan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2022-08-pakistan-floods",
+     "why": "Floods deepened the balance-of-payments crisis",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Approved by the IMF board in Washington."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2023-05-09-imran-khan-arrested",
+    "2023-07-12-imf-pakistan-sba"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2023-05-07-syria-arab-league"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "imran-khan",
+   "name": "Imran Khan",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan"
+  },
+  {
+   "id": "asim-munir",
+   "name": "Asim Munir",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Asim_Munir"
+  },
+  {
+   "id": "imf",
+   "name": "International Monetary Fund",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+  },
+  {
+   "id": "ttp",
+   "name": "Pakistani Taliban (TTP)",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pakistani_Taliban"
+  },
+  {
+   "id": "bla",
+   "name": "Balochistan Liberation Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Balochistan_Liberation_Army"
+  },
+  {
+   "id": "orano",
+   "name": "Orano",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Orano"
+  },
+  {
+   "id": "aes",
+   "name": "Alliance of Sahel States",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+  },
+  {
+   "id": "sna",
+   "name": "Syrian National Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Syrian_National_Army"
+  },
+  {
+   "id": "norway",
+   "name": "Norway",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Norway"
+  },
+  {
+   "id": "shehbaz-sharif",
+   "name": "Shehbaz Sharif",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"
+  },
+  {
+   "id": "arab-league",
+   "name": "Arab League",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arab_League"
+  },
+  {
+   "id": "rosatom",
+   "name": "Rosatom",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rosatom"
+  },
+  {
+   "id": "jordan",
+   "name": "Jordan",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jordan"
+  },
+  {
+   "id": "tel-aviv",
+   "name": "Tel Aviv",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tel_Aviv",
+   "lat": 32.08,
+   "lon": 34.78,
+   "precision": "city"
+  },
+  {
+   "id": "niger-air-base-201",
+   "name": "Niger Air Base 201 (Agadez)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Niger_Air_Base_201",
+   "lat": 16.95027778,
+   "lon": 8.01388889,
+   "precision": "feature"
+  },
+  {
+   "id": "barsalogho",
+   "name": "Barsalogho",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barsalogho_Department",
+   "lat": 13.4186,
+   "lon": -1.0558,
+   "precision": "sector"
+  },
+  {
+   "id": "aleppo",
+   "name": "Aleppo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aleppo",
+   "lat": 36.2,
+   "lon": 37.16,
+   "precision": "city"
+  },
+  {
+   "id": "tell-rifaat",
+   "name": "Tell Rifaat",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tell_Rifaat",
+   "lat": 36.4733,
+   "lon": 37.0972,
+   "precision": "city"
+  },
+  {
+   "id": "suez-canal",
+   "name": "Suez Canal",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suez_Canal",
+   "lat": 30.705,
+   "lon": 32.34416667,
+   "precision": "feature"
+  }
+ ]
+}
