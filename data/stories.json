@@ -9394,7 +9394,8 @@
    "2026-09-18-graham-act-signed",
    "2026-09-26-trump-rejects-iran-plan",
    "2025-06-13-israel-strikes-iran",
-   "2025-10-10-gaza-ceasefire-trump-plan"
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2026-04-07-hormuz-resolution-veto"
   ],
   "revisions": [
    {
@@ -12009,6 +12010,11 @@
     "story": "2026-01-29-tigray-clashes",
     "why": "January clashes were the prelude",
     "confidence": "likely"
+   },
+   {
+    "story": "2022-11-02-pretoria-agreement",
+    "why": "Pretoria agreement collapsed",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12025,8 +12031,23 @@
   "unplaced": "Attacks across Tigray, Afar and Amhara; no single site.",
   "related_stories": [
    "2026-01-29-tigray-clashes",
+   "2022-11-02-pretoria-agreement",
    "ethiopia-tigray-advance",
-   "2026-10-09-ethiopia-eritrea-accusations"
+   "2026-10-09-ethiopia-eritrea-accusations",
+   "2025-03-tplf-split",
+   "tigray-federal-takeover-rubio",
+   "2020-11-04-tigray-war",
+   "2021-06-28-tdf-retakes-mekelle",
+   "2021-11-02-ethiopia-emergency"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-06-29",
+    "why": "Archive audit wave 2: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13634,6 +13655,11 @@
     "story": "2020-11-04-tigray-war",
     "why": "Legacy of the 2020–22 war",
     "confidence": "likely"
+   },
+   {
+    "story": "2022-11-02-pretoria-agreement",
+    "why": "Disputes over implementing Pretoria",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -13652,15 +13678,25 @@
   ],
   "related_stories": [
    "2020-11-04-tigray-war",
+   "2022-11-02-pretoria-agreement",
    "2026-01-29-tigray-clashes",
    "2026-09-23-tplf-offensive",
    "2026-10-09-ethiopia-eritrea-accusations",
-   "tigray-federal-takeover-rubio"
+   "tigray-federal-takeover-rubio",
+   "2021-06-28-tdf-retakes-mekelle",
+   "2021-11-02-ethiopia-emergency"
   ],
   "revisions": [
    {
     "edition": "2020-12-31",
     "why": "2020 backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-06-29",
+    "why": "Archive audit wave 2: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -19087,6 +19123,11 @@
     "story": "2023-06-04-counteroffensive",
     "why": "The failed offensive left Ukraine on the defensive",
     "confidence": "possible"
+   },
+   {
+    "story": "2023-10-10-avdiivka-offensive",
+    "why": "Four-month offensive",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -19101,13 +19142,21 @@
   ],
   "related_stories": [
    "2023-06-04-counteroffensive",
-   "2022-02-21-recognition",
-   "2024-05-10-kharkiv-offensive"
+   "2023-10-10-avdiivka-offensive",
+   "2024-05-10-kharkiv-offensive",
+   "2022-02-21-recognition"
   ],
   "revisions": [
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-06-29",
+    "why": "Archive audit wave 2: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -22070,6 +22119,11 @@
     "story": "2020-08-13-abraham-accords",
     "why": "Normalisation sidelined the Palestinians",
     "confidence": "possible"
+   },
+   {
+    "story": "2022-11-01-netanyahu-returns",
+    "why": "Far-right government",
+    "confidence": "speculative"
    }
   ],
   "effects": [],
@@ -22088,6 +22142,7 @@
    "2021-05-10-gaza-war",
    "2023-03-26-israel-judicial-protests",
    "2020-08-13-abraham-accords",
+   "2022-11-01-netanyahu-returns",
    "2025-09-09-israel-strikes-doha",
    "2024-01-28-tower-22",
    "2024-04-13-iran-strikes-israel",
@@ -22103,6 +22158,13 @@
    {
     "edition": "2025-12-26",
     "why": "Archive audit: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-06-29",
+    "why": "Archive audit wave 2: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -32397,6 +32459,11 @@
     "story": "2021-06-13-bennett-government",
     "why": "Netanyahu's return after the Bennett coalition fell",
     "confidence": "possible"
+   },
+   {
+    "story": "2022-11-01-netanyahu-returns",
+    "why": "New coalition's judicial plan",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -32411,9 +32478,19 @@
   ],
   "related_stories": [
    "2021-06-13-bennett-government",
+   "2022-11-01-netanyahu-returns",
+   "2023-10-07-hamas-attack",
    "2026-07-17-knesset-dissolves",
-   "gaza-drone-strikes-oct17",
-   "2023-10-07-hamas-attack"
+   "gaza-drone-strikes-oct17"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-06-29",
+    "why": "Archive audit wave 2: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -33957,7 +34034,8 @@
    "2021-06-13-bennett-government",
    "2026-07-17-knesset-dissolves",
    "gaza-drone-strikes-oct17",
-   "2023-03-26-israel-judicial-protests"
+   "2023-03-26-israel-judicial-protests",
+   "2023-10-07-hamas-attack"
   ]
  },
  {
@@ -34170,7 +34248,8 @@
    "avdiivka"
   ],
   "related_stories": [
-   "2023-06-04-counteroffensive"
+   "2023-06-04-counteroffensive",
+   "2024-02-17-avdiivka-falls"
   ]
  },
  {
@@ -34219,6 +34298,96 @@
   ],
   "related_stories": [
    "2024-02-17-avdiivka-falls"
+  ]
+ },
+ {
+  "id": "2026-04-07-hormuz-resolution-veto",
+  "date": "2026-04-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-06-29",
+  "region": "Middle East",
+  "title": "Russia and China veto a UN resolution to protect Hormuz shipping",
+  "summary": "The Bahrain-drafted text won 11 of 15 votes, but Russia and China called it biased against Iran and vetoed it.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz"
+   }
+  ],
+  "entities": [
+   "russia",
+   "china",
+   "iran",
+   "bahrain"
+  ],
+  "causes": [
+   {
+    "story": "2026-02-28-iran-war-begins",
+    "why": "Iran's closure of Hormuz",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-06-29",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "UN Security Council vote in New York.",
+  "related_stories": [
+   "2026-02-28-iran-war-begins",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2026-09-18-graham-act-signed",
+   "2023-08-24-brics-expansion"
+  ]
+ },
+ {
+  "id": "2026-05-14-kyiv-record-assault",
+  "date": "2026-05-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-06-29",
+  "region": "Russia/Eurasia",
+  "title": "Russia's largest air assault of the war kills 24 in a Kyiv apartment block",
+  "summary": "Ukraine's air force said the strike was part of the biggest aerial attack since 2022; Zelenskyy said long-range strikes on Russia's oil industry were 'entirely justified'.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/may/14/ukraine-second-day-large-scale-russian-missile-drone-strikes"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "volodymyr-zelenskyy"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-06-29",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "where": [
+   "kyiv"
+  ],
+  "related_stories": [
+   "energy-ceasefire",
+   "diesel-deal",
+   "2022-02-24-invasion",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "russia-grid-strikes-oct16",
+   "2026-09-22-zelensky-trump-unga",
+   "russia-332-drone-energy-strike"
   ]
  }
 ]

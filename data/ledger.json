@@ -43909,6 +43909,704 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-06-29": {
+   "sha256": "02a82f9a8d89e3968ddf7067c62a3d7daabc1186dd6e42ec5a37044edf9f308a",
+   "undo": {
+    "stories": {
+     "2026-04-07-hormuz-resolution-veto": null,
+     "2026-05-14-kyiv-record-assault": null,
+     "2023-03-26-israel-judicial-protests": {
+      "id": "2023-03-26-israel-judicial-protests",
+      "date": "2023-03-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-30",
+      "region": "Middle East",
+      "title": "Netanyahu fires his defence minister, setting off mass protests over judicial reform",
+      "summary": "Months of protests against the coalition's plan to curb the Supreme Court peaked when Yoav Gallant was fired for urging a pause; Netanyahu then delayed the legislation.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2023/03/26/middleeast/israel-judicial-overhaul-legislation-intl/index.html"
+       }
+      ],
+      "entities": [
+       "israel",
+       "benjamin-netanyahu",
+       "knesset"
+      ],
+      "causes": [
+       {
+        "story": "2021-06-13-bennett-government",
+        "why": "Netanyahu's return after the Bennett coalition fell",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-03-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2023 (war of attrition)",
+      "marker": "political",
+      "where": [
+       "tel-aviv"
+      ],
+      "related_stories": [
+       "2021-06-13-bennett-government",
+       "2026-07-17-knesset-dissolves",
+       "gaza-drone-strikes-oct17",
+       "2023-10-07-hamas-attack"
+      ]
+     },
+     "2025-03-tplf-split": {
+      "id": "2025-03-tplf-split",
+      "date": "2025-03",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Africa",
+      "title": "The TPLF splits and Getachew Reda is ousted from Tigray's interim government",
+      "summary": "The TPLF faction of Debretsion Gebremichael pushed Getachew Reda out, and armed supporters seized offices in Mekelle and Adigrat. On Apr 8 Abiy appointed Lt Gen Tadesse Werede to lead the interim administration.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c778kp7k14ko"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/ethiopia-tigray-tplf-reda-debremichael-adigrat-adigudem-fd022ce7469140a9745efe61b094cc2e"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/ethiopias-pm-abiy-appoints-new-leader-tigray-administration-2025-04-08/"
+       },
+       {
+        "name": "Addis Standard",
+        "url": "https://addisstandard.com/tplf-rejects-pm-abiys-call-to-nominate-tigray-interim-president-calls-it-unilateral-decision-violating-pretoria-agreement/"
+       }
+      ],
+      "entities": [
+       "tplf",
+       "ethiopia",
+       "abiy-ahmed"
+      ],
+      "causes": [
+       {
+        "story": "2020-11-04-tigray-war",
+        "why": "Legacy of the 2020–22 war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "The hardline TPLF faction's takeover broke the Pretoria peace framework from inside and set up the 2026 war.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2020-11-04-tigray-war",
+       "2026-01-29-tigray-clashes",
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio"
+      ],
+      "revisions": [
+       {
+        "edition": "2020-12-31",
+        "why": "2020 backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-09-23-tplf-offensive": {
+      "id": "2026-09-23-tplf-offensive",
+      "date": "2026-09-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-30",
+      "region": "Africa",
+      "title": "Tigray's leaders declare a 'defensive war' as TPLF forces attack",
+      "summary": "Tigray's regional government said it had entered a defensive war after reported federal drone and artillery strikes. TPLF forces took Tigray's main airports and attacked federal positions in Afar and Amhara as part of a seven-group alliance against Abiy Ahmed. Ethiopian Airlines suspended flights to three Tigray airports.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/ethiopias-tigray-region-government-announces-it-has-entered-defensive-war-2026-09-23/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
+       },
+       {
+        "name": "Al Jazeera (alliance)",
+        "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed"
+       },
+       {
+        "name": "Reuters (allies)",
+        "url": "https://www.reuters.com/world/africa/flush-with-allies-tigrays-leaders-face-internal-discord-new-ethiopia-war-2026-09-24/"
+       }
+      ],
+      "entities": [
+       "tplf",
+       "ethiopia",
+       "abiy-ahmed",
+       "eritrea"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-29-tigray-clashes",
+        "why": "January clashes were the prelude",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-30",
+      "analysis": {
+       "text": "Eritrea is widely believed to back the TPLF, which Asmara denies. That turns an Ethiopian civil war into an Ethiopia–Eritrea contest over Red Sea access.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "unplaced": "Attacks across Tigray, Afar and Amhara; no single site.",
+      "related_stories": [
+       "2026-01-29-tigray-clashes",
+       "ethiopia-tigray-advance",
+       "2026-10-09-ethiopia-eritrea-accusations"
+      ]
+     },
+     "2024-02-17-avdiivka-falls": {
+      "id": "2024-02-17-avdiivka-falls",
+      "date": "2024-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine withdraws from Avdiivka as ammunition runs short",
+      "summary": "Ukraine's new army chief Syrskyi ordered troops out of the Donetsk-area stronghold after a four-month Russian assault, as US aid stalled in Congress. It was Russia's biggest gain since Bakhmut.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/ukrainian-troops-withdraw-avdiivka-ammunition-shortage-bites-2024-02-17/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/2/17/ukraine-troops-withdraw-from-frontline-city-of-avdiivka-army-chief-says"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_(2023–2024)"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "donetsk"
+      ],
+      "causes": [
+       {
+        "story": "2023-06-04-counteroffensive",
+        "why": "The failed offensive left Ukraine on the defensive",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "avdiivka"
+      ],
+      "related_stories": [
+       "2023-06-04-counteroffensive",
+       "2022-02-21-recognition",
+       "2024-05-10-kharkiv-offensive"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2023-10-07-hamas-attack": {
+      "id": "2023-10-07-hamas-attack",
+      "date": "2023-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Middle East",
+      "title": "Hamas-led attack on southern Israel kills about 1,200 and takes 251 hostages",
+      "summary": "Gunmen broke through the Gaza fence and attacked army posts, kibbutzim and a music festival in the deadliest day in Israel's history. Israel declared war and began bombing Gaza.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/how-hamas-attack-israel-unfolded-2023-10-07/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/oct/07/hamas-launches-surprise-attack-on-israel-as-palestinian-gunmen-reported-in-south"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/10/7/hamas-says-it-has-enough-israeli-captives-to-free-all-palestinian-prisoners"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/October_7_attacks"
+       }
+      ],
+      "entities": [
+       "hamas",
+       "israel",
+       "yahya-sinwar"
+      ],
+      "causes": [
+       {
+        "story": "2021-05-10-gaza-war",
+        "why": "Hamas tied Gaza to Jerusalem",
+        "confidence": "possible"
+       },
+       {
+        "story": "2023-03-26-israel-judicial-protests",
+        "why": "Israeli divisions",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2020-08-13-abraham-accords",
+        "why": "Normalisation sidelined the Palestinians",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "analysis": {
+       "text": "This was the hinge of the period: it led to the Gaza war, Hezbollah's front, the Houthi Red Sea campaign and the Iran–Israel exchanges that became the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "strike",
+      "unplaced": "Communities along the Gaza border in southern Israel.",
+      "related_stories": [
+       "2021-05-10-gaza-war",
+       "2023-03-26-israel-judicial-protests",
+       "2020-08-13-abraham-accords",
+       "2025-09-09-israel-strikes-doha",
+       "2024-01-28-tower-22",
+       "2024-04-13-iran-strikes-israel",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2023-10-08-hezbollah-support-front",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-16-sinwar-killed"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-26",
+        "why": "Archive audit: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-02-28-iran-war-begins": {
+      "id": "2026-02-28-iran-war-begins",
+      "date": "2026-02-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Middle East",
+      "title": "US and Israel strike Iran and kill Khamenei; Iran hits back and bars Hormuz",
+      "summary": "The US and Israel launched strikes on Iranian military and leadership targets (the US called it Operation Epic Fury), and Iranian state media confirmed Supreme Leader Ali Khamenei was killed. Iran fired missiles and drones at Israel and US bases in the Gulf, and ships were told by VHF that Hormuz transit was 'banned'.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c70n9wlkx3lo"
+       },
+       {
+        "name": "JMIC advisory",
+        "url": "https://www.mscio.eu/media/documents/001_JMIC_Advisory_Note_28_FEB_2026.pdf"
+       },
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/R48887"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "israel",
+       "iran",
+       "ali-khamenei",
+       "irgc",
+       "strait-of-hormuz",
+       "donald-trump"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-08-iran-protest-crackdown",
+        "why": "The crackdown framed the regime as brittle and gave Washington a political case",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-09-jcpoa-stall",
+        "why": "With no nuclear deal since 2022, force became the default tool",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-06-22-midnight-hammer",
+        "why": "Precedent of direct US strikes on Iran",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-09-28-iran-snapback",
+        "why": "Diplomacy closed off by the snapback",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "The aim looks like regime decapitation more than counter-proliferation. Iran's answer, closing Hormuz, turned a regional war into a global energy shock.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": [
+       "2026-01-08-iran-protest-crackdown",
+       "2022-09-jcpoa-stall",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-03-08-mojtaba-khamenei",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-05-13-warsh-confirmed",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "kataib-hezbollah-halt",
+       "2022-03-27-negev-summit",
+       "2022-09-16-mahsa-amini",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-08-17-mou-expires",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-13-israel-strikes-iran",
+       "2025-10-10-gaza-ceasefire-trump-plan"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2023-10-10-avdiivka-offensive": {
+      "id": "2023-10-10-avdiivka-offensive",
+      "date": "2023-10-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-26",
+      "region": "Russia/Eurasia",
+      "title": "Russia launches its offensive to take Avdiivka",
+      "summary": "The assault on one of Ukraine's most fortified towns, a gateway to Donetsk city, became one of the bloodiest battles of the war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_%282023%E2%80%932024%29"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/oct/15/russia-avdiivka-offensive-failing-top-ukrainian-officer-donetsk"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2023-06-04-counteroffensive",
+        "why": "Russia seized the initiative after Ukraine's failed counter-offensive",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-26",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2023 (war of attrition)",
+      "marker": "military",
+      "where": [
+       "avdiivka"
+      ],
+      "related_stories": [
+       "2023-06-04-counteroffensive"
+      ]
+     },
+     "2022-11-01-netanyahu-returns": {
+      "id": "2022-11-01-netanyahu-returns",
+      "date": "2022-11-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2022-12-30",
+      "region": "Middle East",
+      "title": "Netanyahu's bloc wins Israel's election with far-right allies",
+      "summary": "The right-wing camp won a Knesset majority as the far right gained, ending the Bennett–Lapid interlude; Netanyahu formed his most right-wing government in December.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_Israeli_legislative_election"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2022/11/02/1133516979/israel-election-results-netanyahu"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/11/11/netanyahu-mandated-to-form-new-israeli-government"
+       }
+      ],
+      "entities": [
+       "israel",
+       "benjamin-netanyahu",
+       "knesset"
+      ],
+      "causes": [
+       {
+        "story": "2021-06-13-bennett-government",
+        "why": "Collapse of the Bennett–Lapid coalition",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2022-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022 (invasion year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2021-06-13-bennett-government",
+       "2026-07-17-knesset-dissolves",
+       "gaza-drone-strikes-oct17",
+       "2023-03-26-israel-judicial-protests"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
