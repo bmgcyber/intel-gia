@@ -1,0 +1,527 @@
+{
+ "edition": "2015-09-30",
+ "stories": [
+  {
+   "id": "2015-07-05-greek-referendum",
+   "date": "2015-07-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Europe",
+   "title": "Greeks reject bailout terms 61–39, then Tsipras accepts a harsher deal",
+   "summary": "With banks shut, Alexis Tsipras agreed a third bailout on Jul 13 to avoid leaving the euro.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Greek_bailout_referendum"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+    }
+   ],
+   "entities": [
+    "greece",
+    "alexis-tsipras",
+    "european-union",
+    "ecb",
+    "imf"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "athens"
+   ]
+  },
+  {
+   "id": "2015-07-14-jcpoa-agreed",
+   "date": "2015-07-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Iran and world powers sign the nuclear deal in Vienna",
+   "summary": "The JCPOA capped Iran's enrichment and stockpile in return for lifting nuclear sanctions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/jul/14/iran-nuclear-programme-world-powers-historic-deal-lift-sanctions"
+    }
+   ],
+   "entities": [
+    "iran",
+    "jcpoa",
+    "united-states",
+    "european-union",
+    "russia",
+    "china",
+    "barack-obama",
+    "hassan-rouhani"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Its 2018 abandonment by the US and Iran's later breaches set the path toward the 2025–26 strikes.",
+    "confidence": "likely"
+   },
+   "where": [
+    "vienna"
+   ]
+  },
+  {
+   "id": "2015-07-20-suruc-bombing-pkk-war",
+   "date": "2015-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Suruç suicide bombing triggers the collapse of Turkey's peace process with the PKK",
+   "summary": "The IS-linked attack killed 34 activists; days later the PKK killed two police officers and Turkey bombed PKK camps, ending a two-year ceasefire.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Suru%C3%A7_bombing"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Kurdistan_Workers%27_Party_insurgency_%282015%E2%80%932025%29"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "pkk",
+    "islamic-state",
+    "recep-tayyip-erdogan"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "suruc"
+   ]
+  },
+  {
+   "id": "2015-07-20-cuba-us-embassies",
+   "date": "2015-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Americas",
+   "title": "US and Cuba restore diplomatic relations and reopen embassies",
+   "summary": "Obama's thaw ended 54 years of hostility; Trump reversed much of it from 2017.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cuban_thaw"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "http://www.aljazeera.com/news/2015/07/cuba-restore-ties-opening-embassies-150720024721778.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "cuba",
+    "barack-obama"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "havana"
+   ]
+  },
+  {
+   "id": "2015-07-29-mullah-omar-death-revealed",
+   "date": "2015-07-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Asia-Pacific",
+   "title": "Taliban founder Mullah Omar is revealed to have died in 2013",
+   "summary": "Akhtar Mansour took over amid infighting.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mullah_Omar"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2015/07/31/world/asia/taliban-confirm-death-of-mullah-omar-and-weigh-successor.html"
+    }
+   ],
+   "entities": [
+    "mullah-omar",
+    "taliban",
+    "afghanistan",
+    "akhtar-mansour"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "political",
+   "unplaced": "Announcement."
+  },
+  {
+   "id": "2015-08-17-bangkok-bombing",
+   "date": "2015-08-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Asia-Pacific",
+   "title": "Bombing at Bangkok's Erawan Shrine kills 20",
+   "summary": "Police charged two Uyghur men, linking it to Thailand's deportation of Uyghurs to China.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Bangkok_bombing"
+    }
+   ],
+   "entities": [
+    "thailand"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "strike",
+   "where": [
+    "erawan-shrine"
+   ]
+  },
+  {
+   "id": "2015-08-24-china-black-monday",
+   "date": "2015-08-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Asia-Pacific",
+   "title": "China's stock crash triggers a global 'Black Monday'",
+   "summary": "The bursting of the Shanghai bubble and a surprise yuan devaluation shook world markets.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015%E2%80%932016_Chinese_stock_market_turbulence"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/business/2015/aug/24/china-stock-market-fall-effects-global-economy-shares-interest-rates-inflation"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "marker": "political",
+   "where": [
+    "shanghai"
+   ]
+  },
+  {
+   "id": "2015-09-04-merkel-opens-border",
+   "date": "2015-09-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Europe",
+   "title": "Germany and Austria let stranded refugees in from Hungary",
+   "summary": "Days after the photo of drowned toddler Alan Kurdi, thousands marched from Budapest; about 1.3 million people sought asylum in Europe that year.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_European_migrant_crisis"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Death_of_Alan_Kurdi"
+    },
+    {
+     "name": "The Guardian",
+     "url": "http://www.theguardian.com/world/2015/sep/04/hundreds-refugees-march-austria-budapest-hungary-syrians"
+    }
+   ],
+   "entities": [
+    "germany",
+    "angela-merkel",
+    "european-union",
+    "syria"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The influx fuelled the rise of the AfD and anti-migration politics across Europe.",
+    "confidence": "likely"
+   },
+   "where": [
+    "budapest"
+   ]
+  },
+  {
+   "id": "2015-09-16-burkina-coup-attempt",
+   "date": "2015-09-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Africa",
+   "title": "Presidential guard coup fails in Burkina Faso",
+   "summary": "Mass protests and the army forced the plotters to give up within a week, and elections followed in November.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Burkina_Faso_coup_attempt"
+    }
+   ],
+   "entities": [
+    "burkina-faso"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "where": [
+    "ouagadougou"
+   ]
+  },
+  {
+   "id": "2015-09-18-volkswagen-dieselgate",
+   "date": "2015-09-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Europe",
+   "title": "US regulators expose Volkswagen's diesel emissions cheating",
+   "summary": "The EPA found software designed to fool lab tests; the scandal accelerated Europe's turn to electric vehicles.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/business/2015/sep/18/epa-california-investigate-volkswagen-clean-air-violations"
+    }
+   ],
+   "entities": [
+    "volkswagen",
+    "germany",
+    "united-states"
+   ],
+   "marker": "political",
+   "unplaced": "Regulatory notice."
+  },
+  {
+   "id": "2015-09-28-taliban-take-kunduz",
+   "date": "2015-09-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Asia-Pacific",
+   "title": "Taliban briefly capture Kunduz, their first major city since 2001",
+   "summary": "On Oct 3 a US gunship struck the MSF hospital there, killing 42.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Kunduz_%282015%29"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike"
+    }
+   ],
+   "entities": [
+    "taliban",
+    "afghanistan",
+    "united-states"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2015-07-29-mullah-omar-death-revealed",
+     "why": "Mansour's new leadership sought a victory",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "kunduz"
+   ]
+  },
+  {
+   "id": "2015-09-30-russia-enters-syria",
+   "date": "2015-09-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Russia/Eurasia",
+   "title": "Russia begins airstrikes in Syria to rescue Assad",
+   "summary": "Flying from Khmeimim air base, Russian jets hit mainly non-IS rebels; it was Moscow's first war outside the former USSR since 1991.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_civil_war"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/sep/30/russia-launches-first-airstrikes-against-targets-in-syria-says-us"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "syria",
+    "bashar-al-assad",
+    "iran"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2015-05-17-ramadi-falls",
+     "why": "Assad was losing ground",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "The intervention kept Assad in power for nine more years and gave Wagner its first big theatre outside Ukraine.",
+    "confidence": "likely"
+   },
+   "where": [
+    "khmeimim"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2015-07-05-greek-referendum"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2015-07-14-jcpoa-agreed"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2015-07-20-suruc-bombing-pkk-war",
+    "2015-09-30-russia-enters-syria"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2015-07-20-cuba-us-embassies"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2015-07-29-mullah-omar-death-revealed",
+    "2015-09-28-taliban-take-kunduz"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2015-08-17-bangkok-bombing"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2015-09-04-merkel-opens-border"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2015-09-16-burkina-coup-attempt"
+   ]
+  }
+ ]
+}
