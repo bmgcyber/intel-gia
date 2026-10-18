@@ -1,0 +1,624 @@
+{
+ "edition": "2017-03-31",
+ "entities": [
+  {
+   "id": "al-shabaab",
+   "name": "al-Shabaab",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al-Shabaab_%28militant_group%29"
+  },
+  {
+   "id": "kurdistan-region",
+   "name": "Kurdistan Region (Iraq)",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurdistan_Region"
+  },
+  {
+   "id": "masoud-barzani",
+   "name": "Masoud Barzani",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Masoud_Barzani"
+  },
+  {
+   "id": "haider-al-abadi",
+   "name": "Haider al-Abadi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Haider_al-Abadi"
+  },
+  {
+   "id": "ali-abdullah-saleh",
+   "name": "Ali Abdullah Saleh",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh"
+  },
+  {
+   "id": "saad-hariri",
+   "name": "Saad Hariri",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saad_Hariri"
+  },
+  {
+   "id": "robert-mugabe",
+   "name": "Robert Mugabe",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Mugabe"
+  },
+  {
+   "id": "park-geun-hye",
+   "name": "Park Geun-hye",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Geun-hye"
+  },
+  {
+   "id": "uhuru-kenyatta",
+   "name": "Uhuru Kenyatta",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Uhuru_Kenyatta"
+  },
+  {
+   "id": "bitcoin",
+   "name": "Bitcoin",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bitcoin"
+  },
+  {
+   "id": "paris-agreement",
+   "name": "Paris Agreement",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paris_Agreement"
+  },
+  {
+   "id": "marine-le-pen",
+   "name": "Marine Le Pen",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+  },
+  {
+   "id": "afd",
+   "name": "Alternative for Germany (AfD)",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alternative_for_Germany"
+  },
+  {
+   "id": "rodrigo-duterte",
+   "name": "Rodrigo Duterte",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Duterte"
+  },
+  {
+   "id": "bhutan",
+   "name": "Bhutan",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bhutan"
+  },
+  {
+   "id": "catalonia",
+   "name": "Catalonia",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Catalonia"
+  },
+  {
+   "id": "islamic-state-sahel",
+   "name": "Islamic State – Sahel Province",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Sahel_Province"
+  },
+  {
+   "id": "arsa",
+   "name": "Arakan Rohingya Salvation Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arakan_Rohingya_Salvation_Army"
+  },
+  {
+   "id": "kim-jong-nam",
+   "name": "Kim Jong-nam",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kim_Jong-nam"
+  },
+  {
+   "id": "thaad",
+   "name": "THAAD missile defense",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense"
+  },
+  {
+   "id": "shayrat-airbase",
+   "name": "Shayrat Airbase",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Shayrat_Airbase",
+   "lat": 34.49,
+   "lon": 36.90888889,
+   "precision": "feature"
+  },
+  {
+   "id": "khan-shaykhun",
+   "name": "Khan Shaykhun",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Khan_Shaykhun",
+   "lat": 35.43888889,
+   "lon": 36.65111111,
+   "precision": "city"
+  },
+  {
+   "id": "mosul",
+   "name": "Mosul",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mosul",
+   "lat": 36.34166667,
+   "lon": 43.12916667,
+   "precision": "city"
+  },
+  {
+   "id": "raqqa",
+   "name": "Raqqa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raqqa",
+   "lat": 35.95,
+   "lon": 39.01,
+   "precision": "city"
+  },
+  {
+   "id": "kirkuk",
+   "name": "Kirkuk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kirkuk",
+   "lat": 35.46666667,
+   "lon": 44.31666667,
+   "precision": "city"
+  },
+  {
+   "id": "punggye-ri",
+   "name": "Punggye-ri Nuclear Test Site",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Punggye-ri_Nuclear_Test_Site",
+   "lat": 41.27805556,
+   "lon": 129.0875,
+   "precision": "feature"
+  },
+  {
+   "id": "barcelona",
+   "name": "Barcelona",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barcelona",
+   "lat": 41.38333333,
+   "lon": 2.18333333,
+   "precision": "city"
+  },
+  {
+   "id": "manchester-arena",
+   "name": "Manchester Arena",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manchester_Arena",
+   "lat": 53.48805556,
+   "lon": -2.24388889,
+   "precision": "feature"
+  },
+  {
+   "id": "mogadishu",
+   "name": "Mogadishu",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mogadishu",
+   "lat": 2.03916667,
+   "lon": 45.34194444,
+   "precision": "city"
+  },
+  {
+   "id": "tongo-tongo",
+   "name": "Tongo Tongo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tongo_Tongo",
+   "lat": 15.05321111,
+   "lon": 1.83551389,
+   "precision": "city"
+  },
+  {
+   "id": "marawi",
+   "name": "Marawi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marawi",
+   "lat": 8.0031,
+   "lon": 124.285,
+   "precision": "city"
+  },
+  {
+   "id": "banjul",
+   "name": "Banjul",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Banjul",
+   "lat": 13.45416667,
+   "lon": -16.57527778,
+   "precision": "city"
+  },
+  {
+   "id": "doklam",
+   "name": "Doklam",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Doklam",
+   "lat": 27.3,
+   "lon": 88.93333333,
+   "precision": "feature"
+  },
+  {
+   "id": "klia",
+   "name": "Kuala Lumpur International Airport",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport",
+   "lat": 2.74333333,
+   "lon": 101.69805556,
+   "precision": "feature"
+  },
+  {
+   "id": "seongju",
+   "name": "Seongju County",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Seongju_County",
+   "lat": 35.919119,
+   "lon": 128.283019,
+   "precision": "city"
+  },
+  {
+   "id": "mashhad",
+   "name": "Mashhad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mashhad",
+   "lat": 36.32638889,
+   "lon": 59.54333333,
+   "precision": "city"
+  },
+  {
+   "id": "madrid",
+   "name": "Madrid",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madrid",
+   "lat": 40.4169,
+   "lon": -3.7033,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2017-01-20-trump-inaugurated",
+   "date": "2017-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Americas",
+   "title": "Donald Trump is inaugurated promising 'America First'",
+   "summary": "His first presidency reshaped US trade, alliance and Middle East policy; he returned to office in 2025.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "united-states"
+   ],
+   "storylines": [
+    "transatlantic-rift",
+    "us-tariffs-trade"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2017-01-21-gambia-jammeh-exits",
+   "date": "2017-01-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Africa",
+   "title": "ECOWAS troops force Gambia's Yahya Jammeh into exile",
+   "summary": "Jammeh refused to accept his election defeat by Adama Barrow; West African troops moved in and he left for Equatorial Guinea.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016%E2%80%932017_Gambian_constitutional_crisis"
+    }
+   ],
+   "entities": [
+    "the-gambia"
+   ],
+   "marker": "military",
+   "where": [
+    "banjul"
+   ]
+  },
+  {
+   "id": "2017-01-23-us-quits-tpp",
+   "date": "2017-01-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Americas",
+   "title": "Trump pulls the US out of the Trans-Pacific Partnership",
+   "summary": "Withdrawing from the 12-nation trade pact, a centrepiece of Obama's pivot to Asia, was one of his first acts; the other 11 signed a revised CPTPP in 2018.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Trans-Pacific_Partnership"
+    },
+    {
+     "name": "CNN",
+     "url": "http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "japan"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2017-01-20-trump-inaugurated",
+     "why": "America First trade agenda",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Executive memorandum."
+  },
+  {
+   "id": "2017-01-23-astana-talks",
+   "date": "2017-01-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Middle East",
+   "title": "Russia, Turkey and Iran open Syria talks in Astana",
+   "summary": "The Astana process sidelined Western-led UN diplomacy and later produced 'de-escalation zones', including Idlib.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Syrian_peace_process"
+    }
+   ],
+   "entities": [
+    "russia",
+    "turkey",
+    "iran",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "astana"
+   ]
+  },
+  {
+   "id": "2017-01-27-travel-ban",
+   "date": "2017-01-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Americas",
+   "title": "Trump bars entry from seven Muslim-majority countries",
+   "summary": "Executive Order 13769 triggered airport protests and court challenges; a revised version was upheld by the Supreme Court in 2018.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Executive_Order_13769"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2017/jan/27/donald-trump-muslim-refugee-ban-executive-action"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "iran",
+    "syria"
+   ],
+   "causes": [
+    {
+     "story": "2017-01-20-trump-inaugurated",
+     "why": "Campaign pledge",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Executive order."
+  },
+  {
+   "id": "2017-02-13-kim-jong-nam-killed",
+   "date": "2017-02-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Asia-Pacific",
+   "title": "Kim Jong Un's half-brother is assassinated with VX nerve agent in Kuala Lumpur",
+   "summary": "Two women smeared the chemical weapon on Kim Jong-nam's face at the airport; Malaysia blamed North Korean agents.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Kim_Jong-nam"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2017/feb/14/kim-jong-un-half-brother-reportedly-killed-malaysia-north-korea"
+    }
+   ],
+   "entities": [
+    "kim-jong-nam",
+    "north-korea",
+    "malaysia",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "strike",
+   "where": [
+    "klia"
+   ]
+  },
+  {
+   "id": "2017-03-06-thaad-deployed",
+   "date": "2017-03-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Asia-Pacific",
+   "title": "US begins deploying THAAD missile defence in South Korea",
+   "summary": "China retaliated against South Korean firms and tourism, calling the radar a threat to its security.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2017/03/06/world/asia/north-korea-thaad-missile-defense-us-china.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "south-korea",
+    "china",
+    "thaad",
+    "north-korea"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "military",
+   "where": [
+    "seongju"
+   ]
+  },
+  {
+   "id": "2017-03-10-park-removed",
+   "date": "2017-03-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Asia-Pacific",
+   "title": "South Korea's Constitutional Court removes President Park Geun-hye",
+   "summary": "The court upheld her impeachment over an influence-peddling scandal; Moon Jae-in won the snap election in May.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Impeachment_of_Park_Geun-hye"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2017/3/10/park-geun-hye-fired-as-court-upholds-impeachment"
+    }
+   ],
+   "entities": [
+    "south-korea",
+    "park-geun-hye",
+    "moon-jae-in"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "seoul"
+   ]
+  },
+  {
+   "id": "2017-03-29-article-50",
+   "date": "2017-03-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2017 (Trump's first year)",
+   "region": "Europe",
+   "title": "Britain triggers Article 50 to begin leaving the EU",
+   "summary": "Theresa May's letter started a two-year countdown to Brexit, following the 2016 referendum.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "european-union",
+    "theresa-may"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2017-01-20-trump-inaugurated",
+    "2017-03-29-article-50"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2017-01-20-trump-inaugurated",
+    "2017-01-23-us-quits-tpp"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2017-01-23-astana-talks"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2017-02-13-kim-jong-nam-killed",
+    "2017-03-06-thaad-deployed",
+    "2017-03-10-park-removed"
+   ]
+  }
+ ]
+}
