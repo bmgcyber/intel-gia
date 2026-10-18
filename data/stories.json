@@ -39488,5 +39488,356 @@
   "related_stories": [
    "2019-04-11-bashir-ousted"
   ]
+ },
+ {
+  "id": "2017-01-20-trump-inaugurated",
+  "date": "2017-01-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Americas",
+  "title": "Donald Trump is inaugurated promising 'America First'",
+  "summary": "His first presidency reshaped US trade, alliance and Middle East policy; he returned to office in 2025.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "transatlantic-rift",
+   "us-tariffs-trade"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2017-01-23-us-quits-tpp",
+   "2017-01-27-travel-ban"
+  ]
+ },
+ {
+  "id": "2017-01-21-gambia-jammeh-exits",
+  "date": "2017-01-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Africa",
+  "title": "ECOWAS troops force Gambia's Yahya Jammeh into exile",
+  "summary": "Jammeh refused to accept his election defeat by Adama Barrow; West African troops moved in and he left for Equatorial Guinea.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2016%E2%80%932017_Gambian_constitutional_crisis"
+   }
+  ],
+  "entities": [
+   "the-gambia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "banjul"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-01-23-us-quits-tpp",
+  "date": "2017-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Americas",
+  "title": "Trump pulls the US out of the Trans-Pacific Partnership",
+  "summary": "Withdrawing from the 12-nation trade pact, a centrepiece of Obama's pivot to Asia, was one of his first acts; the other 11 signed a revised CPTPP in 2018.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trans-Pacific_Partnership"
+   },
+   {
+    "name": "CNN",
+    "url": "http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump",
+   "japan"
+  ],
+  "causes": [
+   {
+    "story": "2017-01-20-trump-inaugurated",
+    "why": "America First trade agenda",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "diplomacy",
+  "unplaced": "Executive memorandum.",
+  "related_stories": [
+   "2017-01-20-trump-inaugurated"
+  ]
+ },
+ {
+  "id": "2017-01-23-astana-talks",
+  "date": "2017-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Middle East",
+  "title": "Russia, Turkey and Iran open Syria talks in Astana",
+  "summary": "The Astana process sidelined Western-led UN diplomacy and later produced 'de-escalation zones', including Idlib.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Syrian_peace_process"
+   }
+  ],
+  "entities": [
+   "russia",
+   "turkey",
+   "iran",
+   "syria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "diplomacy",
+  "where": [
+   "astana"
+  ],
+  "related_stories": [
+   "2022-07-19-putin-tehran",
+   "2024-12-08-assad-falls",
+   "2024-11-30-aleppo-falls",
+   "2020-03-05-idlib-ceasefire",
+   "2019-10-09-operation-peace-spring",
+   "2018-09-17-idlib-sochi-deal"
+  ]
+ },
+ {
+  "id": "2017-01-27-travel-ban",
+  "date": "2017-01-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Americas",
+  "title": "Trump bars entry from seven Muslim-majority countries",
+  "summary": "Executive Order 13769 triggered airport protests and court challenges; a revised version was upheld by the Supreme Court in 2018.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Executive_Order_13769"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2017/jan/27/donald-trump-muslim-refugee-ban-executive-action"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump",
+   "iran",
+   "syria"
+  ],
+  "causes": [
+   {
+    "story": "2017-01-20-trump-inaugurated",
+    "why": "Campaign pledge",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "unplaced": "Executive order.",
+  "related_stories": [
+   "2017-01-20-trump-inaugurated",
+   "us-iran-talks-deadlock",
+   "gfs-pride-sunk",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-22-midnight-hammer",
+   "iran-seven-day-hormuz-offer",
+   "2020-01-03-soleimani-killed",
+   "2019-03-25-golan-recognition",
+   "2019-06-20-global-hawk-downed",
+   "2019-10-09-operation-peace-spring",
+   "2018-05-08-us-quits-jcpoa"
+  ]
+ },
+ {
+  "id": "2017-02-13-kim-jong-nam-killed",
+  "date": "2017-02-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Asia-Pacific",
+  "title": "Kim Jong Un's half-brother is assassinated with VX nerve agent in Kuala Lumpur",
+  "summary": "Two women smeared the chemical weapon on Kim Jong-nam's face at the airport; Malaysia blamed North Korean agents.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Kim_Jong-nam"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2017/feb/14/kim-jong-un-half-brother-reportedly-killed-malaysia-north-korea"
+   }
+  ],
+  "entities": [
+   "kim-jong-nam",
+   "north-korea",
+   "malaysia",
+   "kim-jong-un"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "strike",
+  "where": [
+   "klia"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-03-06-thaad-deployed",
+  "date": "2017-03-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Asia-Pacific",
+  "title": "US begins deploying THAAD missile defence in South Korea",
+  "summary": "China retaliated against South Korean firms and tourism, calling the radar a threat to its security.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2017/03/06/world/asia/north-korea-thaad-missile-defense-us-china.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "south-korea",
+   "china",
+   "thaad",
+   "north-korea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "seongju"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-03-10-park-removed",
+  "date": "2017-03-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Asia-Pacific",
+  "title": "South Korea's Constitutional Court removes President Park Geun-hye",
+  "summary": "The court upheld her impeachment over an influence-peddling scandal; Moon Jae-in won the snap election in May.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Impeachment_of_Park_Geun-hye"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2017/3/10/park-geun-hye-fired-as-court-upholds-impeachment"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "park-geun-hye",
+   "moon-jae-in"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-03-29-article-50",
+  "date": "2017-03-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-03-31",
+  "region": "Europe",
+  "title": "Britain triggers Article 50 to begin leaving the EU",
+  "summary": "Theresa May's letter started a two-year countdown to Brexit, following the 2016 referendum.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_Kingdom_invocation_of_Article_50_of_the_Treaty_on_European_Union"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union",
+   "theresa-may"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-03-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "diplomacy",
+  "where": [
+   "brussels"
+  ],
+  "related_stories": [
+   "2018-11-25-brexit-deal-endorsed"
+  ]
  }
 ]
