@@ -21166,6 +21166,598 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-12-30": {
+   "sha256": "55458e1269a92c0d1903f3c44b4dfc76df0aabbe020ea3c8eb62cf0d5c6b2d6d",
+   "undo": {
+    "stories": {
+     "2022-12-16-japan-security-strategy": null,
+     "2023-01-08-china-reopens": null,
+     "2023-03-13-aukus-pathway": null,
+     "2023-04-05-tsai-mccarthy": null,
+     "2023-05-11-jeddah-declaration": null,
+     "2023-08-23-chandrayaan-3": null,
+     "2023-09-09-delhi-g20": null,
+     "2023-10-06-narges-mohammadi-nobel": null,
+     "2023-10-18-country-garden-default": null,
+     "2023-11-24-gaza-hostage-truce": null,
+     "2023-12-18-wad-madani-falls": null,
+     "2022-08-04-pla-drills": {
+      "id": "2022-08-04-pla-drills",
+      "date": "2022-08-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "China holds unprecedented drills encircling Taiwan",
+      "summary": "The PLA held live-fire exercises in zones around Taiwan, firing ballistic missiles over the island; Beijing also halted some US dialogues and sanctioned Pelosi.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Chinese military exercises around Taiwan",
+        "url": "https://en.wikipedia.org/wiki/2022_Chinese_military_exercises_around_Taiwan"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "united-states",
+       "japan"
+      ],
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-02-pelosi",
+        "why": "Retaliation for the visit",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "pla-drills",
+        "why": "2022 drills set the template for encirclement exercises",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Heightened US–China military tension",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-31-nvidia-ban",
+       "pla-drills",
+       "rare-earth-nov10",
+       "2025-12-29-justice-mission-drills",
+       "2025-04-02-strait-thunder",
+       "2024-01-13-lai-elected-taiwan"
+      ],
+      "marker": "military",
+      "unplaced": "The drills were zones around Taiwan, not one point."
+     },
+     "2022-02-24-invasion": {
+      "id": "2022-02-24-invasion",
+      "date": "2022-02-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Russia launches full-scale invasion of Ukraine",
+      "summary": "Russian forces attacked Ukraine from the north, east and south, including toward Kyiv from Belarus.",
+      "sources": [
+       {
+        "name": "Wikipedia: Russian invasion of Ukraine",
+        "url": "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "vladimir-putin",
+       "belarus",
+       "volodymyr-zelenskyy",
+       "kyiv",
+       "kharkiv",
+       "crimea"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-21-recognition",
+        "why": "Recognition was the pretext step",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-belarus-drills",
+        "why": "Forces staged in Belarus attacked toward Kyiv",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-04-no-limits",
+        "why": "Moscow moved after securing Chinese political backing",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-02-26-swift-cbr",
+        "why": "Sanctions response to invasion",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-27-zeitenwende",
+        "why": "Direct reaction to the invasion",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-24-grain-halt",
+        "why": "Blockade of ports",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-04-zaporizhzhia",
+        "why": "Southern axis of the invasion",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-05-us-venezuela-talks",
+        "why": "Oil supply shock pushed Washington to re-engage Caracas",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-07-oil-spike",
+        "why": "Supply-loss fears",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-08-us-oil-ban",
+        "why": "Sanctions escalation",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-08-lme-nickel",
+        "why": "Russia is a major nickel supplier",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-03-29-istanbul-talks",
+        "why": "War stalled around Kyiv",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-04-14-moskva",
+        "why": "Naval war in the Black Sea",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-18-finland-sweden",
+        "why": "Invasion reversed Nordic public opinion",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-20-mariupol",
+        "why": "Southern campaign",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-06-23-ukraine-eu",
+        "why": "War accelerated integration",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-07-19-putin-tehran",
+        "why": "Sanctioned Russia sought partners",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-21-recognition",
+       "2022-02-24-grain-halt",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-belarus-drills",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-05-us-venezuela-talks",
+       "2022-03-07-oil-spike",
+       "2022-03-08-lme-nickel",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-14-moskva",
+       "2022-05-18-finland-sweden",
+       "2022-05-20-mariupol",
+       "2022-06-23-ukraine-eu",
+       "2022-07-19-putin-tehran",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "diesel-deal",
+       "energy-ceasefire"
+      ],
+      "marker": "military",
+      "where": [
+       "kyiv",
+       "kharkiv",
+       "crimea"
+      ]
+     },
+     "2022-04-shanghai-lockdown": {
+      "id": "2022-04-shanghai-lockdown",
+      "date": "2022-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Shanghai's two-month COVID lockdown snarls supply chains",
+      "summary": "Shanghai locked down from late March to June 2022 under zero-COVID, disrupting ports and factories.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Shanghai COVID-19 outbreak",
+        "url": "https://en.wikipedia.org/wiki/2022_Shanghai_COVID-19_outbreak"
+       }
+      ],
+      "entities": [
+       "china"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-08-09-chips-act",
+        "why": "Supply-chain shocks fed reshoring politics",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-08-09-chips-act"
+      ]
+     },
+     "2022-10-16-party-congress": {
+      "id": "2022-10-16-party-congress",
+      "date": "2022-10-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "CCP 20th Party Congress gives Xi a third term",
+      "summary": "The congress (16–22 October) cleared the way for Xi Jinping's norm-breaking third term and a loyalist Politburo Standing Committee.",
+      "sources": [
+       {
+        "name": "Wikipedia: 20th National Congress of the Chinese Communist Party",
+        "url": "https://en.wikipedia.org/wiki/20th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "taiwan"
+      ],
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     },
+     "2023-04-15-sudan-war-begins": {
+      "id": "2023-04-15-sudan-war-begins",
+      "date": "2023-04-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Africa",
+      "title": "War erupts in Sudan between the army and the RSF",
+      "summary": "A power struggle between army chief Burhan and RSF leader Hemedti, partners in the 2021 coup, turned into full war in Khartoum and Darfur, starting what the UN would call the world's largest displacement crisis.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/sudans-hemedti-carved-route-power-by-crushing-darfur-revolt-2023-04-15/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/apr/25/sudan-conflict-why-is-there-fighting-what-is-happening"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present)"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "sudanese-armed-forces",
+       "rsf"
+      ],
+      "causes": [
+       {
+        "story": "2021-10-25-sudan-coup",
+        "why": "The coup partners fell out",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2021-10-25-sudan-coup",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine"
+      ]
+     },
+     "2022-09-16-mahsa-amini": {
+      "id": "2022-09-16-mahsa-amini",
+      "date": "2022-09-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Death of Mahsa Amini in morality-police custody sparks nationwide protests",
+      "summary": "Amini, 22, died after arrest by Iran's morality police. The 'Woman, Life, Freedom' protests that followed became the largest challenge to the Islamic Republic in years.",
+      "sources": [
+       {
+        "name": "Wikipedia: Death of Mahsa Amini",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini"
+       },
+       {
+        "name": "Wikipedia: Mahsa Amini protests",
+        "url": "https://en.wikipedia.org/wiki/Mahsa_Amini_protests"
+       }
+      ],
+      "entities": [
+       "iran",
+       "ali-khamenei",
+       "ebrahim-raisi",
+       "irgc"
+      ],
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-jcpoa-stall",
+        "why": "Crackdown made a deal politically harder for the West",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-07-19-putin-tehran",
+       "2022-09-jcpoa-stall",
+       "2026-01-08-iran-protest-crackdown"
+      ]
+     },
+     "2023-10-27-gaza-ground-invasion": {
+      "id": "2023-10-27-gaza-ground-invasion",
+      "date": "2023-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Middle East",
+      "title": "Israel launches its ground invasion of Gaza",
+      "summary": "After three weeks of bombardment, Israel sent ground forces into northern Gaza and then besieged Gaza City. A week-long truce in late November swapped hostages for prisoners.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaza_war"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-07-hamas-attack",
+        "why": "Israel's response to Oct 7",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2023-10-07-hamas-attack",
+       "2024-05-07-rafah-offensive"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage"
+      ],
+      "source": "threads.md"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "aukus",
+     "country-garden",
+     "ecuador",
+     "evergrande",
+     "icc",
+     "icj",
+     "muhammad-yunus",
+     "narges-mohammadi",
+     "new-delhi",
+     "tarique-rahman",
+     "tsai-ing-wen",
+     "wad-madani"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
