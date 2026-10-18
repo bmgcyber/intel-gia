@@ -1,0 +1,812 @@
+{
+ "edition": "2025-03-31",
+ "stories": [
+  {
+   "id": "2025-01-07-trump-greenland-panama",
+   "date": "2025-01-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Trump won't rule out force to take Greenland and the Panama Canal",
+   "summary": "At a Mar-a-Lago news conference, President-elect Trump refused to rule out military or economic coercion to gain control of Greenland and the Panama Canal, calling both vital to US security, and threatened Denmark with tariffs. Denmark and Panama rejected any transfer of control.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/trump-biden-offshore-drilling-gulf-of-america-fa66f8d072eb39c00a8128a8941ede75"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/trump-wont-rule-out-military-economic-action-he-seeks-control-panama-canal-2025-01-07/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/c4gzn48jwz2o"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "greenland",
+    "denmark"
+   ],
+   "storylines": [
+    "transatlantic-rift",
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "This opened a year-long US campaign of territorial pressure on an ally that ended in the 2026 Greenland treaty.",
+    "confidence": "likely"
+   },
+   "where": [
+    "mar-a-lago"
+   ]
+  },
+  {
+   "id": "2025-01-19-gaza-ceasefire",
+   "date": "2025-01-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "First Gaza ceasefire takes effect; first hostages and prisoners swapped",
+   "summary": "A ceasefire between Israel and Hamas took effect on Jan 19 after a nearly three-hour delay. Hamas freed three Israeli women hostages and Israel released 90 Palestinian prisoners on the first day.",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cvgpe1pmyq5o"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/1/19/israel-hamas-ceasefire-takes-effect-in-gaza"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "unplaced": "Gaza Strip-wide; no single site."
+  },
+  {
+   "id": "2025-01-27-m23-takes-goma",
+   "date": "2025-01-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Africa",
+   "title": "Rwandan-backed M23 rebels enter Goma",
+   "summary": "M23 rebels entered the centre of Goma, eastern Congo's largest city, after claiming its capture. The UN said Rwandan troops were in the city backing them, and the UN Security Council demanded M23 halt its offensive.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/rebels-enter-centre-congos-goma-after-claiming-capture-city-2025-01-27/"
+    },
+    {
+     "name": "Reuters (UN: Rwandan troops)",
+     "url": "https://www.reuters.com/world/africa/fighting-ongoing-across-drcs-goma-rwanda-troops-city-says-un-2025-01-27/"
+    },
+    {
+     "name": "Reuters (UNSC)",
+     "url": "https://www.reuters.com/world/africa/un-security-council-demands-m23-stop-offensive-eastern-congo-2025-01-27/"
+    }
+   ],
+   "entities": [
+    "m23",
+    "rwanda",
+    "drc"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "causes": [
+    {
+     "story": "2022-06-13-bunagana",
+     "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "goma"
+   ]
+  },
+  {
+   "id": "2025-01-27-deepseek-shock",
+   "date": "2025-01-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "China's DeepSeek wipes about $590bn off Nvidia in a day",
+   "summary": "A low-cost AI model from China's DeepSeek triggered a tech selloff. Nvidia fell about 17% and lost roughly $589bn of market value, the largest one-day loss for any US company.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/dereksaul/2025/01/27/biggest-market-loss-in-history-nvidia-stock-sheds-nearly-600-billion-as-deepseek-shakes-ai-darling/"
+    }
+   ],
+   "entities": [
+    "deepseek",
+    "nvidia",
+    "china",
+    "semiconductors"
+   ],
+   "storylines": [
+    "ai-compute-minerals"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Chinese labs innovated around US chip controls",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "It was the first sign that US export controls might not keep China far behind, and that AI valuations were fragile.",
+    "confidence": "possible"
+   },
+   "unplaced": "A market event; no site."
+  },
+  {
+   "id": "2025-02-20-cartels-fto",
+   "date": "2025-02-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Americas",
+   "title": "US designates eight cartels and gangs as terrorist organisations",
+   "summary": "The State Department designated Tren de Aragua, MS-13, the Sinaloa Cartel, CJNG and four other groups as Foreign Terrorist Organizations and Specially Designated Global Terrorists.",
+   "sources": [
+    {
+     "name": "US State Department",
+     "url": "https://www.state.gov/designation-of-international-cartels"
+    },
+    {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2025/02/20/2025-02873/foreign-terrorist-organization-designations-of-tren-de-aragua-mara-salvatrucha-cartel-de-sinaloa"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "cjng",
+    "tren-de-aragua",
+    "mexico",
+    "venezuela"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "Treating cartels as terrorists gave the legal and political frame for the 2025 boat strikes, the Maduro operation and the El Mencho raid.",
+    "confidence": "likely"
+   },
+   "unplaced": "A legal designation; no site."
+  },
+  {
+   "id": "2025-02-28-oval-office-clash",
+   "date": "2025-02-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Russia/Eurasia",
+   "title": "Trump and Vance berate Zelenskyy in the Oval Office; minerals deal unsigned",
+   "summary": "An Oval Office meeting broke down as Trump and Vice President Vance clashed with Zelenskyy over diplomacy with Russia. Zelenskyy left early, and the planned signing of a minerals agreement was cancelled.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/zelenskyy-security-guarantees-trump-meeting-washington-eebdf97b663c2cdc9e51fa346b09591d"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/trump-zelenskiy-sign-minerals-deal-white-house-meeting-2025-02-28/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/c2erwgwy8vgo"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2025-03-10-sdf-damascus-deal",
+   "date": "2025-03-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Syria's al-Sharaa and the SDF sign a deal to merge Kurdish-run institutions into the state",
+   "summary": "Interim President Ahmed al-Sharaa and SDF commander Mazloum Abdi signed an eight-point deal to bring the northeast's civil and military institutions, border crossings and oil and gas fields under the Syrian state by year-end. The deadline passed without full implementation.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/syria-reaches-deal-integrate-sdf-within-state-institutions-presidency-says-2025-03-10/"
+    },
+    {
+     "name": "SANA",
+     "url": "https://archive.sana.sy/en/?p=349228"
+    },
+    {
+     "name": "Washington Institute",
+     "url": "https://www.washingtoninstitute.org/policy-analysis/sdfs-approach-integration-talks-syria-and-risk-expanded-conflict"
+    }
+   ],
+   "entities": [
+    "syria",
+    "sdf",
+    "ahmed-al-sharaa"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2025-03-18-gaza-war-resumes",
+   "date": "2025-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Middle East",
+   "title": "Israel ends the Gaza truce with strikes that kill more than 400",
+   "summary": "Israel launched surprise strikes across Gaza, ending the January ceasefire. Gaza health authorities reported more than 400 killed. Netanyahu said fighting had resumed 'with full force'.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-ceasefire-hostages-03-18-2025-0df87331efc6a7b1dfd99275f52868a5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cwyg28wd1k3o"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/israeli-military-conducts-strikes-hamas-targets-gaza-army-says-2025-03-18/"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-update-273-gaza-strip"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "benjamin-netanyahu"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2025-01-19-gaza-ceasefire",
+     "why": "The truce collapsed after its first phase",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "Strikes across the Gaza Strip."
+  },
+  {
+   "id": "2025-03-18-germany-debt-brake",
+   "date": "2025-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Europe",
+   "title": "Bundestag loosens Germany's debt brake for defence and a €500bn infrastructure fund",
+   "summary": "The Bundestag voted 512–206 to change the constitution, exempting defence spending above 1% of GDP from borrowing limits and creating a €500bn infrastructure fund, as Friedrich Merz prepared to take office.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/german-parliament-vote-historic-spending-surge-2025-03-18/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/c62z6gljv2yo"
+    },
+    {
+     "name": "DW",
+     "url": "https://www.dw.com/en/germanys-bundestag-votes-in-favor-of-reforming-debt-brake/live-71956815"
+    }
+   ],
+   "entities": [
+    "germany",
+    "friedrich-merz",
+    "nato"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2025-02-28-oval-office-clash",
+     "why": "Doubts over the US commitment pushed Berlin to spend",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "This was Europe's largest fiscal pivot toward rearmament since the Cold War, and it made the later 5% NATO pledge credible for Germany.",
+    "confidence": "likely"
+   },
+   "unplaced": "A Bundestag vote; Berlin has no place entity yet."
+  },
+  {
+   "id": "2025-03-21-khartoum-retaken",
+   "date": "2025-03-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Africa",
+   "title": "Sudan's army retakes the presidential palace; Burhan declares 'Khartoum is free'",
+   "summary": "The army recaptured the Republican Palace on Mar 21 and then Khartoum airport. On Mar 26 army chief Abdel Fattah al-Burhan returned to the palace and declared the capital free, though the RSF still held scattered positions.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/sudan-khartoum-republican-palace-rsf-war-3790a105d19b8da9ec484d6c48b46a89"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/3/21/sudans-army-retakes-presidential-palace-in-khartoum-strikes-blow-to-rsf"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cx2g0ppj9lyo"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/mar/21/sudan-army-recaptures-presidential-palace-khartoum-major-battlefield-gain"
+    }
+   ],
+   "entities": [
+    "sudanese-armed-forces",
+    "rsf",
+    "sudan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2021-10-25-sudan-coup",
+     "why": "The 2021 coup set the army–RSF split that became the 2023 war",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Losing the capital pushed the RSF west to Darfur and Kordofan, where the war has been concentrated since.",
+    "confidence": "likely"
+   },
+   "where": [
+    "khartoum"
+   ]
+  },
+  {
+   "id": "2025-03-tplf-split",
+   "date": "2025-03",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Africa",
+   "title": "The TPLF splits and Getachew Reda is ousted from Tigray's interim government",
+   "summary": "The TPLF faction of Debretsion Gebremichael pushed Getachew Reda out, and armed supporters seized offices in Mekelle and Adigrat. On Apr 8 Abiy appointed Lt Gen Tadesse Werede to lead the interim administration.",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/c778kp7k14ko"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/ethiopia-tigray-tplf-reda-debremichael-adigrat-adigudem-fd022ce7469140a9745efe61b094cc2e"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/ethiopias-pm-abiy-appoints-new-leader-tigray-administration-2025-04-08/"
+    },
+    {
+     "name": "Addis Standard",
+     "url": "https://addisstandard.com/tplf-rejects-pm-abiys-call-to-nominate-tigray-interim-president-calls-it-unilateral-decision-violating-pretoria-agreement/"
+    }
+   ],
+   "entities": [
+    "tplf",
+    "ethiopia",
+    "abiy-ahmed"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "The hardline TPLF faction's takeover broke the Pretoria peace framework from inside and set up the 2026 war.",
+    "confidence": "possible"
+   },
+   "where": [
+    "mekelle"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Qatar"
+  },
+  {
+   "id": "oman",
+   "name": "Oman",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oman"
+  },
+  {
+   "id": "maria-corina-machado",
+   "name": "María Corina Machado",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado"
+  },
+  {
+   "id": "jair-bolsonaro",
+   "name": "Jair Bolsonaro",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
+  },
+  {
+   "id": "jose-antonio-kast",
+   "name": "José Antonio Kast",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Kast"
+  },
+  {
+   "id": "friedrich-merz",
+   "name": "Friedrich Merz",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Merz"
+  },
+  {
+   "id": "madagascar",
+   "name": "Madagascar",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madagascar"
+  },
+  {
+   "id": "rosneft",
+   "name": "Rosneft",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rosneft"
+  },
+  {
+   "id": "lukoil",
+   "name": "Lukoil",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lukoil"
+  },
+  {
+   "id": "deepseek",
+   "name": "DeepSeek",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/DeepSeek"
+  },
+  {
+   "id": "meta",
+   "name": "Meta Platforms",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+   "id": "australia",
+   "name": "Australia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Australia"
+  },
+  {
+   "id": "tren-de-aragua",
+   "name": "Tren de Aragua",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tren_de_Aragua"
+  },
+  {
+   "id": "benjamin-netanyahu",
+   "name": "Benjamin Netanyahu",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+  },
+  {
+   "id": "khartoum",
+   "name": "Khartoum",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Khartoum",
+   "lat": 15.6,
+   "lon": 32.5,
+   "precision": "city"
+  },
+  {
+   "id": "el-fasher",
+   "name": "El Fasher",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/El_Fasher",
+   "lat": 13.63055556,
+   "lon": 25.35,
+   "precision": "city"
+  },
+  {
+   "id": "doha",
+   "name": "Doha",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Doha",
+   "lat": 25.28666667,
+   "lon": 51.53333333,
+   "precision": "city"
+  },
+  {
+   "id": "the-hague",
+   "name": "The Hague",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Hague",
+   "lat": 52.08,
+   "lon": 4.31,
+   "precision": "city"
+  },
+  {
+   "id": "anchorage",
+   "name": "Anchorage",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anchorage%2C_Alaska",
+   "lat": 61.21666667,
+   "lon": -149.89361111,
+   "precision": "city"
+  },
+  {
+   "id": "fordow",
+   "name": "Fordow enrichment plant",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fordow_Uranium_Enrichment_Plant",
+   "lat": 34.8845,
+   "lon": 50.9981,
+   "precision": "feature"
+  },
+  {
+   "id": "gaza-city",
+   "name": "Gaza City",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gaza_City",
+   "lat": 31.5075,
+   "lon": 34.45972222,
+   "precision": "city"
+  },
+  {
+   "id": "sharm-el-sheikh",
+   "name": "Sharm El Sheikh",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sharm_El_Sheikh",
+   "lat": 27.915,
+   "lon": 34.3275,
+   "precision": "city"
+  },
+  {
+   "id": "busan",
+   "name": "Busan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Busan",
+   "lat": 35.18,
+   "lon": 129.075,
+   "precision": "city"
+  },
+  {
+   "id": "mukalla",
+   "name": "Mukalla",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mukalla",
+   "lat": 14.53333333,
+   "lon": 49.13333333,
+   "precision": "city"
+  },
+  {
+   "id": "damascus",
+   "name": "Damascus",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Damascus",
+   "lat": 33.51305556,
+   "lon": 36.30944444,
+   "precision": "city"
+  },
+  {
+   "id": "washington-dc",
+   "name": "Washington, D.C.",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Washington%2C_D.C.",
+   "lat": 38.90472222,
+   "lon": -77.01638889,
+   "precision": "city"
+  },
+  {
+   "id": "mar-a-lago",
+   "name": "Mar-a-Lago",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+   "lat": 26.67694444,
+   "lon": -80.03694444,
+   "precision": "feature"
+  },
+  {
+   "id": "natanz",
+   "name": "Natanz",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Natanz",
+   "lat": 33.50722222,
+   "lon": 51.91361111,
+   "precision": "city"
+  },
+  {
+   "id": "antananarivo",
+   "name": "Antananarivo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antananarivo",
+   "lat": -18.91,
+   "lon": 47.525,
+   "precision": "city"
+  }
+ ],
+ "storylines": [
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2025-01-07-trump-greenland-panama",
+    "2025-02-28-oval-office-clash",
+    "2025-03-18-germany-debt-brake"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2025-01-07-trump-greenland-panama",
+    "2025-02-20-cartels-fto"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2025-01-19-gaza-ceasefire",
+    "2025-03-10-sdf-damascus-deal",
+    "2025-03-18-gaza-war-resumes"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2025-01-27-m23-takes-goma"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2025-01-27-deepseek-shock"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2025-02-28-oval-office-clash"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2025-03-21-khartoum-retaken"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2025-03-tplf-split"
+   ]
+  }
+ ]
+}
