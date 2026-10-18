@@ -1,0 +1,441 @@
+{
+ "edition": "2001-03-31",
+ "entities": [
+  {
+   "id": "ariel-sharon",
+   "name": "Ariel Sharon",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ariel_Sharon"
+  },
+  {
+   "id": "ahmad-shah-massoud",
+   "name": "Ahmad Shah Massoud",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud"
+  },
+  {
+   "id": "slobodan-milosevic",
+   "name": "Slobodan Milošević",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "id": "wto",
+   "name": "World Trade Organization",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/World_Trade_Organization"
+  },
+  {
+   "id": "mohammad-khatami",
+   "name": "Mohammad Khatami",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Khatami"
+  },
+  {
+   "id": "enron",
+   "name": "Enron",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Enron"
+  },
+  {
+   "id": "bamyan",
+   "name": "Bamyan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bamyan",
+   "lat": 34.825,
+   "lon": 67.83333333,
+   "precision": "city"
+  },
+  {
+   "id": "hainan-lingshui",
+   "name": "Lingshui, Hainan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lingshui_Li_Autonomous_County",
+   "lat": 18.506,
+   "lon": 110.0375,
+   "precision": "sector"
+  },
+  {
+   "id": "genoa",
+   "name": "Genoa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Genoa",
+   "lat": 44.40722222,
+   "lon": 8.93388889,
+   "precision": "city"
+  },
+  {
+   "id": "skopje",
+   "name": "Skopje",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Skopje",
+   "lat": 41.99611111,
+   "lon": 21.43166667,
+   "precision": "city"
+  },
+  {
+   "id": "bonn",
+   "name": "Bonn",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bonn",
+   "lat": 50.7353,
+   "lon": 7.1022,
+   "precision": "city"
+  },
+  {
+   "id": "tora-bora",
+   "name": "Tora Bora",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tora_Bora",
+   "lat": 34.117,
+   "lon": 70.217,
+   "precision": "feature"
+  },
+  {
+   "id": "houston",
+   "name": "Houston",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Houston",
+   "lat": 29.75666667,
+   "lon": -95.36527778,
+   "precision": "city"
+  },
+  {
+   "id": "indian-parliament",
+   "name": "Parliament House, New Delhi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/2001_Indian_Parliament_attack",
+   "lat": 28.6172,
+   "lon": 77.2081,
+   "precision": "feature"
+  },
+  {
+   "id": "dolphinarium",
+   "name": "Dolphinarium, Tel Aviv",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_massacre",
+   "lat": 32.06722222,
+   "lon": 34.76166667,
+   "precision": "feature"
+  },
+  {
+   "id": "lusaka",
+   "name": "Lusaka",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lusaka",
+   "lat": -15.41666667,
+   "lon": 28.28333333,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2001-01-16-laurent-kabila-killed",
+   "date": "2001-01-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Africa",
+   "title": "Congo's Laurent Kabila is assassinated; his son Joseph succeeds him",
+   "summary": "Joseph Kabila steered the Second Congo War toward peace.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
+    }
+   ],
+   "entities": [
+    "drc",
+    "joseph-kabila"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "political",
+   "where": [
+    "kinshasa"
+   ]
+  },
+  {
+   "id": "2001-01-20-edsa-ii",
+   "date": "2001-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Protests and the army oust Philippine President Joseph Estrada",
+   "summary": "Gloria Macapagal Arroyo took over.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Second_EDSA_Revolution"
+    }
+   ],
+   "entities": [
+    "philippines"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "manila"
+   ]
+  },
+  {
+   "id": "2001-01-20-bush-inaugurated",
+   "date": "2001-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "George W. Bush is inaugurated after the contested 2000 election",
+   "summary": "The Supreme Court had halted the Florida recount.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_inauguration_of_George_W._Bush"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2001-02-06-sharon-elected",
+   "date": "2001-02-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Middle East",
+   "title": "Ariel Sharon wins Israel's election amid the second intifada",
+   "summary": "He took a hard line, and in 2005 pulled out of Gaza.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Israeli_prime_ministerial_election"
+    }
+   ],
+   "entities": [
+    "israel",
+    "ariel-sharon"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "jerusalem"
+   ]
+  },
+  {
+   "id": "2001-02-09-thaksin-pm",
+   "date": "2001-02-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Thaksin Shinawatra becomes Thailand's prime minister",
+   "summary": "His populist rule split Thai politics for two decades.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Thai_general_election"
+    }
+   ],
+   "entities": [
+    "thailand",
+    "thaksin-shinawatra"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2001-03-bamiyan-buddhas",
+   "date": "2001-03",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "The Taliban dynamite the Bamiyan Buddhas",
+   "summary": "The destruction drew worldwide condemnation.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan"
+    }
+   ],
+   "entities": [
+    "taliban",
+    "afghanistan"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "political",
+   "where": [
+    "bamyan"
+   ]
+  },
+  {
+   "id": "2001-03-28-us-rejects-kyoto",
+   "date": "2001-03",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Bush rejects the Kyoto Protocol",
+   "summary": "The US never ratified it.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kyoto_Protocol"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush",
+    "cop"
+   ],
+   "storylines": [
+    "climate-diplomacy"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2001-03-zimbabwe-land-seizures",
+   "date": "2001",
+   "date_precision": "year",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Africa",
+   "title": "Zimbabwe's land seizures from white farmers accelerate",
+   "summary": "Farm output collapsed and the economy went into freefall.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Land_reform_in_Zimbabwe"
+    }
+   ],
+   "entities": [
+    "zimbabwe",
+    "robert-mugabe"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "harare"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2001-01-16-laurent-kabila-killed"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2001-01-20-edsa-ii",
+    "2001-02-09-thaksin-pm"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2001-01-20-bush-inaugurated"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2001-02-06-sharon-elected"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2001-03-bamiyan-buddhas"
+   ]
+  },
+  {
+   "id": "climate-diplomacy",
+   "name": "Climate diplomacy",
+   "entities": [
+    "paris-agreement",
+    "cop"
+   ],
+   "stories": [
+    "2001-03-28-us-rejects-kyoto"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2001-03-zimbabwe-land-seizures"
+   ]
+  }
+ ]
+}
