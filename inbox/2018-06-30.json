@@ -1,0 +1,691 @@
+{
+ "edition": "2018-06-30",
+ "stories": [
+  {
+   "id": "2018-04-02-abiy-pm",
+   "date": "2018-04-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Abiy Ahmed becomes Ethiopia's prime minister after years of protest",
+   "summary": "The 41-year-old Oromo reformer freed political prisoners, opened the economy and reached out to Eritrea.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abiy_Ahmed"
+    }
+   ],
+   "entities": [
+    "abiy-ahmed",
+    "ethiopia"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "where": [
+    "addis-ababa"
+   ]
+  },
+  {
+   "id": "2018-04-07-douma-chemical-attack",
+   "date": "2018-04-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Chemical attack on Douma kills dozens",
+   "summary": "Medics said 40 to 50 people died. The OPCW later concluded that a Syrian Air Force helicopter dropped chlorine cylinders.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Douma_chemical_attack"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2018/04/07/middleeast/syria-suspected-chemical-attack/index.html"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2018-02-18-eastern-ghouta-assault",
+     "why": "Part of the Ghouta offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "Douma has no coordinates on Wikipedia."
+  },
+  {
+   "id": "2018-04-14-us-uk-france-strike-syria",
+   "date": "2018-04-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "US, UK and France fire missiles at Syrian chemical-weapons sites",
+   "summary": "The strikes punished the Douma attack; Russia called them a violation of international law.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/April_2018_missile_strikes_against_Syria"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/apr/14/syria-air-strikes-us-uk-and-france-launch-attack-on-assad-regime"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "united-kingdom",
+    "france",
+    "syria",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2018-04-07-douma-chemical-attack",
+     "why": "Retaliation for Douma",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2018-04-16-zte-export-ban",
+   "date": "2018-04-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "US bars American firms from selling to ZTE",
+   "summary": "Commerce imposed a seven-year ban for sanctions-busting sales to Iran and North Korea, nearly killing the company; Trump lifted it in July after a settlement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/ZTE"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "zte",
+    "china"
+   ],
+   "storylines": [
+    "ai-compute-minerals",
+    "us-tariffs-trade"
+   ],
+   "marker": "political",
+   "unplaced": "Commerce Department order."
+  },
+  {
+   "id": "2018-04-18-nicaragua-protests",
+   "date": "2018-04-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Nicaragua's pension protests turn into a deadly uprising against Ortega",
+   "summary": "Ortega cancelled the social-security reform, but the crackdown that followed killed hundreds and he banned opposition protests that September.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Nicaraguan_protests"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/sections/thetwo-way/2018/04/22/604762080/violent-unrest-continues-in-nicaragua-over-social-security-reforms"
+    }
+   ],
+   "entities": [
+    "nicaragua",
+    "daniel-ortega"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "Nationwide protests."
+  },
+  {
+   "id": "2018-04-23-armenia-velvet-revolution",
+   "date": "2018-04-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Russia/Eurasia",
+   "title": "Armenia's 'Velvet Revolution' ousts Serzh Sargsyan",
+   "summary": "Mass protests led by Nikol Pashinyan forced Sargsyan out days after he moved from president to prime minister; Pashinyan was elected PM in May.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Armenian_Revolution"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2018/04/23/world/europe/armenia-prime-minister-protests.html"
+    }
+   ],
+   "entities": [
+    "armenia",
+    "nikol-pashinyan"
+   ],
+   "storylines": [
+    "south-caucasus"
+   ],
+   "marker": "political",
+   "where": [
+    "yerevan"
+   ]
+  },
+  {
+   "id": "2018-04-27-panmunjom-summit",
+   "date": "2018-04-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "Kim Jong Un crosses into South Korea for a summit with Moon",
+   "summary": "Their Panmunjom Declaration pledged a 'nuclear-free' peninsula and opened the way to Kim's summit with Trump.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/April_2018_inter-Korean_summit"
+    }
+   ],
+   "entities": [
+    "kim-jong-un",
+    "moon-jae-in",
+    "north-korea",
+    "south-korea"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "causes": [
+    {
+     "story": "2018-02-09-pyeongchang-olympic-thaw",
+     "why": "Olympic thaw led to talks",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "panmunjom-jsa"
+   ]
+  },
+  {
+   "id": "2018-05-08-us-quits-jcpoa",
+   "date": "2018-05-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Trump withdraws the US from the Iran nuclear deal and restores sanctions",
+   "summary": "France, Germany and Britain said the 2015 deal remained binding; US 'maximum pressure' sanctions, including on oil, were reimposed over the following months.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Iran_nuclear_deal"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/may/08/trump-iran-decision-sanctions-waiver-nuclear-deal-continue"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "iran",
+    "jcpoa",
+    "france",
+    "germany",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "The withdrawal began the cycle of Iranian escalation, tanker attacks and nuclear expansion that ran to the 2025–26 wars.",
+    "confidence": "likely"
+   },
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2018-05-09-mahathir-wins",
+   "date": "2018-05-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "Malaysia's opposition ousts the ruling coalition for the first time",
+   "summary": "Mahathir Mohamad's Pakatan Harapan defeated Najib Razak amid the 1MDB scandal, ending six decades of Barisan Nasional rule.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Malaysian_general_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2018/05/malaysia-opposition-pulls-shocking-election-win-180509184811723.html"
+    }
+   ],
+   "entities": [
+    "malaysia",
+    "mahathir-mohamad"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "kuala-lumpur"
+   ]
+  },
+  {
+   "id": "2018-05-14-jerusalem-embassy-gaza",
+   "date": "2018-05-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "US opens its embassy in Jerusalem as Israeli fire kills dozens at the Gaza fence",
+   "summary": "The move followed Trump's 2017 recognition of Jerusalem as Israel's capital. About 58 Palestinians were killed the same day in the 'Great March of Return' protests.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Jerusalem"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018%E2%80%932019_Gaza_border_protests"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/may/15/palestinians-to-bury-58-people-killed-in-us-embassy-protests"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "israel",
+    "jerusalem",
+    "hamas",
+    "donald-trump"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "us-embassy-jerusalem"
+   ]
+  },
+  {
+   "id": "2018-05-20-maduro-reelected",
+   "date": "2018-05-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Maduro wins a second term in a vote widely called a sham",
+   "summary": "Major opposition parties were barred and turnout was the lowest of Venezuela's democratic era; the US, the EU and Latin American governments refused to recognise the result.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Venezuelan_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/may/21/venezuela-elections-nicolas-maduro-wins-second-term"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "nicolas-maduro"
+   ],
+   "storylines": [
+    "venezuela-oil",
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2018-06-12-singapore-summit",
+   "date": "2018-06-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "Trump and Kim hold the first US–North Korea summit in Singapore",
+   "summary": "They signed a vague pledge to work toward 'complete denuclearisation'; Trump suspended large joint exercises with South Korea.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_North_Korea%E2%80%93United_States_Singapore_Summit"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2018/06/12/trump-and-kim-sign-agreement-document-after-summit-in-singapore.html"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "kim-jong-un",
+    "north-korea",
+    "united-states",
+    "singapore"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "causes": [
+    {
+     "story": "2018-04-27-panmunjom-summit",
+     "why": "Moon brokered the opening",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "sentosa"
+   ]
+  },
+  {
+   "id": "2018-06-13-hodeidah-offensive",
+   "date": "2018-06-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Saudi- and UAE-led forces assault the Houthi-held port of Hodeidah",
+   "summary": "The coalition's biggest battle of the war targeted Yemen's main aid lifeline and raised fears of famine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Hodeidah"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/global-development/2018/jun/13/yemen-port-city-hodeidah-panic-fear-saudi-led-forces"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "houthis",
+    "yemen"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "military",
+   "where": [
+    "hodeidah"
+   ]
+  },
+  {
+   "id": "2018-06-17-prespa-agreement",
+   "date": "2018-06-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "Greece and Macedonia sign the Prespa deal ending their name dispute",
+   "summary": "Macedonia agreed to become North Macedonia, clearing Greek vetoes on its NATO and EU paths; it joined NATO in 2020.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Prespa_Agreement"
+    }
+   ],
+   "entities": [
+    "greece",
+    "north-macedonia",
+    "nato",
+    "european-union"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "lake-prespa"
+   ]
+  },
+  {
+   "id": "2018-06-24-erdogan-executive-president",
+   "date": "2018-06-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Erdoğan wins election under Turkey's new executive presidency",
+   "summary": "The win activated sweeping powers approved in a 2017 referendum, abolishing the prime minister's office.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Turkish_presidential_election"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2018-06-19-southern-syria-offensive",
+   "date": "2018-06-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Assad's army retakes Daraa and the south with Russian air support",
+   "summary": "The offensive overran rebel areas near the Jordanian and Israeli frontiers by the end of July; many rebels accepted Russian-brokered 'reconciliation' deals.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Southern_Syria_offensive"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/jul/01/israel-deploys-border-reinforcements-as-syrians-flee-strikes"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad",
+    "russia",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "daraa"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2018-04-02-abiy-pm"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2018-04-07-douma-chemical-attack",
+    "2018-04-14-us-uk-france-strike-syria",
+    "2018-05-14-jerusalem-embassy-gaza",
+    "2018-06-19-southern-syria-offensive"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2018-04-16-zte-export-ban"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2018-04-16-zte-export-ban"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2018-04-18-nicaragua-protests",
+    "2018-05-20-maduro-reelected"
+   ]
+  },
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2018-04-23-armenia-velvet-revolution"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2018-04-27-panmunjom-summit",
+    "2018-06-12-singapore-summit"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2018-05-08-us-quits-jcpoa"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2018-05-09-mahathir-wins"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2018-05-20-maduro-reelected"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2018-06-13-hodeidah-offensive"
+   ]
+  }
+ ]
+}
