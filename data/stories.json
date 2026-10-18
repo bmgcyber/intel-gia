@@ -4118,19 +4118,27 @@
    "united-states"
   ],
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "pacific-islands"
   ],
   "causes": [
    {
     "story": "2020-05-australia-china-trade-war",
     "why": "Sharpened Australia–China rivalry",
     "confidence": "possible"
+   },
+   {
+    "story": "2019-09-16-solomons-switch-to-china",
+    "why": "Recognition switch",
+    "confidence": "likely"
    }
   ],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2020-05-australia-china-trade-war"
+   "2020-05-australia-china-trade-war",
+   "2019-09-16-solomons-switch-to-china",
+   "2025-10-06-pukpuk-treaty"
   ],
   "revisions": [
    {
@@ -4146,6 +4154,14 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "New storyline threads; Thread into storyline",
+    "fields": [
+     "storylines",
+     "causes"
     ]
    }
   ],
@@ -5358,7 +5374,9 @@
   "entities": [
    "japan"
   ],
-  "storylines": [],
+  "storylines": [
+   "japan-politics-security"
+  ],
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
@@ -5372,6 +5390,13 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -7426,7 +7451,8 @@
   ],
   "storylines": [
    "taiwan-indopacific",
-   "china-minerals-leverage"
+   "china-minerals-leverage",
+   "china-leadership"
   ],
   "causes": [
    {
@@ -7440,6 +7466,7 @@
   "related_stories": [
    "2018-03-11-xi-term-limits-scrapped",
    "2023-01-08-china-reopens",
+   "2025-10-17-he-weidong-expelled",
    "2019-01-02-xi-taiwan-speech"
   ],
   "revisions": [
@@ -7456,6 +7483,13 @@
     "fields": [
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ],
@@ -7656,7 +7690,8 @@
    "kim-jong-un"
   ],
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "causes": [
    {
@@ -7679,6 +7714,13 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -10990,7 +11032,8 @@
   "batch": "inbox-2026-03-31",
   "storylines": [
    "taiwan-indopacific",
-   "china-minerals-leverage"
+   "china-minerals-leverage",
+   "japan-politics-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "political",
@@ -11004,7 +11047,8 @@
    "rare-earth-nov10",
    "pla-drills",
    "2022-08-04-pla-drills",
-   "pla-patrol-oct14-15"
+   "pla-patrol-oct14-15",
+   "takaichi-yasukuni-offering"
   ],
   "revisions": [
    {
@@ -11012,6 +11056,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -11962,7 +12013,8 @@
   "effects": [],
   "batch": "inbox-2026-03-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
@@ -11983,6 +12035,13 @@
     "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
     "fields": [
      "sources"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -12889,7 +12948,8 @@
   "batch": "inbox-2026-06-30",
   "storylines": [
    "china-minerals-leverage",
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "political",
@@ -12898,9 +12958,9 @@
    "2026-02-08-takaichi-landslide",
    "2021-12-china-rare-earth-group",
    "2025-11-07-takaichi-taiwan-remarks",
+   "takaichi-yasukuni-offering",
    "rare-earth-nov10",
-   "2026-03-30-china-sanctions-furuya",
-   "takaichi-yasukuni-offering"
+   "2026-03-30-china-sanctions-furuya"
   ],
   "revisions": [
    {
@@ -12908,6 +12968,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -18330,7 +18397,8 @@
   "effects": [],
   "batch": "inbox-2025-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2025 (Trump's return)",
   "marker": "political",
@@ -18346,6 +18414,13 @@
     "why": "2024 backfill: link to 2024 causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -18743,7 +18818,8 @@
   "batch": "inbox-2025-12-31",
   "storylines": [
    "taiwan-indopacific",
-   "china-minerals-leverage"
+   "china-minerals-leverage",
+   "japan-politics-security"
   ],
   "era": "2025 (Trump's return)",
   "marker": "diplomacy",
@@ -18757,7 +18833,8 @@
    "rare-earth-nov10",
    "pla-drills",
    "2022-08-04-pla-drills",
-   "2026-03-30-china-sanctions-furuya"
+   "2026-03-30-china-sanctions-furuya",
+   "takaichi-yasukuni-offering"
   ],
   "revisions": [
    {
@@ -18765,6 +18842,13 @@
     "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -22980,13 +23064,23 @@
   "effects": [],
   "batch": "inbox-2024-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2024 (wars widen; election year)",
   "marker": "political",
   "unplaced": "A national election.",
   "related_stories": [
    "2025-10-21-takaichi-pm"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -25093,7 +25187,8 @@
   "effects": [],
   "batch": "inbox-2023-12-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2022–23 (attrition and Oct 7)",
   "marker": "military",
@@ -25118,6 +25213,13 @@
     "why": "2014 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -29493,7 +29595,8 @@
   },
   "storylines": [
    "taiwan-indopacific",
-   "china-minerals-leverage"
+   "china-minerals-leverage",
+   "japan-politics-security"
   ],
   "era": "2020s",
   "marker": "political",
@@ -29505,6 +29608,15 @@
    "2026-02-08-takaichi-landslide",
    "2026-03-30-china-sanctions-furuya",
    "2025-11-07-takaichi-taiwan-remarks"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -31428,7 +31540,8 @@
    "confidence": "likely"
   },
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2020 (pandemic year)",
   "marker": "political",
@@ -31443,7 +31556,10 @@
    "2021-09-15-aukus",
    "2023-11-15-biden-xi-woodside",
    "2022-11-14-biden-xi-bali",
-   "2019-05-10-us-china-tariffs-escalate"
+   "2019-05-10-us-china-tariffs-escalate",
+   "2018-07-06-us-china-tariffs-begin",
+   "2015-06-29-aiib-signed",
+   "2011-03-19-libya-intervention"
   ],
   "revisions": [
    {
@@ -31451,6 +31567,13 @@
     "why": "2019 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -31998,7 +32121,8 @@
   "effects": [],
   "batch": "inbox-2020-09-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2020 (pandemic year)",
   "marker": "political",
@@ -32007,6 +32131,15 @@
   ],
   "related_stories": [
    "2021-10-04-kishida-pm"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -35157,7 +35290,8 @@
   "effects": [],
   "batch": "inbox-2021-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2021 (post-pandemic recovery)",
   "marker": "political",
@@ -35167,6 +35301,15 @@
   "related_stories": [
    "2020-08-28-abe-resigns",
    "2022-12-16-japan-security-strategy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -38922,7 +39065,8 @@
   "effects": [],
   "batch": "inbox-2019-06-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2019 (maximum pressure)",
   "marker": "political",
@@ -38938,6 +39082,13 @@
     "why": "2014 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -39083,13 +39234,24 @@
   "effects": [],
   "batch": "inbox-2019-09-30",
   "storylines": [
-   "ai-compute-minerals"
+   "ai-compute-minerals",
+   "japan-politics-security"
   ],
   "era": "2019 (maximum pressure)",
   "marker": "political",
   "unplaced": "Trade measure.",
   "related_stories": [
-   "coreweave-ai-credit-shock"
+   "coreweave-ai-credit-shock",
+   "2013-12-26-abe-yasukuni"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -40016,7 +40178,8 @@
   "effects": [],
   "batch": "inbox-2019-12-31",
   "storylines": [
-   "us-tariffs-trade"
+   "us-tariffs-trade",
+   "china-leadership"
   ],
   "era": "2019 (maximum pressure)",
   "marker": "political",
@@ -40030,6 +40193,13 @@
     "why": "2018 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -40940,7 +41110,8 @@
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2018 (trade war and summitry)",
   "marker": "political",
@@ -40957,6 +41128,13 @@
     "why": "2017 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -42343,7 +42521,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "china-leadership"
   ]
  },
  {
@@ -42815,7 +43003,8 @@
   "effects": [],
   "batch": "inbox-2018-12-31",
   "storylines": [
-   "transatlantic-rift"
+   "transatlantic-rift",
+   "northern-ireland-union"
   ],
   "era": "2018 (trade war and summitry)",
   "marker": "diplomacy",
@@ -42824,7 +43013,9 @@
   ],
   "related_stories": [
    "2017-03-29-article-50",
-   "2019-07-24-johnson-pm"
+   "2019-07-24-johnson-pm",
+   "2019-10-17-johnson-brexit-deal",
+   "2016-06-23-brexit-referendum"
   ],
   "revisions": [
    {
@@ -42832,6 +43023,13 @@
     "why": "2017 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -44016,13 +44214,23 @@
   "effects": [],
   "batch": "inbox-2017-06-30",
   "storylines": [
-   "transatlantic-rift"
+   "transatlantic-rift",
+   "northern-ireland-union"
   ],
   "era": "2017 (Trump's first year)",
   "marker": "political",
   "unplaced": "National election.",
   "related_stories": [
    "2017-03-29-article-50"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -44913,7 +45121,8 @@
   "effects": [],
   "batch": "inbox-2017-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2017 (Trump's first year)",
   "marker": "political",
@@ -44922,6 +45131,15 @@
   ],
   "related_stories": [
    "2018-03-11-xi-term-limits-scrapped"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -46035,7 +46253,8 @@
   },
   "storylines": [
    "transatlantic-rift",
-   "europe-populism"
+   "europe-populism",
+   "northern-ireland-union"
   ],
   "era": "2016 (Brexit and Trump)",
   "marker": "political",
@@ -46068,6 +46287,13 @@
     "why": "2009 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -49603,7 +49829,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "china-leadership"
   ]
  },
  {
@@ -50897,15 +51133,24 @@
    "edinburgh"
   ],
   "related_stories": [
-   "2015-05-08-cameron-majority"
+   "2015-05-08-cameron-majority",
+   "2026-05-07-snp-fifth-term"
   ],
   "storylines": [
-   "europe-populism"
+   "europe-populism",
+   "northern-ireland-union"
   ],
   "revisions": [
    {
     "edition": "2026-10-13",
     "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
     "fields": [
      "storylines"
     ]
@@ -51039,7 +51284,8 @@
   "effects": [],
   "batch": "inbox-2014-09-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2014 (Crimea and the caliphate)",
   "marker": "political",
@@ -51048,6 +51294,15 @@
   ],
   "related_stories": [
    "2019-06-09-hong-kong-protests"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -51113,7 +51368,8 @@
   "effects": [],
   "batch": "inbox-2014-09-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2014 (Crimea and the caliphate)",
   "marker": "political",
@@ -51122,6 +51378,15 @@
   ],
   "related_stories": [
    "2022-12-16-japan-security-strategy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -51859,7 +52124,8 @@
   "batch": "inbox-2013-03-31",
   "storylines": [
    "us-tariffs-trade",
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "china-leadership"
   ],
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "political",
@@ -51877,6 +52143,13 @@
     "why": "2012 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -52030,7 +52303,8 @@
   "effects": [],
   "batch": "inbox-2013-06-30",
   "storylines": [
-   "central-banks-rates"
+   "central-banks-rates",
+   "japan-politics-security"
   ],
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "political",
@@ -52046,6 +52320,13 @@
     "why": "2012 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -53094,7 +53375,8 @@
   "effects": [],
   "batch": "inbox-2013-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "military",
@@ -53106,7 +53388,9 @@
    "2022-08-04-pla-drills",
    "2025-12-29-justice-mission-drills",
    "2020-10-06-quad-tokyo-malabar",
-   "2021-03-12-quad-summit-anchorage"
+   "2021-03-12-quad-summit-anchorage",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
   ],
   "revisions": [
    {
@@ -53114,6 +53398,13 @@
     "why": "2012 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -53464,7 +53755,8 @@
   "effects": [],
   "batch": "inbox-2013-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "diplomacy",
@@ -53473,7 +53765,18 @@
   ],
   "related_stories": [
    "2020-11-15-rcep",
-   "2019-07-04-japan-korea-trade-dispute"
+   "2019-07-04-japan-korea-trade-dispute",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -53679,6 +53982,18 @@
   ],
   "related_stories": [
    "2012-11-15-xi-general-secretary"
+  ],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -54532,7 +54847,8 @@
   "effects": [],
   "batch": "inbox-2012-09-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2012 (Xi's rise, Mali, whatever it takes)",
   "marker": "diplomacy",
@@ -54549,6 +54865,13 @@
     "why": "2010 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -54939,7 +55262,8 @@
   },
   "storylines": [
    "taiwan-indopacific",
-   "us-tariffs-trade"
+   "us-tariffs-trade",
+   "china-leadership"
   ],
   "era": "2012 (Xi's rise, Mali, whatever it takes)",
   "marker": "political",
@@ -54949,6 +55273,15 @@
   "related_stories": [
    "2012-03-15-bo-xilai-purged",
    "2013-03-14-xi-becomes-president"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -55134,7 +55467,8 @@
   "effects": [],
   "batch": "inbox-2012-12-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2012 (Xi's rise, Mali, whatever it takes)",
   "marker": "political",
@@ -55159,6 +55493,13 @@
     "why": "2007 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -55512,6 +55853,18 @@
   ],
   "related_stories": [
    "2011-03-11-fukushima-meltdown"
+  ],
+  "storylines": [
+   "japan-politics-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -55547,7 +55900,8 @@
   "effects": [],
   "batch": "inbox-2011-03-31",
   "storylines": [
-   "global-oil"
+   "global-oil",
+   "japan-politics-security"
   ],
   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
   "marker": "energy",
@@ -55557,6 +55911,15 @@
   "related_stories": [
    "2011-03-11-tohoku-earthquake",
    "2011-05-30-germany-nuclear-exit"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -58197,7 +58560,8 @@
   },
   "storylines": [
    "china-minerals-leverage",
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
   "marker": "diplomacy",
@@ -58205,8 +58569,17 @@
    "senkaku-islands"
   ],
   "related_stories": [
-   "2012-09-11-senkaku-purchase",
-   "2025-04-04-china-rare-earth-controls"
+   "2025-04-04-china-rare-earth-controls",
+   "2012-09-11-senkaku-purchase"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -59889,6 +60262,18 @@
   ],
   "related_stories": [
    "2018-08-13-xinjiang-un-review"
+  ],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -60109,6 +60494,18 @@
   ],
   "related_stories": [
    "2012-12-16-abe-returns"
+  ],
+  "storylines": [
+   "japan-politics-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -61014,7 +61411,19 @@
   "where": [
    "lhasa"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-03-16-bear-stearns-rescue",
@@ -63635,6 +64044,18 @@
   ],
   "related_stories": [
    "2012-12-16-abe-returns"
+  ],
+  "storylines": [
+   "japan-politics-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -63661,14 +64082,24 @@
   "effects": [],
   "batch": "inbox-2007-12-31",
   "storylines": [
-   "china-economy"
+   "china-economy",
+   "china-leadership"
   ],
   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
   "marker": "political",
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-11-03-musharraf-emergency",
@@ -65598,7 +66029,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "pacific-islands"
   ]
  },
  {
@@ -66290,14 +66731,24 @@
   "effects": [],
   "batch": "inbox-2005-06-30",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
   "marker": "political",
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-05-13-andijan-massacre",
@@ -66696,7 +67147,8 @@
    "belfast"
   ],
   "related_stories": [
-   "2001-10-23-ira-decommissioning"
+   "2001-10-23-ira-decommissioning",
+   "2006-10-13-st-andrews-agreement"
   ],
   "revisions": [
    {
@@ -66705,7 +67157,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "northern-ireland-union"
   ]
  },
  {
@@ -67046,7 +67508,19 @@
   "where": [
    "tokyo"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "japan-politics-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-10-01-bali-bombings",
@@ -67929,12 +68403,22 @@
   "effects": [],
   "batch": "inbox-2004-03-31",
   "storylines": [
-   "iraq-war"
+   "iraq-war",
+   "japan-politics-security"
   ],
   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
   "marker": "military",
   "unplaced": "Samawah, southern Iraq.",
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2004-03-07-equatorial-guinea-coup-plot",
@@ -68607,7 +69091,19 @@
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2004-10-09-afghan-election",
@@ -69418,7 +69914,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "china-leadership"
   ]
  },
  {
@@ -69957,7 +70463,19 @@
   "where": [
    "honiara"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "pacific-islands"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-08-05-jakarta-marriott-bombing",
@@ -71772,14 +72290,24 @@
   "effects": [],
   "batch": "inbox-2002-09-30",
   "storylines": [
-   "korean-peninsula"
+   "korean-peninsula",
+   "japan-politics-security"
   ],
   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
   "marker": "diplomacy",
   "where": [
    "pyongyang"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2002-09-19-ivory-coast-war",
@@ -72149,6 +72677,18 @@
   ],
   "related_stories": [
    "2003-03-15-hu-jintao-president"
+  ],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -72737,7 +73277,19 @@
   "where": [
    "tokyo"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "japan-politics-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2001-06-01-nepal-royal-massacre",
@@ -73827,6 +74379,18 @@
   ],
   "related_stories": [
    "2005-07-28-ira-ends-campaign"
+  ],
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -74304,6 +74868,18 @@
   ],
   "related_stories": [
    "2006-12-05-fiji-coup"
+  ],
+  "storylines": [
+   "pacific-islands"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-08",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -75264,5 +75840,638 @@
    "accra"
   ],
   "related_stories": []
+ },
+ {
+  "id": "2006-10-13-st-andrews-agreement",
+  "date": "2006-10-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Talks at St Andrews agree a path back to power-sharing in Northern Ireland",
+  "summary": "The British and Irish governments brokered the deal with all the main parties.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/St_Andrews_Agreement"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "ireland",
+   "sinn-fein"
+  ],
+  "causes": [
+   {
+    "story": "2005-07-28-ira-ends-campaign",
+    "why": "IRA ended its campaign",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "diplomacy",
+  "where": [
+   "st-andrews"
+  ],
+  "related_stories": [
+   "2005-07-28-ira-ends-campaign",
+   "2007-05-08-paisley-mcguinness",
+   "2020-01-09-stormont-restored"
+  ]
+ },
+ {
+  "id": "2007-05-08-paisley-mcguinness",
+  "date": "2007-05-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Ian Paisley and Martin McGuinness lead a restored power-sharing government",
+  "summary": "Power was devolved to Stormont again.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ian_Paisley"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "ian-paisley",
+   "martin-mcguinness",
+   "sinn-fein"
+  ],
+  "causes": [
+   {
+    "story": "2006-10-13-st-andrews-agreement",
+    "why": "St Andrews deal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+  "marker": "political",
+  "where": [
+   "belfast"
+  ],
+  "related_stories": [
+   "2006-10-13-st-andrews-agreement",
+   "2017-01-mcguinness-resigns"
+  ]
+ },
+ {
+  "id": "2017-01-mcguinness-resigns",
+  "date": "2017-01",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Martin McGuinness resigns over a green-energy scandal, collapsing Stormont",
+  "summary": "Northern Ireland went without a government for three years.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Renewable_Heat_Incentive_scandal"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Decade%2C_New_Approach"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "martin-mcguinness",
+   "sinn-fein"
+  ],
+  "causes": [
+   {
+    "story": "2007-05-08-paisley-mcguinness",
+    "why": "Power-sharing government",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "belfast"
+  ],
+  "related_stories": [
+   "2007-05-08-paisley-mcguinness",
+   "2020-01-09-stormont-restored"
+  ]
+ },
+ {
+  "id": "2019-10-17-johnson-brexit-deal",
+  "date": "2019-10-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Johnson's revised Brexit deal replaces the Irish backstop with a Northern Ireland protocol",
+  "summary": "The protocol kept Northern Ireland aligned with EU goods rules.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union",
+   "boris-johnson",
+   "ireland"
+  ],
+  "causes": [
+   {
+    "story": "2018-11-25-brexit-deal-endorsed",
+    "why": "Backstop deal rejected",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union",
+   "transatlantic-rift"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "diplomacy",
+  "where": [
+   "brussels"
+  ],
+  "related_stories": [
+   "2018-11-25-brexit-deal-endorsed",
+   "2023-02-27-windsor-framework",
+   "2019-07-24-johnson-pm",
+   "2019-12-12-johnson-landslide"
+  ]
+ },
+ {
+  "id": "2020-01-09-stormont-restored",
+  "date": "2020-01-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "The New Decade, New Approach deal restores Northern Ireland's government",
+  "summary": "It ended a three-year hiatus.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Decade%2C_New_Approach"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "ireland",
+   "sinn-fein"
+  ],
+  "causes": [
+   {
+    "story": "2017-01-mcguinness-resigns",
+    "why": "Collapse",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "belfast"
+  ],
+  "related_stories": [
+   "2017-01-mcguinness-resigns",
+   "2006-10-13-st-andrews-agreement"
+  ]
+ },
+ {
+  "id": "2023-02-27-windsor-framework",
+  "date": "2023-02-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Sunak and von der Leyen agree the Windsor Framework",
+  "summary": "It adjusted how the Northern Ireland Protocol works.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Windsor_Framework"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union",
+   "rishi-sunak"
+  ],
+  "causes": [
+   {
+    "story": "2019-10-17-johnson-brexit-deal",
+    "why": "Protocol",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union",
+   "transatlantic-rift"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "diplomacy",
+  "unplaced": "Announced in Windsor, England.",
+  "related_stories": [
+   "2019-10-17-johnson-brexit-deal",
+   "2024-02-03-oneill-first-minister"
+  ]
+ },
+ {
+  "id": "2024-02-03-oneill-first-minister",
+  "date": "2024-02-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "Sinn Féin's Michelle O'Neill becomes Northern Ireland's first nationalist first minister",
+  "summary": "Stormont returned after a two-year unionist boycott.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Michelle_O%27Neill"
+   },
+   {
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news/uk-northern-ireland-politics-68180505"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "michelle-oneill",
+   "sinn-fein"
+  ],
+  "causes": [
+   {
+    "story": "2023-02-27-windsor-framework",
+    "why": "Protocol dispute",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "belfast"
+  ],
+  "related_stories": [
+   "2023-02-27-windsor-framework"
+  ]
+ },
+ {
+  "id": "2026-05-07-snp-fifth-term",
+  "date": "2026-05-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Europe",
+  "title": "The SNP wins a fifth straight Scottish election but falls short of a majority",
+  "summary": "It won 58 seats, seven short of a majority.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_Scottish_Parliament_election"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "snp"
+  ],
+  "causes": [
+   {
+    "story": "2014-09-18-scotland-referendum",
+    "why": "Independence question",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "northern-ireland-union"
+  ],
+  "era": "2020s",
+  "marker": "political",
+  "where": [
+   "edinburgh"
+  ],
+  "related_stories": [
+   "2014-09-18-scotland-referendum"
+  ]
+ },
+ {
+  "id": "2019-09-16-solomons-switch-to-china",
+  "date": "2019-09-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Solomon Islands switches diplomatic recognition from Taiwan to China",
+  "summary": "Taiwan lost one of its few remaining allies.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Solomon_Islands%E2%80%93Taiwan_relations"
+   }
+  ],
+  "entities": [
+   "solomon-islands",
+   "china",
+   "taiwan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands",
+   "taiwan-indopacific"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "diplomacy",
+  "where": [
+   "honiara"
+  ],
+  "related_stories": [
+   "2022-04-19-solomon-pact",
+   "2021-11-24-honiara-riots"
+  ]
+ },
+ {
+  "id": "2019-12-11-bougainville-referendum",
+  "date": "2019-12-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Bougainville votes overwhelmingly for independence from Papua New Guinea",
+  "summary": "The vote was non-binding.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Bougainvillean_independence_referendum"
+   }
+  ],
+  "entities": [
+   "papua-new-guinea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "buka"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2021-11-24-honiara-riots",
+  "date": "2021-11-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Riots break out in Honiara",
+  "summary": "Australian-led forces deployed to restore order.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Solomon_Islands_unrest"
+   }
+  ],
+  "entities": [
+   "solomon-islands",
+   "australia"
+  ],
+  "causes": [
+   {
+    "story": "2019-09-16-solomons-switch-to-china",
+    "why": "Anger over the China switch",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands"
+  ],
+  "era": "2021-22 (pre-war to Ukraine war year 1)",
+  "marker": "political",
+  "where": [
+   "honiara"
+  ],
+  "related_stories": [
+   "2019-09-16-solomons-switch-to-china"
+  ]
+ },
+ {
+  "id": "2023-11-09-falepili-union",
+  "date": "2023-11-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Australia and Tuvalu sign the Falepili Union treaty",
+  "summary": "It covers migration, climate change and security.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Australia%E2%80%93Tuvalu_relations"
+   }
+  ],
+  "entities": [
+   "australia",
+   "tuvalu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "diplomacy",
+  "where": [
+   "funafuti"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-01-15-nauru-switches-to-china",
+  "date": "2024-01-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Nauru cuts ties with Taiwan and recognises China",
+  "summary": "Taiwan lost another Pacific ally.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nauru%E2%80%93Taiwan_relations"
+   }
+  ],
+  "entities": [
+   "nauru",
+   "china",
+   "taiwan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands",
+   "taiwan-indopacific"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "where": [
+   "yaren"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-05-new-caledonia-unrest",
+  "date": "2024-05",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Deadly riots erupt in New Caledonia over French electoral changes",
+  "summary": "At least 13 people died, and France declared a state of emergency.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_New_Caledonia_unrest"
+   }
+  ],
+  "entities": [
+   "france"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "noumea"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2025-10-06-pukpuk-treaty",
+  "date": "2025-10-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "Australia and Papua New Guinea sign the Pukpuk mutual defence treaty",
+  "summary": "Albanese and Marape signed it in Canberra.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pukpuk_Treaty"
+   }
+  ],
+  "entities": [
+   "australia",
+   "papua-new-guinea"
+  ],
+  "causes": [
+   {
+    "story": "2022-04-19-solomon-pact",
+    "why": "China's push into the Pacific",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "pacific-islands"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "where": [
+   "canberra"
+  ],
+  "related_stories": [
+   "2022-04-19-solomon-pact"
+  ]
+ },
+ {
+  "id": "2025-10-17-he-weidong-expelled",
+  "date": "2025-10-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-08",
+  "region": "Asia-Pacific",
+  "title": "China expels He Weidong, vice-chairman of the Central Military Commission, from the party",
+  "summary": "He had sat on the Politburo since 2022.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/He_Weidong"
+   }
+  ],
+  "entities": [
+   "china",
+   "he-weidong",
+   "pla",
+   "xi-jinping"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-16-party-congress",
+    "why": "Xi's third-term leadership",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-08",
+  "storylines": [
+   "china-leadership"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": [
+   "2022-10-16-party-congress"
+  ]
  }
 ]

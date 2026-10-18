@@ -121440,6 +121440,2828 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-08": {
+   "sha256": "7205e624529693381afbcefe7d924ea1b38f685c35030209468f41cb15c185e6",
+   "undo": {
+    "stories": {
+     "2006-10-13-st-andrews-agreement": null,
+     "2007-05-08-paisley-mcguinness": null,
+     "2017-01-mcguinness-resigns": null,
+     "2019-10-17-johnson-brexit-deal": null,
+     "2020-01-09-stormont-restored": null,
+     "2023-02-27-windsor-framework": null,
+     "2024-02-03-oneill-first-minister": null,
+     "2026-05-07-snp-fifth-term": null,
+     "2019-09-16-solomons-switch-to-china": null,
+     "2019-12-11-bougainville-referendum": null,
+     "2021-11-24-honiara-riots": null,
+     "2023-11-09-falepili-union": null,
+     "2024-01-15-nauru-switches-to-china": null,
+     "2024-05-new-caledonia-unrest": null,
+     "2025-10-06-pukpuk-treaty": null,
+     "2025-10-17-he-weidong-expelled": null,
+     "2022-04-19-solomon-pact": {
+      "id": "2022-04-19-solomon-pact",
+      "date": "2022-04-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "China and Solomon Islands sign security pact",
+      "summary": "China confirmed a security agreement with the Solomon Islands, alarming Australia and the US.",
+      "sources": [
+       {
+        "name": "Wikipedia: China–Solomon Islands relations",
+        "url": "https://en.wikipedia.org/wiki/China–Solomon_Islands_relations"
+       }
+      ],
+      "entities": [
+       "china",
+       "solomon-islands",
+       "united-states"
+      ],
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "causes": [
+       {
+        "story": "2020-05-australia-china-trade-war",
+        "why": "Sharpened Australia–China rivalry",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2020-05-australia-china-trade-war"
+      ],
+      "revisions": [
+       {
+        "edition": "2020-12-31",
+        "why": "2020 backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ],
+      "marker": "diplomacy",
+      "unplaced": "Bilateral pact."
+     },
+     "2001-04-26-koizumi-pm": {
+      "id": "2001-04-26-koizumi-pm",
+      "date": "2001-04-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Asia-Pacific",
+      "title": "Junichiro Koizumi becomes Japan's prime minister",
+      "summary": "His Yasukuni visits strained ties with China.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Junichiro_Koizumi"
+       }
+      ],
+      "entities": [
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": []
+     },
+     "2002-09-17-koizumi-pyongyang": {
+      "id": "2002-09-17-koizumi-pyongyang",
+      "date": "2002-09-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Asia-Pacific",
+      "title": "Koizumi visits Pyongyang, and Kim Jong-il admits abducting Japanese",
+      "summary": "The admission hardened Japanese opinion.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93North_Korea_Pyongyang_Declaration"
+       }
+      ],
+      "entities": [
+       "japan",
+       "north-korea",
+       "kim-jong-il"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "pyongyang"
+      ],
+      "related_stories": []
+     },
+     "2004-01-japan-troops-iraq": {
+      "id": "2004-01-japan-troops-iraq",
+      "date": "2004-01",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Asia-Pacific",
+      "title": "Japan sends ground troops to Iraq",
+      "summary": "It was Japan's first non-UN foreign troop deployment since World War II.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Japanese_Iraq_Reconstruction_and_Support_Group"
+       }
+      ],
+      "entities": [
+       "japan",
+       "iraq"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "military",
+      "unplaced": "Samawah, southern Iraq.",
+      "related_stories": []
+     },
+     "2005-04-anti-japan-protests": {
+      "id": "2005-04-anti-japan-protests",
+      "date": "2005-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Asia-Pacific",
+      "title": "Anti-Japanese protests sweep Chinese cities",
+      "summary": "Anger over textbooks and Japan's UN bid foreshadowed later Senkaku tensions.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_anti-Japanese_demonstrations"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": []
+     },
+     "2005-09-11-koizumi-landslide": {
+      "id": "2005-09-11-koizumi-landslide",
+      "date": "2005-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Asia-Pacific",
+      "title": "Koizumi wins a landslide in Japan's 'postal' election",
+      "summary": "The vote handed the LDP a big majority.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Japanese_general_election"
+       }
+      ],
+      "entities": [
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": []
+     },
+     "2007-09-12-abe-resigns": {
+      "id": "2007-09-12-abe-resigns",
+      "date": "2007-09-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-09-30",
+      "region": "Asia-Pacific",
+      "title": "Shinzo Abe resigns after a year as Japan's prime minister",
+      "summary": "He returned in 2012.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shinzo_Abe"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-09-30",
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2012-12-16-abe-returns"
+      ]
+     },
+     "2009-08-30-japan-dpj-landslide": {
+      "id": "2009-08-30-japan-dpj-landslide",
+      "date": "2009-08-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-09-30",
+      "region": "Asia-Pacific",
+      "title": "The Democratic Party of Japan ends the LDP's half-century of near-continuous rule",
+      "summary": "The DPJ's three years in power ended in 2012 with Shinzo Abe's return.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_Japanese_general_election"
+       }
+      ],
+      "entities": [
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-09-30",
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2012-12-16-abe-returns"
+      ]
+     },
+     "2010-09-07-senkaku-trawler": {
+      "id": "2010-09-07-senkaku-trawler",
+      "date": "2010-09-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-09-30",
+      "region": "Asia-Pacific",
+      "title": "Chinese trawler rams Japanese coast-guard boats near the Senkakus",
+      "summary": "China then informally limited rare-earth exports to Japan, though whether this was a response to the incident is debated.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_Senkaku_boat_collision_incident"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-09-30",
+      "analysis": {
+       "text": "It was an early sign of the minerals leverage behind its 2025–26 export controls.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific"
+      ],
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "diplomacy",
+      "where": [
+       "senkaku-islands"
+      ],
+      "related_stories": [
+       "2012-09-11-senkaku-purchase",
+       "2025-04-04-china-rare-earth-controls"
+      ]
+     },
+     "2011-03-11-tohoku-earthquake": {
+      "id": "2011-03-11-tohoku-earthquake",
+      "date": "2011-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Asia-Pacific",
+      "title": "A magnitude-9 earthquake and tsunami devastate north-east Japan",
+      "summary": "Official figures put the toll at 19,759 dead and 2,553 missing.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/11/japan-earthquake-tsunami-questions-answers"
+       }
+      ],
+      "entities": [
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "ishinomaki"
+      ],
+      "related_stories": [
+       "2011-03-11-fukushima-meltdown"
+      ]
+     },
+     "2011-03-11-fukushima-meltdown": {
+      "id": "2011-03-11-fukushima-meltdown",
+      "date": "2011-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Asia-Pacific",
+      "title": "Tsunami causes triple meltdown at Fukushima Daiichi",
+      "summary": "The worst nuclear accident since Chernobyl shut Japan's reactors and led Germany to abandon nuclear power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/24/japan-nuclear-plant-workers-hospital"
+       }
+      ],
+      "entities": [
+       "japan",
+       "tepco"
+      ],
+      "causes": [
+       {
+        "story": "2011-03-11-tohoku-earthquake",
+        "why": "Tsunami knocked out cooling",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "energy",
+      "where": [
+       "fukushima-daiichi"
+      ],
+      "related_stories": [
+       "2011-03-11-tohoku-earthquake",
+       "2011-05-30-germany-nuclear-exit"
+      ]
+     },
+     "2012-09-11-senkaku-purchase": {
+      "id": "2012-09-11-senkaku-purchase",
+      "date": "2012-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-09-30",
+      "region": "Asia-Pacific",
+      "title": "Japan buys three Senkaku islands, sparking anti-Japan riots in China",
+      "summary": "Protests spread to more than 100 Chinese cities, and Chinese patrols around the islands became routine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Senkaku_Islands_dispute"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_anti-Japanese_demonstrations_in_China"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2012/09/16/161228298/chinese-flood-streets-in-anti-japan-demonstrations"
+       }
+      ],
+      "entities": [
+       "japan",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2010-09-07-senkaku-trawler",
+        "why": "Earlier clash",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-09-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "diplomacy",
+      "where": [
+       "senkaku-islands"
+      ],
+      "related_stories": [
+       "2010-09-07-senkaku-trawler",
+       "2013-11-23-china-ecs-adiz"
+      ],
+      "revisions": [
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2012-12-16-abe-returns": {
+      "id": "2012-12-16-abe-returns",
+      "date": "2012-12-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-12-31",
+      "region": "Asia-Pacific",
+      "title": "Shinzo Abe's LDP wins a landslide in Japan",
+      "summary": "Abe promised to revive the economy and strengthen defence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Japanese_general_election"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe"
+      ],
+      "causes": [
+       {
+        "story": "2009-08-30-japan-dpj-landslide",
+        "why": "DPJ government failed",
+        "confidence": "likely"
+       },
+       {
+        "story": "2007-09-12-abe-resigns",
+        "why": "Second term",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2009-08-30-japan-dpj-landslide",
+       "2007-09-12-abe-resigns",
+       "2013-04-04-boj-qqe"
+      ],
+      "revisions": [
+       {
+        "edition": "2009-12-31",
+        "why": "2009 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2007-12-31",
+        "why": "2007 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2013-04-04-boj-qqe": {
+      "id": "2013-04-04-boj-qqe",
+      "date": "2013-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Asia-Pacific",
+      "title": "Kuroda's Bank of Japan launches massive easing to end deflation",
+      "summary": "The Bank of Japan's 2% inflation target was the 'first arrow' of Abenomics.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abenomics"
+       }
+      ],
+      "entities": [
+       "japan",
+       "bank-of-japan",
+       "shinzo-abe"
+      ],
+      "causes": [
+       {
+        "story": "2012-12-16-abe-returns",
+        "why": "Abenomics",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "central-banks-rates"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2012-12-16-abe-returns"
+      ],
+      "revisions": [
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2013-11-23-china-ecs-adiz": {
+      "id": "2013-11-23-china-ecs-adiz",
+      "date": "2013-11-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-12-31",
+      "region": "Asia-Pacific",
+      "title": "China declares an air defence zone over the East China Sea, covering the Senkakus",
+      "summary": "The US flew B-52s through it unannounced; Japan and South Korea rejected it.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_%28East_China_Sea%29"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2012-09-11-senkaku-purchase",
+        "why": "Escalation over the Senkakus",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "military",
+      "unplaced": "East China Sea air zone.",
+      "related_stories": [
+       "2012-09-11-senkaku-purchase",
+       "rare-earth-nov10",
+       "2022-05-23-ipef",
+       "2022-08-04-pla-drills",
+       "2025-12-29-justice-mission-drills",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-12-quad-summit-anchorage"
+      ],
+      "revisions": [
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2013-12-26-abe-yasukuni": {
+      "id": "2013-12-26-abe-yasukuni",
+      "date": "2013-12",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2013-12-31",
+      "region": "Asia-Pacific",
+      "title": "Abe visits the Yasukuni shrine, drawing condemnation from China and South Korea",
+      "summary": "China called it moving Japan in an 'extremely dangerous' direction.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shinzo_Abe"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe",
+       "china",
+       "south-korea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "diplomacy",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2020-11-15-rcep",
+       "2019-07-04-japan-korea-trade-dispute"
+      ]
+     },
+     "2014-07-01-japan-collective-self-defense": {
+      "id": "2014-07-01-japan-collective-self-defense",
+      "date": "2014-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2014-09-30",
+      "region": "Asia-Pacific",
+      "title": "Abe's cabinet reinterprets Article 9 to allow collective self-defence",
+      "summary": "Japan may now fight to defend an ally under attack; security laws in 2015 put the change into effect.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Article_9_of_the_Japanese_Constitution"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-09-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2022-12-16-japan-security-strategy"
+      ]
+     },
+     "2019-07-04-japan-korea-trade-dispute": {
+      "id": "2019-07-04-japan-korea-trade-dispute",
+      "date": "2019-07-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Asia-Pacific",
+      "title": "Japan curbs chip-material exports to South Korea",
+      "summary": "Tokyo tightened controls on materials used to make semiconductors and later dropped Seoul from its trade 'white list', citing export-control lapses amid a feud over wartime labour rulings.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93South_Korea_trade_dispute"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2019/07/26/tech/japan-south-korea-trade-war/index.html"
+       }
+      ],
+      "entities": [
+       "japan",
+       "south-korea",
+       "semiconductors",
+       "shinzo-abe",
+       "moon-jae-in"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Trade measure.",
+      "related_stories": [
+       "coreweave-ai-credit-shock"
+      ]
+     },
+     "2020-08-28-abe-resigns": {
+      "id": "2020-08-28-abe-resigns",
+      "date": "2020-08-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Asia-Pacific",
+      "title": "Shinzo Abe resigns as Japan's longest-serving PM; Suga succeeds him",
+      "summary": "Abe cited a relapse of ulcerative colitis. Yoshihide Suga was elected prime minister on Sep 16, promising continuity.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/article/us-japan-politics-abe/japans-pm-abe-resigns-as-coronavirus-hits-economy-endangers-legacy-idUSKBN25O00F/"
+       },
+       {
+        "name": "PBS",
+        "url": "https://www.pbs.org/newshour/world/japan-prime-minister-shinzo-abe-says-hes-resigning-for-health-reasons"
+       },
+       {
+        "name": "Prime Minister's Office of Japan",
+        "url": "https://japan.kantei.go.jp/99_suga/actions/202009/_00001.html"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe",
+       "yoshihide-suga"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2021-10-04-kishida-pm"
+      ]
+     },
+     "2021-10-04-kishida-pm": {
+      "id": "2021-10-04-kishida-pm",
+      "date": "2021-10-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-12-31",
+      "region": "Asia-Pacific",
+      "title": "Fumio Kishida becomes Japan's prime minister",
+      "summary": "The former foreign minister won the LDP leadership after Suga stood down and led the party to a majority in the October election.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fumio_Kishida"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2021/10/8/japans-new-pm-promises-to-do-his-utmost-to-end-covid-19-crisis"
+       }
+      ],
+      "entities": [
+       "japan",
+       "fumio-kishida",
+       "yoshihide-suga"
+      ],
+      "causes": [
+       {
+        "story": "2020-08-28-abe-resigns",
+        "why": "Succession after Abe and Suga",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2020-08-28-abe-resigns",
+       "2022-12-16-japan-security-strategy"
+      ]
+     },
+     "2022-07-08-abe": {
+      "id": "2022-07-08-abe",
+      "date": "2022-07-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Former Japanese PM Shinzo Abe assassinated",
+      "summary": "Shinzo Abe was shot dead while campaigning in Nara.",
+      "sources": [
+       {
+        "name": "Wikipedia: Assassination of Shinzo Abe",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Shinzo_Abe"
+       }
+      ],
+      "entities": [
+       "japan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [],
+      "marker": "political",
+      "unplaced": "Nara; no place on file.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-10-04-dprk-over-japan": {
+      "id": "2022-10-04-dprk-over-japan",
+      "date": "2022-10-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "North Korean missile overflies Japan",
+      "summary": "North Korea fired an intermediate-range missile over Japan for the first time since 2017.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021–2023 North Korean missile tests",
+        "url": "https://en.wikipedia.org/wiki/2021–2023_North_Korean_missile_tests"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "japan",
+       "kim-jong-un"
+      ],
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-24-hwasong17",
+        "why": "Escalating 2022 test campaign",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-03-24-hwasong17"
+      ],
+      "marker": "military",
+      "unplaced": "Missile flew over northern Japan.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-12-16-japan-security-strategy": {
+      "id": "2022-12-16-japan-security-strategy",
+      "date": "2022-12-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Asia-Pacific",
+      "title": "Japan adopts new security strategies: counterstrike missiles and 2% of GDP on defence",
+      "summary": "Kishida's cabinet approved a new National Security Strategy and defence plans calling China the 'greatest strategic challenge', acquiring counterstrike capability such as Tomahawks, and lifting defence and related spending to 2% of GDP by FY2027.",
+      "sources": [
+       {
+        "name": "Cabinet Secretariat (NSS, English)",
+        "url": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf"
+       },
+       {
+        "name": "Ministry of Defense",
+        "url": "https://www.mod.go.jp/j/policy/agenda/guideline/index.html"
+       }
+      ],
+      "entities": [
+       "japan",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "Chinese drills after Pelosi's visit, missiles landing in Japan's EEZ",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Russia's invasion shattered assumptions",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-10-04-kishida-pm",
+        "why": "Kishida government's strategy",
+        "confidence": "likely"
+       },
+       {
+        "story": "2014-07-01-japan-collective-self-defense",
+        "why": "Built on the 2014 reinterpretation",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "A cabinet decision in Tokyo.",
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "2022-02-24-invasion",
+       "2021-10-04-kishida-pm",
+       "2014-07-01-japan-collective-self-defense",
+       "2025-11-07-takaichi-taiwan-remarks"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-26",
+        "why": "Archive audit: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2014-12-31",
+        "why": "2014 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-10-27-japan-ldp-loses-majority": {
+      "id": "2024-10-27-japan-ldp-loses-majority",
+      "date": "2024-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-31",
+      "region": "Asia-Pacific",
+      "title": "Ishiba's LDP-led coalition loses its lower-house majority",
+      "summary": "In the snap election Ishiba called after taking office, the LDP and Komeito fell short of a majority for the first time since 2009, leaving a weak minority government.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-votes-election-expected-punish-pm-ishibas-coalition-2024-10-26/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2024_Japanese_general_election"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shigeru-ishiba"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2025-10-21-takaichi-pm"
+      ]
+     },
+     "2025-10-21-takaichi-pm": {
+      "id": "2025-10-21-takaichi-pm",
+      "date": "2025-10-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Asia-Pacific",
+      "title": "Sanae Takaichi becomes Japan's first woman prime minister",
+      "summary": "The Diet elected Takaichi with 237 lower-house votes after the LDP formed a coalition with the right-wing Ishin party.",
+      "sources": [
+       {
+        "name": "Prime Minister's Office of Japan",
+        "url": "https://japan.kantei.go.jp/104/actions/202510/21shimei.html"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/10/21/nx-s1-5581178/japan-sanae-takaichi-female-prime-minister"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japans-ldp-ishin-agree-form-coalition-government-nhk-says-2025-10-20/"
+       }
+      ],
+      "entities": [
+       "japan",
+       "sanae-takaichi"
+      ],
+      "causes": [
+       {
+        "story": "2024-10-27-japan-ldp-loses-majority",
+        "why": "LDP weakness forced a new coalition",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A Diet vote; Tokyo has no place entity.",
+      "related_stories": [
+       "2024-10-27-japan-ldp-loses-majority",
+       "2026-02-08-takaichi-landslide",
+       "2025-11-07-takaichi-taiwan-remarks"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-11-07-takaichi-taiwan-remarks": {
+      "id": "2025-11-07-takaichi-taiwan-remarks",
+      "date": "2025-11-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Asia-Pacific",
+      "title": "Takaichi says a Taiwan blockade could be 'survival-threatening', and China retaliates",
+      "summary": "Takaichi told parliament that a Chinese blockade or attack on Taiwan could be a 'survival-threatening situation', the legal trigger for collective self-defence. Beijing demanded a retraction and warned its citizens against travel to Japan.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/crklvx2n7rzo"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d"
+       },
+       {
+        "name": "AP (travel advisory)",
+        "url": "https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/japan-china-ties-deteriorate-after-takaichis-taiwan-comment-2025-11-20/"
+       }
+      ],
+      "entities": [
+       "japan",
+       "sanae-takaichi",
+       "china",
+       "taiwan"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-21-takaichi-pm",
+        "why": "New hawkish premier",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-12-16-japan-security-strategy",
+        "why": "Japan's harder security line since 2022",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "unplaced": "Remarks in the Diet; no place entity.",
+      "related_stories": [
+       "2025-10-21-takaichi-pm",
+       "2022-12-16-japan-security-strategy",
+       "2025-12-29-justice-mission-drills",
+       "2026-02-08-takaichi-landslide",
+       "2026-05-22-china-japan-rare-earths",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "2026-03-30-china-sanctions-furuya"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-09-28",
+        "why": "Phase D gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-02-08-takaichi-landslide": {
+      "id": "2026-02-08-takaichi-landslide",
+      "date": "2026-02-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "Takaichi wins a landslide despite Chinese coercion over Taiwan",
+      "summary": "Japanese PM Sanae Takaichi won a supermajority in the Feb 8 lower-house election. Beijing had retaliated for her November 2025 remark that a Taiwan contingency could draw a Japanese military response, with travel warnings, flight cuts, a seafood import ban and curbs on dual-use exports including rare earths. CSIS judged the campaign failed to weaken her.",
+      "sources": [
+       {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/takaichi-landslide-shows-limits-chinese-economic-coercion"
+       },
+       {
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com/asia/east-asia/japan-pms-big-election-win-could-mean-more-beef-with-beijing"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/japan-pm-takaichi-warns-china-coercion-vows-security-overhaul-2026-02-20/"
+       }
+      ],
+      "entities": [
+       "japan",
+       "sanae-takaichi",
+       "china",
+       "taiwan",
+       "rare-earths"
+      ],
+      "causes": [
+       {
+        "story": "2025-12-29-justice-mission-drills",
+        "why": "Beijing tied its pressure on Japan to Takaichi's Taiwan remarks",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-10-21-takaichi-pm",
+        "why": "Takaichi took office in October",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-11-07-takaichi-taiwan-remarks",
+        "why": "Chinese pressure rallied voters",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A national election; no single site.",
+      "related_stories": [
+       "2025-12-29-justice-mission-drills",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2026-03-30-china-sanctions-furuya",
+       "2026-05-22-china-japan-rare-earths",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "pla-patrol-oct14-15"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-03-30-china-sanctions-furuya": {
+      "id": "2026-03-30-china-sanctions-furuya",
+      "date": "2026-03-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "China sanctions a close Takaichi aide over Taiwan visits",
+      "summary": "China sanctioned Japanese lawmaker Keiji Furuya, head of a cross-party Japan–Taiwan group and a close aide to PM Takaichi, for 'collusion' with Taiwan independence forces. Tokyo called it 'absolutely unacceptable'.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-sanctions-japanese-lawmaker-taiwan-ties-state-media-reports-2026-03-30/"
+       },
+       {
+        "name": "PRC Ministry of Foreign Affairs (Mao Ning press conference, Mar 30 2026)",
+        "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/202603/t20260330_11883723.html"
+       },
+       {
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp/news/2026/03/30/japan/politics/china-bans-lawmaker-taiwan/"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan",
+       "taiwan",
+       "sanae-takaichi"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-08-takaichi-landslide",
+        "why": "Beijing kept up pressure after the election",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "A sanctions announcement; no site.",
+      "related_stories": [
+       "2026-02-08-takaichi-landslide",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "2025-12-29-justice-mission-drills",
+       "2026-05-22-china-japan-rare-earths",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "takaichi-yasukuni-offering"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-11",
+        "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+        "fields": [
+         "sources"
+        ]
+       }
+      ]
+     },
+     "2026-05-22-china-japan-rare-earths": {
+      "id": "2026-05-22-china-japan-rare-earths",
+      "date": "2026-05-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Asia-Pacific",
+      "title": "China squeezes Japan over heavy rare earths",
+      "summary": "Reuters reported China cut off several heavy rare earths to Japan for at least four months, a repeat of its 2010 showdown. Japan's stockpiles, lower usage and other suppliers softened the blow.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-squeezes-japan-over-rare-earths-repeat-2010-showdown-2026-05-22/"
+       },
+       {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/takaichi-landslide-shows-limits-chinese-economic-coercion"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan",
+       "rare-earths",
+       "sanae-takaichi"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-08-takaichi-landslide",
+        "why": "Coercion over Takaichi's Taiwan stance continued",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State control of the sector makes targeted cut-offs possible",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-11-07-takaichi-taiwan-remarks",
+        "why": "The row that began in November",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "An export restriction; no site.",
+      "related_stories": [
+       "2026-02-08-takaichi-landslide",
+       "2021-12-china-rare-earth-group",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "rare-earth-nov10",
+       "2026-03-30-china-sanctions-furuya",
+       "takaichi-yasukuni-offering"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "takaichi-yasukuni-offering": {
+      "id": "takaichi-yasukuni-offering",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Asia-Pacific",
+      "title": "Takaichi sends a Yasukuni offering as ministers visit; China 'strongly condemns'",
+      "summary": "Japanese Prime Minister Sanae Takaichi sent a ritual offering to Yasukuni Shrine on Oct 17, and some cabinet members and lawmakers visited it. China's embassy in Japan 'strongly condemned' the moves, calling the shrine, which enshrines 14 Class-A war criminals, a 'symbol of Japanese militarism' and accusing Tokyo of paving the way for 'remilitarization'; it noted the 80th anniversary of the opening of the Tokyo Trials.",
+      "sources": [
+       {
+        "name": "Xinhua",
+        "url": "https://english.news.cn/20261018/1f275064c50e40a8b226ef22d94dc857/c.html"
+       },
+       {
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/articles/-/88550"
+       }
+      ],
+      "entities": [
+       "japan",
+       "sanae-takaichi",
+       "china",
+       "yasukuni-shrine"
+      ],
+      "causes": [
+       {
+        "story": "2026-05-22-china-japan-rare-earths",
+        "why": "Latest round in the China-Japan feud that began with Takaichi's Taiwan remarks",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "An offering instead of a visit is Takaichi's usual calibration: it signals to her base without forcing a break. Beijing will add it to its case against Japan's defence build-up, which matters for rare-earth licensing to Japanese firms.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "where": [
+       "yasukuni-shrine"
+      ],
+      "related_stories": [
+       "2026-05-22-china-japan-rare-earths",
+       "2026-02-08-takaichi-landslide",
+       "2026-03-30-china-sanctions-furuya",
+       "2025-11-07-takaichi-taiwan-remarks"
+      ]
+     },
+     "2002-11-15-hu-party-chief": {
+      "id": "2002-11-15-hu-party-chief",
+      "date": "2002-11-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-12-31",
+      "region": "Asia-Pacific",
+      "title": "Hu Jintao becomes China's Communist Party chief",
+      "summary": "The 16th Party Congress managed the first orderly handover of power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/16th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "hu-jintao"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-12-31",
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2003-03-15-hu-jintao-president"
+      ]
+     },
+     "2003-03-15-hu-jintao-president": {
+      "id": "2003-03-15-hu-jintao-president",
+      "date": "2003-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-03-31",
+      "region": "Asia-Pacific",
+      "title": "Hu Jintao becomes China's president",
+      "summary": "Hu led China until Xi Jinping took over.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
+       }
+      ],
+      "entities": [
+       "china",
+       "hu-jintao"
+      ],
+      "causes": [
+       {
+        "story": "2002-11-15-hu-party-chief",
+        "why": "Party post first",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2003-03-31",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2002-11-15-hu-party-chief"
+      ],
+      "revisions": [
+       {
+        "edition": "2002-12-31",
+        "why": "2002 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2004-09-19-hu-takes-military": {
+      "id": "2004-09-19-hu-takes-military",
+      "date": "2004-09-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-09-30",
+      "region": "Asia-Pacific",
+      "title": "Jiang Zemin hands command of China's military to Hu Jintao",
+      "summary": "The handover completed Hu's takeover of power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
+       }
+      ],
+      "entities": [
+       "china",
+       "hu-jintao",
+       "pla"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-09-30",
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": []
+     },
+     "2007-10-22-xi-joins-standing-committee": {
+      "id": "2007-10-22-xi-joins-standing-committee",
+      "date": "2007-10-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-12-31",
+      "region": "Asia-Pacific",
+      "title": "China's 17th Party Congress puts Xi Jinping on the Politburo Standing Committee",
+      "summary": "Xi emerged as Hu Jintao's likely successor.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/17th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "hu-jintao"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-12-31",
+      "storylines": [
+       "china-economy"
+      ],
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": []
+     },
+     "2008-03-10-tibet-unrest": {
+      "id": "2008-03-10-tibet-unrest",
+      "date": "2008-03-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Asia-Pacific",
+      "title": "Protests and riots spread across Tibet; China imposes a lockdown",
+      "summary": "The unrest before the Beijing Olympics led to a lasting security clampdown on Tibetan areas.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest"
+       }
+      ],
+      "entities": [
+       "china",
+       "dalai-lama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "lhasa"
+      ],
+      "related_stories": []
+     },
+     "2009-07-05-urumqi-riots": {
+      "id": "2009-07-05-urumqi-riots",
+      "date": "2009-07-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-09-30",
+      "region": "Asia-Pacific",
+      "title": "Ethnic riots in Ürümqi kill nearly 200 as Uyghur protests turn violent",
+      "summary": "Beijing's response began a decade of tightening security in Xinjiang that culminated in mass internment.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/July_2009_%C3%9Cr%C3%BCmqi_riots"
+       }
+      ],
+      "entities": [
+       "china",
+       "uyghurs"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-09-30",
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "urumqi"
+      ],
+      "related_stories": [
+       "2018-08-13-xinjiang-un-review"
+      ]
+     },
+     "2012-03-15-bo-xilai-purged": {
+      "id": "2012-03-15-bo-xilai-purged",
+      "date": "2012-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Asia-Pacific",
+      "title": "Bo Xilai is fired as Chongqing party chief",
+      "summary": "The scandal removed Xi's main rival before the leadership transition.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bo_Xilai"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2012/mar/30/bo-xilai-profile"
+       }
+      ],
+      "entities": [
+       "china",
+       "bo-xilai"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "chongqing"
+      ],
+      "related_stories": [
+       "2012-11-15-xi-general-secretary"
+      ]
+     },
+     "2012-11-15-xi-general-secretary": {
+      "id": "2012-11-15-xi-general-secretary",
+      "date": "2012-11-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-12-31",
+      "region": "Asia-Pacific",
+      "title": "Xi Jinping becomes Communist Party general secretary",
+      "summary": "Weeks later he launched his 'Chinese Dream' of national rejuvenation.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/18th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2012-03-15-bo-xilai-purged",
+        "why": "Rival removed",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-12-31",
+      "analysis": {
+       "text": "Xi's rise began the more assertive policies that drive today's China threads.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "taiwan-indopacific",
+       "us-tariffs-trade"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2012-03-15-bo-xilai-purged",
+       "2013-03-14-xi-becomes-president"
+      ]
+     },
+     "2013-03-14-xi-becomes-president": {
+      "id": "2013-03-14-xi-becomes-president",
+      "date": "2013-03-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-03-31",
+      "region": "Asia-Pacific",
+      "title": "Xi Jinping becomes China's president, completing his takeover",
+      "summary": "Party chief since November 2012, Xi launched a broad anti-corruption purge and centralised power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2012-11-15-xi-general-secretary",
+        "why": "Party post came first",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-03-31",
+      "storylines": [
+       "us-tariffs-trade",
+       "taiwan-indopacific"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2012-11-15-xi-general-secretary",
+       "2014-03-01-kunming-attack",
+       "2013-09-07-silk-road-economic-belt"
+      ],
+      "revisions": [
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-03-01-kunming-attack": {
+      "id": "2014-03-01-kunming-attack",
+      "date": "2014-03-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-03-31",
+      "region": "Asia-Pacific",
+      "title": "Knife attackers kill 31 at Kunming railway station",
+      "summary": "China blamed Xinjiang separatists and launched a 'Strike Hard' campaign, the precursor of the mass internment camps.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2014_Kunming_attack"
+       }
+      ],
+      "entities": [
+       "china",
+       "xinjiang-camps"
+      ],
+      "causes": [
+       {
+        "story": "2013-03-14-xi-becomes-president",
+        "why": "Xi's security agenda",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2014-03-31",
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "strike",
+      "where": [
+       "kunming"
+      ],
+      "related_stories": [
+       "2013-03-14-xi-becomes-president",
+       "2018-08-13-xinjiang-un-review"
+      ],
+      "revisions": [
+       {
+        "edition": "2013-12-31",
+        "why": "2013 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-09-28-umbrella-movement": {
+      "id": "2014-09-28-umbrella-movement",
+      "date": "2014-09-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-09-30",
+      "region": "Asia-Pacific",
+      "title": "Hong Kong's 'Umbrella Movement' occupies the city centre",
+      "summary": "Students protested Beijing's restrictions on electing the chief executive; the 79-day occupation ended without concessions.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Umbrella_Movement"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2014/09/30/world/asia/objects-hong-kong-protest/index.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-09-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "where": [
+       "admiralty-hk"
+      ],
+      "related_stories": [
+       "2019-06-09-hong-kong-protests"
+      ]
+     },
+     "2017-10-24-xi-thought-enshrined": {
+      "id": "2017-10-24-xi-thought-enshrined",
+      "date": "2017-10-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-12-31",
+      "region": "Asia-Pacific",
+      "title": "China's 19th Party Congress writes 'Xi Jinping Thought' into the party constitution",
+      "summary": "Xi named no successor, setting up the 2018 removal of presidential term limits.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Chinese_Communist_Party"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2017/oct/24/xi-jinping-mao-thought-on-socialism-china-constitution"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-12-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2018-03-11-xi-term-limits-scrapped"
+      ]
+     },
+     "2018-03-11-xi-term-limits-scrapped": {
+      "id": "2018-03-11-xi-term-limits-scrapped",
+      "date": "2018-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Asia-Pacific",
+      "title": "China scraps presidential term limits, letting Xi rule indefinitely",
+      "summary": "The National People's Congress approved the constitutional amendment, ending the post-Deng two-term norm.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_amendment_to_the_Constitution_of_China"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/03/11/world/asia/china-xi-constitution-term-limits.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2017-10-24-xi-thought-enshrined",
+        "why": "No successor named at the 19th Congress",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2017-10-24-xi-thought-enshrined",
+       "2022-10-16-party-congress"
+      ],
+      "revisions": [
+       {
+        "edition": "2017-12-31",
+        "why": "2017 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2018-08-13-xinjiang-un-review": {
+      "id": "2018-08-13-xinjiang-un-review",
+      "date": "2018-08-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "UN panel says China may be holding a million Uyghurs in camps",
+      "summary": "At a UN anti-racism committee review, members cited credible reports of mass detention in Xinjiang; Beijing first denied the camps and later called them vocational centres.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xinjiang_internment_camps"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2018/08/13/asia/china-xinjiang-uyghur-united-nations-intl/index.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xinjiang-camps"
+      ],
+      "causes": [
+       {
+        "story": "2014-03-01-kunming-attack",
+        "why": "Strike Hard campaign",
+        "confidence": "likely"
+       },
+       {
+        "story": "2009-07-05-urumqi-riots",
+        "why": "Security crackdown after the riots",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "UN review in Geneva about camps across Xinjiang.",
+      "related_stories": [
+       "2014-03-01-kunming-attack",
+       "2009-07-05-urumqi-riots",
+       "2019-11-24-china-cables"
+      ],
+      "revisions": [
+       {
+        "edition": "2014-12-31",
+        "why": "2014 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2009-12-31",
+        "why": "2009 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2019-06-09-hong-kong-protests": {
+      "id": "2019-06-09-hong-kong-protests",
+      "date": "2019-06-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Asia-Pacific",
+      "title": "Hong Kong's extradition-bill protests become the largest in its history",
+      "summary": "Mass marches against a bill allowing extradition to mainland China grew into a months-long movement against Beijing's tightening control.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/jun/18/hong-kong-carrie-lam-to-apologise-to-protesters-extradition-bill"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2014-09-28-umbrella-movement",
+        "why": "Successor movement",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Hong Kong's Wikipedia coordinates are a territory centroid.",
+      "related_stories": [
+       "2014-09-28-umbrella-movement",
+       "2020-01-11-tsai-reelected",
+       "2020-06-30-hong-kong-nsl"
+      ],
+      "revisions": [
+       {
+        "edition": "2014-12-31",
+        "why": "2014 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2019-11-24-china-cables": {
+      "id": "2019-11-24-china-cables",
+      "date": "2019-11-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Asia-Pacific",
+      "title": "Leaked 'China Cables' expose how Xinjiang's internment camps are run",
+      "summary": "The ICIJ published internal documents including an operations manual for the camps; Beijing called them fabricated.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/China_Cables"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/nov/25/uk-calls-for-un-access-chinese-detention-camps-xinjiang"
+       }
+      ],
+      "entities": [
+       "china",
+       "xinjiang-camps"
+      ],
+      "causes": [
+       {
+        "story": "2018-08-13-xinjiang-un-review",
+        "why": "Leaks confirmed the camps",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Leaked documents.",
+      "related_stories": [
+       "2018-08-13-xinjiang-un-review"
+      ],
+      "revisions": [
+       {
+        "edition": "2018-12-31",
+        "why": "2018 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2020-06-30-hong-kong-nsl": {
+      "id": "2020-06-30-hong-kong-nsl",
+      "date": "2020-06-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "Beijing imposes a national security law on Hong Kong",
+      "summary": "The NPC Standing Committee passed a law criminalising secession, subversion, terrorism and collusion with foreign forces, with sentences up to life. The US ended Hong Kong's special trade status and the UK opened a path to citizenship for BN(O) holders.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jun/30/china-passes-controversial-hong-kong-national-security-law"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2020/06/29/china/hong-kong-national-security-law-passed-intl-hnk/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "united-states",
+       "united-kingdom"
+      ],
+      "causes": [
+       {
+        "story": "2019-06-09-hong-kong-protests",
+        "why": "Beijing's answer to the 2019 protests",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "analysis": {
+       "text": "Hong Kong's fate hardened Taiwanese opinion against 'one country, two systems'.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2019-06-09-hong-kong-protests",
+       "2026-05-14-trump-xi-beijing",
+       "2025-10-30-busan-truce",
+       "2023-03-13-aukus-pathway",
+       "2021-09-15-aukus",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-05-10-us-china-tariffs-escalate"
+      ],
+      "revisions": [
+       {
+        "edition": "2019-12-31",
+        "why": "2019 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2022-10-16-party-congress": {
+      "id": "2022-10-16-party-congress",
+      "date": "2022-10-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "CCP 20th Party Congress gives Xi a third term",
+      "summary": "The congress (16–22 October) cleared the way for Xi Jinping's norm-breaking third term and a loyalist Politburo Standing Committee.",
+      "sources": [
+       {
+        "name": "Wikipedia: 20th National Congress of the Chinese Communist Party",
+        "url": "https://en.wikipedia.org/wiki/20th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "taiwan"
+      ],
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2018-03-11-xi-term-limits-scrapped",
+        "why": "Removal of term limits enabled a third term",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2018-03-11-xi-term-limits-scrapped",
+       "2023-01-08-china-reopens",
+       "2019-01-02-xi-taiwan-speech"
+      ],
+      "revisions": [
+       {
+        "edition": "2018-12-31",
+        "why": "2018 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "where",
+         "marker"
+        ]
+       }
+      ],
+      "where": [
+       "beijing"
+      ],
+      "marker": "political"
+     },
+     "2001-10-23-ira-decommissioning": {
+      "id": "2001-10-23-ira-decommissioning",
+      "date": "2001-10-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-12-31",
+      "region": "Europe",
+      "title": "The IRA begins putting its weapons beyond use",
+      "summary": "The move saved Northern Ireland's power-sharing institutions.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+       }
+      ],
+      "entities": [
+       "provisional-ira",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-12-31",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "belfast"
+      ],
+      "related_stories": [
+       "2005-07-28-ira-ends-campaign"
+      ]
+     },
+     "2005-07-28-ira-ends-campaign": {
+      "id": "2005-07-28-ira-ends-campaign",
+      "date": "2005-07-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Europe",
+      "title": "The Provisional IRA formally ends its armed campaign",
+      "summary": "It verified putting its weapons beyond use in September.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+       }
+      ],
+      "entities": [
+       "provisional-ira",
+       "united-kingdom",
+       "ireland"
+      ],
+      "causes": [
+       {
+        "story": "2001-10-23-ira-decommissioning",
+        "why": "Earlier step",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "belfast"
+      ],
+      "related_stories": [
+       "2001-10-23-ira-decommissioning"
+      ],
+      "revisions": [
+       {
+        "edition": "2001-12-31",
+        "why": "2001 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-09-18-scotland-referendum": {
+      "id": "2014-09-18-scotland-referendum",
+      "date": "2014-09-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-09-30",
+      "region": "Europe",
+      "title": "Scotland votes 55–45 to stay in the UK",
+      "summary": "Turnout was 84.6%; Brexit two years later revived the independence question.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum"
+       }
+      ],
+      "entities": [
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-09-30",
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "where": [
+       "edinburgh"
+      ],
+      "related_stories": [
+       "2015-05-08-cameron-majority"
+      ],
+      "storylines": [
+       "europe-populism"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2016-06-23-brexit-referendum": {
+      "id": "2016-06-23-brexit-referendum",
+      "date": "2016-06-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-06-30",
+      "region": "Europe",
+      "title": "Britain votes 52–48 to leave the European Union",
+      "summary": "David Cameron resigned and Theresa May took over on Jul 13; it was the biggest blow yet to European integration.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2016/jun/25/article-50-brexit-debate-britain-eu"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "european-union",
+       "theresa-may"
+      ],
+      "causes": [
+       {
+        "story": "2015-05-08-cameron-majority",
+        "why": "Manifesto pledge",
+        "confidence": "likely"
+       },
+       {
+        "story": "2015-09-04-merkel-opens-border",
+        "why": "Migration fears",
+        "confidence": "possible"
+       },
+       {
+        "story": "2010-05-11-cameron-coalition",
+        "why": "Cameron's premiership",
+        "confidence": "possible"
+       },
+       {
+        "story": "2009-12-01-lisbon-treaty-in-force",
+        "why": "Article 50 exit route",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-06-30",
+      "analysis": {
+       "text": "Brexit and Trump's win months later marked the populist turn that shaped Western politics to today.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift",
+       "europe-populism"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "political",
+      "unplaced": "National referendum.",
+      "related_stories": [
+       "2015-05-08-cameron-majority",
+       "2015-09-04-merkel-opens-border",
+       "2010-05-11-cameron-coalition",
+       "2009-12-01-lisbon-treaty-in-force",
+       "2017-03-29-article-50",
+       "2018-11-25-brexit-deal-endorsed"
+      ],
+      "revisions": [
+       {
+        "edition": "2015-12-31",
+        "why": "2015 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2009-12-31",
+        "why": "2009 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2017-06-08-uk-hung-parliament": {
+      "id": "2017-06-08-uk-hung-parliament",
+      "date": "2017-06-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-06-30",
+      "region": "Europe",
+      "title": "Theresa May loses her majority in a snap election",
+      "summary": "The Conservatives fell short and governed with the DUP's support, weakening May's hand in the Brexit talks.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "theresa-may"
+      ],
+      "causes": [
+       {
+        "story": "2017-03-29-article-50",
+        "why": "Called to strengthen her Brexit hand",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2017-06-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2017-03-29-article-50"
+      ]
+     },
+     "2018-11-25-brexit-deal-endorsed": {
+      "id": "2018-11-25-brexit-deal-endorsed",
+      "date": "2018-11-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-12-31",
+      "region": "Europe",
+      "title": "EU leaders endorse Theresa May's Brexit withdrawal agreement",
+      "summary": "The House of Commons rejected the deal three times in 2019, forcing May out.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2018/11/25/670626957/european-union-leaders-approve-brexit-plan"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "european-union",
+       "theresa-may"
+      ],
+      "causes": [
+       {
+        "story": "2017-03-29-article-50",
+        "why": "Negotiated under Article 50",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-12-31",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2017-03-29-article-50",
+       "2019-07-24-johnson-pm"
+      ],
+      "revisions": [
+       {
+        "edition": "2017-12-31",
+        "why": "2017 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2000-05-19-fiji-coup": {
+      "id": "2000-05-19-fiji-coup",
+      "date": "2000-05-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-06-30",
+      "region": "Asia-Pacific",
+      "title": "George Speight's gunmen seize Fiji's parliament",
+      "summary": "They held the government hostage for weeks.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Fijian_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "fiji"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-06-30",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "suva"
+      ],
+      "related_stories": [
+       "2006-12-05-fiji-coup"
+      ]
+     },
+     "2003-07-24-ramsi-solomon-islands": {
+      "id": "2003-07-24-ramsi-solomon-islands",
+      "date": "2003-07-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-09-30",
+      "region": "Asia-Pacific",
+      "title": "An Australian-led mission lands in the Solomon Islands",
+      "summary": "RAMSI restored order after years of ethnic conflict.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Regional_Assistance_Mission_to_Solomon_Islands"
+       }
+      ],
+      "entities": [
+       "australia",
+       "solomon-islands",
+       "solomon-islands-ramsi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-09-30",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "military",
+      "where": [
+       "honiara"
+      ],
+      "related_stories": []
+     },
+     "2006-12-05-fiji-coup": {
+      "id": "2006-12-05-fiji-coup",
+      "date": "2006-12-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Asia-Pacific",
+      "title": "Fiji's military commander Frank Bainimarama seizes power",
+      "summary": "It was Fiji's fourth coup in two decades.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "fiji"
+      ],
+      "causes": [
+       {
+        "story": "2000-05-19-fiji-coup",
+        "why": "Coup culture",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "suva"
+      ],
+      "related_stories": [
+       "2000-05-19-fiji-coup"
+      ],
+      "revisions": [
+       {
+        "edition": "2000-12-31",
+        "why": "2000 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "northern-ireland-union": null,
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated",
+       "2021-09-26-german-election",
+       "2025-02-23-german-election",
+       "2025-09-10-drones-over-poland",
+       "2019-07-24-johnson-pm",
+       "2019-12-12-johnson-landslide",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-07-11-trump-nord-stream-2",
+       "2018-11-25-brexit-deal-endorsed",
+       "2017-01-20-trump-inaugurated",
+       "2017-03-29-article-50",
+       "2017-06-01-us-quits-paris-agreement",
+       "2017-06-08-uk-hung-parliament",
+       "2016-06-23-brexit-referendum",
+       "2016-11-08-trump-elected",
+       "2015-05-08-cameron-majority",
+       "2014-09-05-nato-wales-2pct",
+       "2013-06-06-snowden-nsa-leaks",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang"
+      ],
+      "source": "inbox"
+     },
+     "pacific-islands": null,
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-09-15-aukus",
+       "2021-10-04-kishida-pm",
+       "2023-02-04-spy-balloon",
+       "2023-08-05-second-thomas-shoal-water-cannon",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-01-02-xi-taiwan-speech",
+       "2019-06-09-hong-kong-protests",
+       "2018-03-11-xi-term-limits-scrapped",
+       "2017-10-24-xi-thought-enshrined",
+       "2016-05-20-tsai-inaugurated",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2014-03-18-sunflower-movement",
+       "2014-05-02-hysy981-standoff",
+       "2014-09-28-umbrella-movement",
+       "2014-07-01-japan-collective-self-defense",
+       "2013-01-22-philippines-files-arbitration",
+       "2013-03-14-xi-becomes-president",
+       "2013-11-23-china-ecs-adiz",
+       "2013-12-26-abe-yasukuni",
+       "2012-04-08-scarborough-standoff",
+       "2012-09-11-senkaku-purchase",
+       "2012-11-15-xi-general-secretary",
+       "2012-12-16-abe-returns",
+       "2011-11-16-darwin-marines",
+       "2010-09-07-senkaku-trawler",
+       "2008-03-22-ma-ying-jeou-elected",
+       "2007-01-11-china-asat-test",
+       "2005-03-14-anti-secession-law",
+       "2005-04-anti-japan-protests",
+       "2004-03-20-chen-reelected",
+       "2003-07-01-hong-kong-article-23-march",
+       "2001-04-01-hainan-incident",
+       "2000-03-18-chen-elected",
+       "pla-patrol-oct15-16",
+       "ph-rebukes-china-envoy",
+       "dongsha-coast-guard-incursion",
+       "2025-12-29-justice-mission-drills",
+       "2026-02-08-takaichi-landslide",
+       "2026-03-30-china-sanctions-furuya",
+       "2026-04-15-scarborough-blocked",
+       "2026-05-22-china-japan-rare-earths",
+       "2026-07-23-scarborough-water-cannon",
+       "takaichi-yasukuni-offering",
+       "scarborough-shadowing-miguel-malvar",
+       "pla-patrol-oct17-18"
+      ],
+      "source": "threads.md"
+     },
+     "china-leadership": null,
+     "japan-politics-security": null
+    },
+    "entities": {},
+    "entities_added": [
+     "buka",
+     "funafuti",
+     "he-weidong",
+     "ian-paisley",
+     "martin-mcguinness",
+     "michelle-oneill",
+     "nauru",
+     "noumea",
+     "papua-new-guinea",
+     "sinn-fein",
+     "snp",
+     "st-andrews",
+     "tuvalu",
+     "yaren"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
