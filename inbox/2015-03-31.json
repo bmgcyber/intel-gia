@@ -1,0 +1,734 @@
+{
+ "edition": "2015-03-31",
+ "entities": [
+  {
+   "id": "boko-haram",
+   "name": "Boko Haram",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boko_Haram"
+  },
+  {
+   "id": "alexis-tsipras",
+   "name": "Alexis Tsipras",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras"
+  },
+  {
+   "id": "tunisia",
+   "name": "Tunisia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tunisia"
+  },
+  {
+   "id": "burundi",
+   "name": "Burundi",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Burundi"
+  },
+  {
+   "id": "mauricio-macri",
+   "name": "Mauricio Macri",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mauricio_Macri"
+  },
+  {
+   "id": "pkk",
+   "name": "Kurdistan Workers' Party (PKK)",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party"
+  },
+  {
+   "id": "abdrabbuh-mansur-hadi",
+   "name": "Abdrabbuh Mansur Hadi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abdrabbuh_Mansour_Hadi"
+  },
+  {
+   "id": "king-salman",
+   "name": "King Salman",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
+  },
+  {
+   "id": "aiib",
+   "name": "Asian Infrastructure Investment Bank",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank"
+  },
+  {
+   "id": "made-in-china-2025",
+   "name": "Made in China 2025",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Made_in_China_2025"
+  },
+  {
+   "id": "francois-hollande",
+   "name": "François Hollande",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
+  },
+  {
+   "id": "david-cameron",
+   "name": "David Cameron",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Cameron"
+  },
+  {
+   "id": "muhammadu-buhari",
+   "name": "Muhammadu Buhari",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muhammadu_Buhari"
+  },
+  {
+   "id": "nld",
+   "name": "National League for Democracy",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/National_League_for_Democracy"
+  },
+  {
+   "id": "boris-nemtsov",
+   "name": "Boris Nemtsov",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Nemtsov"
+  },
+  {
+   "id": "volkswagen",
+   "name": "Volkswagen",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Volkswagen"
+  },
+  {
+   "id": "mullah-omar",
+   "name": "Mullah Omar",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mullah_Omar"
+  },
+  {
+   "id": "debaltseve",
+   "name": "Debaltseve",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Debaltseve",
+   "lat": 48.33333333,
+   "lon": 38.4,
+   "precision": "city"
+  },
+  {
+   "id": "kobani",
+   "name": "Kobani",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Koban%C3%AE",
+   "lat": 36.8910278,
+   "lon": 38.3536111,
+   "precision": "city"
+  },
+  {
+   "id": "ramadi",
+   "name": "Ramadi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ramadi",
+   "lat": 33.42583333,
+   "lon": 43.29916667,
+   "precision": "city"
+  },
+  {
+   "id": "palmyra",
+   "name": "Palmyra",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Palmyra",
+   "lat": 34.55138889,
+   "lon": 38.26805556,
+   "precision": "city"
+  },
+  {
+   "id": "suruc",
+   "name": "Suruç",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suru%C3%A7",
+   "lat": 36.975,
+   "lon": 38.42444444,
+   "precision": "city"
+  },
+  {
+   "id": "garissa",
+   "name": "Garissa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Garissa",
+   "lat": -0.45694444,
+   "lon": 39.65833333,
+   "precision": "city"
+  },
+  {
+   "id": "bardo-museum",
+   "name": "Bardo National Museum, Tunis",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bardo_National_Museum_%28Tunis%29",
+   "lat": 36.80944444,
+   "lon": 10.13444444,
+   "precision": "feature"
+  },
+  {
+   "id": "port-el-kantaoui",
+   "name": "Port El Kantaoui (Sousse)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Port_El_Kantaoui",
+   "lat": 35.894,
+   "lon": 10.598,
+   "precision": "city"
+  },
+  {
+   "id": "bataclan",
+   "name": "Bataclan, Paris",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bataclan_%28theatre%29",
+   "lat": 48.86305556,
+   "lon": 2.37083333,
+   "precision": "feature"
+  },
+  {
+   "id": "erawan-shrine",
+   "name": "Erawan Shrine, Bangkok",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erawan_Shrine",
+   "lat": 13.74436111,
+   "lon": 100.54044444,
+   "precision": "feature"
+  },
+  {
+   "id": "kunduz",
+   "name": "Kunduz",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kunduz",
+   "lat": 36.72861111,
+   "lon": 68.86805556,
+   "precision": "city"
+  },
+  {
+   "id": "athens",
+   "name": "Athens",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Athens",
+   "lat": 37.98416667,
+   "lon": 23.72805556,
+   "precision": "city"
+  },
+  {
+   "id": "fiery-cross-reef",
+   "name": "Fiery Cross Reef",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fiery_Cross_Reef",
+   "lat": 9.54916667,
+   "lon": 112.88916667,
+   "precision": "feature"
+  },
+  {
+   "id": "abuja",
+   "name": "Abuja",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abuja",
+   "lat": 9.06666667,
+   "lon": 7.48333333,
+   "precision": "city"
+  },
+  {
+   "id": "bujumbura",
+   "name": "Bujumbura",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bujumbura",
+   "lat": -3.36277778,
+   "lon": 29.36555556,
+   "precision": "city"
+  },
+  {
+   "id": "lausanne",
+   "name": "Lausanne",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lausanne",
+   "lat": 46.52,
+   "lon": 6.63333333,
+   "precision": "city"
+  },
+  {
+   "id": "khmeimim",
+   "name": "Khmeimim Air Base",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Khmeimim_Air_Base",
+   "lat": 35.41166667,
+   "lon": 35.945,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2015-01-07-charlie-hebdo",
+   "date": "2015-01-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Europe",
+   "title": "Gunmen kill 12 at Charlie Hebdo in Paris",
+   "summary": "Two brothers claiming allegiance to al-Qaeda in the Arabian Peninsula attacked the satirical weekly; a linked gunman killed four at a kosher supermarket.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/jan/07/charlie-hebdo-shooting-paris-magazine-target-raid"
+    }
+   ],
+   "entities": [
+    "france",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2015-01-22-houthis-oust-hadi",
+   "date": "2015-01-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Houthi rebels force Yemen's President Hadi to resign",
+   "summary": "After seizing Sanaa in September 2014 the Houthis put Hadi under house arrest; he escaped to Aden in February and withdrew his resignation.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Houthi_takeover_of_Yemen"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/jan/19/yemen-state-news-agency-tv-station-seized-by-shia-rebels"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "yemen",
+    "abdrabbuh-mansur-hadi"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "political",
+   "where": [
+    "sanaa"
+   ]
+  },
+  {
+   "id": "2015-01-23-king-salman-accedes",
+   "date": "2015-01-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Salman becomes king of Saudi Arabia and elevates his son Mohammed",
+   "summary": "On King Abdullah's death Salman named his 29-year-old son defence minister, beginning MBS's rapid rise.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2015/1/23/profile-king-salman-of-saudi-arabia"
+    }
+   ],
+   "entities": [
+    "king-salman",
+    "mohammed-bin-salman",
+    "saudi-arabia"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2015-01-26-kobani-retaken",
+   "date": "2015-01-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Kurdish YPG fighters backed by US airstrikes retake Kobani from the Islamic State",
+   "summary": "The four-month siege was the group's first big defeat and began the US partnership with the Syrian Kurds.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2015/01/27/world/middleeast/kurds-isis-syria-kobani.html"
+    }
+   ],
+   "entities": [
+    "ypg",
+    "islamic-state",
+    "united-states",
+    "syria"
+   ],
+   "storylines": [
+    "isis-war",
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "kobani"
+   ]
+  },
+  {
+   "id": "2015-02-12-minsk-ii",
+   "date": "2015-02-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Russia/Eurasia",
+   "title": "Minsk II deal agreed as Russian-backed forces close on Debaltseve",
+   "summary": "Merkel and Hollande brokered the ceasefire with Putin and Poroshenko. Fighting went on and Ukrainian forces withdrew from Debaltseve on Feb 18.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Minsk_agreements"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Debaltseve"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/feb/18/ukraine-debaltseve-troops-withdraw-fighting-rebels-russia"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "vladimir-putin",
+    "petro-poroshenko",
+    "angela-merkel",
+    "francois-hollande",
+    "germany",
+    "france"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Minsk II froze the Donbas war on terms Kyiv never implemented; Putin declared it dead days before the 2022 invasion.",
+    "confidence": "likely"
+   },
+   "where": [
+    "minsk"
+   ]
+  },
+  {
+   "id": "2015-02-15-isis-libya-copts",
+   "date": "2015-02",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Africa",
+   "title": "Islamic State in Libya beheads 21 Coptic Christians; Egypt bombs Derna",
+   "summary": "The video showed the group's spread into Libya's chaos; it seized Sirte that year.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Islamic_State_killing_of_Christian_migrants_in_Libya"
+    }
+   ],
+   "entities": [
+    "islamic-state",
+    "libya",
+    "egypt"
+   ],
+   "storylines": [
+    "isis-war",
+    "sahel"
+   ],
+   "marker": "strike",
+   "unplaced": "Filmed on a Libyan coast, exact site unknown."
+  },
+  {
+   "id": "2015-02-27-nemtsov-killed",
+   "date": "2015-02-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Russia/Eurasia",
+   "title": "Opposition leader Boris Nemtsov is shot dead near the Kremlin",
+   "summary": "The killing hours after he called for an anti-war march marked a new level of danger for Putin's critics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov"
+    }
+   ],
+   "entities": [
+    "boris-nemtsov",
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2015-03-07-boko-haram-pledges-isis",
+   "date": "2015-03-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Africa",
+   "title": "Boko Haram pledges allegiance to the Islamic State",
+   "summary": "Abubakar Shekau's pledge created the 'West Africa Province', which later split from his faction as ISWAP.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Boko_Haram"
+    }
+   ],
+   "entities": [
+    "boko-haram",
+    "islamic-state",
+    "nigeria"
+   ],
+   "storylines": [
+    "sahel",
+    "isis-war"
+   ],
+   "marker": "political",
+   "unplaced": "Audio message."
+  },
+  {
+   "id": "2015-03-18-bardo-attack",
+   "date": "2015-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Africa",
+   "title": "Gunmen kill 21 tourists at Tunis's Bardo museum",
+   "summary": "In June a gunman killed 38 at a beach resort near Sousse, devastating Tunisia's tourism.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Sousse_attacks"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/mar/18/eight-people-killed-in-attack-on-tunisia-bardo-museum"
+    }
+   ],
+   "entities": [
+    "tunisia",
+    "islamic-state"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "bardo-museum"
+   ]
+  },
+  {
+   "id": "2015-03-26-saudi-intervention-yemen",
+   "date": "2015-03-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Middle East",
+   "title": "Saudi Arabia leads a coalition into Yemen's war against the Houthis",
+   "summary": "Defence minister Mohammed bin Salman launched 'Decisive Storm' to restore Hadi; the war became a stalemate and a humanitarian catastrophe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/mar/26/saudi-arabia-begins-airstrikes-against-houthi-in-yemen"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "houthis",
+    "yemen",
+    "mohammed-bin-salman",
+    "iran",
+    "abdrabbuh-mansur-hadi"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2015-01-22-houthis-oust-hadi",
+     "why": "Restore the ousted government",
+     "confidence": "likely"
+    },
+    {
+     "story": "2015-01-23-king-salman-accedes",
+     "why": "MBS's first big gamble",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "The war lies behind the Houthis' missile and drone arsenal and their later Red Sea campaign.",
+    "confidence": "likely"
+   },
+   "unplaced": "Nationwide air campaign."
+  },
+  {
+   "id": "2015-03-31-buhari-wins",
+   "date": "2015-03-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2015 (refugees, Iran deal, Russia in Syria)",
+   "region": "Africa",
+   "title": "Muhammadu Buhari defeats Goodluck Jonathan, the first incumbent to lose in Nigeria",
+   "summary": "The ex-general campaigned on beating Boko Haram and corruption.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2015/may/29/historic-succession-complete-buhari-sworn-in-nigerian-president"
+    }
+   ],
+   "entities": [
+    "nigeria",
+    "muhammadu-buhari",
+    "boko-haram"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "where": [
+    "abuja"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2015-01-07-charlie-hebdo",
+    "2015-01-26-kobani-retaken",
+    "2015-02-15-isis-libya-copts",
+    "2015-03-07-boko-haram-pledges-isis",
+    "2015-03-18-bardo-attack"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2015-01-22-houthis-oust-hadi",
+    "2015-03-26-saudi-intervention-yemen"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2015-01-23-king-salman-accedes"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2015-01-26-kobani-retaken"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2015-02-12-minsk-ii",
+    "2015-02-27-nemtsov-killed"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2015-02-15-isis-libya-copts",
+    "2015-03-07-boko-haram-pledges-isis",
+    "2015-03-31-buhari-wins"
+   ]
+  }
+ ]
+}
