@@ -19101,7 +19101,8 @@
   ],
   "related_stories": [
    "2023-06-04-counteroffensive",
-   "2022-02-21-recognition"
+   "2022-02-21-recognition",
+   "2024-05-10-kharkiv-offensive"
   ],
   "revisions": [
    {
@@ -34170,6 +34171,54 @@
   ],
   "related_stories": [
    "2023-06-04-counteroffensive"
+  ]
+ },
+ {
+  "id": "2024-05-10-kharkiv-offensive",
+  "date": "2024-05-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-26",
+  "region": "Russia/Eurasia",
+  "title": "Russia opens a new front north of Kharkiv",
+  "summary": "Troops crossed toward Vovchansk, Russia's biggest gains in 18 months,; the offensive stalled by early June.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_northern_Kharkiv_offensive"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/article/2024/may/10/russians-attack-north-of-kharkiv-ukraine"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2024/05/11/europe/ukraine-kharkiv-russia-attack-intl/index.html"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2024-02-17-avdiivka-falls",
+    "why": "Russian momentum after Avdiivka",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-26",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "military",
+  "where": [
+   "kharkiv"
+  ],
+  "related_stories": [
+   "2024-02-17-avdiivka-falls"
   ]
  }
 ]
