@@ -359,5 +359,220 @@
   "evidence": [
    "trump-disgrace-eu-summit"
   ]
+ },
+ {
+  "id": "united-states--rivalry--iran",
+  "a": "united-states",
+  "b": "iran",
+  "type": "rivalry",
+  "start": "1979",
+  "end": null,
+  "stated": "Stop Iran's nuclear weapons, missiles and attacks on shipping",
+  "actual": "Open war since Feb 28, 2026, over Hormuz, the nuclear file and the regime's survival",
+  "confidence": "likely",
+  "evidence": [
+   "2026-02-28-iran-war-begins",
+   "2026-04-13-us-blockade-iran",
+   "2026-07-08-mou-collapses",
+   "us-iran-talks-deadlock"
+  ]
+ },
+ {
+  "id": "israel--rivalry--iran",
+  "a": "israel",
+  "b": "iran",
+  "type": "rivalry",
+  "start": "1979",
+  "end": null,
+  "stated": "Existential threat from Iran's nuclear programme and proxies",
+  "actual": "Israel killed Ali Khamenei and much of the leadership in 2026",
+  "confidence": "likely",
+  "evidence": [
+   "2026-02-28-iran-war-begins",
+   "2026-03-08-mojtaba-khamenei"
+  ]
+ },
+ {
+  "id": "iran--patron-proxy--hezbollah",
+  "a": "iran",
+  "b": "hezbollah",
+  "type": "patron-proxy",
+  "start": "1982",
+  "end": null,
+  "stated": "'Axis of Resistance' solidarity",
+  "actual": "Iran's most capable proxy, now badly degraded but still fighting",
+  "confidence": "likely",
+  "evidence": [
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon"
+  ]
+ },
+ {
+  "id": "israel--rivalry--hezbollah",
+  "a": "israel",
+  "b": "hezbollah",
+  "type": "rivalry",
+  "start": "1982",
+  "end": null,
+  "stated": "Border security for northern Israel",
+  "actual": "Occupation zone and buffer in southern Lebanon",
+  "confidence": "likely",
+  "evidence": [
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-10-14-lebanon-yellow-line"
+  ]
+ },
+ {
+  "id": "saudi-arabia--alliance--pakistan",
+  "a": "saudi-arabia",
+  "b": "pakistan",
+  "type": "alliance",
+  "start": "2025-09",
+  "end": null,
+  "stated": "Mutual defence",
+  "actual": "Riyadh buys military depth and an implicit nuclear umbrella; Islamabad gets money",
+  "confidence": "likely",
+  "evidence": [
+   "2026-08-07-mecca-pact",
+   "2026-10-05-mecca-pact-activated"
+  ]
+ },
+ {
+  "id": "saudi-arabia--alliance--turkey",
+  "a": "saudi-arabia",
+  "b": "turkey",
+  "type": "alliance",
+  "start": "2026-08-07",
+  "end": null,
+  "stated": "Mecca mutual-defence pact",
+  "actual": "Hedge against an unreliable US security umbrella",
+  "confidence": "possible",
+  "evidence": [
+   "2026-08-07-mecca-pact",
+   "2026-10-05-mecca-pact-activated"
+  ]
+ },
+ {
+  "id": "saudi-arabia--rivalry--uae",
+  "a": "saudi-arabia",
+  "b": "uae",
+  "type": "rivalry",
+  "start": "2025-12",
+  "end": null,
+  "stated": "Officially partners",
+  "actual": "Split over Yemen's south and oil policy",
+  "confidence": "likely",
+  "evidence": [
+   "2026-01-09-stc-dissolution",
+   "2026-04-28-uae-quits-opec"
+  ]
+ },
+ {
+  "id": "united-states--sanction--cuba",
+  "a": "united-states",
+  "b": "cuba",
+  "type": "sanction",
+  "start": "1962",
+  "end": null,
+  "stated": "Embargo on a hostile communist regime",
+  "actual": "Fuel blockade since 2026 aimed at regime collapse",
+  "confidence": "likely",
+  "evidence": [
+   "2026-03-13-cuba-talks",
+   "2026-10-12-cuba-blockade-bites"
+  ]
+ },
+ {
+  "id": "china--rivalry--japan",
+  "a": "china",
+  "b": "japan",
+  "type": "rivalry",
+  "start": "2025-11",
+  "end": null,
+  "stated": "Opposes 'interference' over Taiwan",
+  "actual": "Coercion of the Takaichi government, including rare-earth cut-offs",
+  "confidence": "likely",
+  "evidence": [
+   "2026-03-30-china-sanctions-furuya",
+   "2026-05-22-china-japan-rare-earths",
+   "2025-12-29-justice-mission-drills"
+  ]
+ },
+ {
+  "id": "china--rivalry--philippines",
+  "a": "china",
+  "b": "philippines",
+  "type": "rivalry",
+  "start": "2012",
+  "end": null,
+  "stated": "Sovereignty over the South China Sea",
+  "actual": "Gradual seizure of control at Scarborough Shoal",
+  "confidence": "likely",
+  "evidence": [
+   "2026-04-15-scarborough-blocked",
+   "2026-07-23-scarborough-water-cannon",
+   "ph-rebukes-china-envoy"
+  ]
+ },
+ {
+  "id": "pakistan--rivalry--afghanistan",
+  "a": "pakistan",
+  "b": "afghanistan",
+  "type": "rivalry",
+  "start": "2025-10",
+  "end": null,
+  "stated": "Stopping TTP attacks from Afghan soil",
+  "actual": "Open war with the Taliban government since Feb 2026",
+  "confidence": "likely",
+  "evidence": [
+   "2026-02-26-pakistan-afghanistan-war",
+   "2026-03-16-kabul-hospital-strike",
+   "2026-10-05-taliban-diplomacy"
+  ]
+ },
+ {
+  "id": "ethiopia--rivalry--eritrea",
+  "a": "ethiopia",
+  "b": "eritrea",
+  "type": "rivalry",
+  "start": "2023",
+  "end": null,
+  "stated": "Ethiopia's 'right' to sea access; Eritrea's sovereignty",
+  "actual": "Possible interstate war over Assab, layered on the Tigray war",
+  "confidence": "likely",
+  "evidence": [
+   "2026-10-09-ethiopia-eritrea-accusations",
+   "ethiopia-tigray-advance"
+  ]
+ },
+ {
+  "id": "eritrea--patron-proxy--tplf",
+  "a": "eritrea",
+  "b": "tplf",
+  "type": "patron-proxy",
+  "start": "2025",
+  "end": null,
+  "stated": "Eritrea denies any support",
+  "actual": "Ethiopia alleges Eritrea backs and fights alongside the TPLF; unproven",
+  "confidence": "speculative",
+  "evidence": [
+   "2026-10-09-ethiopia-eritrea-accusations",
+   "2026-09-23-tplf-offensive"
+  ]
+ },
+ {
+  "id": "united-states--alliance--israel",
+  "a": "united-states",
+  "b": "israel",
+  "type": "alliance",
+  "start": "1948",
+  "end": null,
+  "stated": "Special relationship",
+  "actual": "Joint war on Iran in 2026",
+  "confidence": "likely",
+  "evidence": [
+   "2026-02-28-iran-war-begins"
+  ]
  }
 ]

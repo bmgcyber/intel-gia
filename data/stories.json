@@ -34,27 +34,62 @@
    "global-oil"
   ],
   "related_stories": [
-   "2022-03-25-jeddah-attack",
-   "2022-03-27-negev-summit",
-   "2022-07-15-biden-saudi",
    "2022-10-05-opec-cut",
-   "houthis-hit-aramco",
-   "kataib-hezbollah-halt",
-   "us-iran-talks-deadlock",
-   "venezuela-oil",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2026-07-08-mou-collapses",
    "gfs-pride-sunk",
    "iea-diesel-release",
    "us-weighs-shadow-fleet-relief",
-   "coreweave-ai-credit-shock"
+   "coreweave-ai-credit-shock",
+   "us-iran-talks-deadlock",
+   "houthis-hit-aramco",
+   "kataib-hezbollah-halt",
+   "venezuela-oil",
+   "2022-03-25-jeddah-attack",
+   "2022-03-27-negev-summit",
+   "2022-07-15-biden-saudi",
+   "houthis-saudi-oct15",
+   "gulf-of-oman-tanker-fires",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "irgc-mine-supertanker-brent-110",
+   "yanbu-missile-intercepted",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-11-iea-record-release",
+   "2026-03-13-kharg-strike",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-08-17-mou-expires",
+   "2026-09-10-east-west-pipeline-attack"
   ],
   "causes": [
    {
     "story": "2022-10-05-opec-cut",
     "why": "OPEC+/Saudi oil leverage and US–Gulf friction persisted into the 2026 Gulf crisis",
     "confidence": "speculative"
+   },
+   {
+    "story": "2026-09-26-trump-rejects-iran-plan",
+    "why": "No deal, so Iran keeps squeezing the strait",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-07-08-mou-collapses",
+    "why": "The ceasefire's collapse restarted the tanker war",
+    "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "us-iran-talks-deadlock",
@@ -96,19 +131,46 @@
    "iran-war-hormuz"
   ],
   "related_stories": [
-   "2022-03-27-negev-summit",
    "2022-09-jcpoa-stall",
+   "2026-08-17-mou-expires",
    "hormuz-attacks-surge",
-   "kataib-hezbollah-halt"
+   "kataib-hezbollah-halt",
+   "2022-03-27-negev-summit",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan"
   ],
   "causes": [
    {
     "story": "2022-09-jcpoa-stall",
     "why": "Collapse of the JCPOA revival",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-08-17-mou-expires",
+    "why": "The MoU deadline lapsed with no final deal",
+    "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "houthis-hit-aramco",
@@ -153,16 +215,29 @@
    "global-oil"
   ],
   "related_stories": [
-   "2022-01-21-saada-strike",
-   "2022-01-abu-dhabi-attack",
    "2022-03-25-jeddah-attack",
-   "2022-04-02-yemen-truce",
-   "2022-07-15-biden-saudi",
    "2022-10-02-truce-expires",
-   "2022-10-05-opec-cut",
+   "2026-10-10-riyadh-airport-strike",
+   "houthis-saudi-oct15",
    "hormuz-attacks-surge",
    "saudi-offensive-mokha",
-   "houthis-saudi-oct15"
+   "2022-01-abu-dhabi-attack",
+   "2022-01-21-saada-strike",
+   "2022-04-02-yemen-truce",
+   "2022-07-15-biden-saudi",
+   "2022-10-05-opec-cut",
+   "gfs-pride-sunk",
+   "houthis-hit-aden-palace",
+   "us-weighs-shadow-fleet-relief",
+   "gulf-of-oman-tanker-fires",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "irgc-mine-supertanker-brent-110",
+   "yanbu-missile-intercepted",
+   "2026-03-13-kharg-strike",
+   "2026-04-13-us-blockade-iran",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-09-10-houthis-seize-mokha",
+   "2026-09-10-east-west-pipeline-attack"
   ],
   "causes": [
    {
@@ -174,6 +249,11 @@
     "story": "2022-10-02-truce-expires",
     "why": "De-escalation of 2022 never became a settlement",
     "confidence": "possible"
+   },
+   {
+    "story": "2026-10-10-riyadh-airport-strike",
+    "why": "Continuing Houthi strikes on the kingdom",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -181,6 +261,15 @@
   "where": [
    "dhahran",
    "riyadh"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -220,22 +309,42 @@
    "yemen-houthis-saudi"
   ],
   "related_stories": [
-   "2022-01-21-saada-strike",
+   "2022-04-07-plc",
+   "2026-09-10-houthis-seize-mokha",
+   "houthis-hit-aramco",
    "2022-01-abu-dhabi-attack",
+   "2022-01-21-saada-strike",
    "2022-03-25-jeddah-attack",
    "2022-04-02-yemen-truce",
-   "2022-04-07-plc",
    "2022-10-02-truce-expires",
-   "houthis-hit-aramco"
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "yanbu-missile-intercepted",
+   "2026-07-20-houthi-saudi-blockade"
   ],
   "causes": [
    {
     "story": "2022-04-07-plc",
     "why": "PLC forces now leading the offensive were formed in 2022",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-09-10-houthis-seize-mokha",
+    "why": "Counter-offensive to retake the port",
+    "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "kataib-hezbollah-halt",
@@ -272,21 +381,43 @@
    "iran-proxy-network"
   ],
   "related_stories": [
+   "2022-10-27-sudani-govt",
+   "2026-09-30-us-leaves-iraq",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
    "2021-10-10-iraq-election",
    "2021-11-07-kadhimi-drone",
    "2022-08-29-baghdad-clashes",
-   "2022-10-27-sudani-govt",
-   "hormuz-attacks-surge",
-   "us-iran-talks-deadlock"
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses"
   ],
   "causes": [
    {
     "story": "2022-10-27-sudani-govt",
     "why": "Iran-aligned blocs gained control of Iraqi government in 2022",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-09-30-us-leaves-iraq",
+    "why": "The halt follows the US exit",
+    "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "energy-ceasefire",
@@ -328,15 +459,29 @@
    "russia-ukraine"
   ],
   "related_stories": [
-   "2022-02-24-invasion",
    "2022-10-10-energy-strikes",
+   "2026-09-22-zelensky-trump-unga",
+   "energy-ceasefire-collapse",
    "diesel-deal",
-   "energy-ceasefire-collapse"
+   "2022-02-24-invasion",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "lutsk-blackout-volyn",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "russia-grid-strikes-oct16",
+   "2026-04-23-eu-90bn-loan",
+   "2026-10-13-hungary-lifts-accession-veto"
   ],
   "causes": [
    {
     "story": "2022-10-10-energy-strikes",
     "why": "Energy-strike war began in October 2022",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-09-22-zelensky-trump-unga",
+    "why": "Kyiv offered the energy truce at the UN",
     "confidence": "likely"
    }
   ],
@@ -344,6 +489,15 @@
   "marker": "strike",
   "where": [
    "kharkiv"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -380,19 +534,29 @@
    "global-oil"
   ],
   "related_stories": [
+   "2022-06-03-eu-oil-embargo",
+   "2022-09-02-price-cap",
+   "2026-08-13-russian-diesel-lows",
+   "2026-10-02-g7-diesel-release",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "energy-ceasefire",
+   "venezuela-oil",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-24-invasion",
    "2022-03-08-us-oil-ban",
-   "2022-06-03-eu-oil-embargo",
    "2022-06-23-himars",
-   "2022-09-02-price-cap",
    "2022-10-05-opec-cut",
-   "energy-ceasefire",
-   "venezuela-oil",
-   "energy-ceasefire-collapse",
-   "trump-disgrace-eu-summit",
-   "trump-waives-russia-sanctions"
+   "gfs-pride-sunk",
+   "starshield-curbs-white-house",
+   "iea-diesel-release",
+   "us-weighs-shadow-fleet-relief",
+   "russia-grid-strikes-oct16",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-09-18-graham-act-signed",
+   "2026-09-22-zelensky-trump-unga"
   ],
   "causes": [
    {
@@ -404,9 +568,28 @@
     "story": "2022-09-02-price-cap",
     "why": "Price-cap regime shapes Russian product sales",
     "confidence": "possible"
+   },
+   {
+    "story": "2026-08-13-russian-diesel-lows",
+    "why": "Diesel shortage made Russian supply a bargaining chip",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-10-02-g7-diesel-release",
+    "why": "The G7 diesel crunch",
+    "confidence": "possible"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "rare-earth-nov10",
@@ -458,15 +641,24 @@
   ],
   "related_stories": [
    "2021-12-china-rare-earth-group",
+   "2022-10-07-bis-controls",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce",
+   "eu-china-rare-earth-green-channel",
+   "ai-minerals",
+   "pla-drills",
    "2022-05-23-ipef",
    "2022-06-14-msp",
    "2022-08-02-pelosi",
    "2022-08-04-pla-drills",
    "2022-08-31-nvidia-ban",
-   "2022-10-07-bis-controls",
-   "ai-minerals",
-   "pla-drills",
-   "eu-china-rare-earth-green-channel"
+   "pla-patrol-oct14-15",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "coreweave-ai-credit-shock",
+   "2025-12-29-justice-mission-drills",
+   "2026-02-08-takaichi-landslide",
+   "2026-03-30-china-sanctions-furuya",
+   "2026-05-22-china-japan-rare-earths"
   ],
   "causes": [
    {
@@ -478,11 +670,30 @@
     "story": "2022-10-07-bis-controls",
     "why": "Chinese mineral controls answer US chip controls",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-05-14-trump-xi-beijing",
+    "why": "The May truce set the Nov 10 horizon",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-09-23-us-china-fragile-truce",
+    "why": "Shaky implementation of the truce",
+    "confidence": "possible"
    }
   ],
   "effects": [],
   "marker": "political",
-  "unplaced": "The measures span China, the United States, and Japan. No single place is named."
+  "unplaced": "The measures span China, the United States, and Japan. No single place is named.",
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "ai-minerals",
@@ -528,13 +739,19 @@
    "ai-compute-minerals"
   ],
   "related_stories": [
-   "2022-06-14-msp",
    "2022-08-16-ira",
-   "2022-08-31-nvidia-ban",
    "2022-10-07-bis-controls",
-   "kabila-m23",
+   "2026-03-17-hyperscaler-ai-debt",
    "rare-earth-nov10",
-   "rubaya-coltan"
+   "kabila-m23",
+   "rubaya-coltan",
+   "2022-06-14-msp",
+   "2022-08-31-nvidia-ban",
+   "kabila-frn-succeeds-afc",
+   "pla-patrol-oct14-15",
+   "eu-china-rare-earth-green-channel",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce"
   ],
   "causes": [
    {
@@ -546,9 +763,23 @@
     "story": "2022-10-07-bis-controls",
     "why": "AI compute became a strategic commodity",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-03-17-hyperscaler-ai-debt",
+    "why": "Debt-financed AI build-out drives metals demand",
+    "confidence": "possible"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "pla-drills",
@@ -592,20 +823,38 @@
   ],
   "related_stories": [
    "2022-08-04-pla-drills",
-   "rare-earth-nov10",
+   "2025-12-29-justice-mission-drills",
    "pla-patrol-oct14-15",
-   "pla-patrol-oct15-16"
+   "pla-patrol-oct15-16",
+   "rare-earth-nov10",
+   "dongsha-coast-guard-incursion",
+   "2026-02-08-takaichi-landslide",
+   "2026-03-30-china-sanctions-furuya"
   ],
   "causes": [
    {
     "story": "2022-08-04-pla-drills",
     "why": "2022 drills set the template for encirclement exercises",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-29-justice-mission-drills",
+    "why": "Continues the blockade-rehearsal pattern",
+    "confidence": "likely"
    }
   ],
   "effects": [],
   "marker": "military",
-  "unplaced": "The drills were five sea areas, not one point."
+  "unplaced": "The drills were five sea areas, not one point.",
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "kabila-m23",
@@ -641,18 +890,34 @@
   ],
   "related_stories": [
    "2022-06-13-bunagana",
+   "2026-03-washington-accords",
+   "kabila-frn-succeeds-afc",
    "ai-minerals",
    "rubaya-coltan",
-   "kabila-frn-succeeds-afc"
+   "2026-01-19-m23-leaves-uvira"
   ],
   "causes": [
    {
     "story": "2022-06-13-bunagana",
     "why": "M23's 2022 resurgence began today's war",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-03-washington-accords",
+    "why": "The stalled Washington track opened space for Kabila",
+    "confidence": "possible"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "rubaya-coltan",
@@ -748,6 +1013,7 @@
   "related_stories": [
    "2021-12-wagner-mali",
    "2022-02-17-france-leaves-mali",
+   "2026-04-25-mali-offensive",
    "2022-03-27-moura"
   ],
   "causes": [
@@ -760,12 +1026,26 @@
     "story": "2022-02-17-france-leaves-mali",
     "why": "French exit left Russia as Mali's main partner",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-04-25-mali-offensive",
+    "why": "Recapture of the town lost in April",
+    "confidence": "likely"
    }
   ],
   "effects": [],
   "marker": "military",
   "where": [
    "kidal"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -814,20 +1094,50 @@
   ],
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
+   "2026-01-06-us-venezuela-oil-deal",
+   "hormuz-attacks-surge",
+   "diesel-deal",
    "2022-03-08-us-oil-ban",
    "2022-09-02-price-cap",
    "2022-10-05-opec-cut",
-   "diesel-deal",
-   "hormuz-attacks-surge"
+   "gfs-pride-sunk",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "iea-diesel-release",
+   "us-weighs-shadow-fleet-relief",
+   "gulf-of-oman-tanker-fires",
+   "trump-waives-russia-sanctions",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-03-maduro-captured",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-03-11-iea-record-release",
+   "2026-03-13-cuba-talks",
+   "2026-04-13-us-blockade-iran",
+   "2026-09-18-graham-act-signed",
+   "2026-10-12-cuba-blockade-bites"
   ],
   "causes": [
    {
     "story": "2022-03-05-us-venezuela-talks",
     "why": "First US–Maduro energy outreach after the invasion",
     "confidence": "possible"
+   },
+   {
+    "story": "2026-01-06-us-venezuela-oil-deal",
+    "why": "The post-Maduro oil deal reopened trade",
+    "confidence": "likely"
    }
   ],
-  "effects": []
+  "effects": [],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2021-10-europe-gas-crunch",
@@ -5108,7 +5418,9 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2026-10-04-brazil-first-round"
+  ]
  },
  {
   "id": "2022-10-haiti-fuel",
@@ -5709,6 +6021,11 @@
     "story": "diesel-deal",
     "why": "EU leaders object to the US-Russia diesel deal that underpins Washington's pressure on Kyiv",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-10-13-hungary-lifts-accession-veto",
+    "why": "The EU rallying around Kyiv",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -5728,6 +6045,8 @@
   "related_stories": [
    "energy-ceasefire-collapse",
    "diesel-deal",
+   "2026-10-13-hungary-lifts-accession-veto",
+   "trump-waives-russia-sanctions",
    "energy-ceasefire",
    "venezuela-oil",
    "2021-11-russia-buildup",
@@ -5747,7 +6066,23 @@
    "iea-diesel-release",
    "us-weighs-shadow-fleet-relief",
    "saudi-blames-iran-eu-gcc-postponed",
-   "trump-waives-russia-sanctions"
+   "putin-security-zone",
+   "russia-grid-strikes-oct16",
+   "2026-01-21-greenland-davos",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-04-23-eu-90bn-loan",
+   "2026-08-13-russian-diesel-lows",
+   "2026-09-18-graham-act-signed",
+   "2026-09-22-zelensky-trump-unga"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -5903,6 +6238,11 @@
     "story": "energy-ceasefire-collapse",
     "why": "Ukraine's renewed refinery strikes tighten Russian diesel exports",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-10-02-g7-diesel-release",
+    "why": "Implements the G7's diesel request",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -5920,11 +6260,24 @@
   "related_stories": [
    "hormuz-attacks-surge",
    "energy-ceasefire-collapse",
+   "2026-10-02-g7-diesel-release",
    "diesel-deal",
    "venezuela-oil",
    "2022-03-07-oil-spike",
    "2022-09-02-price-cap",
-   "trump-disgrace-eu-summit"
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "2026-03-11-iea-record-release",
+   "2026-08-13-russian-diesel-lows"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -6085,6 +6438,11 @@
     "story": "houthis-hit-aden-palace",
     "why": "The widening Houthi campaign sharpened Riyadh's public case against Tehran",
     "confidence": "possible"
+   },
+   {
+    "story": "2026-10-05-mecca-pact-activated",
+    "why": "Riyadh is already on a war footing",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -6105,6 +6463,8 @@
   "related_stories": [
    "houthis-saudi-oct15",
    "houthis-hit-aden-palace",
+   "2026-10-05-mecca-pact-activated",
+   "yanbu-missile-intercepted",
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
@@ -6118,7 +6478,19 @@
    "2022-10-05-opec-cut",
    "trump-disgrace-eu-summit",
    "us-weighs-shadow-fleet-relief",
-   "yanbu-missile-intercepted"
+   "trump-waives-russia-sanctions",
+   "eu-china-rare-earth-green-channel",
+   "2026-02-05-new-start-expires",
+   "2026-09-18-graham-act-signed"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -6164,6 +6536,11 @@
     "story": "hormuz-attacks-surge",
     "why": "Energy-driven inflation keeps long yields high, raising financing costs for leveraged AI builders",
     "confidence": "possible"
+   },
+   {
+    "story": "2026-09-16-fed-hikes",
+    "why": "Higher rates stress AI debt",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -6180,12 +6557,25 @@
   "unplaced": "Market-wide credit move; no event site.",
   "related_stories": [
    "hormuz-attacks-surge",
+   "2026-09-16-fed-hikes",
+   "tech-selloff-worst-week",
    "rare-earth-nov10",
    "2022-03-16-fed-hike",
    "2022-06-15-fed-75",
    "2022-08-31-nvidia-ban",
    "2022-10-07-bis-controls",
-   "tech-selloff-worst-week"
+   "2026-03-17-hyperscaler-ai-debt",
+   "2026-05-13-warsh-confirmed",
+   "2026-05-14-trump-xi-beijing"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -6288,7 +6678,13 @@
    "philippines",
    "china"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2026-07-23-scarborough-water-cannon",
+    "why": "Escalating Scarborough confrontations",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-10-16",
   "analysis": {
@@ -6301,7 +6697,18 @@
   "era": "2020s",
   "marker": "diplomacy",
   "unplaced": "Exchange of public statements; no event site.",
-  "related_stories": []
+  "related_stories": [
+   "2026-07-23-scarborough-water-cannon"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "trump-waives-russia-sanctions",
@@ -6344,6 +6751,11 @@
     "story": "trump-disgrace-eu-summit",
     "why": "The waiver followed Trump's open break with Zelenskyy over refinery strikes",
     "confidence": "likely"
+   },
+   {
+    "story": "2026-09-18-graham-act-signed",
+    "why": "The waiver hollows out the act before it takes effect",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -6362,6 +6774,7 @@
   "related_stories": [
    "diesel-deal",
    "trump-disgrace-eu-summit",
+   "2026-09-18-graham-act-signed",
    "energy-ceasefire",
    "venezuela-oil",
    "2021-11-russia-buildup",
@@ -6383,7 +6796,23 @@
    "us-weighs-shadow-fleet-relief",
    "saudi-blames-iran-eu-gcc-postponed",
    "putin-security-zone",
-   "russia-grid-strikes-oct16"
+   "russia-grid-strikes-oct16",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-02-05-new-start-expires",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-02-20-scotus-ieepa",
+   "2026-05-14-trump-xi-beijing",
+   "2026-08-13-russian-diesel-lows",
+   "2026-09-22-zelensky-trump-unga"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -6843,7 +7272,18 @@
    "tplf",
    "mekelle"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2026-09-23-tplf-offensive",
+    "why": "Federal counter-offensive after the TPLF attack",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-10-09-ethiopia-eritrea-accusations",
+    "why": "Push toward the border amid accusations of an Eritrean invasion",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-10-17",
   "analysis": {
@@ -6858,7 +7298,19 @@
   "where": [
    "mekelle"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-09-23-tplf-offensive",
+   "2026-10-09-ethiopia-eritrea-accusations"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-14",
+    "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2025-12-29-justice-mission-drills",
@@ -6976,7 +7428,8 @@
    "2026-01-06-us-venezuela-oil-deal",
    "2026-02-22-el-mencho-killed",
    "2026-03-13-cuba-talks",
-   "venezuela-oil"
+   "venezuela-oil",
+   "2026-10-12-cuba-blockade-bites"
   ]
  },
  {
@@ -7738,7 +8191,8 @@
   ],
   "related_stories": [
    "2022-07-31-zawahiri",
-   "2026-03-16-kabul-hospital-strike"
+   "2026-03-16-kabul-hospital-strike",
+   "2026-10-05-taliban-diplomacy"
   ]
  },
  {
@@ -7983,7 +8437,8 @@
    "gfs-pride-sunk",
    "iea-diesel-release",
    "gulf-of-oman-tanker-fires",
-   "irgc-mine-supertanker-brent-110"
+   "irgc-mine-supertanker-brent-110",
+   "2026-10-02-g7-diesel-release"
   ]
  },
  {
@@ -8098,7 +8553,8 @@
    "venezuela-oil",
    "2022-03-05-us-venezuela-talks",
    "us-weighs-shadow-fleet-relief",
-   "2026-01-06-us-venezuela-oil-deal"
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-10-12-cuba-blockade-bites"
   ]
  },
  {
@@ -8189,7 +8645,8 @@
   "related_stories": [
    "2022-10-07-bis-controls",
    "2022-08-31-nvidia-ban",
-   "coreweave-ai-credit-shock"
+   "coreweave-ai-credit-shock",
+   "ai-minerals"
   ]
  },
  {
@@ -8411,7 +8868,8 @@
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "2026-02-28-iran-war-begins",
-   "2026-06-17-islamabad-mou"
+   "2026-06-17-islamabad-mou",
+   "2026-10-14-lebanon-yellow-line"
   ]
  },
  {
@@ -8456,7 +8914,8 @@
    "budapest"
   ],
   "related_stories": [
-   "2026-04-23-eu-90bn-loan"
+   "2026-04-23-eu-90bn-loan",
+   "2026-10-13-hungary-lifts-accession-veto"
   ]
  },
  {
@@ -9066,7 +9525,8 @@
    "el-obeid"
   ],
   "related_stories": [
-   "2026-02-03-kadugli-siege-broken"
+   "2026-02-03-kadugli-siege-broken",
+   "2026-10-09-el-obeid-drones"
   ]
  },
  {
@@ -9172,7 +9632,8 @@
   "marker": "political",
   "unplaced": "A national election; no single site.",
   "related_stories": [
-   "2022-06-19-petro"
+   "2022-06-19-petro",
+   "2026-10-04-brazil-first-round"
   ]
  },
  {
@@ -9402,7 +9863,8 @@
    "2022-03-25-jeddah-attack",
    "2022-04-02-yemen-truce",
    "houthis-saudi-oct15",
-   "houthis-hit-aden-palace"
+   "houthis-hit-aden-palace",
+   "2026-10-10-riyadh-airport-strike"
   ]
  },
  {
@@ -9450,7 +9912,8 @@
    "scarborough-shoal"
   ],
   "related_stories": [
-   "2026-04-15-scarborough-blocked"
+   "2026-04-15-scarborough-blocked",
+   "ph-rebukes-china-envoy"
   ]
  },
  {
@@ -9500,7 +9963,8 @@
   "unplaced": "The sources do not name the signing venue.",
   "related_stories": [
    "2026-07-20-houthi-saudi-blockade",
-   "2026-04-07-iran-ceasefire-islamabad"
+   "2026-04-07-iran-ceasefire-islamabad",
+   "2026-10-05-mecca-pact-activated"
   ]
  },
  {
@@ -9559,7 +10023,8 @@
    "energy-ceasefire-collapse",
    "trump-disgrace-eu-summit",
    "iea-diesel-release",
-   "trump-waives-russia-sanctions"
+   "trump-waives-russia-sanctions",
+   "2026-10-02-g7-diesel-release"
   ]
  },
  {
@@ -9613,7 +10078,8 @@
    "2026-02-28-iran-war-begins",
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
-   "2026-06-17-islamabad-mou"
+   "2026-06-17-islamabad-mou",
+   "2026-10-14-lebanon-yellow-line"
   ]
  },
  {
@@ -9725,7 +10191,8 @@
    "saudi-offensive-mokha",
    "2022-04-02-yemen-truce",
    "houthis-saudi-oct15",
-   "houthis-hit-aden-palace"
+   "houthis-hit-aden-palace",
+   "2026-10-05-mecca-pact-activated"
   ]
  },
  {
@@ -10085,7 +10552,8 @@
   "unplaced": "Attacks across Tigray, Afar and Amhara; no single site.",
   "related_stories": [
    "2026-01-29-tigray-clashes",
-   "ethiopia-tigray-advance"
+   "ethiopia-tigray-advance",
+   "2026-10-09-ethiopia-eritrea-accusations"
   ]
  },
  {
@@ -10193,7 +10661,8 @@
    "2026-04-13-us-blockade-iran",
    "2026-06-17-islamabad-mou",
    "2026-07-08-mou-collapses",
-   "2026-09-18-graham-act-signed"
+   "2026-09-18-graham-act-signed",
+   "2026-10-02-g7-diesel-release"
   ]
  },
  {
@@ -10258,6 +10727,615 @@
    "2021-10-10-iraq-election",
    "2021-11-07-kadhimi-drone",
    "2022-08-29-baghdad-clashes"
+  ]
+ },
+ {
+  "id": "2026-10-02-g7-diesel-release",
+  "date": "2026-10-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Europe",
+  "title": "G7 orders a 100m-barrel stock release, front-loaded with diesel",
+  "summary": "At a virtual meeting, G7 leaders agreed a coordinated release of 100 million barrels through the IEA over four months, with a substantial diesel release in the first 20 days. They said they would coordinate refinery maintenance, condemned Iran's attacks, and pledged to maintain sanctions on Russia.",
+  "sources": [
+   {
+    "name": "GOV.UK (G7 statement)",
+    "url": "https://www.gov.uk/government/news/g7-leaders-statement-on-global-energy-security-and-market-stability"
+   },
+   {
+    "name": "Élysée (G7 statement)",
+    "url": "https://www.elysee.fr/en/emmanuel-macron/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/live/cqd0801d2y3vt"
+   }
+  ],
+  "entities": [
+   "g7",
+   "iea",
+   "diesel",
+   "petroleum",
+   "iran",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2026-08-13-russian-diesel-lows",
+    "why": "The loss of Russian diesel tightened the market",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-09-26-trump-rejects-iran-plan",
+    "why": "No Hormuz reopening in sight",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-03-11-iea-record-release",
+    "why": "Implements the March commitments",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "global-oil",
+   "russia-ukraine"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "energy",
+  "unplaced": "A virtual summit; no site.",
+  "related_stories": [
+   "2026-08-13-russian-diesel-lows",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2026-03-11-iea-record-release",
+   "diesel-deal",
+   "iea-diesel-release",
+   "2022-09-02-price-cap",
+   "us-weighs-shadow-fleet-relief"
+  ]
+ },
+ {
+  "id": "2026-10-04-brazil-first-round",
+  "date": "2026-10-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Americas",
+  "title": "Flávio Bolsonaro leads Lula into Brazil's Oct 25 runoff",
+  "summary": "Brazil's electoral court reported Flávio Bolsonaro won 47.03% in the first round against President Lula's 45.16%. The two meet in a runoff on Oct 25.",
+  "sources": [
+   {
+    "name": "Tribunal Superior Eleitoral",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica"
+   },
+   {
+    "name": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/flavio-bolsonaro-lula-head-runoff-brazils-presidential-race"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/ck1l34ed592no"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "flavio-bolsonaro",
+   "lula"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-30-lula",
+    "why": "Rematch of the 2022 Lula–Bolsonaro contest",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-06-21-colombia-de-la-espriella",
+    "why": "Part of the region's rightward swing",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "analysis": {
+   "text": "A Bolsonaro win on Oct 25 would put all of Latin America's three largest economies except Mexico under governments aligned with Trump.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election; no single site.",
+  "related_stories": [
+   "2022-10-30-lula",
+   "2026-06-21-colombia-de-la-espriella"
+  ]
+ },
+ {
+  "id": "2026-10-05-mecca-pact-activated",
+  "date": "2026-10-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Middle East",
+  "title": "Mecca pact invoked for the first time: Turkey and Pakistan to deploy to Saudi Arabia",
+  "summary": "After an emergency meeting in Riyadh, Saudi Arabia, Turkey and Pakistan agreed to activate 'collective deterrence measures' and rapidly deploy agreed forces to the kingdom against Houthi attacks. The same day, Saudi-backed Yemeni forces said they had retaken Mokha. Al-Monitor reported Turkey's contribution was technical and defensive.",
+  "sources": [
+   {
+    "name": "Türkiye MFA (joint statement)",
+    "url": "https://www.mfa.gov.tr/joint-statement-on-the-emergency-meeting-of-the-strategic-political-and-defense-committee-of-the-makkah-alliance-for-defense-5-october-2026.en.mfa"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures"
+   },
+   {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-pakistan-and-turkiye-to-activate-collective-defense-commitments-amid-ongoing-threats-3004771"
+   },
+   {
+    "name": "Al-Monitor",
+    "url": "https://www.al-monitor.com/originals/2026/10/turkey-sending-technical-defensive-support-saudi-arabia-help-fight-houthis"
+   },
+   {
+    "name": "The Conversation",
+    "url": "https://theconversation.com/mecca-pact-pakistan-and-turkey-have-answered-saudi-arabias-call-for-help-but-dont-expect-them-to-fight-the-houthis-293873"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "turkey",
+   "pakistan",
+   "houthis"
+  ],
+  "causes": [
+   {
+    "story": "2026-08-07-mecca-pact",
+    "why": "Treaty invoked",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-09-10-houthis-seize-mokha",
+    "why": "The Houthi offensive and attacks on the kingdom",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "analysis": {
+   "text": "This is the first operational test of a Gulf security order without the US at its centre. The Conversation and Al-Monitor both expect support roles rather than combat against the Houthis.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "gulf-realignment",
+   "yemen-houthis-saudi"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2026-08-07-mecca-pact",
+   "2026-09-10-houthis-seize-mokha",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2026-10-10-riyadh-airport-strike"
+  ]
+ },
+ {
+  "id": "2026-10-05-taliban-diplomacy",
+  "date": "2026-10-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Asia-Pacific",
+  "title": "Moscow Format ends without a communiqué as Pakistan–Taliban rift persists",
+  "summary": "The Taliban said problems with Pakistan could be resolved through diplomacy. Dawn reported the Oct 5 Moscow Format consultations ended without a joint communiqué because Pakistan and the Taliban disagreed over language on terrorist networks. Islamabad says talks cannot be unconditional and demands a verifiable mechanism against TTP attacks. Earlier mediation by Qatar and Turkey, Saudi Arabia and China failed to produce a lasting settlement.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/afghan-taliban-says-problems-with-pakistan-can-be-resolved-through-diplomacy-2026-10-05/"
+   },
+   {
+    "name": "Dawn",
+    "url": "https://www.dawn.com/news/2037780/pakistan-rules-out-unconditional-talks-with-afghanistan"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "afghanistan",
+   "taliban",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2026-02-26-pakistan-afghanistan-war",
+    "why": "Unresolved war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Consultations in Moscow; no place entity yet.",
+  "related_stories": [
+   "2026-02-26-pakistan-afghanistan-war",
+   "2026-03-16-kabul-hospital-strike"
+  ]
+ },
+ {
+  "id": "2026-10-09-el-obeid-drones",
+  "date": "2026-10-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Africa",
+  "title": "RSF drone swarm hits El Obeid",
+  "summary": "Military sources said about 10 one-way attack drones struck El Obeid, the North Kordofan capital and base of the army's 5th Infantry Division, injuring at least six civilians. The state government blamed the RSF.",
+  "sources": [
+   {
+    "name": "Sudan Tribune",
+    "url": "https://sudantribune.com/article/319778"
+   },
+   {
+    "name": "Dabanga",
+    "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-and-deadly-explosions-kill-scores-of-civilians-across-sudan"
+   },
+   {
+    "name": "Centre for Information Resilience",
+    "url": "https://www.info-res.org/sudan-witness/articles/north-kordofan-saf-and-joint-forces-advance-as-uav-strikes-threaten-el-obeid/"
+   }
+  ],
+  "entities": [
+   "rsf",
+   "sudanese-armed-forces",
+   "sudan"
+  ],
+  "causes": [
+   {
+    "story": "2026-06-el-obeid-atrocity-warning",
+    "why": "The RSF threat to El Obeid continues",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "where": [
+   "el-obeid"
+  ],
+  "related_stories": [
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-02-03-kadugli-siege-broken"
+  ]
+ },
+ {
+  "id": "2026-10-09-ethiopia-eritrea-accusations",
+  "date": "2026-10-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Africa",
+  "title": "Ethiopia accuses Eritrea of an 'all-out invasion'; Eritrea cites a 'war of aggression'",
+  "summary": "In a letter to the UN Security Council, Ethiopia said Eritrean troops had advanced up to 60 km into Tigray. Eritrea denied backing the TPLF and accused Addis Ababa of seeking the port of Assab. The two had already cut diplomatic ties, and Ethiopia's army had retaken Mekelle from the TPLF.",
+  "sources": [
+   {
+    "name": "Al Jazeera (AFP/Reuters)",
+    "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war"
+   },
+   {
+    "name": "Al Jazeera (Abiy, Red Sea)",
+    "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat"
+   },
+   {
+    "name": "Al Jazeera (Eritrea to UN)",
+    "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with"
+   }
+  ],
+  "entities": [
+   "ethiopia",
+   "eritrea",
+   "tplf",
+   "abiy-ahmed"
+  ],
+  "causes": [
+   {
+    "story": "2026-09-23-tplf-offensive",
+    "why": "The TPLF war pulled in Eritrea",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "analysis": {
+   "text": "Abiy's demand for sea access turns a counter-insurgency into a possible interstate war over Assab.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Diplomatic exchange; the fighting was across Tigray.",
+  "related_stories": [
+   "2026-09-23-tplf-offensive",
+   "ethiopia-tigray-advance"
+  ]
+ },
+ {
+  "id": "2026-10-10-riyadh-airport-strike",
+  "date": "2026-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Middle East",
+  "title": "Houthi strike on Riyadh's airport kills 12, the worst attack on the kingdom in a decade",
+  "summary": "A strike on King Khalid International Airport killed 12 people and injured 309, according to Saudi civil aviation authorities. Victims included Saudis and foreign nationals, among them an American. Flights were suspended.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-f0e0e6105f33400e37bb20bb9a8130af"
+   },
+   {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/saudi-arabia/riyadh-airport-attack-killed-12-people-and-wounded-over-300-more-says-saudi-civil-aviation-agency-3005640"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cw33x4y8k82no"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "saudi-arabia"
+  ],
+  "causes": [
+   {
+    "story": "2026-10-05-mecca-pact-activated",
+    "why": "Houthis escalated despite the pact",
+    "confidence": "possible"
+   },
+   {
+    "story": "2026-07-20-houthi-saudi-blockade",
+    "why": "Houthi campaign against the kingdom",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "yemen-houthis-saudi",
+   "gulf-realignment"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2026-10-05-mecca-pact-activated",
+   "2026-07-20-houthi-saudi-blockade",
+   "houthis-hit-aramco"
+  ]
+ },
+ {
+  "id": "2026-10-12-cuba-blockade-bites",
+  "date": "2026-10-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Americas",
+  "title": "US oil blockade pushes Cuba toward humanitarian crisis",
+  "summary": "Cuba's energy minister said private-sector imports allowed by the US cover less than 3% of fuel needs. Only one Russian tanker has reached the island since January, when Trump halted Venezuelan shipments and threatened tariffs on any country supplying Cuba. ICE said it seized 90 biodiesel shipments bound for Cuba on Oct 7. Blackouts and shortages of water and medicine are spreading.",
+  "sources": [
+   {
+    "name": "Al Jazeera (Reuters/AP)",
+    "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/viruses-run-rampant-across-havana-water-power-fails-2026-09-30/"
+   }
+  ],
+  "entities": [
+   "cuba",
+   "united-states",
+   "venezuela",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2026-01-03-maduro-captured",
+    "why": "Loss of Venezuelan oil",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-03-13-cuba-talks",
+    "why": "Pressure campaign continued after the talks",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "analysis": {
+   "text": "Al Jazeera reports the administration has signalled it wants to topple Cuba's government. Collapse risk is rising, and with it the risk of a migration crisis.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "Island-wide; no single site.",
+  "related_stories": [
+   "2026-01-03-maduro-captured",
+   "2026-03-13-cuba-talks",
+   "venezuela-oil",
+   "us-weighs-shadow-fleet-relief"
+  ]
+ },
+ {
+  "id": "2026-10-13-hungary-lifts-accession-veto",
+  "date": "2026-10-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Europe",
+  "title": "Hungary lifts its veto and the EU opens two more Ukraine accession clusters",
+  "summary": "After Ukraine adopted protections for minority-language education, including for Hungarians in Transcarpathia, Budapest dropped its veto and the EU opened Clusters 2 and 3, so four of six are now open. Magyar and Zelenskyy met in Brussels on Oct 16.",
+  "sources": [
+   {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin"
+   },
+   {
+    "name": "Interfax-Ukraine",
+    "url": "https://en.interfax.com.ua/news/general/1218898.html"
+   },
+   {
+    "name": "Kyiv Post",
+    "url": "https://www.kyivpost.com/post/87303"
+   }
+  ],
+  "entities": [
+   "hungary",
+   "ukraine",
+   "european-union",
+   "peter-magyar",
+   "volodymyr-zelenskyy"
+  ],
+  "causes": [
+   {
+    "story": "2026-04-12-orban-ousted",
+    "why": "The Magyar government reversed Orbán's blockade",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "russia-ukraine",
+   "transatlantic-rift"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "A Council decision; no single site.",
+  "related_stories": [
+   "2026-04-12-orban-ousted",
+   "trump-disgrace-eu-summit",
+   "energy-ceasefire",
+   "2026-04-23-eu-90bn-loan"
+  ]
+ },
+ {
+  "id": "2026-10-gaza-phase-two-stalled",
+  "date": "2026-10",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Middle East",
+  "title": "Gaza's phase two stalls: no Hamas disarmament, no Israeli withdrawal",
+  "summary": "The Board of Peace envoy said Israel will withdraw from Gaza only after 'verified' Hamas disarmament. As of mid-October, neither disarmament nor withdrawal had begun. Long War Journal reported Israel blocked a Board of Peace base and the IDF logged 31 ceasefire violations on Oct 1–15.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms"
+   },
+   {
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/israel-to-withdraw-from-gaza-only-after-verified-disarmament-board-of-peace-envoy/4022659"
+   },
+   {
+    "name": "FDD's Long War Journal",
+    "url": "https://www.longwarjournal.org/archives/2026/10/israel-reportedly-blocks-board-of-peace-base-in-gaza-idf-reports-31-ceasefire-violations-october-1-15.php"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hamas",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Gaza has no place entity yet.",
+  "related_stories": []
+ },
+ {
+  "id": "2026-10-14-lebanon-yellow-line",
+  "date": "2026-10-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-10-14",
+  "region": "Middle East",
+  "title": "Israel's 'Yellow Line' hardens an occupation zone in southern Lebanon",
+  "summary": "Despite the June framework, Israel holds a zone up to 10 km deep in southern Lebanon. Behind the 'Yellow Line' it keeps demolishing homes; about 50 frontline villages are destroyed. Defence Minister Katz has said troops will not withdraw, and a 4 km 'Grey Line' buffer is under discussion.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
+   },
+   {
+    "name": "FDD",
+    "url": "https://www.fdd.org/analysis/2026/10/07/idf-shifts-southern-lebanon-forces-toward-forward-defense-posture-as-troops-prepare-for-winter/"
+   }
+  ],
+  "entities": [
+   "israel",
+   "lebanon",
+   "hezbollah"
+  ],
+  "causes": [
+   {
+    "story": "2026-04-08-israel-strikes-lebanon",
+    "why": "The Lebanon war",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-08-17-mou-expires",
+    "why": "The US–Iran deal's 'all fronts' clause died with the MoU",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-14",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "unplaced": "A boundary line across southern Lebanon; no single site.",
+  "related_stories": [
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-08-17-mou-expires",
+   "2026-03-02-hezbollah-joins-war"
   ]
  }
 ]
