@@ -1,0 +1,393 @@
+{
+ "edition": "2000-06-30",
+ "stories": [
+  {
+   "id": "2000-04-elephant-pass",
+   "date": "2000-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Asia-Pacific",
+   "title": "The Tamil Tigers capture Elephant Pass from Sri Lanka's army",
+   "summary": "It was one of the LTTE's biggest victories.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Elephant_Pass"
+    }
+   ],
+   "entities": [
+    "ltte",
+    "sri-lanka"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "military",
+   "where": [
+    "elephant-pass"
+   ]
+  },
+  {
+   "id": "2000-04-sipadan-kidnappings",
+   "date": "2000-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Asia-Pacific",
+   "title": "Abu Sayyaf militants kidnap tourists from Malaysia's Sipadan island",
+   "summary": "The hostages were taken to Jolo in the southern Philippines.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_Sipadan_kidnappings"
+    }
+   ],
+   "entities": [
+    "abu-sayyaf",
+    "philippines"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "strike",
+   "where": [
+    "sipadan"
+   ]
+  },
+  {
+   "id": "2000-05-operation-palliser",
+   "date": "2000-05",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Africa",
+   "title": "British troops land in Sierra Leone",
+   "summary": "The intervention helped end the civil war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Palliser"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "sierra-leone"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "freetown"
+   ]
+  },
+  {
+   "id": "2000-05-19-fiji-coup",
+   "date": "2000-05-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Asia-Pacific",
+   "title": "George Speight's gunmen seize Fiji's parliament",
+   "summary": "They held the government hostage for weeks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_Fijian_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "fiji"
+   ],
+   "marker": "political",
+   "where": [
+    "suva"
+   ]
+  },
+  {
+   "id": "2000-05-israel-leaves-lebanon",
+   "date": "2000-05",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Middle East",
+   "title": "Israel withdraws from southern Lebanon",
+   "summary": "Hezbollah claimed victory and kept its arms.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/South_Lebanon_conflict_%281985%E2%80%932000%29"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "unplaced": "Southern Lebanon."
+  },
+  {
+   "id": "2000-06-kisangani-six-day-war",
+   "date": "2000-06",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Africa",
+   "title": "Rwandan and Ugandan forces fight each other in Kisangani",
+   "summary": "The clash was part of the Second Congo War.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Six-Day_War_%282000%29"
+    }
+   ],
+   "entities": [
+    "drc",
+    "rwanda",
+    "uganda"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "military",
+   "where": [
+    "kisangani"
+   ]
+  },
+  {
+   "id": "2000-06-10-hafez-assad-dies",
+   "date": "2000-06-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Middle East",
+   "title": "Hafez al-Assad dies; his son Bashar succeeds him",
+   "summary": "Bashar ruled Syria until 2024.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hafez_al-Assad"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2000-06-13-inter-korean-summit",
+   "date": "2000-06-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Asia-Pacific",
+   "title": "Kim Dae-jung and Kim Jong-il hold the first inter-Korean summit",
+   "summary": "It was the high point of the Sunshine Policy.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000_inter-Korean_summit"
+    }
+   ],
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "kim-dae-jung",
+    "kim-jong-il"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2000-06-gusinsky-arrested",
+   "date": "2000-06",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Russia/Eurasia",
+   "title": "Media tycoon Vladimir Gusinsky is arrested",
+   "summary": "His NTV channel was later taken over by Gazprom.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Vladimir_Gusinsky"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-gusinsky",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2000-05-13-russia-federal-districts",
+   "date": "2000-05-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+   "region": "Russia/Eurasia",
+   "title": "Putin creates federal districts to rein in Russia's regional governors",
+   "summary": "It was an early step in recentralising power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Federal_districts_of_Russia"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2000-04-elephant-pass"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2000-04-sipadan-kidnappings"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2000-05-operation-palliser"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2000-05-israel-leaves-lebanon",
+    "2000-06-10-hafez-assad-dies"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2000-05-israel-leaves-lebanon"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2000-06-kisangani-six-day-war"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2000-06-13-inter-korean-summit"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2000-06-gusinsky-arrested",
+    "2000-05-13-russia-federal-districts"
+   ]
+  }
+ ]
+}
