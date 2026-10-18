@@ -52869,6 +52869,1539 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2017-12-31": {
+   "sha256": "0ef751899b73bc154e3311bb60e63e363031eefd312b6af0ca1209203ed83a2d",
+   "undo": {
+    "stories": {
+     "2017-10-01-catalan-referendum": null,
+     "2017-10-04-tongo-tongo-ambush": null,
+     "2017-10-14-mogadishu-truck-bomb": null,
+     "2017-10-16-kirkuk-retaken": null,
+     "2017-10-17-raqqa-falls": null,
+     "2017-10-24-xi-thought-enshrined": null,
+     "2017-11-04-saudi-purge-hariri": null,
+     "2017-11-15-mugabe-coup": null,
+     "2017-11-28-hwasong-15": null,
+     "2017-12-04-saleh-killed": null,
+     "2017-12-06-jerusalem-recognition": null,
+     "2017-12-17-bitcoin-futures-peak": null,
+     "2017-12-18-ramaphosa-anc-leader": null,
+     "2017-12-22-tax-cuts-signed": null,
+     "2017-12-28-iran-dey-protests": null,
+     "2018-01-20-operation-olive-branch": {
+      "id": "2018-01-20-operation-olive-branch",
+      "date": "2018-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Middle East",
+      "title": "Turkey invades Syria's Kurdish-held Afrin region",
+      "summary": "Turkish troops and allied Syrian militias attacked the YPG, the core of the US-backed SDF, and took Afrin city on Mar 18.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2018/01/20/middleeast/turkey-syria-military-operation/index.html"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan",
+       "ypg",
+       "sdf",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "military",
+      "unplaced": "Afrin has no coordinates on Wikipedia.",
+      "related_stories": [
+       "2024-12-01-sna-tell-rifaat",
+       "2020-03-05-idlib-ceasefire",
+       "2019-10-09-operation-peace-spring"
+      ]
+     },
+     "2018-02-09-pyeongchang-olympic-thaw": {
+      "id": "2018-02-09-pyeongchang-olympic-thaw",
+      "date": "2018-02-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Asia-Pacific",
+      "title": "North Korea joins the Pyeongchang Winter Olympics, opening a diplomatic thaw",
+      "summary": "Kim Jong Un's sister Kim Yo Jong attended the opening, months after North Korea's 2017 hydrogen-bomb and ICBM tests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Winter_Olympics"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/feb/09/kim-jong-uns-sister-arrives-in-south-korea-for-winter-olympics"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "south-korea",
+       "kim-jong-un",
+       "moon-jae-in"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "pyeongchang"
+      ],
+      "related_stories": [
+       "2020-06-16-liaison-office-blown-up",
+       "2019-06-30-dmz-meeting",
+       "2018-04-27-panmunjom-summit"
+      ]
+     },
+     "2018-02-15-ramaphosa-president": {
+      "id": "2018-02-15-ramaphosa-president",
+      "date": "2018-02-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Africa",
+      "title": "Cyril Ramaphosa replaces Jacob Zuma as South Africa's president",
+      "summary": "The ANC forced Zuma out amid corruption scandals; Ramaphosa promised to clean up 'state capture'.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/feb/16/cyril-ramaphosa-south-africa-president-first-major-speech"
+       }
+      ],
+      "entities": [
+       "south-africa",
+       "cyril-ramaphosa"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "pretoria"
+      ],
+      "related_stories": []
+     },
+     "2018-03-11-xi-term-limits-scrapped": {
+      "id": "2018-03-11-xi-term-limits-scrapped",
+      "date": "2018-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Asia-Pacific",
+      "title": "China scraps presidential term limits, letting Xi rule indefinitely",
+      "summary": "The National People's Congress approved the constitutional amendment, ending the post-Deng two-term norm.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_amendment_to_the_Constitution_of_China"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/03/11/world/asia/china-xi-constitution-term-limits.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2022-10-16-party-congress"
+      ]
+     },
+     "2018-04-14-us-uk-france-strike-syria": {
+      "id": "2018-04-14-us-uk-france-strike-syria",
+      "date": "2018-04-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "US, UK and France fire missiles at Syrian chemical-weapons sites",
+      "summary": "The strikes punished the Douma attack; Russia called them a violation of international law.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_2018_missile_strikes_against_Syria"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/apr/14/syria-air-strikes-us-uk-and-france-launch-attack-on-assad-regime"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "united-kingdom",
+       "france",
+       "syria",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2018-04-07-douma-chemical-attack",
+        "why": "Retaliation for Douma",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "strike",
+      "where": [
+       "damascus"
+      ],
+      "related_stories": [
+       "2018-04-07-douma-chemical-attack",
+       "2022-02-26-swift-cbr",
+       "trump-disgrace-eu-summit",
+       "2021-09-15-aukus",
+       "2019-10-09-operation-peace-spring",
+       "2018-02-07-battle-of-khasham",
+       "2018-05-08-us-quits-jcpoa"
+      ]
+     },
+     "2018-05-14-jerusalem-embassy-gaza": {
+      "id": "2018-05-14-jerusalem-embassy-gaza",
+      "date": "2018-05-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "US opens its embassy in Jerusalem as Israeli fire kills dozens at the Gaza fence",
+      "summary": "The move followed Trump's 2017 recognition of Jerusalem as Israel's capital. About 58 Palestinians were killed the same day in the 'Great March of Return' protests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Jerusalem"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018%E2%80%932019_Gaza_border_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/may/15/palestinians-to-bury-58-people-killed-in-us-embassy-protests"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "israel",
+       "jerusalem",
+       "hamas",
+       "donald-trump"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "us-embassy-jerusalem"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2026-02-28-iran-war-begins",
+       "2026-10-gaza-phase-two-stalled",
+       "2025-06-22-midnight-hammer",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-06-10-unsc-2735",
+       "2020-08-13-abraham-accords",
+       "2020-12-14-sudan-delisted",
+       "2019-03-25-golan-recognition",
+       "2021-05-10-gaza-war"
+      ]
+     },
+     "2018-05-08-us-quits-jcpoa": {
+      "id": "2018-05-08-us-quits-jcpoa",
+      "date": "2018-05-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "Trump withdraws the US from the Iran nuclear deal and restores sanctions",
+      "summary": "France, Germany and Britain said the 2015 deal remained binding; US 'maximum pressure' sanctions, including on oil, were reimposed over the following months.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Iran_nuclear_deal"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/may/08/trump-iran-decision-sanctions-waiver-nuclear-deal-continue"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "iran",
+       "jcpoa",
+       "france",
+       "germany",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "analysis": {
+       "text": "The withdrawal began the cycle of Iranian escalation, tanker attacks and nuclear expansion that ran to the 2025–26 wars.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-09-jcpoa-stall",
+       "gfs-pride-sunk",
+       "trump-disgrace-eu-summit",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "iran-seven-day-hormuz-offer",
+       "2020-01-03-soleimani-killed",
+       "2021-09-15-aukus",
+       "2019-06-20-global-hawk-downed",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2019-05-12-fujairah-tanker-sabotage"
+      ]
+     },
+     "2018-06-24-erdogan-executive-president": {
+      "id": "2018-06-24-erdogan-executive-president",
+      "date": "2018-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "Erdoğan wins election under Turkey's new executive presidency",
+      "summary": "The win activated sweeping powers approved in a 2017 referendum, abolishing the prime minister's office.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Turkish_presidential_election"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": []
+     },
+     "2018-07-30-zimbabwe-election": {
+      "id": "2018-07-30-zimbabwe-election",
+      "date": "2018-07-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Africa",
+      "title": "Mnangagwa wins Zimbabwe's first post-Mugabe election",
+      "summary": "The vote came eight months after the 2017 coup; soldiers shot protesters in Harare as results were delayed.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Zimbabwean_general_election"
+       }
+      ],
+      "entities": [
+       "zimbabwe",
+       "emmerson-mnangagwa"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "harare"
+      ],
+      "related_stories": []
+     },
+     "2018-10-02-khashoggi-killed": {
+      "id": "2018-10-02-khashoggi-killed",
+      "date": "2018-10-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-12-31",
+      "region": "Middle East",
+      "title": "Saudi agents kill journalist Jamal Khashoggi in the Istanbul consulate",
+      "summary": "A 15-member squad strangled and dismembered him; Turkey leaked recordings and the CIA concluded MBS approved the operation. Riyadh denied the crown prince's involvement.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2018/10/22/middleeast/saudi-operative-jamal-khashoggi-clothes/index.html"
+       }
+      ],
+      "entities": [
+       "jamal-khashoggi",
+       "saudi-arabia",
+       "mohammed-bin-salman",
+       "turkey"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-12-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "istanbul"
+      ],
+      "related_stories": [
+       "2018-12-13-stockholm-agreement",
+       "2025-05-13-trump-lifts-syria-sanctions"
+      ]
+     },
+     "2018-03-08-steel-aluminum-tariffs": {
+      "id": "2018-03-08-steel-aluminum-tariffs",
+      "date": "2018-03-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Americas",
+      "title": "Trump imposes 25% steel and 10% aluminium tariffs on national-security grounds",
+      "summary": "The Section 232 tariffs hit allies as well as China; the EU, Canada and Mexico retaliated.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "china",
+       "european-union",
+       "canada",
+       "mexico"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "us-tariffs-trade",
+       "transatlantic-rift"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "rare-earth-nov10",
+       "2022-06-14-msp",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-01-21-greenland-davos",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-07-27-eu-us-turnberry",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2020-01-15-phase-one-deal",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-08-10-turkish-lira-crash",
+       "2018-09-30-usmca-deal"
+      ]
+     },
+     "2018-08-27-un-myanmar-genocide-call": {
+      "id": "2018-08-27-un-myanmar-genocide-call",
+      "date": "2018-08-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "UN investigators call for Myanmar's generals to be tried for genocide",
+      "summary": "The fact-finding mission named commander Min Aung Hlaing over the 2017 expulsion of Rohingya; Facebook removed his account.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rohingya_genocide"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing",
+       "rohingya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "UN report.",
+      "related_stories": [
+       "2019-11-11-gambia-v-myanmar"
+      ]
+     },
+     "2018-11-25-brexit-deal-endorsed": {
+      "id": "2018-11-25-brexit-deal-endorsed",
+      "date": "2018-11-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-12-31",
+      "region": "Europe",
+      "title": "EU leaders endorse Theresa May's Brexit withdrawal agreement",
+      "summary": "The House of Commons rejected the deal three times in 2019, forcing May out.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2018/11/25/670626957/european-union-leaders-approve-brexit-plan"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "european-union",
+       "theresa-may"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-12-31",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2019-07-24-johnson-pm"
+      ]
+     },
+     "2018-12-13-stockholm-agreement": {
+      "id": "2018-12-13-stockholm-agreement",
+      "date": "2018-12-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-12-31",
+      "region": "Middle East",
+      "title": "UN-brokered Stockholm deal halts the battle for Hodeidah",
+      "summary": "The ceasefire gave both sides 21 days to withdraw from the port city; it largely froze the front.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Hodeidah"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "yemen",
+       "saudi-arabia",
+       "uae"
+      ],
+      "causes": [
+       {
+        "story": "2018-06-13-hodeidah-offensive",
+        "why": "Ended the Hodeidah offensive",
+        "confidence": "likely"
+       },
+       {
+        "story": "2018-10-02-khashoggi-killed",
+        "why": "Pressure on Riyadh after Khashoggi",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2018-12-31",
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "hodeidah"
+      ],
+      "related_stories": [
+       "2018-06-13-hodeidah-offensive",
+       "2018-10-02-khashoggi-killed",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "2026-01-09-stc-dissolution",
+       "2026-07-20-houthi-saudi-blockade",
+       "2025-12-03-stc-seizes-hadramawt",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift",
+       "2018-08-09-dahyan-bus-strike"
+      ]
+     },
+     "2018-02-18-eastern-ghouta-assault": {
+      "id": "2018-02-18-eastern-ghouta-assault",
+      "date": "2018-02-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Middle East",
+      "title": "Assad's forces launch the final assault on rebel-held Eastern Ghouta",
+      "summary": "The bombardment of the besieged enclave outside Damascus killed hundreds; the UN Security Council demanded a ceasefire on Feb 24, but the offensive went on until the rebels surrendered in April.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Eastern_Ghouta"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/feb/20/its-not-a-war-its-a-massacre-scores-killed-in-syrian-enclave-eastern-ghouta"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "military",
+      "where": [
+       "damascus"
+      ],
+      "related_stories": [
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2020-03-05-idlib-ceasefire",
+       "2018-04-07-douma-chemical-attack"
+      ]
+     },
+     "2019-02-28-hanoi-summit": {
+      "id": "2019-02-28-hanoi-summit",
+      "date": "2019-02-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Asia-Pacific",
+      "title": "Trump–Kim summit in Hanoi collapses without a deal",
+      "summary": "The second summit was cut short over North Korea's demand for sanctions relief; Trump said Kim wanted all sanctions lifted.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_North_Korea%E2%80%93United_States_Hanoi_Summit"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2019/02/28/white-house-trump-kim-meetings-change-of-schedule.html"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "kim-jong-un",
+       "north-korea",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2018-06-12-singapore-summit",
+        "why": "Follow-up to Singapore",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "where": [
+       "hanoi"
+      ],
+      "related_stories": [
+       "2018-06-12-singapore-summit",
+       "2020-06-16-liaison-office-blown-up",
+       "2019-06-30-dmz-meeting"
+      ],
+      "revisions": [
+       {
+        "edition": "2018-12-31",
+        "why": "2018 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2021-01-05-al-ula-qatar": {
+      "id": "2021-01-05-al-ula-qatar",
+      "date": "2021-01-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-03-31",
+      "region": "Middle East",
+      "title": "Saudi Arabia and its allies end the Qatar blockade at the Al-Ula summit",
+      "summary": "Riyadh reopened its airspace and land border with Qatar on Jan 4, and at the GCC summit in Al-Ula the next day Saudi Arabia, the UAE, Bahrain and Egypt agreed to restore ties, ending a rift that began in 2017.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Qatar%E2%80%93Saudi_Arabia_relations"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Qatar_diplomatic_crisis"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2021/01/04/world/qatar-and-saudi-arabia-reopen-airspace-intl/index.html"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "qatar",
+       "uae",
+       "bahrain",
+       "egypt",
+       "mohammed-bin-salman"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-03-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "diplomacy",
+      "unplaced": "Summit in Al-Ula, Saudi Arabia; no verified pin.",
+      "related_stories": [
+       "2023-08-24-brics-expansion"
+      ]
+     },
+     "2021-02-01-myanmar-coup": {
+      "id": "2021-02-01-myanmar-coup",
+      "date": "2021-02-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-03-31",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's military seizes power and detains Aung San Suu Kyi",
+      "summary": "On the day before the new parliament was to sit, the army declared the 2020 election invalid, proclaimed a state of emergency and handed power to Min Aung Hlaing. Armed resistance by the People's Defence Force followed the crackdown on protests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2021/2/1/world-reacts-to-military-coup-in-myanmar"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2021/02/01/962758188/myanmar-coup-military-detains-aung-san-suu-kyi-plans-new-election-in-2022"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing",
+       "aung-san-suu-kyi"
+      ],
+      "causes": [
+       {
+        "story": "2020-11-08-myanmar-election",
+        "why": "Army rejected the NLD landslide",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-03-31",
+      "analysis": {
+       "text": "The coup started the civil war that later produced Operation 1027 and the junta's 2025–26 election.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "where": [
+       "naypyidaw"
+      ],
+      "related_stories": [
+       "2020-11-08-myanmar-election",
+       "2023-10-27-operation-1027",
+       "2026-01-30-myanmar-junta-election"
+      ]
+     },
+     "2017-09-25-kurdish-referendum": {
+      "id": "2017-09-25-kurdish-referendum",
+      "date": "2017-09-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-09-30",
+      "region": "Middle East",
+      "title": "Iraqi Kurds vote 93% for independence in a referendum Baghdad rejects",
+      "summary": "Masoud Barzani went ahead despite opposition from Baghdad, Turkey, Iran and the US.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_Kurdistan_Region_independence_referendum"
+       }
+      ],
+      "entities": [
+       "kurdistan-region",
+       "masoud-barzani",
+       "iraq",
+       "turkey",
+       "iran"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-09-30",
+      "storylines": [
+       "iran-proxy-network"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "erbil"
+      ],
+      "related_stories": []
+     },
+     "2017-06-21-mbs-crown-prince": {
+      "id": "2017-06-21-mbs-crown-prince",
+      "date": "2017-06-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-06-30",
+      "region": "Middle East",
+      "title": "Mohammed bin Salman is named Saudi crown prince",
+      "summary": "King Salman removed his nephew Mohammed bin Nayef, making his 31-year-old son heir and the architect of Vision 2030.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "http://www.aljazeera.com/news/2017/06/saudi-arabia-appoints-king-salman-son-crown-prince-170621033707437.html"
+       }
+      ],
+      "entities": [
+       "mohammed-bin-salman",
+       "saudi-arabia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-06-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": []
+     },
+     "2017-09-03-north-korea-sixth-nuclear-test": {
+      "id": "2017-09-03-north-korea-sixth-nuclear-test",
+      "date": "2017-09-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-09-30",
+      "region": "Asia-Pacific",
+      "title": "North Korea conducts its sixth and largest nuclear test",
+      "summary": "Pyongyang claimed a hydrogen bomb; the blast caused a magnitude-6.3 tremor at Punggye-ri.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2017/sep/03/north-korea-nuclear-test-what-we-know-so-far"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [
+       {
+        "story": "2017-07-04-hwasong-14-icbm",
+        "why": "Weapons push",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2017-09-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "military",
+      "where": [
+       "punggye-ri"
+      ],
+      "related_stories": [
+       "2017-07-04-hwasong-14-icbm"
+      ]
+     },
+     "2017-01-23-astana-talks": {
+      "id": "2017-01-23-astana-talks",
+      "date": "2017-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-03-31",
+      "region": "Middle East",
+      "title": "Russia, Turkey and Iran open Syria talks in Astana",
+      "summary": "The Astana process sidelined Western-led UN diplomacy and later produced 'de-escalation zones', including Idlib.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syrian_peace_process"
+       }
+      ],
+      "entities": [
+       "russia",
+       "turkey",
+       "iran",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "diplomacy",
+      "where": [
+       "astana"
+      ],
+      "related_stories": [
+       "2022-07-19-putin-tehran",
+       "2024-12-08-assad-falls",
+       "2024-11-30-aleppo-falls",
+       "2020-03-05-idlib-ceasefire",
+       "2019-10-09-operation-peace-spring",
+       "2018-09-17-idlib-sochi-deal"
+      ]
+     },
+     "2017-01-20-trump-inaugurated": {
+      "id": "2017-01-20-trump-inaugurated",
+      "date": "2017-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-03-31",
+      "region": "Americas",
+      "title": "Donald Trump is inaugurated promising 'America First'",
+      "summary": "His first presidency reshaped US trade, alliance and Middle East policy; he returned to office in 2025.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-03-31",
+      "storylines": [
+       "transatlantic-rift",
+       "us-tariffs-trade"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2017-01-23-us-quits-tpp",
+       "2017-01-27-travel-ban"
+      ]
+     },
+     "2017-04-16-turkey-referendum": {
+      "id": "2017-04-16-turkey-referendum",
+      "date": "2017-04-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-06-30",
+      "region": "Middle East",
+      "title": "Turks narrowly approve Erdoğan's executive presidency",
+      "summary": "The constitutional changes abolished the prime minister's office after the 2016 coup attempt; the opposition contested the count.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_Turkish_constitutional_referendum"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2017/04/16/world/europe/turkey-referendum-polls-erdogan.html"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-06-30",
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "unplaced": "National referendum.",
+      "related_stories": []
+     },
+     "2017-01-23-us-quits-tpp": {
+      "id": "2017-01-23-us-quits-tpp",
+      "date": "2017-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-03-31",
+      "region": "Americas",
+      "title": "Trump pulls the US out of the Trans-Pacific Partnership",
+      "summary": "Withdrawing from the 12-nation trade pact, a centrepiece of Obama's pivot to Asia, was one of his first acts; the other 11 signed a revised CPTPP in 2018.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trans-Pacific_Partnership"
+       },
+       {
+        "name": "CNN",
+        "url": "http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "japan"
+      ],
+      "causes": [
+       {
+        "story": "2017-01-20-trump-inaugurated",
+        "why": "America First trade agenda",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2017-03-31",
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "diplomacy",
+      "unplaced": "Executive memorandum.",
+      "related_stories": [
+       "2017-01-20-trump-inaugurated"
+      ]
+     },
+     "2017-08-25-rohingya-exodus": {
+      "id": "2017-08-25-rohingya-exodus",
+      "date": "2017-08-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-09-30",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's army launches 'clearance operations', driving 700,000 Rohingya into Bangladesh",
+      "summary": "After ARSA militants attacked police posts in Rakhine, troops burned villages and killed thousands; the UN later called it genocide.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rohingya_genocide"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "http://www.aljazeera.com/news/2017/08/government-dismisses-claims-abuse-rohingya-170806095548889.html"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "rohingya",
+       "arsa",
+       "bangladesh",
+       "min-aung-hlaing"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2017 (Trump's first year)",
+      "marker": "military",
+      "unplaced": "Northern Rakhine state, many villages.",
+      "related_stories": [
+       "2018-08-27-un-myanmar-genocide-call"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "saudi-arabia--rivalry--qatar": null,
+     "turkey--rivalry--ypg": null,
+     "united-states--alliance--sdf": null
+    },
+    "storylines": {
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2023-10-08-hezbollah-support-front",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2020-05-07-kadhimi-pm",
+       "2019-10-01-iraq-protests",
+       "2019-12-27-k1-rocket-attack",
+       "2019-12-29-us-strikes-kataib-hezbollah",
+       "2019-12-31-baghdad-embassy-siege",
+       "2017-09-25-kurdish-referendum"
+      ],
+      "source": "threads.md"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated"
+      ],
+      "source": "inbox"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-09-15-aukus",
+       "2021-10-04-kishida-pm",
+       "2023-02-04-spy-balloon",
+       "2023-08-05-second-thomas-shoal-water-cannon",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-01-02-xi-taiwan-speech",
+       "2019-06-09-hong-kong-protests",
+       "2018-03-11-xi-term-limits-scrapped"
+      ],
+      "source": "threads.md"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted",
+       "2021-01-05-al-ula-qatar",
+       "2019-12-11-aramco-ipo",
+       "2018-10-02-khashoggi-killed",
+       "2017-06-05-qatar-blockade",
+       "2017-06-21-mbs-crown-prince"
+      ],
+      "source": "inbox"
+     },
+     "korean-peninsula": {
+      "id": "korean-peninsula",
+      "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+      "entities": [
+       "south-korea",
+       "north-korea",
+       "russia",
+       "yoon-suk-yeol",
+       "lee-jae-myung",
+       "kim-jong-un"
+      ],
+      "stories": [
+       "2025-04-04-yoon-removed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-06-03-lee-jae-myung-elected",
+       "2025-10-10-hwasong-20-parade",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-02-19-yoon-life-sentence",
+       "2026-03-29-hwasong-20-engine-test",
+       "2026-09-20-dprk-hypersonic-test",
+       "2024-06-19-putin-kim-treaty",
+       "2024-10-18-dprk-troops-to-russia",
+       "2024-12-03-yoon-martial-law",
+       "2025-03-13-kursk-exit",
+       "2020-06-16-liaison-office-blown-up",
+       "2023-09-13-kim-putin-vostochny",
+       "2025-04-26-russia-claims-kursk",
+       "2019-02-28-hanoi-summit",
+       "2019-06-30-dmz-meeting",
+       "2018-02-09-pyeongchang-olympic-thaw",
+       "2018-04-27-panmunjom-summit",
+       "2018-06-12-singapore-summit",
+       "2017-02-13-kim-jong-nam-killed",
+       "2017-03-06-thaad-deployed",
+       "2017-03-10-park-removed",
+       "2017-07-04-hwasong-14-icbm",
+       "2017-09-03-north-korea-sixth-nuclear-test"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-03-06-true-confidence",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2024-12-26-suez-revenue-loss",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift",
+       "2019-09-14-abqaiq-attack",
+       "2018-06-13-hodeidah-offensive",
+       "2018-08-09-dahyan-bus-strike",
+       "2018-12-13-stockholm-agreement"
+      ],
+      "source": "threads.md"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2026-04-07-hormuz-resolution-veto",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-07-19-stena-impero-seized",
+       "2019-09-14-abqaiq-attack",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-05-19-rouhani-reelected"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

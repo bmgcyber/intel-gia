@@ -30764,7 +30764,13 @@
    "egypt",
    "mohammed-bin-salman"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-06-05-qatar-blockade",
+    "why": "Ended the 2017 blockade",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2021-03-31",
   "storylines": [
@@ -30774,7 +30780,17 @@
   "marker": "diplomacy",
   "unplaced": "Summit in Al-Ula, Saudi Arabia; no verified pin.",
   "related_stories": [
+   "2017-06-05-qatar-blockade",
    "2023-08-24-brics-expansion"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -30957,6 +30973,11 @@
     "story": "2020-11-08-myanmar-election",
     "why": "Army rejected the NLD landslide",
     "confidence": "likely"
+   },
+   {
+    "story": "2017-08-25-rohingya-exodus",
+    "why": "Military impunity after 2017",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -30975,8 +30996,18 @@
   ],
   "related_stories": [
    "2020-11-08-myanmar-election",
-   "2023-10-27-operation-1027",
-   "2026-01-30-myanmar-junta-election"
+   "2017-08-25-rohingya-exodus",
+   "2026-01-30-myanmar-junta-election",
+   "2023-10-27-operation-1027"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -35250,6 +35281,11 @@
     "story": "2018-06-12-singapore-summit",
     "why": "Follow-up to Singapore",
     "confidence": "likely"
+   },
+   {
+    "story": "2017-09-03-north-korea-sixth-nuclear-test",
+    "why": "Nuclear programme at stake",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -35264,13 +35300,24 @@
   ],
   "related_stories": [
    "2018-06-12-singapore-summit",
+   "2017-09-03-north-korea-sixth-nuclear-test",
    "2020-06-16-liaison-office-blown-up",
-   "2019-06-30-dmz-meeting"
+   "2019-06-30-dmz-meeting",
+   "2017-07-04-hwasong-14-icbm",
+   "2017-08-02-caatsa",
+   "2017-11-28-hwasong-15"
   ],
   "revisions": [
    {
     "edition": "2018-12-31",
     "why": "2018 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -37451,7 +37498,18 @@
    "sdf",
    "syria"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-10-17-raqqa-falls",
+    "why": "With IS beaten, Turkey turned on the YPG",
+    "confidence": "possible"
+   },
+   {
+    "story": "2017-01-23-astana-talks",
+    "why": "Russia–Turkey bargaining over Syria",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -37461,9 +37519,21 @@
   "marker": "military",
   "unplaced": "Afrin has no coordinates on Wikipedia.",
   "related_stories": [
+   "2017-10-17-raqqa-falls",
+   "2017-01-23-astana-talks",
+   "2019-10-09-operation-peace-spring",
    "2024-12-01-sna-tell-rifaat",
    "2020-03-05-idlib-ceasefire",
-   "2019-10-09-operation-peace-spring"
+   "2018-09-17-idlib-sochi-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -37534,7 +37604,13 @@
    "kim-jong-un",
    "moon-jae-in"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-11-28-hwasong-15",
+    "why": "Kim declared his deterrent complete",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -37546,9 +37622,19 @@
    "pyeongchang"
   ],
   "related_stories": [
+   "2017-11-28-hwasong-15",
+   "2018-04-27-panmunjom-summit",
    "2020-06-16-liaison-office-blown-up",
-   "2019-06-30-dmz-meeting",
-   "2018-04-27-panmunjom-summit"
+   "2019-06-30-dmz-meeting"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -37574,7 +37660,13 @@
    "south-africa",
    "cyril-ramaphosa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-12-18-ramaphosa-anc-leader",
+    "why": "ANC recalled Zuma",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "era": "2018 (trade war and summitry)",
@@ -37582,7 +37674,18 @@
   "where": [
    "pretoria"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2017-12-18-ramaphosa-anc-leader"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2018-02-18-eastern-ghouta-assault",
@@ -37608,7 +37711,13 @@
    "bashar-al-assad",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-01-23-astana-talks",
+    "why": "Ghouta was an Astana de-escalation zone",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -37620,10 +37729,21 @@
    "damascus"
   ],
   "related_stories": [
+   "2017-01-23-astana-talks",
+   "2018-04-07-douma-chemical-attack",
    "2024-12-08-assad-falls",
    "2024-11-30-aleppo-falls",
    "2020-03-05-idlib-ceasefire",
-   "2018-04-07-douma-chemical-attack"
+   "2018-06-19-southern-syria-offensive"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -37720,7 +37840,13 @@
    "canada",
    "mexico"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-01-23-us-quits-tpp",
+    "why": "America First trade turn",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -37733,6 +37859,10 @@
    "washington-dc"
   ],
   "related_stories": [
+   "2017-01-23-us-quits-tpp",
+   "2018-07-06-us-china-tariffs-begin",
+   "2018-08-10-turkish-lira-crash",
+   "2018-09-30-usmca-deal",
    "rare-earth-nov10",
    "2022-06-14-msp",
    "trump-disgrace-eu-summit",
@@ -37751,9 +37881,17 @@
    "2020-01-15-phase-one-deal",
    "2019-05-10-us-china-tariffs-escalate",
    "2019-05-15-huawei-entity-list",
-   "2018-07-06-us-china-tariffs-begin",
-   "2018-08-10-turkish-lira-crash",
-   "2018-09-30-usmca-deal"
+   "2018-10-12-migrant-caravan",
+   "2018-12-01-meng-wanzhou-arrested"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -37779,7 +37917,13 @@
    "china",
    "xi-jinping"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-10-24-xi-thought-enshrined",
+    "why": "No successor named at the 19th Congress",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -37791,7 +37935,17 @@
    "beijing"
   ],
   "related_stories": [
+   "2017-10-24-xi-thought-enshrined",
    "2022-10-16-party-congress"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -37940,6 +38094,11 @@
     "story": "2018-04-07-douma-chemical-attack",
     "why": "Retaliation for Douma",
     "confidence": "likely"
+   },
+   {
+    "story": "2017-04-07-shayrat-strike",
+    "why": "Repeat of the 2017 reprisal",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -37954,12 +38113,22 @@
   ],
   "related_stories": [
    "2018-04-07-douma-chemical-attack",
+   "2017-04-07-shayrat-strike",
    "2022-02-26-swift-cbr",
    "trump-disgrace-eu-summit",
    "2021-09-15-aukus",
    "2019-10-09-operation-peace-spring",
    "2018-02-07-battle-of-khasham",
    "2018-05-08-us-quits-jcpoa"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -38143,7 +38312,13 @@
    "germany",
    "united-kingdom"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-01-20-trump-inaugurated",
+    "why": "Trump campaign pledge",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-06-30",
   "analysis": {
@@ -38159,8 +38334,10 @@
    "washington-dc"
   ],
   "related_stories": [
-   "us-iran-talks-deadlock",
+   "2017-01-20-trump-inaugurated",
    "2021-11-29-jcpoa-vienna",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "us-iran-talks-deadlock",
    "2022-09-jcpoa-stall",
    "gfs-pride-sunk",
    "trump-disgrace-eu-summit",
@@ -38175,7 +38352,17 @@
    "2021-09-15-aukus",
    "2019-06-20-global-hawk-downed",
    "2018-04-14-us-uk-france-strike-syria",
-   "2019-05-12-fujairah-tanker-sabotage"
+   "2017-01-27-travel-ban",
+   "2017-08-02-caatsa"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -38244,7 +38431,13 @@
    "hamas",
    "donald-trump"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-12-06-jerusalem-recognition",
+    "why": "Embassy move ordered",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-06-30",
   "storylines": [
@@ -38256,6 +38449,9 @@
    "us-embassy-jerusalem"
   ],
   "related_stories": [
+   "2017-12-06-jerusalem-recognition",
+   "2021-05-10-gaza-war",
+   "2019-03-25-golan-recognition",
    "us-iran-talks-deadlock",
    "2026-02-28-iran-war-begins",
    "2026-10-gaza-phase-two-stalled",
@@ -38266,9 +38462,16 @@
    "2023-11-24-gaza-hostage-truce",
    "2024-06-10-unsc-2735",
    "2020-08-13-abraham-accords",
-   "2020-12-14-sudan-delisted",
-   "2019-03-25-golan-recognition",
-   "2021-05-10-gaza-war"
+   "2020-12-14-sudan-delisted"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -38464,13 +38667,30 @@
    "turkey",
    "recep-tayyip-erdogan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-04-16-turkey-referendum",
+    "why": "Activated the new system",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-06-30",
   "era": "2018 (trade war and summitry)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [
+   "2017-04-16-turkey-referendum"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2018-06-19-southern-syria-offensive",
@@ -38804,7 +39024,13 @@
    "zimbabwe",
    "emmerson-mnangagwa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-11-15-mugabe-coup",
+    "why": "First vote after the coup",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-09-30",
   "era": "2018 (trade war and summitry)",
@@ -38812,7 +39038,18 @@
   "where": [
    "harare"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2017-11-15-mugabe-coup"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2018-08-09-dahyan-bus-strike",
@@ -38965,7 +39202,13 @@
    "min-aung-hlaing",
    "rohingya"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-08-25-rohingya-exodus",
+    "why": "Investigated the 2017 operations",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-09-30",
   "storylines": [
@@ -38975,7 +39218,17 @@
   "marker": "political",
   "unplaced": "UN report.",
   "related_stories": [
+   "2017-08-25-rohingya-exodus",
    "2019-11-11-gambia-v-myanmar"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -39104,7 +39357,13 @@
    "mohammed-bin-salman",
    "turkey"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-11-04-saudi-purge-hariri",
+    "why": "MBS crackdown on critics",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-12-31",
   "storylines": [
@@ -39116,8 +39375,19 @@
    "istanbul"
   ],
   "related_stories": [
+   "2017-11-04-saudi-purge-hariri",
    "2018-12-13-stockholm-agreement",
-   "2025-05-13-trump-lifts-syria-sanctions"
+   "2025-05-13-trump-lifts-syria-sanctions",
+   "2017-06-05-qatar-blockade"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -39325,7 +39595,13 @@
    "european-union",
    "theresa-may"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2017-03-29-article-50",
+    "why": "Negotiated under Article 50",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-12-31",
   "storylines": [
@@ -39337,7 +39613,17 @@
    "brussels"
   ],
   "related_stories": [
+   "2017-03-29-article-50",
    "2019-07-24-johnson-pm"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -39422,6 +39708,11 @@
     "story": "2018-10-02-khashoggi-killed",
     "why": "Pressure on Riyadh after Khashoggi",
     "confidence": "possible"
+   },
+   {
+    "story": "2017-12-04-saleh-killed",
+    "why": "Houthis consolidated the north",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -39437,6 +39728,7 @@
   "related_stories": [
    "2018-06-13-hodeidah-offensive",
    "2018-10-02-khashoggi-killed",
+   "2017-12-04-saleh-killed",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
    "2022-01-abu-dhabi-attack",
@@ -39455,6 +39747,15 @@
    "2020-04-25-stc-self-rule",
    "2021-02-04-biden-yemen-shift",
    "2018-08-09-dahyan-bus-strike"
+  ],
+  "revisions": [
+   {
+    "edition": "2017-12-31",
+    "why": "2017 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -39522,7 +39823,8 @@
   ],
   "related_stories": [
    "2017-01-23-us-quits-tpp",
-   "2017-01-27-travel-ban"
+   "2017-01-27-travel-ban",
+   "2018-05-08-us-quits-jcpoa"
   ]
  },
  {
@@ -39593,7 +39895,8 @@
   "marker": "diplomacy",
   "unplaced": "Executive memorandum.",
   "related_stories": [
-   "2017-01-20-trump-inaugurated"
+   "2017-01-20-trump-inaugurated",
+   "2018-03-08-steel-aluminum-tariffs"
   ]
  },
  {
@@ -39634,7 +39937,9 @@
    "2024-11-30-aleppo-falls",
    "2020-03-05-idlib-ceasefire",
    "2019-10-09-operation-peace-spring",
-   "2018-09-17-idlib-sochi-deal"
+   "2018-09-17-idlib-sochi-deal",
+   "2018-01-20-operation-olive-branch",
+   "2018-02-18-eastern-ghouta-assault"
   ]
  },
  {
@@ -39967,7 +40272,9 @@
   "era": "2017 (Trump's first year)",
   "marker": "political",
   "unplaced": "National referendum.",
-  "related_stories": []
+  "related_stories": [
+   "2018-06-24-erdogan-executive-president"
+  ]
  },
  {
   "id": "2017-05-07-macron-elected",
@@ -40331,7 +40638,9 @@
   "where": [
    "riyadh"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2017-11-04-saudi-purge-hariri"
+  ]
  },
  {
   "id": "2017-07-04-hwasong-14-icbm",
@@ -40592,7 +40901,8 @@
   "marker": "military",
   "unplaced": "Northern Rakhine state, many villages.",
   "related_stories": [
-   "2018-08-27-un-myanmar-genocide-call"
+   "2018-08-27-un-myanmar-genocide-call",
+   "2021-02-01-myanmar-coup"
   ]
  },
  {
@@ -40669,7 +40979,9 @@
    "punggye-ri"
   ],
   "related_stories": [
-   "2017-07-04-hwasong-14-icbm"
+   "2017-07-04-hwasong-14-icbm",
+   "2017-11-28-hwasong-15",
+   "2019-02-28-hanoi-summit"
   ]
  },
  {
@@ -40735,6 +41047,598 @@
   "marker": "political",
   "where": [
    "erbil"
+  ],
+  "related_stories": [
+   "2017-10-16-kirkuk-retaken"
+  ]
+ },
+ {
+  "id": "2017-10-01-catalan-referendum",
+  "date": "2017-10-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Europe",
+  "title": "Catalonia holds a banned independence referendum",
+  "summary": "Police raided polling stations; the regional parliament declared independence on Oct 27 and Madrid imposed direct rule.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum"
+   },
+   {
+    "name": "CNN",
+    "url": "http://www.cnn.com/2017/10/01/europe/catalonia-spain-independence-referendum-result/index.html"
+   }
+  ],
+  "entities": [
+   "spain",
+   "catalonia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "barcelona"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-10-04-tongo-tongo-ambush",
+  "date": "2017-10-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Africa",
+  "title": "Islamic State fighters kill four US soldiers in Niger",
+  "summary": "The ambush at Tongo Tongo revealed the scale of the US military presence in the Sahel.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tongo_Tongo_ambush"
+   },
+   {
+    "name": "CNN",
+    "url": "http://www.cnn.com/2017/10/18/politics/us-niger-investigation-what-we-know/index.html"
+   }
+  ],
+  "entities": [
+   "niger",
+   "united-states",
+   "islamic-state-sahel"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "tongo-tongo"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-10-14-mogadishu-truck-bomb",
+  "date": "2017-10-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Africa",
+  "title": "Truck bomb kills at least 587 in Mogadishu",
+  "summary": "It was the deadliest attack in Somalia's history and was blamed on al-Shabaab.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/14_October_2017_Mogadishu_bombings"
+   }
+  ],
+  "entities": [
+   "somalia",
+   "al-shabaab"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "strike",
+  "where": [
+   "mogadishu"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-10-16-kirkuk-retaken",
+  "date": "2017-10-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "Iraqi forces and Iran-backed militias retake Kirkuk from the Kurds",
+  "summary": "The Peshmerga withdrew from Kirkuk and other disputed areas held since 2014; Barzani resigned weeks later.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017_Iraqi%E2%80%93Kurdish_conflict"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2017/10/16/world/middleeast/kirkuk-iraq-kurds.html"
+   }
+  ],
+  "entities": [
+   "iraq",
+   "kurdistan-region",
+   "haider-al-abadi",
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "2017-09-25-kurdish-referendum",
+    "why": "Baghdad's response to the referendum",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "iran-proxy-network"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "kirkuk"
+  ],
+  "related_stories": [
+   "2017-09-25-kurdish-referendum"
+  ]
+ },
+ {
+  "id": "2017-10-17-raqqa-falls",
+  "date": "2017-10-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "US-backed SDF captures Raqqa, the Islamic State's capital",
+  "summary": "The four-month battle left most of the city destroyed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Raqqa_%282017%29"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2017/oct/06/the-fall-of-raqqa-hunting-the-last-jihadists-in-isiss-capital-of-cruelty"
+   }
+  ],
+  "entities": [
+   "sdf",
+   "islamic-state",
+   "united-states",
+   "syria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "raqqa"
+  ],
+  "related_stories": [
+   "2018-01-20-operation-olive-branch",
+   "2026-08-20-sdf-integration",
+   "2019-03-23-baghuz-caliphate-ends",
+   "2019-10-09-operation-peace-spring",
+   "2018-02-07-battle-of-khasham"
+  ]
+ },
+ {
+  "id": "2017-10-24-xi-thought-enshrined",
+  "date": "2017-10-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Asia-Pacific",
+  "title": "China's 19th Party Congress writes 'Xi Jinping Thought' into the party constitution",
+  "summary": "Xi named no successor, setting up the 2018 removal of presidential term limits.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/19th_National_Congress_of_the_Chinese_Communist_Party"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2017/oct/24/xi-jinping-mao-thought-on-socialism-china-constitution"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": [
+   "2018-03-11-xi-term-limits-scrapped"
+  ]
+ },
+ {
+  "id": "2017-11-04-saudi-purge-hariri",
+  "date": "2017-11-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "MBS detains princes at the Ritz-Carlton as Lebanon's Hariri resigns from Riyadh",
+  "summary": "An anti-corruption purge consolidated the crown prince's power. The same day Saad Hariri announced his resignation from Riyadh in a move widely seen as Saudi pressure on Hezbollah; he withdrew it after returning to Beirut.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017%E2%80%932019_Saudi_Arabian_purge"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017_Lebanon%E2%80%93Saudi_Arabia_dispute"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2017/11/04/world/middleeast/saudi-arabia-waleed-bin-talal.html"
+   }
+  ],
+  "entities": [
+   "mohammed-bin-salman",
+   "saudi-arabia",
+   "saad-hariri",
+   "lebanon",
+   "hezbollah"
+  ],
+  "causes": [
+   {
+    "story": "2017-06-21-mbs-crown-prince",
+    "why": "Consolidating power as heir",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2017-06-21-mbs-crown-prince",
+   "2018-10-02-khashoggi-killed"
+  ]
+ },
+ {
+  "id": "2017-11-15-mugabe-coup",
+  "date": "2017-11-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Africa",
+  "title": "Zimbabwe's army takes control and ends Robert Mugabe's 37-year rule",
+  "summary": "The military moved after Mugabe sacked vice-president Emmerson Mnangagwa; Mugabe resigned on Nov 21 and Mnangagwa took over.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017_Zimbabwean_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2017/nov/15/mugabe-family-military-takes-control-zimbabwe-mnangagwa"
+   }
+  ],
+  "entities": [
+   "zimbabwe",
+   "robert-mugabe",
+   "emmerson-mnangagwa"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "harare"
+  ],
+  "related_stories": [
+   "2018-07-30-zimbabwe-election"
+  ]
+ },
+ {
+  "id": "2017-11-28-hwasong-15",
+  "date": "2017-11-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Asia-Pacific",
+  "title": "North Korea tests the Hwasong-15, a missile able to reach all of the US",
+  "summary": "Kim then declared his nuclear force 'complete' and in his New Year speech offered to join the Pyeongchang Olympics.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hwasong-15"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2017/11/29/asia/north-korea-hwasong-15-missile/index.html"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2017-09-03-north-korea-sixth-nuclear-test",
+    "why": "Completing the deterrent",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "unplaced": "Missile test.",
+  "related_stories": [
+   "2017-09-03-north-korea-sixth-nuclear-test",
+   "2018-02-09-pyeongchang-olympic-thaw",
+   "2019-02-28-hanoi-summit",
+   "2018-06-12-singapore-summit",
+   "2017-07-04-hwasong-14-icbm"
+  ]
+ },
+ {
+  "id": "2017-12-04-saleh-killed",
+  "date": "2017-12-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "Houthis kill former Yemeni president Ali Abdullah Saleh",
+  "summary": "Saleh had broken with his Houthi allies and reached out to the Saudi coalition; Houthi fighters killed him in Sanaa, leaving them in sole control of the north.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh"
+   }
+  ],
+  "entities": [
+   "ali-abdullah-saleh",
+   "houthis",
+   "yemen",
+   "saudi-arabia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "yemen-houthis-saudi"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "military",
+  "where": [
+   "sanaa"
+  ],
+  "related_stories": [
+   "2018-12-13-stockholm-agreement",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-21-saada-strike",
+   "2022-03-25-jeddah-attack",
+   "2022-04-02-yemen-truce",
+   "2022-10-02-truce-expires",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "2026-07-20-houthi-saudi-blockade",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
+   "2021-02-04-biden-yemen-shift",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike"
+  ]
+ },
+ {
+  "id": "2017-12-06-jerusalem-recognition",
+  "date": "2017-12-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "Trump recognises Jerusalem as Israel's capital",
+  "summary": "He ordered the embassy moved from Tel Aviv, reversing decades of US policy; the Palestinians cut contact with Washington.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_recognition_of_Jerusalem_as_capital_of_Israel"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2017/dec/06/us-recognition-of-jerusalem-as-israel-capital-what-it-means"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump",
+   "israel",
+   "jerusalem",
+   "benjamin-netanyahu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2018-05-14-jerusalem-embassy-gaza",
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2020-08-13-abraham-accords",
+   "2020-12-14-sudan-delisted",
+   "2019-03-25-golan-recognition"
+  ]
+ },
+ {
+  "id": "2017-12-17-bitcoin-futures-peak",
+  "date": "2017-12-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Americas",
+  "title": "Bitcoin nears $20,000 as CME launches futures",
+  "summary": "The first crypto bubble peaked as regulated exchanges listed bitcoin futures; prices fell by more than 80% during 2018.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bitcoin"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2017/12/17/worlds-largest-futures-exchange-set-to-launch-bitcoin-futures-sunday-night.html"
+   }
+  ],
+  "entities": [
+   "bitcoin",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "unplaced": "Global markets.",
+  "related_stories": []
+ },
+ {
+  "id": "2017-12-18-ramaphosa-anc-leader",
+  "date": "2017-12-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Africa",
+  "title": "Cyril Ramaphosa wins the ANC leadership, sealing Zuma's fall",
+  "summary": "The party recalled Zuma weeks later and Ramaphosa became president in February 2018.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jacob_Zuma"
+   }
+  ],
+  "entities": [
+   "south-africa",
+   "cyril-ramaphosa"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "unplaced": "Party conference.",
+  "related_stories": [
+   "2018-02-15-ramaphosa-president"
+  ]
+ },
+ {
+  "id": "2017-12-22-tax-cuts-signed",
+  "date": "2017-12-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Americas",
+  "title": "Trump signs the Tax Cuts and Jobs Act",
+  "summary": "The biggest tax overhaul in decades cut the corporate rate to 21% and added to federal deficits.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2017/12/22/trump-signs-gop-tax-plan-short-term-government-funding-bill.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2017-12-28-iran-dey-protests",
+  "date": "2017-12-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2017-12-31",
+  "region": "Middle East",
+  "title": "Economic protests starting in Mashhad spread across Iran",
+  "summary": "The 'Dey' protests turned against the clerical leadership; at least 21 people were killed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2017%E2%80%932018_Iranian_protests"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2017/12/30/world/middleeast/iran-protests-rouhani.html"
+   }
+  ],
+  "entities": [
+   "iran",
+   "ali-khamenei",
+   "hassan-rouhani"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2017-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2017 (Trump's first year)",
+  "marker": "political",
+  "where": [
+   "mashhad"
   ],
   "related_stories": []
  }

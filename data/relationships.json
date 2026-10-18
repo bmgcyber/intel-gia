@@ -909,5 +909,51 @@
    "2023-11-15-biden-xi-woodside",
    "2021-03-12-quad-summit-anchorage"
   ]
+ },
+ {
+  "id": "saudi-arabia--rivalry--qatar",
+  "a": "saudi-arabia",
+  "b": "qatar",
+  "type": "rivalry",
+  "start": "2017",
+  "end": null,
+  "stated": "Quarrel among brothers, resolved at al-Ula",
+  "actual": "Lasting competition for regional influence",
+  "confidence": "possible",
+  "evidence": [
+   "2017-06-05-qatar-blockade",
+   "2021-01-05-al-ula-qatar"
+  ]
+ },
+ {
+  "id": "turkey--rivalry--ypg",
+  "a": "turkey",
+  "b": "ypg",
+  "type": "rivalry",
+  "start": "2015",
+  "end": null,
+  "stated": "Turkey calls the YPG a PKK terrorist offshoot",
+  "actual": "Turkey launched repeated invasions to push it from the border",
+  "confidence": "likely",
+  "evidence": [
+   "2018-01-20-operation-olive-branch",
+   "2019-10-09-operation-peace-spring"
+  ]
+ },
+ {
+  "id": "united-states--alliance--sdf",
+  "a": "united-states",
+  "b": "sdf",
+  "type": "alliance",
+  "start": "2015",
+  "end": null,
+  "stated": "Partner against the Islamic State",
+  "actual": "Ground force for the anti-IS war, left exposed to Turkey",
+  "confidence": "likely",
+  "evidence": [
+   "2017-10-17-raqqa-falls",
+   "2019-03-23-baghuz-caliphate-ends",
+   "2019-10-09-operation-peace-spring"
+  ]
  }
 ]
