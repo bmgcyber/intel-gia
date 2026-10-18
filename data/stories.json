@@ -4132,6 +4132,10 @@
    {
     "name": "DOF reform text",
     "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref05_20abr22.pdf"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mining_in_Mexico"
    }
   ],
   "entities": [
@@ -4156,6 +4160,13 @@
     "fields": [
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -9492,6 +9503,10 @@
    {
     "name": "AP (Lai New Year address)",
     "url": "https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Justice_Mission_2025"
    }
   ],
   "entities": [
@@ -9543,7 +9558,14 @@
    "pla-patrol-oct14-15",
    "pla-patrol-oct15-16",
    "dongsha-coast-guard-incursion",
-   "2026-03-30-china-sanctions-furuya"
+   "2026-03-30-china-sanctions-furuya",
+   "2024-01-13-lai-elected-taiwan",
+   "2023-04-05-tsai-mccarthy",
+   "pla-patrol-oct17-18",
+   "2020-01-11-tsai-reelected",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2013-11-23-china-ecs-adiz"
   ],
   "revisions": [
    {
@@ -9551,6 +9573,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -9572,6 +9601,10 @@
    {
     "name": "Congressional Research Service",
     "url": "https://www.congress.gov/crs-product/IF10715"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela"
    }
   ],
   "entities": [
@@ -9634,7 +9667,10 @@
    "2026-03-13-cuba-talks",
    "2026-10-12-cuba-blockade-bites",
    "venezuela-oil",
-   "venezuela-talks-election-rules"
+   "venezuela-talks-election-rules",
+   "2019-01-23-guaido-interim-president",
+   "2019-01-28-pdvsa-sanctions",
+   "2017-07-30-venezuela-constituent-assembly"
   ],
   "revisions": [
    {
@@ -9649,6 +9685,13 @@
     "why": "2020 backfill: link to earlier causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -9674,6 +9717,10 @@
    {
     "name": "Reuters (Indian refiners)",
     "url": "https://www.reuters.com/business/energy/indian-refiners-say-offers-venezuelan-oil-limited-most-going-us-2026-01-27/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela"
    }
   ],
   "entities": [
@@ -9719,7 +9766,11 @@
    "2026-03-13-cuba-talks",
    "2026-09-18-graham-act-signed",
    "2025-04-02-liberation-day",
-   "2025-08-27-india-50pct-tariff"
+   "2025-08-27-india-50pct-tariff",
+   "venezuela-talks-election-rules",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2019-01-28-pdvsa-sanctions"
   ],
   "revisions": [
    {
@@ -9727,6 +9778,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -10598,6 +10656,10 @@
    {
     "name": "Politico",
     "url": "https://www.politico.com/news/2026/02/23/us-intel-backed-operation-that-led-to-killing-of-mexican-drug-lord-00794540"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/El_Mencho"
    }
   ],
   "entities": [
@@ -10657,6 +10719,13 @@
     "why": "Gap backfill: link to earlier events",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -11073,6 +11142,10 @@
    {
     "name": "Washington Post",
     "url": "https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_Kharg_Island_attack"
    }
   ],
   "entities": [
@@ -11105,6 +11178,7 @@
   ],
   "related_stories": [
    "2026-02-28-iran-war-begins",
+   "2026-04-07-iran-ceasefire-islamabad",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "houthis-hit-aramco",
@@ -11114,7 +11188,24 @@
    "gulf-of-oman-tanker-fires",
    "irgc-mine-supertanker-brent-110",
    "2026-01-08-iran-protest-crackdown",
-   "2026-04-07-iran-ceasefire-islamabad"
+   "2026-04-13-us-blockade-iran",
+   "2026-07-08-mou-collapses",
+   "2024-04-13-iran-strikes-israel",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2019-06-20-global-hawk-downed",
+   "2010-06-09-unsc-1929"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -11226,6 +11317,10 @@
    {
     "name": "UBS",
     "url": "https://www.ubs.com/global/en/assetmanagement/insights/investment-outlook/the-red-thread/trt-end-year-2026/articles/webs-of-ai-debt.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/AI_build-out_financing"
    }
   ],
   "entities": [
@@ -11271,6 +11366,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -11412,6 +11514,10 @@
    {
     "name": "AP (extension)",
     "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
    }
   ],
   "entities": [
@@ -11451,8 +11557,17 @@
    "2026-02-28-iran-war-begins",
    "2026-04-08-israel-strikes-lebanon",
    "2026-04-13-us-blockade-iran",
-   "2026-06-17-islamabad-mou",
-   "2026-08-07-mecca-pact"
+   "2026-08-07-mecca-pact",
+   "2026-06-17-islamabad-mou"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -11531,6 +11646,10 @@
    {
     "name": "Reuters (Magyar)",
     "url": "https://www.reuters.com/world/europe/hungarians-look-changed-future-after-pro-eu-magyars-election-landslide-2026-04-13/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election"
    }
   ],
   "entities": [
@@ -11557,7 +11676,17 @@
   ],
   "related_stories": [
    "2026-04-23-eu-90bn-loan",
-   "2026-10-13-hungary-lifts-accession-veto"
+   "2026-10-13-hungary-lifts-accession-veto",
+   "2023-12-14-eu-opens-ukraine-talks"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -11573,6 +11702,10 @@
    {
     "name": "Congressional Research Service",
     "url": "https://www.congress.gov/crs-product/R48887"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran"
    }
   ],
   "entities": [
@@ -11605,6 +11738,7 @@
   "related_stories": [
    "2026-04-07-iran-ceasefire-islamabad",
    "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "houthis-hit-aramco",
@@ -11616,7 +11750,18 @@
    "2026-02-28-iran-war-begins",
    "2026-03-11-iea-record-release",
    "2026-03-13-kharg-strike",
-   "2026-07-08-mou-collapses"
+   "2026-09-26-trump-rejects-iran-plan",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -11925,6 +12070,10 @@
    {
     "name": "Reuters (OPEC+ outlook)",
     "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/OPEC"
    }
   ],
   "entities": [
@@ -11967,7 +12116,9 @@
   "related_stories": [
    "2026-01-09-stc-dissolution",
    "2022-10-05-opec-cut",
-   "2025-05-03-opec-plus-hikes"
+   "2025-05-03-opec-plus-hikes",
+   "second-mine-tanker-ukmto-record",
+   "2016-12-10-opec-plus-formed"
   ],
   "revisions": [
    {
@@ -11975,6 +12126,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -12773,6 +12931,10 @@
    {
     "name": "Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mecca_Defence_Alliance"
    }
   ],
   "entities": [
@@ -12822,6 +12984,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -12981,6 +13150,10 @@
    {
     "name": "Euronews",
     "url": "https://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Syrian_Democratic_Forces"
    }
   ],
   "entities": [
@@ -13015,7 +13188,11 @@
   "unplaced": "A political merger; no single site.",
   "related_stories": [
    "2025-03-10-sdf-damascus-deal",
-   "2025-05-13-trump-lifts-syria-sanctions"
+   "2025-05-13-trump-lifts-syria-sanctions",
+   "2019-03-23-baghuz-caliphate-ends",
+   "2019-10-09-operation-peace-spring",
+   "2018-02-07-battle-of-khasham",
+   "2017-10-17-raqqa-falls"
   ],
   "revisions": [
    {
@@ -13023,6 +13200,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -14528,6 +14712,10 @@
    {
     "name": "Reuters (UNSC)",
     "url": "https://www.reuters.com/world/africa/un-security-council-demands-m23-stop-offensive-eastern-congo-2025-01-27/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022–present)"
    }
   ],
   "entities": [
@@ -14586,6 +14774,13 @@
     "why": "2012 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -15360,6 +15555,10 @@
    {
     "name": "Reuters (autos)",
     "url": "https://www.reuters.com/business/autos-transportation/some-european-auto-supplier-plants-shut-down-after-chinas-rare-earth-curbs-2025-06-04/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rare-earth_element"
    }
   ],
   "entities": [
@@ -15429,6 +15628,13 @@
     "why": "2010 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -15801,6 +16007,10 @@
    {
     "name": "International Crisis Group",
     "url": "https://www.crisisgroup.org/alr/africa/sahel/mali-russia-internal/mali-and-russia-restructure-their-security-partnership-what-end"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wagner_Group"
    }
   ],
   "entities": [
@@ -15845,7 +16055,8 @@
    "2026-04-25-mali-offensive",
    "2025-09-jnim-fuel-blockade",
    "2026-08-29-niger-mutiny",
-   "kidal"
+   "kidal",
+   "2024-01-25-africa-corps-burkina"
   ],
   "revisions": [
    {
@@ -15860,6 +16071,13 @@
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -16233,6 +16451,10 @@
    {
     "name": "Reuters (army tightrope)",
     "url": "https://www.reuters.com/world/middle-east/lebanese-army-walks-political-tightrope-disarm-hezbollah-2025-10-28/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hezbollah"
    }
   ],
   "entities": [
@@ -16267,7 +16489,10 @@
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
    "2026-10-14-lebanon-yellow-line",
-   "2024-09-17-pager-attacks"
+   "2024-09-17-pager-attacks",
+   "2023-10-08-hezbollah-support-front",
+   "2024-10-01-israel-invades-lebanon",
+   "lebanon-tampa-talks-demands"
   ],
   "revisions": [
    {
@@ -16275,6 +16500,13 @@
     "why": "2024 backfill: link to 2024 causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -16373,6 +16605,10 @@
    {
     "name": "Washington Post",
     "url": "https://www.washingtonpost.com/politics/2025/08/15/trump-putin-summit-sober-mood/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2025_Russia–United_States_summit"
    }
   ],
   "entities": [
@@ -16425,7 +16661,20 @@
    "putin-security-zone",
    "2026-09-18-graham-act-signed",
    "2026-09-22-zelensky-trump-unga",
-   "2025-09-22-putin-new-start-offer"
+   "2025-09-22-putin-new-start-offer",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2019-10-09-operation-peace-spring",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed"
   ],
   "revisions": [
    {
@@ -16433,6 +16682,13 @@
     "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -16983,6 +17239,10 @@
    {
     "name": "AP",
     "url": "https://apnews.com/article/pakistan-saudi-arabia-defense-agreement-israel-c2b5a57072eefed21041d39cb49f598e"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Strategic_Mutual_Defence_Agreement"
    }
   ],
   "entities": [
@@ -17029,6 +17289,13 @@
     "why": "Phase E gap backfill: link to earlier causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -17988,6 +18255,10 @@
    {
     "name": "AP",
     "url": "https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_military_buildup_in_the_Caribbean_during_Operation_Southern_Spear"
    }
   ],
   "entities": [
@@ -18016,7 +18287,20 @@
    "2026-01-03-maduro-captured",
    "2025-12-16-venezuela-tanker-blockade",
    "venezuela-oil",
-   "2022-03-05-us-venezuela-talks"
+   "2022-03-05-us-venezuela-talks",
+   "2020-03-26-maduro-indicted",
+   "2019-01-23-guaido-interim-president",
+   "2019-01-28-pdvsa-sanctions",
+   "2017-07-30-venezuela-constituent-assembly"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -19394,6 +19678,10 @@
    {
     "name": "Euronews",
     "url": "https://www.euronews.com/2025/11/08/kazakhstan-to-join-abraham-accords-as-it-signs-critical-minerals-and-trade-deals-with-the-"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/C5+1"
    }
   ],
   "entities": [
@@ -19443,7 +19731,20 @@
    "2025-04-04-china-rare-earth-controls",
    "2025-07-10-mp-materials-dod",
    "2025-10-20-us-australia-minerals",
-   "2025-10-30-busan-truce"
+   "2025-10-30-busan-truce",
+   "2024-10-02-china-coast-guard-arctic",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -19518,6 +19819,10 @@
    {
     "name": "Reuters (second ceasefire)",
     "url": "https://www.reuters.com/world/asia-pacific/thailand-cambodia-sign-ceasefire-agreement-cambodian-defence-ministry-says-2025-12-27/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2025_Cambodia–Thailand_conflict"
    }
   ],
   "entities": [
@@ -19542,6 +19847,15 @@
   "related_stories": [
    "2025-10-26-kl-accords",
    "2026-02-08-thai-election-anutin"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -20283,6 +20597,10 @@
    {
     "name": "USNI News",
     "url": "https://news.usni.org/2026/09/23/north-korea-tests-new-hypersonic-missile"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hwasong-11E"
    }
   ],
   "entities": [
@@ -20309,6 +20627,15 @@
   "related_stories": [
    "2026-03-29-hwasong-20-engine-test",
    "dprk-ai-torpedo-test"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-12",
+    "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {

@@ -84452,6 +84452,1627 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-12": {
+   "sha256": "0b4d8c32a1ef1caf26183f6973c21d95b92a5686bfc220464a65c018aa5bb3b4",
+   "undo": {
+    "stories": {
+     "2026-04-12-orban-ousted": {
+      "id": "2026-04-12-orban-ousted",
+      "date": "2026-04-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Europe",
+      "title": "Orbán ousted after 16 years as Magyar's Tisza wins a landslide",
+      "summary": "Péter Magyar's pro-EU Tisza party won a two-thirds majority in Hungary's election, ending Viktor Orbán's 16-year rule. Magyar promised a democratic reset with an eye on frozen EU funds.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/"
+       },
+       {
+        "name": "Reuters (Magyar)",
+        "url": "https://www.reuters.com/world/europe/hungarians-look-changed-future-after-pro-eu-magyars-election-landslide-2026-04-13/"
+       }
+      ],
+      "entities": [
+       "hungary",
+       "viktor-orban",
+       "peter-magyar",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Moscow lost its most reliable veto inside the EU and NATO.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift",
+       "russia-ukraine"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "where": [
+       "budapest"
+      ],
+      "related_stories": [
+       "2026-04-23-eu-90bn-loan",
+       "2026-10-13-hungary-lifts-accession-veto"
+      ]
+     },
+     "2026-01-06-us-venezuela-oil-deal": {
+      "id": "2026-01-06-us-venezuela-oil-deal",
+      "date": "2026-01-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "Caracas agrees to ship oil to the US under Washington's control",
+      "summary": "Trump said Venezuela would export up to $2 billion of crude (30–50 million barrels) to the United States, diverting supply from China. Under the deal, the US would market the oil and put the proceeds in US-controlled accounts. Trading houses Trafigura and Vitol began marketing it, and Indian refiners said in late January that they were being offered only small volumes.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/venezuela-us-talks-export-venezuelan-oil-us-sources-say-2026-01-06/"
+       },
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IF10715"
+       },
+       {
+        "name": "Reuters (Indian refiners)",
+        "url": "https://www.reuters.com/business/energy/indian-refiners-say-offers-venezuelan-oil-limited-most-going-us-2026-01-27/"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "united-states",
+       "petroleum",
+       "pdvsa",
+       "china",
+       "india",
+       "delcy-rodriguez"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-03-maduro-captured",
+        "why": "The raid gave Washington control of the acting government's oil decisions",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-12-16-venezuela-tanker-blockade",
+        "why": "The blockade made US-controlled sales the only outlet",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "venezuela-oil",
+       "global-oil",
+       "western-hemisphere"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "energy",
+      "unplaced": "An agreement announced from Washington; no physical site.",
+      "related_stories": [
+       "2026-01-03-maduro-captured",
+       "2025-12-16-venezuela-tanker-blockade",
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-05-23-ipef",
+       "us-weighs-shadow-fleet-relief",
+       "trump-waives-russia-sanctions",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-03-13-cuba-talks",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-08-27-india-50pct-tariff"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-04-13-us-blockade-iran": {
+      "id": "2026-04-13-us-blockade-iran",
+      "date": "2026-04-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "US imposes a naval blockade on Iranian ports",
+      "summary": "After the Islamabad talks failed, the US blockaded all shipping to and from Iranian ports from Apr 13. The ceasefire largely held. A US effort in May to escort ships out of the strait ('Project Freedom') was paused after two days, reportedly because Saudi Arabia refused the use of its airspace.",
+      "sources": [
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/R48887"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "strait-of-hormuz",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "2026-04-07-iran-ceasefire-islamabad",
+        "why": "Talks failed",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Both sides now claimed to control the strait, Washington by blockade and Tehran by force. CRS says that dispute is what wrecked the June deal.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "unplaced": "Enforced at sea around Iran's ports; no single site.",
+      "related_stories": [
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-06-17-islamabad-mou",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "venezuela-oil",
+       "gfs-pride-sunk",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-07-08-mou-collapses"
+      ]
+     },
+     "2025-01-27-m23-takes-goma": {
+      "id": "2025-01-27-m23-takes-goma",
+      "date": "2025-01-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Africa",
+      "title": "Rwandan-backed M23 rebels enter Goma",
+      "summary": "M23 rebels entered the centre of Goma, eastern Congo's largest city, after claiming its capture. The UN said Rwandan troops were in the city backing them, and the UN Security Council demanded M23 halt its offensive.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/rebels-enter-centre-congos-goma-after-claiming-capture-city-2025-01-27/"
+       },
+       {
+        "name": "Reuters (UN: Rwandan troops)",
+        "url": "https://www.reuters.com/world/africa/fighting-ongoing-across-drcs-goma-rwanda-troops-city-says-un-2025-01-27/"
+       },
+       {
+        "name": "Reuters (UNSC)",
+        "url": "https://www.reuters.com/world/africa/un-security-council-demands-m23-stop-offensive-eastern-congo-2025-01-27/"
+       }
+      ],
+      "entities": [
+       "m23",
+       "rwanda",
+       "drc"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-13-bunagana",
+        "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-05-02-m23-seizes-rubaya",
+        "why": "Coltan revenue from Rubaya financed the advance",
+        "confidence": "possible"
+       },
+       {
+        "story": "2012-11-20-m23-takes-goma",
+        "why": "Earlier seizure",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "goma"
+      ],
+      "related_stories": [
+       "2022-06-13-bunagana",
+       "2024-05-02-m23-seizes-rubaya",
+       "2012-11-20-m23-takes-goma",
+       "2025-12-04-washington-accords-uvira",
+       "kabila-m23",
+       "rubaya-coltan",
+       "kabila-frn-succeeds-afc",
+       "2026-01-19-m23-leaves-uvira",
+       "2026-03-washington-accords"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-09-28",
+        "why": "Phase D gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-09-17-saudi-pakistan-pact": {
+      "id": "2025-09-17-saudi-pakistan-pact",
+      "date": "2025-09-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Middle East",
+      "title": "Saudi Arabia and nuclear-armed Pakistan sign a mutual defence pact",
+      "summary": "Mohammed bin Salman and Shehbaz Sharif signed the Strategic Mutual Defence Agreement in Riyadh, under which aggression against one is aggression against both. AP noted it came days after Israel's strike in Qatar.",
+      "sources": [
+       {
+        "name": "Pakistan Foreign Ministry",
+        "url": "https://mofa.gov.pk/press-releases/joint-statement-on-the-state-visit-of-prime-minister-of-the-islamic-republic-of-pakistan-muhammad-shehbaz-sharif-to-the-kingdom-of-saudi-arabia"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-nuclear-armed-pakistan-sign-mutual-defence-pact-2025-09-17/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/pakistan-saudi-arabia-defense-agreement-israel-c2b5a57072eefed21041d39cb49f598e"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "pakistan",
+       "mohammed-bin-salman"
+      ],
+      "causes": [
+       {
+        "story": "2025-09-09-israel-strikes-doha",
+        "why": "Gulf doubts over US protection",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-05-07-operation-sindoor",
+        "why": "Pakistan's military stock was rising",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2025-05-20-munir-field-marshal",
+        "why": "Munir's elevated role in foreign policy",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "2025-09-09-israel-strikes-doha",
+       "2025-05-07-operation-sindoor",
+       "2025-05-20-munir-field-marshal",
+       "2026-08-07-mecca-pact"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-28",
+        "why": "Phase E gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-02-22-el-mencho-killed": {
+      "id": "2026-02-22-el-mencho-killed",
+      "date": "2026-02-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "Mexican forces kill CJNG boss 'El Mencho' in a US-backed raid",
+      "summary": "Mexican special forces killed Nemesio 'El Mencho' Oseguera, leader of the Jalisco New Generation Cartel, in Tapalpa, Jalisco. US intelligence, including a new Pentagon-led task force, helped find him. The cartel answered with roadblocks and arson across Mexico. President Sheinbaum said US forces shared intelligence but did not take part.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/mexican-drug-lord-el-mencho-killed-military-operation-government-source-2026-02-22/"
+       },
+       {
+        "name": "Reuters (US task force)",
+        "url": "https://www.reuters.com/world/americas/new-us-military-led-group-aided-mexicos-hunt-el-mencho-cartel-boss-2026-02-22/"
+       },
+       {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/02/23/us-intel-backed-operation-that-led-to-killing-of-mexican-drug-lord-00794540"
+       }
+      ],
+      "entities": [
+       "mexico",
+       "cjng",
+       "claudia-sheinbaum",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-03-maduro-captured",
+        "why": "The Caracas raid made the threat of unilateral US action against cartels credible",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-02-20-cartels-fto",
+        "why": "CJNG named a terrorist organisation",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-02-27-mexico-hands-over-capos",
+        "why": "Mexico's 2025 shift to handing cartel bosses to the US",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Mexico delivered a major scalp on its own terms to head off unilateral US strikes on its soil.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "where": [
+       "tapalpa"
+      ],
+      "related_stories": [
+       "2026-01-03-maduro-captured",
+       "2025-02-20-cartels-fto",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-07-01-usmca-review"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-09-29",
+        "why": "Gap backfill: link to earlier events",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-12-08-thai-cambodia-war-resumes": {
+      "id": "2025-12-08-thai-cambodia-war-resumes",
+      "date": "2025-12-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "Thailand–Cambodia fighting resumes with airstrikes; a second ceasefire on Dec 27",
+      "summary": "The Kuala Lumpur accords broke down amid accusations of landmine blasts and violations. Thailand launched airstrikes, and some 20 days of fighting followed before a new ceasefire on Dec 27 under ASEAN observation.",
+      "sources": [
+       {
+        "name": "Reuters (how the truce failed)",
+        "url": "https://www.reuters.com/world/asia-pacific/how-thailand-cambodia-conflict-went-trump-backed-ceasefire-airstrikes-2025-12-08/"
+       },
+       {
+        "name": "Reuters (talks)",
+        "url": "https://www.reuters.com/world/asia-pacific/asean-seek-resolution-thailand-cambodia-conflict-with-malaysia-meeting-2025-12-21/"
+       },
+       {
+        "name": "Reuters (second ceasefire)",
+        "url": "https://www.reuters.com/world/asia-pacific/thailand-cambodia-sign-ceasefire-agreement-cambodian-defence-ministry-says-2025-12-27/"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "cambodia"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-26-kl-accords",
+        "why": "The accords broke down",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Along the Thai–Cambodian border.",
+      "related_stories": [
+       "2025-10-26-kl-accords",
+       "2026-02-08-thai-election-anutin"
+      ]
+     },
+     "2025-11-06-c5-plus-1-summit": {
+      "id": "2025-11-06-c5-plus-1-summit",
+      "date": "2025-11-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Russia/Eurasia",
+      "title": "First White House C5+1 summit: minerals deals with Central Asia; Kazakhstan to join the Abraham Accords",
+      "summary": "Trump hosted the presidents of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan. Kazakhstan signed a critical-minerals MoU and a $1.1bn tungsten project and agreed to join the Abraham Accords, part of a US push into a region dominated by Russia and China.",
+      "sources": [
+       {
+        "name": "US State Department",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/11/a-new-era-in-u-s-kazakhstan-relations"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/trump-meet-central-asian-presidents-us-seeks-counter-china-russia-influence-2025-11-06/"
+       },
+       {
+        "name": "S&P Global",
+        "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/110725-us-signs-mous-on-central-asian-critical-minerals-secures-stake-in-strategic-deposit"
+       },
+       {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2025/11/08/kazakhstan-to-join-abraham-accords-as-it-signs-critical-minerals-and-trade-deals-with-the-"
+       }
+      ],
+      "entities": [
+       "kazakhstan",
+       "uzbekistan",
+       "united-states",
+       "russia",
+       "china",
+       "rare-earths"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-09-china-rare-earth-expansion",
+        "why": "US hunt for non-Chinese minerals",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-01-kazakhstan-unrest",
+        "why": "Kazakhstan's balancing since the 2022 Russian-led intervention",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "china-minerals-leverage"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2025-10-09-china-rare-earth-expansion",
+       "2022-01-kazakhstan-unrest",
+       "rare-earth-nov10",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "pla-patrol-oct14-15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-05-new-start-expires",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce"
+      ]
+     },
+     "2026-04-28-uae-quits-opec": {
+      "id": "2026-04-28-uae-quits-opec",
+      "date": "2026-04-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "UAE quits OPEC, exposing a deep Saudi rift",
+      "summary": "The UAE announced it would leave OPEC and OPEC+ from May 1 after nearly 60 years, citing its expanded capacity. Reuters reported the move laid bare a widening rift with Saudi Arabia, though OPEC+ was expected to hold together with a smaller share of world output.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/opec-united-arab-emirates-leaving-cartel-4966108c3fafacb67181152216deda14"
+       },
+       {
+        "name": "Reuters (Saudi rift)",
+        "url": "https://www.reuters.com/world/middle-east/uae-oil-break-exposes-deepening-saudi-rift-gulf-power-shifts-2026-04-29/"
+       },
+       {
+        "name": "Reuters (OPEC+ outlook)",
+        "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/"
+       }
+      ],
+      "entities": [
+       "uae",
+       "opec",
+       "opec-plus",
+       "saudi-arabia",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-09-stc-dissolution",
+        "why": "Saudi–UAE split over Yemen",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-05-opec-cut",
+        "why": "Saudi-led quota politics the UAE resented",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-05-03-opec-plus-hikes",
+        "why": "The market-share fight inside OPEC+",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "With Hormuz shut, the exit costs Abu Dhabi little now; it is a bet on pumping freely after the war and a statement of independence from Riyadh.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "gulf-realignment",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "energy",
+      "unplaced": "A policy decision; no site.",
+      "related_stories": [
+       "2026-01-09-stc-dissolution",
+       "2022-10-05-opec-cut",
+       "2025-05-03-opec-plus-hikes"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-09-20-dprk-hypersonic-test": {
+      "id": "2026-09-20-dprk-hypersonic-test",
+      "date": "2026-09-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Asia-Pacific",
+      "title": "North Korea tests an upgraded Hwasongpho-11Ma hypersonic missile",
+      "summary": "South Korea's JCS tracked two missiles from the Wonsan area flying about 450 km and more than 600 km. KCNA said Kim declared hypersonic research complete and moving to deployment.",
+      "sources": [
+       {
+        "name": "USNI News",
+        "url": "https://news.usni.org/2026/09/23/north-korea-tests-new-hypersonic-missile"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [
+       {
+        "story": "2026-03-29-hwasong-20-engine-test",
+        "why": "Continuing missile campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "wonsan"
+      ],
+      "related_stories": [
+       "2026-03-29-hwasong-20-engine-test",
+       "dprk-ai-torpedo-test"
+      ]
+     },
+     "2026-03-17-hyperscaler-ai-debt": {
+      "id": "2026-03-17-hyperscaler-ai-debt",
+      "date": "2026-03-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "Big Tech turns to record borrowing to fund AI data centers",
+      "summary": "Analysts raised their forecasts for hyperscaler debt after an Amazon bond sale. UBS later estimated hyperscalers had issued about $274 billion of investment-grade debt in 2026, plus about $169 billion of data-center-specific issuance, as AI capex outran cash flow.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/analysts-revise-ai-hyperscaler-debt-forecasts-after-amazon-bond-sale-2026-03-17/"
+       },
+       {
+        "name": "UBS",
+        "url": "https://www.ubs.com/global/en/assetmanagement/insights/investment-outlook/the-red-thread/trt-end-year-2026/articles/webs-of-ai-debt.html"
+       }
+      ],
+      "entities": [
+       "ai-data-centers",
+       "semiconductors",
+       "nvidia"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "AI compute became a strategic commodity worth borrowing for",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-10-21-meta-hyperion-debt",
+        "why": "Off-balance-sheet AI borrowing began in 2025",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Debt-funded AI build-out ties tech valuations to long-term interest rates, the link that bit in October.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "ai-compute-minerals",
+       "central-banks-rates"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "Capital-markets trend; no site.",
+      "related_stories": [
+       "2022-10-07-bis-controls",
+       "2025-10-21-meta-hyperion-debt",
+       "ai-minerals",
+       "2022-08-31-nvidia-ban",
+       "coreweave-ai-credit-shock"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-01-03-maduro-captured": {
+      "id": "2026-01-03-maduro-captured",
+      "date": "2026-01-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "US strikes Venezuela and captures Maduro",
+      "summary": "The United States carried out a 'large-scale strike' on Venezuela early on Jan 3. Nicolás Maduro and his wife were captured and flown to New York to face narco-terrorism charges. Trump said the US would 'run' the country at least temporarily, and said Vice President and oil minister Delcy Rodríguez was willing to work with Washington as acting president.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e"
+       },
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IF10715"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "nicolas-maduro",
+       "donald-trump",
+       "delcy-rodriguez"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-05-us-venezuela-talks",
+        "why": "Washington's 2022 energy bargaining failed to move Maduro; in 2026 it switched from bargaining to force",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2025-09-02-boat-strikes-begin",
+        "why": "The Caribbean campaign",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-11-16-ford-caribbean",
+        "why": "The build-up near Venezuela",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-12-16-venezuela-tanker-blockade",
+        "why": "Oil blockade before the raid",
+        "confidence": "likely"
+       },
+       {
+        "story": "2020-03-26-maduro-indicted",
+        "why": "The 2020 narco-terrorism indictment",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "The stated case is narcotics; the real aims look like control of Venezuelan oil and pushing China, Russia and Iran out of the hemisphere. It also made later US threats against Mexico and Cuba credible.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": [
+       "2022-03-05-us-venezuela-talks",
+       "2025-09-02-boat-strikes-begin",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2020-03-26-maduro-indicted",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "venezuela-talks-election-rules"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2020-12-31",
+        "why": "2020 backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-04-07-iran-ceasefire-islamabad": {
+      "id": "2026-04-07-iran-ceasefire-islamabad",
+      "date": "2026-04-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "Pakistan brokers a US–Iran ceasefire; Islamabad talks end without a deal",
+      "summary": "Trump agreed to a two-week ceasefire conditional on Iran fully reopening Hormuz. Days later, Vice President JD Vance led talks with Iranian officials in Islamabad, which ended without a broader deal. Trump extended the ceasefire indefinitely on Apr 21, with Pakistan, Qatar and others continuing to mediate.",
+      "sources": [
+       {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/04/07/iran-2-week-ceasfire-trump-pakistan"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/us-iran-leave-door-open-dialogue-after-tense-islamabad-talks-2026-04-13/"
+       },
+       {
+        "name": "AP (extension)",
+        "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "pakistan"
+      ],
+      "causes": [
+       {
+        "story": "2026-03-13-kharg-strike",
+        "why": "Pressure on Iran's oil hub preceded the ceasefire",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-02-28-iran-war-begins",
+        "why": "Six weeks of war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Pakistan gained standing in Washington and the Gulf as the indispensable mediator while at war with Afghanistan, a role that later helped it into the Saudi defence pact.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2026-03-13-kharg-strike",
+       "2026-02-28-iran-war-begins",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-08-07-mecca-pact"
+      ]
+     },
+     "2025-08-05-lebanon-disarm-hezbollah": {
+      "id": "2025-08-05-lebanon-disarm-hezbollah",
+      "date": "2025-08-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Middle East",
+      "title": "Lebanon's cabinet orders the army to bring all weapons under state control",
+      "summary": "The government told the army to draft a plan to restrict weapons to state forces by year-end, a direct challenge to Hezbollah. The plan, adopted in September, began south of the Litani. Reuters reported the army avoided confrontation in Hezbollah strongholds.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/lebanon-tasks-army-with-limiting-arms-state-forces-challenge-hezbollah-2025-08-05/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/lebanon-israel-hezbollah-disarmament-kassem-cabinet-7d8cca554405c85e80b010df0770b1ca"
+       },
+       {
+        "name": "Reuters (army tightrope)",
+        "url": "https://www.reuters.com/world/middle-east/lebanese-army-walks-political-tightrope-disarm-hezbollah-2025-10-28/"
+       }
+      ],
+      "entities": [
+       "lebanon",
+       "hezbollah",
+       "israel"
+      ],
+      "causes": [
+       {
+        "story": "2024-11-27-israel-hezbollah-ceasefire",
+        "why": "Implements the 2024 ceasefire",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "analysis": {
+       "text": "Disarmament pressure and the loss of Iranian supply routes after Assad's fall left Hezbollah weak but defiant when it rejoined the war in March 2026.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": [
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-10-14-lebanon-yellow-line",
+       "2024-09-17-pager-attacks"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-06-06-wagner-leaves-mali": {
+      "id": "2025-06-06-wagner-leaves-mali",
+      "date": "2025-06-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Africa",
+      "title": "Wagner leaves Mali and the state-run Africa Corps takes over",
+      "summary": "Wagner said it was leaving Mali after about three and a half years. Russia's defence-ministry-controlled Africa Corps said it would stay, with Crisis Group describing a shift toward training and protection roles.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/russias-wagner-mercenary-group-says-it-is-leaving-mali-after-mission-2025-06-06/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/mali-wagner-russia-withdraws-b29349be737cbc14dfc435b3536711eb"
+       },
+       {
+        "name": "International Crisis Group",
+        "url": "https://www.crisisgroup.org/alr/africa/sahel/mali-russia-internal/mali-and-russia-restructure-their-security-partnership-what-end"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "africa-corps",
+       "mali",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-wagner-mali",
+        "why": "Ends the deployment that began in 2021",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-07-06-aes-confederation",
+        "why": "Junta bloc reliant on Russia",
+        "confidence": "possible"
+       },
+       {
+        "story": "2023-08-23-prigozhin-killed",
+        "why": "Wagner's Africa role was absorbed by the state after Prigozhin",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "A smaller, less combat-focused Russian force left Bamako's junta more exposed, as the April 2026 offensive showed.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Country-wide withdrawal.",
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2024-07-06-aes-confederation",
+       "2023-08-23-prigozhin-killed",
+       "2026-04-25-mali-offensive",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "kidal"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-11-16-ford-caribbean": {
+      "id": "2025-11-16-ford-caribbean",
+      "date": "2025-11-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Americas",
+      "title": "USS Gerald R. Ford enters the Caribbean for 'Operation Southern Spear'",
+      "summary": "The Ford carrier strike group joined the counter-narcotics mission Operation Southern Spear. AP called it a major military build-up near Venezuela.",
+      "sources": [
+       {
+        "name": "US Navy",
+        "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4332628/gerald-r-ford-carrier-strike-group-enters-caribbean-sea/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "nicolas-maduro"
+      ],
+      "causes": [
+       {
+        "story": "2025-09-02-boat-strikes-begin",
+        "why": "Escalation from boat strikes",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "western-hemisphere",
+       "venezuela-oil"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "At sea in the Caribbean.",
+      "related_stories": [
+       "2025-09-02-boat-strikes-begin",
+       "2026-01-03-maduro-captured",
+       "2025-12-16-venezuela-tanker-blockade",
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks"
+      ]
+     },
+     "2026-08-07-mecca-pact": {
+      "id": "2026-08-07-mecca-pact",
+      "date": "2026-08-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-30",
+      "region": "Middle East",
+      "title": "Saudi Arabia, Pakistan and Turkey sign the Mecca mutual-defence pact",
+      "summary": "Saudi Arabia, Pakistan and Turkey signed the Mecca Joint Defence Agreement, under which an attack on one is an attack on all.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "pakistan",
+       "turkey"
+      ],
+      "causes": [
+       {
+        "story": "2026-07-20-houthi-saudi-blockade",
+        "why": "Houthi threat to Saudi shipping",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-04-07-iran-ceasefire-islamabad",
+        "why": "Pakistan's rising value to Gulf and US partners",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2025-09-17-saudi-pakistan-pact",
+        "why": "Widens the 2025 Saudi–Pakistan pact",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-30",
+      "analysis": {
+       "text": "Riyadh is hedging against an unreliable US umbrella by buying Sunni military depth, with Pakistan's nuclear status in the background.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "gulf-realignment",
+       "yemen-houthis-saudi"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "The sources do not name the signing venue.",
+      "related_stories": [
+       "2026-07-20-houthi-saudi-blockade",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2025-09-17-saudi-pakistan-pact",
+       "2026-10-05-mecca-pact-activated"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-04-04-china-rare-earth-controls": {
+      "id": "2025-04-04-china-rare-earth-controls",
+      "date": "2025-04-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Asia-Pacific",
+      "title": "China retaliates against US tariffs with licences for seven rare earths and magnets",
+      "summary": "China imposed export licences on samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium and on related magnets. Shipments stalled, and by June some European and US auto plants had cut output.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china-hits-back-us-tariffs-with-rare-earth-export-controls-2025-04-04/"
+       },
+       {
+        "name": "Reuters (exports halt)",
+        "url": "https://www.reuters.com/markets/commodities/chinas-rare-earth-exports-grind-halt-trade-war-controls-bite-2025-04-11/"
+       },
+       {
+        "name": "Reuters (autos)",
+        "url": "https://www.reuters.com/business/autos-transportation/some-european-auto-supplier-plants-shut-down-after-chinas-rare-earth-curbs-2025-06-04/"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2025-04-02-liberation-day",
+        "why": "Retaliation for the tariffs",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State consolidation made licensing a usable weapon",
+        "confidence": "possible"
+       },
+       {
+        "story": "2024-12-03-china-bans-gallium-to-us",
+        "why": "Escalates China's 2024 minerals bans",
+        "confidence": "likely"
+       },
+       {
+        "story": "2010-09-07-senkaku-trawler",
+        "why": "2010 precedent",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "storylines": [
+       "china-minerals-leverage",
+       "us-tariffs-trade"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "An export regime; no site.",
+      "related_stories": [
+       "2025-04-02-liberation-day",
+       "2021-12-china-rare-earth-group",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2010-09-07-senkaku-trawler",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "rare-earth-nov10",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "pla-patrol-oct14-15",
+       "eu-china-rare-earth-green-channel",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-06-c5-plus-1-summit"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-08-15-alaska-summit": {
+      "id": "2025-08-15-alaska-summit",
+      "date": "2025-08-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Trump–Putin Alaska summit ends with no ceasefire",
+      "summary": "Trump and Putin met for nearly three hours at Joint Base Elmendorf-Richardson in Anchorage. No ceasefire or deal was announced. Trump said 'there's no deal until there's a deal'.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/trump-putin-summit-alaska-russia-ukraine-a7b167f17a3e06fbce2f583c93f8bae1"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/updates-trump-putin-meet-alaska-summit-war-ukraine-2025-08-15/"
+       },
+       {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2025/08/15/trump-putin-summit-sober-mood/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "donald-trump",
+       "vladimir-putin",
+       "ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2025-02-28-oval-office-clash",
+        "why": "Trump's turn to direct dealing with Moscow",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-02-18-riyadh-us-russia-talks",
+        "why": "US–Russia channel opened in Riyadh",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "anchorage"
+      ],
+      "related_stories": [
+       "2025-02-28-oval-office-clash",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-06-23-himars",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "trump-waives-russia-sanctions",
+       "putin-security-zone",
+       "2026-09-18-graham-act-signed",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-09-22-putin-new-start-offer"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-27",
+        "why": "Phase F gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2022-04-19-mexico-lithium": {
+      "id": "2022-04-19-mexico-lithium",
+      "date": "2022-04-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "Mexico nationalises lithium",
+      "summary": "Mexico's Congress passed a mining-law change reserving lithium exploration and extraction to the state.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/mexicos-senate-approves-legislation-nationalize-lithium-2022-04-19/"
+       },
+       {
+        "name": "DOF reform text",
+        "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin/LMin_ref05_20abr22.pdf"
+       }
+      ],
+      "entities": [
+       "mexico",
+       "lithium"
+      ],
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [],
+      "where": [
+       "mexico-city"
+      ],
+      "marker": "political",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "where",
+         "marker"
+        ]
+       }
+      ]
+     },
+     "2026-08-20-sdf-integration": {
+      "id": "2026-08-20-sdf-integration",
+      "date": "2026-08-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-30",
+      "region": "Middle East",
+      "title": "Syria's Kurdish-led SDF merges into the army and dissolves; US delists Syria",
+      "summary": "SDF leader Mazloum Abdi said integration with Damascus was complete on Aug 20, and the SDF formally dissolved on Aug 25, after a January government offensive took much of its territory. On Aug 24 the US removed Syria from its state sponsors of terrorism list and delisted HTS.",
+      "sources": [
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/live-news/20260820-syrian-kurds-announce-completion-of-civil-military-integration-with-damascus"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/syrias-kurdish-led-sdf-dissolves-part-integration-with-damascus-2026-08-25/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/syrian-democratic-forces-dissolution-mazloum-abdi-1b7d210c96d2c608007b0411db25f453"
+       },
+       {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger"
+       }
+      ],
+      "entities": [
+       "syria",
+       "sdf",
+       "ahmed-al-sharaa",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-10-sdf-damascus-deal",
+        "why": "Completes the March 2025 deal",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-05-13-trump-lifts-syria-sanctions",
+        "why": "US embrace of Damascus",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-30",
+      "analysis": {
+       "text": "Damascus is consolidating with Washington's blessing, closing a front Turkey cared about and opening Syria to Gulf investment.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A political merger; no single site.",
+      "related_stories": [
+       "2025-03-10-sdf-damascus-deal",
+       "2025-05-13-trump-lifts-syria-sanctions"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-03-13-kharg-strike": {
+      "id": "2026-03-13-kharg-strike",
+      "date": "2026-03-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Middle East",
+      "title": "US bombs military sites on Kharg Island, Iran's oil export hub",
+      "summary": "US aircraft struck missile and mine storage sites on Kharg Island, which handles about 90% of Iran's crude exports. Officials said oil infrastructure was left intact on purpose, and Trump warned it could be hit if Iran kept interfering with Hormuz shipping.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-israel-us-march-13-2026-oil-prices-2a86a1f5c5997b70c6586d957074fb0c"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/kharg-island-struck-by-us-is-key-hub-iran-oil-exports-2026-03-14/"
+       },
+       {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "petroleum",
+       "irgc"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-28-iran-war-begins",
+        "why": "Escalation to pressure Iran over Hormuz",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Washington held Iran's oil lifeline hostage instead of destroying it, a bargaining chip for reopening Hormuz.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "kharg-island"
+      ],
+      "related_stories": [
+       "2026-02-28-iran-war-begins",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "kataib-hezbollah-halt",
+       "gfs-pride-sunk",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-04-07-iran-ceasefire-islamabad"
+      ]
+     },
+     "2025-12-29-justice-mission-drills": {
+      "id": "2025-12-29-justice-mission-drills",
+      "date": "2025-12-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "China's 'Justice Mission 2025' drills rehearse a blockade of Taiwan",
+      "summary": "For two days (Dec 29–30) the PLA ran joint live-fire drills around Taiwan, which Beijing called a 'stern warning' to separatist and 'external interference' forces. ISW assessed that the exercise rehearsed a blockade and counter-intervention, with coast guard ships enforcing it. Beijing tied the drills to what could be the largest-ever US arms sale to Taiwan and to Japanese PM Takaichi's Taiwan remarks. Taiwan said more than 100,000 air travellers were affected.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/china-taiwan-military-drills-japamn-37e2c674923fde3cb6b1a741c3e3fe0f"
+       },
+       {
+        "name": "ISW",
+        "url": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-january-2-2026/"
+       },
+       {
+        "name": "AP (Lai New Year address)",
+        "url": "https://apnews.com/article/taiwan-lai-chingte-china-military-drills-dcf815da920abc4c4ecc1073c779b160"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "united-states",
+       "japan",
+       "lai-ching-te"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "The 2022 encirclement drills set the template that each new exercise extends",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-11-07-takaichi-taiwan-remarks",
+        "why": "Beijing cited Takaichi's remarks",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-04-02-strait-thunder",
+        "why": "Continues the 2025 blockade drills",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Beijing is normalising blockade rehearsals so that a real quarantine would look like routine, and it is pairing military pressure on Taipei with coercion of Tokyo.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "unplaced": "Drills ran in several zones around Taiwan; there is no single site.",
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2025-04-02-strait-thunder",
+       "pla-drills",
+       "2026-02-08-takaichi-landslide",
+       "rare-earth-nov10",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "pla-patrol-oct14-15",
+       "pla-patrol-oct15-16",
+       "dongsha-coast-guard-incursion",
+       "2026-03-30-china-sanctions-furuya"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {},
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
