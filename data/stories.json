@@ -31579,7 +31579,8 @@
    "islamabad"
   ],
   "related_stories": [
-   "2023-05-09-imran-khan-arrested"
+   "2023-05-09-imran-khan-arrested",
+   "2024-01-30-khan-convictions"
   ]
  },
  {
@@ -31942,6 +31943,360 @@
   "era": "2023 (war of attrition)",
   "marker": "political",
   "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-01-30-khan-convictions",
+  "date": "2024-01-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Asia-Pacific",
+  "title": "Imran Khan gets 10- and 14-year sentences days before Pakistan's election",
+  "summary": "Khan was sentenced to 10 years in the cypher case and 14 years in the Toshakhana case at the end of January. The cypher verdict was overturned in June 2024 and the Toshakhana term suspended in April.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Imprisonment_of_Imran_Khan"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Pakistani_general_election"
+   }
+  ],
+  "entities": [
+   "imran-khan",
+   "pakistan",
+   "bushra-bibi"
+  ],
+  "causes": [
+   {
+    "story": "2023-08-05-khan-jailed",
+    "why": "Escalating cases against Khan",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2023-08-05-khan-jailed"
+  ]
+ },
+ {
+  "id": "2024-02-14-prabowo-elected",
+  "date": "2024-02-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Asia-Pacific",
+  "title": "Prabowo Subianto wins Indonesia's presidency",
+  "summary": "The defence minister and ex-general won with Jokowi's son Gibran as running mate and took office in October.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Indonesian_presidential_election"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/2/14/prabowo-subianto-claims-victory-in-indonesian-presidential-election"
+   }
+  ],
+  "entities": [
+   "indonesia",
+   "prabowo-subianto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-03-24-senegal-faye",
+  "date": "2024-03-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Africa",
+  "title": "Opposition outsider Bassirou Diomaye Faye wins Senegal's presidency",
+  "summary": "After courts overturned Macky Sall's attempt to postpone the vote, Faye, running in place of Ousmane Sonko, won 54% in the first round.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Senegalese_presidential_election"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/3/24/senegal-votes-in-delayed-presidential-election"
+   }
+  ],
+  "entities": [
+   "senegal",
+   "bassirou-diomaye-faye"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-05-29-anc-loses-majority",
+  "date": "2024-05-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Africa",
+  "title": "South Africa's ANC loses its majority for the first time since 1994",
+  "summary": "The ANC stayed the largest party but had to form a unity government with the Democratic Alliance and others.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_South_African_general_election"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/africa/20240529-south-africans-vote-in-election-that-could-end-the-anc-s-parliamentary-majority"
+   }
+  ],
+  "entities": [
+   "south-africa"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-06-25-kenya-parliament-stormed",
+  "date": "2024-06-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Africa",
+  "title": "Protesters storm Kenya's parliament over tax rises; Ruto drops the finance bill",
+  "summary": "Youth-led protests organised on social media broke into parliament; Ruto withdrew the bill on Jun 26 but protests continued into July.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kenya_Finance_Bill_protests"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2024/06/25/africa/kenya-protests-tax-rises-intl/index.html"
+   }
+  ],
+  "entities": [
+   "kenya",
+   "william-ruto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "where": [
+   "nairobi"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-07-13-trump-shot",
+  "date": "2024-07-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Americas",
+  "title": "Trump survives an assassination attempt at a Pennsylvania rally",
+  "summary": "A 20-year-old gunman fired from a nearby rooftop, wounding Trump's ear and killing a spectator before a Secret Service sniper killed him.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "where": [
+   "butler-pennsylvania"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-07-21-biden-withdraws",
+  "date": "2024-07-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Americas",
+  "title": "Biden drops out of the 2024 race and endorses Kamala Harris",
+  "summary": "Concerns over his age grew after a poor June debate. Harris became the Democratic nominee.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Withdrawal_of_Joe_Biden_from_the_2024_United_States_presidential_election"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2024/07/21/politics/inside-bidens-exit-from-2024-race/index.html"
+   }
+  ],
+  "entities": [
+   "joe-biden",
+   "kamala-harris",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "Announcement on social media.",
+  "related_stories": [
+   "2021-01-20-biden-inaugurated"
+  ]
+ },
+ {
+  "id": "2024-10-20-moldova-referendum",
+  "date": "2024-10-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Europe",
+  "title": "Moldovans narrowly back EU membership amid Russian meddling claims",
+  "summary": "A constitutional referendum held alongside the presidential first round passed by a thin margin; President Maia Sandu decried vote-buying.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Moldovan_European_Union_membership_constitutional_referendum"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20241020-moldovans-vote-in-presidential-election-referendum-on-joining-eu"
+   }
+  ],
+  "entities": [
+   "moldova",
+   "maia-sandu",
+   "russia",
+   "european-union"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "europe-populism",
+   "russia-ukraine"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "National vote.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-11-28-georgia-suspends-eu-bid",
+  "date": "2024-11-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Europe",
+  "title": "Georgian Dream suspends EU accession talks, setting off mass protests",
+  "summary": "Protests over the disputed Oct 26 election escalated when the ruling party said it would halt the EU process until 2028.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024%E2%80%932026_Georgian_protests"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2024/11/29/europe/georgia-protests-eu-membership-talks-suspended-intl/index.html"
+   }
+  ],
+  "entities": [
+   "georgia",
+   "georgian-dream",
+   "european-union",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "europe-populism",
+   "russia-ukraine"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "where": [
+   "tbilisi"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-12-06-romania-vote-annulled",
+  "date": "2024-12-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-27",
+  "region": "Europe",
+  "title": "Romania's top court annuls the presidential election over Russian interference",
+  "summary": "Călin Georgescu, a little-known nationalist, had topped the first round after a social-media surge; the court cancelled the runoff two days before it was due.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Romanian_presidential_election"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2024/12/06/europe/romania-annuls-presidential-election-intl/index.html"
+   }
+  ],
+  "entities": [
+   "romania",
+   "calin-georgescu",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-27",
+  "storylines": [
+   "europe-populism"
+  ],
+  "era": "2024 (year of elections)",
+  "marker": "political",
+  "unplaced": "Court ruling.",
   "related_stories": []
  }
 ]

@@ -37829,6 +37829,309 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-12-27": {
+   "sha256": "82114b3d586b1aa358fd0a7be57e98d8fc41bcba59fe6eeb010e205ee8a0d60f",
+   "undo": {
+    "stories": {
+     "2024-01-30-khan-convictions": null,
+     "2024-02-14-prabowo-elected": null,
+     "2024-03-24-senegal-faye": null,
+     "2024-05-29-anc-loses-majority": null,
+     "2024-06-25-kenya-parliament-stormed": null,
+     "2024-07-13-trump-shot": null,
+     "2024-07-21-biden-withdraws": null,
+     "2024-10-20-moldova-referendum": null,
+     "2024-11-28-georgia-suspends-eu-bid": null,
+     "2024-12-06-romania-vote-annulled": null,
+     "2023-08-05-khan-jailed": {
+      "id": "2023-08-05-khan-jailed",
+      "date": "2023-08-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-29",
+      "region": "Asia-Pacific",
+      "title": "Imran Khan is jailed for three years in the Toshakhana case",
+      "summary": "Khan was convicted of hiding income from selling state gifts and barred from office; the sentence was suspended later that month but he stayed in jail on other charges.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toshakhana_reference_cases_against_Imran_Khan_and_Bushra_Bibi"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/aug/05/former-pakistan-prime-minister-imran-khan-jailed-for-three-years"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/8/29/pakistan-court-suspends-imran-khans-conviction-in-big-relief-for-ex-pm"
+       }
+      ],
+      "entities": [
+       "imran-khan",
+       "pakistan"
+      ],
+      "causes": [
+       {
+        "story": "2023-05-09-imran-khan-arrested",
+        "why": "Legal campaign after his May arrest",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-29",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2023 (war of attrition)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2023-05-09-imran-khan-arrested"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row"
+      ],
+      "source": "inbox"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup"
+      ],
+      "source": "threads.md"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
