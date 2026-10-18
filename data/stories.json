@@ -2277,7 +2277,8 @@
    "2022-09-30-annexation",
    "diesel-deal",
    "energy-ceasefire",
-   "2022-12-16-japan-security-strategy"
+   "2022-12-16-japan-security-strategy",
+   "2023-03-17-icc-putin-warrant"
   ],
   "marker": "military",
   "where": [
@@ -20635,7 +20636,8 @@
   "unplaced": "A bank failure; no site.",
   "related_stories": [
    "2022-06-15-fed-75",
-   "2023-07-26-fed-peak-rate"
+   "2023-07-26-fed-peak-rate",
+   "2023-03-19-credit-suisse-rescue"
   ]
  },
  {
@@ -30329,7 +30331,8 @@
   "unplaced": "Government formation.",
   "related_stories": [
    "2026-07-17-knesset-dissolves",
-   "gaza-drone-strikes-oct17"
+   "gaza-drone-strikes-oct17",
+   "2023-03-26-israel-judicial-protests"
   ]
  },
  {
@@ -31295,6 +31298,234 @@
   "unplaced": "National election.",
   "related_stories": [
    "2020-10-25-chile-plebiscite"
+  ]
+ },
+ {
+  "id": "2023-02-04-spy-balloon",
+  "date": "2023-02-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-03-30",
+  "region": "Americas",
+  "title": "US shoots down a Chinese surveillance balloon off South Carolina",
+  "summary": "The balloon drifted across Alaska, Canada and the continental US for a week before an Air Force jet downed it. Blinken postponed a planned trip to Beijing.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2023/02/04/politics/china-spy-balloon-tick-tock/index.html"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/2/6/us-navy-working-to-recover-debris-from-chinese-spy-balloon"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2023-03-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "military",
+  "where": [
+   "myrtle-beach"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2023-02-25-tinubu-elected",
+  "date": "2023-02-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-03-30",
+  "region": "Africa",
+  "title": "Bola Tinubu wins Nigeria's presidency",
+  "summary": "The ruling APC candidate beat Atiku Abubakar and Labour's Peter Obi, whose campaign broke the two-party mould; the losers challenged the result in court.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/2/28/nigeria-presidential-election-results-2023"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2023/02/28/africa/nigeria-presidential-election-result-intl-hnk/index.html"
+   }
+  ],
+  "entities": [
+   "nigeria",
+   "bola-tinubu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2023-03-30",
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2023-03-17-icc-putin-warrant",
+  "date": "2023-03-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-03-30",
+  "region": "Russia/Eurasia",
+  "title": "ICC issues an arrest warrant for Putin over deported Ukrainian children",
+  "summary": "The warrant, also naming children's commissioner Maria Lvova-Belova, was the first against the leader of a permanent Security Council member.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ICC_arrest_warrants_for_Russian_leaders"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/canada-welcomes-iccs-decision-issue-arrest-warrant-putin-2023-03-17"
+   }
+  ],
+  "entities": [
+   "icc",
+   "vladimir-putin",
+   "russia",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2022-02-24-invasion",
+    "why": "War crimes in the invasion",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-03-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "where": [
+   "the-hague"
+  ],
+  "related_stories": [
+   "2022-02-24-invasion",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2025-08-15-alaska-summit",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2021-04-01-russia-spring-buildup",
+   "2021-07-12-putin-unity-essay"
+  ]
+ },
+ {
+  "id": "2023-03-19-credit-suisse-rescue",
+  "date": "2023-03-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-03-30",
+  "region": "Europe",
+  "title": "UBS buys Credit Suisse in a state-brokered rescue",
+  "summary": "Days after SVB's failure, Switzerland arranged a CHF 3bn takeover backed by more than CHF 100bn in central-bank liquidity; CHF 16bn of AT1 bonds were wiped out.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Acquisition_of_Credit_Suisse_by_UBS"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2023/03/19/ubs-agrees-to-buy-credit-suisse-as-regulators-look-to-shore-up-global-banking-system.html"
+   }
+  ],
+  "entities": [
+   "credit-suisse",
+   "switzerland"
+  ],
+  "causes": [
+   {
+    "story": "2023-03-10-svb-collapse",
+    "why": "Banking panic spread to Europe",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-03-30",
+  "storylines": [
+   "central-banks-rates"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "unplaced": "Corporate rescue.",
+  "related_stories": [
+   "2023-03-10-svb-collapse"
+  ]
+ },
+ {
+  "id": "2023-03-26-israel-judicial-protests",
+  "date": "2023-03-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-03-30",
+  "region": "Middle East",
+  "title": "Netanyahu fires his defence minister, setting off mass protests over judicial reform",
+  "summary": "Months of protests against the coalition's plan to curb the Supreme Court peaked when Yoav Gallant was fired for urging a pause; Netanyahu then delayed the legislation.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2023/03/26/middleeast/israel-judicial-overhaul-legislation-intl/index.html"
+   }
+  ],
+  "entities": [
+   "israel",
+   "benjamin-netanyahu",
+   "knesset"
+  ],
+  "causes": [
+   {
+    "story": "2021-06-13-bennett-government",
+    "why": "Netanyahu's return after the Bennett coalition fell",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-03-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "where": [
+   "tel-aviv"
+  ],
+  "related_stories": [
+   "2021-06-13-bennett-government",
+   "2026-07-17-knesset-dissolves",
+   "gaza-drone-strikes-oct17"
   ]
  }
 ]
