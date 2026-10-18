@@ -1,0 +1,567 @@
+{
+ "edition": "2005-03-31",
+ "entities": [
+  {
+   "id": "viktor-yushchenko",
+   "name": "Viktor Yushchenko",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Yushchenko"
+  },
+  {
+   "id": "rafic-hariri",
+   "name": "Rafic Hariri",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rafic_Hariri"
+  },
+  {
+   "id": "provisional-ira",
+   "name": "Provisional IRA",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+  },
+  {
+   "id": "free-aceh-movement",
+   "name": "Free Aceh Movement",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Free_Aceh_Movement"
+  },
+  {
+   "id": "sco",
+   "name": "Shanghai Cooperation Organisation",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+  },
+  {
+   "id": "mikhail-khodorkovsky",
+   "name": "Mikhail Khodorkovsky",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+  },
+  {
+   "id": "togo",
+   "name": "Togo",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Togo"
+  },
+  {
+   "id": "naivasha",
+   "name": "Naivasha",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Naivasha",
+   "lat": -0.72023611,
+   "lon": 36.42853056,
+   "precision": "city"
+  },
+  {
+   "id": "andijan",
+   "name": "Andijan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andijan",
+   "lat": 40.78333333,
+   "lon": 72.33388889,
+   "precision": "city"
+  },
+  {
+   "id": "belfast",
+   "name": "Belfast",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Belfast",
+   "lat": 54.5967,
+   "lon": -5.93,
+   "precision": "city"
+  },
+  {
+   "id": "banda-aceh",
+   "name": "Banda Aceh",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Banda_Aceh",
+   "lat": 5.55,
+   "lon": 95.3175,
+   "precision": "city"
+  },
+  {
+   "id": "new-orleans",
+   "name": "New Orleans",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans",
+   "lat": 29.9761,
+   "lon": -90.0783,
+   "precision": "city"
+  },
+  {
+   "id": "muzaffarabad",
+   "name": "Muzaffarabad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muzaffarabad",
+   "lat": 34.35833333,
+   "lon": 73.47222222,
+   "precision": "city"
+  },
+  {
+   "id": "jimbaran",
+   "name": "Jimbaran, Bali",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jimbaran",
+   "lat": -8.76944444,
+   "lon": 115.17388889,
+   "precision": "city"
+  },
+  {
+   "id": "amman",
+   "name": "Amman",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amman",
+   "lat": 31.94972222,
+   "lon": 35.93277778,
+   "precision": "city"
+  },
+  {
+   "id": "mar-del-plata",
+   "name": "Mar del Plata",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mar_del_Plata",
+   "lat": -38.0,
+   "lon": -57.55,
+   "precision": "city"
+  },
+  {
+   "id": "kyoto",
+   "name": "Kyoto",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kyoto",
+   "lat": 35.01161,
+   "lon": 135.76811,
+   "precision": "city"
+  },
+  {
+   "id": "lome",
+   "name": "Lomé",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lom%C3%A9",
+   "lat": 6.13083333,
+   "lon": 1.21527778,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2005-01-09-sudan-cpa",
+   "date": "2005-01-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "Sudan's government and the SPLM sign the Comprehensive Peace Agreement",
+   "summary": "The Naivasha deal ended the Second Sudanese Civil War and promised the South a vote on independence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Comprehensive_Peace_Agreement"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "south-sudan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "naivasha"
+   ]
+  },
+  {
+   "id": "2005-01-23-yushchenko-inaugurated",
+   "date": "2005-01-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Russia/Eurasia",
+   "title": "Viktor Yushchenko takes office after the Orange Revolution",
+   "summary": "He named Yulia Tymoshenko prime minister and pursued a Western course.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Viktor_Yushchenko"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "viktor-yushchenko",
+    "yulia-tymoshenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2005-01-30-iraq-first-election",
+   "date": "2005-01-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Iraqis vote in their first post-Saddam election as Sunnis boycott",
+   "summary": "Shia and Kurdish parties won control of the assembly that wrote the constitution.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/January_2005_Iraqi_parliamentary_election"
+    }
+   ],
+   "entities": [
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2005-02-14-hariri-assassinated",
+   "date": "2005-02-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Former Lebanese PM Rafic Hariri is killed by a massive truck bomb in Beirut",
+   "summary": "A UN-backed tribunal later convicted a Hezbollah member.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Rafic_Hariri"
+    }
+   ],
+   "entities": [
+    "lebanon",
+    "rafic-hariri",
+    "syria",
+    "hezbollah"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2005-02-16-kyoto-in-force",
+   "date": "2005-02-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "The Kyoto Protocol enters into force without the US",
+   "summary": "It bound rich countries to emission cuts until 2012.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kyoto_Protocol"
+    }
+   ],
+   "entities": [
+    "cop"
+   ],
+   "storylines": [
+    "climate-diplomacy"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "kyoto"
+   ]
+  },
+  {
+   "id": "2005-03-14-anti-secession-law",
+   "date": "2005-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "China passes the Anti-Secession Law authorising force against Taiwan",
+   "summary": "It codified 'non-peaceful means' if Taiwan moved toward independence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Anti-Secession_Law"
+    }
+   ],
+   "entities": [
+    "china",
+    "taiwan"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2005-03-14-cedar-revolution",
+   "date": "2005-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Huge Cedar Revolution rally in Beirut; Syrian troops leave Lebanon by April",
+   "summary": "Lebanon split into the March 14 and the Hezbollah-led March 8 camps.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cedar_Revolution"
+    }
+   ],
+   "entities": [
+    "lebanon",
+    "syria",
+    "hezbollah"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2005-03-24-tulip-revolution",
+   "date": "2005-03-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Russia/Eurasia",
+   "title": "Kyrgyzstan's Tulip Revolution topples President Akayev",
+   "summary": "It was the third 'colour revolution', after Georgia and Ukraine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tulip_Revolution"
+    }
+   ],
+   "entities": [
+    "kyrgyzstan"
+   ],
+   "storylines": [
+    "central-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bishkek"
+   ]
+  },
+  {
+   "id": "2005-02-05-togo-succession",
+   "date": "2005-02-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "Togo's army installs Faure Gnassingbé after his father's death",
+   "summary": "After regional pressure he stepped aside, then won a violent April election.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Togolese_presidential_election"
+    }
+   ],
+   "entities": [
+    "togo",
+    "ecowas"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "lome"
+   ]
+  },
+  {
+   "id": "2005-02-06-thaksin-landslide",
+   "date": "2005-02-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Thaksin Shinawatra wins a second landslide in Thailand",
+   "summary": "His dominance alarmed the royalist establishment that ousted him in 2006.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Thai_general_election"
+    }
+   ],
+   "entities": [
+    "thailand",
+    "thaksin-shinawatra"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2005-03-31-unsc-refers-darfur",
+   "date": "2005-03-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "UN Security Council refers Darfur to the International Criminal Court",
+   "summary": "Resolution 1593 was the first UNSC referral to the ICC.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1593"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "icc"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2005-01-09-sudan-cpa",
+    "2005-03-31-unsc-refers-darfur"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2005-01-23-yushchenko-inaugurated"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2005-01-30-iraq-first-election"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2005-02-14-hariri-assassinated",
+    "2005-03-14-cedar-revolution"
+   ]
+  },
+  {
+   "id": "climate-diplomacy",
+   "name": "Climate diplomacy",
+   "entities": [
+    "paris-agreement",
+    "cop"
+   ],
+   "stories": [
+    "2005-02-16-kyoto-in-force"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2005-03-14-anti-secession-law"
+   ]
+  },
+  {
+   "id": "central-asia",
+   "name": "Central Asia upheavals",
+   "entities": [
+    "kyrgyzstan",
+    "kazakhstan"
+   ],
+   "stories": [
+    "2005-03-24-tulip-revolution"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2005-02-05-togo-succession"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2005-02-06-thaksin-landslide"
+   ]
+  }
+ ]
+}
