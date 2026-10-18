@@ -21758,6 +21758,570 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-12-30": {
+   "sha256": "d14cd7a926f179798d9af7c3d7821e44dfc80595f76b7d489710d66b5d22310e",
+   "undo": {
+    "stories": {
+     "2024-01-09-ecuador-internal-conflict": null,
+     "2024-01-26-icj-provisional-measures": null,
+     "2024-01-25-africa-corps-burkina": null,
+     "2024-03-07-sweden-joins-nato": null,
+     "2024-03-18-gaza-famine-warning": null,
+     "2024-05-02-m23-seizes-rubaya": null,
+     "2024-05-10-el-fasher-siege": null,
+     "2024-10-02-china-coast-guard-arctic": null,
+     "2024-11-21-icc-netanyahu-warrant": null,
+     "2023-10-27-gaza-ground-invasion": {
+      "id": "2023-10-27-gaza-ground-invasion",
+      "date": "2023-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Middle East",
+      "title": "Israel launches its ground invasion of Gaza",
+      "summary": "After three weeks of bombardment, Israel sent ground forces into northern Gaza and then besieged Gaza City. A week-long truce in late November swapped hostages for prisoners.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaza_war"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-07-hamas-attack",
+        "why": "Israel's response to Oct 7",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2023-10-07-hamas-attack",
+       "2024-05-07-rafah-offensive",
+       "2023-11-24-gaza-hostage-truce"
+      ]
+     },
+     "2023-08-23-prigozhin-killed": {
+      "id": "2023-08-23-prigozhin-killed",
+      "date": "2023-08-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Prigozhin dies in a plane crash two months after his mutiny",
+      "summary": "His jet crashed in Tver oblast, killing Wagner's top leaders. The Kremlin denied involvement, and Wagner's Africa operations were folded into the defence ministry's Africa Corps.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/8/23/private-plane-crashes-in-russia-with-wagner-group-chief-on-board"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/aug/23/yevgeny-prigozhin-on-private-jet-that-crashed-near-moscow-russia-wagner"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/kremlin-says-prigozhin-plane-crash-may-have-been-caused-deliberately-2023-08-30/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Wagner_Group_plane_crash"
+       }
+      ],
+      "entities": [
+       "yevgeny-prigozhin",
+       "wagner-group",
+       "africa-corps",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2023-06-24-prigozhin-mutiny",
+        "why": "Retribution for the mutiny, widely suspected",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "russia-ukraine",
+       "sahel"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "strike",
+      "unplaced": "Crash near Kuzhenkino, Tver oblast.",
+      "related_stories": [
+       "2023-06-24-prigozhin-mutiny",
+       "2025-06-06-wagner-leaves-mali",
+       "2023-05-20-bakhmut-falls"
+      ]
+     },
+     "2023-04-04-finland-joins-nato": {
+      "id": "2023-04-04-finland-joins-nato",
+      "date": "2023-04-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Europe",
+      "title": "Finland joins NATO, doubling the alliance's border with Russia",
+      "summary": "Finland became NATO's 31st member after Turkey ratified its accession. Sweden followed in March 2024.",
+      "sources": [
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2023/04/04/europe/finland-joins-nato-intl/index.html"
+       },
+       {
+        "name": "US State Department (protocol)",
+        "url": "https://www.state.gov/wp-content/uploads/2023/04/website-38-Protocol-to-the-North-Atlantic-Treaty-on-the-Accession-of-the-Republic-of-Finland.pdf"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Finland–NATO_relations"
+       }
+      ],
+      "entities": [
+       "finland",
+       "nato",
+       "sweden",
+       "turkey"
+      ],
+      "causes": [
+       {
+        "story": "2022-05-18-finland-sweden",
+        "why": "Completes the 2022 applications",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Ceremony in Brussels.",
+      "related_stories": [
+       "2022-05-18-finland-sweden",
+       "2022-06-29-madrid"
+      ]
+     },
+     "2022-06-13-bunagana": {
+      "id": "2022-06-13-bunagana",
+      "date": "2022-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "M23 seizes Bunagana on DRC–Uganda border",
+      "summary": "M23 rebels, whose 2022 resurgence Kinshasa blames on Rwanda, captured the border town of Bunagana.",
+      "sources": [
+       {
+        "name": "Wikipedia: M23 campaign (2022–present)",
+        "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022–present)"
+       }
+      ],
+      "entities": [
+       "m23",
+       "drc",
+       "rwanda",
+       "bunagana"
+      ],
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kabila-m23",
+        "why": "M23's 2022 resurgence began today's war",
+        "confidence": "likely"
+       },
+       {
+        "story": "rubaya-coltan",
+        "why": "M23 territorial expansion since 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "2026-01-19-m23-leaves-uvira",
+       "2025-01-27-m23-takes-goma"
+      ]
+     },
+     "2023-12-18-wad-madani-falls": {
+      "id": "2023-12-18-wad-madani-falls",
+      "date": "2023-12-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Africa",
+      "title": "RSF seizes Wad Madani, Sudan's second city and an aid hub",
+      "summary": "The army withdrew from Gezira state's capital, where hundreds of thousands who had fled Khartoum were sheltering, setting off new flight and RSF abuses in Gezira.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2023/12/19/losing-hope-sudan-civilians-terrified-as-rsf-attacks-second-biggest-city"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/12/20/world/africa/sudan-army-rsf-wad-madani.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Wad_Madani"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudanese-armed-forces",
+       "sudan"
+      ],
+      "causes": [
+       {
+        "story": "2023-04-15-sudan-war-begins",
+        "why": "RSF expansion beyond Khartoum",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "wad-madani"
+      ],
+      "related_stories": [
+       "2023-04-15-sudan-war-begins",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-05-11-jeddah-declaration"
+      ]
+     },
+     "2022-02-04-no-limits": {
+      "id": "2022-02-04-no-limits",
+      "date": "2022-02-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Xi and Putin declare a 'no limits' partnership",
+      "summary": "At the Beijing Winter Olympics, China and Russia issued a joint statement declaring their friendship had 'no limits' and opposing further NATO enlargement.",
+      "sources": [
+       {
+        "name": "Wikipedia: China–Russia relations",
+        "url": "https://en.wikipedia.org/wiki/China–Russia_relations"
+       }
+      ],
+      "entities": [
+       "china",
+       "russia",
+       "xi-jinping",
+       "vladimir-putin",
+       "nato"
+      ],
+      "storylines": [
+       "russia-ukraine",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-17-russia-drafts",
+        "why": "China endorsed Russia's opposition to NATO enlargement",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Moscow moved after securing Chinese political backing",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-06-29-madrid",
+        "why": "Sino-Russian alignment entered NATO doctrine",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-24-invasion",
+       "2022-06-29-madrid"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks"
+      ],
+      "source": "threads.md"
+     },
+     "drc-m23-minerals": {
+      "id": "drc-m23-minerals",
+      "name": "DRC / M23 minerals war",
+      "entities": [
+       "drc",
+       "m23",
+       "rwanda",
+       "joseph-kabila",
+       "rubaya",
+       "coltan"
+      ],
+      "stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "ai-minerals",
+       "2022-06-13-bunagana",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-m23-takes-goma",
+       "2025-12-04-washington-accords-uvira"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

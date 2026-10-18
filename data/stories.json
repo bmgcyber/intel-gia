@@ -1795,7 +1795,8 @@
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-24-invasion",
-   "2022-06-29-madrid"
+   "2022-06-29-madrid",
+   "2024-10-02-china-coast-guard-arctic"
   ]
  },
  {
@@ -3617,7 +3618,8 @@
    "kabila-m23",
    "rubaya-coltan",
    "2026-01-19-m23-leaves-uvira",
-   "2025-01-27-m23-takes-goma"
+   "2025-01-27-m23-takes-goma",
+   "2024-05-02-m23-seizes-rubaya"
   ]
  },
  {
@@ -19784,7 +19786,8 @@
   "unplaced": "Ceremony in Brussels.",
   "related_stories": [
    "2022-05-18-finland-sweden",
-   "2022-06-29-madrid"
+   "2022-06-29-madrid",
+   "2024-03-07-sweden-joins-nato"
   ]
  },
  {
@@ -20358,7 +20361,8 @@
   "related_stories": [
    "2023-06-24-prigozhin-mutiny",
    "2025-06-06-wagner-leaves-mali",
-   "2023-05-20-bakhmut-falls"
+   "2023-05-20-bakhmut-falls",
+   "2024-01-25-africa-corps-burkina"
   ]
  },
  {
@@ -20627,7 +20631,9 @@
   "related_stories": [
    "2023-10-07-hamas-attack",
    "2024-05-07-rafah-offensive",
-   "2023-11-24-gaza-hostage-truce"
+   "2023-11-24-gaza-hostage-truce",
+   "2024-01-26-icj-provisional-measures",
+   "2024-03-18-gaza-famine-warning"
   ]
  },
  {
@@ -21388,7 +21394,465 @@
    "2026-10-09-el-obeid-drones",
    "2025-03-21-khartoum-retaken",
    "2025-10-26-el-fasher-falls",
+   "2023-05-11-jeddah-declaration",
+   "2024-05-10-el-fasher-siege"
+  ]
+ },
+ {
+  "id": "2024-01-09-ecuador-internal-conflict",
+  "date": "2024-01-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Americas",
+  "title": "Ecuador declares an 'internal armed conflict' against gangs after a TV studio is stormed",
+  "summary": "After Los Choneros boss Fito escaped and gunmen took over a live TV broadcast in Guayaquil, President Noboa designated 22 gangs as terrorists and deployed the army.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/1/9/several-police-kidnapped-in-ecuador-after-state-of-emergency-declared"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20240109-gunmen-burst-into-ecuador-tv-studio-threaten-journalists-live-on-air"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ecuadorian_conflict_(2024–present)"
+   }
+  ],
+  "entities": [
+   "ecuador"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "Guayaquil and nationwide.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-01-26-icj-provisional-measures",
+  "date": "2024-01-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Middle East",
+  "title": "ICJ orders Israel to prevent genocidal acts in Gaza in South Africa's case",
+  "summary": "The court found a plausible risk of irreparable harm to Palestinians' rights under the Genocide Convention and ordered Israel to prevent such acts and allow aid, without ordering a ceasefire.",
+  "sources": [
+   {
+    "name": "ICJ case page",
+    "url": "https://www.icj-cij.org/case/192"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/1/26/world-reacts-to-icj-ruling-on-south-africas-genocide-case-against-israel"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2024/jan/26/israeli-officials-accuse-international-court-of-justice-of-antisemitic-bias"
+   }
+  ],
+  "entities": [
+   "icj",
+   "israel",
+   "hamas"
+  ],
+  "causes": [
+   {
+    "story": "2023-10-27-gaza-ground-invasion",
+    "why": "Legal challenge to the war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "the-hague"
+  ],
+  "related_stories": [
+   "2023-10-27-gaza-ground-invasion"
+  ]
+ },
+ {
+  "id": "2024-01-25-africa-corps-burkina",
+  "date": "2024-01-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Africa",
+  "title": "Russia's new Africa Corps deploys to Burkina Faso as Wagner is folded into the state",
+  "summary": "The first Africa Corps contingent arrived in Ouagadougou. Run by Russia's defence ministry, it took over Wagner's Sahel role after Prigozhin's death.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/russian-troops-deploy-burkina-faso-2024-01-25/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)"
+   }
+  ],
+  "entities": [
+   "africa-corps",
+   "burkina-faso",
+   "russia",
+   "wagner-group"
+  ],
+  "causes": [
+   {
+    "story": "2023-08-23-prigozhin-killed",
+    "why": "State takeover of Wagner's Africa business",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "Ouagadougou has no place entity.",
+  "related_stories": [
+   "2023-08-23-prigozhin-killed",
+   "2025-06-06-wagner-leaves-mali"
+  ]
+ },
+ {
+  "id": "2024-03-07-sweden-joins-nato",
+  "date": "2024-03-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Europe",
+  "title": "Sweden joins NATO, making the Baltic almost a NATO lake and adding Arctic depth",
+  "summary": "After Hungary's ratification, Sweden became the 32nd member. With Finland, it put most of the Nordic Arctic inside NATO, facing Russia's Kola Peninsula bases.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/hungarys-parliament-speaker-signs-off-swedens-nato-accession-2024-03-02/"
+   },
+   {
+    "name": "US State Department (protocol)",
+    "url": "https://www.state.gov/wp-content/uploads/2024/03/website-39-Protocol-to-the-North-Atlantic-Treaty-on-the-Accession-of-the-Kingdom-of-Sweden.pdf"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sweden–NATO_relations"
+   }
+  ],
+  "entities": [
+   "sweden",
+   "finland",
+   "nato",
+   "russia",
+   "hungary"
+  ],
+  "causes": [
+   {
+    "story": "2023-04-04-finland-joins-nato",
+    "why": "Completes the Nordic enlargement",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "unplaced": "Ceremony in Washington.",
+  "related_stories": [
+   "2023-04-04-finland-joins-nato",
+   "2022-05-18-finland-sweden",
+   "2022-06-29-madrid"
+  ]
+ },
+ {
+  "id": "2024-03-18-gaza-famine-warning",
+  "date": "2024-03-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Middle East",
+  "title": "IPC warns famine is imminent in northern Gaza",
+  "summary": "The global hunger monitor projected famine in northern Gaza by May without a ceasefire and aid surge. The EU's Borrell accused Israel of using starvation as a weapon of war.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/eus-borrell-says-israel-is-provoking-famine-gaza-2024-03-18/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2024/mar/19/the-guardian-view-on-famine-in-gaza-a-human-made-catastrophe"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gaza_Strip_famine"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hamas",
+   "food-security",
+   "european-union"
+  ],
+  "causes": [
+   {
+    "story": "2023-10-27-gaza-ground-invasion",
+    "why": "Siege and war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "gaza-city"
+  ],
+  "related_stories": [
+   "2023-10-27-gaza-ground-invasion",
+   "2024-11-21-icc-netanyahu-warrant"
+  ]
+ },
+ {
+  "id": "2024-05-02-m23-seizes-rubaya",
+  "date": "2024-05-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Africa",
+  "title": "M23 seizes Rubaya, the Great Lakes' largest coltan mine, and taxes its output",
+  "summary": "After fighting in late April, M23 said on May 2 it held Rubaya. It had briefly entered in February 2023 before the army retook it. UN experts later found the rebels ran a parallel mining administration earning at least $800,000 a month, and that at least 150 tonnes of coltan were smuggled into Rwanda. They estimated 3,000–4,000 Rwandan troops in Congo.",
+  "sources": [
+   {
+    "name": "UN Group of Experts (S/2024/969)",
+    "url": "https://documents.un.org/doc/undoc/gen/n24/373/37/pdf/n2437337.pdf"
+   },
+   {
+    "name": "Reuters (UN experts)",
+    "url": "https://www.reuters.com/world/africa/congo-rebels-muddy-minerals-market-with-illegal-rwanda-exports-says-un-report-2025-01-08/"
+   },
+   {
+    "name": "AP (Rwandan troops)",
+    "url": "https://apnews.com/article/un-congo-rwanda-troops-m23-panel-experts-8619a4ce5727a7fec85808ef76762d9b"
+   },
+   {
+    "name": "Radio Okapi (2023 recapture)",
+    "url": "https://www.radiookapi.net/2023/03/01/actualite/securite/masisi-les-fardc-reprennent-la-cite-de-rubaya"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rubaya"
+   }
+  ],
+  "entities": [
+   "m23",
+   "rwanda",
+   "drc",
+   "coltan"
+  ],
+  "causes": [
+   {
+    "story": "2022-06-13-bunagana",
+    "why": "M23's 2022 resurgence",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "drc-m23-minerals"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "Rubaya, Masisi territory, North Kivu (the existing rubaya entity has no coordinates).",
+  "related_stories": [
+   "2022-06-13-bunagana",
+   "kabila-m23",
+   "rubaya-coltan",
+   "kabila-frn-succeeds-afc",
+   "2026-01-19-m23-leaves-uvira",
+   "2026-03-washington-accords",
+   "2025-01-27-m23-takes-goma",
+   "2025-12-04-washington-accords-uvira"
+  ]
+ },
+ {
+  "id": "2024-05-10-el-fasher-siege",
+  "date": "2024-05-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Africa",
+  "title": "RSF tightens its siege of El Fasher, the army's last Darfur stronghold",
+  "summary": "Heavy fighting in May 2024 sealed off North Darfur's capital and nearby camps such as Abu Shouk and Zamzam. The siege lasted until the city fell in October 2025.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/global-development/article/2024/may/24/sudan-darfur-el-fasher-abu-shouk-displaced-people-camp-rsf"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Siege_of_El_Fasher"
+   }
+  ],
+  "entities": [
+   "rsf",
+   "sudanese-armed-forces",
+   "sudan",
+   "el-fasher"
+  ],
+  "causes": [
+   {
+    "story": "2023-12-18-wad-madani-falls",
+    "why": "RSF momentum",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "el-fasher"
+  ],
+  "related_stories": [
+   "2023-12-18-wad-madani-falls",
+   "2026-02-03-kadugli-siege-broken",
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-10-09-el-obeid-drones",
+   "2025-03-21-khartoum-retaken",
+   "2025-10-26-el-fasher-falls",
+   "2023-04-15-sudan-war-begins",
    "2023-05-11-jeddah-declaration"
+  ]
+ },
+ {
+  "id": "2024-10-02-china-coast-guard-arctic",
+  "date": "2024-10-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Russia/Eurasia",
+  "title": "China's coast guard enters the Arctic for the first time on a joint patrol with Russia",
+  "summary": "Days after the US Coast Guard tracked Chinese and Russian ships in the Bering Sea, China's Meishan entered the Arctic Ocean. Bombers had flown jointly near Alaska in July, and the US called it growing strategic interest in the Arctic.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/chinas-coast-guard-enters-arctic-first-time-patrol-with-russia-2024-10-02/"
+   },
+   {
+    "name": "US Coast Guard",
+    "url": "https://www.news.uscg.mil/Press-Releases/Article/3922625/us-coast-guard-encounters-joint-chinese-coast-guard-russian-border-guard-patrol/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/us-china-russia-coast-guard-356dfbf91a4861798c9b920196c4bc50"
+   },
+   {
+    "name": "CSIS ChinaPower",
+    "url": "https://chinapower.csis.org/analysis/china-russia-coast-guard-cooperation/"
+   }
+  ],
+  "entities": [
+   "china",
+   "russia",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2022-02-04-no-limits",
+    "why": "Sino-Russian partnership extended to the Arctic",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "analysis": {
+   "text": "The Arctic became an arena of great-power competition, part of the backdrop to Trump's 2025–26 Greenland push.",
+   "confidence": "possible"
+  },
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "At sea in the Arctic.",
+  "related_stories": [
+   "2022-02-04-no-limits",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "2026-02-05-new-start-expires",
+   "2026-09-18-graham-act-signed",
+   "2025-11-06-c5-plus-1-summit"
+  ]
+ },
+ {
+  "id": "2024-11-21-icc-netanyahu-warrant",
+  "date": "2024-11-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-30",
+  "region": "Middle East",
+  "title": "ICC issues arrest warrants for Netanyahu and Gallant (and Hamas's Deif)",
+  "summary": "The court found reasonable grounds for war crimes including starvation as a method of warfare. Israel rejected its jurisdiction, and the US later sanctioned ICC officials.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/11/21/icc-issues-arrest-warrant-for-israeli-pm-netanyahu-for-war-crimes-in-gaza"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/11/21/world/middleeast/hamas-leaders-icc-arrest-warrant.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ICC_arrest_warrants_for_Israeli_leaders"
+   }
+  ],
+  "entities": [
+   "icc",
+   "israel",
+   "benjamin-netanyahu",
+   "hamas"
+  ],
+  "causes": [
+   {
+    "story": "2024-03-18-gaza-famine-warning",
+    "why": "Starvation charge",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "the-hague"
+  ],
+  "related_stories": [
+   "2024-03-18-gaza-famine-warning",
+   "2025-03-18-gaza-war-resumes"
   ]
  }
 ]
