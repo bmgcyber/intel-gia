@@ -157,6 +157,7 @@
   "related_stories": [
    "2022-09-jcpoa-stall",
    "2026-08-17-mou-expires",
+   "iran-seven-day-hormuz-offer",
    "hormuz-attacks-surge",
    "kataib-hezbollah-halt",
    "2022-03-27-negev-summit",
@@ -172,7 +173,26 @@
    "2026-07-08-mou-collapses",
    "2026-09-18-graham-act-signed",
    "2026-09-26-trump-rejects-iran-plan",
-   "iran-seven-day-hormuz-offer"
+   "2025-06-13-israel-strikes-iran",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-01-iran-missile-barrage",
+   "2024-04-01-damascus-consulate-strike",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2020-08-13-abraham-accords",
+   "2020-12-14-sudan-delisted",
+   "2019-03-25-golan-recognition",
+   "2019-06-20-global-hawk-downed",
+   "2018-05-08-us-quits-jcpoa",
+   "2018-05-14-jerusalem-embassy-gaza",
+   "2017-01-27-travel-ban",
+   "2017-08-02-caatsa",
+   "2017-12-06-jerusalem-recognition",
+   "2010-06-09-unsc-1929",
+   "2010-06-17-stuxnet",
+   "second-mine-tanker-ukmto-record"
   ],
   "causes": [
    {
@@ -194,8 +214,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Diplomacy."
  },
  {
   "id": "houthis-hit-aramco",
@@ -732,7 +762,8 @@
   "storylines": [
    "china-minerals-leverage",
    "taiwan-indopacific",
-   "ai-compute-minerals"
+   "ai-compute-minerals",
+   "us-tariffs-trade"
   ],
   "related_stories": [
    "2021-12-china-rare-earth-group",
@@ -741,7 +772,7 @@
    "2026-09-23-us-china-fragile-truce",
    "2025-10-09-china-rare-earth-expansion",
    "2025-10-30-busan-truce",
-   "eu-china-rare-earth-green-channel",
+   "china-draft-ai-export-controls",
    "ai-minerals",
    "pla-drills",
    "2022-05-23-ipef",
@@ -752,6 +783,7 @@
    "pla-patrol-oct14-15",
    "saudi-blames-iran-eu-gcc-postponed",
    "coreweave-ai-credit-shock",
+   "eu-china-rare-earth-green-channel",
    "2025-12-29-justice-mission-drills",
    "2026-02-08-takaichi-landslide",
    "2026-03-30-china-sanctions-furuya",
@@ -761,7 +793,18 @@
    "2025-07-10-mp-materials-dod",
    "2025-10-20-us-australia-minerals",
    "2025-11-07-takaichi-taiwan-remarks",
-   "china-draft-ai-export-controls"
+   "2025-11-06-c5-plus-1-summit",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2023-04-05-tsai-mccarthy",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-23-china-ecs-adiz",
+   "2013-11-24-iran-interim-deal",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
   ],
   "causes": [
    {
@@ -811,6 +854,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -1271,11 +1321,13 @@
   "era": "2020s",
   "storylines": [
    "venezuela-oil",
-   "global-oil"
+   "global-oil",
+   "western-hemisphere"
   ],
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
    "2026-01-06-us-venezuela-oil-deal",
+   "venezuela-talks-election-rules",
    "hormuz-attacks-surge",
    "diesel-deal",
    "2022-03-08-us-oil-ban",
@@ -1296,7 +1348,18 @@
    "2026-04-13-us-blockade-iran",
    "2026-09-18-graham-act-signed",
    "2026-10-12-cuba-blockade-bites",
-   "venezuela-talks-election-rules"
+   "2025-08-27-india-50pct-tariff",
+   "2025-09-02-boat-strikes-begin",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
+   "2020-03-26-maduro-indicted",
+   "2019-01-23-guaido-interim-president",
+   "2019-01-28-pdvsa-sanctions",
+   "2017-07-30-venezuela-constituent-assembly",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "graham-waiver-bipartisan-backlash"
   ],
   "causes": [
    {
@@ -1318,8 +1381,19 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "energy",
+  "unplaced": "Oil trade flows."
  },
  {
   "id": "2021-10-europe-gas-crunch",
@@ -8123,6 +8197,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575"
+   },
+   {
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
    }
   ],
   "entities": [
@@ -8157,6 +8239,8 @@
   ],
   "related_stories": [
    "houthis-saudi-oct15",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "houthis-aden-airport-khamis-mushait",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
    "2022-01-abu-dhabi-attack",
@@ -8165,8 +8249,30 @@
    "2022-04-02-yemen-truce",
    "2022-04-07-plc",
    "2022-10-02-truce-expires",
-   "saudi-blames-iran-eu-gcc-postponed",
-   "houthis-aden-airport-khamis-mushait"
+   "yanbu-missile-intercepted",
+   "2026-01-09-stc-dissolution",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-09-10-houthis-seize-mokha",
+   "2025-12-03-stc-seizes-hadramawt",
+   "2021-02-04-biden-yemen-shift",
+   "2019-09-14-abqaiq-attack",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-12-04-saleh-killed",
+   "2015-03-26-saudi-intervention-yemen",
+   "2014-09-21-houthis-take-sanaa",
+   "2009-08-11-yemen-scorched-earth",
+   "egypt-offers-to-defend-saudi"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8400,6 +8506,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/world-news/exclusiveorder-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say-4952816"
+   },
+   {
+    "name": "Defense News (Reuters)",
+    "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html"
    }
   ],
   "entities": [
@@ -8432,10 +8546,28 @@
   "unplaced": "The restriction applied to Starshield service across Ukraine; no single site is named.",
   "related_stories": [
    "energy-ceasefire-collapse",
+   "poland-starlink-arson-russia-gang",
    "energy-ceasefire",
    "diesel-deal",
    "trump-disgrace-eu-summit",
-   "poland-starlink-arson-russia-gang"
+   "trump-waives-russia-sanctions",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-11-20-28-point-plan",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2022-12-21-zelensky-washington",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "graham-waiver-bipartisan-backlash"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8794,7 +8926,8 @@
   },
   "storylines": [
    "yemen-houthis-saudi",
-   "iran-proxy-network"
+   "iran-proxy-network",
+   "gulf-realignment"
   ],
   "era": "2020s",
   "marker": "diplomacy",
@@ -8806,6 +8939,7 @@
    "houthis-hit-aden-palace",
    "2026-10-05-mecca-pact-activated",
    "yanbu-missile-intercepted",
+   "egypt-offers-to-defend-saudi",
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
@@ -8823,7 +8957,32 @@
    "eu-china-rare-earth-green-channel",
    "2026-02-05-new-start-expires",
    "2026-09-18-graham-act-signed",
-   "egypt-offers-to-defend-saudi"
+   "2025-04-02-liberation-day",
+   "2025-11-06-c5-plus-1-summit",
+   "2023-03-10-saudi-iran-beijing",
+   "2023-08-24-brics-expansion",
+   "2024-10-02-china-coast-guard-arctic",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2020-04-12-opec-plus-record-cut",
+   "2021-02-04-biden-yemen-shift",
+   "2026-04-07-hormuz-resolution-veto",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2019-09-14-abqaiq-attack",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2018-08-09-dahyan-bus-strike",
+   "2017-08-02-caatsa",
+   "2016-01-16-jcpoa-implementation",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-03-26-saudi-intervention-yemen",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2007-02-13-six-party-deal",
+   "2003-04-30-road-map",
+   "2003-08-27-six-party-talks-begin",
+   "second-mine-tanker-ukmto-record",
+   "houthis-aden-airport-khamis-mushait"
   ],
   "revisions": [
    {
@@ -8831,6 +8990,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -9158,7 +9324,8 @@
   },
   "storylines": [
    "russia-ukraine",
-   "global-oil"
+   "global-oil",
+   "us-tariffs-trade"
   ],
   "era": "2020s",
   "marker": "political",
@@ -9167,6 +9334,8 @@
    "diesel-deal",
    "trump-disgrace-eu-summit",
    "2026-09-18-graham-act-signed",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
    "energy-ceasefire",
    "venezuela-oil",
    "2021-11-russia-buildup",
@@ -9196,8 +9365,53 @@
    "2026-05-14-trump-xi-beijing",
    "2026-08-13-russian-diesel-lows",
    "2026-09-22-zelensky-trump-unga",
-   "russia-332-drone-energy-strike",
-   "graham-waiver-bipartisan-backlash"
+   "2025-02-28-oval-office-clash",
+   "2025-04-02-liberation-day",
+   "2025-08-15-alaska-summit",
+   "2025-08-27-india-50pct-tariff",
+   "2025-08-refinery-strikes",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-10-30-busan-truce",
+   "2025-11-20-28-point-plan",
+   "2025-12-08-h200-china",
+   "2025-09-22-putin-new-start-offer",
+   "2025-11-06-c5-plus-1-summit",
+   "2023-08-24-brics-expansion",
+   "2023-09-09-delhi-g20",
+   "2024-10-02-china-coast-guard-arctic",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2020-01-15-phase-one-deal",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-05-10-us-china-tariffs-escalate",
+   "2019-05-15-huawei-entity-list",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2019-10-09-operation-peace-spring",
+   "2019-12-02-power-of-siberia",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2018-07-06-us-china-tariffs-begin",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2014-05-21-russia-china-gas-deal",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2009-06-16-first-bric-summit",
+   "2007-02-10-putin-munich-speech",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin",
+   "2002-05-24-moscow-treaty",
+   "2001-07-16-sino-russian-treaty",
+   "iran-seven-day-hormuz-offer"
   ],
   "revisions": [
    {
@@ -9205,6 +9419,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -9455,7 +9676,8 @@
   "storylines": [
    "yemen-houthis-saudi",
    "iran-proxy-network",
-   "global-oil"
+   "global-oil",
+   "gulf-realignment"
   ],
   "era": "2020s",
   "marker": "strike",
@@ -9464,6 +9686,8 @@
   ],
   "related_stories": [
    "saudi-blames-iran-eu-gcc-postponed",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
@@ -9471,8 +9695,21 @@
    "2022-03-25-jeddah-attack",
    "houthis-saudi-oct15",
    "houthis-hit-aden-palace",
-   "egypt-offers-to-defend-saudi",
-   "houthis-aden-airport-khamis-mushait"
+   "2026-09-10-east-west-pipeline-attack",
+   "2023-03-10-saudi-iran-beijing",
+   "2023-08-24-brics-expansion",
+   "2019-09-14-abqaiq-attack",
+   "2015-03-26-saudi-intervention-yemen",
+   "second-mine-tanker-ukmto-record"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -9715,6 +9952,14 @@
    {
     "name": "The New Humanitarian",
     "url": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet"
+   },
+   {
+    "name": "Critical Threats (Africa File, Oct 15 2026)",
+    "url": "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-drc-m23-fln-kabila-rwanda-jnim-issp"
+   },
+   {
+    "name": "Daily Nation (Reuters)",
+    "url": "https://nation.africa/kenya/news/africa/asmara-appeals-to-un-as-ethiopian-troops-reach-border--5631100"
    }
   ],
   "entities": [
@@ -9752,7 +9997,10 @@
   "related_stories": [
    "2026-09-23-tplf-offensive",
    "2026-10-09-ethiopia-eritrea-accusations",
-   "tigray-federal-takeover-rubio"
+   "tigray-federal-takeover-rubio",
+   "2020-11-04-tigray-war",
+   "2021-06-28-tdf-retakes-mekelle",
+   "2022-11-02-pretoria-agreement"
   ],
   "revisions": [
    {
@@ -9760,6 +10008,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -12733,7 +12988,8 @@
   "batch": "inbox-2026-06-30",
   "storylines": [
    "china-minerals-leverage",
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "japan-politics-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "political",
@@ -12742,9 +12998,9 @@
    "2026-02-08-takaichi-landslide",
    "2021-12-china-rare-earth-group",
    "2025-11-07-takaichi-taiwan-remarks",
+   "takaichi-yasukuni-offering",
    "rare-earth-nov10",
-   "2026-03-30-china-sanctions-furuya",
-   "takaichi-yasukuni-offering"
+   "2026-03-30-china-sanctions-furuya"
   ],
   "revisions": [
    {
@@ -12752,6 +13008,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -14471,15 +14734,28 @@
   "effects": [],
   "batch": "inbox-2026-10-14",
   "storylines": [
-   "pakistan-afghanistan-war"
+   "pakistan-afghanistan-war",
+   "south-asia-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
   "unplaced": "Consultations in Moscow; no place entity yet.",
   "related_stories": [
    "2026-02-26-pakistan-afghanistan-war",
+   "kurram-border-clash",
    "2026-03-16-kabul-hospital-strike",
-   "kurram-border-clash"
+   "2025-10-19-afpak-doha-ceasefire",
+   "2025-01-01-pakistan-deadliest-year",
+   "2021-08-15-fall-of-kabul"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -21023,6 +21299,10 @@
    {
     "name": "USNI News",
     "url": "https://news.usni.org/2026/09/23/north-korea-tests-new-hypersonic-missile"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hwasong-11E"
    }
   ],
   "entities": [
@@ -21049,6 +21329,15 @@
   "related_stories": [
    "2026-03-29-hwasong-20-engine-test",
    "dprk-ai-torpedo-test"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-06",
+    "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {

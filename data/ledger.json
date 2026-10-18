@@ -127933,6 +127933,931 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-06": {
+   "sha256": "a5a49bb85efb6f4d47a60b9597d73da8ae57f68060436c037a314bb51a1b3276",
+   "undo": {
+    "stories": {
+     "us-iran-talks-deadlock": {
+      "id": "us-iran-talks-deadlock",
+      "date": "2026-10-14",
+      "region": "Middle East",
+      "title": "US–Iran diplomacy deadlocked; IRGC warns of post-midterm attack",
+      "summary": "Talks run through Qatar, Pakistan and China. Iran wants sanctions relief, its frozen assets and an end to the blockade; the US wants lower uranium enrichment. An IRGC spokesman said a renewed US attack is possible before the midterms.",
+      "analysis": {
+       "text": "The US midterms are a key inflection point for escalation risk.",
+       "confidence": "possible"
+      },
+      "sources": [
+       {
+        "name": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2026/10/08/attempt-to-break-us-iran-diplomatic-deadlock-up-against-growing-appetite-for-major-war/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they"
+       },
+       {
+        "name": "RFE/RL",
+        "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "united-states",
+       "donald-trump",
+       "israel",
+       "strait-of-hormuz"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "related_stories": [
+       "2022-09-jcpoa-stall",
+       "2026-08-17-mou-expires",
+       "hormuz-attacks-surge",
+       "kataib-hezbollah-halt",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-13-kharg-strike",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "iran-seven-day-hormuz-offer"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-jcpoa-stall",
+        "why": "Collapse of the JCPOA revival",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-08-17-mou-expires",
+        "why": "The MoU deadline lapsed with no final deal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "rare-earth-nov10": {
+      "id": "rare-earth-nov10",
+      "date": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "China's rare-earth leverage: Nov 10 suspension deadline, US refiners blacklisted",
+      "summary": "China's April 2025 controls on 7 rare earths remain in force; the Oct 2025 expansion is suspended until Nov 10, 2026. On Oct 3, MP Materials and USA Rare Earth were barred from dual-use inputs. Per CFR, supplies to Japan were cut to near zero in 2026. The Oct 9 EU–China outcome promises fast-track licences without volumes or dates.",
+      "analysis": {
+       "text": "China treats mineral licensing as a strategic deterrent, including on Taiwan.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CFR",
+        "url": "https://www.cfr.org/reports/dismantling-chinas-supply-chain-weapon"
+       },
+       {
+        "name": "Crux Investor",
+        "url": "https://www.cruxinvestor.com/posts/chinas-export-cap-shifts-rare-earth-margin-toward-producers"
+       },
+       {
+        "name": "East Asia Brief",
+        "url": "https://eastasiabrief.com/semiconductors/china-bans-dual-use-sales-mp-materials-us-refiners-526"
+       },
+       {
+        "name": "TSN",
+        "url": "https://tsnmedia.org/eu-china-rare-earth-export-licences-fast-track-first-step-sefcovic/"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths",
+       "mp-materials",
+       "united-states",
+       "japan",
+       "european-union",
+       "taiwan",
+       "gallium",
+       "ai-data-centers"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific",
+       "ai-compute-minerals"
+      ],
+      "related_stories": [
+       "2021-12-china-rare-earth-group",
+       "2022-10-07-bis-controls",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "eu-china-rare-earth-green-channel",
+       "ai-minerals",
+       "pla-drills",
+       "2022-05-23-ipef",
+       "2022-06-14-msp",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-08-31-nvidia-ban",
+       "pla-patrol-oct14-15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "coreweave-ai-credit-shock",
+       "2025-12-29-justice-mission-drills",
+       "2026-02-08-takaichi-landslide",
+       "2026-03-30-china-sanctions-furuya",
+       "2026-05-22-china-japan-rare-earths",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-20-us-australia-minerals",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "china-draft-ai-export-controls"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State consolidation enabled licensing leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-05-14-trump-xi-beijing",
+        "why": "The May truce set the Nov 10 horizon",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-09-23-us-china-fragile-truce",
+        "why": "Shaky implementation of the truce",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-10-09-china-rare-earth-expansion",
+        "why": "The controls whose suspension ends Nov 10",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-10-30-busan-truce",
+        "why": "The Busan truce set the one-year clock",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "marker": "political",
+      "unplaced": "The measures span China, the United States, and Japan. No single place is named.",
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "date": "2026-10-14",
+      "region": "Americas",
+      "title": "Venezuela's reopened oil trade; India imports at a seven-year high",
+      "summary": "After the US operation that removed Maduro on Jan 3, OFAC licences reopened trade. Exports averaged ~1.14M bpd Apr–Sep and 1.08M in September. India's October imports are expected at ~465k bpd, led by Reliance.",
+      "analysis": {
+       "text": "Gulf disruption makes Venezuela a US-managed swing supplier.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "Kpler",
+        "url": "https://www.kpler.com/blog/venezuelas-oil-trade-reopened-the-risk-moved-to-the-vessel"
+       },
+       {
+        "name": "uCapital",
+        "url": "https://ucapital.com/en/news/markets/reliance-industries-venezuela-crude-oil-imports-seven-year-high-6ac89fb299269ba578e2acde"
+       },
+       {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20006/publication-of-venezuela-sanctions-regulations-web-general-licenses-46c-47a-48b-50b-51b-52a-and-54a"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "india",
+       "reliance",
+       "ofac",
+       "nicolas-maduro",
+       "united-states",
+       "petroleum",
+       "strait-of-hormuz",
+       "russia"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "venezuela-oil",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2022-03-05-us-venezuela-talks",
+       "2026-01-06-us-venezuela-oil-deal",
+       "hormuz-attacks-surge",
+       "diesel-deal",
+       "2022-03-08-us-oil-ban",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "trump-waives-russia-sanctions",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-03-maduro-captured",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-cuba-talks",
+       "2026-04-13-us-blockade-iran",
+       "2026-09-18-graham-act-signed",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-talks-election-rules"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-05-us-venezuela-talks",
+        "why": "First US–Maduro energy outreach after the invasion",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-01-06-us-venezuela-oil-deal",
+        "why": "The post-Maduro oil deal reopened trade",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "houthis-hit-aden-palace": {
+      "id": "houthis-hit-aden-palace",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-15",
+      "region": "Middle East",
+      "title": "Houthi missiles hit Aden presidential palace, killing five",
+      "summary": "Houthis fired missiles and drones at Aden's Al-Maashiq presidential palace complex, seat of Yemen's Saudi-backed government, killing five and wounding 16 (Yemeni health minister). The PM and cabinet were safe. It is the first strike on the palace in the current Houthi-Saudi conflict. The coalition said Houthis made 20 attacks on Riyadh's King Khalid airport this month (17 killed, 333 wounded); ICAO's council condemned attacks on Saudi civil aviation.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "yemen",
+       "saudi-arabia",
+       "presidential-leadership-council",
+       "iran",
+       "aden",
+       "riyadh"
+      ],
+      "causes": [
+       {
+        "story": "houthis-saudi-oct15",
+        "why": "Escalation of the Houthi campaign against Saudi Arabia and its Yemeni allies",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-15",
+      "analysis": {
+       "text": "Hitting the government seat signals the Houthis will widen the war beyond Saudi territory to the Yemeni government itself, raising pressure on the Mokha/Bab el-Mandeb front and on Riyadh to escalate or negotiate.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "aden"
+      ],
+      "related_stories": [
+       "houthis-saudi-oct15",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "houthis-aden-airport-khamis-mushait"
+      ]
+     },
+     "starshield-curbs-white-house": {
+      "id": "starshield-curbs-white-house",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Europe",
+      "title": "Order to throttle Ukraine's Starshield came from inside the White House, sources say",
+      "summary": "Two US officials and a Western official told Reuters the order to slow SpaceX's military-grade Starshield service for Ukraine came from inside the White House. Ukrainian officials said terminals stopped working on fast-moving objects, degrading drone guidance and interceptor drones; a Ukrainian defence ministry source said they now work at up to 160 km/h. A senior US official said 'no such request was ever made by the president.' Reuters said US officials had earlier threatened to stop sharing missile-launch intelligence; Trump said on Oct 13 that sharing continues.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/world-news/exclusiveorder-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say-4952816"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "united-states",
+       "starlink",
+       "spacex",
+       "donald-trump",
+       "steve-witkoff",
+       "volodymyr-zelenskyy"
+      ],
+      "causes": [
+       {
+        "story": "energy-ceasefire-collapse",
+        "why": "The curbs came as Washington pressed Kyiv to halt refinery strikes after it quit the energy pause",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Regardless of who signed off, the effect is calibrated leverage: Washington can dial down enablers Kyiv depends on without a formal aid cut, pressing it to stop refinery strikes that raise US fuel prices.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "unplaced": "The restriction applied to Starshield service across Ukraine; no single site is named.",
+      "related_stories": [
+       "energy-ceasefire-collapse",
+       "energy-ceasefire",
+       "diesel-deal",
+       "trump-disgrace-eu-summit",
+       "poland-starlink-arson-russia-gang"
+      ]
+     },
+     "saudi-blames-iran-eu-gcc-postponed": {
+      "id": "saudi-blames-iran-eu-gcc-postponed",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Middle East",
+      "title": "Saudi Arabia blames Iran for Houthi escalation; EU-GCC summit in Riyadh postponed",
+      "summary": "The GCC and the EU postponed indefinitely the second EU-GCC summit set for Oct 24 in Riyadh, citing Houthi attacks and the closure of King Khalid International Airport. Saudi deputy minister Rayed Krimly told reporters Iran is encouraging the Houthi escalation, that the Houthis refused a July meeting in Oman, that Riyadh has not asked for Iranian mediation, and that some Iranian and Houthi capabilities or intelligence come from 'elements in Russia or China'. AP reported at least 19 killed; the coalition said the Riyadh airport was targeted 20 times this month.",
+      "sources": [
+       {
+        "name": "AP via PBS",
+        "url": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom"
+       },
+       {
+        "name": "Council of the EU",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/postponement-of-the-second-eu-gcc-summit/"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "houthis",
+       "iran",
+       "european-union",
+       "riyadh",
+       "russia",
+       "china",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "houthis-saudi-oct15",
+        "why": "Houthi strikes on Riyadh airport and oil sites made the summit unsafe to host",
+        "confidence": "likely"
+       },
+       {
+        "story": "houthis-hit-aden-palace",
+        "why": "The widening Houthi campaign sharpened Riyadh's public case against Tehran",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-10-05-mecca-pact-activated",
+        "why": "Riyadh is already on a war footing",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Riyadh is building the case for more US military help and for keeping Iran's Yemen card inside any US-Iran deal, while keeping its own line to Tehran open. Losing the summit dents the kingdom's safe-hub pitch to investors.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "2026-10-05-mecca-pact-activated",
+       "yanbu-missile-intercepted",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "rare-earth-nov10",
+       "2021-11-29-jcpoa-vienna",
+       "2022-02-26-swift-cbr",
+       "2022-03-25-jeddah-attack",
+       "2022-06-14-msp",
+       "2022-09-02-price-cap",
+       "2022-09-jcpoa-stall",
+       "2022-10-05-opec-cut",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "egypt-offers-to-defend-saudi"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "trump-waives-russia-sanctions": {
+      "id": "trump-waives-russia-sanctions",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Americas",
+      "title": "Trump waives much of the new Russia sanctions law two days before it takes effect",
+      "summary": "Trump signed an executive order on Friday night suspending many sanctions, restrictions and duties in the Russia sanctions law Congress passed and he signed in September, telling Congress the pause was in the US 'national interest'. The law gave him power to levy tariffs of up to 100% on the top five buyers of Russian oil and gas, chiefly China and India, and sanctioned senior Russian figures including Putin, Russian financial institutions and the shadow fleet; the BBC said many of those provisions were waived. Kremlin envoy Kirill Dmitriev called it 'an important and truly historic moment'. Zelenskyy said the sanctions 'could have helped enormously'; Democratic Rep. Don Beyer called it a 'surrender to Putin'.",
+      "sources": [
+       {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+       },
+       {
+        "name": "The Guardian (Ukraine war briefing)",
+        "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states",
+       "russia",
+       "vladimir-putin",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "china",
+       "india",
+       "petroleum",
+       "ofac"
+      ],
+      "causes": [
+       {
+        "story": "diesel-deal",
+        "why": "The Russian diesel deal set the frame of easing Russia pressure to cut US fuel prices",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-disgrace-eu-summit",
+        "why": "The waiver followed Trump's open break with Zelenskyy over refinery strikes",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-09-18-graham-act-signed",
+        "why": "The waiver hollows out the act before it takes effect",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "The waiver completes a pivot: Washington is now trading Russia pressure for lower fuel prices before Nov 3, after the diesel deal, the energy pause and the Starshield curbs. Secondary tariffs on China and India were also the one tool that could have hit Russian oil revenue hard, so their removal eases pressure on Beijing and Delhi too. Expect Europe to carry more of Ukraine's financing and sanctions burden.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Executive order signed in Washington; a policy act with no event site.",
+      "related_stories": [
+       "diesel-deal",
+       "trump-disgrace-eu-summit",
+       "2026-09-18-graham-act-signed",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-03-08-us-oil-ban",
+       "2022-05-23-ipef",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-05-new-start-expires",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-08-13-russian-diesel-lows",
+       "2026-09-22-zelensky-trump-unga",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "yanbu-missile-intercepted": {
+      "id": "yanbu-missile-intercepted",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Middle East",
+      "title": "Houthi ballistic missile aimed at Yanbu, Saudi Arabia's Hormuz bypass, is intercepted",
+      "summary": "The Saudi-led coalition said it intercepted a ballistic missile over Yanbu, the Red Sea terminus of a major oil pipeline, plus two cruise missiles over the Red Sea and three drones over southern Saudi Arabia and Riyadh; initial reports indicated no damage. Saudi deputy minister Rayed Krimly said Iran's support for the Houthis violates the China-brokered 2023 Beijing agreement. Iran's foreign ministry spokesman Esmaeil Baqaei rejected any role and offered to mediate. The UN Security Council condemned the Houthi attacks on Oct 15. On Oct 17 the coalition said it destroyed two ballistic-missile launch platforms in Saada.",
+      "sources": [
+       {
+        "name": "AFP via Khaleej Times",
+        "url": "https://www.khaleejtimes.com/world/gulf/saudi-coalition-intercept-missiles-drones-riyadh-oct-16-2026"
+       },
+       {
+        "name": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/gulf/5330363-coalition-intercepts-ballistic-cruise-missiles-and-uavs"
+       },
+       {
+        "name": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran"
+       },
+       {
+        "name": "Khaleej Times live (Iran denial)",
+        "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-16-2026"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "saudi-arabia",
+       "yanbu",
+       "iran",
+       "china",
+       "aramco",
+       "petroleum",
+       "saada"
+      ],
+      "causes": [
+       {
+        "story": "saudi-blames-iran-eu-gcc-postponed",
+        "why": "Same Houthi escalation against the kingdom, now aimed at its Red Sea export outlet",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "Yanbu is the escape valve that lets Saudi crude avoid Hormuz. Targeting it signals that the Houthi campaign is aimed at Gulf export capacity, not just Saudi morale, which pairs with Iran's squeeze on Hormuz. Invoking the Beijing deal also puts China on the spot as guarantor.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "yanbu"
+      ],
+      "related_stories": [
+       "saudi-blames-iran-eu-gcc-postponed",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait"
+      ]
+     },
+     "ethiopia-tigray-advance": {
+      "id": "ethiopia-tigray-advance",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Africa",
+      "title": "Ethiopian forces sweep Tigray to the Eritrean border, raising fears of interstate war",
+      "summary": "The New Humanitarian reported on Oct 16 that Ethiopian troops and the pro-government Tigray Peace Force militia took control of towns on Tigray's northern border this week as Eritrean forces stationed along the Zalambessa-Fatsi line crossed back into Eritrea, though some Eritrean troops remain inside Tigray. TPLF fighters withdrew deeper into the mountains after swift reversals since the war resumed in late September, and some residents of the regional capital Mekelle welcomed TPF leaders.",
+      "sources": [
+       {
+        "name": "The New Humanitarian",
+        "url": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet"
+       }
+      ],
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf",
+       "mekelle"
+      ],
+      "causes": [
+       {
+        "story": "2026-09-23-tplf-offensive",
+        "why": "Federal counter-offensive after the TPLF attack",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-10-09-ethiopia-eritrea-accusations",
+        "why": "Push toward the border amid accusations of an Eritrean invasion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "The question is whether Addis Ababa stops at the border or pushes on Asmara, possibly toward its long-sought access to the Red Sea. A war there would sit across the Bab el-Mandeb from the Houthi-Saudi fight and could pull in Egypt, Sudan's factions and Gulf patrons.",
+       "confidence": "speculative"
+      },
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-05-22-china-japan-rare-earths": {
+      "id": "2026-05-22-china-japan-rare-earths",
+      "date": "2026-05-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Asia-Pacific",
+      "title": "China squeezes Japan over heavy rare earths",
+      "summary": "Reuters reported China cut off several heavy rare earths to Japan for at least four months, a repeat of its 2010 showdown. Japan's stockpiles, lower usage and other suppliers softened the blow.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-squeezes-japan-over-rare-earths-repeat-2010-showdown-2026-05-22/"
+       },
+       {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/takaichi-landslide-shows-limits-chinese-economic-coercion"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan",
+       "rare-earths",
+       "sanae-takaichi"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-08-takaichi-landslide",
+        "why": "Coercion over Takaichi's Taiwan stance continued",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State control of the sector makes targeted cut-offs possible",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-11-07-takaichi-taiwan-remarks",
+        "why": "The row that began in November",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "An export restriction; no site.",
+      "related_stories": [
+       "2026-02-08-takaichi-landslide",
+       "2021-12-china-rare-earth-group",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "rare-earth-nov10",
+       "2026-03-30-china-sanctions-furuya",
+       "takaichi-yasukuni-offering"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-10-05-taliban-diplomacy": {
+      "id": "2026-10-05-taliban-diplomacy",
+      "date": "2026-10-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "Moscow Format ends without a communiqué as Pakistan–Taliban rift persists",
+      "summary": "The Taliban said problems with Pakistan could be resolved through diplomacy. Dawn reported the Oct 5 Moscow Format consultations ended without a joint communiqué because Pakistan and the Taliban disagreed over language on terrorist networks. Islamabad says talks cannot be unconditional and demands a verifiable mechanism against TTP attacks. Earlier mediation by Qatar and Turkey, Saudi Arabia and China failed to produce a lasting settlement.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/afghan-taliban-says-problems-with-pakistan-can-be-resolved-through-diplomacy-2026-10-05/"
+       },
+       {
+        "name": "Dawn",
+        "url": "https://www.dawn.com/news/2037780/pakistan-rules-out-unconditional-talks-with-afghanistan"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-26-pakistan-afghanistan-war",
+        "why": "Unresolved war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-14",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "Consultations in Moscow; no place entity yet.",
+      "related_stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "kurram-border-clash"
+      ]
+     },
+     "2026-09-20-dprk-hypersonic-test": {
+      "id": "2026-09-20-dprk-hypersonic-test",
+      "date": "2026-09-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Asia-Pacific",
+      "title": "North Korea tests an upgraded Hwasongpho-11Ma hypersonic missile",
+      "summary": "South Korea's JCS tracked two missiles from the Wonsan area flying about 450 km and more than 600 km. KCNA said Kim declared hypersonic research complete and moving to deployment.",
+      "sources": [
+       {
+        "name": "USNI News",
+        "url": "https://news.usni.org/2026/09/23/north-korea-tests-new-hypersonic-missile"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [
+       {
+        "story": "2026-03-29-hwasong-20-engine-test",
+        "why": "Continuing missile campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "wonsan"
+      ],
+      "related_stories": [
+       "2026-03-29-hwasong-20-engine-test",
+       "dprk-ai-torpedo-test"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {},
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
