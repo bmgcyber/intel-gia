@@ -21151,7 +21151,8 @@
    "2022-02-17-france-leaves-mali",
    "2024-07-06-aes-confederation",
    "2024-08-05-us-leaves-agadez",
-   "2025-06-19-niger-nationalises-somair"
+   "2025-06-19-niger-nationalises-somair",
+   "2023-08-30-gabon-coup"
   ]
  },
  {
@@ -23056,7 +23057,8 @@
   "related_stories": [
    "2022-04-10-imran-khan",
    "2024-02-08-pakistan-election",
-   "2025-01-17-khan-al-qadir-conviction"
+   "2025-01-17-khan-al-qadir-conviction",
+   "2023-08-05-khan-jailed"
   ]
  },
  {
@@ -29714,7 +29716,9 @@
   "where": [
    "whitsun-reef"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2023-08-05-second-thomas-shoal-water-cannon"
+  ]
  },
  {
   "id": "2021-03-11-american-rescue-plan",
@@ -31527,5 +31531,255 @@
    "2026-07-17-knesset-dissolves",
    "gaza-drone-strikes-oct17"
   ]
+ },
+ {
+  "id": "2023-08-05-khan-jailed",
+  "date": "2023-08-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Asia-Pacific",
+  "title": "Imran Khan is jailed for three years in the Toshakhana case",
+  "summary": "Khan was convicted of hiding income from selling state gifts and barred from office; the sentence was suspended later that month but he stayed in jail on other charges.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Toshakhana_reference_cases_against_Imran_Khan_and_Bushra_Bibi"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/aug/05/former-pakistan-prime-minister-imran-khan-jailed-for-three-years"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/8/29/pakistan-court-suspends-imran-khans-conviction-in-big-relief-for-ex-pm"
+   }
+  ],
+  "entities": [
+   "imran-khan",
+   "pakistan"
+  ],
+  "causes": [
+   {
+    "story": "2023-05-09-imran-khan-arrested",
+    "why": "Legal campaign after his May arrest",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2023-05-09-imran-khan-arrested"
+  ]
+ },
+ {
+  "id": "2023-08-05-second-thomas-shoal-water-cannon",
+  "date": "2023-08-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Asia-Pacific",
+  "title": "China's coast guard water-cannons a Philippine resupply mission at Second Thomas Shoal",
+  "summary": "Chinese vessels blocked boats supplying the marines on the grounded BRP Sierra Madre, as they had in 2021, starting a run of clashes at the shoal.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Second_Thomas_Shoal"
+   }
+  ],
+  "entities": [
+   "china",
+   "philippines"
+  ],
+  "causes": [
+   {
+    "story": "2021-03-07-whitsun-reef",
+    "why": "Chinese pressure in the Spratlys",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "military",
+  "where": [
+   "second-thomas-shoal"
+  ],
+  "related_stories": [
+   "2021-03-07-whitsun-reef"
+  ]
+ },
+ {
+  "id": "2023-08-09-villavicencio-killed",
+  "date": "2023-08-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Americas",
+  "title": "Ecuadorian presidential candidate Fernando Villavicencio is assassinated",
+  "summary": "The anti-corruption campaigner was shot leaving a rally in Quito eleven days before the vote, showing how far gang violence had reached into politics.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Fernando_Villavicencio"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html"
+   }
+  ],
+  "entities": [
+   "ecuador"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "where": [
+   "quito"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2023-08-30-gabon-coup",
+  "date": "2023-08-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Africa",
+  "title": "Gabon's army ousts Ali Bongo minutes after his re-election is declared",
+  "summary": "Gen. Brice Oligui Nguema, a cousin of Bongo, ended 56 years of Bongo family rule, the eighth successful coup in West and Central Africa since 2020.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Gabonese_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/8/30/gabon-military-officers-claim-power-say-election-lacked-credibility"
+   }
+  ],
+  "entities": [
+   "gabon",
+   "brice-oligui-nguema"
+  ],
+  "causes": [
+   {
+    "story": "2023-07-26-niger-coup",
+    "why": "Coup wave",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "political",
+  "where": [
+   "libreville"
+  ],
+  "related_stories": [
+   "2023-07-26-niger-coup"
+  ]
+ },
+ {
+  "id": "2023-09-13-kim-putin-vostochny",
+  "date": "2023-09-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Russia/Eurasia",
+  "title": "Kim Jong Un meets Putin at the Vostochny Cosmodrome",
+  "summary": "On his first trip abroad since the pandemic, Kim pledged full support for Russia's war; Western governments warned of arms deals.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_visit_by_Kim_Jong_Un_to_Russia"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/sep/13/kim-jong-un-putin-weapons-talk-russian-space-base-amur"
+   }
+  ],
+  "entities": [
+   "kim-jong-un",
+   "vladimir-putin",
+   "north-korea",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "analysis": {
+   "text": "The summit opened the arms-for-technology channel that led to North Korean troops in Kursk.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "korean-peninsula",
+   "russia-ukraine"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "diplomacy",
+  "where": [
+   "vostochny-cosmodrome"
+  ],
+  "related_stories": [
+   "2025-04-28-dprk-confirms-kursk-troops",
+   "2025-10-10-hwasong-20-parade",
+   "2024-06-19-putin-kim-treaty",
+   "russia-332-drone-energy-strike"
+  ]
+ },
+ {
+  "id": "2023-09-18-canada-india-row",
+  "date": "2023-09-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-29",
+  "region": "Americas",
+  "title": "Trudeau accuses India of a role in killing a Sikh activist in Canada",
+  "summary": "Canada linked Indian agents to the June killing of Hardeep Singh Nijjar; both countries expelled diplomats.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023%E2%80%9325_Canada%E2%80%93India_diplomatic_row"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2023/09/18/americas/canada-hardeep-singh-nijjar-india-intl/index.html"
+   }
+  ],
+  "entities": [
+   "canada",
+   "india",
+   "narendra-modi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2023-09-29",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "diplomacy",
+  "unplaced": "Parliamentary statement.",
+  "related_stories": []
  }
 ]
