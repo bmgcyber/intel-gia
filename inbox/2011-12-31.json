@@ -1,0 +1,932 @@
+{
+ "edition": "2011-12-31",
+ "stories": [
+  {
+   "id": "2011-10-16-kenya-invades-somalia",
+   "date": "2011-10-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Kenyan troops cross into Somalia to fight al-Shabaab",
+   "summary": "Operation Linda Nchi sought a buffer zone; Kenya later joined the AU force.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Linda_Nchi"
+    }
+   ],
+   "entities": [
+    "kenya",
+    "somalia",
+    "al-shabaab"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "unplaced": "Southern Somalia border area."
+  },
+  {
+   "id": "2011-10-20-gaddafi-killed",
+   "date": "2011-10-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Gaddafi is captured and killed near Sirte",
+   "summary": "His death left Libya split among militias, and Tuareg fighters took his weapons south into Mali.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_Muammar_Gaddafi"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2011/10/20/footage-shows-gaddafis-body/"
+    }
+   ],
+   "entities": [
+    "libya",
+    "muammar-gaddafi"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2011-08-20-fall-of-tripoli",
+     "why": "Regime's last stand",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "sirte"
+   ]
+  },
+  {
+   "id": "2011-10-27-greek-haircut",
+   "date": "2011-10",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Europe",
+   "title": "Eurozone leaders agree a 50% haircut on Greek debt held by private banks",
+   "summary": "The €100bn relief failed to stop the crisis spreading to Italy and Spain.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+    }
+   ],
+   "entities": [
+    "greece",
+    "european-union",
+    "angela-merkel"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "unplaced": "EU summit in Brussels."
+  },
+  {
+   "id": "2011-11-08-iaea-iran-report",
+   "date": "2011-11-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "IAEA details the possible military dimensions of Iran's nuclear work",
+   "summary": "The report set off EU oil and banking sanctions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran_and_weapons_of_mass_destruction"
+    }
+   ],
+   "entities": [
+    "iran",
+    "iaea"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "IAEA report."
+  },
+  {
+   "id": "2011-11-16-berlusconi-out",
+   "date": "2011-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Europe",
+   "title": "Berlusconi resigns as the euro crisis engulfs Italy",
+   "summary": "He lost his majority amid soaring borrowing costs; technocrat Mario Monti took over.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Silvio_Berlusconi"
+    }
+   ],
+   "entities": [
+    "italy",
+    "silvio-berlusconi"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "causes": [
+    {
+     "story": "2011-10-27-greek-haircut",
+     "why": "Contagion",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "rome"
+   ]
+  },
+  {
+   "id": "2011-11-23-saleh-gcc-deal",
+   "date": "2011-11-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Yemen's Saleh signs a Gulf-brokered deal to hand power to Hadi",
+   "summary": "In return he received immunity, and stayed in Yemen to ally with the Houthis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yemeni_revolution"
+    }
+   ],
+   "entities": [
+    "yemen",
+    "ali-abdullah-saleh",
+    "abdrabbuh-mansur-hadi",
+    "gcc",
+    "saudi-arabia"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2011-11-26-salala-incident",
+   "date": "2011-11-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "NATO air strikes kill Pakistani soldiers at Salala, and Pakistan shuts NATO supply routes",
+   "summary": "Coming after the bin Laden raid, it was the low point in US–Pakistan relations.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Salala_incident"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/nov/26/pakistan-halts-nato-supplies-attack"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "nato",
+    "united-states"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2011-05-02-bin-laden-killed",
+     "why": "Mistrust after Abbottabad",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "mohmand"
+   ]
+  },
+  {
+   "id": "2011-11-29-uk-embassy-tehran",
+   "date": "2011-11-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Iranian hardliners storm the British embassy in Tehran",
+   "summary": "Britain had backed new sanctions; it closed the embassy.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_British_Embassy_in_Iran_attack"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/middleeast/2011/11/20111129132554123213.html"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2011-11-08-iaea-iran-report",
+     "why": "Sanctions after the report",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2011-12-10-moscow-protests",
+   "date": "2011-12-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Russia/Eurasia",
+   "title": "Biggest protests in Moscow since the 1990s denounce rigged elections",
+   "summary": "Blogger Alexei Navalny emerged as an opposition leader.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011%E2%80%932013_Russian_protests"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/global/2011/dec/10/russia-elections-putin-protest"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "alexei-navalny"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2011-12-17-kim-jong-il-dies",
+   "date": "2011-12-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Kim Jong Il dies; his son Kim Jong Un takes over",
+   "summary": "The untested heir quickly consolidated power and accelerated the weapons programmes.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Kim_Jong_Il"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-il",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2011-12-18-us-leaves-iraq",
+   "date": "2011-12-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Last US troops leave Iraq",
+   "summary": "The withdrawal ended the war that began in 2003; ISIS's predecessor rebuilt as Maliki alienated Sunnis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Iraq_%282007%E2%80%932011%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/dec/14/barack-obama-iraq-war-success"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq",
+    "barack-obama"
+   ],
+   "storylines": [
+    "isis-war",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2011-10-23-tunisia-election",
+   "date": "2011-10-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Islamist Ennahda wins Tunisia's first free election",
+   "summary": "It took 89 of 217 seats in the constituent assembly.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Tunisian_Constituent_Assembly_election"
+    }
+   ],
+   "entities": [
+    "tunisia"
+   ],
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Post-revolution vote",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "tunis"
+   ]
+  },
+  {
+   "id": "2011-11-16-darwin-marines",
+   "date": "2011-11-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Obama and Gillard announce US Marine rotations through Darwin",
+   "summary": "The deployment was an early marker of the US 'pivot to Asia'.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marine_Rotational_Force_%E2%80%93_Darwin"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pivot_to_Asia"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "australia",
+    "barack-obama"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "where": [
+    "darwin"
+   ]
+  },
+  {
+   "id": "2011-12-05-iran-captures-rq170",
+   "date": "2011-12-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Iran captures a US RQ-170 stealth drone near Kashmar",
+   "summary": "Tehran later claimed to have copied it.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93U.S._RQ-170_incident"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-states"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "military",
+   "where": [
+    "kashmar"
+   ]
+  },
+  {
+   "id": "2011-12-21-ecb-ltro",
+   "date": "2011-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Europe",
+   "title": "Draghi's ECB offers banks unlimited three-year loans at 1%",
+   "summary": "The LTRO let banks buy their governments' bonds.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/European_Central_Bank"
+    }
+   ],
+   "entities": [
+    "ecb",
+    "mario-draghi"
+   ],
+   "storylines": [
+    "eurozone-crisis",
+    "central-banks-rates"
+   ],
+   "causes": [
+    {
+     "story": "2011-11-16-berlusconi-out",
+     "why": "Crisis in Italy",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Euro-area operation."
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2012-07-26-draghi-whatever-it-takes",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-21-ecb-ltro",
+     "why": "Earlier Draghi rescue",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-01-17-tuareg-rebellion",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-10-20-gaddafi-killed",
+     "why": "Tuareg fighters returned from Libya",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-01-23-nusra-founded",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-03-15-syria-uprising",
+     "why": "Jihadists entered the uprising",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-03-04-putin-returns",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-10-moscow-protests",
+     "why": "Faced mass protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-06-24-morsi-wins",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-02-11-mubarak-resigns",
+     "why": "Post-Mubarak election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-09-11-benghazi-attack",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-10-20-gaddafi-killed",
+     "why": "Militia-ruled Libya",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-04-10-heglig-crisis",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-07-09-south-sudan-independence",
+     "why": "Disputes after independence",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-04-11-kim-jong-un-party-chief",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-17-kim-jong-il-dies",
+     "why": "Succession",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-04-01-suu-kyi-elected",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-03-30-thein-sein-sworn-in",
+     "why": "Reforms",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-02-21-greek-second-bailout",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-10-27-greek-haircut",
+     "why": "Haircut built into the bailout",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-07-18-damascus-bombing",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-07-29-fsa-formed",
+     "why": "Armed rebellion",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-12-15-south-sudan-civil-war",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-07-09-south-sudan-independence",
+     "why": "Fragile new state",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-11-24-iran-interim-deal",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-06-14-rouhani-elected",
+     "why": "Rouhani's opening",
+     "confidence": "likely"
+    },
+    {
+     "story": "2011-11-08-iaea-iran-report",
+     "why": "Sanctions pressure",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2013-04-08-isil-founded",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-01-23-nusra-founded",
+     "why": "Baghdadi tried to absorb Nusra",
+     "confidence": "likely"
+    },
+    {
+     "story": "2011-12-18-us-leaves-iraq",
+     "why": "Revival after the US left",
+     "confidence": "possible"
+    },
+    {
+     "story": "2011-03-15-syria-uprising",
+     "why": "Expanded into the Syrian war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-05-16-haftar-operation-dignity",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-10-20-gaddafi-killed",
+     "why": "Post-Gaddafi chaos",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-09-21-houthis-take-sanaa",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-11-23-saleh-gcc-deal",
+     "why": "Saleh allied with the Houthis",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-05-22-thai-coup",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-07-03-yingluck-wins",
+     "why": "Removed Yingluck's government",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-05-16-modi-wins",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-04-05-hazare-hunger-strike",
+     "why": "Anti-corruption mood",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-11-08-nld-wins-myanmar",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2012-04-01-suu-kyi-elected",
+     "why": "Opening",
+     "confidence": "likely"
+    },
+    {
+     "story": "2011-03-30-thein-sein-sworn-in",
+     "why": "Opening",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-03-18-bardo-attack",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Jihadist threat to Tunisia's democracy",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2013-06-05-qusayr-hezbollah",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-03-15-syria-uprising",
+     "why": "Civil war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-12-12-nk-satellite-launch",
+   "why": "2011 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-17-kim-jong-il-dies",
+     "why": "New leader's programme",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "saudi-arabia--alliance--bahrain",
+   "a": "saudi-arabia",
+   "b": "bahrain",
+   "type": "alliance",
+   "start": "2011",
+   "end": null,
+   "stated": "GCC solidarity",
+   "actual": "Saudi troops prop up the Al Khalifa monarchy",
+   "confidence": "likely",
+   "evidence": [
+    "2011-03-14-gcc-crushes-bahrain"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2011-10-16-kenya-invades-somalia"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2011-10-20-gaddafi-killed"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2011-10-27-greek-haircut",
+    "2011-11-16-berlusconi-out",
+    "2011-12-21-ecb-ltro"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2011-11-08-iaea-iran-report",
+    "2011-11-29-uk-embassy-tehran",
+    "2011-12-05-iran-captures-rq170"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2011-11-23-saleh-gcc-deal"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2011-11-26-salala-incident"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2011-12-10-moscow-protests"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2011-12-17-kim-jong-il-dies"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2011-12-18-us-leaves-iraq"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2011-12-18-us-leaves-iraq"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2011-11-16-darwin-marines"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2011-12-21-ecb-ltro"
+   ]
+  }
+ ]
+}
