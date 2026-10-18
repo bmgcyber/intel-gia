@@ -1,0 +1,745 @@
+{
+ "edition": "2023-12-31",
+ "stories": [
+  {
+   "id": "2023-10-07-hamas-attack",
+   "date": "2023-10-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Hamas-led attack on southern Israel kills about 1,200 and takes 251 hostages",
+   "summary": "Gunmen broke through the Gaza fence and attacked army posts, kibbutzim and a music festival in the deadliest day in Israel's history. Israel declared war and began bombing Gaza.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/how-hamas-attack-israel-unfolded-2023-10-07/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/oct/07/hamas-launches-surprise-attack-on-israel-as-palestinian-gunmen-reported-in-south"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/10/7/hamas-says-it-has-enough-israeli-captives-to-free-all-palestinian-prisoners"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/October_7_attacks"
+    }
+   ],
+   "entities": [
+    "hamas",
+    "israel",
+    "yahya-sinwar"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "analysis": {
+    "text": "This was the hinge of the period: it led to the Gaza war, Hezbollah's front, the Houthi Red Sea campaign and the Iran–Israel exchanges that became the 2026 war.",
+    "confidence": "likely"
+   },
+   "unplaced": "Communities along the Gaza border in southern Israel."
+  },
+  {
+   "id": "2023-10-17-us-chip-rules-tightened",
+   "date": "2023-10-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "US tightens AI-chip and chipmaking-tool controls on China",
+   "summary": "BIS closed loopholes in its 2022 rules with a performance-density test that caught Nvidia's China-specific A800/H800 chips, broader equipment controls and anti-circumvention licensing.",
+   "sources": [
+    {
+     "name": "BIS",
+     "url": "https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment"
+    },
+    {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2023/10/25/2023-23055/implementation-of-additional-export-controls-certain-advanced-computing-items-supercomputer-and"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "nvidia",
+    "semiconductors"
+   ],
+   "storylines": [
+    "ai-compute-minerals",
+    "china-minerals-leverage"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Updates the 2022 rules",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-11-30-chatgpt-launch",
+     "why": "AI boom raised the stakes of compute",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A regulation."
+  },
+  {
+   "id": "2023-10-27-gaza-ground-invasion",
+   "date": "2023-10-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Israel launches its ground invasion of Gaza",
+   "summary": "After three weeks of bombardment, Israel sent ground forces into northern Gaza and then besieged Gaza City. A week-long truce in late November swapped hostages for prisoners.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gaza_war"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Israel's response to Oct 7",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2023-10-27-operation-1027",
+   "date": "2023-10-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "Myanmar's Three Brotherhood Alliance launches Operation 1027 and routs the junta in northern Shan",
+   "summary": "The ethnic armed alliance seized towns and border crossings with China, the junta's worst defeats since the 2021 coup, triggering wider resistance offensives.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/10/27/ethnic-rebel-alliance-attacks-military-positions-across-northern-myanmar"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_1027"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "three-brotherhood-alliance",
+    "min-aung-hlaing",
+    "china"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "causes": [],
+   "marker": "military",
+   "unplaced": "Northern Shan State."
+  },
+  {
+   "id": "2023-11-19-galaxy-leader-seized",
+   "date": "2023-11-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Houthis hijack the Galaxy Leader, opening their Red Sea shipping campaign",
+   "summary": "Declaring solidarity with Gaza, the Houthis took the car carrier by helicopter and sailed it to the Hodeidah area. Missile and drone attacks on shipping followed and diverted traffic away from Suez.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/seized-galaxy-leader-ship-yemens-hodeidah-port-area-owner-2023-11-20/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2023/11/20/world/yemen-houthi-ship-hijacked.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hijacking_of_the_Galaxy_Leader"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "red-sea",
+    "yemen",
+    "israel"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Houthis joined the war in Hamas's support",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "hodeidah"
+   ]
+  },
+  {
+   "id": "2023-11-19-milei-elected",
+   "date": "2023-11-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "Libertarian Javier Milei wins Argentina's presidency",
+   "summary": "The 'chainsaw' outsider beat Economy Minister Sergio Massa in the runoff, promising shock austerity to end triple-digit inflation. He became a leading Trump ally.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/nov/20/argentina-presidential-election-far-right-libertarian-javier-milei-wins-after-rival-concedes"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Argentine_general_election"
+    }
+   ],
+   "entities": [
+    "argentina",
+    "javier-milei"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "Opened the right-wing wave that ran through Chile, Colombia and Brazil into 2025–26.",
+    "confidence": "possible"
+   },
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2023-12-03-essequibo-referendum",
+   "date": "2023-12-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "Maduro holds a referendum claiming Guyana's oil-rich Essequibo",
+   "summary": "The government said voters backed creating a Venezuelan state in the disputed territory. Turnout was disputed, and Brazil and the US warned against any move on Guyana.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2023/12/04/americas/venezuelans-approve-takeover-of-oil-rich-region-of-guyana-in-referendum/index.html"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/dec/04/maduro-venezuela-guyana-essequibo-referendum-vote-turnout"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Venezuelan_referendum"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "guyana",
+    "nicolas-maduro"
+   ],
+   "storylines": [
+    "venezuela-oil",
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "A national referendum."
+  },
+  {
+   "id": "2023-12-14-eu-opens-ukraine-talks",
+   "date": "2023-12-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Europe",
+   "title": "EU decides to open accession talks with Ukraine as Orbán steps out of the room",
+   "summary": "EU leaders agreed to open membership negotiations with Ukraine and Moldova, with Hungary's Orbán absent so the decision could pass. He blocked a €50bn aid package until February 2024.",
+   "sources": [
+    {
+     "name": "European Pravda",
+     "url": "https://www.eurointegration.com.ua/eng/news/2023/12/14/7175588/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Potential_accession_of_Ukraine_to_the_European_Union"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "ukraine",
+    "hungary",
+    "viktor-orban"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2022-06-23-ukraine-eu",
+     "why": "Follows the 2022 candidate status",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2023-10-07-hamas-attack",
+    "2023-10-27-gaza-ground-invasion"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2023-10-17-us-chip-rules-tightened"
+   ]
+  },
+  {
+   "id": "china-minerals-leverage",
+   "name": "China rare-earth / tech leverage",
+   "entities": [
+    "china",
+    "rare-earths",
+    "gallium",
+    "mp-materials",
+    "japan",
+    "european-union"
+   ],
+   "stories": [
+    "2023-10-17-us-chip-rules-tightened"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2023-10-27-operation-1027"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2023-11-19-galaxy-leader-seized"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2023-11-19-galaxy-leader-seized"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2023-11-19-milei-elected",
+    "2023-12-03-essequibo-referendum"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2023-12-03-essequibo-referendum"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2023-12-14-eu-opens-ukraine-talks"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2023-12-14-eu-opens-ukraine-talks"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2024-04-13-iran-strikes-israel",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "The Gaza war drew Iran and Israel into direct conflict",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-01-12-us-uk-strike-houthis",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-11-19-galaxy-leader-seized",
+     "why": "Response to the Houthi shipping campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-05-07-rafah-offensive",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-10-27-gaza-ground-invasion",
+     "why": "Continuation of the ground war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-07-06-aes-confederation",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2022-02-17-france-leaves-mali",
+     "why": "Shift from France to Russia",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-07-26-niger-coup",
+     "why": "Niger's coup completed the junta bloc",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-08-08-armenia-azerbaijan-deal",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-09-19-karabakh-falls",
+     "why": "Karabakh settled by force in 2023",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-09-18-fed-jumbo-cut",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-07-26-fed-peak-rate",
+     "why": "First cut after 14 months at the peak",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-09-11-bolsonaro-convicted",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2022-10-30-lula",
+     "why": "Stems from the attempt to reverse Lula's 2022 win",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-01-08-brasilia-attacks",
+     "why": "The Jan 8 riot was part of the coup case",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-08-01-zamzam-famine",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-04-15-sudan-war-begins",
+     "why": "Famine produced by the war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-03-21-khartoum-retaken",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2021-10-25-sudan-coup",
+     "why": "The 2021 coup set the army–RSF split that became the 2023 war",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-04-15-sudan-war-begins",
+     "why": "The RSF seized much of Khartoum in April 2023",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-27-deepseek-shock",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Chinese labs innovated around US chip controls",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-11-30-chatgpt-launch",
+     "why": "The AI boom ChatGPT launched",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-10-17-us-chip-rules-tightened",
+     "why": "Efficiency forced by chip controls",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2026-01-30-myanmar-junta-election",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2025-03-28-myanmar-earthquake",
+     "why": "The junta pressed ahead with its election plan",
+     "confidence": "speculative"
+    },
+    {
+     "story": "2023-10-27-operation-1027",
+     "why": "The junta lost much territory after Operation 1027",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-12-14-kast-chile",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-11-19-milei-elected",
+     "why": "The region's right-wing wave began with Milei",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-12-03-china-bans-gallium-to-us",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2024-05-14-biden-ev-tariffs",
+     "why": "Tit-for-tat escalation",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Response to US chip controls",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-07-03-china-gallium-controls",
+     "why": "Escalates the 2023 licensing regime",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-06-06-wagner-leaves-mali",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2021-12-wagner-mali",
+     "why": "Ends the deployment that began in 2021",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-07-06-aes-confederation",
+     "why": "Junta bloc reliant on Russia",
+     "confidence": "possible"
+    },
+    {
+     "story": "2023-08-23-prigozhin-killed",
+     "why": "Wagner's Africa role was absorbed by the state after Prigozhin",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-07-peru-fujimori-wins",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2025-12-14-kast-chile",
+     "why": "Part of the region's swing to the right",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-12-07-castillo-self-coup",
+     "why": "Instability since Castillo's fall",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-02-17-avdiivka-falls",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2023-06-04-counteroffensive",
+     "why": "The failed offensive left Ukraine on the defensive",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-10-01-iran-missile-barrage",
+   "why": "Nov 2022–2023 backfill: link to 2023 causes",
+   "causes": [
+    {
+     "story": "2024-07-31-haniyeh-killed",
+     "why": "Revenge for Haniyeh",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-09-17-pager-attacks",
+     "why": "Revenge for Nasrallah",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Regional war set off by Oct 7",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "saudi-arabia--rivalry--iran",
+   "a": "saudi-arabia",
+   "b": "iran",
+   "type": "rivalry",
+   "start": "1979",
+   "end": null,
+   "stated": "Regional leadership and sectarian competition",
+   "actual": "Detente since the 2023 Beijing deal, tested by the Houthi war and 2026 Gulf strikes",
+   "confidence": "likely",
+   "evidence": [
+    "2023-03-10-saudi-iran-beijing"
+   ]
+  }
+ ]
+}
