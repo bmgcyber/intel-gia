@@ -1,0 +1,65 @@
+{
+ "edition": "2024-12-26",
+ "stories": [
+  {
+   "id": "2024-05-10-kharkiv-offensive",
+   "date": "2024-05-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (year of elections)",
+   "region": "Russia/Eurasia",
+   "title": "Russia opens a new front north of Kharkiv",
+   "summary": "Troops crossed toward Vovchansk, Russia's biggest gains in 18 months,; the offensive stalled by early June.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_northern_Kharkiv_offensive"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/article/2024/may/10/russians-attack-north-of-kharkiv-ukraine"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2024/05/11/europe/ukraine-kharkiv-russia-attack-intl/index.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2024-02-17-avdiivka-falls",
+     "why": "Russian momentum after Avdiivka",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "kharkiv"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2024-05-10-kharkiv-offensive"
+   ]
+  }
+ ]
+}
