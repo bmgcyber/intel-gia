@@ -1,0 +1,345 @@
+{
+ "edition": "2003-09-30",
+ "stories": [
+  {
+   "id": "2003-07-24-ramsi-solomon-islands",
+   "date": "2003-07-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "An Australian-led mission lands in the Solomon Islands",
+   "summary": "RAMSI restored order after years of ethnic conflict.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Regional_Assistance_Mission_to_Solomon_Islands"
+    }
+   ],
+   "entities": [
+    "australia",
+    "solomon-islands",
+    "solomon-islands-ramsi"
+   ],
+   "marker": "military",
+   "where": [
+    "honiara"
+   ]
+  },
+  {
+   "id": "2003-08-05-jakarta-marriott-bombing",
+   "date": "2003-08-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "Jemaah Islamiyah bombs the Marriott in Jakarta",
+   "summary": "It followed the 2002 Bali bombings.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Marriott_Hotel_bombing"
+    }
+   ],
+   "entities": [
+    "indonesia"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "strike",
+   "where": [
+    "jakarta"
+   ]
+  },
+  {
+   "id": "2003-08-11-charles-taylor-exiled",
+   "date": "2003-08-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "Liberia's Charles Taylor goes into exile, ending the civil war",
+   "summary": "He was later convicted of war crimes in Sierra Leone.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Second_Liberian_Civil_War"
+    }
+   ],
+   "entities": [
+    "liberia",
+    "charles-taylor",
+    "ecowas"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "monrovia"
+   ]
+  },
+  {
+   "id": "2003-08-19-un-baghdad-bombing",
+   "date": "2003-08-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Truck bomb kills UN envoy Sérgio Vieira de Mello in Baghdad",
+   "summary": "The UN pulled most of its staff out of Iraq.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Canal_Hotel_bombing"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "abu-musab-al-zarqawi"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "canal-hotel"
+   ]
+  },
+  {
+   "id": "2003-08-27-six-party-talks-begin",
+   "date": "2003-08-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "The first Six-Party Talks on North Korea open in Beijing",
+   "summary": "China hosted the US, the two Koreas, Japan and Russia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Six-party_talks"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "china",
+    "united-states",
+    "south-korea",
+    "japan",
+    "russia"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2003-08-29-najaf-bombing",
+   "date": "2003-08-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Car bomb at Najaf's Imam Ali shrine kills Ayatollah al-Hakim",
+   "summary": "Zarqawi's network was blamed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Imam_Ali_Mosque_bombing"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "abu-musab-al-zarqawi"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "najaf"
+   ]
+  },
+  {
+   "id": "2003-07-01-hong-kong-article-23-march",
+   "date": "2003-07-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "Half a million march in Hong Kong against the Article 23 security law",
+   "summary": "The bill was shelved.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hong_Kong_1_July_marches"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "hong-kong"
+   ]
+  },
+  {
+   "id": "2003-08-11-nato-takes-isaf",
+   "date": "2003-08-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "NATO takes command of the ISAF force in Afghanistan",
+   "summary": "It was NATO's first operation outside Europe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/International_Security_Assistance_Force"
+    }
+   ],
+   "entities": [
+    "nato",
+    "afghanistan"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "kabul"
+   ]
+  },
+  {
+   "id": "2003-09-14-sweden-rejects-euro",
+   "date": "2003-09-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Europe",
+   "title": "Swedish voters reject the euro",
+   "summary": "Sweden kept the krona.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Swedish_euro_referendum"
+    }
+   ],
+   "entities": [
+    "sweden",
+    "european-union"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "stockholm"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2003-08-05-jakarta-marriott-bombing"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2003-08-11-charles-taylor-exiled"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2003-08-19-un-baghdad-bombing",
+    "2003-08-29-najaf-bombing"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2003-08-27-six-party-talks-begin"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2003-07-01-hong-kong-article-23-march"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2003-08-11-nato-takes-isaf"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2003-09-14-sweden-rejects-euro"
+   ]
+  }
+ ]
+}
