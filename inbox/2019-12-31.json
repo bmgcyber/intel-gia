@@ -1,0 +1,1057 @@
+{
+ "edition": "2019-12-31",
+ "stories": [
+  {
+   "id": "2019-10-01-iraq-protests",
+   "date": "2019-10-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Mass protests erupt across Baghdad and southern Iraq",
+   "summary": "Protesters denounced corruption, unemployment and Iranian influence; hundreds were killed, and PM Adil Abdul-Mahdi resigned that December.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%932021_Iraqi_protests"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/10/iraq-hrw-denounces-lethal-force-protesters-urges-probe-191010123643525.html"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "iran",
+    "adil-abdul-mahdi"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2019-10-03-ecuador-fuel-protests",
+   "date": "2019-10-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "Ecuador's end of fuel subsidies sparks a national uprising",
+   "summary": "Indigenous-led protests against Lenín Moreno's IMF-backed austerity forced the government to restore the subsidies after eleven days.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Ecuadorian_protests"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/oct/03/ecuador-state-of-emergency-fuel-subsidies-protest"
+    }
+   ],
+   "entities": [
+    "ecuador"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "quito"
+   ]
+  },
+  {
+   "id": "2019-10-09-operation-peace-spring",
+   "date": "2019-10-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Turkey invades northeast Syria after Trump pulls US troops back",
+   "summary": "Days after Trump ordered US forces out of the area, Turkish troops and allied Syrian militias attacked the Kurdish-led SDF. More than 300,000 people fled; the SDF invited in Assad's army and Russia brokered a buffer zone.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_northeastern_Syria"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/oct/09/turkey-launches-military-operation-in-northern-syria-erdogan"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan",
+    "sdf",
+    "united-states",
+    "donald-trump",
+    "syria",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2019-03-23-baghuz-caliphate-ends",
+     "why": "End of the caliphate weakened the case for US troops",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "ras-al-ayn"
+   ]
+  },
+  {
+   "id": "2019-10-11-abiy-nobel",
+   "date": "2019-10-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "Ethiopia's Abiy Ahmed wins the Nobel Peace Prize for ending the war with Eritrea",
+   "summary": "The committee cited his 2018 peace with Eritrea. A year later he went to war in Tigray.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Nobel_Peace_Prize"
+    }
+   ],
+   "entities": [
+    "abiy-ahmed",
+    "ethiopia",
+    "eritrea"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Prize announcement in Oslo."
+  },
+  {
+   "id": "2019-10-17-lebanon-protests",
+   "date": "2019-10-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Lebanon's 'October Revolution' protests topple the Hariri government",
+   "summary": "A planned tax on WhatsApp calls set off nationwide protests against sectarian rule and corruption; Saad Hariri resigned on Oct 29 as the banking system began to collapse.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/17_October_Revolution"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/10/protests-erupt-lebanon-plans-impose-taxes-191017194856354.html"
+    }
+   ],
+   "entities": [
+    "lebanon"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2019-10-18-chile-estallido",
+   "date": "2019-10-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "A Santiago metro fare rise sets off Chile's 'social outburst'",
+   "summary": "Months of mass protests and riots over inequality led the parties to agree in November to a referendum on a new constitution.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Social_Outburst_%28Chile%29"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/10/chile-protests-million-bring-santiago-halt-191025223542333.html"
+    }
+   ],
+   "entities": [
+    "chile"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "santiago"
+   ]
+  },
+  {
+   "id": "2019-10-23-russia-africa-summit",
+   "date": "2019-10-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Russia/Eurasia",
+   "title": "Putin hosts 43 African leaders at the first Russia–Africa summit in Sochi",
+   "summary": "Putin offered aid and trade 'without political conditions', the diplomatic counterpart of Wagner's growing presence on the continent.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Russia%E2%80%93Africa_Summit"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "egypt"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "sochi"
+   ]
+  },
+  {
+   "id": "2019-10-27-baghdadi-killed",
+   "date": "2019-10-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "IS leader Abu Bakr al-Baghdadi dies in a US raid in Idlib",
+   "summary": "Cornered by US special forces near Barisha, he blew himself up with a suicide belt.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Death_of_Abu_Bakr_al-Baghdadi"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2019/10/30/774617578/head-of-u-s-central-command-says-isis-leader-baghdadi-buried-at-sea"
+    }
+   ],
+   "entities": [
+    "abu-bakr-al-baghdadi",
+    "islamic-state",
+    "united-states",
+    "donald-trump"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2019-03-23-baghuz-caliphate-ends",
+     "why": "Leader of the defeated caliphate on the run",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "idlib"
+   ]
+  },
+  {
+   "id": "2019-11-10-morales-resigns",
+   "date": "2019-11-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "Evo Morales resigns and flees after a disputed election and army pressure",
+   "summary": "Protests over alleged fraud in the October vote and a call by the military chief to step down forced him out; Jeanine Áñez became interim president.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Bolivian_political_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/nov/10/bolivian-president-evo-morales-resigns-after-election-result-dispute"
+    }
+   ],
+   "entities": [
+    "bolivia",
+    "evo-morales"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "la-paz"
+   ]
+  },
+  {
+   "id": "2019-11-11-gambia-v-myanmar",
+   "date": "2019-11-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "The Gambia takes Myanmar to the World Court for genocide against the Rohingya",
+   "summary": "Backed by the 57-member OIC, the case followed the army's 2017 expulsion of over 700,000 Rohingya; Aung San Suu Kyi defended Myanmar at The Hague in December.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rohingya_genocide_case"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2019/12/1053221"
+    }
+   ],
+   "entities": [
+    "the-gambia",
+    "myanmar",
+    "rohingya"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Filed at the ICJ in The Hague."
+  },
+  {
+   "id": "2019-11-24-china-cables",
+   "date": "2019-11-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Leaked 'China Cables' expose how Xinjiang's internment camps are run",
+   "summary": "The ICIJ published internal documents including an operations manual for the camps; Beijing called them fabricated.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/China_Cables"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/nov/25/uk-calls-for-un-access-chinese-detention-camps-xinjiang"
+    }
+   ],
+   "entities": [
+    "china",
+    "xinjiang-camps"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "marker": "political",
+   "unplaced": "Leaked documents."
+  },
+  {
+   "id": "2019-12-02-power-of-siberia",
+   "date": "2019-12-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Russia/Eurasia",
+   "title": "Russia begins piping gas to China through Power of Siberia",
+   "summary": "Gazprom's pipeline from Yakutia started deliveries, Russia's first gas link to China.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Power_of_Siberia"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/12/the-power-siberia-russia-china-gas-pipeline-launch-191202112625898.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "china",
+    "gazprom",
+    "vladimir-putin",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "marker": "energy",
+   "unplaced": "Long-distance pipeline."
+  },
+  {
+   "id": "2019-12-11-aramco-ipo",
+   "date": "2019-12-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Saudi Aramco lists in Riyadh in the biggest IPO on record at the time",
+   "summary": "The listing, central to Mohammed bin Salman's Vision 2030 plan to diversify away from oil, made Aramco the world's most valuable listed company.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Saudi_Aramco"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/business/2019/dec/11/saudi-aramco-shares-soar-as-it-becomes-world-largest-listed-company"
+    }
+   ],
+   "entities": [
+    "aramco",
+    "saudi-arabia",
+    "mohammed-bin-salman"
+   ],
+   "storylines": [
+    "global-oil",
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2019-09-14-abqaiq-attack",
+     "why": "Listing went ahead weeks after the attack",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2019-12-11-india-caa",
+   "date": "2019-12-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "India passes the Citizenship Amendment Act, setting off nationwide protests",
+   "summary": "The law fast-tracks citizenship for non-Muslim refugees from three neighbours; critics said it discriminated against Muslims.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Citizenship_%28Amendment%29_Act%2C_2019"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2019/12/11/787220640/india-passes-controversial-citizenship-bill-that-would-exclude-muslims"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2019-05-23-modi-reelected",
+     "why": "Second-term BJP agenda",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "new-delhi"
+   ]
+  },
+  {
+   "id": "2019-12-12-johnson-landslide",
+   "date": "2019-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Europe",
+   "title": "Johnson's Conservatives win an 80-seat majority on 'Get Brexit Done'",
+   "summary": "The landslide let Johnson pass his withdrawal deal, taking the UK out of the EU on Jan 31, 2020.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/politics/2019/dec/12/exit-poll-predicts-majority-for-boris-johnson-and-conservatives"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "boris-johnson",
+    "european-union"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2019-07-24-johnson-pm",
+     "why": "Johnson called an election to break the deadlock",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2019-12-27-k1-rocket-attack",
+   "date": "2019-12-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Rocket attack on Iraq's K-1 base kills a US contractor",
+   "summary": "Washington blamed the Iran-backed Kata'ib Hezbollah after a series of rocket attacks on bases hosting coalition troops.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/December_2019_United_States_airstrikes_in_Iraq_and_Syria"
+    }
+   ],
+   "entities": [
+    "kataib-hezbollah",
+    "united-states",
+    "iraq",
+    "iran"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "marker": "strike",
+   "where": [
+    "k1-air-base"
+   ]
+  },
+  {
+   "id": "2019-12-29-us-strikes-kataib-hezbollah",
+   "date": "2019-12-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "US airstrikes hit Kata'ib Hezbollah in Iraq and Syria",
+   "summary": "The strikes killed at least 25 militiamen; Baghdad condemned them as a violation of Iraqi sovereignty.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/December_2019_United_States_airstrikes_in_Iraq_and_Syria"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2019/12/29/politics/us-strikes-iran-backed-militia-facilities-in-iraq-syria/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "kataib-hezbollah",
+    "iraq",
+    "syria"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "causes": [
+    {
+     "story": "2019-12-27-k1-rocket-attack",
+     "why": "Retaliation for the contractor's death",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "Several sites on both sides of the Iraq–Syria border."
+  },
+  {
+   "id": "2019-12-31-baghdad-embassy-siege",
+   "date": "2019-12-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Militia supporters storm the US embassy compound in Baghdad",
+   "summary": "After funerals for the militiamen killed in the US strikes, crowds marched into the Green Zone and attacked the embassy's outer compound.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Baghdad"
+    }
+   ],
+   "entities": [
+    "kataib-hezbollah",
+    "united-states",
+    "iraq",
+    "abu-mahdi-al-muhandis"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "causes": [
+    {
+     "story": "2019-12-29-us-strikes-kataib-hezbollah",
+     "why": "Protest at the US strikes",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "us-embassy-baghdad"
+   ]
+  },
+  {
+   "id": "2019-12-31-wuhan-pneumonia-cluster",
+   "date": "2019-12-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Wuhan announces a cluster of mystery pneumonia cases",
+   "summary": "The cluster, mostly linked to the Huanan Seafood Market and first reported to local authorities on Dec 27, was published on Dec 31. It was the start of COVID-19.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_mainland_China"
+    }
+   ],
+   "entities": [
+    "china",
+    "covid-19"
+   ],
+   "storylines": [
+    "covid-shock"
+   ],
+   "marker": "political",
+   "where": [
+    "wuhan"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2020-01-03-soleimani-killed",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-12-31-baghdad-embassy-siege",
+     "why": "Trump ordered the strike days after the embassy siege",
+     "confidence": "likely"
+    },
+    {
+     "story": "2019-12-27-k1-rocket-attack",
+     "why": "Contractor death started the escalation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-01-23-wuhan-lockdown",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-12-31-wuhan-pneumonia-cluster",
+     "why": "Outbreak first announced in Wuhan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-01-31-brexit",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-12-12-johnson-landslide",
+     "why": "Majority passed the withdrawal deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-01-15-phase-one-deal",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-05-10-us-china-tariffs-escalate",
+     "why": "Truce after a year of escalation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-01-11-tsai-reelected",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-06-09-hong-kong-protests",
+     "why": "Hong Kong crackdown boosted Tsai",
+     "confidence": "likely"
+    },
+    {
+     "story": "2019-01-02-xi-taiwan-speech",
+     "why": "Voters rejected 'one country, two systems'",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-02-29-doha-agreement",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-09-07-camp-david-cancelled",
+     "why": "Talks resumed after the Camp David collapse",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-03-05-idlib-ceasefire",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-10-09-operation-peace-spring",
+     "why": "Turkey's deeper military role in northern Syria",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-03-26-maduro-indicted",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-01-23-guaido-interim-president",
+     "why": "US campaign to remove Maduro",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-05-15-huawei-fdpr",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2020-01-15-phase-one-deal",
+     "why": "Tech war continued despite the trade truce",
+     "confidence": "possible"
+    },
+    {
+     "story": "2019-05-15-huawei-entity-list",
+     "why": "Tightened the 2019 Entity List curbs",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-06-15-galwan-clash",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-08-05-article-370-revoked",
+     "why": "China objected to the creation of Ladakh as a union territory",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-06-16-liaison-office-blown-up",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-02-28-hanoi-summit",
+     "why": "Diplomacy stalled after Hanoi",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-06-30-hong-kong-nsl",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-06-09-hong-kong-protests",
+     "why": "Beijing's answer to the 2019 protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-10-03-juba-agreement",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-04-11-bashir-ousted",
+     "why": "Transitional government pursued peace with rebels",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-10-18-bolivia-arce",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-11-10-morales-resigns",
+     "why": "Rerun of the annulled 2019 election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-10-23-libya-ceasefire",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-04-04-haftar-tripoli-offensive",
+     "why": "Ended the war Haftar's offensive started",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-10-25-chile-plebiscite",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-10-18-chile-estallido",
+     "why": "Referendum agreed to end the protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-11-04-tigray-war",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-10-11-abiy-nobel",
+     "why": "Abiy's centralising reforms alienated the TPLF",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-11-03-us-election",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-09-24-trump-ukraine-impeachment-inquiry",
+     "why": "Impeachment over pressure aimed at Biden",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-08-04-beirut-blast",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-10-17-lebanon-protests",
+     "why": "State already in collapse",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2020-05-07-kadhimi-pm",
+   "why": "2019 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2020-01-03-soleimani-killed",
+     "why": "Post-Soleimani crisis over US troops",
+     "confidence": "possible"
+    },
+    {
+     "story": "2019-10-01-iraq-protests",
+     "why": "Protests toppled Abdul-Mahdi",
+     "confidence": "likely"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2019-10-01-iraq-protests",
+    "2019-12-27-k1-rocket-attack",
+    "2019-12-29-us-strikes-kataib-hezbollah",
+    "2019-12-31-baghdad-embassy-siege"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2019-10-03-ecuador-fuel-protests",
+    "2019-10-18-chile-estallido",
+    "2019-11-10-morales-resigns"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2019-10-09-operation-peace-spring",
+    "2019-10-17-lebanon-protests",
+    "2019-10-27-baghdadi-killed"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2019-10-11-abiy-nobel"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2019-10-23-russia-africa-summit"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2019-11-11-gambia-v-myanmar"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2019-11-24-china-cables"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2019-12-02-power-of-siberia",
+    "2019-12-11-aramco-ipo"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2019-12-11-aramco-ipo"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2019-12-11-india-caa"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2019-12-12-johnson-landslide"
+   ]
+  },
+  {
+   "id": "covid-shock",
+   "name": "COVID-19 pandemic & the 2020 economic shock",
+   "entities": [
+    "covid-19",
+    "who",
+    "federal-reserve",
+    "ecb",
+    "imf",
+    "china"
+   ],
+   "stories": [
+    "2019-12-31-wuhan-pneumonia-cluster"
+   ]
+  }
+ ]
+}
