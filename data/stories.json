@@ -56994,6 +56994,11 @@
     "story": "2009-03-06-us-russia-reset",
     "why": "Product of the reset",
     "confidence": "likely"
+   },
+   {
+    "story": "2002-05-24-moscow-treaty",
+    "why": "Replaced SORT",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -57008,6 +57013,7 @@
   ],
   "related_stories": [
    "2009-03-06-us-russia-reset",
+   "2002-05-24-moscow-treaty",
    "2026-02-05-new-start-expires",
    "2015-07-14-jcpoa-agreed"
   ],
@@ -57015,6 +57021,13 @@
    {
     "edition": "2009-12-31",
     "why": "2009 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -58666,6 +58679,11 @@
     "story": "2005-03-31-unsc-refers-darfur",
     "why": "UNSC referral",
     "confidence": "likely"
+   },
+   {
+    "story": "2002-07-01-icc-founded",
+    "why": "ICC",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -58680,12 +58698,20 @@
   ],
   "related_stories": [
    "2005-03-31-unsc-refers-darfur",
+   "2002-07-01-icc-founded",
    "2019-04-11-bashir-ousted"
   ],
   "revisions": [
    {
     "edition": "2005-12-31",
     "why": "2005 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -65208,6 +65234,11 @@
     "story": "2004-09-09-us-calls-darfur-genocide",
     "why": "US pressure on Khartoum",
     "confidence": "possible"
+   },
+   {
+    "story": "2002-07-20-machakos-protocol",
+    "why": "Framework",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -65222,12 +65253,20 @@
   ],
   "related_stories": [
    "2004-09-09-us-calls-darfur-genocide",
+   "2002-07-20-machakos-protocol",
    "2011-01-09-south-sudan-referendum"
   ],
   "revisions": [
    {
     "edition": "2004-12-31",
     "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -67156,7 +67195,13 @@
    "romania",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-11-21-nato-prague-summit",
+    "why": "Invitations",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2004-03-31",
   "storylines": [
@@ -67168,8 +67213,18 @@
    "brussels"
   ],
   "related_stories": [
-   "2007-04-27-estonia-cyberattacks",
-   "2008-04-03-nato-bucharest-summit"
+   "2002-11-21-nato-prague-summit",
+   "2008-04-03-nato-bucharest-summit",
+   "2007-04-27-estonia-cyberattacks"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -68316,7 +68371,13 @@
    "brazil",
    "lula"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-10-27-lula-elected",
+    "why": "Election",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68327,7 +68388,18 @@
   "where": [
    "brasilia"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-10-27-lula-elected"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-01-10-nk-quits-npt",
@@ -68349,7 +68421,13 @@
    "kim-jong-il",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-10-16-nk-uranium-admission",
+    "why": "Framework collapse",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68360,7 +68438,18 @@
   "where": [
    "pyongyang"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-10-16-nk-uranium-admission"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-02-03-venezuela-strike-ends",
@@ -68382,7 +68471,13 @@
    "hugo-chavez",
    "pdvsa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-04-11-venezuela-coup-attempt",
+    "why": "Opposition campaign",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68394,7 +68489,17 @@
    "caracas"
   ],
   "related_stories": [
+   "2002-04-11-venezuela-coup-attempt",
    "2007-05-01-chavez-orinoco-nationalised"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -68417,7 +68522,13 @@
    "colin-powell",
    "iraq"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-11-08-unsc-1441",
+    "why": "Case for breach",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68428,7 +68539,18 @@
   "where": [
    "un-hq"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-11-08-unsc-1441"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-02-15-global-antiwar-protests",
@@ -68514,7 +68636,13 @@
    "turkey",
    "recep-tayyip-erdogan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-11-03-akp-wins",
+    "why": "AKP majority",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68525,7 +68653,18 @@
   "where": [
    "ankara"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-11-03-akp-wins"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-03-15-hu-jintao-president",
@@ -68546,7 +68685,13 @@
    "china",
    "hu-jintao"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-11-15-hu-party-chief",
+    "why": "Party post first",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
@@ -68554,7 +68699,18 @@
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-11-15-hu-party-chief"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-03-sars-outbreak",
@@ -68610,7 +68766,23 @@
    "saddam-hussein",
    "george-w-bush"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-11-08-unsc-1441",
+    "why": "Iraq's 'final opportunity'",
+    "confidence": "likely"
+   },
+   {
+    "story": "2002-10-16-congress-authorises-iraq-war",
+    "why": "Authorisation",
+    "confidence": "likely"
+   },
+   {
+    "story": "2002-09-20-bush-doctrine",
+    "why": "Doctrine",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68622,10 +68794,26 @@
    "baghdad"
   ],
   "related_stories": [
+   "2002-11-08-unsc-1441",
+   "2002-10-16-congress-authorises-iraq-war",
+   "2002-09-20-bush-doctrine",
    "2007-01-10-iraq-surge-announced",
+   "2004-03-11-madrid-bombings",
    "2004-04-28-abu-ghraib",
    "2004-06-28-iraq-sovereignty-handover",
-   "2004-03-11-madrid-bombings"
+   "2003-05-01-mission-accomplished",
+   "2003-04-09-baghdad-falls",
+   "2003-12-13-saddam-captured",
+   "2002-01-29-axis-of-evil"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -68648,7 +68836,13 @@
    "france",
    "laurent-gbagbo"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-09-19-ivory-coast-war",
+    "why": "Civil war",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-03-31",
   "storylines": [
@@ -68660,8 +68854,18 @@
    "paris"
   ],
   "related_stories": [
+   "2002-09-19-ivory-coast-war",
    "2011-04-11-gbagbo-captured",
    "2004-11-06-france-ivory-coast-clash"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -68900,7 +69104,13 @@
    "nestor-kirchner",
    "imf"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-01-argentina-peso-devalued",
+    "why": "Crisis",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-06-30",
   "storylines": [
@@ -68912,7 +69122,17 @@
    "buenos-aires"
   ],
   "related_stories": [
+   "2002-01-argentina-peso-devalued",
    "2005-11-05-mar-del-plata-summit"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -69138,7 +69358,13 @@
    "japan",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-10-16-nk-uranium-admission",
+    "why": "Crisis",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-09-30",
   "storylines": [
@@ -69150,6 +69376,7 @@
    "beijing"
   ],
   "related_stories": [
+   "2002-10-16-nk-uranium-admission",
    "rare-earth-nov10",
    "2022-05-23-ipef",
    "2022-08-04-pla-drills",
@@ -69177,6 +69404,15 @@
    "2008-06-27-yongbyon-tower-demolished",
    "2007-02-13-six-party-deal",
    "2005-09-19-six-party-joint-statement"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -69389,7 +69625,13 @@
    "france",
    "germany"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-08-14-iran-natanz-exposed",
+    "why": "Natanz revealed",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-12-31",
   "storylines": [
@@ -69401,10 +69643,20 @@
    "tehran"
   ],
   "related_stories": [
+   "2002-08-14-iran-natanz-exposed",
    "2005-06-24-ahmadinejad-elected",
    "2025-09-28-iran-snapback",
    "2018-05-08-us-quits-jcpoa",
    "2009-09-25-fordow-revealed"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -69593,7 +69845,13 @@
    "united-states",
    "united-kingdom"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2002-01-29-axis-of-evil",
+    "why": "US pressure on WMD states",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2003-12-31",
   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
@@ -69602,9 +69860,19 @@
    "tripoli"
   ],
   "related_stories": [
+   "2002-01-29-axis-of-evil",
    "2004-02-04-aq-khan-confession",
    "2004-03-25-blair-meets-gaddafi",
    "2011-03-19-libya-intervention"
+  ],
+  "revisions": [
+   {
+    "edition": "2002-12-31",
+    "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -69811,7 +70079,8 @@
    "2017-08-02-caatsa",
    "2007-01-10-iraq-surge-announced",
    "2003-03-20-iraq-invasion",
-   "2003-05-01-mission-accomplished"
+   "2003-05-01-mission-accomplished",
+   "2003-12-19-libya-gives-up-wmd"
   ]
  },
  {
@@ -70093,7 +70362,9 @@
   "where": [
    "buenos-aires"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2003-05-25-kirchner-takes-office"
+  ]
  },
  {
   "id": "2002-01-03-karine-a-seized",
@@ -70158,7 +70429,8 @@
    "caracas"
   ],
   "related_stories": [
-   "2005-11-05-mar-del-plata-summit"
+   "2005-11-05-mar-del-plata-summit",
+   "2003-02-03-venezuela-strike-ends"
   ]
  },
  {
@@ -70237,7 +70509,8 @@
    "2021-06-16-biden-putin-geneva",
    "2016-10-07-russia-election-interference",
    "2014-03-18-crimea-annexed",
-   "2007-02-10-putin-munich-speech"
+   "2007-02-10-putin-munich-speech",
+   "2010-04-08-new-start"
   ]
  },
  {
@@ -70393,7 +70666,9 @@
   "where": [
    "the-hague"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2009-03-04-icc-bashir-warrant"
+  ]
  },
  {
   "id": "2002-07-09-african-union-launched",
@@ -70457,7 +70732,9 @@
   "where": [
    "nairobi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2005-01-09-sudan-cpa"
+  ]
  },
  {
   "id": "2002-07-30-pretoria-accord",
@@ -70554,7 +70831,9 @@
   "where": [
    "natanz"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2003-10-21-tehran-declaration"
+  ]
  },
  {
   "id": "2002-09-17-koizumi-pyongyang",
@@ -70619,7 +70898,9 @@
   "where": [
    "abidjan"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2003-01-24-linas-marcoussis"
+  ]
  },
  {
   "id": "2002-09-20-bush-doctrine",
@@ -70652,6 +70933,407 @@
   "where": [
    "washington-dc"
   ],
+  "related_stories": [
+   "2003-03-20-iraq-invasion"
+  ]
+ },
+ {
+  "id": "2002-10-12-bali-bombings",
+  "date": "2002-10-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Asia-Pacific",
+  "title": "Jemaah Islamiyah bombs nightclubs in Bali, killing 202",
+  "summary": "It was Indonesia's deadliest terrorist attack.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_Bali_bombings"
+   }
+  ],
+  "entities": [
+   "indonesia",
+   "australia",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "southeast-asia",
+   "war-on-terror"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "strike",
+  "where": [
+   "kuta"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2002-10-16-congress-authorises-iraq-war",
+  "date": "2002-10-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Americas",
+  "title": "Congress authorises force against Iraq",
+  "summary": "The vote passed both chambers by wide margins.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_Against_Iraq_Resolution_of_2002"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2003-03-20-iraq-invasion"
+  ]
+ },
+ {
+  "id": "2002-10-16-nk-uranium-admission",
+  "date": "2002-10-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Asia-Pacific",
+  "title": "US says North Korea admitted a secret enrichment programme",
+  "summary": "The 1994 Agreed Framework collapsed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Agreed_Framework"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "diplomacy",
+  "where": [
+   "pyongyang"
+  ],
+  "related_stories": [
+   "2003-01-10-nk-quits-npt",
+   "2003-08-27-six-party-talks-begin"
+  ]
+ },
+ {
+  "id": "2002-10-23-moscow-theatre-siege",
+  "date": "2002-10-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Chechen militants seize a Moscow theatre; a gas rescue kills about 130 hostages",
+  "summary": "The siege hardened Russia's war in Chechnya.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Moscow_theater_hostage_crisis"
+   }
+  ],
+  "entities": [
+   "russia",
+   "vladimir-putin"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "strike",
+  "where": [
+   "dubrovka-theatre"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2002-10-27-lula-elected",
+  "date": "2002-10-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Americas",
+  "title": "Lula is elected Brazil's president",
+  "summary": "It was the left's first win in Brazil.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_Brazilian_general_election"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "lula"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "brasilia"
+  ],
+  "related_stories": [
+   "2003-01-01-lula-takes-office"
+  ]
+ },
+ {
+  "id": "2002-11-03-akp-wins",
+  "date": "2002-11-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Middle East",
+  "title": "Erdoğan's new AKP wins Turkey's election in a landslide",
+  "summary": "The Islamist-rooted party has ruled Turkey ever since.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_Turkish_general_election"
+   }
+  ],
+  "entities": [
+   "turkey",
+   "recep-tayyip-erdogan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "turkey-erdogan"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "ankara"
+  ],
+  "related_stories": [
+   "2003-03-14-erdogan-prime-minister"
+  ]
+ },
+ {
+  "id": "2002-11-08-unsc-1441",
+  "date": "2002-11-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Middle East",
+  "title": "UN Resolution 1441 gives Iraq a 'final opportunity' to disarm",
+  "summary": "Inspectors returned, but the US and UK invaded without a second resolution.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1441"
+   }
+  ],
+  "entities": [
+   "iraq",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "diplomacy",
+  "where": [
+   "un-hq"
+  ],
+  "related_stories": [
+   "2003-02-05-powell-un-presentation",
+   "2003-03-20-iraq-invasion"
+  ]
+ },
+ {
+  "id": "2002-11-15-hu-party-chief",
+  "date": "2002-11-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Asia-Pacific",
+  "title": "Hu Jintao becomes China's Communist Party chief",
+  "summary": "The 16th Party Congress managed the first orderly handover of power.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/16th_National_Congress_of_the_Chinese_Communist_Party"
+   }
+  ],
+  "entities": [
+   "china",
+   "hu-jintao"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": [
+   "2003-03-15-hu-jintao-president"
+  ]
+ },
+ {
+  "id": "2002-11-21-nato-prague-summit",
+  "date": "2002-11-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Europe",
+  "title": "NATO's Prague summit invites seven ex-communist states to join",
+  "summary": "They joined in 2004.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_Prague_summit"
+   }
+  ],
+  "entities": [
+   "nato",
+   "estonia",
+   "romania",
+   "bulgaria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "diplomacy",
+  "where": [
+   "prague"
+  ],
+  "related_stories": [
+   "2004-03-29-nato-enlargement"
+  ]
+ },
+ {
+  "id": "2002-12-19-roh-elected",
+  "date": "2002-12-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Asia-Pacific",
+  "title": "Roh Moo-hyun is elected South Korea's president",
+  "summary": "He continued engagement with the North.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_South_Korean_presidential_election"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "roh-moo-hyun"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2002-12-27-kibaki-elected",
+  "date": "2002-12-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Africa",
+  "title": "Mwai Kibaki's landslide ends Daniel arap Moi's rule in Kenya",
+  "summary": "KANU lost power for the first time since independence.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2002_Kenyan_general_election"
+   }
+  ],
+  "entities": [
+   "kenya"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "africa-governance"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "political",
+  "where": [
+   "nairobi"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2002-11-03-yemen-drone-strike",
+  "date": "2002-11-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2002-12-31",
+  "region": "Middle East",
+  "title": "A CIA drone kills al-Qaeda's Qaed al-Harethi in Yemen",
+  "summary": "It was the first US drone killing outside Afghanistan.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Qaed_Salim_Sinan_al-Harethi"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "yemen",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2002-12-31",
+  "storylines": [
+   "war-on-terror"
+  ],
+  "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+  "marker": "strike",
+  "unplaced": "Marib province, Yemen.",
   "related_stories": []
  }
 ]
