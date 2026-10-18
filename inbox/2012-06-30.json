@@ -1,0 +1,446 @@
+{
+ "edition": "2012-06-30",
+ "stories": [
+  {
+   "id": "2012-04-01-suu-kyi-elected",
+   "date": "2012-04-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Aung San Suu Kyi wins a seat as Myanmar opens up",
+   "summary": "Her NLD won most of the by-election seats and Western sanctions eased.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Myanmar_by-elections"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2012/04/04/world/asia/myanmar-elections/"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "aung-san-suu-kyi"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "unplaced": "By-elections nationwide."
+  },
+  {
+   "id": "2012-04-08-scarborough-standoff",
+   "date": "2012-04-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "China takes control of Scarborough Shoal after a standoff with the Philippines",
+   "summary": "The standoff began when a Philippine navy ship tried to detain Chinese fishing boats.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Scarborough_Shoal_standoff"
+    }
+   ],
+   "entities": [
+    "china",
+    "philippines"
+   ],
+   "storylines": [
+    "southeast-asia",
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "where": [
+    "scarborough-shoal"
+   ]
+  },
+  {
+   "id": "2012-04-10-heglig-crisis",
+   "date": "2012-04-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "South Sudan seizes Sudan's Heglig oilfield in a brief border war",
+   "summary": "Southern troops were pushed back; a September deal on borders and oil resolved most issues.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Heglig_Crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/apr/11/sudan-south-border-war-crisis"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "sudan"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "where": [
+    "heglig"
+   ]
+  },
+  {
+   "id": "2012-05-06-hollande-elected",
+   "date": "2012-05-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Europe",
+   "title": "François Hollande beats Sarkozy with 51.6% on an anti-austerity platform",
+   "summary": "The same day, Greek voters punished the parties that backed the bailout.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_French_presidential_election"
+    }
+   ],
+   "entities": [
+    "france",
+    "francois-hollande"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2012-05-25-houla-massacre",
+   "date": "2012-05-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "108 civilians, including 49 children, are massacred in Houla",
+   "summary": "The UN counted the dead; Western states expelled Syrian diplomats.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Houla_massacre"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "unplaced": "Taldou, no Wikipedia coordinates."
+  },
+  {
+   "id": "2012-06-08-rakhine-riots",
+   "date": "2012-06-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Rakhine Buddhist–Rohingya riots begin in Myanmar",
+   "summary": "More than 100,000 Rohingya ended up confined in camps; it was the precursor to the 2017 expulsion.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Rakhine_State_riots"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "rohingya"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "sittwe"
+   ]
+  },
+  {
+   "id": "2012-06-24-morsi-wins",
+   "date": "2012-06-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Muslim Brotherhood's Mohamed Morsi wins Egypt's presidency",
+   "summary": "He took 51.7% in the only free presidential election in Egypt's history.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Egyptian_presidential_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2012/6/24/celebration-in-egypt-as-morsi-declared-winner"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "mohamed-morsi",
+    "muslim-brotherhood"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "cairo"
+   ]
+  },
+  {
+   "id": "2012-04-11-kim-jong-un-party-chief",
+   "date": "2012-04-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Kim Jong Un takes over North Korea's ruling party after his father's death",
+   "summary": "A party conference named Kim Jong Il 'eternal general secretary' and gave his son the top post.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2012-05-06-greek-election-syriza",
+   "date": "2012-05-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Europe",
+   "title": "Greek voters punish pro-bailout parties as Syriza surges",
+   "summary": "Syriza outpolled PASOK on 17%; a rerun in June produced a fragile pro-bailout government.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/May_2012_Greek_legislative_election"
+    }
+   ],
+   "entities": [
+    "greece",
+    "syriza"
+   ],
+   "storylines": [
+    "eurozone-crisis",
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "athens"
+   ]
+  },
+  {
+   "id": "2012-06-09-spain-bank-bailout",
+   "date": "2012-06-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Europe",
+   "title": "Eurozone agrees up to €100bn to rescue Spain's banks",
+   "summary": "The property crash left Spain unable to recapitalise its banks alone.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008%E2%80%932014_Spanish_financial_crisis"
+    }
+   ],
+   "entities": [
+    "spain",
+    "european-union"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "madrid"
+   ]
+  },
+  {
+   "id": "2012-06-22-lugo-impeached",
+   "date": "2012-06",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Paraguay's Congress removes President Fernando Lugo",
+   "summary": "The impeachment followed a deadly land-eviction clash; neighbours called it a parliamentary coup.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Impeachment_of_Fernando_Lugo"
+    }
+   ],
+   "entities": [
+    "paraguay"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "asuncion"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2012-04-01-suu-kyi-elected",
+    "2012-04-08-scarborough-standoff",
+    "2012-06-08-rakhine-riots"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2012-04-08-scarborough-standoff"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2012-04-10-heglig-crisis"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2012-05-06-hollande-elected",
+    "2012-05-06-greek-election-syriza",
+    "2012-06-09-spain-bank-bailout"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2012-05-25-houla-massacre"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2012-06-24-morsi-wins"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2012-04-11-kim-jong-un-party-chief"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2012-05-06-greek-election-syriza"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2012-06-22-lugo-impeached"
+   ]
+  }
+ ]
+}
