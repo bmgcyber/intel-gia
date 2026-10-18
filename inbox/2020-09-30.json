@@ -1,0 +1,587 @@
+{
+ "edition": "2020-09-30",
+ "stories": [
+  {
+   "id": "2020-07-01-russia-referendum",
+   "date": "2020-07-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Russia/Eurasia",
+   "title": "Russians approve constitutional changes letting Putin rule to 2036",
+   "summary": "The vote, held over a week amid COVID, reset Putin's term count and enshrined conservative clauses. Official results showed about 78% in favour; critics alleged widespread fraud.",
+   "sources": [
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2020/07/01/world/europe/putin-referendum-vote-russia.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Russian_constitutional_referendum"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "Nationwide vote."
+  },
+  {
+   "id": "2020-07-21-gerd-first-filling",
+   "date": "2020-07-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Africa",
+   "title": "Ethiopia completes the first filling of its Nile mega-dam, angering Egypt and Sudan",
+   "summary": "Ethiopia said the Grand Ethiopian Renaissance Dam reached its first-year target during the rainy season. AU-led talks on a binding agreement with Egypt and Sudan stalled.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/20200721-ethiopia-says-it-has-reached-first-year-target-for-filling-divisive-mega-dam"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam"
+    }
+   ],
+   "entities": [
+    "ethiopia",
+    "egypt",
+    "sudan",
+    "abiy-ahmed"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [],
+   "marker": "energy",
+   "where": [
+    "gerd"
+   ]
+  },
+  {
+   "id": "2020-07-21-ngeu",
+   "date": "2020-07-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Europe",
+   "title": "EU leaders agree a €750bn recovery fund backed by joint borrowing",
+   "summary": "After a four-day summit the 27 agreed Next Generation EU, funded by Commission bonds, a first for common EU debt on this scale, alongside the 2021–27 budget.",
+   "sources": [
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Next_Generation_EU"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "covid-19",
+    "germany",
+    "france"
+   ],
+   "storylines": [
+    "covid-shock",
+    "europe-cost-of-living"
+   ],
+   "causes": [
+    {
+     "story": "2020-03-11-who-pandemic",
+     "why": "Pandemic recession",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2020-08-04-beirut-blast",
+   "date": "2020-08-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Middle East",
+   "title": "Ammonium nitrate explosion devastates Beirut's port",
+   "summary": "About 2,750 tonnes of ammonium nitrate stored for years at the port detonated, killing more than 200 and wrecking much of the city amid an economic collapse. The government resigned within a week.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2020/aug/04/huge-explosion-beirut-lebanon-shatters-windows-rocks-buildings"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2020/8/4/dozens-killed-as-huge-explosion-rips-through-lebanons-beirut"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Beirut_explosion"
+    }
+   ],
+   "entities": [
+    "lebanon",
+    "hezbollah"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "political",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2020-08-09-belarus-protests",
+   "date": "2020-08-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Europe",
+   "title": "Lukashenko claims a landslide; Belarus erupts in the largest protests in its history",
+   "summary": "Officials gave Lukashenko about 80%. Opposition candidate Sviatlana Tsikhanouskaya fled to Lithuania and hundreds of thousands marched in Minsk. Thousands were detained; Moscow backed Lukashenko with a loan and offers of security support.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2020/aug/11/belarus-president-cuts-off-internet-amid-widespread-protests"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020–2021_Belarusian_protests"
+    }
+   ],
+   "entities": [
+    "belarus",
+    "alexander-lukashenko",
+    "sviatlana-tsikhanouskaya",
+    "russia",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "Surviving with Kremlin support made Lukashenko dependent on Moscow, and Belarus became a staging ground for the 2022 invasion.",
+    "confidence": "likely"
+   },
+   "where": [
+    "minsk"
+   ]
+  },
+  {
+   "id": "2020-08-12-east-med-standoff",
+   "date": "2020-08-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Europe",
+   "title": "Greek and Turkish frigates collide as the eastern Mediterranean gas dispute escalates",
+   "summary": "As Turkey's survey ship Oruç Reis explored waters claimed by Greece, a Greek frigate struck a Turkish one. France sent warships in support of Greece.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/article/us-greece-turkey-warships/greek-and-turkish-warships-in-mini-collision-defence-source-idUSKCN25A161/"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/turkey-greece-war-mediterranean-erdogan-ships-collide-a9670416.html"
+    }
+   ],
+   "entities": [
+    "greece",
+    "turkey",
+    "recep-tayyip-erdogan",
+    "france"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [],
+   "marker": "military",
+   "unplaced": "At sea in the eastern Mediterranean."
+  },
+  {
+   "id": "2020-08-12-mocimboa-falls",
+   "date": "2020-08-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Africa",
+   "title": "Islamic State-linked insurgents seize Mozambique's Mocímboa da Praia port",
+   "summary": "After a days-long assault the Cabo Delgado insurgents drove out government forces and held the port that supplied nearby LNG projects. It was the third time that year they took the town.",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/world-africa-53756692"
+    },
+    {
+     "name": "ACLED Cabo Ligado",
+     "url": "https://acleddata.com/update/cabo-ligado-weekly-10-16-august-2020"
+    },
+    {
+     "name": "CSIS",
+     "url": "https://www.csis.org/analysis/insurgency-marks-new-milestone-coastal-attack-northern-mozambique"
+    }
+   ],
+   "entities": [
+    "mozambique",
+    "islamic-state"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "mocimboa-da-praia"
+   ]
+  },
+  {
+   "id": "2020-08-13-abraham-accords",
+   "date": "2020-08-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Middle East",
+   "title": "UAE and Israel announce normalisation; the Abraham Accords are signed with Bahrain",
+   "summary": "Trump announced the UAE–Israel deal, in which Israel suspended annexation plans in the West Bank. Bahrain followed, and both signed at the White House on Sep 15; Sudan joined in October.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2020/08/13/middleeast/mideast-trump-full-statement-uae-israel-intl/index.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abraham_Accords"
+    }
+   ],
+   "entities": [
+    "uae",
+    "israel",
+    "bahrain",
+    "united-states",
+    "donald-trump",
+    "benjamin-netanyahu"
+   ],
+   "storylines": [
+    "gulf-realignment",
+    "levant-wars"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "The accords built an Israel–Gulf security axis against Iran that survived the Gaza war.",
+    "confidence": "likely"
+   },
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2020-08-18-mali-coup",
+   "date": "2020-08-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Africa",
+   "title": "Mutinous soldiers oust Mali's President Keïta",
+   "summary": "After months of protests over insecurity and a disputed election, troops seized Kati base and arrested Keïta, who resigned. A junta led by Col. Assimi Goïta took power.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/20200818-ecowas-calls-on-mali-soldiers-to-end-the-mutiny"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2020/08/gunfire-heard-mali-army-base-warnings-mutiny-200818111723901.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Malian_coup_d'état"
+    }
+   ],
+   "entities": [
+    "mali",
+    "assimi-goita",
+    "ecowas",
+    "france"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "The first of the Sahel coups that ended France's mission and brought in Russia.",
+    "confidence": "likely"
+   },
+   "where": [
+    "kati"
+   ]
+  },
+  {
+   "id": "2020-08-20-navalny-poisoned",
+   "date": "2020-08-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Russia/Eurasia",
+   "title": "Navalny is poisoned with Novichok on a flight from Tomsk",
+   "summary": "His plane made an emergency landing in Omsk and he was flown to Berlin, where German labs found a Novichok nerve agent. The EU imposed sanctions; he returned to Russia and was arrested in January 2021.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2020/aug/20/a-cup-of-tea-then-screams-of-agony-how-alexei-navalny-was-left-fighting-for-his-life"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny"
+    }
+   ],
+   "entities": [
+    "alexei-navalny",
+    "russia",
+    "germany",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "political",
+   "where": [
+    "omsk"
+   ]
+  },
+  {
+   "id": "2020-08-28-abe-resigns",
+   "date": "2020-08-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Asia-Pacific",
+   "title": "Shinzo Abe resigns as Japan's longest-serving PM; Suga succeeds him",
+   "summary": "Abe cited a relapse of ulcerative colitis. Yoshihide Suga was elected prime minister on Sep 16, promising continuity.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/article/us-japan-politics-abe/japans-pm-abe-resigns-as-coronavirus-hits-economy-endangers-legacy-idUSKBN25O00F/"
+    },
+    {
+     "name": "PBS",
+     "url": "https://www.pbs.org/newshour/world/japan-prime-minister-shinzo-abe-says-hes-resigning-for-health-reasons"
+    },
+    {
+     "name": "Prime Minister's Office of Japan",
+     "url": "https://japan.kantei.go.jp/99_suga/actions/202009/_00001.html"
+    }
+   ],
+   "entities": [
+    "japan",
+    "shinzo-abe",
+    "yoshihide-suga"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2020-09-27-karabakh-war",
+   "date": "2020-09-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Russia/Eurasia",
+   "title": "Azerbaijan launches the Second Nagorno-Karabakh War, with Turkish drones",
+   "summary": "Azerbaijan's offensive, aided by Turkish Bayraktar drones and reportedly Syrian mercenaries, retook districts held by Armenia since 1994 and captured Shusha on Nov 8.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2020/9/28/azerbaijan-denies-turkey-sent-it-fighters-from-syria"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War"
+    }
+   ],
+   "entities": [
+    "azerbaijan",
+    "armenia",
+    "turkey",
+    "ilham-aliyev",
+    "nikol-pashinyan",
+    "russia"
+   ],
+   "storylines": [
+    "south-caucasus"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "shusha",
+    "stepanakert"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2020-07-01-russia-referendum",
+    "2020-08-09-belarus-protests",
+    "2020-08-20-navalny-poisoned"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2020-07-21-gerd-first-filling"
+   ]
+  },
+  {
+   "id": "covid-shock",
+   "name": "COVID-19 pandemic & the 2020 economic shock",
+   "entities": [
+    "covid-19",
+    "who",
+    "federal-reserve",
+    "ecb",
+    "imf",
+    "china"
+   ],
+   "stories": [
+    "2020-07-21-ngeu"
+   ]
+  },
+  {
+   "id": "europe-cost-of-living",
+   "name": "Europe: energy shock, cost of living & the populist surge",
+   "entities": [
+    "france",
+    "european-union",
+    "inflation"
+   ],
+   "stories": [
+    "2020-07-21-ngeu"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2020-08-04-beirut-blast",
+    "2020-08-13-abraham-accords"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2020-08-12-east-med-standoff"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2020-08-13-abraham-accords"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2020-08-18-mali-coup"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2020-08-28-abe-resigns"
+   ]
+  },
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2020-09-27-karabakh-war"
+   ]
+  }
+ ]
+}
