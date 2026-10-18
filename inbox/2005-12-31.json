@@ -1,0 +1,555 @@
+{
+ "edition": "2005-12-31",
+ "stories": [
+  {
+   "id": "2005-10-01-bali-bombings",
+   "date": "2005-10-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Suicide bombers strike Bali again",
+   "summary": "Jemaah Islamiyah hit restaurants in Kuta and Jimbaran.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Bali_bombings"
+    }
+   ],
+   "entities": [
+    "indonesia"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "strike",
+   "where": [
+    "jimbaran"
+   ]
+  },
+  {
+   "id": "2005-10-08-kashmir-earthquake",
+   "date": "2005-10-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Earthquake in Pakistani Kashmir kills tens of thousands",
+   "summary": "India and Pakistan briefly opened the Line of Control for relief.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Kashmir_earthquake"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "india"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan"
+   ],
+   "marker": "political",
+   "where": [
+    "muzaffarabad"
+   ]
+  },
+  {
+   "id": "2005-10-15-iraq-constitution",
+   "date": "2005-10-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Iraqis approve a new constitution despite Sunni opposition",
+   "summary": "The federal charter entrenched Kurdish autonomy.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Iraqi_constitutional_referendum"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "kurdistan-region"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2005-10-27-french-riots",
+   "date": "2005-10-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "Riots spread through France's suburbs",
+   "summary": "The unrest prompted a state of emergency.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_French_riots"
+    }
+   ],
+   "entities": [
+    "france"
+   ],
+   "marker": "political",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2005-11-05-mar-del-plata-summit",
+   "date": "2005-11-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Americas",
+   "title": "The US-backed Free Trade Area of the Americas dies at Mar del Plata",
+   "summary": "Chávez and Kirchner led the opposition at the Summit of the Americas.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/4th_Summit_of_the_Americas"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "venezuela",
+    "argentina",
+    "hugo-chavez"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "mar-del-plata"
+   ]
+  },
+  {
+   "id": "2005-11-09-amman-bombings",
+   "date": "2005-11-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Al-Qaeda in Iraq bombs three hotels in Amman",
+   "summary": "The attacks turned Jordanian opinion against Zarqawi.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Amman_bombings"
+    }
+   ],
+   "entities": [
+    "jordan",
+    "al-qaeda",
+    "abu-musab-al-zarqawi"
+   ],
+   "storylines": [
+    "iraq-war",
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "amman"
+   ]
+  },
+  {
+   "id": "2005-11-22-merkel-chancellor",
+   "date": "2005-11-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "Angela Merkel becomes Germany's first female chancellor",
+   "summary": "She led Germany for 16 years.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_German_federal_election"
+    }
+   ],
+   "entities": [
+    "germany",
+    "angela-merkel"
+   ],
+   "marker": "political",
+   "where": [
+    "berlin"
+   ]
+  },
+  {
+   "id": "2005-12-18-morales-elected",
+   "date": "2005-12-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Americas",
+   "title": "Evo Morales wins Bolivia's presidency",
+   "summary": "He was Bolivia's first indigenous president.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Bolivian_general_election"
+    }
+   ],
+   "entities": [
+    "bolivia",
+    "evo-morales"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "la-paz"
+   ]
+  },
+  {
+   "id": "2005-11-17-rajapaksa-elected",
+   "date": "2005-11-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Mahinda Rajapaksa wins Sri Lanka's presidency",
+   "summary": "He led the war that crushed the Tamil Tigers in 2009.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Sri_Lankan_presidential_election"
+    }
+   ],
+   "entities": [
+    "sri-lanka",
+    "mahinda-rajapaksa",
+    "ltte"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "colombo"
+   ]
+  },
+  {
+   "id": "2005-12-15-iraq-december-election",
+   "date": "2005-12-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Iraq elects its first full-term parliament",
+   "summary": "Sunnis took part this time.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/December_2005_Iraqi_parliamentary_election"
+    }
+   ],
+   "entities": [
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2006-01-01-russia-ukraine-gas-cut",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-01-23-yushchenko-inaugurated",
+     "why": "Pro-Western government",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-01-25-hamas-wins-election",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-08-15-gaza-disengagement",
+     "why": "Hamas claimed credit",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2006-05-20-maliki-becomes-pm",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-12-15-iraq-december-election",
+     "why": "Formed after the election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-02-22-samarra-mosque-bombing",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-10-15-iraq-constitution",
+     "why": "Sectarian polarisation",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2006-04-11-iran-enrichment-announced",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-06-24-ahmadinejad-elected",
+     "why": "Hardline turn",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-05-01-bolivia-gas-nationalised",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-12-18-morales-elected",
+     "why": "Campaign pledge",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-06-sri-lanka-eelam-war-iv",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-11-17-rajapaksa-elected",
+     "why": "Hardline president",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-07-12-lebanon-war",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-03-14-cedar-revolution",
+     "why": "Syria's exit left Hezbollah exposed",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2006-09-19-thai-coup",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-02-06-thaksin-landslide",
+     "why": "Thaksin's dominance",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-03-26-ukraine-election-yanukovych",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-01-23-yushchenko-inaugurated",
+     "why": "Orange split",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2007-12-13-lisbon-treaty-signed",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-05-29-eu-constitution-rejected",
+     "why": "Replacement treaty",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-03-04-icc-bashir-warrant",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-03-31-unsc-refers-darfur",
+     "why": "UNSC referral",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-01-09-south-sudan-referendum",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-01-09-sudan-cpa",
+     "why": "CPA promised the vote",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2010-04-07-kyrgyz-revolution",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-03-24-tulip-revolution",
+     "why": "Earlier revolution",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2009-05-18-ltte-defeated",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2006-06-sri-lanka-eelam-war-iv",
+     "why": "Final war",
+     "confidence": "likely"
+    },
+    {
+     "story": "2005-11-17-rajapaksa-elected",
+     "why": "Rajapaksa's war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2007-05-06-sarkozy-elected",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-10-27-french-riots",
+     "why": "Sarkozy's law-and-order profile",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2014-05-21-russia-china-gas-deal",
+   "why": "2005 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Moscow pivoted east under sanctions",
+     "confidence": "possible"
+    },
+    {
+     "story": "2005-07-05-sco-astana-summit",
+     "why": "Russia–China alignment",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2005-10-01-bali-bombings"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2005-10-08-kashmir-earthquake"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2005-10-15-iraq-constitution",
+    "2005-11-09-amman-bombings",
+    "2005-12-15-iraq-december-election"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2005-11-05-mar-del-plata-summit",
+    "2005-12-18-morales-elected"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2005-11-09-amman-bombings"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2005-11-17-rajapaksa-elected"
+   ]
+  }
+ ]
+}
