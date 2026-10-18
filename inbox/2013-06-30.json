@@ -1,0 +1,529 @@
+{
+ "edition": "2013-06-30",
+ "stories": [
+  {
+   "id": "2013-04-04-boj-qqe",
+   "date": "2013-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Kuroda's Bank of Japan launches massive easing to end deflation",
+   "summary": "The Bank of Japan's 2% inflation target was the 'first arrow' of Abenomics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abenomics"
+    }
+   ],
+   "entities": [
+    "japan",
+    "bank-of-japan",
+    "shinzo-abe"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2013-04-08-isil-founded",
+   "date": "2013-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Baghdadi's group expands into Syria as the 'Islamic State of Iraq and the Levant'",
+   "summary": "Al-Nusra rejected the merger and al-Qaeda later disowned ISIL.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Islamic_State"
+    }
+   ],
+   "entities": [
+    "islamic-state",
+    "abu-bakr-al-baghdadi",
+    "syria",
+    "iraq"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "political",
+   "unplaced": "Announced online."
+  },
+  {
+   "id": "2013-04-15-boston-bombing",
+   "date": "2013-04-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "Bombs kill three at the Boston Marathon",
+   "summary": "The Tsarnaev brothers acted as self-radicalised Islamists.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Boston_Marathon_bombing"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2013/04/15/us/boston-marathon-explosions"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "marker": "strike",
+   "where": [
+    "boston"
+   ]
+  },
+  {
+   "id": "2013-04-24-rana-plaza",
+   "date": "2013-04-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Rana Plaza garment factory collapse kills 1,134 in Bangladesh",
+   "summary": "The deadliest garment disaster led to new safety accords for Western retailers.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/apr/24/bangladesh-building-collapse-kills-garment-workers"
+    }
+   ],
+   "entities": [
+    "bangladesh"
+   ],
+   "marker": "political",
+   "where": [
+    "savar"
+   ]
+  },
+  {
+   "id": "2013-05-11-sharif-wins",
+   "date": "2013-05-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Nawaz Sharif wins Pakistan's election in its first democratic transfer of power",
+   "summary": "Sharif's PML-N defeated the ruling PPP; Imran Khan's PTI emerged as a major force.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Pakistani_general_election"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2013/05/11/world/asia/pakistan-election"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "imran-khan"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2013-05-28-gezi-protests",
+   "date": "2013-05-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Europe",
+   "title": "Gezi Park protests become a nationwide revolt against Erdoğan",
+   "summary": "A harsh crackdown marked Erdoğan's turn toward more authoritarian rule.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gezi_Park_protests"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "gezi-park"
+   ]
+  },
+  {
+   "id": "2013-06-05-qusayr-hezbollah",
+   "date": "2013-06-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Hezbollah and Assad retake Qusayr as Hezbollah openly joins Syria's war",
+   "summary": "Hezbollah's public intervention marked Iran's full commitment to saving Assad.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Second_Battle_of_al-Qusayr"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/jun/05/syria-army-seizes-qusair"
+    }
+   ],
+   "entities": [
+    "hezbollah",
+    "bashar-al-assad",
+    "syria",
+    "iran"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "unplaced": "Qusayr, no Wikipedia coordinates."
+  },
+  {
+   "id": "2013-06-06-snowden-nsa-leaks",
+   "date": "2013-06-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "Snowden leaks reveal mass NSA surveillance",
+   "summary": "Disclosures of phone records and PRISM collection strained US relations with allies including Germany and Brazil; Snowden fled to Russia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_%282013%E2%80%93present%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "edward-snowden",
+    "russia"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "political",
+   "unplaced": "Leaks published worldwide."
+  },
+  {
+   "id": "2013-06-14-rouhani-elected",
+   "date": "2013-06-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Hassan Rouhani wins Iran's presidency promising engagement",
+   "summary": "The moderate won outright with just over 50%, opening the way to nuclear talks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Iranian_presidential_election"
+    }
+   ],
+   "entities": [
+    "iran",
+    "hassan-rouhani"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2013-04-23-hawija-clashes",
+   "date": "2013-04-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Iraqi army raid on a Sunni protest camp in Hawija sets off deadly unrest",
+   "summary": "More than 300 people were reported killed within days, deepening Sunni alienation that ISIL exploited.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Hawija_clashes"
+    }
+   ],
+   "entities": [
+    "iraq"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "hawija"
+   ]
+  },
+  {
+   "id": "2013-06-19-taper-tantrum",
+   "date": "2013-06-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "Bernanke signals the Fed will taper QE, sparking the 'taper tantrum'",
+   "summary": "Bond yields jumped and capital fled emerging markets.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Taper_tantrum"
+    }
+   ],
+   "entities": [
+    "federal-reserve",
+    "united-states"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2013-06-20-brazil-protests",
+   "date": "2013-06",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "Mass protests spread across Brazil over fares, corruption and World Cup spending",
+   "summary": "They began over bus fares and marked the start of years of political turmoil.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_protests_in_Brazil"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "dilma-rousseff"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "Protests in many cities."
+  },
+  {
+   "id": "2013-06-25-tamim-emir",
+   "date": "2013-06-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Middle East",
+   "title": "Tamim bin Hamad becomes Qatar's emir as his father abdicates",
+   "summary": "He kept Qatar's backing for the Muslim Brotherhood, which Riyadh and Abu Dhabi opposed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani"
+    }
+   ],
+   "entities": [
+    "qatar",
+    "tamim-bin-hamad-al-thani"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "doha"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2013-04-04-boj-qqe",
+    "2013-06-19-taper-tantrum"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2013-04-08-isil-founded",
+    "2013-04-23-hawija-clashes"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2013-05-11-sharif-wins"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2013-05-11-sharif-wins"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2013-05-28-gezi-protests"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2013-06-05-qusayr-hezbollah"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2013-06-05-qusayr-hezbollah"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2013-06-06-snowden-nsa-leaks"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2013-06-14-rouhani-elected"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2013-06-20-brazil-protests"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2013-06-25-tamim-emir"
+   ]
+  }
+ ]
+}
