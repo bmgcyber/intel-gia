@@ -18830,6 +18830,728 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-09-30": {
+   "sha256": "137cfe2f44640ce7d58858111d703cd1f6aec4cd4b80699006ec3c119978d0d6",
+   "undo": {
+    "stories": {
+     "2023-07-03-china-gallium-controls": null,
+     "2023-07-17-russia-quits-grain-deal": null,
+     "2023-07-26-niger-coup": null,
+     "2023-07-26-fed-peak-rate": null,
+     "2023-08-23-prigozhin-killed": null,
+     "2023-08-24-brics-expansion": null,
+     "2023-09-19-karabakh-falls": null,
+     "2022-10-07-bis-controls": {
+      "id": "2022-10-07-bis-controls",
+      "date": "2022-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US imposes sweeping chip export controls on China",
+      "summary": "The Commerce Department restricted exports of advanced AI chips, chipmaking tools and US-person support to Chinese fabs.",
+      "sources": [
+       {
+        "name": "Wikipedia: United States New Export Controls on Advanced Computing and Semiconductors to China",
+        "url": "https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "semiconductors",
+       "nvidia",
+       "ai-data-centers"
+      ],
+      "storylines": [
+       "ai-compute-minerals",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Licence letter formalised into rules",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-09-chips-act",
+        "why": "Paired industrial and denial strategy",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "rare-earth-nov10",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "ai-minerals",
+        "why": "AI compute became a strategic commodity",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "ai-minerals",
+       "rare-earth-nov10",
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-14-trump-xi-beijing",
+       "2025-01-27-deepseek-shock",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-12-08-h200-china",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-12-03-china-bans-gallium-to-us"
+      ],
+      "marker": "political",
+      "unplaced": "An export-control rule. The summary names no place."
+     },
+     "2021-12-china-rare-earth-group": {
+      "id": "2021-12-china-rare-earth-group",
+      "date": "2021-12",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "China consolidates state rare-earth miners into China Rare Earth Group",
+      "summary": "Beijing merged several state-owned rare-earth producers into a new China Rare Earth Group in December 2021, strengthening state control of the sector.",
+      "sources": [
+       {
+        "name": "Wikipedia: Rare-earth industry in China",
+        "url": "https://en.wikipedia.org/wiki/Rare-earth_industry_in_China"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths"
+      ],
+      "storylines": [
+       "china-minerals-leverage"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "rare-earth-nov10",
+        "why": "State consolidation enabled licensing leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-06-14-msp",
+        "why": "Response to Chinese consolidation of minerals",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-06-14-msp",
+       "rare-earth-nov10",
+       "2026-05-22-china-japan-rare-earths",
+       "2025-04-04-china-rare-earth-controls"
+      ]
+     },
+     "2022-07-22-grain-deal": {
+      "id": "2022-07-22-grain-deal",
+      "date": "2022-07-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "Black Sea Grain Initiative signed in Istanbul",
+      "summary": "Russia and Ukraine signed parallel deals with Turkey and the UN to reopen Ukrainian grain exports through a Black Sea corridor.",
+      "sources": [
+       {
+        "name": "Wikipedia: Black Sea Grain Initiative",
+        "url": "https://en.wikipedia.org/wiki/Black_Sea_Grain_Initiative"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "turkey",
+       "black-sea",
+       "wheat",
+       "food-security"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-grain-halt",
+        "why": "Unblocking the halted exports",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-13-india-wheat-ban",
+        "why": "Global food crisis pressure",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-02-24-grain-halt",
+       "2022-03-29-istanbul-talks",
+       "2022-04-14-moskva",
+       "2022-05-13-india-wheat-ban"
+      ]
+     },
+     "2022-09-30-burkina-coup2": {
+      "id": "2022-09-30-burkina-coup2",
+      "date": "2022-09-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Second Burkina coup: Capt. Ibrahim Traoré ousts Damiba",
+      "summary": "Junior officers led by Ibrahim Traoré overthrew Damiba; some supporters waved Russian flags.",
+      "sources": [
+       {
+        "name": "Wikipedia: September 2022 Burkina Faso coup d'état",
+        "url": "https://en.wikipedia.org/wiki/September_2022_Burkina_Faso_coup_d'état"
+       }
+      ],
+      "entities": [
+       "burkina-faso",
+       "ibrahim-traore",
+       "sahel",
+       "russia",
+       "france"
+      ],
+      "storylines": [
+       "sahel"
+      ],
+      "causes": [
+       {
+        "story": "2022-01-24-burkina-coup",
+        "why": "Failure to stem jihadist violence",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Anti-French and pro-Russian current across the Sahel",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali"
+      ]
+     },
+     "2022-02-17-france-leaves-mali": {
+      "id": "2022-02-17-france-leaves-mali",
+      "date": "2022-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "France and allies announce military withdrawal from Mali",
+      "summary": "France and European partners announced the withdrawal of Operation Barkhane and Task Force Takuba from Mali, citing obstruction by the junta.",
+      "sources": [
+       {
+        "name": "Wikipedia: Operation Barkhane",
+        "url": "https://en.wikipedia.org/wiki/Operation_Barkhane"
+       }
+      ],
+      "entities": [
+       "france",
+       "mali",
+       "sahel",
+       "wagner-group",
+       "assimi-goita"
+      ],
+      "storylines": [
+       "sahel"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-wagner-mali",
+        "why": "Junta's turn to Wagner made the French presence untenable",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kidal",
+        "why": "French exit left Russia as Mali's main partner",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-16-mali-g5",
+        "why": "Mali's break with Western-backed structures",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Anti-French and pro-Russian current across the Sahel",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "kidal",
+       "2026-04-25-mali-offensive",
+       "2024-07-06-aes-confederation"
+      ],
+      "marker": "military",
+      "unplaced": "The announcement names the operation, not a town."
+     },
+     "2022-03-16-fed-hike": {
+      "id": "2022-03-16-fed-hike",
+      "date": "2022-03-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "Fed begins its first rate-hike cycle since 2018",
+      "summary": "The Federal Reserve raised its policy rate by 25 basis points, the start of the fastest tightening in decades as inflation surged.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021–2023 inflation surge",
+        "url": "https://en.wikipedia.org/wiki/2021–2023_inflation_surge"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "united-states",
+       "inflation"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-03-07-oil-spike",
+        "why": "Energy-driven inflation",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-10-europe-gas-crunch",
+        "why": "Energy inflation already building in 2021",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-05-sri-lanka-default",
+        "why": "Tighter dollar funding",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-06-15-fed-75",
+        "why": "Escalating cycle",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2021-10-europe-gas-crunch",
+       "2022-03-07-oil-spike",
+       "2022-05-sri-lanka-default",
+       "2022-06-15-fed-75"
+      ]
+     },
+     "2023-03-10-svb-collapse": {
+      "id": "2023-03-10-svb-collapse",
+      "date": "2023-03-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-31",
+      "region": "Americas",
+      "title": "Silicon Valley Bank fails, the biggest US bank failure since 2008",
+      "summary": "Losses on bonds hit by the Fed's rate rises set off a run on SVB. Regulators guaranteed all deposits, Signature and later First Republic failed, and Credit Suisse was rescued by UBS.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/finance/global-markets-banks-wrapup-1-2023-03-10/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+       }
+      ],
+      "entities": [
+       "silicon-valley-bank",
+       "federal-reserve",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-15-fed-75",
+        "why": "Rate rises crushed long-bond values",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-03-31",
+      "storylines": [
+       "central-banks-rates"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "A bank failure; no site.",
+      "related_stories": [
+       "2022-06-15-fed-75"
+      ]
+     },
+     "2023-06-24-prigozhin-mutiny": {
+      "id": "2023-06-24-prigozhin-mutiny",
+      "date": "2023-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Prigozhin's Wagner mutiny marches toward Moscow, then stands down",
+      "summary": "Wagner seized Rostov-on-Don's military HQ and advanced to within about 200 km of Moscow before a Belarus-brokered deal ended the revolt, the biggest challenge to Putin's rule.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/6/24/wagner-boss-says-march-on-moscow-halted-to-avoid-bloodshed"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/jun/24/vladimir-putin-accuses-wagner-chief-treason-vows-neutralise-uprising"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/wagner-revolt-russia-clouds-outlook-its-operations-africa-2023-06-24/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wagner_Group_rebellion"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "yevgeny-prigozhin",
+       "vladimir-putin",
+       "russia",
+       "belarus"
+      ],
+      "causes": [
+       {
+        "story": "2023-05-20-bakhmut-falls",
+        "why": "Feud over Bakhmut losses",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "russia-ukraine",
+       "sahel"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "Rostov-on-Don to the M4 highway.",
+      "related_stories": [
+       "2023-05-20-bakhmut-falls",
+       "2022-02-24-invasion"
+      ]
+     },
+     "2023-03-10-saudi-iran-beijing": {
+      "id": "2023-03-10-saudi-iran-beijing",
+      "date": "2023-03-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-31",
+      "region": "Middle East",
+      "title": "Saudi Arabia and Iran agree in Beijing to restore relations",
+      "summary": "In a China-brokered deal, the rivals agreed to reopen embassies within two months, seven years after ties were cut. It was Beijing's first big Middle East mediation.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-saudi-arabia-agree-resume-ties-re-open-embassies-iranian-state-media-2023-03-10/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/mar/10/iran-saudi-arabia-agree-restore-ties-china-talks"
+       },
+       {
+        "name": "Al Jazeera (timeline)",
+        "url": "https://www.aljazeera.com/news/2023/3/10/iran-and-saudi-arabia-from-rivalry-to-mending-ties-a-timeline"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "iran",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2022-04-02-yemen-truce",
+        "why": "The Yemen truce eased the Saudi–Iran confrontation",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-03-31",
+      "storylines": [
+       "gulf-realignment",
+       "yemen-houthis-saudi"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2022-04-02-yemen-truce",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted"
+      ]
+     },
+     "2022-09-13-armenia-azerbaijan": {
+      "id": "2022-09-13-armenia-azerbaijan",
+      "date": "2022-09-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Azerbaijan strikes inside Armenia; Russia-led CSTO stays out",
+      "summary": "Clashes killed hundreds; Armenia's request for CSTO help went largely unanswered.",
+      "sources": [
+       {
+        "name": "Wikipedia: September 2022 Armenia–Azerbaijan clashes",
+        "url": "https://en.wikipedia.org/wiki/September_2022_Armenia–Azerbaijan_clashes"
+       }
+      ],
+      "entities": [
+       "armenia",
+       "azerbaijan",
+       "csto",
+       "russia",
+       "turkey"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-09-06-kharkiv",
+        "why": "Russia tied down in Ukraine",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-09-06-kharkiv"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "china-minerals-leverage": {
+      "id": "china-minerals-leverage",
+      "name": "China rare-earth / tech leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials",
+       "japan",
+       "european-union"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-drills",
+       "2021-12-china-rare-earth-group",
+       "2022-02-04-no-limits",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2022-10-16-party-congress",
+       "pla-patrol-oct14-15",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2025-11-06-c5-plus-1-summit",
+       "2024-12-03-china-bans-gallium-to-us"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny"
+      ],
+      "source": "threads.md"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny"
+      ],
+      "source": "threads.md"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

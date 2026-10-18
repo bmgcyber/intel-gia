@@ -1516,7 +1516,8 @@
    "2022-06-14-msp",
    "rare-earth-nov10",
    "2026-05-22-china-japan-rare-earths",
-   "2025-04-04-china-rare-earth-controls"
+   "2025-04-04-china-rare-earth-controls",
+   "2023-07-03-china-gallium-controls"
   ]
  },
  {
@@ -1897,7 +1898,8 @@
    "2022-09-30-burkina-coup2",
    "kidal",
    "2026-04-25-mali-offensive",
-   "2024-07-06-aes-confederation"
+   "2024-07-06-aes-confederation",
+   "2023-07-26-niger-coup"
   ],
   "marker": "military",
   "unplaced": "The announcement names the operation, not a town."
@@ -2593,7 +2595,8 @@
    "2021-10-europe-gas-crunch",
    "2022-03-07-oil-spike",
    "2022-05-sri-lanka-default",
-   "2022-06-15-fed-75"
+   "2022-06-15-fed-75",
+   "2023-07-26-fed-peak-rate"
   ]
  },
  {
@@ -4114,7 +4117,8 @@
    "2022-02-24-grain-halt",
    "2022-03-29-istanbul-talks",
    "2022-04-14-moskva",
-   "2022-05-13-india-wheat-ban"
+   "2022-05-13-india-wheat-ban",
+   "2023-07-17-russia-quits-grain-deal"
   ]
  },
  {
@@ -4693,7 +4697,8 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-09-06-kharkiv"
+   "2022-09-06-kharkiv",
+   "2023-09-19-karabakh-falls"
   ]
  },
  {
@@ -4994,7 +4999,8 @@
   "related_stories": [
    "2021-12-wagner-mali",
    "2022-01-24-burkina-coup",
-   "2022-02-17-france-leaves-mali"
+   "2022-02-17-france-leaves-mali",
+   "2023-07-26-niger-coup"
   ]
  },
  {
@@ -5170,7 +5176,8 @@
    "2025-10-09-china-rare-earth-expansion",
    "2025-12-08-h200-china",
    "2024-05-14-biden-ev-tariffs",
-   "2024-12-03-china-bans-gallium-to-us"
+   "2024-12-03-china-bans-gallium-to-us",
+   "2023-07-03-china-gallium-controls"
   ],
   "marker": "political",
   "unplaced": "An export-control rule. The summary names no place."
@@ -19395,7 +19402,8 @@
   "related_stories": [
    "2022-04-02-yemen-truce",
    "saudi-blames-iran-eu-gcc-postponed",
-   "yanbu-missile-intercepted"
+   "yanbu-missile-intercepted",
+   "2023-08-24-brics-expansion"
   ]
  },
  {
@@ -19442,7 +19450,8 @@
   "marker": "political",
   "unplaced": "A bank failure; no site.",
   "related_stories": [
-   "2022-06-15-fed-75"
+   "2022-06-15-fed-75",
+   "2023-07-26-fed-peak-rate"
   ]
  },
  {
@@ -19783,7 +19792,393 @@
   "unplaced": "Rostov-on-Don to the M4 highway.",
   "related_stories": [
    "2023-05-20-bakhmut-falls",
-   "2022-02-24-invasion"
+   "2022-02-24-invasion",
+   "2023-08-23-prigozhin-killed"
+  ]
+ },
+ {
+  "id": "2023-07-03-china-gallium-controls",
+  "date": "2023-07-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Asia-Pacific",
+  "title": "China imposes export licences on gallium and germanium",
+  "summary": "MOFCOM and Customs required licences from Aug 1 for exports of eight gallium and six germanium products used in chips and defence, an answer to Western chip curbs.",
+  "sources": [
+   {
+    "name": "MOFCOM/GAC Notice 2023 No. 23",
+    "url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2023/art_ca2e9d349361441f847bdabac5d8331b.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/markets/commodities/china-restrict-exports-chipmaking-materials-us-mulls-new-curbs-2023-07-04/"
+   },
+   {
+    "name": "Reuters (companies)",
+    "url": "https://www.reuters.com/markets/commodities/companies-respond-chinas-curbs-gallium-germanium-exports-2023-07-06/"
+   }
+  ],
+  "entities": [
+   "china",
+   "gallium",
+   "semiconductors"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-07-bis-controls",
+    "why": "Answer to US chip controls",
+    "confidence": "likely"
+   },
+   {
+    "story": "2021-12-china-rare-earth-group",
+    "why": "Beijing's growing minerals statecraft",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "china-minerals-leverage"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "unplaced": "An export regime.",
+  "related_stories": [
+   "2022-10-07-bis-controls",
+   "2021-12-china-rare-earth-group",
+   "2024-12-03-china-bans-gallium-to-us"
+  ]
+ },
+ {
+  "id": "2023-07-17-russia-quits-grain-deal",
+  "date": "2023-07-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Russia quits the Black Sea Grain Initiative",
+  "summary": "Moscow ended the UN- and Turkey-brokered deal and then struck Odesa-area ports. Ukraine opened its own sea corridor in August.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-halts-participation-black-sea-grain-deal-kremlin-says-2023-07-17/"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2023/07/17/world/europe/ukraine-russia-grain-deal.html"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2023/07/30/1190968770/african-leaders-leave-russia-summit-without-grain-deal-or-path-to-peace-in-ukrai"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "turkey",
+   "wheat",
+   "black-sea"
+  ],
+  "causes": [
+   {
+    "story": "2022-07-22-grain-deal",
+    "why": "Ends the 2022 deal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "diplomacy",
+  "unplaced": "Black Sea shipping lanes.",
+  "related_stories": [
+   "2022-07-22-grain-deal",
+   "2022-02-24-grain-halt",
+   "2022-03-29-istanbul-talks",
+   "2022-04-14-moskva"
+  ]
+ },
+ {
+  "id": "2023-07-26-niger-coup",
+  "date": "2023-07-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Africa",
+  "title": "Niger's presidential guard ousts Bazoum; Tiani takes power",
+  "summary": "Gen. Abdourahamane Tiani's guard detained President Bazoum. ECOWAS threatened force but backed down, and the junta expelled French and later US troops, completing the Sahel's turn from the West.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/soldiers-nigers-presidential-guard-blockade-presidents-office-security-sources-2023-07-26/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/7/26/soldiers-holding-niger-president-inside-palace-security-sources"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/africa/20230726-african-union-ecowas-condemn-attempted-coup-in-niger"
+   }
+  ],
+  "entities": [
+   "niger",
+   "abdourahamane-tiani",
+   "mohamed-bazoum",
+   "ecowas",
+   "france"
+  ],
+  "causes": [
+   {
+    "story": "2022-09-30-burkina-coup2",
+    "why": "Contagion of Sahel coups",
+    "confidence": "likely"
+   },
+   {
+    "story": "2022-02-17-france-leaves-mali",
+    "why": "France's Sahel retreat",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "where": [
+   "niamey"
+  ],
+  "related_stories": [
+   "2022-09-30-burkina-coup2",
+   "2022-02-17-france-leaves-mali"
+  ]
+ },
+ {
+  "id": "2023-07-26-fed-peak-rate",
+  "date": "2023-07-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Americas",
+  "title": "Fed raises rates to 5.25–5.50%, the cycle's peak",
+  "summary": "The 11th hike since March 2022 took rates to a 22-year high. The Fed held there until its September 2024 cut.",
+  "sources": [
+   {
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Federal_funds_rate"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "united-states",
+   "inflation"
+  ],
+  "causes": [
+   {
+    "story": "2022-03-16-fed-hike",
+    "why": "End of the hiking cycle that began in 2022",
+    "confidence": "likely"
+   },
+   {
+    "story": "2023-03-10-svb-collapse",
+    "why": "Kept hiking despite bank stress",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "central-banks-rates"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2022-03-16-fed-hike",
+   "2023-03-10-svb-collapse",
+   "2022-06-15-fed-75",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-05-13-warsh-confirmed",
+   "2026-09-16-fed-hikes",
+   "2025-12-10-fed-third-cut",
+   "2024-09-18-fed-jumbo-cut"
+  ]
+ },
+ {
+  "id": "2023-08-23-prigozhin-killed",
+  "date": "2023-08-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Prigozhin dies in a plane crash two months after his mutiny",
+  "summary": "His jet crashed in Tver oblast, killing Wagner's top leaders. The Kremlin denied involvement, and Wagner's Africa operations were folded into the defence ministry's Africa Corps.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/8/23/private-plane-crashes-in-russia-with-wagner-group-chief-on-board"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/aug/23/yevgeny-prigozhin-on-private-jet-that-crashed-near-moscow-russia-wagner"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/kremlin-says-prigozhin-plane-crash-may-have-been-caused-deliberately-2023-08-30/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Wagner_Group_plane_crash"
+   }
+  ],
+  "entities": [
+   "yevgeny-prigozhin",
+   "wagner-group",
+   "africa-corps",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2023-06-24-prigozhin-mutiny",
+    "why": "Retribution for the mutiny, widely suspected",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "russia-ukraine",
+   "sahel"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "strike",
+  "unplaced": "Crash near Kuzhenkino, Tver oblast.",
+  "related_stories": [
+   "2023-06-24-prigozhin-mutiny",
+   "2025-06-06-wagner-leaves-mali",
+   "2023-05-20-bakhmut-falls"
+  ]
+ },
+ {
+  "id": "2023-08-24-brics-expansion",
+  "date": "2023-08-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Africa",
+  "title": "BRICS invites six new members at Johannesburg, including Saudi Arabia, Iran and the UAE",
+  "summary": "The bloc invited Argentina, Egypt, Ethiopia, Iran, Saudi Arabia and the UAE. Argentina declined under Milei, and the others joined in 2024 (Saudi Arabia's status stayed ambiguous).",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/brics-poised-invite-new-members-join-bloc-sources-2023-08-24/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/15th_BRICS_summit"
+   }
+  ],
+  "entities": [
+   "china",
+   "russia",
+   "india",
+   "brazil",
+   "iran",
+   "saudi-arabia",
+   "uae",
+   "egypt",
+   "ethiopia"
+  ],
+  "causes": [
+   {
+    "story": "2023-03-10-saudi-iran-beijing",
+    "why": "China's growing pull in the Gulf",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "diplomacy",
+  "unplaced": "Johannesburg has no place entity.",
+  "related_stories": [
+   "2023-03-10-saudi-iran-beijing",
+   "2022-03-27-negev-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "yanbu-missile-intercepted",
+   "2026-09-18-graham-act-signed"
+  ]
+ },
+ {
+  "id": "2023-09-19-karabakh-falls",
+  "date": "2023-09-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Azerbaijan seizes Nagorno-Karabakh; almost all its Armenians flee",
+  "summary": "A 24-hour offensive forced the breakaway government to disarm and agree to dissolve. More than 100,000 ethnic Armenians fled to Armenia, while Russian peacekeepers stood aside.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/9/19/azerbaijan-forces-attack-nagorno-karabakh-as-threat-of-new-war-looms"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/sep/19/azerbaijan-launches-anti-terrorist-campaign-in-disputed-nagorno-karabakh-region"
+   },
+   {
+    "name": "European Parliament",
+    "url": "https://www.europarl.europa.eu/delegations/en/joint-statement-on-azerbaijan-s-attack-o/product-details/20230919DPU37422"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Azerbaijani_offensive_in_Nagorno-Karabakh"
+   }
+  ],
+  "entities": [
+   "azerbaijan",
+   "armenia",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2022-09-13-armenia-azerbaijan",
+    "why": "Escalation from the 2022 border war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-09-30",
+  "analysis": {
+   "text": "With the conflict settled by force and Russia sidelined, the road was open to the US-brokered 2025 peace deal.",
+   "confidence": "likely"
+  },
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "military",
+  "where": [
+   "stepanakert"
+  ],
+  "related_stories": [
+   "2022-09-13-armenia-azerbaijan",
+   "2025-08-08-armenia-azerbaijan-deal"
   ]
  }
 ]
