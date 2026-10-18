@@ -21556,7 +21556,8 @@
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2025-11-20-28-point-plan",
-   "2024-02-17-avdiivka-falls"
+   "2024-02-17-avdiivka-falls",
+   "2023-10-10-avdiivka-offensive"
   ]
  },
  {
@@ -34125,6 +34126,50 @@
    "trump-waives-russia-sanctions",
    "2026-09-22-zelensky-trump-unga",
    "2025-02-28-oval-office-clash"
+  ]
+ },
+ {
+  "id": "2023-10-10-avdiivka-offensive",
+  "date": "2023-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-12-26",
+  "region": "Russia/Eurasia",
+  "title": "Russia launches its offensive to take Avdiivka",
+  "summary": "The assault on one of Ukraine's most fortified towns, a gateway to Donetsk city, became one of the bloodiest battles of the war.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_%282023%E2%80%932024%29"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/oct/15/russia-avdiivka-offensive-failing-top-ukrainian-officer-donetsk"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2023-06-04-counteroffensive",
+    "why": "Russia seized the initiative after Ukraine's failed counter-offensive",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-12-26",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2023 (war of attrition)",
+  "marker": "military",
+  "where": [
+   "avdiivka"
+  ],
+  "related_stories": [
+   "2023-06-04-counteroffensive"
   ]
  }
 ]

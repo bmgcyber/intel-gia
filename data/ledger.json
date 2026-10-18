@@ -43550,6 +43550,181 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-12-26": {
+   "sha256": "1864554ea0edca6d5649694e3790c7a1d65227cca88daf88cc5a2939f43b9787",
+   "undo": {
+    "stories": {
+     "2023-10-10-avdiivka-offensive": null,
+     "2023-06-04-counteroffensive": {
+      "id": "2023-06-04-counteroffensive",
+      "date": "2023-06-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine's 2023 counter-offensive stalls in Russian minefields",
+      "summary": "From early June, Western-equipped brigades attacked toward Zaporizhzhia oblast but made only small gains against deep Russian defences. By year-end the war had settled into attrition.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/ukraines-military-urges-silence-ahead-expected-counteroffensive-2023-06-04/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/6/5/russia-claims-to-have-thwarted-major-ukraine-attack"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Ukrainian_counteroffensive"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "nato"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-23-himars",
+        "why": "Western arms flow",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "Southern front in Zaporizhzhia oblast.",
+      "related_stories": [
+       "2022-06-23-himars",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2025-11-20-28-point-plan",
+       "2024-02-17-avdiivka-falls"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
