@@ -15276,6 +15276,562 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-09-30": {
+   "sha256": "ecedf739df83241a0151de8613325e10356a8e03fb05bc95156b3910bf85f4c3",
+   "undo": {
+    "stories": {
+     "2024-07-04-labour-landslide": null,
+     "2024-07-07-france-hung-parliament": null,
+     "2024-07-06-aes-confederation": null,
+     "2024-07-28-venezuela-stolen-election": null,
+     "2024-07-31-haniyeh-killed": null,
+     "2024-08-01-zamzam-famine": null,
+     "2024-08-05-hasina-flees": null,
+     "2024-08-06-kursk-incursion": null,
+     "2024-09-17-pager-attacks": null,
+     "2024-09-18-fed-jumbo-cut": null,
+     "2022-02-17-france-leaves-mali": {
+      "id": "2022-02-17-france-leaves-mali",
+      "date": "2022-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "France and allies announce military withdrawal from Mali",
+      "summary": "France and European partners announced the withdrawal of Operation Barkhane and Task Force Takuba from Mali, citing obstruction by the junta.",
+      "sources": [
+       {
+        "name": "Wikipedia: Operation Barkhane",
+        "url": "https://en.wikipedia.org/wiki/Operation_Barkhane"
+       }
+      ],
+      "entities": [
+       "france",
+       "mali",
+       "sahel",
+       "wagner-group",
+       "assimi-goita"
+      ],
+      "storylines": [
+       "sahel"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-wagner-mali",
+        "why": "Junta's turn to Wagner made the French presence untenable",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kidal",
+        "why": "French exit left Russia as Mali's main partner",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-16-mali-g5",
+        "why": "Mali's break with Western-backed structures",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Anti-French and pro-Russian current across the Sahel",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "kidal",
+       "2026-04-25-mali-offensive"
+      ],
+      "marker": "military",
+      "unplaced": "The announcement names the operation, not a town."
+     },
+     "2022-03-05-us-venezuela-talks": {
+      "id": "2022-03-05-us-venezuela-talks",
+      "date": "2022-03-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US officials travel to Caracas for talks with Maduro",
+      "summary": "A senior US delegation met Nicolás Maduro in Caracas as Washington looked at energy options after the invasion.",
+      "sources": [
+       {
+        "name": "Wikipedia: Venezuela–United States relations",
+        "url": "https://en.wikipedia.org/wiki/Venezuela–United_States_relations"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "nicolas-maduro",
+       "petroleum"
+      ],
+      "storylines": [
+       "venezuela-oil",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Oil supply shock pushed Washington to re-engage Caracas",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "venezuela-oil",
+        "why": "First US–Maduro energy outreach after the invasion",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "venezuela-oil",
+       "2026-01-03-maduro-captured"
+      ]
+     },
+     "2024-04-13-iran-strikes-israel": {
+      "id": "2024-04-13-iran-strikes-israel",
+      "date": "2024-04-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-06-30",
+      "region": "Middle East",
+      "title": "Iran launches its first direct attack on Israel after the Damascus consulate strike",
+      "summary": "Answering Israel's Apr 1 strike on its consulate in Damascus, Iran fired more than 300 drones and missiles at Israel. Nearly all were intercepted with US, UK, French and Jordanian help, and Israel's limited reply on Apr 19 hit near Isfahan.",
+      "sources": [
+       {
+        "name": "UN Secretary-General",
+        "url": "https://www.un.org/sg/en/content/sg/statement/2024-04-13/statement-the-secretary-general-regarding-attacks-the-islamic-republic-of-iran-targeting-israel"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "irgc",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-06-30",
+      "analysis": {
+       "text": "This broke the taboo on direct Iran–Israel strikes, leading to October 2024, June 2025 and the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "unplaced": "Launched across the region at Israel.",
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "kataib-hezbollah-halt",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-13-kharg-strike",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-08-17-mou-expires",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer"
+      ]
+     },
+     "2022-07-sri-lanka-flight": {
+      "id": "2022-07-sri-lanka-flight",
+      "date": "2022-07-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Sri Lanka's president flees after protesters storm his residence",
+      "summary": "Gotabaya Rajapaksa fled the country days after protesters occupied his residence and later resigned.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Sri Lankan protests",
+        "url": "https://en.wikipedia.org/wiki/2022_Sri_Lankan_protests"
+       }
+      ],
+      "entities": [
+       "sri-lanka"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-05-sri-lanka-default",
+        "why": "Economic collapse",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-05-sri-lanka-default"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny"
+      ],
+      "source": "threads.md"
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "name": "Venezuela reopening & oil reroute",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "india",
+       "reliance",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-06-19-petro",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed"
+      ],
+      "source": "threads.md"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive"
+      ],
+      "source": "inbox"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22"
+      ],
+      "source": "threads.md"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

@@ -1895,7 +1895,8 @@
    "2022-05-16-mali-g5",
    "2022-09-30-burkina-coup2",
    "kidal",
-   "2026-04-25-mali-offensive"
+   "2026-04-25-mali-offensive",
+   "2024-07-06-aes-confederation"
   ],
   "marker": "military",
   "unplaced": "The announcement names the operation, not a town."
@@ -2375,7 +2376,8 @@
   "related_stories": [
    "2022-02-24-invasion",
    "venezuela-oil",
-   "2026-01-03-maduro-captured"
+   "2026-01-03-maduro-captured",
+   "2024-07-28-venezuela-stolen-election"
   ]
  },
  {
@@ -3962,7 +3964,8 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-05-sri-lanka-default"
+   "2022-05-sri-lanka-default",
+   "2024-08-05-hasina-flees"
   ]
  },
  {
@@ -17535,7 +17538,8 @@
    "2026-07-08-mou-collapses",
    "2026-08-17-mou-expires",
    "2025-06-13-israel-strikes-iran",
-   "2025-06-22-midnight-hammer"
+   "2025-06-22-midnight-hammer",
+   "2024-07-31-haniyeh-killed"
   ]
  },
  {
@@ -17787,6 +17791,456 @@
   "related_stories": [
    "2025-04-28-dprk-confirms-kursk-troops",
    "2025-10-10-hwasong-20-parade"
+  ]
+ },
+ {
+  "id": "2024-07-04-labour-landslide",
+  "date": "2024-07-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Europe",
+  "title": "Starmer's Labour wins a UK landslide on a low share; Reform UK takes 14%",
+  "summary": "Labour won a large majority, ending 14 years of Conservative rule, while Farage's Reform UK took about 14% of the vote and five seats.",
+  "sources": [
+   {
+    "name": "The Guardian (results)",
+    "url": "https://www.theguardian.com/politics/ng-interactive/2024/jul/04/uk-general-election-results-2024-live-in-full"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_United_Kingdom_general_election"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "keir-starmer",
+   "reform-uk"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2026-06-22-starmer-resigns",
+   "2025-05-01-reform-local-elections"
+  ]
+ },
+ {
+  "id": "2024-07-07-france-hung-parliament",
+  "date": "2024-07-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Europe",
+  "title": "Macron's snap election leaves France with a hung parliament",
+  "summary": "After the far right won the European elections, Macron dissolved the Assembly. A left alliance came first in the Jul 7 runoff, ahead of Macron's centrists and the RN, leaving no majority and a string of fragile governments.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_French_legislative_election"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/article/2024/jul/08/france-election-new-caledonia-kanak-emmanuel-tjibaou-seat"
+   }
+  ],
+  "entities": [
+   "france",
+   "emmanuel-macron"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": []
+ },
+ {
+  "id": "2024-07-06-aes-confederation",
+  "date": "2024-07-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Africa",
+  "title": "Mali, Burkina Faso and Niger form the Alliance of Sahel States confederation",
+  "summary": "Having announced their exit from ECOWAS in January, the three juntas signed a confederation treaty in Niamey and turned further toward Russia.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/7/6/niger-mali-and-burkina-faso-military-leaders-sign-new-pact-rebuff-ecowas"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+   }
+  ],
+  "entities": [
+   "alliance-of-sahel-states",
+   "mali",
+   "burkina-faso",
+   "niger",
+   "ecowas",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2022-02-17-france-leaves-mali",
+    "why": "Shift from France to Russia",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "where": [
+   "niamey"
+  ],
+  "related_stories": [
+   "2022-02-17-france-leaves-mali"
+  ]
+ },
+ {
+  "id": "2024-07-28-venezuela-stolen-election",
+  "date": "2024-07-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Americas",
+  "title": "Maduro claims victory in Venezuela's election; the opposition's tallies show González won",
+  "summary": "The electoral council declared Maduro the winner without detailed results. The opposition led by María Corina Machado published precinct tallies showing a large win for Edmundo González, who later fled into exile, while a crackdown followed.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/latin-american-leaders-react-venezuela-election-results-2024-07-29/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/article/2024/jul/29/venezuela-election-result-suspicion-abroad-nicolas-maduro"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/07/31/world/americas/venezuela-election-vote-flaws.html"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "nicolas-maduro",
+   "maria-corina-machado"
+  ],
+  "causes": [
+   {
+    "story": "2022-03-05-us-venezuela-talks",
+    "why": "US engagement with Maduro since 2022 failed to produce a fair vote",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "caracas"
+  ],
+  "related_stories": [
+   "2022-03-05-us-venezuela-talks",
+   "2025-10-10-machado-nobel"
+  ]
+ },
+ {
+  "id": "2024-07-31-haniyeh-killed",
+  "date": "2024-07-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Middle East",
+  "title": "Hamas leader Ismail Haniyeh assassinated in Tehran",
+  "summary": "Haniyeh was killed in a Tehran guesthouse hours after attending Pezeshkian's inauguration, in an attack attributed to Israel. Yahya Sinwar succeeded him.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/hamas-chief-ismail-haniyeh-killed-iran-hamas-says-statement-2024-07-31/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/7/31/hamass-political-chief-ismail-haniyeh-assassinated-in-iran-state-media"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Ismail_Haniyeh"
+   }
+  ],
+  "entities": [
+   "ismail-haniyeh",
+   "hamas",
+   "iran",
+   "israel",
+   "yahya-sinwar"
+  ],
+  "causes": [
+   {
+    "story": "2024-04-13-iran-strikes-israel",
+    "why": "Escalation in the direct Iran–Israel confrontation",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "iran-war-hormuz",
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "strike",
+  "where": [
+   "tehran"
+  ],
+  "related_stories": [
+   "2024-04-13-iran-strikes-israel"
+  ]
+ },
+ {
+  "id": "2024-08-01-zamzam-famine",
+  "date": "2024-08-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Africa",
+  "title": "Famine confirmed in Darfur's Zamzam camp",
+  "summary": "The IPC's Famine Review Committee found famine conditions in Zamzam camp near besieged El Fasher as the RSF besieged the city.",
+  "sources": [
+   {
+    "name": "IPC",
+    "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-107/en/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Famine_in_Sudan_(2024–present)"
+   }
+  ],
+  "entities": [
+   "sudan",
+   "rsf",
+   "food-security"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "zamzam-camp"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-08-05-hasina-flees",
+  "date": "2024-08-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Asia-Pacific",
+  "title": "Student-led uprising topples Bangladesh's Sheikh Hasina, who flees to India",
+  "summary": "After weeks of protests over job quotas and a crackdown that killed hundreds, Hasina resigned and flew to India. Muhammad Yunus became head of an interim government.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bangladesh-protesters-call-march-dhaka-defiance-curfew-2024-08-05/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/8/5/sheikh-hasina-a-critical-misstep-and-the-end-of-15-years-of-rule"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/08/05/world/asia/bangladesh-protests-looting-prime-minister-residence.html"
+   }
+  ],
+  "entities": [
+   "bangladesh",
+   "sheikh-hasina",
+   "india"
+  ],
+  "causes": [
+   {
+    "story": "2022-07-sri-lanka-flight",
+    "why": "Second South Asian leader ousted by street protests",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "dhaka"
+  ],
+  "related_stories": [
+   "2022-07-sri-lanka-flight"
+  ]
+ },
+ {
+  "id": "2024-08-06-kursk-incursion",
+  "date": "2024-08-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Ukraine invades Russia's Kursk region",
+  "summary": "Ukrainian forces crossed the border and took Sudzha and hundreds of square kilometres, the first foreign occupation of Russian soil since WWII. Moscow later brought in North Korean troops to push them out.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russian-forces-thwart-ukrainian-attempt-penetrate-border-regional-governor-says-2024-08-06/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/article/2024/aug/06/moscow-says-ukraine-has-launched-cross-border-attack-into-russia"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/8/10/ukraine-braces-for-reprisals-as-russia-to-send-more-troops-to-kursk"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kursk_campaign"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "sudzha"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2024-09-17-pager-attacks",
+  "date": "2024-09-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Middle East",
+  "title": "Exploding pagers and radios maim Hezbollah; Israel kills Nasrallah ten days later",
+  "summary": "On Sep 17–18 thousands of booby-trapped pagers and radios exploded across Lebanon. Israel then launched a heavy air campaign and on Sep 27 killed Secretary-General Hassan Nasrallah in Beirut, followed by a ground invasion on Oct 1.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/program/newsfeed/2024/9/17/exploding-pagers-injure-thousands-in-lebanon-in-attack-targeting-hezbollah"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Hassan_Nasrallah"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hezbollah",
+   "hassan-nasrallah",
+   "lebanon"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "levant-wars",
+   "iran-proxy-network"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "strike",
+  "where": [
+   "beirut"
+  ],
+  "related_stories": [
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-10-14-lebanon-yellow-line",
+   "2025-08-05-lebanon-disarm-hezbollah"
+  ]
+ },
+ {
+  "id": "2024-09-18-fed-jumbo-cut",
+  "date": "2024-09-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-09-30",
+  "region": "Americas",
+  "title": "Fed starts easing with a half-point cut",
+  "summary": "The FOMC cut its target range by 50 basis points to 4.75–5.00%, its first cut since 2020, as inflation cooled. Two more cuts followed in 2024.",
+  "sources": [
+   {
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Federal_funds_rate"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "united-states",
+   "inflation"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-09-30",
+  "storylines": [
+   "central-banks-rates"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2022-03-16-fed-hike",
+   "2022-06-15-fed-75",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-05-13-warsh-confirmed",
+   "2026-09-16-fed-hikes",
+   "2025-12-10-fed-third-cut"
   ]
  }
 ]
