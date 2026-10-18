@@ -124262,6 +124262,3677 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-07": {
+   "sha256": "dad639b6ce4aa163b8aeb77e0f21035b10bbb9bafcdc2e286e25a1574f5139da",
+   "undo": {
+    "stories": {
+     "2025-01-07-trump-greenland-panama": {
+      "id": "2025-01-07-trump-greenland-panama",
+      "date": "2025-01-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Europe",
+      "title": "Trump won't rule out force to take Greenland and the Panama Canal",
+      "summary": "At a Mar-a-Lago news conference, President-elect Trump refused to rule out military or economic coercion to gain control of Greenland and the Panama Canal, calling both vital to US security, and threatened Denmark with tariffs. Denmark and Panama rejected any transfer of control.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/trump-biden-offshore-drilling-gulf-of-america-fa66f8d072eb39c00a8128a8941ede75"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/trump-wont-rule-out-military-economic-action-he-seeks-control-panama-canal-2025-01-07/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c4gzn48jwz2o"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "greenland",
+       "denmark"
+      ],
+      "causes": [
+       {
+        "story": "2024-11-05-trump-elected",
+        "why": "President-elect's agenda",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "This opened a year-long US campaign of territorial pressure on an ally that ended in the 2026 Greenland treaty.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift",
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "mar-a-lago"
+      ],
+      "related_stories": [
+       "2024-11-05-trump-elected",
+       "2026-01-21-greenland-davos",
+       "2025-03-11-greenland-election",
+       "2025-04-28-carney-wins",
+       "2026-09-18-greenland-deal"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-26",
+        "why": "Archive audit: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2019-03-15-christchurch-shootings": {
+      "id": "2019-03-15-christchurch-shootings",
+      "date": "2019-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Asia-Pacific",
+      "title": "White supremacist gunman kills 51 at two Christchurch mosques",
+      "summary": "The livestreamed attack led Jacinda Ardern's government to ban most semi-automatic weapons within weeks.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings"
+       }
+      ],
+      "entities": [
+       "new-zealand",
+       "jacinda-ardern"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "era": "2019 (maximum pressure)",
+      "marker": "strike",
+      "where": [
+       "christchurch"
+      ],
+      "related_stories": []
+     },
+     "2018-07-25-imran-khan-elected": {
+      "id": "2018-07-25-imran-khan-elected",
+      "date": "2018-07-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "Imran Khan's PTI wins Pakistan's election",
+      "summary": "Opponents alleged military 'engineering'. Khan became prime minister on Aug 18 at the head of a coalition.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Pakistani_general_election"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/jul/27/pakistan-election-imran-khan-official-results-win-coalition"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "imran-khan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2022-04-10-imran-khan"
+      ]
+     },
+     "2019-07-17-ebola-emergency": {
+      "id": "2019-07-17-ebola-emergency",
+      "date": "2019-07-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Africa",
+      "title": "WHO declares Congo's Ebola outbreak a global health emergency",
+      "summary": "A case in Goma prompted the declaration; the Kivu epidemic, centred on conflict-hit North Kivu and Ituri, became the second-largest Ebola outbreak recorded.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2019/07/15/health/ebola-congo-outbreak.html"
+       }
+      ],
+      "entities": [
+       "who",
+       "drc"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "goma"
+      ],
+      "related_stories": []
+     },
+     "2011-02-11-mubarak-resigns": {
+      "id": "2011-02-11-mubarak-resigns",
+      "date": "2011-02-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "Mubarak resigns after 18 days of protest in Tahrir Square",
+      "summary": "He handed power to the military council (SCAF).",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_Egyptian_revolution"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2011/2/1/protesters-flood-egypt-streets"
+       }
+      ],
+      "entities": [
+       "egypt",
+       "hosni-mubarak"
+      ],
+      "causes": [
+       {
+        "story": "2011-01-14-ben-ali-flees",
+        "why": "Inspired by Tunisia",
+        "confidence": "likely"
+       },
+       {
+        "story": "2010-06-06-khaled-said",
+        "why": "Spark of the protests",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "tahrir-square"
+      ],
+      "related_stories": [
+       "2011-01-14-ben-ali-flees",
+       "2010-06-06-khaled-said",
+       "2012-06-24-morsi-wins"
+      ],
+      "revisions": [
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2023-08-24-brics-expansion": {
+      "id": "2023-08-24-brics-expansion",
+      "date": "2023-08-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Africa",
+      "title": "BRICS invites six new members at Johannesburg, including Saudi Arabia, Iran and the UAE",
+      "summary": "The bloc invited Argentina, Egypt, Ethiopia, Iran, Saudi Arabia and the UAE. Argentina declined under Milei, and the others joined in 2024 (Saudi Arabia's status stayed ambiguous).",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/brics-poised-invite-new-members-join-bloc-sources-2023-08-24/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/15th_BRICS_summit"
+       }
+      ],
+      "entities": [
+       "china",
+       "russia",
+       "india",
+       "brazil",
+       "iran",
+       "saudi-arabia",
+       "uae",
+       "egypt",
+       "ethiopia"
+      ],
+      "causes": [
+       {
+        "story": "2023-03-10-saudi-iran-beijing",
+        "why": "China's growing pull in the Gulf",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Johannesburg has no place entity.",
+      "related_stories": [
+       "2023-03-10-saudi-iran-beijing",
+       "2022-03-27-negev-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "yanbu-missile-intercepted",
+       "2026-09-18-graham-act-signed"
+      ]
+     },
+     "2011-03-19-libya-intervention": {
+      "id": "2011-03-19-libya-intervention",
+      "date": "2011-03-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "NATO-led coalition intervenes in Libya under UN Resolution 1973",
+      "summary": "Russia and China abstained on the no-fly zone vote, and Moscow later said the West had abused it to topple Gaddafi.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1973"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/17/germany-rules-out-libya-military"
+       }
+      ],
+      "entities": [
+       "nato",
+       "united-states",
+       "france",
+       "united-kingdom",
+       "libya",
+       "russia",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2011-02-15-libya-uprising",
+        "why": "Protect civilians in Benghazi",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "military",
+      "where": [
+       "un-hq"
+      ],
+      "related_stories": [
+       "2011-02-15-libya-uprising",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-26-swift-cbr",
+       "2022-06-29-madrid",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-11-20-28-point-plan",
+       "2025-11-06-c5-plus-1-summit",
+       "2023-03-13-aukus-pathway",
+       "2024-10-02-china-coast-guard-arctic",
+       "2025-03-14-svalbard-militarisation-row",
+       "2020-06-30-hong-kong-nsl",
+       "2021-09-15-aukus",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-08-us-quits-jcpoa",
+       "2015-07-14-jcpoa-agreed",
+       "2015-12-12-paris-climate-agreement",
+       "2014-09-05-nato-wales-2pct",
+       "2013-11-24-iran-interim-deal",
+       "2011-08-20-fall-of-tripoli"
+      ]
+     },
+     "2010-05-11-cameron-coalition": {
+      "id": "2010-05-11-cameron-coalition",
+      "date": "2010-05-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-06-30",
+      "region": "Europe",
+      "title": "Cameron forms Britain's first post-war coalition after a hung parliament",
+      "summary": "The Conservative–Liberal Democrat government pursued austerity; Cameron later called the Brexit referendum.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_United_Kingdom_general_election"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "david-cameron"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-06-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": [
+       "2016-06-23-brexit-referendum"
+      ]
+     },
+     "2025-01-10-nsr-record": {
+      "id": "2025-01-10-nsr-record",
+      "date": "2025-01-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-28",
+      "region": "Russia/Eurasia",
+      "title": "Russia reports record Northern Sea Route cargo as it pushes Arctic shipping",
+      "summary": "Rosatom said 2024 NSR cargo reached nearly 37.9m tonnes, with a record 92 transit voyages and over 3m tonnes of transit cargo. The largest container ship yet crossed the route.",
+      "sources": [
+       {
+        "name": "Rosatom",
+        "url": "https://www.rosatom.ru/en/press-centre/news/new-record-set-for-volume-of-cargo-shipped-along-the-northern-sea-route/"
+       },
+       {
+        "name": "World Nuclear News",
+        "url": "https://world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northern_Sea_Route"
+       }
+      ],
+      "entities": [
+       "russia",
+       "rosatom",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2024-10-02-china-coast-guard-arctic",
+        "why": "Sino-Russian Arctic cooperation",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-28",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "energy",
+      "unplaced": "Route spans the Russian Arctic.",
+      "related_stories": [
+       "2024-10-02-china-coast-guard-arctic"
+      ]
+     },
+     "2015-01-07-charlie-hebdo": {
+      "id": "2015-01-07-charlie-hebdo",
+      "date": "2015-01-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-03-31",
+      "region": "Europe",
+      "title": "Gunmen kill 12 at Charlie Hebdo in Paris",
+      "summary": "Two brothers claiming allegiance to al-Qaeda in the Arabian Peninsula attacked the satirical weekly; a linked gunman killed four at a kosher supermarket.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2015/jan/07/charlie-hebdo-shooting-paris-magazine-target-raid"
+       }
+      ],
+      "entities": [
+       "france",
+       "al-qaeda"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-03-31",
+      "storylines": [
+       "isis-war"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "strike",
+      "where": [
+       "paris"
+      ],
+      "related_stories": []
+     },
+     "2012-06-24-morsi-wins": {
+      "id": "2012-06-24-morsi-wins",
+      "date": "2012-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-06-30",
+      "region": "Africa",
+      "title": "Muslim Brotherhood's Mohamed Morsi wins Egypt's presidency",
+      "summary": "He took 51.7% in the only free presidential election in Egypt's history.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Egyptian_presidential_election"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2012/6/24/celebration-in-egypt-as-morsi-declared-winner"
+       }
+      ],
+      "entities": [
+       "egypt",
+       "mohamed-morsi",
+       "muslim-brotherhood"
+      ],
+      "causes": [
+       {
+        "story": "2011-02-11-mubarak-resigns",
+        "why": "Post-Mubarak election",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-06-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "cairo"
+      ],
+      "related_stories": [
+       "2011-02-11-mubarak-resigns",
+       "2012-11-22-morsi-decree",
+       "2013-07-03-morsi-ousted"
+      ],
+      "revisions": [
+       {
+        "edition": "2011-12-31",
+        "why": "2011 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2023-03-17-icc-putin-warrant": {
+      "id": "2023-03-17-icc-putin-warrant",
+      "date": "2023-03-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-30",
+      "region": "Russia/Eurasia",
+      "title": "ICC issues an arrest warrant for Putin over deported Ukrainian children",
+      "summary": "The warrant, also naming children's commissioner Maria Lvova-Belova, was the first against the leader of a permanent Security Council member.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ICC_arrest_warrants_for_Russian_leaders"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/canada-welcomes-iccs-decision-issue-arrest-warrant-putin-2023-03-17"
+       }
+      ],
+      "entities": [
+       "icc",
+       "vladimir-putin",
+       "russia",
+       "ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "War crimes in the invasion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-03-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2023 (war of attrition)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "trump-waives-russia-sanctions",
+       "putin-security-zone",
+       "2025-08-15-alaska-summit",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "2021-04-01-russia-spring-buildup",
+       "2021-07-12-putin-unity-essay"
+      ]
+     },
+     "2024-11-21-icc-netanyahu-warrant": {
+      "id": "2024-11-21-icc-netanyahu-warrant",
+      "date": "2024-11-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Middle East",
+      "title": "ICC issues arrest warrants for Netanyahu and Gallant (and Hamas's Deif)",
+      "summary": "The court found reasonable grounds for war crimes including starvation as a method of warfare. Israel rejected its jurisdiction, and the US later sanctioned ICC officials.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/11/21/icc-issues-arrest-warrant-for-israeli-pm-netanyahu-for-war-crimes-in-gaza"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2024/11/21/world/middleeast/hamas-leaders-icc-arrest-warrant.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ICC_arrest_warrants_for_Israeli_leaders"
+       }
+      ],
+      "entities": [
+       "icc",
+       "israel",
+       "benjamin-netanyahu",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2024-03-18-gaza-famine-warning",
+        "why": "Starvation charge",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2024-03-18-gaza-famine-warning",
+       "2025-03-18-gaza-war-resumes"
+      ]
+     },
+     "2005-06-24-ahmadinejad-elected": {
+      "id": "2005-06-24-ahmadinejad-elected",
+      "date": "2005-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Middle East",
+      "title": "Mahmoud Ahmadinejad wins Iran's presidency",
+      "summary": "Tehran resumed uranium conversion in August, ending a freeze agreed with Europe.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mahmoud-ahmadinejad"
+      ],
+      "causes": [
+       {
+        "story": "2003-10-21-tehran-declaration",
+        "why": "Hardliners opposed the freeze",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": [
+       "2003-10-21-tehran-declaration",
+       "2006-04-11-iran-enrichment-announced"
+      ],
+      "revisions": [
+       {
+        "edition": "2003-12-31",
+        "why": "2003 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2004-03-14-zapatero-wins": {
+      "id": "2004-03-14-zapatero-wins",
+      "date": "2004-03-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Europe",
+      "title": "Spain's Socialists win after the Madrid bombings and pull troops from Iraq",
+      "summary": "The government's attempt to blame ETA backfired.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Spanish_general_election"
+       }
+      ],
+      "entities": [
+       "spain"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "madrid"
+      ],
+      "related_stories": []
+     },
+     "2022-05-13-india-wheat-ban": {
+      "id": "2022-05-13-india-wheat-ban",
+      "date": "2022-05-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "India bans wheat exports as food prices soar",
+      "summary": "India banned most wheat exports after a heatwave hit its crop and global prices surged.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022–2023 food crises",
+        "url": "https://en.wikipedia.org/wiki/2022–2023_food_crises"
+       }
+      ],
+      "entities": [
+       "india",
+       "wheat",
+       "food-security",
+       "inflation"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-02-24-grain-halt",
+        "why": "Loss of Ukrainian supply spiked world wheat prices",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-07-22-grain-deal",
+        "why": "Global food crisis pressure",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-02-24-grain-halt",
+       "2022-07-22-grain-deal"
+      ],
+      "where": [
+       "new-delhi"
+      ],
+      "marker": "political",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "where",
+         "marker"
+        ]
+       }
+      ]
+     },
+     "2022-08-pakistan-floods": {
+      "id": "2022-08-pakistan-floods",
+      "date": "2022-08",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Catastrophic floods submerge a third of Pakistan",
+      "summary": "Monsoon floods killed more than 1,700 people and affected over 30 million.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Pakistan floods",
+        "url": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+       }
+      ],
+      "entities": [
+       "pakistan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2023-07-12-imf-pakistan-sba"
+      ],
+      "marker": "political",
+      "unplaced": "Nationwide flooding.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2023-02-06-turkey-syria-quake": {
+      "id": "2023-02-06-turkey-syria-quake",
+      "date": "2023-02-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-31",
+      "region": "Middle East",
+      "title": "Twin earthquakes kill more than 50,000 in Turkey and Syria",
+      "summary": "Magnitude-7.8 and 7.5 quakes devastated southern Turkey and northern Syria, among the deadliest disasters of the century, three months before Turkey's elections.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/major-earthquake-strikes-turkey-syria-about-200-dead-many-trapped-2023-02-06/"
+       },
+       {
+        "name": "European Commission",
+        "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/turkiye-and-syria-statement-earthquake-high-representative-borrell-and-commissioner-crisis-2023-02-06_en"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2023-03-31",
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "kahramanmaras"
+      ],
+      "related_stories": [
+       "2023-05-28-erdogan-reelected"
+      ]
+     },
+     "2024-10-02-china-coast-guard-arctic": {
+      "id": "2024-10-02-china-coast-guard-arctic",
+      "date": "2024-10-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Russia/Eurasia",
+      "title": "China's coast guard enters the Arctic for the first time on a joint patrol with Russia",
+      "summary": "Days after the US Coast Guard tracked Chinese and Russian ships in the Bering Sea, China's Meishan entered the Arctic Ocean. Bombers had flown jointly near Alaska in July, and the US called it growing strategic interest in the Arctic.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/chinas-coast-guard-enters-arctic-first-time-patrol-with-russia-2024-10-02/"
+       },
+       {
+        "name": "US Coast Guard",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/3922625/us-coast-guard-encounters-joint-chinese-coast-guard-russian-border-guard-patrol/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/us-china-russia-coast-guard-356dfbf91a4861798c9b920196c4bc50"
+       },
+       {
+        "name": "CSIS ChinaPower",
+        "url": "https://chinapower.csis.org/analysis/china-russia-coast-guard-cooperation/"
+       }
+      ],
+      "entities": [
+       "china",
+       "russia",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-04-no-limits",
+        "why": "Sino-Russian partnership extended to the Arctic",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "analysis": {
+       "text": "The Arctic became an arena of great-power competition, part of the backdrop to Trump's 2025–26 Greenland push.",
+       "confidence": "possible"
+      },
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "unplaced": "At sea in the Arctic.",
+      "related_stories": [
+       "2022-02-04-no-limits",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-11-06-c5-plus-1-summit",
+       "2026-01-21-greenland-davos",
+       "2025-01-10-nsr-record"
+      ]
+     },
+     "2020-11-26-farmers-protest": {
+      "id": "2020-11-26-farmers-protest",
+      "date": "2020-11-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-30",
+      "region": "Asia-Pacific",
+      "title": "Indian farmers march on Delhi against Modi's farm laws",
+      "summary": "Unions, mainly from Punjab and Haryana, began the 'Dilli Chalo' march against three farm acts passed in September 2020 and camped on Delhi's borders for a year until the laws were repealed.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020%E2%80%932021_Indian_farmers%27_protest"
+       },
+       {
+        "name": "The Guardian",
+        "url": "http://www.theguardian.com/world/2020/nov/30/indian-farmers-march-on-delhi-in-protest-against-agriculture-laws"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2020/11/30/world/asia/india-farmers-protest.html"
+       }
+      ],
+      "entities": [
+       "india",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-30",
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "delhi"
+      ],
+      "related_stories": [
+       "2024-06-04-modi-loses-majority"
+      ]
+     },
+     "2021-10-08-global-minimum-tax": {
+      "id": "2021-10-08-global-minimum-tax",
+      "date": "2021-10-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-12-31",
+      "region": "Europe",
+      "title": "OECD deal sets a 15% global minimum corporate tax",
+      "summary": "After G7 backing in June, holdouts Ireland, Hungary and Estonia joined the OECD 'two-pillar' plan on Oct 8.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_minimum_corporate_tax_rate"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "united-states",
+       "g7"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-12-31",
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "unplaced": "Multilateral agreement.",
+      "related_stories": [
+       "2022-02-26-swift-cbr",
+       "2022-09-02-price-cap"
+      ]
+     },
+     "2018-06-17-prespa-agreement": {
+      "id": "2018-06-17-prespa-agreement",
+      "date": "2018-06-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Europe",
+      "title": "Greece and Macedonia sign the Prespa deal ending their name dispute",
+      "summary": "Macedonia agreed to become North Macedonia, clearing Greek vetoes on its NATO and EU paths; it joined NATO in 2020.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prespa_Agreement"
+       }
+      ],
+      "entities": [
+       "greece",
+       "north-macedonia",
+       "nato",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "lake-prespa"
+      ],
+      "related_stories": []
+     },
+     "2016-04-03-panama-papers": {
+      "id": "2016-04-03-panama-papers",
+      "date": "2016-04-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-06-30",
+      "region": "Europe",
+      "title": "Panama Papers leak exposes the offshore wealth of world leaders",
+      "summary": "11.5 million files from Mossack Fonseca led to the resignation of Iceland's PM and, in 2017, the disqualification of Pakistan's Nawaz Sharif.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Panama_Papers"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore"
+       }
+      ],
+      "entities": [
+       "pakistan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-06-30",
+      "era": "2016 (Brexit and Trump)",
+      "marker": "political",
+      "unplaced": "Global leak.",
+      "related_stories": []
+     },
+     "2016-11-08-india-demonetisation": {
+      "id": "2016-11-08-india-demonetisation",
+      "date": "2016-11-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-12-31",
+      "region": "Asia-Pacific",
+      "title": "Modi abolishes India's ₹500 and ₹1,000 notes overnight",
+      "summary": "The move to fight 'black money' removed most of the currency in circulation and caused months of cash shortages.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
+       }
+      ],
+      "entities": [
+       "india",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2016-12-31",
+      "era": "2016 (Brexit and Trump)",
+      "marker": "political",
+      "where": [
+       "new-delhi"
+      ],
+      "related_stories": []
+     },
+     "2015-04-25-nepal-earthquake": {
+      "id": "2015-04-25-nepal-earthquake",
+      "date": "2015-04-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-06-30",
+      "region": "Asia-Pacific",
+      "title": "7.8 earthquake in Nepal kills nearly 9,000",
+      "summary": "The Gorkha quake devastated Kathmandu and the hills; India and China competed to lead the relief.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake"
+       }
+      ],
+      "entities": [
+       "nepal",
+       "india",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-06-30",
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "where": [
+       "kathmandu"
+      ],
+      "related_stories": []
+     },
+     "2015-09-18-volkswagen-dieselgate": {
+      "id": "2015-09-18-volkswagen-dieselgate",
+      "date": "2015-09-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Europe",
+      "title": "US regulators expose Volkswagen's diesel emissions cheating",
+      "summary": "The EPA found software designed to fool lab tests; the scandal accelerated Europe's turn to electric vehicles.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2015/sep/18/epa-california-investigate-volkswagen-clean-air-violations"
+       }
+      ],
+      "entities": [
+       "volkswagen",
+       "germany",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "unplaced": "Regulatory notice.",
+      "related_stories": []
+     },
+     "2014-08-08-ebola-emergency": {
+      "id": "2014-08-08-ebola-emergency",
+      "date": "2014-08-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-09-30",
+      "region": "Africa",
+      "title": "WHO declares the West African Ebola epidemic a global emergency",
+      "summary": "The outbreak in Guinea, Liberia and Sierra Leone killed more than 11,000 people.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2014/aug/06/ebola-outbreak-nurse-nigeria-dies"
+       }
+      ],
+      "entities": [
+       "who",
+       "guinea",
+       "liberia",
+       "sierra-leone"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-09-30",
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "unplaced": "Region-wide epidemic.",
+      "related_stories": []
+     },
+     "2013-04-24-rana-plaza": {
+      "id": "2013-04-24-rana-plaza",
+      "date": "2013-04-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Asia-Pacific",
+      "title": "Rana Plaza garment factory collapse kills 1,134 in Bangladesh",
+      "summary": "The deadliest garment disaster led to new safety accords for Western retailers.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2013/apr/24/bangladesh-building-collapse-kills-garment-workers"
+       }
+      ],
+      "entities": [
+       "bangladesh"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "savar"
+      ],
+      "related_stories": []
+     },
+     "2013-11-08-typhoon-haiyan": {
+      "id": "2013-11-08-typhoon-haiyan",
+      "date": "2013-11-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-12-31",
+      "region": "Asia-Pacific",
+      "title": "Typhoon Haiyan kills more than 6,300 in the Philippines",
+      "summary": "One of the strongest landfalling storms ever recorded flattened Tacloban.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Typhoon_Haiyan"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/2013/nov/08/philippines-rescue-services-typhoon-haiyan"
+       }
+      ],
+      "entities": [
+       "philippines"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-12-31",
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "tacloban"
+      ],
+      "related_stories": []
+     },
+     "2010-08-05-russia-wildfires": {
+      "id": "2010-08-05-russia-wildfires",
+      "date": "2010-08",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2010-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Record heat and wildfires engulf western Russia",
+      "summary": "Smoke choked Moscow in the hottest summer in Russian history.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_Russian_wildfires"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2010/aug/06/russia-fires-moscow"
+       }
+      ],
+      "entities": [
+       "russia",
+       "dmitry-medvedev"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-09-30",
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2010-10-08-liu-xiaobo-nobel": {
+      "id": "2010-10-08-liu-xiaobo-nobel",
+      "date": "2010-10-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-12-31",
+      "region": "Asia-Pacific",
+      "title": "Jailed Chinese dissident Liu Xiaobo wins the Nobel Peace Prize",
+      "summary": "Beijing froze relations with Norway; Liu died in custody in 2017.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liu_Xiaobo"
+       }
+      ],
+      "entities": [
+       "china",
+       "liu-xiaobo",
+       "norway"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-12-31",
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "diplomacy",
+      "where": [
+       "oslo"
+      ],
+      "related_stories": []
+     },
+     "2009-06-16-first-bric-summit": {
+      "id": "2009-06-16-first-bric-summit",
+      "date": "2009-06-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Brazil, Russia, India and China hold the first BRIC summit in Yekaterinburg",
+      "summary": "The grouping later added South Africa and became a vehicle for non-Western coordination.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1st_BRIC_summit"
+       }
+      ],
+      "entities": [
+       "brics",
+       "russia",
+       "china",
+       "india",
+       "brazil"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "diplomacy",
+      "where": [
+       "yekaterinburg"
+      ],
+      "related_stories": [
+       "trump-waives-russia-sanctions",
+       "2026-09-18-graham-act-signed",
+       "2023-08-24-brics-expansion",
+       "2023-09-09-delhi-g20"
+      ]
+     },
+     "2008-04-food-price-crisis": {
+      "id": "2008-04-food-price-crisis",
+      "date": "2008-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Africa",
+      "title": "Food riots spread as world grain prices hit records",
+      "summary": "Protests hit dozens of countries from Haiti to Egypt.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007%E2%80%932008_world_food_price_crisis"
+       }
+      ],
+      "entities": [
+       "food-security",
+       "wheat"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "unplaced": "Global, with riots in many countries.",
+      "related_stories": [
+       "2010-12-17-bouazizi"
+      ]
+     },
+     "2008-05-12-sichuan-earthquake": {
+      "id": "2008-05-12-sichuan-earthquake",
+      "date": "2008-05-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Asia-Pacific",
+      "title": "A magnitude-7.9 earthquake in Sichuan kills over 69,000",
+      "summary": "Collapsed schools caused public anger.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake"
+       }
+      ],
+      "entities": [
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "wenchuan"
+      ],
+      "related_stories": []
+     },
+     "2007-05-06-sarkozy-elected": {
+      "id": "2007-05-06-sarkozy-elected",
+      "date": "2007-05-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-06-30",
+      "region": "Europe",
+      "title": "Nicolas Sarkozy is elected president of France",
+      "summary": "He went on to lead the 2011 Libya intervention.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007_French_presidential_election"
+       }
+      ],
+      "entities": [
+       "france",
+       "nicolas-sarkozy"
+      ],
+      "causes": [
+       {
+        "story": "2005-10-27-french-riots",
+        "why": "Sarkozy's law-and-order profile",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2007-06-30",
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "political",
+      "where": [
+       "paris"
+      ],
+      "related_stories": [
+       "2005-10-27-french-riots"
+      ],
+      "revisions": [
+       {
+        "edition": "2005-12-31",
+        "why": "2005 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2007-06-27-brown-succeeds-blair": {
+      "id": "2007-06-27-brown-succeeds-blair",
+      "date": "2007-06-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-06-30",
+      "region": "Europe",
+      "title": "Tony Blair steps down and Gordon Brown becomes British prime minister",
+      "summary": "Blair's exit was hastened by the Iraq war; Brown led Britain through the financial crisis.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gordon_Brown"
+       }
+      ],
+      "entities": [
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-06-30",
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": []
+     },
+     "2007-08-02-arktika-flag": {
+      "id": "2007-08-02-arktika-flag",
+      "date": "2007-08-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Russian submersible plants a flag on the North Pole seabed",
+      "summary": "The stunt staked Russia's claim to Arctic resources.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arktika_2007"
+       }
+      ],
+      "entities": [
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-09-30",
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "diplomacy",
+      "unplaced": "North Pole seabed.",
+      "related_stories": []
+     },
+     "2006-02-04-cartoon-protests": {
+      "id": "2006-02-04-cartoon-protests",
+      "date": "2006-02-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-03-31",
+      "region": "Europe",
+      "title": "Protests over Danish cartoons of the Prophet Muhammad turn violent",
+      "summary": "Embassies were attacked in Damascus and Beirut.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy"
+       }
+      ],
+      "entities": [
+       "denmark"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-03-31",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "copenhagen"
+      ],
+      "related_stories": []
+     },
+     "2005-09-07-egypt-multicandidate-election": {
+      "id": "2005-09-07-egypt-multicandidate-election",
+      "date": "2005-09-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Middle East",
+      "title": "Mubarak wins Egypt's first multi-candidate presidential vote",
+      "summary": "The Muslim Brotherhood then won a fifth of parliament's seats in the autumn elections.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Egyptian_presidential_election"
+       }
+      ],
+      "entities": [
+       "egypt",
+       "hosni-mubarak",
+       "muslim-brotherhood"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "cairo"
+      ],
+      "related_stories": []
+     },
+     "2005-10-27-french-riots": {
+      "id": "2005-10-27-french-riots",
+      "date": "2005-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-12-31",
+      "region": "Europe",
+      "title": "Riots spread through France's suburbs",
+      "summary": "The unrest prompted a state of emergency.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_French_riots"
+       }
+      ],
+      "entities": [
+       "france"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-12-31",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "paris"
+      ],
+      "related_stories": [
+       "2007-05-06-sarkozy-elected"
+      ]
+     },
+     "2005-11-22-merkel-chancellor": {
+      "id": "2005-11-22-merkel-chancellor",
+      "date": "2005-11-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-12-31",
+      "region": "Europe",
+      "title": "Angela Merkel becomes Germany's first female chancellor",
+      "summary": "She led Germany for 16 years.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_German_federal_election"
+       }
+      ],
+      "entities": [
+       "germany",
+       "angela-merkel"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-12-31",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "berlin"
+      ],
+      "related_stories": []
+     },
+     "2004-03-25-blair-meets-gaddafi": {
+      "id": "2004-03-25-blair-meets-gaddafi",
+      "date": "2004-03-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Africa",
+      "title": "Blair meets Gaddafi as Libya gives up its weapons programmes",
+      "summary": "Libya's December 2003 pledge brought sanctions relief and exposed the A.Q. Khan network.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+       }
+      ],
+      "entities": [
+       "libya",
+       "muammar-gaddafi",
+       "united-kingdom"
+      ],
+      "causes": [
+       {
+        "story": "2003-12-19-libya-gives-up-wmd",
+        "why": "WMD deal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "diplomacy",
+      "where": [
+       "tripoli"
+      ],
+      "related_stories": [
+       "2003-12-19-libya-gives-up-wmd"
+      ],
+      "revisions": [
+       {
+        "edition": "2003-12-31",
+        "why": "2003 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2003-10-15-shenzhou-5": {
+      "id": "2003-10-15-shenzhou-5",
+      "date": "2003-10-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-12-31",
+      "region": "Asia-Pacific",
+      "title": "China launches its first astronaut",
+      "summary": "Yang Liwei's flight made China the third nation to put a person in orbit.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shenzhou_5"
+       }
+      ],
+      "entities": [
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-12-31",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "jiuquan"
+      ],
+      "related_stories": []
+     },
+     "2003-12-19-libya-gives-up-wmd": {
+      "id": "2003-12-19-libya-gives-up-wmd",
+      "date": "2003-12-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-12-31",
+      "region": "Africa",
+      "title": "Libya agrees to give up its weapons-of-mass-destruction programmes",
+      "summary": "Gaddafi's deal came after secret talks with the US and UK.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+       }
+      ],
+      "entities": [
+       "libya",
+       "muammar-gaddafi",
+       "united-states",
+       "united-kingdom"
+      ],
+      "causes": [
+       {
+        "story": "2002-01-29-axis-of-evil",
+        "why": "US pressure on WMD states",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2003-12-31",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "diplomacy",
+      "where": [
+       "tripoli"
+      ],
+      "related_stories": [
+       "2002-01-29-axis-of-evil",
+       "2004-02-04-aq-khan-confession",
+       "2004-03-25-blair-meets-gaddafi",
+       "2011-03-19-libya-intervention"
+      ],
+      "revisions": [
+       {
+        "edition": "2002-12-31",
+        "why": "2002 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2002-07-01-icc-founded": {
+      "id": "2002-07-01-icc-founded",
+      "date": "2002-07-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Europe",
+      "title": "The International Criminal Court comes into being",
+      "summary": "The US, Russia and China stayed outside.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+       }
+      ],
+      "entities": [
+       "icc"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2009-03-04-icc-bashir-warrant"
+      ]
+     },
+     "2001-06-08-khatami-reelected": {
+      "id": "2001-06-08-khatami-reelected",
+      "date": "2001-06-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Middle East",
+      "title": "Iran's reformist President Khatami wins re-election",
+      "summary": "Hardliners blocked his reforms.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_Iranian_presidential_election"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mohammad-khatami"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": []
+     },
+     "2001-09-07-durban-conference": {
+      "id": "2001-09-07-durban-conference",
+      "date": "2001-09-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Africa",
+      "title": "The UN racism conference in Durban ends in acrimony",
+      "summary": "The US and Israel walked out over language on Zionism.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/World_Conference_against_Racism_2001"
+       }
+      ],
+      "entities": [
+       "south-africa",
+       "united-states",
+       "israel"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "durban"
+      ],
+      "related_stories": []
+     },
+     "2001-12-02-enron-bankruptcy": {
+      "id": "2001-12-02-enron-bankruptcy",
+      "date": "2001-12-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-12-31",
+      "region": "Americas",
+      "title": "Enron files for bankruptcy",
+      "summary": "The fraud led to the Sarbanes–Oxley Act.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Enron_scandal"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "enron"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-12-31",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "houston"
+      ],
+      "related_stories": []
+     },
+     "2000-02-18-iran-reformists-win": {
+      "id": "2000-02-18-iran-reformists-win",
+      "date": "2000-02-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-03-31",
+      "region": "Middle East",
+      "title": "Reformists allied with Khatami win Iran's parliamentary election",
+      "summary": "Hardline bodies blocked much of their agenda.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Iranian_legislative_election"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mohammad-khatami"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-03-31",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": []
+     },
+     "2000-03-12-aznar-majority": {
+      "id": "2000-03-12-aznar-majority",
+      "date": "2000-03-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-03-31",
+      "region": "Europe",
+      "title": "José María Aznar's People's Party wins an absolute majority in Spain",
+      "summary": "Aznar later backed the Iraq war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Spanish_general_election"
+       }
+      ],
+      "entities": [
+       "spain"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-03-31",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "madrid"
+      ],
+      "related_stories": []
+     },
+     "2023-08-23-chandrayaan-3": {
+      "id": "2023-08-23-chandrayaan-3",
+      "date": "2023-08-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Asia-Pacific",
+      "title": "India becomes the first country to land near the Moon's south pole",
+      "summary": "ISRO's Chandrayaan-3 lander touched down near the lunar south pole, days after Russia's Luna-25 crashed, making India the fourth nation to soft-land on the Moon.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/science/why-are-countries-racing-moons-heavily-cratered-south-pole-2023-08-23/"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/08/23/science/chandrayaan-3-india-moon-landing.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+       }
+      ],
+      "entities": [
+       "india",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "On the Moon.",
+      "related_stories": []
+     },
+     "2007-01-11-china-asat-test": {
+      "id": "2007-01-11-china-asat-test",
+      "date": "2007-01-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-03-31",
+      "region": "Asia-Pacific",
+      "title": "China destroys one of its own satellites with a missile",
+      "summary": "The test left a large debris cloud and signalled China's counter-space ambitions.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007_Chinese_anti-satellite_missile_test"
+       }
+      ],
+      "entities": [
+       "china",
+       "pla"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "military",
+      "where": [
+       "xichang"
+      ],
+      "related_stories": []
+     },
+     "2012-12-12-nk-satellite-launch": {
+      "id": "2012-12-12-nk-satellite-launch",
+      "date": "2012-12-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-12-31",
+      "region": "Asia-Pacific",
+      "title": "North Korea puts its first satellite in orbit",
+      "summary": "The launch, condemned as a ballistic-missile test, followed a failed attempt in April.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-3_Unit_2"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2012/12/11/world/asia/north-korea-rocket-launch/index.html"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [
+       {
+        "story": "2011-12-17-kim-jong-il-dies",
+        "why": "New leader's programme",
+        "confidence": "possible"
+       },
+       {
+        "story": "2010-09-30-kim-jong-un-anointed",
+        "why": "Kim's succession",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-12-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "military",
+      "unplaced": "Sohae launch site.",
+      "related_stories": [
+       "2011-12-17-kim-jong-il-dies",
+       "2010-09-30-kim-jong-un-anointed",
+       "2013-02-12-nk-third-nuclear-test"
+      ],
+      "revisions": [
+       {
+        "edition": "2011-12-31",
+        "why": "2011 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2011-07-20-somalia-famine": {
+      "id": "2011-07-20-somalia-famine",
+      "date": "2011-07-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Africa",
+      "title": "UN declares famine in southern Somalia",
+      "summary": "The worst drought in 60 years hit 9.5 million people in East Africa; al-Shabaab blocked aid.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_East_Africa_drought"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/2011/jul/20/un-declares-famine-somalia"
+       }
+      ],
+      "entities": [
+       "somalia",
+       "al-shabaab"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "unplaced": "Southern Somalia.",
+      "related_stories": []
+     },
+     "2018-12-19-sudan-protests-begin": {
+      "id": "2018-12-19-sudan-protests-begin",
+      "date": "2018-12-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-12-31",
+      "region": "Africa",
+      "title": "Bread-price protests begin Sudan's revolution",
+      "summary": "Street protests over prices quickly turned against Omar al-Bashir's 30-year rule.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sudanese_revolution"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "omar-al-bashir"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-12-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Nationwide protests.",
+      "related_stories": [
+       "2019-04-11-bashir-ousted"
+      ]
+     },
+     "2022-02-24-grain-halt": {
+      "id": "2022-02-24-grain-halt",
+      "date": "2022-02-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "War shuts Ukraine's Black Sea grain exports",
+      "summary": "The invasion and Russia's naval blockade halted grain shipments from Ukraine's Black Sea ports, a major source of world wheat and maize.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022–2023 food crises",
+        "url": "https://en.wikipedia.org/wiki/2022–2023_food_crises"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "wheat",
+       "food-security",
+       "black-sea"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Blockade of ports",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-05-13-india-wheat-ban",
+        "why": "Loss of Ukrainian supply spiked world wheat prices",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-07-22-grain-deal",
+        "why": "Unblocking the halted exports",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "2022-05-13-india-wheat-ban",
+       "2022-07-22-grain-deal",
+       "2022-04-14-moskva",
+       "2023-07-17-russia-quits-grain-deal"
+      ],
+      "marker": "military",
+      "unplaced": "Ukraine's Black Sea ports.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-07-22-grain-deal": {
+      "id": "2022-07-22-grain-deal",
+      "date": "2022-07-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "Black Sea Grain Initiative signed in Istanbul",
+      "summary": "Russia and Ukraine signed parallel deals with Turkey and the UN to reopen Ukrainian grain exports through a Black Sea corridor.",
+      "sources": [
+       {
+        "name": "Wikipedia: Black Sea Grain Initiative",
+        "url": "https://en.wikipedia.org/wiki/Black_Sea_Grain_Initiative"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "turkey",
+       "black-sea",
+       "wheat",
+       "food-security"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-grain-halt",
+        "why": "Unblocking the halted exports",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-05-13-india-wheat-ban",
+        "why": "Global food crisis pressure",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-02-24-grain-halt",
+       "2022-05-13-india-wheat-ban",
+       "2023-07-17-russia-quits-grain-deal",
+       "2022-03-29-istanbul-talks",
+       "2022-04-14-moskva",
+       "poland-starlink-arson-russia-gang"
+      ],
+      "where": [
+       "istanbul"
+      ],
+      "marker": "diplomacy",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "where",
+         "marker"
+        ]
+       }
+      ]
+     },
+     "2023-07-17-russia-quits-grain-deal": {
+      "id": "2023-07-17-russia-quits-grain-deal",
+      "date": "2023-07-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Russia quits the Black Sea Grain Initiative",
+      "summary": "Moscow ended the UN- and Turkey-brokered deal and then struck Odesa-area ports. Ukraine opened its own sea corridor in August.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/russia-halts-participation-black-sea-grain-deal-kremlin-says-2023-07-17/"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/07/17/world/europe/ukraine-russia-grain-deal.html"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2023/07/30/1190968770/african-leaders-leave-russia-summit-without-grain-deal-or-path-to-peace-in-ukrai"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "turkey",
+       "wheat",
+       "black-sea"
+      ],
+      "causes": [
+       {
+        "story": "2022-07-22-grain-deal",
+        "why": "Ends the 2022 deal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Black Sea shipping lanes.",
+      "related_stories": [
+       "2022-07-22-grain-deal",
+       "2022-02-24-grain-halt",
+       "2022-03-29-istanbul-talks",
+       "2022-04-14-moskva"
+      ]
+     },
+     "2023-05-28-erdogan-reelected": {
+      "id": "2023-05-28-erdogan-reelected",
+      "date": "2023-05-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Middle East",
+      "title": "Erdoğan wins a runoff to extend his rule into a third decade",
+      "summary": "Despite the earthquake and an inflation crisis, Erdoğan beat Kemal Kılıçdaroğlu in the second round. He then switched to orthodox economic policy.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/5/28/turkey-presidential-election-results-3"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Turkish_presidential_election"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [
+       {
+        "story": "2023-02-06-turkey-syria-quake",
+        "why": "Election held in the quake's aftermath",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2023-02-06-turkey-syria-quake"
+      ],
+      "storylines": [
+       "turkey-erdogan"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2004-02-04-aq-khan-confession": {
+      "id": "2004-02-04-aq-khan-confession",
+      "date": "2004-02-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Asia-Pacific",
+      "title": "A.Q. Khan confesses to selling nuclear secrets",
+      "summary": "His network had supplied Iran, Libya and North Korea; Musharraf pardoned him.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "abdul-qadeer-khan",
+       "iran",
+       "north-korea",
+       "libya"
+      ],
+      "causes": [
+       {
+        "story": "2003-12-19-libya-gives-up-wmd",
+        "why": "Libya's disclosures exposed Khan",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "south-asia-security",
+       "iran-war-hormuz"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2003-12-19-libya-gives-up-wmd"
+      ],
+      "revisions": [
+       {
+        "edition": "2003-12-31",
+        "why": "2003 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2009-03-04-icc-bashir-warrant": {
+      "id": "2009-03-04-icc-bashir-warrant",
+      "date": "2009-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Africa",
+      "title": "ICC issues an arrest warrant for Sudan's Omar al-Bashir over Darfur",
+      "summary": "It was the first ICC warrant for a sitting head of state; genocide charges were added in 2010. Bashir expelled aid groups in response.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omar_al-Bashir"
+       }
+      ],
+      "entities": [
+       "icc",
+       "omar-al-bashir",
+       "sudan"
+      ],
+      "causes": [
+       {
+        "story": "2005-03-31-unsc-refers-darfur",
+        "why": "UNSC referral",
+        "confidence": "likely"
+       },
+       {
+        "story": "2002-07-01-icc-founded",
+        "why": "ICC",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2005-03-31-unsc-refers-darfur",
+       "2002-07-01-icc-founded",
+       "2019-04-11-bashir-ousted"
+      ],
+      "revisions": [
+       {
+        "edition": "2005-12-31",
+        "why": "2005 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2002-12-31",
+        "why": "2002 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2011-07-22-norway-attacks": {
+      "id": "2011-07-22-norway-attacks",
+      "date": "2011-07-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Europe",
+      "title": "Far-right extremist Anders Breivik kills 77 in Oslo and on Utøya",
+      "summary": "Most victims were at a Labour Party youth camp.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_Norway_attacks"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/jul/23/utoya-mass-murder-anders-behring-breivik"
+       }
+      ],
+      "entities": [
+       "norway"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "strike",
+      "where": [
+       "utoya"
+      ],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected",
+       "2018-11-25-kerch-strait-incident",
+       "2017-08-02-caatsa",
+       "2016-07-08-nato-warsaw-summit",
+       "2016-09-28-mh17-jit-findings",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-02-27-nemtsov-killed",
+       "2014-02-22-yanukovych-ousted",
+       "2014-03-18-crimea-annexed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-25-poroshenko-elected",
+       "2014-07-17-mh17-shot-down",
+       "2014-08-29-ilovaisk",
+       "2014-09-05-nato-wales-2pct",
+       "2014-12-16-ruble-crash",
+       "2013-11-21-euromaidan",
+       "2012-03-04-putin-returns",
+       "2011-12-10-moscow-protests",
+       "2010-02-07-yanukovych-elected",
+       "2010-04-08-new-start",
+       "2010-12-19-belarus-election-crackdown",
+       "2009-01-07-russia-ukraine-gas-cutoff",
+       "2009-04-16-chechnya-operation-ends",
+       "2009-05-07-eastern-partnership",
+       "2008-03-02-medvedev-elected",
+       "2008-04-03-nato-bucharest-summit",
+       "2008-08-08-russia-georgia-war",
+       "2007-02-10-putin-munich-speech",
+       "2007-04-27-estonia-cyberattacks",
+       "2007-09-30-ukraine-snap-election",
+       "2006-01-01-russia-ukraine-gas-cut",
+       "2006-03-19-belarus-election",
+       "2006-03-26-ukraine-election-yanukovych",
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-09-08-nord-stream-deal",
+       "2004-03-14-putin-reelected",
+       "2004-03-29-nato-enlargement",
+       "2004-05-09-kadyrov-assassinated",
+       "2004-09-01-beslan-siege",
+       "2004-11-22-orange-revolution",
+       "2002-05-28-nato-russia-council",
+       "2002-10-23-moscow-theatre-siege",
+       "2002-11-21-nato-prague-summit",
+       "2001-07-16-sino-russian-treaty",
+       "2000-02-grozny-falls",
+       "2000-03-26-putin-elected",
+       "2000-06-gusinsky-arrested",
+       "2000-05-13-russia-federal-districts",
+       "2000-08-12-kursk-sinks",
+       "2000-11-cassette-scandal",
+       "2001-04-14-ntv-takeover",
+       "2003-10-25-khodorkovsky-arrested",
+       "2003-12-07-united-russia-wins",
+       "2005-05-31-khodorkovsky-sentenced",
+       "2006-10-07-politkovskaya-murdered",
+       "2006-11-01-litvinenko-poisoned",
+       "kirovohrad-drone-barrage",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "lutsk-blackout-volyn",
+       "trump-waives-russia-sanctions",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-07-08-nato-ankara",
+       "2026-08-13-russian-diesel-lows",
+       "2026-09-18-graham-act-signed",
+       "2026-09-22-zelensky-trump-unga",
+       "2026-10-02-g7-diesel-release",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang"
+      ],
+      "source": "threads.md"
+     },
+     "food-shocks-unrest": null,
+     "climate-diplomacy": {
+      "id": "climate-diplomacy",
+      "name": "Climate diplomacy",
+      "entities": [
+       "paris-agreement",
+       "cop"
+      ],
+      "stories": [
+       "2015-12-12-paris-climate-agreement",
+       "2016-11-04-paris-agreement-in-force",
+       "2021-11-13-cop26-glasgow",
+       "2009-12-18-copenhagen-accord",
+       "2007-11-24-rudd-elected",
+       "2007-12-15-bali-roadmap",
+       "2005-02-16-kyoto-in-force",
+       "2004-11-russia-ratifies-kyoto",
+       "2001-03-28-us-rejects-kyoto"
+      ],
+      "source": "inbox"
+     },
+     "turkey-erdogan": {
+      "id": "turkey-erdogan",
+      "name": "Erdoğan's Turkey",
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan"
+      ],
+      "stories": [
+       "2016-07-15-turkey-coup-attempt",
+       "2017-04-16-turkey-referendum",
+       "2018-06-24-erdogan-executive-president",
+       "2018-08-10-turkish-lira-crash",
+       "2023-05-28-erdogan-reelected",
+       "2013-05-28-gezi-protests",
+       "2007-07-22-akp-landslide",
+       "2003-03-14-erdogan-prime-minister",
+       "2002-11-03-akp-wins"
+      ],
+      "source": "inbox"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated",
+       "2021-09-26-german-election",
+       "2025-02-23-german-election",
+       "2025-09-10-drones-over-poland",
+       "2019-07-24-johnson-pm",
+       "2019-12-12-johnson-landslide",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-07-11-trump-nord-stream-2",
+       "2018-11-25-brexit-deal-endorsed",
+       "2017-01-20-trump-inaugurated",
+       "2017-03-29-article-50",
+       "2017-06-01-us-quits-paris-agreement",
+       "2017-06-08-uk-hung-parliament",
+       "2016-06-23-brexit-referendum",
+       "2016-11-08-trump-elected",
+       "2015-05-08-cameron-majority",
+       "2014-09-05-nato-wales-2pct",
+       "2013-06-06-snowden-nsa-leaks",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang",
+       "2019-10-17-johnson-brexit-deal",
+       "2023-02-27-windsor-framework"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing",
+       "2008-10-10-us-india-nuclear-deal",
+       "2008-11-26-mumbai-attacks",
+       "2007-07-10-lal-masjid-siege",
+       "2007-11-03-musharraf-emergency",
+       "2007-12-14-ttp-formed",
+       "2007-12-27-bhutto-assassinated",
+       "2006-03-02-bush-singh-nuclear-deal",
+       "2006-07-11-mumbai-train-bombings",
+       "2006-06-sri-lanka-eelam-war-iv",
+       "2005-11-17-rajapaksa-elected",
+       "2004-02-04-aq-khan-confession",
+       "2004-05-13-india-manmohan-singh",
+       "2002-02-27-gujarat-riots",
+       "2001-09-pakistan-sides-with-us",
+       "2000-04-elephant-pass",
+       "2000-12-sharif-exiled",
+       "2001-06-01-nepal-royal-massacre",
+       "2006-04-24-nepal-king-yields",
+       "2008-04-10-nepal-maoists-win",
+       "2022-04-10-imran-khan",
+       "2022-05-sri-lanka-default",
+       "2022-07-sri-lanka-flight",
+       "kurram-border-clash"
+      ],
+      "source": "inbox"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-11-24-china-cables",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-04-16-zte-export-ban",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-09-30-usmca-deal",
+       "2018-12-01-meng-wanzhou-arrested",
+       "2017-01-20-trump-inaugurated",
+       "2017-01-23-us-quits-tpp",
+       "2016-11-08-trump-elected",
+       "2015-05-19-made-in-china-2025",
+       "2015-06-29-aiib-signed",
+       "2014-11-08-silk-road-fund",
+       "2013-03-14-xi-becomes-president",
+       "2013-09-07-silk-road-economic-belt",
+       "2012-11-15-xi-general-secretary",
+       "2005-07-21-yuan-peg-ends",
+       "2001-11-10-china-wto-approved",
+       "2001-11-14-doha-round",
+       "2000-10-10-us-china-pntr",
+       "china-draft-ai-export-controls"
+      ],
+      "source": "inbox"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote",
+       "2018-11-17-yellow-vests",
+       "2017-05-07-macron-elected",
+       "2017-09-24-afd-enters-bundestag",
+       "2016-03-18-eu-turkey-migrant-deal",
+       "2016-06-23-brexit-referendum",
+       "2016-12-19-berlin-market-attack",
+       "2015-09-04-merkel-opens-border",
+       "2015-11-13-paris-attacks",
+       "2013-05-28-gezi-protests",
+       "2013-09-22-merkel-third-term",
+       "2013-10-03-lampedusa-shipwreck",
+       "2012-05-06-greek-election-syriza",
+       "2011-07-22-norway-attacks",
+       "2010-04-10-smolensk-crash",
+       "2010-05-11-cameron-coalition",
+       "2009-04-07-moldova-twitter-revolution",
+       "2009-05-07-eastern-partnership",
+       "2009-12-01-lisbon-treaty-in-force",
+       "2008-02-17-kosovo-independence",
+       "2008-06-12-ireland-rejects-lisbon",
+       "2007-01-01-bulgaria-romania-join-eu",
+       "2007-12-13-lisbon-treaty-signed",
+       "2005-05-29-eu-constitution-rejected",
+       "2004-05-01-eu-enlargement",
+       "2001-05-13-berlusconi-returns",
+       "2000-02-04-austria-fpo-government",
+       "2000-10-05-milosevic-ousted",
+       "2001-06-28-milosevic-extradited",
+       "2001-08-13-ohrid-agreement",
+       "2004-03-17-kosovo-unrest",
+       "2006-05-21-montenegro-independence",
+       "2008-07-21-karadzic-arrested",
+       "2000-12-nice-treaty",
+       "2000-09-28-danish-euro-no",
+       "2017-10-01-catalan-referendum",
+       "2014-09-18-scotland-referendum"
+      ],
+      "source": "inbox"
+     },
+     "china-minerals-leverage": {
+      "id": "china-minerals-leverage",
+      "name": "China rare-earth / tech leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials",
+       "japan",
+       "european-union"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-drills",
+       "2021-12-china-rare-earth-group",
+       "2022-02-04-no-limits",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2022-10-16-party-congress",
+       "pla-patrol-oct14-15",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2025-11-06-c5-plus-1-summit",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2023-07-03-china-gallium-controls",
+       "2023-10-17-us-chip-rules-tightened",
+       "2010-09-07-senkaku-trawler",
+       "2006-11-04-focac-beijing-summit",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-08-takaichi-landslide",
+       "2026-05-14-trump-xi-beijing",
+       "2026-05-22-china-japan-rare-earths",
+       "2026-09-23-us-china-fragile-truce",
+       "takaichi-yasukuni-offering",
+       "china-draft-ai-export-controls"
+      ],
+      "source": "threads.md"
+     },
+     "covid-shock": {
+      "id": "covid-shock",
+      "name": "COVID-19 pandemic & the 2020 economic shock",
+      "entities": [
+       "covid-19",
+       "who",
+       "federal-reserve",
+       "ecb",
+       "imf",
+       "china"
+      ],
+      "stories": [
+       "2020-01-23-wuhan-lockdown",
+       "2020-03-09-oil-price-war",
+       "2020-03-11-who-pandemic",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2020-04-14-imf-great-lockdown",
+       "2020-04-20-wti-negative",
+       "2020-07-21-ngeu",
+       "2020-12-08-vaccine-rollout",
+       "2021-03-11-american-rescue-plan",
+       "2021-11-26-omicron",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens",
+       "2019-12-31-wuhan-pneumonia-cluster",
+       "2003-03-sars-outbreak"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted",
+       "2021-01-05-al-ula-qatar",
+       "2019-12-11-aramco-ipo",
+       "2018-10-02-khashoggi-killed",
+       "2017-06-05-qatar-blockade",
+       "2017-06-21-mbs-crown-prince",
+       "2017-11-04-saudi-purge-hariri",
+       "2016-01-02-nimr-executed-saudi-iran-split",
+       "2016-04-25-vision-2030",
+       "2015-01-23-king-salman-accedes",
+       "2013-06-25-tamim-emir",
+       "2013-07-03-morsi-ousted",
+       "2013-08-14-rabaa-massacre",
+       "2012-06-24-morsi-wins",
+       "2012-11-22-morsi-decree",
+       "2011-01-14-ben-ali-flees",
+       "2011-02-11-mubarak-resigns",
+       "2011-03-14-gcc-crushes-bahrain",
+       "2010-06-06-khaled-said",
+       "2010-12-17-bouazizi",
+       "2003-04-29-us-leaves-saudi-bases",
+       "2002-03-28-arab-peace-initiative",
+       "egypt-offers-to-defend-saudi"
+      ],
+      "source": "inbox"
+     },
+     "china-leadership": {
+      "id": "china-leadership",
+      "name": "China leadership and party",
+      "entities": [
+       "china",
+       "xi-jinping",
+       "hu-jintao",
+       "pla"
+      ],
+      "stories": [
+       "2025-10-17-he-weidong-expelled",
+       "2002-11-15-hu-party-chief",
+       "2003-03-15-hu-jintao-president",
+       "2004-09-19-hu-takes-military",
+       "2007-10-22-xi-joins-standing-committee",
+       "2008-03-10-tibet-unrest",
+       "2009-07-05-urumqi-riots",
+       "2012-03-15-bo-xilai-purged",
+       "2012-11-15-xi-general-secretary",
+       "2013-03-14-xi-becomes-president",
+       "2014-03-01-kunming-attack",
+       "2014-09-28-umbrella-movement",
+       "2017-10-24-xi-thought-enshrined",
+       "2018-03-11-xi-term-limits-scrapped",
+       "2018-08-13-xinjiang-un-review",
+       "2019-06-09-hong-kong-protests",
+       "2019-11-24-china-cables",
+       "2020-06-30-hong-kong-nsl",
+       "2022-10-16-party-congress"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists",
+       "2017-10-04-tongo-tongo-ambush",
+       "2016-03-30-gna-arrives-tripoli",
+       "2016-12-06-sirte-liberated",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-31-buhari-wins",
+       "2015-09-16-burkina-coup-attempt",
+       "2015-12-17-libyan-political-agreement",
+       "2014-04-14-chibok-kidnapping",
+       "2014-05-16-haftar-operation-dignity",
+       "2014-08-01-barkhane",
+       "2014-10-31-compaore-ousted",
+       "2013-01-11-operation-serval",
+       "2013-01-16-in-amenas",
+       "2012-01-17-tuareg-rebellion",
+       "2012-03-22-mali-coup",
+       "2012-09-11-benghazi-attack",
+       "2011-02-15-libya-uprising",
+       "2011-03-19-libya-intervention",
+       "2011-08-20-fall-of-tripoli",
+       "2011-08-26-abuja-un-bombing",
+       "2011-10-20-gaddafi-killed",
+       "2010-02-09-jonathan-acting-president",
+       "2009-08-04-niger-tandja-referendum",
+       "2008-08-06-mauritania-coup",
+       "2007-04-11-algiers-bombings",
+       "2005-08-03-mauritania-coup",
+       "2026-04-25-mali-offensive",
+       "2026-04-28-bamako-blockade",
+       "sahel-jnim-issp-oudalan"
+      ],
+      "source": "threads.md"
+     },
+     "global-financial-crisis": {
+      "id": "global-financial-crisis",
+      "name": "Global financial crisis 2007–09",
+      "entities": [
+       "federal-reserve",
+       "imf",
+       "g20",
+       "united-states"
+      ],
+      "stories": [
+       "2009-02-17-us-stimulus",
+       "2009-03-18-fed-expands-qe1",
+       "2009-04-02-g20-london-summit",
+       "2009-09-25-g20-pittsburgh",
+       "2009-11-25-dubai-world-standstill",
+       "2008-03-16-bear-stearns-rescue",
+       "2008-09-07-fannie-freddie-seized",
+       "2008-09-15-lehman-collapse",
+       "2008-10-03-tarp-signed",
+       "2008-10-06-iceland-banks-collapse",
+       "2008-11-09-china-stimulus",
+       "2008-11-15-g20-washington-summit",
+       "2008-11-25-fed-qe1",
+       "2007-08-09-credit-crunch",
+       "2007-09-14-northern-rock-run"
+      ],
+      "source": "inbox"
+     },
+     "isis-war": {
+      "id": "isis-war",
+      "name": "Islamic State: caliphate and the war against it",
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "syria",
+       "united-states",
+       "sdf"
+      ],
+      "stories": [
+       "2016-03-22-brussels-bombings",
+       "2016-07-14-nice-truck-attack",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-06-sirte-liberated",
+       "2016-12-19-berlin-market-attack",
+       "2015-01-07-charlie-hebdo",
+       "2015-01-26-kobani-retaken",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-18-bardo-attack",
+       "2015-05-17-ramadi-falls",
+       "2015-10-10-ankara-bombings",
+       "2015-10-31-metrojet-bombing",
+       "2015-11-13-paris-attacks",
+       "2015-12-28-ramadi-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-06-29-caliphate-declared",
+       "2014-08-03-sinjar-genocide",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2013-04-08-isil-founded",
+       "2013-04-23-hawija-clashes",
+       "2012-07-19-ypg-takes-kobani",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2010-09-01-operation-new-dawn",
+       "2006-06-07-zarqawi-killed",
+       "2004-10-17-zarqawi-pledges-to-al-qaeda",
+       "2003-05-16-de-baathification",
+       "2020-08-12-mocimboa-falls",
+       "2020-10-29-nice-vienna-attacks",
+       "2021-03-24-palma-attack",
+       "2019-04-21-sri-lanka-easter-bombings",
+       "2017-05-22-manchester-bombing",
+       "2017-08-17-barcelona-attack"
+      ],
+      "source": "inbox"
+     },
+     "space-strategic-prestige": null,
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-07-us-rsf-genocide",
+       "2025-01-11-wad-madani-retaken",
+       "2020-10-03-juba-agreement",
+       "2020-12-14-sudan-delisted",
+       "2019-04-11-bashir-ousted",
+       "2019-06-03-khartoum-massacre",
+       "2018-12-19-sudan-protests-begin",
+       "2016-07-08-juba-clashes",
+       "2009-03-04-icc-bashir-warrant",
+       "2007-07-31-unamid-darfur",
+       "2006-05-05-darfur-peace-agreement",
+       "2005-01-09-sudan-cpa",
+       "2005-03-31-unsc-refers-darfur",
+       "2005-07-30-garang-killed",
+       "2004-09-09-us-calls-darfur-genocide",
+       "2003-02-26-darfur-rebellion",
+       "2002-07-20-machakos-protocol",
+       "2021-10-25-sudan-coup",
+       "sudan-nyala-strikes"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria",
+       "2015-11-24-turkey-downs-su-24",
+       "2014-07-08-gaza-war",
+       "2013-06-05-qusayr-hezbollah",
+       "2013-08-21-ghouta-sarin",
+       "2013-09-14-syria-chemical-deal",
+       "2012-01-23-nusra-founded",
+       "2012-05-25-houla-massacre",
+       "2012-07-18-damascus-bombing",
+       "2012-08-20-obama-red-line",
+       "2012-07-19-ypg-takes-kobani",
+       "2012-11-14-pillar-of-defense",
+       "2012-11-29-un-palestine-observer",
+       "2011-03-15-syria-uprising",
+       "2011-07-29-fsa-formed",
+       "2010-05-31-gaza-flotilla-raid",
+       "2009-02-10-israel-election-netanyahu",
+       "2009-06-04-obama-cairo-speech",
+       "2008-05-21-doha-agreement-lebanon",
+       "2008-12-27-operation-cast-lead",
+       "2007-06-14-hamas-takes-gaza",
+       "2007-09-06-israel-strikes-syrian-reactor",
+       "2007-11-27-annapolis-conference",
+       "2006-01-25-hamas-wins-election",
+       "2006-06-25-shalit-captured",
+       "2006-07-12-lebanon-war",
+       "2006-08-11-unsc-1701",
+       "2005-02-14-hariri-assassinated",
+       "2005-03-14-cedar-revolution",
+       "2005-08-15-gaza-disengagement",
+       "2004-03-22-yassin-killed",
+       "2004-07-09-icj-wall-opinion",
+       "2004-11-11-arafat-dies",
+       "2003-04-30-road-map",
+       "2002-03-28-arab-peace-initiative",
+       "2002-03-29-defensive-shield",
+       "2001-02-06-sharon-elected",
+       "2001-06-01-dolphinarium-bombing",
+       "2000-05-israel-leaves-lebanon",
+       "2000-06-10-hafez-assad-dies",
+       "2000-07-11-camp-david-summit",
+       "2000-09-28-second-intifada",
+       "2000-10-07-hezbollah-raid",
+       "2022-10-11-israel-lebanon",
+       "gaza-drone-strikes-oct17",
+       "lebanon-tampa-talks-demands"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2026-04-07-hormuz-resolution-veto",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-07-19-stena-impero-seized",
+       "2019-09-14-abqaiq-attack",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-05-19-rouhani-reelected",
+       "2017-12-28-iran-dey-protests",
+       "2016-01-16-jcpoa-implementation",
+       "2015-07-14-jcpoa-agreed",
+       "2013-06-14-rouhani-elected",
+       "2013-11-24-iran-interim-deal",
+       "2011-11-08-iaea-iran-report",
+       "2011-11-29-uk-embassy-tehran",
+       "2011-12-05-iran-captures-rq170",
+       "2010-06-09-unsc-1929",
+       "2010-06-17-stuxnet",
+       "2009-06-12-iran-green-movement",
+       "2009-09-25-fordow-revealed",
+       "2007-03-24-unsc-1747",
+       "2007-12-03-iran-nie",
+       "2006-04-11-iran-enrichment-announced",
+       "2006-12-23-unsc-1737",
+       "2005-06-24-ahmadinejad-elected",
+       "2004-02-04-aq-khan-confession",
+       "2003-10-21-tehran-declaration",
+       "2002-08-14-iran-natanz-exposed",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-03-08-mojtaba-khamenei",
+       "2026-03-13-kharg-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-08-17-mou-expires",
+       "2026-09-26-trump-rejects-iran-plan",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record"
+      ],
+      "source": "threads.md"
+     },
+     "us-domestic-politics": {
+      "id": "us-domestic-politics",
+      "name": "US domestic politics",
+      "entities": [
+       "united-states"
+      ],
+      "stories": [
+       "2010-11-02-us-midterms",
+       "2011-09-17-occupy-wall-street",
+       "2012-11-06-obama-reelected",
+       "2013-04-15-boston-bombing",
+       "2013-10-01-us-shutdown",
+       "2014-08-09-ferguson",
+       "2017-01-27-travel-ban",
+       "2017-12-22-tax-cuts-signed",
+       "2018-11-06-us-midterms",
+       "2020-05-26-george-floyd-protests",
+       "2024-07-13-trump-shot",
+       "2024-07-21-biden-withdraws",
+       "2009-01-20-obama-inaugurated",
+       "2008-11-04-obama-elected",
+       "2006-11-07-us-midterms-democrats",
+       "2005-08-29-hurricane-katrina",
+       "2004-11-02-bush-reelected",
+       "2001-01-20-bush-inaugurated",
+       "2001-10-26-patriot-act",
+       "2001-10-anthrax-letters",
+       "2000-12-12-bush-v-gore"
+      ],
+      "source": "inbox"
+     },
+     "iraq-war": {
+      "id": "iraq-war",
+      "name": "Iraq war and occupation 2003–11",
+      "entities": [
+       "iraq",
+       "united-states",
+       "nouri-al-maliki"
+      ],
+      "stories": [
+       "2009-02-27-obama-iraq-drawdown",
+       "2010-09-01-operation-new-dawn",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-03-25-battle-of-basra",
+       "2008-11-27-iraq-sofa",
+       "2007-01-10-iraq-surge-announced",
+       "2007-08-14-yazidi-bombings",
+       "2007-09-16-nisour-square",
+       "2006-02-22-samarra-mosque-bombing",
+       "2006-05-20-maliki-becomes-pm",
+       "2006-06-07-zarqawi-killed",
+       "2006-11-07-us-midterms-democrats",
+       "2006-12-06-iraq-study-group",
+       "2006-12-30-saddam-executed",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2005-01-30-iraq-first-election",
+       "2005-10-15-iraq-constitution",
+       "2005-11-09-amman-bombings",
+       "2005-12-15-iraq-december-election",
+       "2004-03-14-zapatero-wins",
+       "2004-01-japan-troops-iraq",
+       "2004-04-04-first-battle-of-fallujah",
+       "2004-04-04-sadr-uprising",
+       "2004-04-28-abu-ghraib",
+       "2004-06-28-iraq-sovereignty-handover",
+       "2004-11-07-second-battle-of-fallujah",
+       "2004-10-17-zarqawi-pledges-to-al-qaeda",
+       "2003-02-05-powell-un-presentation",
+       "2003-02-15-global-antiwar-protests",
+       "2003-03-20-iraq-invasion",
+       "2003-05-01-mission-accomplished",
+       "2003-05-16-de-baathification",
+       "2003-04-09-baghdad-falls",
+       "2003-08-19-un-baghdad-bombing",
+       "2003-08-29-najaf-bombing",
+       "2003-12-13-saddam-captured",
+       "2002-09-20-bush-doctrine",
+       "2002-10-16-congress-authorises-iraq-war",
+       "2002-11-08-unsc-1441"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

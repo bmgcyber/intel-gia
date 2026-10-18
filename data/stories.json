@@ -2962,7 +2962,8 @@
    "black-sea"
   ],
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "food-shocks-unrest"
   ],
   "causes": [
    {
@@ -3000,6 +3001,13 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -4373,6 +4381,10 @@
    {
     "name": "Wikipedia: 2022–2023 food crises",
     "url": "https://en.wikipedia.org/wiki/2022–2023_food_crises"
+   },
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/business/Economy/india-bans-wheat-exports-with-immediate-effect/article65413112.ece"
    }
   ],
   "entities": [
@@ -4381,7 +4393,10 @@
    "food-security",
    "inflation"
   ],
-  "storylines": [],
+  "storylines": [
+   "russia-ukraine",
+   "food-shocks-unrest"
+  ],
   "causes": [
    {
     "story": "2022-02-24-grain-halt",
@@ -4412,6 +4427,14 @@
     "fields": [
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
     ]
    }
   ]
@@ -5610,7 +5633,8 @@
    "food-security"
   ],
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "food-shocks-unrest"
   ],
   "causes": [
    {
@@ -5645,6 +5669,13 @@
     "fields": [
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -6091,12 +6122,18 @@
    {
     "name": "Wikipedia: 2022 Pakistan floods",
     "url": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2022/nov/20/loss-and-damage-pakistan-flooding-climate-justice-cop27"
    }
   ],
   "entities": [
    "pakistan"
   ],
-  "storylines": [],
+  "storylines": [
+   "climate-diplomacy"
+  ],
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
@@ -6112,6 +6149,14 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
     ]
    }
   ]
@@ -15173,6 +15218,11 @@
     "story": "2024-11-05-trump-elected",
     "why": "President-elect's agenda",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-10-02-china-coast-guard-arctic",
+    "why": "Washington hawks gained a security case for Greenland from Russia–China Arctic cooperation, at the expense of Denmark's and Greenland's room to manoeuvre.",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -15192,6 +15242,7 @@
   ],
   "related_stories": [
    "2024-11-05-trump-elected",
+   "2024-10-02-china-coast-guard-arctic",
    "2026-01-21-greenland-davos",
    "2025-03-11-greenland-election",
    "2025-04-28-carney-wins",
@@ -15201,6 +15252,13 @@
    {
     "edition": "2025-12-26",
     "why": "Archive audit: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
     "fields": [
      "causes"
     ]
@@ -23714,6 +23772,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2023_Turkish_presidential_election"
    }
   ],
   "entities": [
@@ -23730,6 +23792,19 @@
   ],
   "related_stories": [
    "2023-05-28-erdogan-reelected"
+  ],
+  "storylines": [
+   "turkey-erdogan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -24045,7 +24120,7 @@
   "causes": [
    {
     "story": "2023-02-06-turkey-syria-quake",
-    "why": "Election held in the quake's aftermath",
+    "why": "Erdoğan gained, surviving anger over the slow quake response to win re-election on a reconstruction pitch, while the opposition that made the quake its main issue lost.",
     "confidence": "likely"
    }
   ],
@@ -24066,6 +24141,13 @@
     "why": "Phase C archive sweep: add missing marker/location/storyline threading",
     "fields": [
      "storylines"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Who-gains wording for existing cause",
+    "fields": [
+     "causes"
     ]
    }
   ]
@@ -24322,7 +24404,8 @@
   "effects": [],
   "batch": "inbox-2023-09-30",
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "food-shocks-unrest"
   ],
   "era": "2022–23 (attrition and Oct 7)",
   "marker": "diplomacy",
@@ -24331,7 +24414,17 @@
    "2022-07-22-grain-deal",
    "2022-02-24-grain-halt",
    "2022-03-29-istanbul-talks",
-   "2022-04-14-moskva"
+   "2022-04-14-moskva",
+   "poland-starlink-arson-russia-gang"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -24544,6 +24637,11 @@
     "story": "2023-03-10-saudi-iran-beijing",
     "why": "China's growing pull in the Gulf",
     "confidence": "possible"
+   },
+   {
+    "story": "2009-06-16-first-bric-summit",
+    "why": "Beijing and Moscow gained a non-Western forum that later took in Gulf states, at modest cost to G7 primacy.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -24556,11 +24654,34 @@
   "unplaced": "Johannesburg has no place entity.",
   "related_stories": [
    "2023-03-10-saudi-iran-beijing",
+   "2009-06-16-first-bric-summit",
    "2022-03-27-negev-summit",
    "saudi-blames-iran-eu-gcc-postponed",
    "trump-waives-russia-sanctions",
    "yanbu-missile-intercepted",
-   "2026-09-18-graham-act-signed"
+   "2026-09-18-graham-act-signed",
+   "2023-09-09-delhi-g20",
+   "second-mine-tanker-ukmto-record",
+   "egypt-offers-to-defend-saudi",
+   "2021-01-05-al-ula-qatar",
+   "2026-04-07-hormuz-resolution-veto",
+   "2019-04-04-haftar-tripoli-offensive",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2017-06-05-qatar-blockade",
+   "2015-03-26-saudi-intervention-yemen",
+   "2015-07-14-jcpoa-agreed",
+   "2013-07-03-morsi-ousted",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-14-gcc-crushes-bahrain"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -25514,7 +25635,19 @@
   "era": "2022–23 (attrition and Oct 7)",
   "marker": "political",
   "unplaced": "On the Moon.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "space-strategic-prestige"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2023-09-09-delhi-g20",
@@ -26218,6 +26351,10 @@
    {
     "name": "CSIS ChinaPower",
     "url": "https://chinapower.csis.org/analysis/china-russia-coast-guard-cooperation/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Proposed_United_States_acquisition_of_Greenland"
    }
   ],
   "entities": [
@@ -26243,13 +26380,32 @@
   "unplaced": "At sea in the Arctic.",
   "related_stories": [
    "2022-02-04-no-limits",
+   "2026-01-21-greenland-davos",
+   "2025-01-07-trump-greenland-panama",
+   "2025-01-10-nsr-record",
    "saudi-blames-iran-eu-gcc-postponed",
    "trump-waives-russia-sanctions",
    "2026-02-05-new-start-expires",
    "2026-09-18-graham-act-signed",
    "2025-11-06-c5-plus-1-summit",
-   "2026-01-21-greenland-davos",
-   "2025-01-10-nsr-record"
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
+  ],
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -26286,6 +26442,11 @@
     "story": "2024-03-18-gaza-famine-warning",
     "why": "Starvation charge",
     "confidence": "likely"
+   },
+   {
+    "story": "2002-07-01-icc-founded",
+    "why": "Victims and small states gained a standing court, while the leaders it later indicted lost freedom to travel.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -26300,7 +26461,20 @@
   ],
   "related_stories": [
    "2024-03-18-gaza-famine-warning",
-   "2025-03-18-gaza-war-resumes"
+   "2002-07-01-icc-founded",
+   "2025-03-18-gaza-war-resumes",
+   "gaza-drone-strikes-oct17",
+   "2021-05-10-gaza-war",
+   "2014-07-08-gaza-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -27318,6 +27492,11 @@
     "story": "2024-10-02-china-coast-guard-arctic",
     "why": "Sino-Russian Arctic cooperation",
     "confidence": "possible"
+   },
+   {
+    "story": "2007-08-02-arktika-flag",
+    "why": "Russia gained a stronger Arctic shelf-claim narrative at the expense of rival claimants Canada and Denmark.",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -27329,7 +27508,17 @@
   "marker": "energy",
   "unplaced": "Route spans the Russian Arctic.",
   "related_stories": [
-   "2024-10-02-china-coast-guard-arctic"
+   "2024-10-02-china-coast-guard-arctic",
+   "2007-08-02-arktika-flag"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -33390,6 +33579,18 @@
   ],
   "related_stories": [
    "2024-06-04-modi-loses-majority"
+  ],
+  "storylines": [
+   "south-asia-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -35325,6 +35526,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Global_minimum_corporate_tax_rate"
+   },
+   {
+    "name": "US Treasury",
+    "url": "https://home.treasury.gov/news/press-releases/sb0181"
    }
   ],
   "entities": [
@@ -35341,6 +35546,19 @@
   "related_stories": [
    "2022-02-26-swift-cbr",
    "2022-09-02-price-cap"
+  ],
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -35756,6 +35974,11 @@
     "story": "2022-02-24-invasion",
     "why": "War crimes in the invasion",
     "confidence": "likely"
+   },
+   {
+    "story": "2002-07-01-icc-founded",
+    "why": "Victims and small states gained a standing court, while the leaders it later indicted lost freedom to travel.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -35770,6 +35993,7 @@
   ],
   "related_stories": [
    "2022-02-24-invasion",
+   "2002-07-01-icc-founded",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-21-recognition",
@@ -35783,7 +36007,18 @@
    "russia-332-drone-energy-strike",
    "graham-waiver-bipartisan-backlash",
    "2021-04-01-russia-spring-buildup",
-   "2021-07-12-putin-unity-essay"
+   "2021-07-12-putin-unity-essay",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -38462,13 +38697,23 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings"
+   },
+   {
+    "name": "France 24 (AFP)",
+    "url": "https://www.france24.com/en/20190315-breiviks-shadow-hangs-heavy-over-christchurch-attack"
    }
   ],
   "entities": [
    "new-zealand",
    "jacinda-ardern"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2011-07-22-norway-attacks",
+    "why": "The gunman claimed inspiration from Breivik, and the attack's aftermath let Ardern and gun-control advocates gain a buyback while New Zealand gun owners lost.",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2019-03-31",
   "era": "2019 (maximum pressure)",
@@ -38476,7 +38721,23 @@
   "where": [
    "christchurch"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2011-07-22-norway-attacks"
+  ],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link; Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines",
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2019-04-02-bouteflika-resigns",
@@ -39646,7 +39907,13 @@
    "who",
    "drc"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2014-08-08-ebola-emergency",
+    "why": "Merck gained as the vaccine proven in Guinea's 2015 trial was deployed in Congo, while West African economies bore the losses.",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2019-09-30",
   "storylines": [
@@ -39657,7 +39924,18 @@
   "where": [
    "goma"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2014-08-08-ebola-emergency"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2019-10-01-iraq-protests",
@@ -41866,6 +42144,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Prespa_Agreement"
+   },
+   {
+    "name": "NATO",
+    "url": "https://www.nato.int/cps/en/natohq/news_174589.htm"
    }
   ],
   "entities": [
@@ -41882,7 +42164,20 @@
   "where": [
    "lake-prespa"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2018-06-24-erdogan-executive-president",
@@ -42214,7 +42509,13 @@
    "pakistan",
    "imran-khan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2016-04-03-panama-papers",
+    "why": "Imran Khan gained by pressing the Panama Papers case that disqualified his rival Nawaz Sharif in 2017.",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-09-30",
   "storylines": [
@@ -42226,7 +42527,17 @@
    "islamabad"
   ],
   "related_stories": [
+   "2016-04-03-panama-papers",
    "2022-04-10-imran-khan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -43189,13 +43500,23 @@
   "effects": [],
   "batch": "inbox-2018-12-31",
   "storylines": [
-   "sudan-war"
+   "sudan-war",
+   "food-shocks-unrest"
   ],
   "era": "2018 (trade war and summitry)",
   "marker": "political",
   "unplaced": "Nationwide protests.",
   "related_stories": [
    "2019-04-11-bashir-ousted"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -46013,6 +46334,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore"
+   },
+   {
+    "name": "Dawn",
+    "url": "https://www.dawn.com/news/1348191"
    }
   ],
   "entities": [
@@ -46024,7 +46349,22 @@
   "era": "2016 (Brexit and Trump)",
   "marker": "political",
   "unplaced": "Global leak.",
-  "related_stories": []
+  "related_stories": [
+   "2018-07-25-imran-khan-elected"
+  ],
+  "storylines": [
+   "south-asia-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2016-04-25-vision-2030",
@@ -47202,7 +47542,19 @@
   "where": [
    "new-delhi"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "south-asia-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2016-11-25-fidel-castro-dies",
@@ -47642,7 +47994,13 @@
    "france",
    "al-qaeda"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-02-04-cartoon-protests",
+    "why": "Islamist mobilisers gained from the cartoon furore, and Charlie Hebdo, which republished the cartoons in 2006, became their target.",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2015-03-31",
   "storylines": [
@@ -47653,7 +48011,18 @@
   "where": [
    "paris"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-02-04-cartoon-protests"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-01-22-houthis-oust-hadi",
@@ -48372,6 +48741,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_Nepal_blockade"
    }
   ],
   "entities": [
@@ -48387,7 +48760,20 @@
   "where": [
    "kathmandu"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "south-asia-security"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-04-26-burundi-third-term",
@@ -49092,6 +49478,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/business/2015/sep/18/epa-california-investigate-volkswagen-clean-air-violations"
+   },
+   {
+    "name": "Volkswagen Group chronicle",
+    "url": "https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/2016-until-today-on-the-road-to-emission-free-mobility-17361"
    }
   ],
   "entities": [
@@ -49105,7 +49495,20 @@
   "era": "2015 (refugees, Iran deal, Russia in Syria)",
   "marker": "political",
   "unplaced": "Regulatory notice.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-minerals-leverage"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-09-28-taliban-take-kunduz",
@@ -51001,6 +51404,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/world/2014/aug/06/ebola-outbreak-nurse-nigeria-dies"
+   },
+   {
+    "name": "WHO",
+    "url": "https://www.who.int/news/item/18-10-2019-major-milestone-for-who-supported-ebola-vaccine"
    }
   ],
   "entities": [
@@ -51015,7 +51422,22 @@
   "era": "2014 (Crimea and the caliphate)",
   "marker": "political",
   "unplaced": "Region-wide epidemic.",
-  "related_stories": []
+  "related_stories": [
+   "2019-07-17-ebola-emergency"
+  ],
+  "storylines": [
+   "covid-shock"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2014-08-09-ferguson",
@@ -52464,6 +52886,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/world/2013/apr/24/bangladesh-building-collapse-kills-garment-workers"
+   },
+   {
+    "name": "USTR",
+    "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2013/june/michael-froman-gsp-bangladesh"
    }
   ],
   "entities": [
@@ -52477,7 +52903,20 @@
   "where": [
    "savar"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2013-05-11-sharif-wins",
@@ -53258,6 +53697,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/global-development/2013/nov/08/philippines-rescue-services-typhoon-haiyan"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_United_Nations_Climate_Change_Conference"
    }
   ],
   "entities": [
@@ -53271,7 +53714,20 @@
   "where": [
    "tacloban"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2013-11-21-euromaidan",
@@ -54397,6 +54853,11 @@
     "story": "2011-02-11-mubarak-resigns",
     "why": "Post-Mubarak election",
     "confidence": "likely"
+   },
+   {
+    "story": "2005-09-07-egypt-multicandidate-election",
+    "why": "The Muslim Brotherhood gained, winning 88 seats in 2005 in a preview of its 2012 victory.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -54411,6 +54872,7 @@
   ],
   "related_stories": [
    "2011-02-11-mubarak-resigns",
+   "2005-09-07-egypt-multicandidate-election",
    "2012-11-22-morsi-decree",
    "2013-07-03-morsi-ousted"
   ],
@@ -54418,6 +54880,13 @@
    {
     "edition": "2011-12-31",
     "why": "2011 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
     "fields": [
      "causes"
     ]
@@ -55406,7 +55875,8 @@
   "effects": [],
   "batch": "inbox-2012-12-31",
   "storylines": [
-   "korean-peninsula"
+   "korean-peninsula",
+   "space-strategic-prestige"
   ],
   "era": "2012 (Xi's rise, Mali, whatever it takes)",
   "marker": "military",
@@ -55429,6 +55899,13 @@
     "why": "2010 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -55753,6 +56230,16 @@
     "story": "2010-06-06-khaled-said",
     "why": "Spark of the protests",
     "confidence": "likely"
+   },
+   {
+    "story": "2010-08-05-russia-wildfires",
+    "why": "Rival wheat exporters gained from Russia's 2010 export ban, while bread-importing regimes such as Egypt's lost as prices rose.",
+    "confidence": "possible"
+   },
+   {
+    "story": "2008-04-food-price-crisis",
+    "why": "Egypt's April 6 activist network, founded to back the 2008 Mahalla strike, gained, while import-dependent regimes lost.",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -55768,12 +56255,21 @@
   "related_stories": [
    "2011-01-14-ben-ali-flees",
    "2010-06-06-khaled-said",
+   "2010-08-05-russia-wildfires",
+   "2008-04-food-price-crisis",
    "2012-06-24-morsi-wins"
   ],
   "revisions": [
    {
     "edition": "2010-12-31",
     "why": "2010 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
     "fields": [
      "causes"
     ]
@@ -56058,6 +56554,11 @@
     "story": "2011-02-15-libya-uprising",
     "why": "Protect civilians in Benghazi",
     "confidence": "likely"
+   },
+   {
+    "story": "2007-05-06-sarkozy-elected",
+    "why": "Gaddafi gained a Western sponsor in Sarkozy, who then led the 2011 strikes that toppled him.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -56072,6 +56573,8 @@
   ],
   "related_stories": [
    "2011-02-15-libya-uprising",
+   "2007-05-06-sarkozy-elected",
+   "2011-08-20-fall-of-tripoli",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-04-no-limits",
@@ -56095,7 +56598,21 @@
    "2015-12-12-paris-climate-agreement",
    "2014-09-05-nato-wales-2pct",
    "2013-11-24-iran-interim-deal",
-   "2011-08-20-fall-of-tripoli"
+   "2010-02-13-marjah-offensive",
+   "2009-09-25-fordow-revealed",
+   "2007-02-10-putin-munich-speech",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin",
+   "2003-12-19-libya-gives-up-wmd"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -56484,12 +57001,22 @@
   "effects": [],
   "batch": "inbox-2011-09-30",
   "storylines": [
-   "horn-of-africa-tigray"
+   "horn-of-africa-tigray",
+   "food-shocks-unrest"
   ],
   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
   "marker": "political",
   "unplaced": "Southern Somalia.",
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2011-07-22-norway-attacks",
@@ -56524,7 +57051,9 @@
   "where": [
    "utoya"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2019-03-15-christchurch-shootings"
+  ]
  },
  {
   "id": "2011-07-29-fsa-formed",
@@ -58033,7 +58562,13 @@
    "united-kingdom",
    "david-cameron"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-06-27-brown-succeeds-blair",
+    "why": "Cameron gained when the financial crisis on Brown's watch produced the 2010 hung parliament, and Labour lost power.",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2010-06-30",
   "storylines": [
@@ -58045,7 +58580,17 @@
    "london"
   ],
   "related_stories": [
+   "2007-06-27-brown-succeeds-blair",
    "2016-06-23-brexit-referendum"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -58427,6 +58972,10 @@
    {
     "name": "The Guardian",
     "url": "https://www.theguardian.com/world/2010/aug/06/russia-fires-moscow"
+   },
+   {
+    "name": "Weather and Climate Extremes (ScienceDirect)",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212094721000736"
    }
   ],
   "entities": [
@@ -58441,7 +58990,23 @@
   "where": [
    "moscow"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2011-02-11-mubarak-resigns"
+  ],
+  "storylines": [
+   "gulf-realignment",
+   "food-shocks-unrest"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2010-08-24-san-fernando-massacre",
@@ -58717,6 +59282,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Liu_Xiaobo"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/China%E2%80%93Norway_relations"
    }
   ],
   "entities": [
@@ -58732,7 +59301,20 @@
   "where": [
    "oslo"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2010-10-13-chile-miners-rescued",
@@ -59497,7 +60079,7 @@
    },
    {
     "story": "2002-07-01-icc-founded",
-    "why": "ICC",
+    "why": "Victims and small states gained a standing court, while the leaders it later indicted lost freedom to travel.",
     "confidence": "likely"
    }
   ],
@@ -59527,6 +60109,13 @@
    {
     "edition": "2002-12-31",
     "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Who-gains wording for existing cause",
     "fields": [
      "causes"
     ]
@@ -60177,6 +60766,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/1st_BRIC_summit"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/BRICS"
    }
   ],
   "entities": [
@@ -60195,10 +60788,23 @@
    "yekaterinburg"
   ],
   "related_stories": [
+   "2023-08-24-brics-expansion",
    "trump-waives-russia-sanctions",
    "2026-09-18-graham-act-signed",
-   "2023-08-24-brics-expansion",
    "2023-09-09-delhi-g20"
+  ],
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -61718,6 +62324,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2007%E2%80%932008_world_food_price_crisis"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/April_6_Youth_Movement"
    }
   ],
   "entities": [
@@ -61731,7 +62341,22 @@
   "marker": "political",
   "unplaced": "Global, with riots in many countries.",
   "related_stories": [
+   "2011-02-11-mubarak-resigns",
    "2010-12-17-bouazizi"
+  ],
+  "storylines": [
+   "gulf-realignment",
+   "food-shocks-unrest"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -61780,6 +62405,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sichuan_schools_corruption_scandal"
    }
   ],
   "entities": [
@@ -61793,7 +62422,20 @@
   "where": [
    "wenchuan"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-leadership"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-05-21-doha-agreement-lebanon",
@@ -63036,14 +63678,24 @@
   "effects": [],
   "batch": "inbox-2007-03-31",
   "storylines": [
-   "taiwan-indopacific"
+   "taiwan-indopacific",
+   "space-strategic-prestige"
   ],
   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
   "marker": "military",
   "where": [
    "xichang"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-02-10-putin-munich-speech",
@@ -63488,6 +64140,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2007_French_presidential_election"
+   },
+   {
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cp98kepmj9lo"
    }
   ],
   "entities": [
@@ -63509,7 +64165,8 @@
    "paris"
   ],
   "related_stories": [
-   "2005-10-27-french-riots"
+   "2005-10-27-french-riots",
+   "2011-03-19-libya-intervention"
   ],
   "revisions": [
    {
@@ -63518,7 +64175,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "sahel"
   ]
  },
  {
@@ -63587,6 +64255,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Gordon_Brown"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Premiership_of_Gordon_Brown"
    }
   ],
   "entities": [
@@ -63600,7 +64272,22 @@
   "where": [
    "london"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2010-05-11-cameron-coalition"
+  ],
+  "storylines": [
+   "global-financial-crisis"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-07-10-lal-masjid-siege",
@@ -63758,6 +64445,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Arktika_2007"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2007/aug/02/russia.arctic"
    }
   ],
   "entities": [
@@ -63769,7 +64460,22 @@
   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
   "marker": "diplomacy",
   "unplaced": "North Pole seabed.",
-  "related_stories": []
+  "related_stories": [
+   "2025-01-10-nsr-record"
+  ],
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-08-09-credit-crunch",
@@ -64645,6 +65351,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting"
    }
   ],
   "entities": [
@@ -64658,7 +65368,22 @@
   "where": [
    "copenhagen"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2015-01-07-charlie-hebdo"
+  ],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2006-02-22-samarra-mosque-bombing",
@@ -66911,6 +67636,11 @@
     "story": "2003-10-21-tehran-declaration",
     "why": "Hardliners opposed the freeze",
     "confidence": "possible"
+   },
+   {
+    "story": "2001-06-08-khatami-reelected",
+    "why": "Hardliners in Iran's unelected bodies gained by blocking Khatami's reforms and reaping voter disillusion in 2005.",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -66925,12 +67655,20 @@
   ],
   "related_stories": [
    "2003-10-21-tehran-declaration",
+   "2001-06-08-khatami-reelected",
    "2006-04-11-iran-enrichment-announced"
   ],
   "revisions": [
    {
     "edition": "2003-12-31",
     "why": "2003 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
     "fields": [
      "causes"
     ]
@@ -67333,6 +68071,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2005_Egyptian_presidential_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2005_Egyptian_parliamentary_election"
    }
   ],
   "entities": [
@@ -67348,7 +68090,22 @@
   "where": [
    "cairo"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2012-06-24-morsi-wins"
+  ],
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-09-08-nord-stream-deal",
@@ -67647,6 +68404,18 @@
   ],
   "related_stories": [
    "2007-05-06-sarkozy-elected"
+  ],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -67764,6 +68533,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2005_German_federal_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Angela_Merkel"
    }
   ],
   "entities": [
@@ -67778,7 +68551,20 @@
   "where": [
    "berlin"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-12-18-morales-elected",
@@ -67974,7 +68760,7 @@
   "causes": [
    {
     "story": "2003-12-19-libya-gives-up-wmd",
-    "why": "Libya's disclosures exposed Khan",
+    "why": "Bush and Blair gained a counter-proliferation win as Libya's disclosures exposed the A.Q. Khan network, which lost.",
     "confidence": "likely"
    }
   ],
@@ -67996,6 +68782,13 @@
    {
     "edition": "2003-12-31",
     "why": "2003 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Who-gains wording for existing cause",
     "fields": [
      "causes"
     ]
@@ -68155,7 +68948,13 @@
   "entities": [
    "spain"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2000-03-12-aznar-majority",
+    "why": "Zapatero gained when Aznar, who had used his majority to back the Iraq war, lost the 2004 election after the Madrid bombings.",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2004-03-31",
   "storylines": [
@@ -68166,7 +68965,18 @@
   "where": [
    "madrid"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2000-03-12-aznar-majority"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Analyst who-gains link",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2004-03-17-kosovo-unrest",
@@ -68465,6 +69275,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Abdelbaset_al-Megrahi"
    }
   ],
   "entities": [
@@ -68496,7 +69310,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "sahel"
   ]
  },
  {
@@ -70795,6 +71620,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Shenzhou_5"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chinese_space_program"
    }
   ],
   "entities": [
@@ -70808,7 +71637,21 @@
   "where": [
    "jiuquan"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-leadership",
+   "space-strategic-prestige"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2003-10-17-bolivia-gas-war",
@@ -71101,6 +71944,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+   },
+   {
+    "name": "Arms Control Association",
+    "url": "https://www.armscontrol.org/factsheets/LibyaChronology"
    }
   ],
   "entities": [
@@ -71136,7 +71983,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "south-asia-security"
   ]
  },
  {
@@ -72050,6 +72908,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+   },
+   {
+    "name": "International Criminal Court",
+    "url": "https://www.icc-cpi.int/about/the-court"
    }
   ],
   "entities": [
@@ -72064,7 +72926,24 @@
    "the-hague"
   ],
   "related_stories": [
+   "2024-11-21-icc-netanyahu-warrant",
+   "2023-03-17-icc-putin-warrant",
    "2009-03-04-icc-bashir-warrant"
+  ],
+  "storylines": [
+   "sudan-war",
+   "russia-ukraine",
+   "levant-wars"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -73393,6 +74272,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2001_Iranian_presidential_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mohammad_Khatami"
    }
   ],
   "entities": [
@@ -73407,7 +74290,22 @@
   "where": [
    "tehran"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2005-06-24-ahmadinejad-elected"
+  ],
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2001-06-15-sco-founded",
@@ -73723,6 +74621,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/World_Conference_against_Racism_2001"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions"
    }
   ],
   "entities": [
@@ -73738,7 +74640,20 @@
   "where": [
    "durban"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "levant-wars"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2001-09-09-massoud-assassinated",
@@ -74139,6 +75054,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Enron_scandal"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act"
    }
   ],
   "entities": [
@@ -74153,7 +75072,20 @@
   "where": [
    "houston"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2001-12-05-bonn-agreement",
@@ -74567,6 +75499,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2000_Iranian_legislative_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Iranian_legislative_election"
    }
   ],
   "entities": [
@@ -74581,7 +75517,20 @@
   "where": [
    "tehran"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2000-03-10-dotcom-peak",
@@ -74727,6 +75676,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2000_Spanish_general_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Spanish_general_election"
    }
   ],
   "entities": [
@@ -74740,7 +75693,22 @@
   "where": [
    "madrid"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-03-14-zapatero-wins"
+  ],
+  "storylines": [
+   "iraq-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-07",
+    "why": "Thread into storyline; Source for analyst link",
+    "fields": [
+     "sources",
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2000-04-elephant-pass",
