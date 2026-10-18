@@ -1,0 +1,913 @@
+{
+ "edition": "2016-12-31",
+ "stories": [
+  {
+   "id": "2016-10-02-colombia-referendum-farc-deal",
+   "date": "2016-10-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "Colombians narrowly reject the FARC peace deal; a revised accord is signed in November",
+   "summary": "Voters rejected it 50.2–49.8. President Juan Manuel Santos won the Nobel Peace Prize days later and signed a revised deal on Nov 24, which Congress approved.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Colombian_peace_agreement_referendum"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Colombian_peace_process"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/sections/thetwo-way/2016/11/24/503260533/colombia-and-farc-rebels-sign-revised-peace-deal"
+    }
+   ],
+   "entities": [
+    "colombia",
+    "farc",
+    "juan-manuel-santos"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "bogota"
+   ]
+  },
+  {
+   "id": "2016-10-07-russia-election-interference",
+   "date": "2016-10-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "US formally accuses Russia of hacking to interfere in the election",
+   "summary": "Intelligence agencies said Moscow was behind the DNC hack and leaks; WikiLeaks began releasing Clinton campaign emails the same day.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Democratic_National_Committee_cyber_attacks"
+    }
+   ],
+   "entities": [
+    "russia",
+    "united-states",
+    "vladimir-putin",
+    "hillary-clinton",
+    "donald-trump"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "unplaced": "Cyber operation."
+  },
+  {
+   "id": "2016-10-09-ethiopia-state-of-emergency",
+   "date": "2016-10-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Africa",
+   "title": "Ethiopia declares a state of emergency after Oromo and Amhara protests",
+   "summary": "Protests since 2015 over land and political exclusion paved the way for the 2018 rise of Abiy Ahmed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016%E2%80%932018_Ethiopian_state_of_emergency"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014%E2%80%932016_Oromo_protests"
+    }
+   ],
+   "entities": [
+    "ethiopia"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "unplaced": "Nationwide."
+  },
+  {
+   "id": "2016-10-17-mosul-offensive",
+   "date": "2016-10-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Iraqi and Kurdish forces launch the battle to retake Mosul",
+   "summary": "The US-backed offensive on the Islamic State's largest city lasted nine months.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Mosul_%282016%E2%80%932017%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/oct/17/iraqi-forces-begin-assault-on-isis-stronghold-mosul"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "islamic-state",
+    "united-states",
+    "kurdistan-region"
+   ],
+   "storylines": [
+    "isis-war",
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "mosul"
+   ]
+  },
+  {
+   "id": "2016-11-08-trump-elected",
+   "date": "2016-11-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "Donald Trump wins the US presidency in an upset over Hillary Clinton",
+   "summary": "He won the Electoral College while losing the popular vote, promising tariffs, curbs on immigration and an 'America First' foreign policy.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2016/nov/08/presidential-election-updates-trump-clinton-news"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "hillary-clinton",
+    "united-states"
+   ],
+   "storylines": [
+    "transatlantic-rift",
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2016-10-07-russia-election-interference",
+     "why": "Russian interference in the campaign",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2016-11-08-india-demonetisation",
+   "date": "2016-11-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Modi abolishes India's ₹500 and ₹1,000 notes overnight",
+   "summary": "The move to fight 'black money' removed most of the currency in circulation and caused months of cash shortages.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "marker": "political",
+   "where": [
+    "new-delhi"
+   ]
+  },
+  {
+   "id": "2016-11-25-fidel-castro-dies",
+   "date": "2016-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "Fidel Castro dies at 90",
+   "summary": "His brother Raúl had already been in charge since 2008 and had restored ties with the US in 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Fidel_Castro"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/nov/26/fidel-castro-dies-cuba-revolutionary-icon"
+    }
+   ],
+   "entities": [
+    "fidel-castro",
+    "cuba"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "havana"
+   ]
+  },
+  {
+   "id": "2016-12-10-opec-plus-formed",
+   "date": "2016-12",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "OPEC and Russia-led producers agree joint cuts, creating 'OPEC+'",
+   "summary": "After OPEC agreed its first cut in eight years, Russia and other non-members joined the deal in Vienna, a Saudi–Russian partnership that has managed supply ever since.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/OPEC"
+    }
+   ],
+   "entities": [
+    "opec",
+    "opec-plus",
+    "saudi-arabia",
+    "russia"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2016-01-20-oil-below-30",
+     "why": "Response to the price crash",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "energy",
+   "analysis": {
+    "text": "OPEC+ remains the main tool of Saudi–Russian oil cooperation, including the 2020 price war and record cut.",
+    "confidence": "likely"
+   },
+   "unplaced": "Agreed in Vienna."
+  },
+  {
+   "id": "2016-12-06-sirte-liberated",
+   "date": "2016-12-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Africa",
+   "title": "Libyan forces backed by US airstrikes drive the Islamic State from Sirte",
+   "summary": "The GNA-aligned Misrata brigades took the group's last stronghold in Libya after a months-long battle.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Sirte_%282016%29"
+    }
+   ],
+   "entities": [
+    "libya",
+    "gna-libya",
+    "islamic-state",
+    "united-states"
+   ],
+   "storylines": [
+    "isis-war",
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2016-03-30-gna-arrives-tripoli",
+     "why": "Unity government's forces led the battle",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "sirte"
+   ]
+  },
+  {
+   "id": "2016-12-09-park-impeached",
+   "date": "2016-12-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "South Korea's parliament impeaches President Park Geun-hye",
+   "summary": "Mass candlelight protests over her confidante Choi Soon-sil preceded the 234–56 vote.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Impeachment_of_Park_Geun-hye"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2016/12/09/world/asia/south-korea-president-park-geun-hye-impeached.html"
+    }
+   ],
+   "entities": [
+    "south-korea",
+    "park-geun-hye"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "political",
+   "where": [
+    "seoul"
+   ]
+  },
+  {
+   "id": "2016-12-19-karlov-assassinated",
+   "date": "2016-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Russia's ambassador to Turkey is shot dead in Ankara",
+   "summary": "An off-duty Turkish policeman killed Andrei Karlov, shouting about Aleppo; Moscow and Ankara drew closer despite it.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Andrei_Karlov"
+    },
+    {
+     "name": "CNN",
+     "url": "http://www.cnn.com/2016/12/19/europe/turkey-russian-ambassador-shot/index.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "turkey"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "ankara"
+   ]
+  },
+  {
+   "id": "2016-12-19-berlin-market-attack",
+   "date": "2016-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "Truck attack on a Berlin Christmas market kills 12",
+   "summary": "The attacker, a rejected Tunisian asylum seeker, pledged allegiance to the Islamic State; the attack fed the AfD's rise.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Berlin_truck_attack"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/dec/19/berlin-truck-crashes-into-christmas-market"
+    }
+   ],
+   "entities": [
+    "germany",
+    "islamic-state"
+   ],
+   "storylines": [
+    "isis-war",
+    "europe-populism"
+   ],
+   "marker": "strike",
+   "where": [
+    "breitscheidplatz"
+   ]
+  },
+  {
+   "id": "2016-12-22-aleppo-falls",
+   "date": "2016-12-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Assad's forces retake all of Aleppo with Russian and Iranian help",
+   "summary": "Evacuation of the last rebel-held districts ended the four-year battle, the war's biggest turning point until 2024.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_%282012%E2%80%932016%29"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/world/endgame-in-aleppo-the-most-decisive-battle-yet-in-syrias-war/2016/12/13/eff36c3a-c16c-11e6-92e8-c07f4f671da4_story.html"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad",
+    "russia",
+    "iran",
+    "hezbollah"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "aleppo"
+   ]
+  },
+  {
+   "id": "2016-11-04-paris-agreement-in-force",
+   "date": "2016-11-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "The Paris climate agreement enters into force",
+   "summary": "EU ratification put it over the threshold less than a year after the 2015 deal; Trump began withdrawing the US in 2017.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Paris_Agreement"
+    }
+   ],
+   "entities": [
+    "paris-agreement",
+    "european-union",
+    "united-states",
+    "china"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "International treaty."
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2017-01-20-trump-inaugurated",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-11-08-trump-elected",
+     "why": "Election win",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-01-23-astana-talks",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-12-22-aleppo-falls",
+     "why": "Russia and Turkey brokered the Aleppo evacuation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-03-29-article-50",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-06-23-brexit-referendum",
+     "why": "Implemented the referendum result",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-03-10-park-removed",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-12-09-park-impeached",
+     "why": "Court upheld impeachment",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-04-16-turkey-referendum",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-07-15-turkey-coup-attempt",
+     "why": "Erdoğan used the post-coup emergency",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-06-21-mbs-crown-prince",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-04-25-vision-2030",
+     "why": "MBS's rise as reform architect",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2017-07-10-mosul-liberated",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-10-17-mosul-offensive",
+     "why": "End of the offensive",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-09-03-north-korea-sixth-nuclear-test",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2017-07-04-hwasong-14-icbm",
+     "why": "Weapons push",
+     "confidence": "likely"
+    },
+    {
+     "story": "2016-01-06-north-korea-fourth-test",
+     "why": "Continued testing",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-09-24-afd-enters-bundestag",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-12-19-berlin-market-attack",
+     "why": "Backlash over migration and security",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2018-04-02-abiy-pm",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-10-09-ethiopia-state-of-emergency",
+     "why": "Protests forced Hailemariam out",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-02-14-pulwama-attack",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-09-18-uri-attack",
+     "why": "Earlier JeM attack and Indian retaliation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-02-26-balakot-strike",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-02-14-pulwama-attack",
+     "why": "Retaliation for Pulwama",
+     "confidence": "likely"
+    },
+    {
+     "story": "2016-09-18-uri-attack",
+     "why": "Escalated from 2016 surgical strikes",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-05-08-us-quits-jcpoa",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2017-01-20-trump-inaugurated",
+     "why": "Trump campaign pledge",
+     "confidence": "likely"
+    },
+    {
+     "story": "2016-01-16-jcpoa-implementation",
+     "why": "Deal in force",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-03-09-oil-price-war",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-12-10-opec-plus-formed",
+     "why": "Collapse of the OPEC+ alliance",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-01-20-operation-olive-branch",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2017-10-17-raqqa-falls",
+     "why": "With IS beaten, Turkey turned on the YPG",
+     "confidence": "possible"
+    },
+    {
+     "story": "2017-01-23-astana-talks",
+     "why": "Russia–Turkey bargaining over Syria",
+     "confidence": "possible"
+    },
+    {
+     "story": "2016-08-24-euphrates-shield",
+     "why": "Second Turkish incursion",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-12-11-aramco-ipo",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-09-14-abqaiq-attack",
+     "why": "Listing went ahead weeks after the attack",
+     "confidence": "possible"
+    },
+    {
+     "story": "2016-04-25-vision-2030",
+     "why": "IPO was a Vision 2030 pillar",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-03-10-saudi-iran-beijing",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2022-04-02-yemen-truce",
+     "why": "The Yemen truce eased the Saudi–Iran confrontation",
+     "confidence": "possible"
+    },
+    {
+     "story": "2016-01-02-nimr-executed-saudi-iran-split",
+     "why": "Restored ties cut in 2016",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-01-11-tsai-reelected",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-06-09-hong-kong-protests",
+     "why": "Hong Kong crackdown boosted Tsai",
+     "confidence": "likely"
+    },
+    {
+     "story": "2019-01-02-xi-taiwan-speech",
+     "why": "Voters rejected 'one country, two systems'",
+     "confidence": "possible"
+    },
+    {
+     "story": "2016-05-20-tsai-inaugurated",
+     "why": "Re-election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-06-01-us-quits-paris-agreement",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2016-11-04-paris-agreement-in-force",
+     "why": "Withdrew from the treaty in force",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2023-08-30-gabon-coup",
+   "why": "2016 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2023-07-26-niger-coup",
+     "why": "Coup wave",
+     "confidence": "possible"
+    },
+    {
+     "story": "2016-08-31-bongo-reelected",
+     "why": "Disputed Bongo rule",
+     "confidence": "likely"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "russia--alliance--syria",
+   "a": "russia",
+   "b": "syria",
+   "type": "alliance",
+   "start": "2015",
+   "end": null,
+   "stated": "Russia defends a legitimate government against terrorists",
+   "actual": "Russian air power saved Assad until his 2024 fall",
+   "confidence": "likely",
+   "evidence": [
+    "2016-12-22-aleppo-falls",
+    "2018-06-19-southern-syria-offensive"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2016-10-02-colombia-referendum-farc-deal",
+    "2016-11-25-fidel-castro-dies"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2016-10-07-russia-election-interference"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2016-10-09-ethiopia-state-of-emergency"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2016-10-17-mosul-offensive",
+    "2016-12-06-sirte-liberated",
+    "2016-12-19-berlin-market-attack"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2016-10-17-mosul-offensive",
+    "2016-12-19-karlov-assassinated",
+    "2016-12-22-aleppo-falls"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2016-11-08-trump-elected"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2016-11-08-trump-elected"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2016-12-10-opec-plus-formed"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2016-12-06-sirte-liberated"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2016-12-09-park-impeached"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2016-12-19-berlin-market-attack"
+   ]
+  }
+ ]
+}
