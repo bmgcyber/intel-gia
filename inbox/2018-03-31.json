@@ -1,0 +1,703 @@
+{
+ "edition": "2018-03-31",
+ "entities": [
+  {
+   "id": "andres-manuel-lopez-obrador",
+   "name": "Andrés Manuel López Obrador",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador"
+  },
+  {
+   "id": "cyril-ramaphosa",
+   "name": "Cyril Ramaphosa",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa"
+  },
+  {
+   "id": "zimbabwe",
+   "name": "Zimbabwe",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zimbabwe"
+  },
+  {
+   "id": "emmerson-mnangagwa",
+   "name": "Emmerson Mnangagwa",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emmerson_Mnangagwa"
+  },
+  {
+   "id": "malaysia",
+   "name": "Malaysia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Malaysia"
+  },
+  {
+   "id": "mahathir-mohamad",
+   "name": "Mahathir Mohamad",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahathir_Mohamad"
+  },
+  {
+   "id": "meng-wanzhou",
+   "name": "Meng Wanzhou",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meng_Wanzhou"
+  },
+  {
+   "id": "zte",
+   "name": "ZTE",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/ZTE"
+  },
+  {
+   "id": "jamal-khashoggi",
+   "name": "Jamal Khashoggi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jamal_Khashoggi"
+  },
+  {
+   "id": "sergei-skripal",
+   "name": "Sergei Skripal",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Skripal"
+  },
+  {
+   "id": "central-african-republic",
+   "name": "Central African Republic",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Central_African_Republic"
+  },
+  {
+   "id": "nord-stream-2",
+   "name": "Nord Stream 2",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nord_Stream_2"
+  },
+  {
+   "id": "hassan-rouhani",
+   "name": "Hassan Rouhani",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hassan_Rouhani"
+  },
+  {
+   "id": "north-macedonia",
+   "name": "North Macedonia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/North_Macedonia"
+  },
+  {
+   "id": "isaias-afwerki",
+   "name": "Isaias Afwerki",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaias_Afwerki"
+  },
+  {
+   "id": "ypg",
+   "name": "People's Defense Units (YPG)",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/People%27s_Defense_Units"
+  },
+  {
+   "id": "nafta-usmca",
+   "name": "USMCA (NAFTA successor)",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement"
+  },
+  {
+   "id": "theresa-may",
+   "name": "Theresa May",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theresa_May"
+  },
+  {
+   "id": "singapore",
+   "name": "Singapore",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Singapore"
+  },
+  {
+   "id": "salisbury",
+   "name": "Salisbury",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salisbury",
+   "lat": 51.06972222,
+   "lon": -1.795,
+   "precision": "city"
+  },
+  {
+   "id": "khasham",
+   "name": "Khasham",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Khasham",
+   "lat": 35.29861111,
+   "lon": 40.29333333,
+   "precision": "city"
+  },
+  {
+   "id": "asmara",
+   "name": "Asmara",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Asmara",
+   "lat": 15.33583333,
+   "lon": 38.94111111,
+   "precision": "city"
+  },
+  {
+   "id": "sentosa",
+   "name": "Sentosa, Singapore",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sentosa",
+   "lat": 1.248,
+   "lon": 103.83,
+   "precision": "city"
+  },
+  {
+   "id": "kerch-strait",
+   "name": "Kerch Strait",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kerch_Strait",
+   "lat": 45.25,
+   "lon": 36.5,
+   "precision": "feature"
+  },
+  {
+   "id": "dahyan",
+   "name": "Dahyan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dahyan",
+   "lat": 17.06111111,
+   "lon": 43.60388889,
+   "precision": "city"
+  },
+  {
+   "id": "yerevan",
+   "name": "Yerevan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yerevan",
+   "lat": 40.17777778,
+   "lon": 44.51277778,
+   "precision": "city"
+  },
+  {
+   "id": "vancouver-airport",
+   "name": "Vancouver International Airport",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vancouver_International_Airport",
+   "lat": 49.19472222,
+   "lon": -123.1825,
+   "precision": "feature"
+  },
+  {
+   "id": "daraa",
+   "name": "Daraa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daraa",
+   "lat": 32.62527778,
+   "lon": 36.10611111,
+   "precision": "city"
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mexico_City",
+   "lat": 19.43333333,
+   "lon": -99.13333333,
+   "precision": "city"
+  },
+  {
+   "id": "pyeongchang",
+   "name": "Pyeongchang County",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pyeongchang_County",
+   "lat": 37.36666667,
+   "lon": 128.4,
+   "precision": "city"
+  },
+  {
+   "id": "istanbul",
+   "name": "Istanbul",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Istanbul",
+   "lat": 41.01361111,
+   "lon": 28.955,
+   "precision": "city"
+  },
+  {
+   "id": "lake-prespa",
+   "name": "Lake Prespa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lake_Prespa",
+   "lat": 40.9,
+   "lon": 21.03333333,
+   "precision": "feature"
+  },
+  {
+   "id": "harare",
+   "name": "Harare",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harare",
+   "lat": -17.82916667,
+   "lon": 31.05222222,
+   "precision": "city"
+  },
+  {
+   "id": "bangui",
+   "name": "Bangui",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bangui",
+   "lat": 4.37333333,
+   "lon": 18.56277778,
+   "precision": "city"
+  },
+  {
+   "id": "us-embassy-jerusalem",
+   "name": "US Embassy, Jerusalem",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Jerusalem",
+   "lat": 31.74777778,
+   "lon": 35.22472222,
+   "precision": "feature"
+  },
+  {
+   "id": "pretoria",
+   "name": "Pretoria",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pretoria",
+   "lat": -25.74611111,
+   "lon": 28.18805556,
+   "precision": "city"
+  },
+  {
+   "id": "addis-ababa",
+   "name": "Addis Ababa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Addis_Ababa",
+   "lat": 9.03583333,
+   "lon": 38.7525,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2018-01-20-operation-olive-branch",
+   "date": "2018-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Turkey invades Syria's Kurdish-held Afrin region",
+   "summary": "Turkish troops and allied Syrian militias attacked the YPG, the core of the US-backed SDF, and took Afrin city on Mar 18.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2018/01/20/middleeast/turkey-syria-military-operation/index.html"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan",
+    "ypg",
+    "sdf",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "unplaced": "Afrin has no coordinates on Wikipedia."
+  },
+  {
+   "id": "2018-02-07-battle-of-khasham",
+   "date": "2018-02-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "US strikes kill Russian Wagner mercenaries attacking an SDF base near Khasham",
+   "summary": "Pro-Assad forces including Wagner contractors attacked an SDF and US position near the Conoco gas field; US air and artillery strikes killed many attackers.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Khasham"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2018/02/07/politics/us-strikes-pro-regime-forces-syria/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "wagner-group",
+    "sdf",
+    "russia",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "khasham"
+   ]
+  },
+  {
+   "id": "2018-02-09-pyeongchang-olympic-thaw",
+   "date": "2018-02-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "North Korea joins the Pyeongchang Winter Olympics, opening a diplomatic thaw",
+   "summary": "Kim Jong Un's sister Kim Yo Jong attended the opening, months after North Korea's 2017 hydrogen-bomb and ICBM tests.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Winter_Olympics"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/feb/09/kim-jong-uns-sister-arrives-in-south-korea-for-winter-olympics"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "south-korea",
+    "kim-jong-un",
+    "moon-jae-in"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pyeongchang"
+   ]
+  },
+  {
+   "id": "2018-02-15-ramaphosa-president",
+   "date": "2018-02-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Cyril Ramaphosa replaces Jacob Zuma as South Africa's president",
+   "summary": "The ANC forced Zuma out amid corruption scandals; Ramaphosa promised to clean up 'state capture'.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/feb/16/cyril-ramaphosa-south-africa-president-first-major-speech"
+    }
+   ],
+   "entities": [
+    "south-africa",
+    "cyril-ramaphosa"
+   ],
+   "marker": "political",
+   "where": [
+    "pretoria"
+   ]
+  },
+  {
+   "id": "2018-02-18-eastern-ghouta-assault",
+   "date": "2018-02-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Assad's forces launch the final assault on rebel-held Eastern Ghouta",
+   "summary": "The bombardment of the besieged enclave outside Damascus killed hundreds; the UN Security Council demanded a ceasefire on Feb 24, but the offensive went on until the rebels surrendered in April.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Eastern_Ghouta"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/feb/20/its-not-a-war-its-a-massacre-scores-killed-in-syrian-enclave-eastern-ghouta"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2018-03-04-skripal-poisoning",
+   "date": "2018-03-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "Former spy Sergei Skripal is poisoned with Novichok in Salisbury",
+   "summary": "Britain blamed Russia's GRU; the UK and its allies expelled more than 150 Russian diplomats.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2018/mar/07/russian-spy-police-appeal-for-witnesses-as-cobra-meeting-takes-place"
+    }
+   ],
+   "entities": [
+    "sergei-skripal",
+    "russia",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "salisbury"
+   ]
+  },
+  {
+   "id": "2018-03-04-italy-populist-vote",
+   "date": "2018-03-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "Populists win Italy's election; a Five Star–League government follows",
+   "summary": "The anti-establishment Five Star Movement came first and Matteo Salvini's League led the right. On June 1 they formed a coalition under Giuseppe Conte.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Italian_general_election"
+    }
+   ],
+   "entities": [
+    "italy",
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2018-03-08-steel-aluminum-tariffs",
+   "date": "2018-03-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Trump imposes 25% steel and 10% aluminium tariffs on national-security grounds",
+   "summary": "The Section 232 tariffs hit allies as well as China; the EU, Canada and Mexico retaliated.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump",
+    "china",
+    "european-union",
+    "canada",
+    "mexico"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "transatlantic-rift"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2018-03-11-xi-term-limits-scrapped",
+   "date": "2018-03-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Asia-Pacific",
+   "title": "China scraps presidential term limits, letting Xi rule indefinitely",
+   "summary": "The National People's Congress approved the constitutional amendment, ending the post-Deng two-term norm.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_amendment_to_the_Constitution_of_China"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2018/03/11/world/asia/china-xi-constitution-term-limits.html"
+    }
+   ],
+   "entities": [
+    "china",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2018-03-18-putin-reelected",
+   "date": "2018-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Russia/Eurasia",
+   "title": "Putin wins a fourth term with no serious opponent",
+   "summary": "Alexei Navalny was barred from running, and observers reported ballot stuffing.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Russian_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/mar/17/russian-police-put-the-squeeze-on-election-observers-before-vote"
+    }
+   ],
+   "entities": [
+    "vladimir-putin",
+    "russia",
+    "alexei-navalny"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2018-01-20-operation-olive-branch",
+    "2018-02-07-battle-of-khasham",
+    "2018-02-18-eastern-ghouta-assault"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2018-02-09-pyeongchang-olympic-thaw"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2018-03-04-skripal-poisoning",
+    "2018-03-18-putin-reelected"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2018-03-04-italy-populist-vote"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2018-03-08-steel-aluminum-tariffs"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2018-03-08-steel-aluminum-tariffs"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2018-03-11-xi-term-limits-scrapped"
+   ]
+  }
+ ]
+}
