@@ -1,0 +1,342 @@
+{
+ "edition": "2023-06-30",
+ "stories": [
+  {
+   "id": "2023-04-04-finland-joins-nato",
+   "date": "2023-04-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Europe",
+   "title": "Finland joins NATO, doubling the alliance's border with Russia",
+   "summary": "Finland became NATO's 31st member after Turkey ratified its accession. Sweden followed in March 2024.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2023/04/04/europe/finland-joins-nato-intl/index.html"
+    },
+    {
+     "name": "US State Department (protocol)",
+     "url": "https://www.state.gov/wp-content/uploads/2023/04/website-38-Protocol-to-the-North-Atlantic-Treaty-on-the-Accession-of-the-Republic-of-Finland.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Finland–NATO_relations"
+    }
+   ],
+   "entities": [
+    "finland",
+    "nato",
+    "sweden",
+    "turkey"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2022-05-18-finland-sweden",
+     "why": "Completes the 2022 applications",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Ceremony in Brussels."
+  },
+  {
+   "id": "2023-04-15-sudan-war-begins",
+   "date": "2023-04-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Africa",
+   "title": "War erupts in Sudan between the army and the RSF",
+   "summary": "A power struggle between army chief Burhan and RSF leader Hemedti, partners in the 2021 coup, turned into full war in Khartoum and Darfur, starting what the UN would call the world's largest displacement crisis.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/sudans-hemedti-carved-route-power-by-crushing-darfur-revolt-2023-04-15/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/apr/25/sudan-conflict-why-is-there-fighting-what-is-happening"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present)"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "sudanese-armed-forces",
+    "rsf"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2021-10-25-sudan-coup",
+     "why": "The coup partners fell out",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "khartoum"
+   ]
+  },
+  {
+   "id": "2023-05-20-bakhmut-falls",
+   "date": "2023-05-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Russia/Eurasia",
+   "title": "Wagner claims Bakhmut after the war's longest battle",
+   "summary": "Prigozhin declared full control of the ruined city after about ten months of fighting that cost both sides heavily, while feuding publicly with Russia's defence ministry.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/russias-prigozhin-claims-full-control-bakhmut-2023-05-20/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/5/20/russias-prigozhin-claims-complete-capture-of-bakhmut"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Bakhmut"
+    }
+   ],
+   "entities": [
+    "wagner-group",
+    "yevgeny-prigozhin",
+    "russia",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "bakhmut"
+   ]
+  },
+  {
+   "id": "2023-05-28-erdogan-reelected",
+   "date": "2023-05-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Erdoğan wins a runoff to extend his rule into a third decade",
+   "summary": "Despite the earthquake and an inflation crisis, Erdoğan beat Kemal Kılıçdaroğlu in the second round. He then switched to orthodox economic policy.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/5/28/turkey-presidential-election-results-3"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Turkish_presidential_election"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "causes": [
+    {
+     "story": "2023-02-06-turkey-syria-quake",
+     "why": "Election held in the quake's aftermath",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2023-06-06-kakhovka-dam",
+   "date": "2023-06-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Russia/Eurasia",
+   "title": "Kakhovka dam destroyed, flooding the lower Dnipro",
+   "summary": "The Russian-held dam was breached, flooding towns in Kherson oblast and draining the reservoir that cools the Zaporizhzhia nuclear plant. Ukraine blamed Russian demolition.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/destruction-kakhovka-dam-takes-ukraine-war-into-uncharted-territory-2023-06-06/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/6/6/ukraine-says-russian-forces-blew-up-nova-kakhovka-dam-in-kherson"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/jun/06/ukraine-accuses-russia-of-blowing-up-nova-kakhovka-dam-near-kherson"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia",
+    "zaporizhzhia-npp"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2022-11-11-kherson-liberated",
+     "why": "The dam sat on the post-Kherson front line",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "kakhovka-dam"
+   ]
+  },
+  {
+   "id": "2023-06-04-counteroffensive",
+   "date": "2023-06-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Russia/Eurasia",
+   "title": "Ukraine's 2023 counter-offensive stalls in Russian minefields",
+   "summary": "From early June, Western-equipped brigades attacked toward Zaporizhzhia oblast but made only small gains against deep Russian defences. By year-end the war had settled into attrition.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/ukraines-military-urges-silence-ahead-expected-counteroffensive-2023-06-04/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/6/5/russia-claims-to-have-thwarted-major-ukraine-attack"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Ukrainian_counteroffensive"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia",
+    "nato"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2022-06-23-himars",
+     "why": "Western arms flow",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Southern front in Zaporizhzhia oblast."
+  },
+  {
+   "id": "2023-06-24-prigozhin-mutiny",
+   "date": "2023-06-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Russia/Eurasia",
+   "title": "Prigozhin's Wagner mutiny marches toward Moscow, then stands down",
+   "summary": "Wagner seized Rostov-on-Don's military HQ and advanced to within about 200 km of Moscow before a Belarus-brokered deal ended the revolt, the biggest challenge to Putin's rule.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/6/24/wagner-boss-says-march-on-moscow-halted-to-avoid-bloodshed"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/jun/24/vladimir-putin-accuses-wagner-chief-treason-vows-neutralise-uprising"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/wagner-revolt-russia-clouds-outlook-its-operations-africa-2023-06-24/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wagner_Group_rebellion"
+    }
+   ],
+   "entities": [
+    "wagner-group",
+    "yevgeny-prigozhin",
+    "vladimir-putin",
+    "russia",
+    "belarus"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2023-05-20-bakhmut-falls",
+     "why": "Feud over Bakhmut losses",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Rostov-on-Don to the M4 highway."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2023-04-04-finland-joins-nato",
+    "2023-05-20-bakhmut-falls",
+    "2023-06-06-kakhovka-dam",
+    "2023-06-04-counteroffensive",
+    "2023-06-24-prigozhin-mutiny"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2023-04-15-sudan-war-begins"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2023-06-24-prigozhin-mutiny"
+   ]
+  }
+ ]
+}
