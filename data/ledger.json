@@ -23981,6 +23981,690 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-12-29": {
+   "sha256": "faa6989750e553c4c3375b09f175588c4b6d9ef6fa30d54ea1dd8d06c449cb23",
+   "undo": {
+    "stories": {
+     "2024-02-08-pakistan-election": null,
+     "2024-03-06-true-confidence": null,
+     "2024-04-01-damascus-consulate-strike": null,
+     "2024-06-10-unsc-2735": null,
+     "2024-07-20-israel-strikes-hodeidah": null,
+     "2024-08-05-us-leaves-agadez": null,
+     "2024-08-24-barsalogho-massacre": null,
+     "2024-11-30-aleppo-falls": null,
+     "2024-12-01-sna-tell-rifaat": null,
+     "2024-12-26-suez-revenue-loss": null,
+     "2023-05-09-imran-khan-arrested": {
+      "id": "2023-05-09-imran-khan-arrested",
+      "date": "2023-05-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-29",
+      "region": "Asia-Pacific",
+      "title": "Imran Khan is arrested at the Islamabad High Court, setting off attacks on army sites",
+      "summary": "Paramilitary Rangers detained the ousted PM in the Al-Qadir Trust case a day after the army rebuked his accusations against an ISI officer. Supporters stormed military buildings. The Supreme Court freed him, but he was jailed in August after a Toshakhana conviction and barred from politics.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/5/9/what-is-al-qadir-trust-case-under-which-imran-khan-is-arrested"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/may/14/imran-khan-arrest-pakistan-military"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/supporters-pakistan-ex-pm-khan-plan-march-capital-protest-arrest-2023-05-10/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan"
+       }
+      ],
+      "entities": [
+       "imran-khan",
+       "pakistan"
+      ],
+      "causes": [
+       {
+        "story": "2022-04-10-imran-khan",
+        "why": "Fallout from his 2022 ouster and clash with the army",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-29",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2022-04-10-imran-khan"
+      ]
+     },
+     "2024-01-12-us-uk-strike-houthis": {
+      "id": "2024-01-12-us-uk-strike-houthis",
+      "date": "2024-01-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-03-31",
+      "region": "Middle East",
+      "title": "US and UK begin airstrikes on the Houthis over Red Sea shipping attacks",
+      "summary": "After weeks of Houthi missile and drone attacks on merchant ships, the US and UK, with allied support, struck Houthi targets across Yemen. Strikes continued into 2025.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/reactions-us-british-strikes-against-houthis-yemen-2024-01-12/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/1/12/world-reacts-to-us-uk-attacks-on-houthi-targets-in-yemen"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/US–UK_airstrikes_on_Yemen"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "united-kingdom",
+       "houthis",
+       "yemen",
+       "red-sea"
+      ],
+      "causes": [
+       {
+        "story": "2023-11-19-galaxy-leader-seized",
+        "why": "Response to the Houthi shipping campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-03-31",
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "where": [
+       "sanaa"
+      ],
+      "related_stories": [
+       "2023-11-19-galaxy-leader-seized",
+       "2025-05-06-us-houthi-truce",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-04-02-yemen-truce",
+       "houthis-saudi-oct15",
+       "2026-07-20-houthi-saudi-blockade",
+       "2026-09-10-houthis-seize-mokha"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2023-11-19-galaxy-leader-seized": {
+      "id": "2023-11-19-galaxy-leader-seized",
+      "date": "2023-11-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Middle East",
+      "title": "Houthis hijack the Galaxy Leader, opening their Red Sea shipping campaign",
+      "summary": "Declaring solidarity with Gaza, the Houthis took the car carrier by helicopter and sailed it to the Hodeidah area. Missile and drone attacks on shipping followed and diverted traffic away from Suez.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/seized-galaxy-leader-ship-yemens-hodeidah-port-area-owner-2023-11-20/"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/11/20/world/yemen-houthi-ship-hijacked.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hijacking_of_the_Galaxy_Leader"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "red-sea",
+       "yemen",
+       "israel"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-07-hamas-attack",
+        "why": "Houthis joined the war in Hamas's support",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "hodeidah"
+      ],
+      "related_stories": [
+       "2023-10-07-hamas-attack",
+       "2024-01-12-us-uk-strike-houthis",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-04-02-yemen-truce",
+       "houthis-saudi-oct15",
+       "2026-07-20-houthi-saudi-blockade",
+       "2026-09-10-houthis-seize-mokha",
+       "2025-05-06-us-houthi-truce"
+      ]
+     },
+     "2023-10-07-hamas-attack": {
+      "id": "2023-10-07-hamas-attack",
+      "date": "2023-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Middle East",
+      "title": "Hamas-led attack on southern Israel kills about 1,200 and takes 251 hostages",
+      "summary": "Gunmen broke through the Gaza fence and attacked army posts, kibbutzim and a music festival in the deadliest day in Israel's history. Israel declared war and began bombing Gaza.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/how-hamas-attack-israel-unfolded-2023-10-07/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/oct/07/hamas-launches-surprise-attack-on-israel-as-palestinian-gunmen-reported-in-south"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/10/7/hamas-says-it-has-enough-israeli-captives-to-free-all-palestinian-prisoners"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/October_7_attacks"
+       }
+      ],
+      "entities": [
+       "hamas",
+       "israel",
+       "yahya-sinwar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "analysis": {
+       "text": "This was the hinge of the period: it led to the Gaza war, Hezbollah's front, the Houthi Red Sea campaign and the Iran–Israel exchanges that became the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "strike",
+      "unplaced": "Communities along the Gaza border in southern Israel.",
+      "related_stories": [
+       "2024-04-13-iran-strikes-israel",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-16-sinwar-killed"
+      ]
+     },
+     "2023-11-24-gaza-hostage-truce": {
+      "id": "2023-11-24-gaza-hostage-truce",
+      "date": "2023-11-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Middle East",
+      "title": "First Gaza truce frees 105 hostages for 240 Palestinian prisoners",
+      "summary": "A Qatar-, Egypt- and US-mediated pause, extended twice, ran Nov 24–Dec 1. It freed mostly women and children on both sides before fighting resumed.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israel-hamas-start-first-truce-gaza-war-2023-11-24/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/11/24/who-were-the-palestinian-prisoners-israel-released-on-friday"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "qatar",
+       "egypt",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-27-gaza-ground-invasion",
+        "why": "Pause in the ground war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Gaza and Israeli prisons.",
+      "related_stories": [
+       "2023-10-27-gaza-ground-invasion",
+       "2022-03-27-negev-summit",
+       "2026-10-gaza-phase-two-stalled",
+       "2025-06-22-midnight-hammer",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2024-05-07-rafah-offensive",
+       "2025-01-19-gaza-ceasefire"
+      ]
+     },
+     "2024-03-18-gaza-famine-warning": {
+      "id": "2024-03-18-gaza-famine-warning",
+      "date": "2024-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Middle East",
+      "title": "IPC warns famine is imminent in northern Gaza",
+      "summary": "The global hunger monitor projected famine in northern Gaza by May without a ceasefire and aid surge. The EU's Borrell accused Israel of using starvation as a weapon of war.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/eus-borrell-says-israel-is-provoking-famine-gaza-2024-03-18/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/commentisfree/2024/mar/19/the-guardian-view-on-famine-in-gaza-a-human-made-catastrophe"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaza_Strip_famine"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "food-security",
+       "european-union"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-27-gaza-ground-invasion",
+        "why": "Siege and war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2023-10-27-gaza-ground-invasion",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2025-08-22-gaza-famine"
+      ]
+     },
+     "2023-07-26-niger-coup": {
+      "id": "2023-07-26-niger-coup",
+      "date": "2023-07-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Africa",
+      "title": "Niger's presidential guard ousts Bazoum; Tiani takes power",
+      "summary": "Gen. Abdourahamane Tiani's guard detained President Bazoum. ECOWAS threatened force but backed down, and the junta expelled French and later US troops, completing the Sahel's turn from the West.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/soldiers-nigers-presidential-guard-blockade-presidents-office-security-sources-2023-07-26/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/7/26/soldiers-holding-niger-president-inside-palace-security-sources"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/africa/20230726-african-union-ecowas-condemn-attempted-coup-in-niger"
+       }
+      ],
+      "entities": [
+       "niger",
+       "abdourahamane-tiani",
+       "mohamed-bazoum",
+       "ecowas",
+       "france"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Contagion of Sahel coups",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "France's Sahel retreat",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-09-30-burkina-coup2",
+       "2022-02-17-france-leaves-mali",
+       "2024-07-06-aes-confederation"
+      ]
+     },
+     "2022-09-30-burkina-coup2": {
+      "id": "2022-09-30-burkina-coup2",
+      "date": "2022-09-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Second Burkina coup: Capt. Ibrahim Traoré ousts Damiba",
+      "summary": "Junior officers led by Ibrahim Traoré overthrew Damiba; some supporters waved Russian flags.",
+      "sources": [
+       {
+        "name": "Wikipedia: September 2022 Burkina Faso coup d'état",
+        "url": "https://en.wikipedia.org/wiki/September_2022_Burkina_Faso_coup_d'état"
+       }
+      ],
+      "entities": [
+       "burkina-faso",
+       "ibrahim-traore",
+       "sahel",
+       "russia",
+       "france"
+      ],
+      "storylines": [
+       "sahel"
+      ],
+      "causes": [
+       {
+        "story": "2022-01-24-burkina-coup",
+        "why": "Failure to stem jihadist violence",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Anti-French and pro-Russian current across the Sahel",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2023-07-26-niger-coup"
+      ]
+     },
+     "2023-05-07-syria-arab-league": {
+      "id": "2023-05-07-syria-arab-league",
+      "date": "2023-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-29",
+      "region": "Middle East",
+      "title": "Arab League readmits Assad's Syria, demanding a crackdown on captagon smuggling",
+      "summary": "After a 12-year suspension, Arab states brought Syria back in a bet on normalisation. In return they demanded action on captagon, the amphetamine-type pill whose Syrian-run trade had become a key source of regime revenue and was flooding the Gulf via Jordan.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/arabs-bring-syrias-assad-back-into-fold-want-action-drugs-trade-2023-05-09/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/5/1/syria-agrees-to-curb-drug-trade-in-arab-ministers-meeting"
+       },
+       {
+        "name": "Al Jazeera (captagon explainer)",
+        "url": "https://www.aljazeera.com/news/2023/5/9/what-is-captagon-the-addictive-drug-mass-produced-in-syria"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad",
+       "arab-league",
+       "saudi-arabia",
+       "jordan"
+      ],
+      "causes": [
+       {
+        "story": "2023-03-10-saudi-iran-beijing",
+        "why": "Regional de-escalation wave",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-29",
+      "analysis": {
+       "text": "Normalisation gave Assad legitimacy but not the means to survive; his regime collapsed 19 months later.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Decision taken in Cairo.",
+      "related_stories": [
+       "2023-03-10-saudi-iran-beijing"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized"
+      ],
+      "source": "threads.md"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
