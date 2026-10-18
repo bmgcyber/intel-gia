@@ -1,0 +1,381 @@
+{
+ "edition": "2009-09-30",
+ "stories": [
+  {
+   "id": "2009-07-05-urumqi-riots",
+   "date": "2009-07-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "Ethnic riots in Ürümqi kill nearly 200 as Uyghur protests turn violent",
+   "summary": "Beijing's response began a decade of tightening security in Xinjiang that culminated in mass internment.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/July_2009_%C3%9Cr%C3%BCmqi_riots"
+    }
+   ],
+   "entities": [
+    "china",
+    "uyghurs"
+   ],
+   "marker": "political",
+   "where": [
+    "urumqi"
+   ]
+  },
+  {
+   "id": "2009-07-26-boko-haram-uprising",
+   "date": "2009-07-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Africa",
+   "title": "Boko Haram rises in northern Nigeria; its founder dies in police custody",
+   "summary": "The killing of Mohammed Yusuf drove the group underground; it re-emerged under Abubakar Shekau as a full insurgency.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Boko_Haram_uprising"
+    }
+   ],
+   "entities": [
+    "nigeria",
+    "boko-haram"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "maiduguri"
+   ]
+  },
+  {
+   "id": "2009-08-04-niger-tandja-referendum",
+   "date": "2009-08-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Africa",
+   "title": "Niger's Tandja wins a referendum to extend his rule past term limits",
+   "summary": "The vote led to Niger's suspension from ECOWAS and a military coup in February 2010.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Nigerien_constitutional_referendum"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Nigerien_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "niger",
+    "mamadou-tandja",
+    "ecowas"
+   ],
+   "storylines": [
+    "sahel",
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "niamey"
+   ]
+  },
+  {
+   "id": "2009-08-11-yemen-scorched-earth",
+   "date": "2009-08-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Middle East",
+   "title": "Yemen launches Operation Scorched Earth against the Houthis; Saudi Arabia joins in November",
+   "summary": "It was the sixth round of the Saada war and the first direct Saudi fight with the Houthis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Scorched_Earth"
+    }
+   ],
+   "entities": [
+    "yemen",
+    "houthis",
+    "saudi-arabia",
+    "ali-abdullah-saleh"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "marker": "military",
+   "where": [
+    "saada"
+   ]
+  },
+  {
+   "id": "2009-08-20-afghan-election-fraud",
+   "date": "2009-08-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "Karzai's re-election is marred by massive fraud",
+   "summary": "UN-backed auditors threw out about a third of his votes, and his rival quit before the runoff.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Afghan_presidential_election"
+    }
+   ],
+   "entities": [
+    "afghanistan",
+    "hamid-karzai"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "political",
+   "where": [
+    "kabul"
+   ]
+  },
+  {
+   "id": "2009-08-30-japan-dpj-landslide",
+   "date": "2009-08-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Asia-Pacific",
+   "title": "The Democratic Party of Japan ends the LDP's half-century of near-continuous rule",
+   "summary": "The DPJ's three years in power ended in 2012 with Shinzo Abe's return.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Japanese_general_election"
+    }
+   ],
+   "entities": [
+    "japan"
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2009-09-17-missile-shield-scrapped",
+   "date": "2009-09-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Europe",
+   "title": "Obama scraps Bush's missile-defence sites in Poland and the Czech Republic",
+   "summary": "The European Phased Adaptive Approach replaced them with ship- and land-based interceptors.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/European_Phased_Adaptive_Approach"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "poland",
+    "czech-republic",
+    "russia"
+   ],
+   "storylines": [
+    "nuclear-arms-control"
+   ],
+   "marker": "military",
+   "where": [
+    "warsaw"
+   ]
+  },
+  {
+   "id": "2009-09-25-fordow-revealed",
+   "date": "2009-09-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Middle East",
+   "title": "US, UK and France reveal Iran's secret Fordow enrichment site",
+   "summary": "The site, built inside a mountain near Qom, became central to every later nuclear negotiation and strike plan.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fordow_Fuel_Enrichment_Plant"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-states",
+    "united-kingdom",
+    "france",
+    "iaea"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "fordow"
+   ]
+  },
+  {
+   "id": "2009-09-25-g20-pittsburgh",
+   "date": "2009-09-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "Pittsburgh summit names the G20 the 'premier forum' for economic cooperation",
+   "summary": "It displaced the G8 as the main global economic body.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_G20_Pittsburgh_summit"
+    }
+   ],
+   "entities": [
+    "g20"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pittsburgh"
+   ]
+  },
+  {
+   "id": "2009-09-28-guinea-stadium-massacre",
+   "date": "2009-09-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Africa",
+   "title": "Guinea's junta troops massacre opposition protesters in a Conakry stadium",
+   "summary": "Soldiers killed over 150 people and raped many women; junta leader Moussa Dadis Camara was later convicted.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Guinean_protests"
+    }
+   ],
+   "entities": [
+    "guinea",
+    "moussa-dadis-camara"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "conakry"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2009-07-26-boko-haram-uprising",
+    "2009-08-04-niger-tandja-referendum",
+    "2009-09-28-guinea-stadium-massacre"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2009-08-04-niger-tandja-referendum"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2009-08-11-yemen-scorched-earth"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2009-08-20-afghan-election-fraud"
+   ]
+  },
+  {
+   "id": "nuclear-arms-control",
+   "name": "US–Russia nuclear arms control",
+   "entities": [
+    "united-states",
+    "russia",
+    "new-start"
+   ],
+   "stories": [
+    "2009-09-17-missile-shield-scrapped"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2009-09-25-fordow-revealed"
+   ]
+  },
+  {
+   "id": "global-financial-crisis",
+   "name": "Global financial crisis 2007–09",
+   "entities": [
+    "federal-reserve",
+    "imf",
+    "g20",
+    "united-states"
+   ],
+   "stories": [
+    "2009-09-25-g20-pittsburgh"
+   ]
+  }
+ ]
+}
