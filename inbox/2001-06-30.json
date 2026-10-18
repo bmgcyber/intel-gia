@@ -1,0 +1,336 @@
+{
+ "edition": "2001-06-30",
+ "stories": [
+  {
+   "id": "2001-04-01-hainan-incident",
+   "date": "2001-04-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "A Chinese fighter collides with a US spy plane, which lands on Hainan",
+   "summary": "China held the crew for 11 days.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hainan_Island_incident"
+    }
+   ],
+   "entities": [
+    "china",
+    "united-states",
+    "pla"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "where": [
+    "hainan-lingshui"
+   ]
+  },
+  {
+   "id": "2001-04-14-ntv-takeover",
+   "date": "2001-04-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Russia/Eurasia",
+   "title": "Gazprom takes over NTV, Russia's main independent channel",
+   "summary": "It marked the Kremlin's takeover of national television.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/NTV_%28Russia%29"
+    }
+   ],
+   "entities": [
+    "russia",
+    "gazprom",
+    "vladimir-putin"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2001-04-26-koizumi-pm",
+   "date": "2001-04-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Junichiro Koizumi becomes Japan's prime minister",
+   "summary": "His Yasukuni visits strained ties with China.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Junichiro_Koizumi"
+    }
+   ],
+   "entities": [
+    "japan"
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2001-06-01-nepal-royal-massacre",
+   "date": "2001-06-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Nepal's crown prince kills King Birendra and much of the royal family",
+   "summary": "The massacre weakened the monarchy as the Maoist war grew.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nepalese_royal_massacre"
+    }
+   ],
+   "entities": [
+    "nepal"
+   ],
+   "marker": "political",
+   "where": [
+    "kathmandu"
+   ]
+  },
+  {
+   "id": "2001-06-01-dolphinarium-bombing",
+   "date": "2001-06-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Middle East",
+   "title": "A suicide bomber kills 21 at a Tel Aviv disco",
+   "summary": "Most of the victims were teenagers.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_massacre"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "dolphinarium"
+   ]
+  },
+  {
+   "id": "2001-06-08-khatami-reelected",
+   "date": "2001-06-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Middle East",
+   "title": "Iran's reformist President Khatami wins re-election",
+   "summary": "Hardliners blocked his reforms.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Iranian_presidential_election"
+    }
+   ],
+   "entities": [
+    "iran",
+    "mohammad-khatami"
+   ],
+   "marker": "political",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2001-06-15-sco-founded",
+   "date": "2001-06-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "China, Russia and four Central Asian states found the Shanghai Cooperation Organisation",
+   "summary": "The bloc grew into a forum for Sino-Russian alignment.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+    }
+   ],
+   "entities": [
+    "sco",
+    "china",
+    "russia",
+    "kazakhstan",
+    "kyrgyzstan",
+    "uzbekistan"
+   ],
+   "storylines": [
+    "central-asia"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "shanghai"
+   ]
+  },
+  {
+   "id": "2001-06-28-milosevic-extradited",
+   "date": "2001-06-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "Serbia hands Slobodan Milošević to The Hague tribunal",
+   "summary": "He died in custody in 2006 before a verdict.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87"
+    }
+   ],
+   "entities": [
+    "serbia",
+    "slobodan-milosevic"
+   ],
+   "marker": "political",
+   "where": [
+    "the-hague"
+   ]
+  },
+  {
+   "id": "2001-05-13-berlusconi-returns",
+   "date": "2001-05-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "Silvio Berlusconi wins Italy's election",
+   "summary": "He dominated Italian politics for the decade.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Italian_general_election"
+    }
+   ],
+   "entities": [
+    "italy",
+    "silvio-berlusconi"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "rome"
+   ]
+  },
+  {
+   "id": "2001-06-03-toledo-elected",
+   "date": "2001-06-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Alejandro Toledo wins Peru's presidency after Fujimori's fall",
+   "summary": "He beat Alan García in a runoff.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election"
+    }
+   ],
+   "entities": [
+    "peru"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "lima"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2001-04-01-hainan-incident"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2001-06-01-dolphinarium-bombing"
+   ]
+  },
+  {
+   "id": "central-asia",
+   "name": "Central Asia upheavals",
+   "entities": [
+    "kyrgyzstan",
+    "kazakhstan"
+   ],
+   "stories": [
+    "2001-06-15-sco-founded"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2001-05-13-berlusconi-returns"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2001-06-03-toledo-elected"
+   ]
+  }
+ ]
+}
