@@ -5162,7 +5162,8 @@
    "2025-01-27-deepseek-shock",
    "2025-10-09-china-rare-earth-expansion",
    "2025-12-08-h200-china",
-   "2024-05-14-biden-ev-tariffs"
+   "2024-05-14-biden-ev-tariffs",
+   "2024-12-03-china-bans-gallium-to-us"
   ],
   "marker": "political",
   "unplaced": "An export-control rule. The summary names no place."
@@ -12209,7 +12210,13 @@
    "israel",
    "hamas"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-10-16-sinwar-killed",
+    "why": "Hamas leadership decapitated",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-03-31",
   "storylines": [
@@ -12219,7 +12226,17 @@
   "marker": "diplomacy",
   "unplaced": "Gaza Strip-wide; no single site.",
   "related_stories": [
+   "2024-10-16-sinwar-killed",
    "2025-03-18-gaza-war-resumes"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12459,7 +12476,13 @@
    "sdf",
    "ahmed-al-sharaa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-12-08-assad-falls",
+    "why": "Post-Assad order",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-03-31",
   "storylines": [
@@ -12471,7 +12494,17 @@
    "damascus"
   ],
   "related_stories": [
+   "2024-12-08-assad-falls",
    "2026-08-20-sdf-integration"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12559,6 +12592,11 @@
     "story": "2025-02-28-oval-office-clash",
     "why": "Doubts over the US commitment pushed Berlin to spend",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-11-06-german-coalition-collapses",
+    "why": "Coalition broke over the debt brake",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12575,7 +12613,17 @@
   "unplaced": "A Bundestag vote; Berlin has no place entity yet.",
   "related_stories": [
    "2025-02-28-oval-office-clash",
+   "2024-11-06-german-coalition-collapses",
    "2025-06-25-nato-hague-5pct"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12722,7 +12770,18 @@
    "european-union",
    "india"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-11-05-trump-elected",
+    "why": "Trump's tariff mandate",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-05-14-biden-ev-tariffs",
+    "why": "Bipartisan turn to tariffs",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-06-30",
   "analysis": {
@@ -12738,7 +12797,17 @@
    "washington-dc"
   ],
   "related_stories": [
+   "2024-11-05-trump-elected",
+   "2024-05-14-biden-ev-tariffs",
+   "2026-02-20-scotus-ieepa",
    "2025-04-04-china-rare-earth-controls",
+   "2025-07-27-eu-us-turnberry",
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-30-busan-truce",
+   "2025-11-05-scotus-tariff-argument",
+   "2025-07-31-mexico-tariff-reprieve",
+   "2025-10-29-us-korea-gyeongju-deal",
+   "2026-01-14-china-trillion-surplus",
    "rare-earth-nov10",
    "2022-05-23-ipef",
    "2022-06-14-msp",
@@ -12748,16 +12817,18 @@
    "eu-china-rare-earth-green-channel",
    "2026-01-06-us-venezuela-oil-deal",
    "2026-01-21-greenland-davos",
-   "2026-02-20-scotus-ieepa",
    "2026-05-14-trump-xi-beijing",
    "2026-09-18-graham-act-signed",
-   "2025-07-27-eu-us-turnberry",
-   "2025-08-27-india-50pct-tariff",
-   "2025-10-30-busan-truce",
-   "2025-11-05-scotus-tariff-argument",
-   "2025-07-31-mexico-tariff-reprieve",
-   "2025-10-29-us-korea-gyeongju-deal",
-   "2026-01-14-china-trillion-surplus"
+   "2025-12-08-h200-china"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12793,6 +12864,11 @@
     "story": "2022-08-04-pla-drills",
     "why": "Builds on the 2022 encirclement template",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-01-13-lai-elected-taiwan",
+    "why": "Beijing's pressure campaign on Lai",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12805,11 +12881,21 @@
   "unplaced": "Drill zones in the Taiwan Strait; no single site.",
   "related_stories": [
    "2022-08-04-pla-drills",
+   "2024-01-13-lai-elected-taiwan",
+   "2025-12-29-justice-mission-drills",
    "pla-drills",
    "pla-patrol-oct14-15",
    "pla-patrol-oct15-16",
-   "dongsha-coast-guard-incursion",
-   "2025-12-29-justice-mission-drills"
+   "dongsha-coast-guard-incursion"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12850,6 +12936,11 @@
     "story": "2021-12-china-rare-earth-group",
     "why": "State consolidation made licensing a usable weapon",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-12-03-china-bans-gallium-to-us",
+    "why": "Escalates China's 2024 minerals bans",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12864,6 +12955,9 @@
   "related_stories": [
    "2025-04-02-liberation-day",
    "2021-12-china-rare-earth-group",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-09-china-rare-earth-expansion",
    "rare-earth-nov10",
    "ai-minerals",
    "2022-06-14-msp",
@@ -12871,8 +12965,18 @@
    "eu-china-rare-earth-green-channel",
    "2026-05-14-trump-xi-beijing",
    "2026-09-23-us-china-fragile-truce",
-   "2025-07-10-mp-materials-dod",
-   "2025-10-09-china-rare-earth-expansion"
+   "2025-10-20-us-australia-minerals",
+   "2025-10-30-busan-truce",
+   "2025-11-06-c5-plus-1-summit"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12951,7 +13055,13 @@
    "united-kingdom",
    "keir-starmer"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-07-04-labour-landslide",
+    "why": "Reform's 2024 breakthrough",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-06-30",
   "storylines": [
@@ -12961,7 +13071,17 @@
   "marker": "political",
   "unplaced": "Local elections across England.",
   "related_stories": [
+   "2024-07-04-labour-landslide",
    "2026-06-22-starmer-resigns"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13057,6 +13177,11 @@
     "story": "2022-10-02-truce-expires",
     "why": "The Yemen front stayed unsettled after 2022",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-01-12-us-uk-strike-houthis",
+    "why": "Ends the strike campaign begun in 2024",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -13074,8 +13199,18 @@
   "unplaced": "Agreement announced in Muscat; no place entity.",
   "related_stories": [
    "2022-10-02-truce-expires",
-   "houthis-hit-aramco",
-   "2026-07-20-houthi-saudi-blockade"
+   "2024-01-12-us-uk-strike-houthis",
+   "2026-07-20-houthi-saudi-blockade",
+   "houthis-hit-aramco"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13157,7 +13292,13 @@
    "mohammed-bin-salman",
    "turkey"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-12-08-assad-falls",
+    "why": "Sanctions targeted Assad's regime",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-06-30",
   "storylines": [
@@ -13170,8 +13311,18 @@
    "riyadh"
   ],
   "related_stories": [
-   "2022-07-15-biden-saudi",
-   "2026-08-20-sdf-integration"
+   "2024-12-08-assad-falls",
+   "2026-08-20-sdf-integration",
+   "2022-07-15-biden-saudi"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13208,6 +13359,11 @@
     "story": "2021-12-wagner-mali",
     "why": "Ends the deployment that began in 2021",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-07-06-aes-confederation",
+    "why": "Junta bloc reliant on Russia",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -13224,10 +13380,20 @@
   "unplaced": "Country-wide withdrawal.",
   "related_stories": [
    "2021-12-wagner-mali",
-   "kidal",
+   "2024-07-06-aes-confederation",
    "2026-04-25-mali-offensive",
    "2025-09-jnim-fuel-blockade",
-   "2026-08-29-niger-mutiny"
+   "2026-08-29-niger-mutiny",
+   "kidal"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13268,6 +13434,16 @@
     "story": "2022-09-jcpoa-stall",
     "why": "The collapse of nuclear diplomacy",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-04-13-iran-strikes-israel",
+    "why": "Direct Iran–Israel exchanges began in 2024",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-10-01-iran-missile-barrage",
+    "why": "Israel's Oct 2024 strikes degraded Iran's air defences",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -13283,10 +13459,21 @@
   ],
   "related_stories": [
    "2022-09-jcpoa-stall",
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-01-iran-missile-barrage",
    "2025-06-22-midnight-hammer",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "2026-02-28-iran-war-begins"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13556,7 +13743,13 @@
    "hezbollah",
    "israel"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-11-27-israel-hezbollah-ceasefire",
+    "why": "Implements the 2024 ceasefire",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-09-30",
   "analysis": {
@@ -13573,9 +13766,20 @@
    "beirut"
   ],
   "related_stories": [
+   "2024-11-27-israel-hezbollah-ceasefire",
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
-   "2026-10-14-lebanon-yellow-line"
+   "2026-10-14-lebanon-yellow-line",
+   "2024-09-17-pager-attacks"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -13898,6 +14102,11 @@
     "story": "2025-02-20-cartels-fto",
     "why": "The terrorist designation was the legal basis claimed",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-07-28-venezuela-stolen-election",
+    "why": "Washington treated Maduro as illegitimate after 2024",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -13911,10 +14120,21 @@
   "unplaced": "International waters of the southern Caribbean.",
   "related_stories": [
    "2025-02-20-cartels-fto",
+   "2024-07-28-venezuela-stolen-election",
+   "2026-01-03-maduro-captured",
+   "2025-11-16-ford-caribbean",
    "venezuela-oil",
    "2022-03-05-us-venezuela-talks",
-   "2026-01-03-maduro-captured",
-   "2025-11-16-ford-caribbean"
+   "2025-12-16-venezuela-tanker-blockade"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -14406,7 +14626,13 @@
    "venezuela",
    "nicolas-maduro"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-07-28-venezuela-stolen-election",
+    "why": "Honoured for the 2024 election fight",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-12-31",
   "storylines": [
@@ -14416,7 +14642,18 @@
   "era": "2025 (Trump's return)",
   "marker": "political",
   "unplaced": "Announced in Oslo; no place entity.",
-  "related_stories": []
+  "related_stories": [
+   "2024-07-28-venezuela-stolen-election"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2025-10-14-madagascar-coup",
@@ -14609,7 +14846,13 @@
    "japan",
    "sanae-takaichi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-10-27-japan-ldp-loses-majority",
+    "why": "LDP weakness forced a new coalition",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-12-31",
   "storylines": [
@@ -14619,8 +14862,18 @@
   "marker": "political",
   "unplaced": "A Diet vote; Tokyo has no place entity.",
   "related_stories": [
+   "2024-10-27-japan-ldp-loses-majority",
    "2026-02-08-takaichi-landslide",
    "2025-11-07-takaichi-taiwan-remarks"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -14782,6 +15035,11 @@
     "story": "2025-03-21-khartoum-retaken",
     "why": "Driven from the capital, the RSF consolidated Darfur",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-08-01-zamzam-famine",
+    "why": "Siege and famine around El Fasher",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -14800,9 +15058,19 @@
   ],
   "related_stories": [
    "2025-03-21-khartoum-retaken",
+   "2024-08-01-zamzam-famine",
    "2026-02-03-kadugli-siege-broken",
    "2026-06-el-obeid-atrocity-warning",
    "2026-10-09-el-obeid-drones"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15380,7 +15648,13 @@
    "united-states",
    "inflation"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-09-18-fed-jumbo-cut",
+    "why": "Easing cycle began in Sep 2024",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-12-31",
   "analysis": {
@@ -15396,12 +15670,22 @@
    "washington-dc"
   ],
   "related_stories": [
+   "2024-09-18-fed-jumbo-cut",
    "2026-09-16-fed-hikes",
    "2022-03-16-fed-hike",
    "2022-06-15-fed-75",
    "coreweave-ai-credit-shock",
    "tech-selloff-worst-week",
    "2026-05-13-warsh-confirmed"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15663,6 +15947,11 @@
     "story": "2025-02-20-cartels-fto",
     "why": "Followed the terrorist designations",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-06-02-sheinbaum-elected",
+    "why": "Sheinbaum's government",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -15676,8 +15965,19 @@
   "unplaced": "A transfer of custody; no single site.",
   "related_stories": [
    "2025-02-20-cartels-fto",
+   "2024-06-02-sheinbaum-elected",
+   "2026-02-22-el-mencho-killed",
    "2025-07-31-mexico-tariff-reprieve",
-   "2026-02-22-el-mencho-killed"
+   "2026-07-01-usmca-review"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15753,7 +16053,13 @@
    "south-korea",
    "yoon-suk-yeol"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-12-03-yoon-martial-law",
+    "why": "Ruling on the martial-law decree",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-12-30",
   "storylines": [
@@ -15765,8 +16071,18 @@
    "seoul"
   ],
   "related_stories": [
+   "2024-12-03-yoon-martial-law",
    "2025-06-03-lee-jae-myung-elected",
    "2026-02-19-yoon-life-sentence"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15811,6 +16127,11 @@
     "story": "2022-03-24-hwasong17",
     "why": "North Korea's post-2022 arms build-up made it a supplier",
     "confidence": "possible"
+   },
+   {
+    "story": "2024-10-18-dprk-troops-to-russia",
+    "why": "The 2024 deployment",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -15828,8 +16149,19 @@
   "unplaced": "Fighting in Kursk; Kursk has no place entity.",
   "related_stories": [
    "2022-03-24-hwasong17",
+   "2024-10-18-dprk-troops-to-russia",
    "2025-10-10-hwasong-20-parade",
-   "2026-03-29-hwasong-20-engine-test"
+   "2026-03-29-hwasong-20-engine-test",
+   "2024-06-19-putin-kim-treaty"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -16341,7 +16673,13 @@
    "india",
    "narendra-modi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2024-06-04-modi-loses-majority",
+    "why": "Recovery after the 2024 setback",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2025-12-30",
   "storylines": [
@@ -16350,7 +16688,18 @@
   "era": "2025 (Trump's return)",
   "marker": "political",
   "unplaced": "A state election; Patna has no place entity.",
-  "related_stories": []
+  "related_stories": [
+   "2024-06-04-modi-loses-majority"
+  ],
+  "revisions": [
+   {
+    "edition": "2024-12-31",
+    "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2025-12-08-thai-cambodia-war-resumes",
@@ -17206,7 +17555,8 @@
    "2022-08-04-pla-drills",
    "pla-drills",
    "pla-patrol-oct14-15",
-   "2025-12-29-justice-mission-drills"
+   "2025-12-29-justice-mission-drills",
+   "2025-04-02-strait-thunder"
   ]
  },
  {
@@ -17582,7 +17932,8 @@
    "rafah"
   ],
   "related_stories": [
-   "2025-10-10-gaza-ceasefire-trump-plan"
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2024-10-16-sinwar-killed"
   ]
  },
  {
@@ -17633,7 +17984,9 @@
    "2022-08-31-nvidia-ban",
    "2026-05-14-trump-xi-beijing",
    "2025-10-09-china-rare-earth-expansion",
-   "2025-12-08-h200-china"
+   "2025-12-08-h200-china",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2025-04-02-liberation-day"
   ]
  },
  {
@@ -17711,7 +18064,9 @@
   "era": "2024 (wars widen; election year)",
   "marker": "political",
   "unplaced": "A national election.",
-  "related_stories": []
+  "related_stories": [
+   "2025-02-27-mexico-hands-over-capos"
+  ]
  },
  {
   "id": "2024-06-04-modi-loses-majority",
@@ -17749,7 +18104,9 @@
   "era": "2024 (wars widen; election year)",
   "marker": "political",
   "unplaced": "A national election.",
-  "related_stories": []
+  "related_stories": [
+   "2025-11-14-bihar-nda-sweep"
+  ]
  },
  {
   "id": "2024-06-19-putin-kim-treaty",
@@ -17790,7 +18147,8 @@
   ],
   "related_stories": [
    "2025-04-28-dprk-confirms-kursk-troops",
-   "2025-10-10-hwasong-20-parade"
+   "2025-10-10-hwasong-20-parade",
+   "2024-10-18-dprk-troops-to-russia"
   ]
  },
  {
@@ -17910,7 +18268,8 @@
    "niamey"
   ],
   "related_stories": [
-   "2022-02-17-france-leaves-mali"
+   "2022-02-17-france-leaves-mali",
+   "2025-06-06-wagner-leaves-mali"
   ]
  },
  {
@@ -17961,7 +18320,8 @@
   ],
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
-   "2025-10-10-machado-nobel"
+   "2025-10-10-machado-nobel",
+   "2025-09-02-boat-strikes-begin"
   ]
  },
  {
@@ -18013,7 +18373,8 @@
    "tehran"
   ],
   "related_stories": [
-   "2024-04-13-iran-strikes-israel"
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-01-iran-missile-barrage"
   ]
  },
  {
@@ -18051,7 +18412,9 @@
   "where": [
    "zamzam-camp"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2025-10-26-el-fasher-falls"
+  ]
  },
  {
   "id": "2024-08-05-hasina-flees",
@@ -18144,7 +18507,10 @@
   "where": [
    "sudzha"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2024-10-18-dprk-troops-to-russia",
+   "2024-12-08-assad-falls"
+  ]
  },
  {
   "id": "2024-09-17-pager-attacks",
@@ -18195,7 +18561,9 @@
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
    "2026-10-14-lebanon-yellow-line",
-   "2025-08-05-lebanon-disarm-hezbollah"
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2024-10-01-iran-missile-barrage",
+   "2024-11-27-israel-hezbollah-ceasefire"
   ]
  },
  {
@@ -18241,6 +18609,512 @@
    "2026-05-13-warsh-confirmed",
    "2026-09-16-fed-hikes",
    "2025-12-10-fed-third-cut"
+  ]
+ },
+ {
+  "id": "2024-10-01-iran-missile-barrage",
+  "date": "2024-10-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Middle East",
+  "title": "Iran fires about 200 ballistic missiles at Israel; Israel strikes back on Oct 26",
+  "summary": "Citing the killings of Haniyeh and Nasrallah, Iran launched its largest direct attack. On Oct 26 Israel struck Iranian air defences and missile production sites.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2024/oct/01/israel-vows-to-retaliate-after-iran-launches-unprecedented-missile-attack"
+   },
+   {
+    "name": "Al Jazeera (timeline)",
+    "url": "https://www.aljazeera.com/news/2024/10/2/timeline-the-key-moments-that-led-to-irans-missile-attacks-on-israel"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel"
+   }
+  ],
+  "entities": [
+   "iran",
+   "israel",
+   "irgc"
+  ],
+  "causes": [
+   {
+    "story": "2024-07-31-haniyeh-killed",
+    "why": "Revenge for Haniyeh",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-09-17-pager-attacks",
+    "why": "Revenge for Nasrallah",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "strike",
+  "unplaced": "Launched from Iran across the region.",
+  "related_stories": [
+   "2024-07-31-haniyeh-killed",
+   "2024-09-17-pager-attacks",
+   "2025-06-13-israel-strikes-iran",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins",
+   "2024-04-13-iran-strikes-israel"
+  ]
+ },
+ {
+  "id": "2024-10-16-sinwar-killed",
+  "date": "2024-10-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Middle East",
+  "title": "Israeli troops kill Hamas leader Yahya Sinwar in Rafah",
+  "summary": "The Oct 7 architect was killed in a chance encounter with an Israeli patrol in Rafah.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/after-sinwars-death-israel-aims-lock-strategic-gains-before-us-election-2024-10-18/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/10/17/world-reacts-to-israel-claims-hamas-leader-sinwar-killed"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Killing_of_Yahya_Sinwar"
+   }
+  ],
+  "entities": [
+   "yahya-sinwar",
+   "hamas",
+   "israel"
+  ],
+  "causes": [
+   {
+    "story": "2024-05-07-rafah-offensive",
+    "why": "Israel's hold on Rafah",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "rafah"
+  ],
+  "related_stories": [
+   "2024-05-07-rafah-offensive",
+   "2025-01-19-gaza-ceasefire",
+   "2024-07-31-haniyeh-killed"
+  ]
+ },
+ {
+  "id": "2024-10-18-dprk-troops-to-russia",
+  "date": "2024-10-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Russia/Eurasia",
+  "title": "South Korea says North Korea is sending troops to fight for Russia",
+  "summary": "Seoul's intelligence service said thousands of North Korean special forces had been shipped to Russia. More than 11,000 were eventually sent, and they fought in Kursk from December.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2024/10/19/asia/north-korea-ukraine-russia-troops-uniform-intl/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/North_Korean_involvement_in_the_Russo-Ukrainian_war"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "russia",
+   "south-korea"
+  ],
+  "causes": [
+   {
+    "story": "2024-06-19-putin-kim-treaty",
+    "why": "Under the June treaty",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-08-06-kursk-incursion",
+    "why": "Russia needed troops to retake Kursk",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "korean-peninsula",
+   "russia-ukraine"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "Deployment across Russia.",
+  "related_stories": [
+   "2024-06-19-putin-kim-treaty",
+   "2024-08-06-kursk-incursion",
+   "2025-04-28-dprk-confirms-kursk-troops"
+  ]
+ },
+ {
+  "id": "2024-10-27-japan-ldp-loses-majority",
+  "date": "2024-10-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Asia-Pacific",
+  "title": "Ishiba's LDP-led coalition loses its lower-house majority",
+  "summary": "In the snap election Ishiba called after taking office, the LDP and Komeito fell short of a majority for the first time since 2009, leaving a weak minority government.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-votes-election-expected-punish-pm-ishibas-coalition-2024-10-26/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Japanese_general_election"
+   }
+  ],
+  "entities": [
+   "japan",
+   "shigeru-ishiba"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-10-21-takaichi-pm"
+  ]
+ },
+ {
+  "id": "2024-11-05-trump-elected",
+  "date": "2024-11-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Americas",
+  "title": "Donald Trump wins the US presidency again",
+  "summary": "Trump beat Kamala Harris and won the popular vote, while Republicans took both houses of Congress. He promised sweeping tariffs and an end to the Ukraine war.",
+  "sources": [
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/11/07/us/politics/trump-win-election-harris.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us/trumps-erratic-foreign-policy-meet-a-world-fire-2024-11-06/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/11/10/us-election-results-map-2024-how-does-it-compare-to-2020"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "us-tariffs-trade",
+   "transatlantic-rift",
+   "western-hemisphere"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-04-02-liberation-day"
+  ]
+ },
+ {
+  "id": "2024-11-06-german-coalition-collapses",
+  "date": "2024-11-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Europe",
+  "title": "Germany's coalition collapses as Scholz fires Lindner over the debt brake",
+  "summary": "Scholz sacked FDP Finance Minister Christian Lindner after a clash over borrowing, ending the three-party coalition and leading to a February 2025 election.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/germanys-awkward-coalition-faces-make-or-break-moment-2024-11-06/"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2024/11/07/europe/germany-government-collapse-explainer-intl/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_German_government_crisis"
+   }
+  ],
+  "entities": [
+   "germany",
+   "olaf-scholz"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "Berlin has no place entity.",
+  "related_stories": [
+   "2025-03-18-germany-debt-brake"
+  ]
+ },
+ {
+  "id": "2024-11-27-israel-hezbollah-ceasefire",
+  "date": "2024-11-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Middle East",
+  "title": "Israel–Hezbollah ceasefire takes effect",
+  "summary": "Brokered by the US and France, the deal called for Israel's withdrawal within 60 days and Hezbollah's pullback north of the Litani, with the Lebanese army deploying in the south.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-ceasefire-takes-effect-2024-11-27/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/11/27/a-new-page-world-reacts-to-israel-hezbollah-ceasefire"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/11/27/world/middleeast/hezbollah-israel-ceasefire.html"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hezbollah",
+   "lebanon",
+   "united-states",
+   "france"
+  ],
+  "causes": [
+   {
+    "story": "2024-09-17-pager-attacks",
+    "why": "Hezbollah crippled by the autumn campaign",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "levant-wars",
+   "iran-proxy-network"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "unplaced": "Applies along the Lebanon–Israel border.",
+  "related_stories": [
+   "2024-09-17-pager-attacks",
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2024-12-08-assad-falls",
+   "2022-10-11-israel-lebanon",
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-08-17-mou-expires",
+   "2026-10-14-lebanon-yellow-line"
+  ]
+ },
+ {
+  "id": "2024-12-03-yoon-martial-law",
+  "date": "2024-12-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Asia-Pacific",
+  "title": "Yoon Suk Yeol declares martial law; parliament overturns it within hours",
+  "summary": "Yoon sent troops to the National Assembly, but lawmakers got in and voted the decree down, and he lifted it before dawn. He was impeached on Dec 14.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/12/3/south-koreas-president-declares-emergency-martial-law"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/north-korea-reports-south-koreas-martial-law-crisis-first-time-2024-12-10/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "yoon-suk-yeol",
+   "lee-jae-myung"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": [
+   "2025-04-04-yoon-removed"
+  ]
+ },
+ {
+  "id": "2024-12-03-china-bans-gallium-to-us",
+  "date": "2024-12-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Asia-Pacific",
+  "title": "China bans gallium, germanium and antimony exports to the US",
+  "summary": "A day after new US chip controls, Beijing banned shipments of the three minerals to the US, its first explicitly US-targeted minerals embargo.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/markets/commodities/china-bans-exports-gallium-germanium-antimony-us-2024-12-03/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Antimony"
+   }
+  ],
+  "entities": [
+   "china",
+   "united-states",
+   "gallium",
+   "semiconductors"
+  ],
+  "causes": [
+   {
+    "story": "2024-05-14-biden-ev-tariffs",
+    "why": "Tit-for-tat escalation",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-10-07-bis-controls",
+    "why": "Response to US chip controls",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "storylines": [
+   "china-minerals-leverage",
+   "ai-compute-minerals"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "An export ban; no site.",
+  "related_stories": [
+   "2024-05-14-biden-ev-tariffs",
+   "2022-10-07-bis-controls",
+   "2025-04-04-china-rare-earth-controls",
+   "rare-earth-nov10",
+   "ai-minerals",
+   "2022-08-09-chips-act",
+   "2022-08-31-nvidia-ban",
+   "2026-05-14-trump-xi-beijing",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-12-08-h200-china"
+  ]
+ },
+ {
+  "id": "2024-12-08-assad-falls",
+  "date": "2024-12-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-31",
+  "region": "Middle East",
+  "title": "Assad's regime collapses as HTS-led rebels take Damascus",
+  "summary": "An 11-day offensive from Idlib took Aleppo, Hama and Homs before rebels entered Damascus. Assad fled to Moscow, ending more than five decades of family rule. HTS leader Ahmed al-Sharaa took charge.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2024/dec/08/syrian-rebels-enter-damascus-everything-we-know"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/suspected-israeli-strikes-hit-part-damascus-two-security-sources-say-2024-12-08/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime"
+   }
+  ],
+  "entities": [
+   "syria",
+   "hts",
+   "bashar-al-assad",
+   "ahmed-al-sharaa",
+   "russia",
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "2024-11-27-israel-hezbollah-ceasefire",
+    "why": "Hezbollah too weakened to rescue Assad",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-08-06-kursk-incursion",
+    "why": "Russia stretched by Ukraine",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-31",
+  "analysis": {
+   "text": "Iran lost its land bridge to Hezbollah, opening the way for the 2025 US embrace of al-Sharaa.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars",
+   "iran-proxy-network"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "damascus"
+  ],
+  "related_stories": [
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "2024-08-06-kursk-incursion",
+   "2025-03-10-sdf-damascus-deal",
+   "2025-05-13-trump-lifts-syria-sanctions"
   ]
  }
 ]

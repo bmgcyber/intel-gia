@@ -694,5 +694,34 @@
   "evidence": [
    "2026-08-29-niger-mutiny"
   ]
+ },
+ {
+  "id": "iran--patron-proxy--hamas",
+  "a": "iran",
+  "b": "hamas",
+  "type": "patron-proxy",
+  "start": "1992",
+  "end": null,
+  "stated": "Support for 'resistance'",
+  "actual": "Funding and arms; Hamas leaders killed in 2024 including in Tehran",
+  "confidence": "likely",
+  "evidence": [
+   "2024-07-31-haniyeh-killed"
+  ]
+ },
+ {
+  "id": "united-states--rivalry--houthis",
+  "a": "united-states",
+  "b": "houthis",
+  "type": "rivalry",
+  "start": "2023",
+  "end": null,
+  "stated": "Protect Red Sea shipping",
+  "actual": "Strike campaign 2024–25, then a May 2025 truce",
+  "confidence": "likely",
+  "evidence": [
+   "2024-01-12-us-uk-strike-houthis",
+   "2025-05-06-us-houthi-truce"
+  ]
  }
 ]
