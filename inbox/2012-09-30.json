@@ -1,0 +1,425 @@
+{
+ "edition": "2012-09-30",
+ "stories": [
+  {
+   "id": "2012-07-01-pena-nieto-elected",
+   "date": "2012-07-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Enrique Peña Nieto returns the PRI to power in Mexico",
+   "summary": "Runner-up López Obrador contested the result.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Mexican_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/jul/19/lopez-obrador-election-money-laundering"
+    }
+   ],
+   "entities": [
+    "mexico",
+    "enrique-pena-nieto"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "mexico-city"
+   ]
+  },
+  {
+   "id": "2012-07-18-damascus-bombing",
+   "date": "2012-07-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "Bombing kills Syria's defence minister as rebels push into Damascus and Aleppo",
+   "summary": "The battle for Aleppo began the next day and lasted until December 2016.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/18_July_2012_Damascus_bombing"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_%282012%E2%80%932016%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/jul/18/syria-rebels-kill-elite-damascus"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "damascus"
+   ]
+  },
+  {
+   "id": "2012-07-26-draghi-whatever-it-takes",
+   "date": "2012-07-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Europe",
+   "title": "Draghi pledges the ECB will do 'whatever it takes' to save the euro",
+   "summary": "His London remark and September's OMT bond-buying programme ended the acute phase of the crisis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mario_Draghi"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Outright_Monetary_Transactions"
+    }
+   ],
+   "entities": [
+    "ecb",
+    "mario-draghi",
+    "european-union"
+   ],
+   "storylines": [
+    "eurozone-crisis",
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2012-08-20-obama-red-line",
+   "date": "2012-08-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Obama warns that Syrian chemical weapons use would cross a 'red line'",
+   "summary": "He did not enforce it after the August 2013 Ghouta attack.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Red_line_%28phrase%29"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2012-09-11-benghazi-attack",
+   "date": "2012-09-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Militants kill US Ambassador Chris Stevens in Benghazi",
+   "summary": "Ansar al-Sharia attacked the US compound; the attack became a long-running US political fight.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Benghazi_attack"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/sep/12/benghazi-attack-us-officials-consulate"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "libya",
+    "ansar-al-sharia-libya"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "strike",
+   "where": [
+    "benghazi"
+   ]
+  },
+  {
+   "id": "2012-09-11-senkaku-purchase",
+   "date": "2012-09-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Japan buys three Senkaku islands, sparking anti-Japan riots in China",
+   "summary": "Protests spread to more than 100 Chinese cities, and Chinese patrols around the islands became routine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Senkaku_Islands_dispute"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_anti-Japanese_demonstrations_in_China"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2012/09/16/161228298/chinese-flood-streets-in-anti-japan-demonstrations"
+    }
+   ],
+   "entities": [
+    "japan",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "senkaku-islands"
+   ]
+  },
+  {
+   "id": "2012-09-28-kismayo-falls",
+   "date": "2012-09-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Kenyan forces take Kismayo, al-Shabaab's last major stronghold",
+   "summary": "Losing the port cut al-Shabaab's revenue; it struck back with the Westgate attack.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Kismayo_%282012%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/sep/28/kenyan-soldiers-capture-kismayo-somalia"
+    }
+   ],
+   "entities": [
+    "kenya",
+    "al-shabaab",
+    "somalia"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "where": [
+    "kismayo"
+   ]
+  },
+  {
+   "id": "2012-07-19-ypg-takes-kobani",
+   "date": "2012-07-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "Kurdish YPG takes Kobani as Assad's forces withdraw from the north",
+   "summary": "The 'Rojava revolution' created the Kurdish-run zone that became the base of the US-backed SDF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rojava_revolution"
+    }
+   ],
+   "entities": [
+    "ypg",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars",
+    "isis-war"
+   ],
+   "marker": "military",
+   "where": [
+    "kobani"
+   ]
+  },
+  {
+   "id": "2012-08-16-marikana-massacre",
+   "date": "2012-08-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "South African police kill 34 striking miners at Marikana",
+   "summary": "Police fired on strikers at the Lonmin platinum mine; Cyril Ramaphosa, then on the Lonmin board, was criticised.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marikana_massacre"
+    }
+   ],
+   "entities": [
+    "south-africa"
+   ],
+   "marker": "strike",
+   "where": [
+    "marikana"
+   ]
+  },
+  {
+   "id": "2012-09-04-farc-talks-open",
+   "date": "2012-09",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Americas",
+   "title": "Colombia and the FARC open formal peace talks",
+   "summary": "Negotiations in Havana led to the 2016 peace deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Colombian_peace_process"
+    }
+   ],
+   "entities": [
+    "colombia",
+    "farc",
+    "cuba"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "havana"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2012-07-01-pena-nieto-elected",
+    "2012-09-04-farc-talks-open"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2012-07-18-damascus-bombing",
+    "2012-08-20-obama-red-line",
+    "2012-07-19-ypg-takes-kobani"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2012-07-26-draghi-whatever-it-takes"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2012-07-26-draghi-whatever-it-takes"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2012-09-11-benghazi-attack"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2012-09-11-senkaku-purchase"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2012-09-28-kismayo-falls"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2012-07-19-ypg-takes-kobani"
+   ]
+  }
+ ]
+}
