@@ -1,0 +1,171 @@
+{
+ "edition": "2011-06-30",
+ "stories": [
+  {
+   "id": "2011-04-05-hazare-hunger-strike",
+   "date": "2011-04-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Anna Hazare's hunger strike launches India's anti-corruption movement",
+   "summary": "Protests against Congress-era scandals helped prepare the ground for the BJP's 2014 victory.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Anna_Hazare"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Indian_anti-corruption_movement"
+    }
+   ],
+   "entities": [
+    "india",
+    "anna-hazare"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "unplaced": "Protests in New Delhi."
+  },
+  {
+   "id": "2011-04-11-gbagbo-captured",
+   "date": "2011-04-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "French-backed forces capture Laurent Gbagbo, ending Ivory Coast's crisis",
+   "summary": "Gbagbo refused to concede the 2010 election to Alassane Ouattara.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010%E2%80%932011_Ivorian_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/apr/01/ivory-coast-new-forces-rebels-revolution"
+    }
+   ],
+   "entities": [
+    "ivory-coast",
+    "laurent-gbagbo",
+    "alassane-ouattara",
+    "france"
+   ],
+   "marker": "military",
+   "where": [
+    "abidjan"
+   ]
+  },
+  {
+   "id": "2011-05-02-bin-laden-killed",
+   "date": "2011-05-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "US SEALs kill Osama bin Laden in Abbottabad, Pakistan",
+   "summary": "His presence near Pakistan's military academy deepened US mistrust of Islamabad.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/may/02/bin-laden-body-buried-sea"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "osama-bin-laden",
+    "al-qaeda",
+    "pakistan",
+    "barack-obama"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "abbottabad"
+   ]
+  },
+  {
+   "id": "2011-05-30-germany-nuclear-exit",
+   "date": "2011-05-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Europe",
+   "title": "Germany decides to close all its nuclear plants by 2022",
+   "summary": "The phase-out deepened its reliance on Russian gas.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_Germany"
+    }
+   ],
+   "entities": [
+    "germany",
+    "angela-merkel"
+   ],
+   "storylines": [
+    "europe-cost-of-living"
+   ],
+   "causes": [
+    {
+     "story": "2011-03-11-fukushima-meltdown",
+     "why": "Response to Fukushima",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "berlin"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2011-04-05-hazare-hunger-strike"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2011-05-02-bin-laden-killed"
+   ]
+  },
+  {
+   "id": "europe-cost-of-living",
+   "name": "Europe: energy shock, cost of living & the populist surge",
+   "entities": [
+    "france",
+    "european-union",
+    "inflation"
+   ],
+   "stories": [
+    "2011-05-30-germany-nuclear-exit"
+   ]
+  }
+ ]
+}
