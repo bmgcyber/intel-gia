@@ -1,0 +1,535 @@
+{
+ "edition": "2007-03-31",
+ "entities": [
+  {
+   "id": "george-w-bush",
+   "name": "George W. Bush",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush"
+  },
+  {
+   "id": "estonia",
+   "name": "Estonia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Estonia"
+  },
+  {
+   "id": "bulgaria",
+   "name": "Bulgaria",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bulgaria"
+  },
+  {
+   "id": "fatah",
+   "name": "Fatah",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fatah"
+  },
+  {
+   "id": "african-union",
+   "name": "African Union",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/African_Union"
+  },
+  {
+   "id": "nicolas-sarkozy",
+   "name": "Nicolas Sarkozy",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Sarkozy"
+  },
+  {
+   "id": "benazir-bhutto",
+   "name": "Benazir Bhutto",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benazir_Bhutto"
+  },
+  {
+   "id": "hu-jintao",
+   "name": "Hu Jintao",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hu_Jintao"
+  },
+  {
+   "id": "munich",
+   "name": "Munich",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Munich",
+   "lat": 48.1375,
+   "lon": 11.575,
+   "precision": "city"
+  },
+  {
+   "id": "tallinn",
+   "name": "Tallinn",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tallinn",
+   "lat": 59.43722222,
+   "lon": 24.74527778,
+   "precision": "city"
+  },
+  {
+   "id": "rawalpindi",
+   "name": "Rawalpindi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rawalpindi",
+   "lat": 33.6,
+   "lon": 73.03333333,
+   "precision": "city"
+  },
+  {
+   "id": "lisbon",
+   "name": "Lisbon",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lisbon",
+   "lat": 38.72527778,
+   "lon": -9.15,
+   "precision": "city"
+  },
+  {
+   "id": "managua",
+   "name": "Managua",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Managua",
+   "lat": 12.13638889,
+   "lon": -86.25138889,
+   "precision": "city"
+  },
+  {
+   "id": "annapolis",
+   "name": "Annapolis",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Annapolis%2C_Maryland",
+   "lat": 38.97305556,
+   "lon": -76.50111111,
+   "precision": "city"
+  },
+  {
+   "id": "canberra",
+   "name": "Canberra",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Canberra",
+   "lat": -35.29305556,
+   "lon": 149.12694444,
+   "precision": "city"
+  },
+  {
+   "id": "nusa-dua",
+   "name": "Nusa Dua, Bali",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nusa_Dua",
+   "lat": -8.8025,
+   "lon": 115.2275,
+   "precision": "city"
+  },
+  {
+   "id": "newcastle-upon-tyne",
+   "name": "Newcastle upon Tyne",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+   "lat": 54.9738,
+   "lon": -1.6131,
+   "precision": "city"
+  },
+  {
+   "id": "al-kibar",
+   "name": "Al Kibar reactor site",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al_Kibar",
+   "lat": 35.70777778,
+   "lon": 39.83361111,
+   "precision": "feature"
+  },
+  {
+   "id": "lal-masjid",
+   "name": "Lal Masjid, Islamabad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Lal_Masjid",
+   "lat": 33.7128,
+   "lon": 73.087,
+   "precision": "feature"
+  },
+  {
+   "id": "xichang",
+   "name": "Xichang Satellite Launch Center",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
+   "lat": 28.24555556,
+   "lon": 102.02666667,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2007-01-01-bulgaria-romania-join-eu",
+   "date": "2007-01-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Europe",
+   "title": "Bulgaria and Romania join the European Union",
+   "summary": "The accession completed the EU's big eastward expansion.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_enlargement_of_the_European_Union"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "bulgaria",
+    "romania"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "bucharest"
+   ]
+  },
+  {
+   "id": "2007-01-10-ortega-returns",
+   "date": "2007-01-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Americas",
+   "title": "Daniel Ortega returns as Nicaragua's president",
+   "summary": "The former Sandinista leader went on to dismantle checks on his power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Daniel_Ortega"
+    }
+   ],
+   "entities": [
+    "nicaragua",
+    "daniel-ortega"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "managua"
+   ]
+  },
+  {
+   "id": "2007-01-10-iraq-surge-announced",
+   "date": "2007-01-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Middle East",
+   "title": "Bush announces a 'surge' of over 20,000 more troops to Iraq",
+   "summary": "With the Sunni Awakening, the surge cut violence sharply by 2008.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iraq_War_troop_surge_of_2007"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2007-01-11-china-asat-test",
+   "date": "2007-01-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Asia-Pacific",
+   "title": "China destroys one of its own satellites with a missile",
+   "summary": "The test left a large debris cloud and signalled China's counter-space ambitions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_Chinese_anti-satellite_missile_test"
+    }
+   ],
+   "entities": [
+    "china",
+    "pla"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "where": [
+    "xichang"
+   ]
+  },
+  {
+   "id": "2007-02-10-putin-munich-speech",
+   "date": "2007-02-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Europe",
+   "title": "Putin's Munich speech attacks US 'unipolar' power and NATO expansion",
+   "summary": "The speech is widely seen as the opening statement of Russia's confrontation with the West.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Munich_speech_of_Vladimir_Putin"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "nato",
+    "united-states"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "munich"
+   ]
+  },
+  {
+   "id": "2007-02-13-six-party-deal",
+   "date": "2007-02-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Asia-Pacific",
+   "title": "Six-Party Talks agree a first step to shut down Yongbyon",
+   "summary": "North Korea pledged to disable its reactor in return for fuel aid.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Six-party_talks"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "united-states",
+    "china",
+    "south-korea",
+    "japan",
+    "russia"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2007-02-20-amisom-authorised",
+   "date": "2007-02-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Africa",
+   "title": "The UN backs an African Union force for Somalia",
+   "summary": "AMISOM went on to fight al-Shabaab for over a decade.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/African_Union_Mission_to_Somalia"
+    }
+   ],
+   "entities": [
+    "african-union",
+    "somalia",
+    "al-shabaab"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "military",
+   "where": [
+    "mogadishu"
+   ]
+  },
+  {
+   "id": "2007-03-24-unsc-1747",
+   "date": "2007-03-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Middle East",
+   "title": "UN Security Council tightens sanctions on Iran's nuclear programme",
+   "summary": "Resolution 1747 banned Iranian arms exports.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1747"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-states",
+    "iaea"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  },
+  {
+   "id": "2007-01-15-correa-takes-office",
+   "date": "2007-01-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Americas",
+   "title": "Rafael Correa takes office in Ecuador, joining the leftist 'pink tide'",
+   "summary": "He rewrote the constitution and defaulted on part of Ecuador's debt.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rafael_Correa"
+    }
+   ],
+   "entities": [
+    "ecuador"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "quito"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2007-01-01-bulgaria-romania-join-eu"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2007-01-10-ortega-returns",
+    "2007-01-15-correa-takes-office"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2007-01-10-iraq-surge-announced"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2007-01-11-china-asat-test"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2007-02-10-putin-munich-speech"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2007-02-13-six-party-deal"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2007-02-20-amisom-authorised"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2007-03-24-unsc-1747"
+   ]
+  }
+ ]
+}
