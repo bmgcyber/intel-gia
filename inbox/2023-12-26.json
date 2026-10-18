@@ -1,0 +1,61 @@
+{
+ "edition": "2023-12-26",
+ "stories": [
+  {
+   "id": "2023-10-10-avdiivka-offensive",
+   "date": "2023-10-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2023 (war of attrition)",
+   "region": "Russia/Eurasia",
+   "title": "Russia launches its offensive to take Avdiivka",
+   "summary": "The assault on one of Ukraine's most fortified towns, a gateway to Donetsk city, became one of the bloodiest battles of the war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_%282023%E2%80%932024%29"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/oct/15/russia-avdiivka-offensive-failing-top-ukrainian-officer-donetsk"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2023-06-04-counteroffensive",
+     "why": "Russia seized the initiative after Ukraine's failed counter-offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "avdiivka"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2023-10-10-avdiivka-offensive"
+   ]
+  }
+ ]
+}
