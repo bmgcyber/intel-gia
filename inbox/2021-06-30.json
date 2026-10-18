@@ -1,0 +1,560 @@
+{
+ "edition": "2021-06-30",
+ "stories": [
+  {
+   "id": "2021-04-01-russia-spring-buildup",
+   "date": "2021-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Russia/Eurasia",
+   "title": "Russia masses troops on Ukraine's border and in Crimea",
+   "summary": "In March–April 2021 Russia staged its largest buildup since 2014. Troops partly withdrew by June but left equipment in place, and a second buildup began in October.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Prelude_to_the_2022_Russian_invasion_of_Ukraine"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2021/04/22/europe/russia-military-ukraine-border-exercises-intl/index.html"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/apr/09/kremlin-officials-say-russia-will-not-stand-aside-if-kyiv-launches-assault"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "military",
+   "unplaced": "Buildup along the whole border and in Crimea."
+  },
+  {
+   "id": "2021-04-11-natanz-sabotage",
+   "date": "2021-04-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Middle East",
+   "title": "Blast knocks out power at Natanz; Iran answers with 60% enrichment",
+   "summary": "A remotely detonated device widely attributed to Israel destroyed the plant's power supply and damaged thousands of centrifuges as Vienna talks to revive the JCPOA began. Iran restricted IAEA access and raised enrichment.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Natanz_incident"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/4/11/incident-at-iranian-nuclear-site-targeted-by-blast-last-year"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/apr/11/accident-at-irans-natanz-nuclear-plant-as-new-uranium-enrichment-starts"
+    }
+   ],
+   "entities": [
+    "iran",
+    "israel",
+    "iaea",
+    "jcpoa"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2020-07-02-natanz-fire",
+     "why": "Second sabotage at Natanz",
+     "confidence": "likely"
+    },
+    {
+     "story": "2020-11-27-fakhrizadeh-killed",
+     "why": "Israel's covert campaign",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "natanz"
+   ]
+  },
+  {
+   "id": "2021-04-14-us-afghan-exit-order",
+   "date": "2021-04-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Asia-Pacific",
+   "title": "Biden orders all US troops out of Afghanistan by September 11",
+   "summary": "Biden said the remaining 2,500 troops would start leaving on May 1 and be gone by the 20th anniversary of 9/11. The Taliban launched a nationwide offensive as the pullout began.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Taliban_offensive"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_Kabul_%282021%29"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "joe-biden",
+    "afghanistan",
+    "taliban"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2020-02-29-doha-agreement",
+     "why": "Withdrawal under the Doha deal",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2021-04-20-deby-killed",
+   "date": "2021-04-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Africa",
+   "title": "Chad's Idriss Déby dies fighting rebels; his son takes power",
+   "summary": "Déby, in power since 1990, was wounded at the front against FACT rebels and died the next day. A military council led by his son Mahamat took over.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Idriss_D%C3%A9by"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/4/20/chads-idriss-deby-wins-6th-term-as-army-fends-off-rebel-advance"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/apr/20/chad-president-idriss-deby-dies-military-says"
+    }
+   ],
+   "entities": [
+    "chad",
+    "idriss-deby",
+    "mahamat-deby",
+    "france"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "military",
+   "unplaced": "Died near the northern front; no verified pin."
+  },
+  {
+   "id": "2021-05-07-colonial-pipeline",
+   "date": "2021-05-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Americas",
+   "title": "Ransomware shuts the Colonial Pipeline, causing US fuel shortages",
+   "summary": "The DarkSide gang's attack forced the operator of the main fuel line to the US Southeast to halt it; the company paid about $4.4m in bitcoin, most of which the FBI later recovered.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2021/05/08/995040240/cybersecurity-attack-shuts-down-a-top-u-s-gasoline-pipeline"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2021/5/11/petrol-shortages-sweep-us-as-colonial-pipeline-remains-down"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "petroleum"
+   ],
+   "marker": "energy",
+   "unplaced": "Cyberattack on a pipeline network."
+  },
+  {
+   "id": "2021-05-10-gaza-war",
+   "date": "2021-05-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Middle East",
+   "title": "Eleven-day Gaza war after clashes in Jerusalem",
+   "summary": "Protests over planned evictions in Sheikh Jarrah and police raids on Al-Aqsa led Hamas and Islamic Jihad to fire rockets on May 10. Israel bombed Gaza until a ceasefire on May 21.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2021/05/1091492"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/may/10/dozens-injured-in-clashes-over-israeli-settlements-ahead-of-jerusalem-day-march"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "palestinian-islamic-jihad",
+    "benjamin-netanyahu"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Hamas drew the lesson that it could link Gaza to Jerusalem, a theme it later used to justify October 7.",
+    "confidence": "possible"
+   },
+   "where": [
+    "jerusalem",
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2021-05-23-ryanair-diversion",
+   "date": "2021-05-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Europe",
+   "title": "Belarus forces down a Ryanair jet to arrest a dissident journalist",
+   "summary": "Belarus diverted the Athens–Vilnius flight to Minsk with a false bomb claim and arrested Roman Protasevich. The EU barred its airlines from Belarusian airspace; Russia backed Minsk.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/5/24/hamas-rejects-belarus-claim-over-plane-bomb-threat"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2021/05/23/world/europe/ryanair-belarus.html"
+    }
+   ],
+   "entities": [
+    "belarus",
+    "alexander-lukashenko",
+    "european-union",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2020-08-09-belarus-protests",
+     "why": "Crackdown after the 2020 uprising",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "minsk"
+   ]
+  },
+  {
+   "id": "2021-05-24-mali-second-coup",
+   "date": "2021-05-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Africa",
+   "title": "Mali's junta stages a second coup",
+   "summary": "Colonel Assimi Goïta's soldiers arrested the transitional president and prime minister after a reshuffle and stripped them of power, nine months after the 2020 coup.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Malian_coup_d%27%C3%A9tat"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/5/24/military-arrest-malis-president-pm-following-govt-reshuffle"
+    },
+    {
+     "name": "The Guardian",
+     "url": "http://www.theguardian.com/world/2021/may/24/mali-president-prime-minister-and-defence-minister-arrested-sources-say"
+    }
+   ],
+   "entities": [
+    "mali",
+    "assimi-goita",
+    "ecowas"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2020-08-18-mali-coup",
+     "why": "Same junta tightens its grip",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "bamako"
+   ]
+  },
+  {
+   "id": "2021-06-13-bennett-government",
+   "date": "2021-06-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Middle East",
+   "title": "Netanyahu is ousted as an eight-party coalition takes office in Israel",
+   "summary": "Naftali Bennett became prime minister in a rotation with Yair Lapid; it was the first coalition to include an Arab party. It collapsed in June 2022, paving the way for Netanyahu's return.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel"
+    }
+   ],
+   "entities": [
+    "israel",
+    "naftali-bennett",
+    "benjamin-netanyahu",
+    "knesset"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "unplaced": "Government formation."
+  },
+  {
+   "id": "2021-06-16-biden-putin-geneva",
+   "date": "2021-06-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Russia/Eurasia",
+   "title": "Biden and Putin meet in Geneva",
+   "summary": "The summit produced a joint statement on strategic stability and the return of ambassadors, but no breakthroughs on Ukraine or cyberattacks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Russia%E2%80%93United_States_summit"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2021/jun/09/biden-putin-summit-villa-switzerland-venue"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "joe-biden",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2021-04-01-russia-spring-buildup",
+     "why": "Tension over Ukraine",
+     "confidence": "likely"
+    },
+    {
+     "story": "2020-12-13-solarwinds-hack",
+     "why": "Cyber dispute",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "geneva"
+   ]
+  },
+  {
+   "id": "2021-06-18-raisi-elected",
+   "date": "2021-06-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Middle East",
+   "title": "Hardliner Ebrahim Raisi wins Iran's presidency on record-low turnout",
+   "summary": "After the Guardian Council disqualified leading rivals, Raisi won with turnout around 49%, the lowest in the Islamic Republic's history.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/6/19/iran-elections-raisis-opponents-concede-as-announcement-awaited"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2021/06/19/middleeast/ebrahim-raisi-iran-election-intl-hnk/index.html"
+    }
+   ],
+   "entities": [
+    "iran",
+    "ebrahim-raisi",
+    "ali-khamenei"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2021-06-28-tdf-retakes-mekelle",
+   "date": "2021-06-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Africa",
+   "title": "Tigrayan forces retake Mekelle as federal troops withdraw",
+   "summary": "The TDF's 'Operation Alula', launched on Jun 11, recaptured much of central and eastern Tigray, and Ethiopia declared a unilateral ceasefire as its troops left the regional capital.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Alula"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2021/06/28/world/asia/tigray-mekelle-ethiopia-retreat.html"
+    }
+   ],
+   "entities": [
+    "tplf",
+    "ethiopia",
+    "abiy-ahmed",
+    "eritrea"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [
+    {
+     "story": "2020-11-04-tigray-war",
+     "why": "Counter-offensive in the Tigray war",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "mekelle"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2021-04-01-russia-spring-buildup",
+    "2021-05-23-ryanair-diversion",
+    "2021-06-16-biden-putin-geneva"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2021-04-11-natanz-sabotage",
+    "2021-06-18-raisi-elected"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2021-04-14-us-afghan-exit-order"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2021-04-20-deby-killed",
+    "2021-05-24-mali-second-coup"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2021-05-10-gaza-war",
+    "2021-06-13-bennett-government"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2021-06-28-tdf-retakes-mekelle"
+   ]
+  }
+ ]
+}
