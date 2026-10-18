@@ -1,0 +1,282 @@
+{
+ "edition": "2005-06-30",
+ "stories": [
+  {
+   "id": "2005-04-anti-japan-protests",
+   "date": "2005-04",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Asia-Pacific",
+   "title": "Anti-Japanese protests sweep Chinese cities",
+   "summary": "Anger over textbooks and Japan's UN bid foreshadowed later Senkaku tensions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_anti-Japanese_demonstrations"
+    }
+   ],
+   "entities": [
+    "china",
+    "japan"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2005-05-13-andijan-massacre",
+   "date": "2005-05-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Russia/Eurasia",
+   "title": "Uzbek troops fire on protesters in Andijan",
+   "summary": "After Western criticism, Uzbekistan evicted the US from its air base and turned to Moscow.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Andijan_massacre"
+    }
+   ],
+   "entities": [
+    "uzbekistan",
+    "united-states",
+    "russia"
+   ],
+   "storylines": [
+    "central-asia"
+   ],
+   "marker": "military",
+   "where": [
+    "andijan"
+   ]
+  },
+  {
+   "id": "2005-05-29-eu-constitution-rejected",
+   "date": "2005-05-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Europe",
+   "title": "French voters reject the EU constitution; the Dutch follow days later",
+   "summary": "The treaty was reworked into the Lisbon Treaty.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_French_European_Constitution_referendum"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Dutch_European_Constitution_referendum"
+    }
+   ],
+   "entities": [
+    "france",
+    "netherlands",
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2005-05-murambatsvina",
+   "date": "2005-05",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "Mugabe's Operation Murambatsvina razes urban slums in Zimbabwe",
+   "summary": "The UN said about 700,000 people lost homes or livelihoods.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Murambatsvina"
+    }
+   ],
+   "entities": [
+    "zimbabwe",
+    "robert-mugabe"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "harare"
+   ]
+  },
+  {
+   "id": "2005-05-15-ethiopia-election-crackdown",
+   "date": "2005-05-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Africa",
+   "title": "Ethiopia's disputed election ends in a deadly crackdown",
+   "summary": "Meles Zenawi's government jailed opposition leaders.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Ethiopian_general_election"
+    }
+   ],
+   "entities": [
+    "ethiopia"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "where": [
+    "addis-ababa"
+   ]
+  },
+  {
+   "id": "2005-06-24-ahmadinejad-elected",
+   "date": "2005-06-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Middle East",
+   "title": "Mahmoud Ahmadinejad wins Iran's presidency",
+   "summary": "Tehran resumed uranium conversion in August, ending a freeze agreed with Europe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election"
+    }
+   ],
+   "entities": [
+    "iran",
+    "mahmoud-ahmadinejad"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2005-05-31-khodorkovsky-sentenced",
+   "date": "2005-05-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+   "region": "Russia/Eurasia",
+   "title": "Yukos founder Mikhail Khodorkovsky is sentenced to nine years",
+   "summary": "Yukos's main assets passed to state-owned Rosneft.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+    }
+   ],
+   "entities": [
+    "russia",
+    "mikhail-khodorkovsky",
+    "rosneft"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2005-04-anti-japan-protests"
+   ]
+  },
+  {
+   "id": "central-asia",
+   "name": "Central Asia upheavals",
+   "entities": [
+    "kyrgyzstan",
+    "kazakhstan"
+   ],
+   "stories": [
+    "2005-05-13-andijan-massacre"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2005-05-29-eu-constitution-rejected"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2005-05-murambatsvina"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2005-05-15-ethiopia-election-crackdown"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2005-06-24-ahmadinejad-elected"
+   ]
+  }
+ ]
+}
