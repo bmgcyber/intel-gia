@@ -47839,7 +47839,9 @@
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-09-07-silk-road-economic-belt"
+  ]
  },
  {
   "id": "2013-03-24-seleka-takes-bangui",
@@ -48364,6 +48366,294 @@
   "marker": "political",
   "where": [
    "doha"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-07-03-morsi-ousted",
+  "date": "2013-07-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Africa",
+  "title": "Egypt's army under Sisi ousts President Morsi",
+  "summary": "Mass protests preceded the coup against the Muslim Brotherhood leader; Gulf monarchies funded the new government.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_Egyptian_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/jul/03/mohamed-morsi-egypt-second-revolution"
+   }
+  ],
+  "entities": [
+   "egypt",
+   "mohamed-morsi",
+   "abdel-fattah-el-sisi",
+   "muslim-brotherhood",
+   "saudi-arabia",
+   "uae"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "cairo"
+  ],
+  "related_stories": [
+   "2013-08-14-rabaa-massacre",
+   "2023-08-24-brics-expansion",
+   "egypt-offers-to-defend-saudi",
+   "2021-01-05-al-ula-qatar",
+   "2017-06-05-qatar-blockade"
+  ]
+ },
+ {
+  "id": "2013-08-14-rabaa-massacre",
+  "date": "2013-08-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Africa",
+  "title": "Egyptian security forces kill hundreds clearing pro-Morsi sit-ins",
+  "summary": "Estimates of the death toll range from 600 to 2,600.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rabaa_massacre"
+   }
+  ],
+  "entities": [
+   "egypt",
+   "abdel-fattah-el-sisi",
+   "muslim-brotherhood"
+  ],
+  "causes": [
+   {
+    "story": "2013-07-03-morsi-ousted",
+    "why": "Crackdown after the coup",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "strike",
+  "where": [
+   "rabaa-mosque"
+  ],
+  "related_stories": [
+   "2013-07-03-morsi-ousted"
+  ]
+ },
+ {
+  "id": "2013-08-21-ghouta-sarin",
+  "date": "2013-08-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Middle East",
+  "title": "Assad's forces kill hundreds with sarin in the Ghouta suburbs of Damascus",
+  "summary": "Estimates range from 281 to 1,729 dead; Obama did not enforce his 'red line' with strikes.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ghouta_chemical_attack"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/aug/21/syria-poisonous-gas-attack-claim"
+   }
+  ],
+  "entities": [
+   "syria",
+   "bashar-al-assad",
+   "united-states",
+   "barack-obama"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "strike",
+  "where": [
+   "ghouta"
+  ],
+  "related_stories": [
+   "2013-09-14-syria-chemical-deal",
+   "2014-08-08-us-strikes-isis-iraq"
+  ]
+ },
+ {
+  "id": "2013-09-14-syria-chemical-deal",
+  "date": "2013-09-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Middle East",
+  "title": "US and Russia agree to remove Syria's chemical weapons",
+  "summary": "Syria joined the Chemical Weapons Convention; the deal averted US strikes and boosted Russia's role in Syria.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Destruction_of_Syria%27s_chemical_weapons"
+   },
+   {
+    "name": "US State Department",
+    "url": "https://2009-2017.state.gov/r/pa/prs/ps/2013/09/214247.htm"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "syria"
+  ],
+  "causes": [
+   {
+    "story": "2013-08-21-ghouta-sarin",
+    "why": "Deal in place of strikes",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "diplomacy",
+  "where": [
+   "geneva"
+  ],
+  "related_stories": [
+   "2013-08-21-ghouta-sarin",
+   "2019-10-09-operation-peace-spring",
+   "2018-02-07-battle-of-khasham",
+   "2018-04-14-us-uk-france-strike-syria",
+   "2017-04-07-shayrat-strike"
+  ]
+ },
+ {
+  "id": "2013-09-07-silk-road-economic-belt",
+  "date": "2013-09-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Asia-Pacific",
+  "title": "Xi unveils the 'Silk Road Economic Belt' in Astana",
+  "summary": "In October he added a 'Maritime Silk Road' in Indonesia; together these became the Belt and Road Initiative.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Belt_and_Road_Initiative"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping",
+   "kazakhstan",
+   "belt-and-road"
+  ],
+  "causes": [
+   {
+    "story": "2013-03-14-xi-becomes-president",
+    "why": "Xi's signature policy",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "diplomacy",
+  "where": [
+   "astana"
+  ],
+  "related_stories": [
+   "2013-03-14-xi-becomes-president",
+   "2014-11-08-silk-road-fund"
+  ]
+ },
+ {
+  "id": "2013-09-21-westgate-attack",
+  "date": "2013-09-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Africa",
+  "title": "Al-Shabaab attacks Nairobi's Westgate mall",
+  "summary": "The four-day siege killed 67 victims plus four gunmen; al-Shabaab cited Kenya's troops in Somalia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/sep/21/kenyan-shopping-mall-attack-dead"
+   }
+  ],
+  "entities": [
+   "al-shabaab",
+   "kenya"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "strike",
+  "where": [
+   "westgate-mall"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-09-22-merkel-third-term",
+  "date": "2013-09-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-09-30",
+  "region": "Europe",
+  "title": "Merkel wins a third term with the CDU/CSU's best result since 1990",
+  "summary": "The bloc took nearly 42% and then formed a grand coalition with the SPD.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_German_federal_election"
+   }
+  ],
+  "entities": [
+   "germany",
+   "angela-merkel"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-09-30",
+  "storylines": [
+   "europe-populism"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "berlin"
   ],
   "related_stories": []
  }
