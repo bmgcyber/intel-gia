@@ -1,0 +1,976 @@
+{
+ "edition": "2020-12-30",
+ "entities": [
+  {
+   "id": "ant-group",
+   "name": "Ant Group",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ant_Group"
+  },
+  {
+   "id": "quad",
+   "name": "Quad (Quadrilateral Security Dialogue)",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+  },
+  {
+   "id": "austria",
+   "name": "Austria",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Austria"
+  },
+  {
+   "id": "guinea",
+   "name": "Guinea",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guinea"
+  },
+  {
+   "id": "mamady-doumbouya",
+   "name": "Mamady Doumbouya",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mamady_Doumbouya"
+  },
+  {
+   "id": "chad",
+   "name": "Chad",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chad"
+  },
+  {
+   "id": "idriss-deby",
+   "name": "Idriss Déby",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Idriss_D%C3%A9by"
+  },
+  {
+   "id": "mahamat-deby",
+   "name": "Mahamat Déby",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahamat_D%C3%A9by"
+  },
+  {
+   "id": "jovenel-moise",
+   "name": "Jovenel Moïse",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jovenel_Mo%C3%AFse"
+  },
+  {
+   "id": "nicaragua",
+   "name": "Nicaragua",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicaragua"
+  },
+  {
+   "id": "daniel-ortega",
+   "name": "Daniel Ortega",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Ortega"
+  },
+  {
+   "id": "gabriel-boric",
+   "name": "Gabriel Boric",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Boric"
+  },
+  {
+   "id": "angela-merkel",
+   "name": "Angela Merkel",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merkel"
+  },
+  {
+   "id": "fumio-kishida",
+   "name": "Fumio Kishida",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fumio_Kishida"
+  },
+  {
+   "id": "naftali-bennett",
+   "name": "Naftali Bennett",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Naftali_Bennett"
+  },
+  {
+   "id": "ashraf-ghani",
+   "name": "Ashraf Ghani",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ashraf_Ghani"
+  },
+  {
+   "id": "canada",
+   "name": "Canada",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Canada"
+  },
+  {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Carney"
+  },
+  {
+   "id": "gabon",
+   "name": "Gabon",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gabon"
+  },
+  {
+   "id": "brice-oligui-nguema",
+   "name": "Brice Oligui Nguema",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brice_Oligui_Nguema"
+  },
+  {
+   "id": "credit-suisse",
+   "name": "Credit Suisse",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Credit_Suisse"
+  },
+  {
+   "id": "switzerland",
+   "name": "Switzerland",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Switzerland"
+  },
+  {
+   "id": "daniel-noboa",
+   "name": "Daniel Noboa",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Noboa"
+  },
+  {
+   "id": "bola-tinubu",
+   "name": "Bola Tinubu",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bola_Tinubu"
+  },
+  {
+   "id": "slovakia",
+   "name": "Slovakia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Slovakia"
+  },
+  {
+   "id": "robert-fico",
+   "name": "Robert Fico",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Fico"
+  },
+  {
+   "id": "netherlands",
+   "name": "Netherlands",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Netherlands"
+  },
+  {
+   "id": "geert-wilders",
+   "name": "Geert Wilders",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Geert_Wilders"
+  },
+  {
+   "id": "donald-tusk",
+   "name": "Donald Tusk",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk"
+  },
+  {
+   "id": "moldova",
+   "name": "Moldova",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moldova"
+  },
+  {
+   "id": "maia-sandu",
+   "name": "Maia Sandu",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maia_Sandu"
+  },
+  {
+   "id": "georgia",
+   "name": "Georgia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgia_%28country%29"
+  },
+  {
+   "id": "georgian-dream",
+   "name": "Georgian Dream",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgian_Dream"
+  },
+  {
+   "id": "romania",
+   "name": "Romania",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Romania"
+  },
+  {
+   "id": "calin-georgescu",
+   "name": "Călin Georgescu",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/C%C4%83lin_Georgescu"
+  },
+  {
+   "id": "south-africa",
+   "name": "South Africa",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/South_Africa"
+  },
+  {
+   "id": "senegal",
+   "name": "Senegal",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Senegal"
+  },
+  {
+   "id": "bassirou-diomaye-faye",
+   "name": "Bassirou Diomaye Faye",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bassirou_Diomaye_Faye"
+  },
+  {
+   "id": "kenya",
+   "name": "Kenya",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kenya"
+  },
+  {
+   "id": "william-ruto",
+   "name": "William Ruto",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Ruto"
+  },
+  {
+   "id": "nepal",
+   "name": "Nepal",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nepal"
+  },
+  {
+   "id": "rodrigo-paz",
+   "name": "Rodrigo Paz",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Paz_Pereira"
+  },
+  {
+   "id": "czech-republic",
+   "name": "Czech Republic",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Czech_Republic"
+  },
+  {
+   "id": "andrej-babis",
+   "name": "Andrej Babiš",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1"
+  },
+  {
+   "id": "karol-nawrocki",
+   "name": "Karol Nawrocki",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karol_Nawrocki"
+  },
+  {
+   "id": "kamala-harris",
+   "name": "Kamala Harris",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kamala_Harris"
+  },
+  {
+   "id": "solarwinds",
+   "name": "SolarWinds",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/SolarWinds"
+  },
+  {
+   "id": "palestinian-islamic-jihad",
+   "name": "Palestinian Islamic Jihad",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Palestinian_Islamic_Jihad"
+  },
+  {
+   "id": "bushra-bibi",
+   "name": "Bushra Bibi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bushra_Bibi"
+  },
+  {
+   "id": "cop",
+   "name": "UN climate conferences (COP)",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/United_Nations_Climate_Change_conference"
+  },
+  {
+   "id": "naypyidaw",
+   "name": "Naypyidaw",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Naypyidaw",
+   "lat": 19.7475,
+   "lon": 96.115,
+   "precision": "city"
+  },
+  {
+   "id": "nice",
+   "name": "Nice",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nice",
+   "lat": 43.7034,
+   "lon": 7.2663,
+   "precision": "city"
+  },
+  {
+   "id": "vienna",
+   "name": "Vienna",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vienna",
+   "lat": 48.2083,
+   "lon": 16.3725,
+   "precision": "city"
+  },
+  {
+   "id": "glasgow",
+   "name": "Glasgow",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Glasgow",
+   "lat": 55.86111111,
+   "lon": -4.25,
+   "precision": "city"
+  },
+  {
+   "id": "conakry",
+   "name": "Conakry",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Conakry",
+   "lat": 9.50916667,
+   "lon": -13.71222222,
+   "precision": "city"
+  },
+  {
+   "id": "palma-mozambique",
+   "name": "Palma, Mozambique",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Palma%2C_Mozambique",
+   "lat": -10.77583333,
+   "lon": 40.46666667,
+   "precision": "city"
+  },
+  {
+   "id": "minneapolis",
+   "name": "Minneapolis",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis",
+   "lat": 44.98194444,
+   "lon": -93.26916667,
+   "precision": "city"
+  },
+  {
+   "id": "kabul-airport",
+   "name": "Kabul International Airport",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hamid_Karzai_International_Airport",
+   "lat": 34.56583333,
+   "lon": 69.21305556,
+   "precision": "feature"
+  },
+  {
+   "id": "quito",
+   "name": "Quito",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Quito",
+   "lat": -0.22,
+   "lon": -78.5125,
+   "precision": "city"
+  },
+  {
+   "id": "libreville",
+   "name": "Libreville",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Libreville",
+   "lat": 0.40777778,
+   "lon": 9.44027778,
+   "precision": "city"
+  },
+  {
+   "id": "vostochny-cosmodrome",
+   "name": "Vostochny Cosmodrome",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vostochny_Cosmodrome",
+   "lat": 51.88455278,
+   "lon": 128.33477778,
+   "precision": "feature"
+  },
+  {
+   "id": "myrtle-beach",
+   "name": "Myrtle Beach, South Carolina",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Myrtle_Beach%2C_South_Carolina",
+   "lat": 33.73027778,
+   "lon": -78.86972222,
+   "precision": "city"
+  },
+  {
+   "id": "filoli",
+   "name": "Filoli (Woodside, California)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Filoli",
+   "lat": 37.4704,
+   "lon": -122.310703,
+   "precision": "feature"
+  },
+  {
+   "id": "butler-pennsylvania",
+   "name": "Butler, Pennsylvania",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Butler%2C_Pennsylvania",
+   "lat": 40.8611,
+   "lon": -79.8953,
+   "precision": "city"
+  },
+  {
+   "id": "tbilisi",
+   "name": "Tbilisi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tbilisi",
+   "lat": 41.7225,
+   "lon": 44.7925,
+   "precision": "city"
+  },
+  {
+   "id": "nairobi",
+   "name": "Nairobi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nairobi",
+   "lat": -1.28638889,
+   "lon": 36.81722222,
+   "precision": "city"
+  },
+  {
+   "id": "olenya-air-base",
+   "name": "Olenya air base",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Olenya_%28air_base%29",
+   "lat": 68.15166667,
+   "lon": 33.465,
+   "precision": "feature"
+  },
+  {
+   "id": "belaya-air-base",
+   "name": "Belaya air base",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Belaya_%28air_base%29",
+   "lat": 52.915,
+   "lon": 103.575,
+   "precision": "feature"
+  },
+  {
+   "id": "latakia",
+   "name": "Latakia",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Latakia",
+   "lat": 35.52,
+   "lon": 35.77805556,
+   "precision": "city"
+  },
+  {
+   "id": "suwayda",
+   "name": "Suwayda",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suwayda",
+   "lat": 32.7125,
+   "lon": 36.56666667,
+   "precision": "city"
+  },
+  {
+   "id": "kathmandu",
+   "name": "Kathmandu",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kathmandu",
+   "lat": 27.71,
+   "lon": 85.32,
+   "precision": "city"
+  },
+  {
+   "id": "delhi",
+   "name": "Delhi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Delhi",
+   "lat": 28.61,
+   "lon": 77.23,
+   "precision": "city"
+  },
+  {
+   "id": "jerusalem",
+   "name": "Jerusalem",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerusalem",
+   "lat": 31.77888889,
+   "lon": 35.22555556,
+   "precision": "city"
+  },
+  {
+   "id": "shanghai",
+   "name": "Shanghai",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Shanghai",
+   "lat": 31.2325,
+   "lon": 121.46916667,
+   "precision": "city"
+  },
+  {
+   "id": "whitsun-reef",
+   "name": "Whitsun Reef",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Whitsun_Reef",
+   "lat": 9.99388889,
+   "lon": 114.6575,
+   "precision": "feature"
+  },
+  {
+   "id": "second-thomas-shoal",
+   "name": "Second Thomas Shoal",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Second_Thomas_Shoal",
+   "lat": 9.73333333,
+   "lon": 115.86666667,
+   "precision": "feature"
+  },
+  {
+   "id": "ever-given-grounding",
+   "name": "Ever Given grounding site, Suez Canal",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction",
+   "lat": 30.0175,
+   "lon": 32.58,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2020-05-26-george-floyd-protests",
+   "date": "2020-05-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Americas",
+   "title": "George Floyd's murder by Minneapolis police sets off nationwide protests",
+   "summary": "Protests began in Minneapolis the day after officer Derek Chauvin knelt on Floyd's neck for more than nine minutes. They spread to more than 2,000 US towns and over 60 countries; Chauvin was convicted of murder in April 2021.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/George_Floyd_protests"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2020/05/29/864818368/the-history-behind-when-the-looting-starts-the-shooting-starts"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2020/05/29/us/derek-chauvin-criminal-complaint-trnd/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump"
+   ],
+   "marker": "political",
+   "where": [
+    "minneapolis"
+   ]
+  },
+  {
+   "id": "2020-07-02-natanz-fire",
+   "date": "2020-07-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Middle East",
+   "title": "Explosion wrecks a centrifuge assembly hall at Natanz",
+   "summary": "The blast was one of a series of mysterious explosions across Iran from late June 2020. Iran acknowledged damage at its main enrichment site; Western and Iranian officials pointed to Israeli sabotage.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Iran_explosions"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2020/07/factory-blast-iran-capital-kills-latest-explosion-200707124705165.html"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2020/07/05/world/middleeast/iran-Natanz-nuclear-damage.html"
+    }
+   ],
+   "entities": [
+    "iran",
+    "israel",
+    "iaea"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "strike",
+   "where": [
+    "natanz"
+   ]
+  },
+  {
+   "id": "2020-10-06-quad-tokyo-malabar",
+   "date": "2020-10-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Asia-Pacific",
+   "title": "The Quad's foreign ministers meet in Tokyo and Australia rejoins Malabar naval drills",
+   "summary": "Quad foreign ministers met in Tokyo in October 2020, and in November Australia joined the US, India and Japan in Exercise Malabar for the first time since 2007, a 'non-contact, at sea only' drill because of COVID.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Malabar_%28naval_exercise%29"
+    }
+   ],
+   "entities": [
+    "quad",
+    "united-states",
+    "india",
+    "japan",
+    "australia",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2020-06-15-galwan-clash",
+     "why": "Galwan pushed India toward the Quad",
+     "confidence": "possible"
+    },
+    {
+     "story": "2020-05-australia-china-trade-war",
+     "why": "China's coercion of Australia",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2020-10-29-nice-vienna-attacks",
+   "date": "2020-10-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Europe",
+   "title": "Jihadist attacks in Nice and Vienna",
+   "summary": "A Tunisian attacker killed three people in Nice's Notre-Dame basilica on Oct 29. On Nov 2 an Islamic State sympathiser killed four in central Vienna before police shot him.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Nice_stabbing"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Vienna_attack"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2020/oct/29/france-will-not-give-in-to-terror-after-nice-attack-macron-says"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2020/11/02/europe/vienna-shooting-intl/index.html"
+    }
+   ],
+   "entities": [
+    "france",
+    "austria",
+    "islamic-state",
+    "emmanuel-macron"
+   ],
+   "marker": "strike",
+   "where": [
+    "nice",
+    "vienna"
+   ]
+  },
+  {
+   "id": "2020-11-03-ant-ipo-halted",
+   "date": "2020-11-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Asia-Pacific",
+   "title": "Chinese regulators halt Ant Group's record IPO",
+   "summary": "Two days before Ant's planned $34.5bn listing, the Shanghai exchange suspended it after regulators summoned Jack Ma. It began Beijing's crackdown on its tech giants.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ant_Group"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2020/11/03/930799521/regulators-squash-giant-ant-ipo"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2020/11/03/technology/ant-ipo-jack-ma-summoned.html"
+    }
+   ],
+   "entities": [
+    "ant-group",
+    "china",
+    "xi-jinping"
+   ],
+   "marker": "political",
+   "where": [
+    "shanghai"
+   ]
+  },
+  {
+   "id": "2020-11-26-farmers-protest",
+   "date": "2020-11-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Asia-Pacific",
+   "title": "Indian farmers march on Delhi against Modi's farm laws",
+   "summary": "Unions, mainly from Punjab and Haryana, began the 'Dilli Chalo' march against three farm acts passed in September 2020 and camped on Delhi's borders for a year until the laws were repealed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020%E2%80%932021_Indian_farmers%27_protest"
+    },
+    {
+     "name": "The Guardian",
+     "url": "http://www.theguardian.com/world/2020/nov/30/indian-farmers-march-on-delhi-in-protest-against-agriculture-laws"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2020/11/30/world/asia/india-farmers-protest.html"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "marker": "political",
+   "where": [
+    "delhi"
+   ]
+  },
+  {
+   "id": "2020-12-06-venezuela-assembly-vote",
+   "date": "2020-12-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Americas",
+   "title": "Maduro's allies take the National Assembly in a vote the opposition boycotted",
+   "summary": "The main opposition parties, including the four largest, refused to take part, citing irregularities and courts that had seized their party leaderships. The assembly was expanded to 277 seats.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Venezuelan_parliamentary_election"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20201206-voting-opens-in-venezuela-s-parliamentary-elections-amid-calls-for-boycott"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "nicolas-maduro"
+   ],
+   "storylines": [
+    "venezuela-oil",
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2020-12-13-solarwinds-hack",
+   "date": "2020-12-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Americas",
+   "title": "SolarWinds hack: suspected Russian spies breached US agencies for months",
+   "summary": "A supply-chain attack through SolarWinds software gave hackers access from no later than March 2020 to the Treasury, Commerce and other agencies, NATO, the UK government and Microsoft. US officials blamed Russia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2020/12/13/cyber-hack-on-us-treasury-by-foreign-government-.html"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2020/12/19/948318197/pompeo-russia-pretty-clearly-behind-massive-solarwinds-cyberattack"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "solarwinds"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "unplaced": "Cyberattack across many networks."
+  },
+  {
+   "id": "2020-12-14-sudan-delisted",
+   "date": "2020-12-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2020 (pandemic year)",
+   "region": "Africa",
+   "title": "US removes Sudan from its terrorism-sponsor list",
+   "summary": "Trump had tied the move to $335m in compensation for victims of al-Qaeda attacks; Sudan agreed to establish relations with Israel and was delisted on Dec 14.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sudan%E2%80%93United_States_relations"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/US-designated_state_sponsors_of_terrorism"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "united-states",
+    "israel",
+    "donald-trump"
+   ],
+   "storylines": [
+    "sudan-war",
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2020-08-13-abraham-accords",
+     "why": "Sudan joined the normalisation wave",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Policy decision."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2020-07-02-natanz-fire"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2020-10-06-quad-tokyo-malabar"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2020-12-06-venezuela-assembly-vote"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2020-12-06-venezuela-assembly-vote"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2020-12-13-solarwinds-hack"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2020-12-14-sudan-delisted"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2020-12-14-sudan-delisted"
+   ]
+  }
+ ]
+}
