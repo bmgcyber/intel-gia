@@ -1,0 +1,284 @@
+{
+ "edition": "2026-09-28",
+ "stories": [
+  {
+   "id": "2026-02-12-bangladesh-election",
+   "date": "2026-02-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Asia-Pacific",
+   "title": "BNP wins a landslide in Bangladesh's first post-Hasina election; Tarique Rahman becomes PM",
+   "summary": "The BNP won about 210 of 300 directly elected seats, and Jamaat-e-Islami became the main opposition for the first time. A referendum approved the 'July Charter' reforms by more than 60%. Rahman replaced Yunus's interim government on Feb 17.",
+   "sources": [
+    {
+     "name": "IPU Parline",
+     "url": "https://data.ipu.org/parliament/BD/BD-LC01/election/BD-LC01-E20260212/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/tarique-rahman-sworn-bangladeshs-pm-after-landslide-election-victory-2026-02-17/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/2/17/incoming-bangladesh-pm-tarique-rahman-lawmakers-sworn-into-parliament"
+    },
+    {
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/bangladesh-election-2026/ec-publishes-gazette-newly-elected-mps-1361181"
+    }
+   ],
+   "entities": [
+    "bangladesh",
+    "tarique-rahman",
+    "muhammad-yunus"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2025-11-17-hasina-death-sentence",
+     "why": "Awami League excluded",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-08-05-hasina-flees",
+     "why": "Transition after the uprising",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A national election."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2026-02-12-bangladesh-election"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2025-01-19-gaza-ceasefire",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2024-10-16-sinwar-killed",
+     "why": "Hamas leadership decapitated",
+     "confidence": "possible"
+    },
+    {
+     "story": "2023-11-24-gaza-hostage-truce",
+     "why": "The 2023 truce was the template for the hostage-prisoner exchange",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-08-22-gaza-famine",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-03-18-gaza-war-resumes",
+     "why": "Renewed war and aid restrictions",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-03-18-gaza-famine-warning",
+     "why": "Famine had been projected since March 2024",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-10-26-el-fasher-falls",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-03-21-khartoum-retaken",
+     "why": "Driven from the capital, the RSF consolidated Darfur",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-08-01-zamzam-famine",
+     "why": "Siege and famine around El Fasher",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-05-10-el-fasher-siege",
+     "why": "The fall ended an 18-month siege",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2024-08-01-zamzam-famine",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2023-04-15-sudan-war-begins",
+     "why": "Famine produced by the war",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-05-10-el-fasher-siege",
+     "why": "Siege cut off the camps near El Fasher",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-01-27-m23-takes-goma",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-06-13-bunagana",
+     "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-05-02-m23-seizes-rubaya",
+     "why": "Coltan revenue from Rubaya financed the advance",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-07-06-aes-confederation",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-02-17-france-leaves-mali",
+     "why": "Shift from France to Russia",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-07-26-niger-coup",
+     "why": "Niger's coup completed the junta bloc",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-01-25-africa-corps-burkina",
+     "why": "Russian security backing for the juntas",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2024-01-13-lai-elected-taiwan",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Cross-strait tension since Pelosi's 2022 visit",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-04-05-tsai-mccarthy",
+     "why": "Cross-strait tension in the run-up",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2025-11-07-takaichi-taiwan-remarks",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-10-21-takaichi-pm",
+     "why": "New hawkish premier",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-12-16-japan-security-strategy",
+     "why": "Japan's harder security line since 2022",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2026-01-14-china-trillion-surplus",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-10-30-busan-truce",
+     "why": "Trade truce with the US",
+     "confidence": "possible"
+    },
+    {
+     "story": "2025-04-02-liberation-day",
+     "why": "US tariffs redirected Chinese exports",
+     "confidence": "likely"
+    },
+    {
+     "story": "2023-10-18-country-garden-default",
+     "why": "The property bust shifted growth to exports",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-12-28-iran-protests-begin",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-09-28-iran-snapback",
+     "why": "Restored UN sanctions deepened the currency crisis",
+     "confidence": "possible"
+    },
+    {
+     "story": "2025-06-22-midnight-hammer",
+     "why": "War damage and isolation",
+     "confidence": "possible"
+    },
+    {
+     "story": "2023-10-06-narges-mohammadi-nobel",
+     "why": "Dissent kept alive since the 2022 uprising",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2026-01-21-greenland-davos",
+   "why": "Phase D gap backfill: link to earlier causes",
+   "causes": [
+    {
+     "story": "2025-01-07-trump-greenland-panama",
+     "why": "A year of US pressure on Greenland",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-10-02-china-coast-guard-arctic",
+     "why": "Sino-Russian Arctic activity was cited as rationale",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "uae--patron-proxy--rsf",
+   "a": "uae",
+   "b": "rsf",
+   "type": "patron-proxy",
+   "start": "2019",
+   "end": null,
+   "stated": "UAE denies arming the RSF",
+   "actual": "US sanctions targeted UAE-based RSF companies, and Sudan sued and cut ties",
+   "confidence": "likely",
+   "evidence": [
+    "2025-01-07-us-rsf-genocide"
+   ]
+  }
+ ]
+}
