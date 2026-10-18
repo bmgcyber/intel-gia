@@ -30127,6 +30127,192 @@
     "date_saved": true,
     "hotzones_date": "2026-10-17"
    }
+  },
+  "2025-06-29": {
+   "sha256": "88bba339cfc6d1bf3b4e2862ade21bbb1b990f45d1d1706ef2eb858701c55b11",
+   "undo": {
+    "stories": {
+     "2025-01-18-kunming-ceasefire": null,
+     "2025-04-22-lashio-handback": null,
+     "2026-01-30-myanmar-junta-election": {
+      "id": "2026-01-30-myanmar-junta-election",
+      "date": "2026-01-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's military-backed USDP wins a phased election held amid civil war",
+      "summary": "With Aung San Suu Kyi's NLD dissolved and much of the country out of the junta's control, the USDP won 339 of 420 elected seats. With the military's reserved seats, the pro-army bloc held about 86% of parliament, which elected coup leader Min Aung Hlaing president on Apr 3.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmar-election-delivers-victory-military-backed-party-amid-civil-war-2026-01-30/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/myanmar-election-usdp-party-min-aung-hlaing-ce432b0d344e11b54a537d5f2c7b5dd9"
+       },
+       {
+        "name": "Reuters (president)",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmars-junta-chief-set-parliamentary-vote-presidential-bid-2026-04-03/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-28-myanmar-earthquake",
+        "why": "The junta pressed ahead with its election plan",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2023-10-27-operation-1027",
+        "why": "The junta lost much territory after Operation 1027",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-08-03-lashio-falls",
+        "why": "Territorial losses shaped where voting was possible",
+        "confidence": "possible"
+       },
+       {
+        "story": "2024-12-20-arakan-army-ann",
+        "why": "Rakhine largely outside junta control",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-27",
+        "why": "Phase F gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-08-03-lashio-falls": {
+      "id": "2024-08-03-lashio-falls",
+      "date": "2024-08-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-28",
+      "region": "Asia-Pacific",
+      "title": "Kokang MNDAA captures Lashio, the first Myanmar regional command to fall",
+      "summary": "After the Chinese-brokered pause in Operation 1027 collapsed, the MNDAA overran the Northeastern Command in northern Shan State. The junta admitted senior officers were captured.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmar-junta-says-senior-officers-held-rebels-take-over-major-base-2024-08-05/"
+       },
+       {
+        "name": "The Irrawaddy",
+        "url": "https://www.irrawaddy.com/news/war-against-the-junta/domino-effects-historic-defeat-of-myanmar-military-command-shakes-junta.html"
+       },
+       {
+        "name": "Radio Free Asia",
+        "url": "https://www.rfa.org/english/news/myanmar/junta-officers-captured-mndaa-says-08052024063520.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lashio"
+       }
+      ],
+      "entities": [
+       "mndaa",
+       "three-brotherhood-alliance",
+       "myanmar",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-27-operation-1027",
+        "why": "Second phase of the 1027 offensive",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-28",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "lashio"
+      ],
+      "related_stories": [
+       "2023-10-27-operation-1027",
+       "2026-01-30-myanmar-junta-election"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "kunming"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
