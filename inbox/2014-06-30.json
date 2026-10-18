@@ -1,0 +1,533 @@
+{
+ "edition": "2014-06-30",
+ "stories": [
+  {
+   "id": "2014-04-12-donbas-war-begins",
+   "date": "2014-04-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Russian-led militants seize Sloviansk, starting the Donbas war",
+   "summary": "A unit led by Russian citizen Igor Girkin crossed from Russia; separatists declared 'people's republics' in Donetsk and Luhansk.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/War_in_Donbas"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2014/04/09/world/europe/ukraine-crisis/index.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "dpr-lpr"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Same Russian campaign",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "sloviansk"
+   ]
+  },
+  {
+   "id": "2014-04-14-chibok-kidnapping",
+   "date": "2014-04-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Africa",
+   "title": "Boko Haram kidnaps 276 schoolgirls from Chibok",
+   "summary": "The abduction sparked the #BringBackOurGirls campaign; many girls were still missing years later.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chibok_schoolgirls_kidnapping"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/apr/19/88-nigerian-schoolgirls-abducted-by-islamic-extremists-still-missing"
+    }
+   ],
+   "entities": [
+    "boko-haram",
+    "nigeria"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "strike",
+   "where": [
+    "chibok"
+   ]
+  },
+  {
+   "id": "2014-05-02-hysy981-standoff",
+   "date": "2014-05-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "China moves an oil rig into waters off the Paracels, setting off a standoff with Vietnam",
+   "summary": "Ships rammed each other and anti-Chinese riots broke out in Vietnam.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hai_Yang_Shi_You_981_standoff"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/may/18/vietnamese-rage-over-china-oil-rig"
+    }
+   ],
+   "entities": [
+    "china",
+    "vietnam"
+   ],
+   "storylines": [
+    "southeast-asia",
+    "taiwan-indopacific"
+   ],
+   "marker": "military",
+   "where": [
+    "paracel-islands"
+   ]
+  },
+  {
+   "id": "2014-05-16-haftar-operation-dignity",
+   "date": "2014-05-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Africa",
+   "title": "Khalifa Haftar launches 'Operation Dignity' in Benghazi",
+   "summary": "His campaign against Islamist militias split Libya into rival eastern and western governments.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Dignity"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Libyan_civil_war_%282014%E2%80%932020%29"
+    }
+   ],
+   "entities": [
+    "khalifa-haftar",
+    "libya"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "military",
+   "where": [
+    "benghazi"
+   ]
+  },
+  {
+   "id": "2014-05-16-modi-wins",
+   "date": "2014-05-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Narendra Modi's BJP wins India's first single-party majority in 30 years",
+   "summary": "The BJP took 282 seats on 31% of the vote.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Indian_general_election"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2014-05-21-russia-china-gas-deal",
+   "date": "2014-05-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Russia and China sign a $400bn, 30-year gas deal",
+   "summary": "Signed as the West sanctioned Moscow over Crimea, it made the Power of Siberia pipeline viable.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Power_of_Siberia"
+    }
+   ],
+   "entities": [
+    "russia",
+    "china",
+    "gazprom",
+    "vladimir-putin",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Moscow pivoted east under sanctions",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "shanghai"
+   ]
+  },
+  {
+   "id": "2014-05-22-thai-coup",
+   "date": "2014-05-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Thailand's army seizes power under General Prayut",
+   "summary": "The junta ended months of political crisis; Prayut stayed in power until 2023.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Thai_coup_d%27%C3%A9tat"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/may/22/military-coup-thailand-peace-general-prayuth-chan-ocha"
+    }
+   ],
+   "entities": [
+    "thailand",
+    "prayut-chan-o-cha"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2014-05-25-poroshenko-elected",
+   "date": "2014-05-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Petro Poroshenko wins Ukraine's presidency in one round",
+   "summary": "Voting could not take place in much of the separatist-held east.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Petro_Poroshenko"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/may/23/petro-poroshenko-heads-landslide-ukraine-election"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "petro-poroshenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2014-02-22-yanukovych-ousted",
+     "why": "Post-revolution election",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2014-05-28-sisi-elected",
+   "date": "2014-05-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Africa",
+   "title": "Former army chief Sisi is elected Egypt's president with 97%",
+   "summary": "The vote, neither free nor fair, followed his 2013 overthrow of Mohamed Morsi.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Egyptian_presidential_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/may/29/abdel-fatah-al-sisi-sweeps-victory-egyptian-election"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "abdel-fattah-el-sisi"
+   ],
+   "marker": "political",
+   "where": [
+    "cairo"
+   ]
+  },
+  {
+   "id": "2014-06-10-fall-of-mosul",
+   "date": "2014-06-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Middle East",
+   "title": "Islamic State seizes Mosul as the Iraqi army collapses",
+   "summary": "The jihadists swept toward Baghdad and massacred up to 1,500 Shia cadets at Camp Speicher near Tikrit; Ayatollah Sistani's call to arms gave rise to the mostly Iran-backed PMF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_Mosul"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Camp_Speicher_massacre"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/jun/10/iraq-sunni-insurgents-islamic-militants-seize-control-mosul"
+    }
+   ],
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "abu-bakr-al-baghdadi"
+   ],
+   "storylines": [
+    "isis-war",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Mosul's fall created the Iran-backed militias, such as Kata'ib Hezbollah, that later attacked US forces.",
+    "confidence": "likely"
+   },
+   "where": [
+    "mosul"
+   ]
+  },
+  {
+   "id": "2014-06-15-zarb-e-azb",
+   "date": "2014-06-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Pakistan launches an offensive against the Pakistani Taliban in North Waziristan",
+   "summary": "Operation Zarb-e-Azb followed a TTP attack on Karachi airport and pushed many militants into Afghanistan.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Zarb-e-Azb"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "ttp"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "miranshah"
+   ]
+  },
+  {
+   "id": "2014-06-29-caliphate-declared",
+   "date": "2014-06-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Middle East",
+   "title": "Islamic State declares a caliphate across Iraq and Syria",
+   "summary": "Abu Bakr al-Baghdadi proclaimed himself caliph; by 2015 the group ruled about 12 million people.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Islamic_State"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/jun/30/isis-announces-islamic-caliphate-iraq-syria"
+    }
+   ],
+   "entities": [
+    "islamic-state",
+    "abu-bakr-al-baghdadi",
+    "iraq",
+    "syria"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "causes": [
+    {
+     "story": "2014-06-10-fall-of-mosul",
+     "why": "Proclaimed after the June blitz",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Proclamation covering Iraq and Syria."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2014-04-12-donbas-war-begins",
+    "2014-05-25-poroshenko-elected"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2014-04-14-chibok-kidnapping",
+    "2014-05-16-haftar-operation-dignity"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2014-05-02-hysy981-standoff",
+    "2014-05-22-thai-coup"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2014-05-02-hysy981-standoff"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2014-05-16-modi-wins"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2014-05-21-russia-china-gas-deal"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2014-06-10-fall-of-mosul",
+    "2014-06-29-caliphate-declared"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2014-06-10-fall-of-mosul"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2014-06-15-zarb-e-azb"
+   ]
+  }
+ ]
+}
