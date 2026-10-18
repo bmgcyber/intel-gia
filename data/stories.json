@@ -3042,7 +3042,9 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2023-05-09-imran-khan-arrested"
+  ]
  },
  {
   "id": "2022-04-14-moskva",
@@ -4477,7 +4479,9 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2023-07-12-imf-pakistan-sba"
+  ]
  },
  {
   "id": "2022-08-31-nvidia-ban",
@@ -19849,7 +19853,8 @@
    "2022-04-02-yemen-truce",
    "saudi-blames-iran-eu-gcc-postponed",
    "yanbu-missile-intercepted",
-   "2023-08-24-brics-expansion"
+   "2023-08-24-brics-expansion",
+   "2023-05-07-syria-arab-league"
   ]
  },
  {
@@ -22190,6 +22195,161 @@
   "related_stories": [
    "2025-11-17-hasina-death-sentence",
    "2024-08-05-hasina-flees"
+  ]
+ },
+ {
+  "id": "2023-05-09-imran-khan-arrested",
+  "date": "2023-05-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-12-29",
+  "region": "Asia-Pacific",
+  "title": "Imran Khan is arrested at the Islamabad High Court, setting off attacks on army sites",
+  "summary": "Paramilitary Rangers detained the ousted PM in the Al-Qadir Trust case a day after the army rebuked his accusations against an ISI officer. Supporters stormed military buildings. The Supreme Court freed him, but he was jailed in August after a Toshakhana conviction and barred from politics.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/5/9/what-is-al-qadir-trust-case-under-which-imran-khan-is-arrested"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2023/may/14/imran-khan-arrest-pakistan-military"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/supporters-pakistan-ex-pm-khan-plan-march-capital-protest-arrest-2023-05-10/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan"
+   }
+  ],
+  "entities": [
+   "imran-khan",
+   "pakistan"
+  ],
+  "causes": [
+   {
+    "story": "2022-04-10-imran-khan",
+    "why": "Fallout from his 2022 ouster and clash with the army",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-12-29",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2022-04-10-imran-khan"
+  ]
+ },
+ {
+  "id": "2023-05-07-syria-arab-league",
+  "date": "2023-05-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-12-29",
+  "region": "Middle East",
+  "title": "Arab League readmits Assad's Syria, demanding a crackdown on captagon smuggling",
+  "summary": "After a 12-year suspension, Arab states brought Syria back in a bet on normalisation. In return they demanded action on captagon, the amphetamine-type pill whose Syrian-run trade had become a key source of regime revenue and was flooding the Gulf via Jordan.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/arabs-bring-syrias-assad-back-into-fold-want-action-drugs-trade-2023-05-09/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2023/5/1/syria-agrees-to-curb-drug-trade-in-arab-ministers-meeting"
+   },
+   {
+    "name": "Al Jazeera (captagon explainer)",
+    "url": "https://www.aljazeera.com/news/2023/5/9/what-is-captagon-the-addictive-drug-mass-produced-in-syria"
+   }
+  ],
+  "entities": [
+   "syria",
+   "bashar-al-assad",
+   "arab-league",
+   "saudi-arabia",
+   "jordan"
+  ],
+  "causes": [
+   {
+    "story": "2023-03-10-saudi-iran-beijing",
+    "why": "Regional de-escalation wave",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-12-29",
+  "analysis": {
+   "text": "Normalisation gave Assad legitimacy but not the means to survive; his regime collapsed 19 months later.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "diplomacy",
+  "unplaced": "Decision taken in Cairo.",
+  "related_stories": [
+   "2023-03-10-saudi-iran-beijing"
+  ]
+ },
+ {
+  "id": "2023-07-12-imf-pakistan-sba",
+  "date": "2023-07-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2023-12-29",
+  "region": "Asia-Pacific",
+  "title": "IMF approves a $3bn stand-by loan, pulling Pakistan back from default",
+  "summary": "The nine-month programme released about $1.2bn at once in exchange for fiscal tightening and a market exchange rate. A 37-month, $7bn Extended Fund Facility followed on Sep 25 2024.",
+  "sources": [
+   {
+    "name": "IMF press release (2023)",
+    "url": "https://www.imf.org/en/news/articles/2023/07/12/pr23261-pakistan-imf-exec-board-approves-us3bil-sba"
+   },
+   {
+    "name": "IMF press release (2024 EFF)",
+    "url": "https://www.imf.org/en/news/articles/2024/09/27/pr-24343-pakistan-imf-concludes-2024-aiv-consultation-pakistan-approves-37-mo-extended-arr"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-optimistic-securing-imf-approval-3-bln-bailout-2023-07-12/"
+   },
+   {
+    "name": "Dawn",
+    "url": "https://www.dawn.com/news/1860850"
+   }
+  ],
+  "entities": [
+   "imf",
+   "pakistan"
+  ],
+  "causes": [
+   {
+    "story": "2022-08-pakistan-floods",
+    "why": "Floods deepened the balance-of-payments crisis",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2023-12-29",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2022–23 (attrition and Oct 7)",
+  "marker": "political",
+  "unplaced": "Approved by the IMF board in Washington.",
+  "related_stories": [
+   "2022-08-pakistan-floods"
   ]
  }
 ]

@@ -23775,6 +23775,212 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-12-29": {
+   "sha256": "737c5d7bf4e2db599210e85325977be1eaa36e1e75496d630df3659486a9db2e",
+   "undo": {
+    "stories": {
+     "2023-05-09-imran-khan-arrested": null,
+     "2023-05-07-syria-arab-league": null,
+     "2023-07-12-imf-pakistan-sba": null,
+     "2022-04-10-imran-khan": {
+      "id": "2022-04-10-imran-khan",
+      "date": "2022-04-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Pakistan's PM Imran Khan ousted in no-confidence vote",
+      "summary": "Imran Khan became the first Pakistani prime minister removed by a no-confidence vote.",
+      "sources": [
+       {
+        "name": "Wikipedia: No-confidence motion against Imran Khan",
+        "url": "https://en.wikipedia.org/wiki/No-confidence_motion_against_Imran_Khan"
+       }
+      ],
+      "entities": [
+       "pakistan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     },
+     "2023-03-10-saudi-iran-beijing": {
+      "id": "2023-03-10-saudi-iran-beijing",
+      "date": "2023-03-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-31",
+      "region": "Middle East",
+      "title": "Saudi Arabia and Iran agree in Beijing to restore relations",
+      "summary": "In a China-brokered deal, the rivals agreed to reopen embassies within two months, seven years after ties were cut. It was Beijing's first big Middle East mediation.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-saudi-arabia-agree-resume-ties-re-open-embassies-iranian-state-media-2023-03-10/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/mar/10/iran-saudi-arabia-agree-restore-ties-china-talks"
+       },
+       {
+        "name": "Al Jazeera (timeline)",
+        "url": "https://www.aljazeera.com/news/2023/3/10/iran-and-saudi-arabia-from-rivalry-to-mending-ties-a-timeline"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "iran",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2022-04-02-yemen-truce",
+        "why": "The Yemen truce eased the Saudi–Iran confrontation",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-03-31",
+      "storylines": [
+       "gulf-realignment",
+       "yemen-houthis-saudi"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2022-04-02-yemen-truce",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "2023-08-24-brics-expansion"
+      ]
+     },
+     "2022-08-pakistan-floods": {
+      "id": "2022-08-pakistan-floods",
+      "date": "2022-08",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Catastrophic floods submerge a third of Pakistan",
+      "summary": "Monsoon floods killed more than 1,700 people and affected over 30 million.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Pakistan floods",
+        "url": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+       }
+      ],
+      "entities": [
+       "pakistan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "aes",
+     "aleppo",
+     "arab-league",
+     "asim-munir",
+     "barsalogho",
+     "bla",
+     "imf",
+     "imran-khan",
+     "jordan",
+     "niger-air-base-201",
+     "norway",
+     "orano",
+     "rosatom",
+     "shehbaz-sharif",
+     "sna",
+     "suez-canal",
+     "tel-aviv",
+     "tell-rifaat",
+     "ttp"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
