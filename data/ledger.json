@@ -19552,6 +19552,1620 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-12-31": {
+   "sha256": "5ca97dea0eb08440319f2711750794b5b6c05008170aa0bce82788278210c3fe",
+   "undo": {
+    "stories": {
+     "2023-10-07-hamas-attack": null,
+     "2023-10-17-us-chip-rules-tightened": null,
+     "2023-10-27-gaza-ground-invasion": null,
+     "2023-10-27-operation-1027": null,
+     "2023-11-19-galaxy-leader-seized": null,
+     "2023-11-19-milei-elected": null,
+     "2023-12-03-essequibo-referendum": null,
+     "2023-12-14-eu-opens-ukraine-talks": null,
+     "2024-04-13-iran-strikes-israel": {
+      "id": "2024-04-13-iran-strikes-israel",
+      "date": "2024-04-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-06-30",
+      "region": "Middle East",
+      "title": "Iran launches its first direct attack on Israel after the Damascus consulate strike",
+      "summary": "Answering Israel's Apr 1 strike on its consulate in Damascus, Iran fired more than 300 drones and missiles at Israel. Nearly all were intercepted with US, UK, French and Jordanian help, and Israel's limited reply on Apr 19 hit near Isfahan.",
+      "sources": [
+       {
+        "name": "UN Secretary-General",
+        "url": "https://www.un.org/sg/en/content/sg/statement/2024-04-13/statement-the-secretary-general-regarding-attacks-the-islamic-republic-of-iran-targeting-israel"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "irgc",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-06-30",
+      "analysis": {
+       "text": "This broke the taboo on direct Iran–Israel strikes, leading to October 2024, June 2025 and the 2026 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "unplaced": "Launched across the region at Israel.",
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "kataib-hezbollah-halt",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-13-kharg-strike",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-08-17-mou-expires",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2024-07-31-haniyeh-killed"
+      ]
+     },
+     "2024-01-12-us-uk-strike-houthis": {
+      "id": "2024-01-12-us-uk-strike-houthis",
+      "date": "2024-01-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-03-31",
+      "region": "Middle East",
+      "title": "US and UK begin airstrikes on the Houthis over Red Sea shipping attacks",
+      "summary": "After weeks of Houthi missile and drone attacks on merchant ships, the US and UK, with allied support, struck Houthi targets across Yemen. Strikes continued into 2025.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/reactions-us-british-strikes-against-houthis-yemen-2024-01-12/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/1/12/world-reacts-to-us-uk-attacks-on-houthi-targets-in-yemen"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/US–UK_airstrikes_on_Yemen"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "united-kingdom",
+       "houthis",
+       "yemen",
+       "red-sea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-03-31",
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "where": [
+       "sanaa"
+      ],
+      "related_stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-04-02-yemen-truce",
+       "houthis-saudi-oct15",
+       "2026-07-20-houthi-saudi-blockade",
+       "2026-09-10-houthis-seize-mokha",
+       "2025-05-06-us-houthi-truce"
+      ]
+     },
+     "2024-05-07-rafah-offensive": {
+      "id": "2024-05-07-rafah-offensive",
+      "date": "2024-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-06-30",
+      "region": "Middle East",
+      "title": "Israel launches the Rafah offensive and seizes Gaza's border crossing with Egypt",
+      "summary": "Israeli forces took the Rafah crossing on May 7 and pushed into Gaza's southernmost city, where over a million people had sheltered. Hundreds of thousands fled again despite US objections.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/5/7/israel-takes-control-of-rafah-crossing-gazas-lifeline-whats-going-on"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israeli-tanks-encircle-eastern-half-rafah-2024-05-10/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/article/2024/may/09/more-than-100000-flee-rafah-israel-steps-up-strikes-says-un"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "egypt"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-06-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "rafah"
+      ],
+      "related_stories": [
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2024-10-16-sinwar-killed"
+      ]
+     },
+     "2024-07-06-aes-confederation": {
+      "id": "2024-07-06-aes-confederation",
+      "date": "2024-07-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Africa",
+      "title": "Mali, Burkina Faso and Niger form the Alliance of Sahel States confederation",
+      "summary": "Having announced their exit from ECOWAS in January, the three juntas signed a confederation treaty in Niamey and turned further toward Russia.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/7/6/niger-mali-and-burkina-faso-military-leaders-sign-new-pact-rebuff-ecowas"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+       }
+      ],
+      "entities": [
+       "alliance-of-sahel-states",
+       "mali",
+       "burkina-faso",
+       "niger",
+       "ecowas",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Shift from France to Russia",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "diplomacy",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-02-17-france-leaves-mali",
+       "2025-06-06-wagner-leaves-mali"
+      ]
+     },
+     "2025-08-08-armenia-azerbaijan-deal": {
+      "id": "2025-08-08-armenia-azerbaijan-deal",
+      "date": "2025-08-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Armenia and Azerbaijan initial a peace deal at the White House with a US-backed 'TRIPP' corridor",
+      "summary": "Aliyev and Pashinyan initialled a peace agreement and signed a joint declaration with Trump that commits the parties to develop the Trump Route for International Peace and Prosperity through Armenia to Nakhchivan. Final signing and ratification were still pending.",
+      "sources": [
+       {
+        "name": "Government of Armenia",
+        "url": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/"
+       },
+       {
+        "name": "White House",
+        "url": "https://www.whitehouse.gov/releases/2025/08/president-trump-brokers-another-historic-peace-deal/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/trump-announces-peace-agreement-between-azerbaijan-armenia-2025-08-08/"
+       }
+      ],
+      "entities": [
+       "armenia",
+       "azerbaijan",
+       "united-states",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "analysis": {
+       "text": "A US-run corridor in the South Caucasus erodes Russia's role as broker there, which the CSTO's weakness had already started.",
+       "confidence": "possible"
+      },
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2022-09-13-armenia-azerbaijan"
+      ]
+     },
+     "2024-09-18-fed-jumbo-cut": {
+      "id": "2024-09-18-fed-jumbo-cut",
+      "date": "2024-09-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Americas",
+      "title": "Fed starts easing with a half-point cut",
+      "summary": "The FOMC cut its target range by 50 basis points to 4.75–5.00%, its first cut since 2020, as inflation cooled. Two more cuts followed in 2024.",
+      "sources": [
+       {
+        "name": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Federal_funds_rate"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "united-states",
+       "inflation"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "central-banks-rates"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "2025-12-10-fed-third-cut"
+      ]
+     },
+     "2025-09-11-bolsonaro-convicted": {
+      "id": "2025-09-11-bolsonaro-convicted",
+      "date": "2025-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Americas",
+      "title": "Brazil's Supreme Court sentences Bolsonaro to 27 years for a coup plot",
+      "summary": "A panel of the court convicted Jair Bolsonaro 4–1 of plotting to overturn the 2022 election and sentenced him to 27 years and three months. He began serving the sentence in November.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/brazil-bolsonaro-supreme-court-trial-coup-attempt-f95765c36dbbdc3355ad3af0b70eacf6"
+       },
+       {
+        "name": "Brazil Supreme Court (STF)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/brazils-bolsonaro-sentenced-27-years-after-landmark-coup-plot-conviction-2025-09-12/"
+       }
+      ],
+      "entities": [
+       "brazil",
+       "jair-bolsonaro",
+       "lula"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-30-lula",
+        "why": "Stems from the attempt to reverse Lula's 2022 win",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "analysis": {
+       "text": "With the father barred and jailed, the right rallied behind his son Flávio, who led the 2026 first round.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A court ruling; Brasília has no place entity.",
+      "related_stories": [
+       "2022-10-30-lula",
+       "2026-10-04-brazil-first-round"
+      ]
+     },
+     "2024-08-01-zamzam-famine": {
+      "id": "2024-08-01-zamzam-famine",
+      "date": "2024-08-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Africa",
+      "title": "Famine confirmed in Darfur's Zamzam camp",
+      "summary": "The IPC's Famine Review Committee found famine conditions in Zamzam camp near besieged El Fasher as the RSF besieged the city.",
+      "sources": [
+       {
+        "name": "IPC",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-107/en/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Famine_in_Sudan_(2024–present)"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "rsf",
+       "food-security"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "zamzam-camp"
+      ],
+      "related_stories": [
+       "2025-10-26-el-fasher-falls"
+      ]
+     },
+     "2025-03-21-khartoum-retaken": {
+      "id": "2025-03-21-khartoum-retaken",
+      "date": "2025-03-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Africa",
+      "title": "Sudan's army retakes the presidential palace; Burhan declares 'Khartoum is free'",
+      "summary": "The army recaptured the Republican Palace on Mar 21 and then Khartoum airport. On Mar 26 army chief Abdel Fattah al-Burhan returned to the palace and declared the capital free, though the RSF still held scattered positions.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/sudan-khartoum-republican-palace-rsf-war-3790a105d19b8da9ec484d6c48b46a89"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/3/21/sudans-army-retakes-presidential-palace-in-khartoum-strikes-blow-to-rsf"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cx2g0ppj9lyo"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2025/mar/21/sudan-army-recaptures-presidential-palace-khartoum-major-battlefield-gain"
+       }
+      ],
+      "entities": [
+       "sudanese-armed-forces",
+       "rsf",
+       "sudan"
+      ],
+      "causes": [
+       {
+        "story": "2021-10-25-sudan-coup",
+        "why": "The 2021 coup set the army–RSF split that became the 2023 war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "Losing the capital pushed the RSF west to Darfur and Kordofan, where the war has been concentrated since.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2021-10-25-sudan-coup",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-10-26-el-fasher-falls"
+      ]
+     },
+     "2025-01-27-deepseek-shock": {
+      "id": "2025-01-27-deepseek-shock",
+      "date": "2025-01-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Asia-Pacific",
+      "title": "China's DeepSeek wipes about $590bn off Nvidia in a day",
+      "summary": "A low-cost AI model from China's DeepSeek triggered a tech selloff. Nvidia fell about 17% and lost roughly $589bn of market value, the largest one-day loss for any US company.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/"
+       },
+       {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks"
+       },
+       {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/dereksaul/2025/01/27/biggest-market-loss-in-history-nvidia-stock-sheds-nearly-600-billion-as-deepseek-shakes-ai-darling/"
+       }
+      ],
+      "entities": [
+       "deepseek",
+       "nvidia",
+       "china",
+       "semiconductors"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Chinese labs innovated around US chip controls",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "It was the first sign that US export controls might not keep China far behind, and that AI valuations were fragile.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A market event; no site.",
+      "related_stories": [
+       "2022-10-07-bis-controls",
+       "2022-08-31-nvidia-ban",
+       "2026-05-14-trump-xi-beijing",
+       "2025-10-21-meta-hyperion-debt"
+      ]
+     },
+     "2026-01-30-myanmar-junta-election": {
+      "id": "2026-01-30-myanmar-junta-election",
+      "date": "2026-01-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's military-backed USDP wins a phased election held amid civil war",
+      "summary": "With Aung San Suu Kyi's NLD dissolved and much of the country out of the junta's control, the USDP won 339 of 420 elected seats. With the military's reserved seats, the pro-army bloc held about 86% of parliament, which elected coup leader Min Aung Hlaing president on Apr 3.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmar-election-delivers-victory-military-backed-party-amid-civil-war-2026-01-30/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/myanmar-election-usdp-party-min-aung-hlaing-ce432b0d344e11b54a537d5f2c7b5dd9"
+       },
+       {
+        "name": "Reuters (president)",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmars-junta-chief-set-parliamentary-vote-presidential-bid-2026-04-03/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-28-myanmar-earthquake",
+        "why": "The junta pressed ahead with its election plan",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2025-03-28-myanmar-earthquake"
+      ]
+     },
+     "2025-12-14-kast-chile": {
+      "id": "2025-12-14-kast-chile",
+      "date": "2025-12-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Americas",
+      "title": "Hard-right José Antonio Kast wins Chile's presidency",
+      "summary": "Kast beat Jeannette Jara in the runoff with about 58% of the vote, Chile's sharpest shift to the right since the dictatorship.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/chile-votes-presidential-race-expected-lurch-country-right-2025-12-14/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president"
+       }
+      ],
+      "entities": [
+       "chile",
+       "jose-antonio-kast"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "Part of the swing to the right that carried into Colombia and Brazil in 2026.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-06-07-peru-fujimori-wins"
+      ]
+     },
+     "2024-12-03-china-bans-gallium-to-us": {
+      "id": "2024-12-03-china-bans-gallium-to-us",
+      "date": "2024-12-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-31",
+      "region": "Asia-Pacific",
+      "title": "China bans gallium, germanium and antimony exports to the US",
+      "summary": "A day after new US chip controls, Beijing banned shipments of the three minerals to the US, its first explicitly US-targeted minerals embargo.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/markets/commodities/china-bans-exports-gallium-germanium-antimony-us-2024-12-03/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antimony"
+       }
+      ],
+      "entities": [
+       "china",
+       "united-states",
+       "gallium",
+       "semiconductors"
+      ],
+      "causes": [
+       {
+        "story": "2024-05-14-biden-ev-tariffs",
+        "why": "Tit-for-tat escalation",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Response to US chip controls",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-31",
+      "storylines": [
+       "china-minerals-leverage",
+       "ai-compute-minerals"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "unplaced": "An export ban; no site.",
+      "related_stories": [
+       "2024-05-14-biden-ev-tariffs",
+       "2022-10-07-bis-controls",
+       "2025-04-04-china-rare-earth-controls",
+       "rare-earth-nov10",
+       "ai-minerals",
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "2026-05-14-trump-xi-beijing",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-12-08-h200-china"
+      ]
+     },
+     "2025-06-06-wagner-leaves-mali": {
+      "id": "2025-06-06-wagner-leaves-mali",
+      "date": "2025-06-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Africa",
+      "title": "Wagner leaves Mali and the state-run Africa Corps takes over",
+      "summary": "Wagner said it was leaving Mali after about three and a half years. Russia's defence-ministry-controlled Africa Corps said it would stay, with Crisis Group describing a shift toward training and protection roles.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/russias-wagner-mercenary-group-says-it-is-leaving-mali-after-mission-2025-06-06/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/mali-wagner-russia-withdraws-b29349be737cbc14dfc435b3536711eb"
+       },
+       {
+        "name": "International Crisis Group",
+        "url": "https://www.crisisgroup.org/alr/africa/sahel/mali-russia-internal/mali-and-russia-restructure-their-security-partnership-what-end"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "africa-corps",
+       "mali",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-wagner-mali",
+        "why": "Ends the deployment that began in 2021",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-07-06-aes-confederation",
+        "why": "Junta bloc reliant on Russia",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "A smaller, less combat-focused Russian force left Bamako's junta more exposed, as the April 2026 offensive showed.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Country-wide withdrawal.",
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2024-07-06-aes-confederation",
+       "2026-04-25-mali-offensive",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "kidal"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-06-07-peru-fujimori-wins": {
+      "id": "2026-06-07-peru-fujimori-wins",
+      "date": "2026-06-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Americas",
+      "title": "Keiko Fujimori narrowly wins Peru's presidency on her fourth attempt",
+      "summary": "Fujimori beat leftist Roberto Sánchez in the runoff with 50.135% to 49.865%, a margin of about 50,000 votes. The JNE proclaimed her president-elect for 2026–31.",
+      "sources": [
+       {
+        "name": "JNE",
+        "url": "https://www.gob.pe/institucion/jne/noticias/1414770-jne-proclama-a-keiko-fujimori-higuchi-como-presidenta-electa-de-la-republica"
+       },
+       {
+        "name": "ONPE results",
+        "url": "https://resultadosegundavuelta.onpe.gob.pe/main/resumen/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/keiko-fujimori-declared-winner-peru-presidential-race-2026-07-03/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/peru-election-keiko-fujimori-presidential-runoff-b86901d627e3305da6da68d61468f1e8"
+       }
+      ],
+      "entities": [
+       "peru",
+       "keiko-fujimori"
+      ],
+      "causes": [
+       {
+        "story": "2025-12-14-kast-chile",
+        "why": "Part of the region's swing to the right",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2025-12-14-kast-chile"
+      ]
+     },
+     "2024-02-17-avdiivka-falls": {
+      "id": "2024-02-17-avdiivka-falls",
+      "date": "2024-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine withdraws from Avdiivka as ammunition runs short",
+      "summary": "Ukraine's new army chief Syrskyi ordered troops out of the Donetsk-area stronghold after a four-month Russian assault, as US aid stalled in Congress. It was Russia's biggest gain since Bakhmut.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/ukrainian-troops-withdraw-avdiivka-ammunition-shortage-bites-2024-02-17/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/2/17/ukraine-troops-withdraw-from-frontline-city-of-avdiivka-army-chief-says"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_(2023–2024)"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "donetsk"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "avdiivka"
+      ],
+      "related_stories": [
+       "2022-02-21-recognition"
+      ]
+     },
+     "2024-10-01-iran-missile-barrage": {
+      "id": "2024-10-01-iran-missile-barrage",
+      "date": "2024-10-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-31",
+      "region": "Middle East",
+      "title": "Iran fires about 200 ballistic missiles at Israel; Israel strikes back on Oct 26",
+      "summary": "Citing the killings of Haniyeh and Nasrallah, Iran launched its largest direct attack. On Oct 26 Israel struck Iranian air defences and missile production sites.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/oct/01/israel-vows-to-retaliate-after-iran-launches-unprecedented-missile-attack"
+       },
+       {
+        "name": "Al Jazeera (timeline)",
+        "url": "https://www.aljazeera.com/news/2024/10/2/timeline-the-key-moments-that-led-to-irans-missile-attacks-on-israel"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "irgc"
+      ],
+      "causes": [
+       {
+        "story": "2024-07-31-haniyeh-killed",
+        "why": "Revenge for Haniyeh",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-09-17-pager-attacks",
+        "why": "Revenge for Nasrallah",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "unplaced": "Launched from Iran across the region.",
+      "related_stories": [
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2025-06-13-israel-strikes-iran",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2026-02-28-iran-war-begins",
+       "2024-04-13-iran-strikes-israel"
+      ]
+     },
+     "2022-10-07-bis-controls": {
+      "id": "2022-10-07-bis-controls",
+      "date": "2022-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US imposes sweeping chip export controls on China",
+      "summary": "The Commerce Department restricted exports of advanced AI chips, chipmaking tools and US-person support to Chinese fabs.",
+      "sources": [
+       {
+        "name": "Wikipedia: United States New Export Controls on Advanced Computing and Semiconductors to China",
+        "url": "https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "semiconductors",
+       "nvidia",
+       "ai-data-centers"
+      ],
+      "storylines": [
+       "ai-compute-minerals",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Licence letter formalised into rules",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-09-chips-act",
+        "why": "Paired industrial and denial strategy",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "rare-earth-nov10",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "ai-minerals",
+        "why": "AI compute became a strategic commodity",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "ai-minerals",
+       "rare-earth-nov10",
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-14-trump-xi-beijing",
+       "2025-01-27-deepseek-shock",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-12-08-h200-china",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2023-07-03-china-gallium-controls"
+      ],
+      "marker": "political",
+      "unplaced": "An export-control rule. The summary names no place."
+     },
+     "2022-11-30-chatgpt-launch": {
+      "id": "2022-11-30-chatgpt-launch",
+      "date": "2022-11-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2022-12-31",
+      "region": "Americas",
+      "title": "OpenAI releases ChatGPT, setting off the generative-AI boom",
+      "summary": "The chatbot drew mass adoption within weeks and set off a race in AI models, chips and data centres, with Nvidia as the main beneficiary.",
+      "sources": [
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ChatGPT"
+       }
+      ],
+      "entities": [
+       "openai",
+       "nvidia",
+       "ai-data-centers"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2022-12-31",
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "A product launch; no site.",
+      "related_stories": []
+     },
+     "2022-06-23-ukraine-eu": {
+      "id": "2022-06-23-ukraine-eu",
+      "date": "2022-06-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "EU grants Ukraine candidate status",
+      "summary": "EU leaders granted candidate status to Ukraine and Moldova.",
+      "sources": [
+       {
+        "name": "Wikipedia: Accession of Ukraine to the European Union",
+        "url": "https://en.wikipedia.org/wiki/Accession_of_Ukraine_to_the_European_Union"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "ukraine"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "War accelerated integration",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-02-24-invasion"
+      ]
+     },
+     "2023-07-26-niger-coup": {
+      "id": "2023-07-26-niger-coup",
+      "date": "2023-07-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-09-30",
+      "region": "Africa",
+      "title": "Niger's presidential guard ousts Bazoum; Tiani takes power",
+      "summary": "Gen. Abdourahamane Tiani's guard detained President Bazoum. ECOWAS threatened force but backed down, and the junta expelled French and later US troops, completing the Sahel's turn from the West.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/soldiers-nigers-presidential-guard-blockade-presidents-office-security-sources-2023-07-26/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/7/26/soldiers-holding-niger-president-inside-palace-security-sources"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/africa/20230726-african-union-ecowas-condemn-attempted-coup-in-niger"
+       }
+      ],
+      "entities": [
+       "niger",
+       "abdourahamane-tiani",
+       "mohamed-bazoum",
+       "ecowas",
+       "france"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-30-burkina-coup2",
+        "why": "Contagion of Sahel coups",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "France's Sahel retreat",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-09-30-burkina-coup2",
+       "2022-02-17-france-leaves-mali"
+      ]
+     },
+     "2023-04-15-sudan-war-begins": {
+      "id": "2023-04-15-sudan-war-begins",
+      "date": "2023-04-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Africa",
+      "title": "War erupts in Sudan between the army and the RSF",
+      "summary": "A power struggle between army chief Burhan and RSF leader Hemedti, partners in the 2021 coup, turned into full war in Khartoum and Darfur, starting what the UN would call the world's largest displacement crisis.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/sudans-hemedti-carved-route-power-by-crushing-darfur-revolt-2023-04-15/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2023/apr/25/sudan-conflict-why-is-there-fighting-what-is-happening"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present)"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "sudanese-armed-forces",
+       "rsf"
+      ],
+      "causes": [
+       {
+        "story": "2021-10-25-sudan-coup",
+        "why": "The coup partners fell out",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2021-10-25-sudan-coup",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls"
+      ]
+     },
+     "2022-12-07-castillo-self-coup": {
+      "id": "2022-12-07-castillo-self-coup",
+      "date": "2022-12-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2022-12-31",
+      "region": "Americas",
+      "title": "Peru's Pedro Castillo tries to dissolve Congress, then is impeached and arrested",
+      "summary": "Facing an impeachment vote, Castillo announced he would dissolve Congress and rule by decree. Congress removed him within hours, Dina Boluarte took over, and deadly protests followed.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/perus-president-says-will-dissolve-congress-calls-elections-2022-12-07/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/12/7/peru-president-pedro-castillo-calls-to-dissolve-congress"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2022/dec/07/peru-president-detained-pedro-castillo-coup"
+       }
+      ],
+      "entities": [
+       "peru",
+       "pedro-castillo"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2022-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "Lima has no place entity.",
+      "related_stories": []
+     },
+     "2023-06-04-counteroffensive": {
+      "id": "2023-06-04-counteroffensive",
+      "date": "2023-06-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine's 2023 counter-offensive stalls in Russian minefields",
+      "summary": "From early June, Western-equipped brigades attacked toward Zaporizhzhia oblast but made only small gains against deep Russian defences. By year-end the war had settled into attrition.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/ukraines-military-urges-silence-ahead-expected-counteroffensive-2023-06-04/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/6/5/russia-claims-to-have-thwarted-major-ukraine-attack"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Ukrainian_counteroffensive"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia",
+       "nato"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-23-himars",
+        "why": "Western arms flow",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "Southern front in Zaporizhzhia oblast.",
+      "related_stories": [
+       "2022-06-23-himars",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2025-11-20-28-point-plan"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "saudi-arabia--rivalry--iran": null
+    },
+    "storylines": {
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls"
+      ],
+      "source": "inbox"
+     },
+     "ai-compute-minerals": {
+      "id": "ai-compute-minerals",
+      "name": "AI compute → critical minerals",
+      "entities": [
+       "ai-data-centers",
+       "copper",
+       "gallium",
+       "rare-earths",
+       "coltan"
+      ],
+      "stories": [
+       "ai-minerals",
+       "rare-earth-nov10",
+       "rubaya-coltan",
+       "2022-03-08-lme-nickel",
+       "2022-04-19-mexico-lithium",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-deepseek-shock",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-08-h200-china",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2022-11-30-chatgpt-launch"
+      ],
+      "source": "threads.md"
+     },
+     "china-minerals-leverage": {
+      "id": "china-minerals-leverage",
+      "name": "China rare-earth / tech leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials",
+       "japan",
+       "european-union"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-drills",
+       "2021-12-china-rare-earth-group",
+       "2022-02-04-no-limits",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2022-10-16-party-congress",
+       "pla-patrol-oct14-15",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2025-11-06-c5-plus-1-summit",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2023-07-03-china-gallium-controls"
+      ],
+      "source": "threads.md"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks"
+      ],
+      "source": "inbox"
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "name": "Venezuela reopening & oil reroute",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "india",
+       "reliance",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-06-19-petro",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2024-07-28-venezuela-stolen-election"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed"
+      ],
+      "source": "threads.md"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
