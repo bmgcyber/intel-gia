@@ -1,0 +1,630 @@
+{
+ "edition": "2009-03-31",
+ "entities": [
+  {
+   "id": "g20",
+   "name": "G20",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/G20"
+  },
+  {
+   "id": "brics",
+   "name": "BRICS",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/BRICS"
+  },
+  {
+   "id": "honduras",
+   "name": "Honduras",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honduras"
+  },
+  {
+   "id": "manuel-zelaya",
+   "name": "Manuel Zelaya",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Zelaya"
+  },
+  {
+   "id": "mahmoud-ahmadinejad",
+   "name": "Mahmoud Ahmadinejad",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad"
+  },
+  {
+   "id": "mir-hossein-mousavi",
+   "name": "Mir-Hossein Mousavi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi"
+  },
+  {
+   "id": "hamid-karzai",
+   "name": "Hamid Karzai",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hamid_Karzai"
+  },
+  {
+   "id": "ltte",
+   "name": "Liberation Tigers of Tamil Eelam",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam"
+  },
+  {
+   "id": "mahinda-rajapaksa",
+   "name": "Mahinda Rajapaksa",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahinda_Rajapaksa"
+  },
+  {
+   "id": "aqap",
+   "name": "Al-Qaeda in the Arabian Peninsula",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula"
+  },
+  {
+   "id": "george-papandreou",
+   "name": "George Papandreou",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Papandreou"
+  },
+  {
+   "id": "mamadou-tandja",
+   "name": "Mamadou Tandja",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mamadou_Tandja"
+  },
+  {
+   "id": "moussa-dadis-camara",
+   "name": "Moussa Dadis Camara",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moussa_Dadis_Camara"
+  },
+  {
+   "id": "uyghurs",
+   "name": "Uyghurs",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Uyghurs"
+  },
+  {
+   "id": "dubai-world",
+   "name": "Dubai World",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dubai_World"
+  },
+  {
+   "id": "andry-rajoelina",
+   "name": "Andry Rajoelina",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andry_Rajoelina"
+  },
+  {
+   "id": "tegucigalpa",
+   "name": "Tegucigalpa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tegucigalpa",
+   "lat": 14.10583333,
+   "lon": -87.20472222,
+   "precision": "city"
+  },
+  {
+   "id": "urumqi",
+   "name": "Ürümqi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi",
+   "lat": 43.8225,
+   "lon": 87.6125,
+   "precision": "city"
+  },
+  {
+   "id": "maiduguri",
+   "name": "Maiduguri",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maiduguri",
+   "lat": 11.83722222,
+   "lon": 13.15416667,
+   "precision": "city"
+  },
+  {
+   "id": "dubai",
+   "name": "Dubai",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dubai",
+   "lat": 25.20472222,
+   "lon": 55.27083333,
+   "precision": "city"
+  },
+  {
+   "id": "copenhagen",
+   "name": "Copenhagen",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Copenhagen",
+   "lat": 55.67611111,
+   "lon": 12.56833333,
+   "precision": "city"
+  },
+  {
+   "id": "camp-chapman",
+   "name": "Camp Chapman (Khost)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Camp_Chapman_attack",
+   "lat": 33.33875,
+   "lon": 69.95594444,
+   "precision": "feature"
+  },
+  {
+   "id": "mullaitivu",
+   "name": "Mullaitivu",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mullaitivu",
+   "lat": 9.28333333,
+   "lon": 80.8,
+   "precision": "city"
+  },
+  {
+   "id": "pittsburgh",
+   "name": "Pittsburgh",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pittsburgh",
+   "lat": 40.43972222,
+   "lon": -79.97638889,
+   "precision": "city"
+  },
+  {
+   "id": "yekaterinburg",
+   "name": "Yekaterinburg",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yekaterinburg",
+   "lat": 56.83555556,
+   "lon": 60.61277778,
+   "precision": "city"
+  },
+  {
+   "id": "chisinau",
+   "name": "Chișinău",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+   "lat": 47.02277778,
+   "lon": 28.83527778,
+   "precision": "city"
+  },
+  {
+   "id": "pattaya",
+   "name": "Pattaya",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pattaya",
+   "lat": 12.9357,
+   "lon": 100.889,
+   "precision": "city"
+  },
+  {
+   "id": "detroit",
+   "name": "Detroit",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Detroit",
+   "lat": 42.33166667,
+   "lon": -83.04583333,
+   "precision": "city"
+  },
+  {
+   "id": "fort-hood",
+   "name": "Fort Hood",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fort_Hood",
+   "lat": 31.13972222,
+   "lon": -97.76583333,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2009-01-07-russia-ukraine-gas-cutoff",
+   "date": "2009-01-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Russia/Eurasia",
+   "title": "Russia cuts all gas flows through Ukraine, leaving much of Europe short in midwinter",
+   "summary": "The pricing and debt dispute between Gazprom and Naftogaz halted transit for about two weeks; it fed Europe's push for routes that bypass Ukraine, such as Nord Stream.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Russia%E2%80%93Ukraine_gas_dispute"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "gazprom",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "energy",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2009-01-20-obama-inaugurated",
+   "date": "2009-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "Barack Obama is inaugurated as US president amid the financial crisis",
+   "summary": "He promised to end the Iraq war, refocus on Afghanistan and engage adversaries such as Iran.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2009-02-10-israel-election-netanyahu",
+   "date": "2009-02-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Middle East",
+   "title": "Israel's election hands Netanyahu a path back to power",
+   "summary": "Kadima won the most seats, but Likud formed a right-wing coalition; Netanyahu took office on March 31 and went on to dominate Israeli politics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Israeli_legislative_election"
+    }
+   ],
+   "entities": [
+    "israel",
+    "benjamin-netanyahu"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "where": [
+    "jerusalem"
+   ]
+  },
+  {
+   "id": "2009-02-15-venezuela-term-limits",
+   "date": "2009-02-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "Venezuelans vote to scrap term limits, letting Chávez run indefinitely",
+   "summary": "The amendment passed after voters had rejected a broader reform package in 2007.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Venezuelan_constitutional_referendum"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez"
+   ],
+   "storylines": [
+    "venezuela-oil"
+   ],
+   "marker": "political",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2009-02-17-us-stimulus",
+   "date": "2009-02-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "Obama signs the $787bn American Recovery and Reinvestment Act",
+   "summary": "The stimulus was the core US fiscal answer to the recession.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2009-02-27-obama-iraq-drawdown",
+   "date": "2009-02-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Middle East",
+   "title": "Obama sets August 2010 as the end of US combat operations in Iraq",
+   "summary": "Under the 2008 status-of-forces deal, US troops left Iraqi cities by June 30, 2009 and were due out of Iraq by the end of 2011.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Iraq_%282007%E2%80%932011%29"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq",
+    "barack-obama"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2009-03-04-icc-bashir-warrant",
+   "date": "2009-03-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Africa",
+   "title": "ICC issues an arrest warrant for Sudan's Omar al-Bashir over Darfur",
+   "summary": "It was the first ICC warrant for a sitting head of state; genocide charges were added in 2010. Bashir expelled aid groups in response.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Omar_al-Bashir"
+    }
+   ],
+   "entities": [
+    "icc",
+    "omar-al-bashir",
+    "sudan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "political",
+   "where": [
+    "the-hague"
+   ]
+  },
+  {
+   "id": "2009-03-06-us-russia-reset",
+   "date": "2009-03-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Russia/Eurasia",
+   "title": "Clinton and Lavrov press the 'reset' button on US–Russia relations",
+   "summary": "The reset produced New START and Russian help on Afghan supply routes before souring by 2012.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russian_reset"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "hillary-clinton",
+    "sergey-lavrov"
+   ],
+   "storylines": [
+    "nuclear-arms-control"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "geneva"
+   ]
+  },
+  {
+   "id": "2009-03-17-madagascar-coup",
+   "date": "2009-03-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Africa",
+   "title": "Army-backed Andry Rajoelina seizes power in Madagascar",
+   "summary": "President Marc Ravalomanana was forced out after months of protests; the AU suspended Madagascar.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2009_Malagasy_political_crisis"
+    }
+   ],
+   "entities": [
+    "madagascar",
+    "andry-rajoelina"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "antananarivo"
+   ]
+  },
+  {
+   "id": "2009-03-18-fed-expands-qe1",
+   "date": "2009-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+   "region": "Americas",
+   "title": "The Fed expands QE1 and begins buying long-term Treasuries",
+   "summary": "Quantitative easing became the central tool of crisis policy and set the template for later rounds.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Quantitative_easing"
+    }
+   ],
+   "entities": [
+    "federal-reserve",
+    "united-states"
+   ],
+   "storylines": [
+    "global-financial-crisis",
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2009-01-07-russia-ukraine-gas-cutoff"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2009-01-20-obama-inaugurated"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2009-02-10-israel-election-netanyahu"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2009-02-15-venezuela-term-limits"
+   ]
+  },
+  {
+   "id": "global-financial-crisis",
+   "name": "Global financial crisis 2007–09",
+   "entities": [
+    "federal-reserve",
+    "imf",
+    "g20",
+    "united-states"
+   ],
+   "stories": [
+    "2009-02-17-us-stimulus",
+    "2009-03-18-fed-expands-qe1"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2009-02-27-obama-iraq-drawdown"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2009-03-04-icc-bashir-warrant"
+   ]
+  },
+  {
+   "id": "nuclear-arms-control",
+   "name": "US–Russia nuclear arms control",
+   "entities": [
+    "united-states",
+    "russia",
+    "new-start"
+   ],
+   "stories": [
+    "2009-03-06-us-russia-reset"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2009-03-17-madagascar-coup"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2009-03-18-fed-expands-qe1"
+   ]
+  }
+ ]
+}
