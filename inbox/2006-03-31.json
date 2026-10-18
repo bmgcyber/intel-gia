@@ -1,0 +1,424 @@
+{
+ "edition": "2006-03-31",
+ "entities": [
+  {
+   "id": "montenegro",
+   "name": "Montenegro",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Montenegro"
+  },
+  {
+   "id": "fiji",
+   "name": "Fiji",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fiji"
+  },
+  {
+   "id": "timor-leste",
+   "name": "Timor-Leste",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timor-Leste"
+  },
+  {
+   "id": "saddam-hussein",
+   "name": "Saddam Hussein",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+  },
+  {
+   "id": "abu-musab-al-zarqawi",
+   "name": "Abu Musab al-Zarqawi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
+  },
+  {
+   "id": "islamic-courts-union",
+   "name": "Islamic Courts Union",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Courts_Union"
+  },
+  {
+   "id": "alexander-litvinenko",
+   "name": "Alexander Litvinenko",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Litvinenko"
+  },
+  {
+   "id": "felipe-calderon",
+   "name": "Felipe Calderón",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felipe_Calder%C3%B3n"
+  },
+  {
+   "id": "thaksin-shinawatra",
+   "name": "Thaksin Shinawatra",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thaksin_Shinawatra"
+  },
+  {
+   "id": "anna-politkovskaya",
+   "name": "Anna Politkovskaya",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anna_Politkovskaya"
+  },
+  {
+   "id": "samarra",
+   "name": "Samarra",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samarra",
+   "lat": 34.19833333,
+   "lon": 43.87416667,
+   "precision": "city"
+  },
+  {
+   "id": "baqubah",
+   "name": "Baqubah",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Baqubah",
+   "lat": 33.75,
+   "lon": 44.63333333,
+   "precision": "city"
+  },
+  {
+   "id": "podgorica",
+   "name": "Podgorica",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Podgorica",
+   "lat": 42.4414,
+   "lon": 19.2628,
+   "precision": "city"
+  },
+  {
+   "id": "monrovia",
+   "name": "Monrovia",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Monrovia",
+   "lat": 6.31333333,
+   "lon": -10.80138889,
+   "precision": "city"
+  },
+  {
+   "id": "kinshasa",
+   "name": "Kinshasa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kinshasa",
+   "lat": -4.32194444,
+   "lon": 15.31194444,
+   "precision": "city"
+  },
+  {
+   "id": "panjwayi",
+   "name": "Panjwayi (Operation Medusa)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Operation_Medusa",
+   "lat": 31.5478,
+   "lon": 65.4542,
+   "precision": "sector"
+  },
+  {
+   "id": "suva",
+   "name": "Suva",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suva",
+   "lat": -18.1416,
+   "lon": 178.4419,
+   "precision": "city"
+  },
+  {
+   "id": "dili",
+   "name": "Dili",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dili",
+   "lat": -8.55361111,
+   "lon": 125.57833333,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2006-01-01-russia-ukraine-gas-cut",
+   "date": "2006-01-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Russia/Eurasia",
+   "title": "Gazprom cuts gas to Ukraine in a price dispute, hitting European supplies",
+   "summary": "It was the first use of gas as leverage against post-Orange Ukraine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2005%E2%80%932006_Russia%E2%80%93Ukraine_gas_dispute"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "gazprom"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "energy",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2006-01-16-sirleaf-inaugurated",
+   "date": "2006-01-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Africa",
+   "title": "Ellen Johnson Sirleaf becomes Africa's first elected female head of state",
+   "summary": "She led Liberia's recovery from civil war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf"
+    }
+   ],
+   "entities": [
+    "liberia"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "monrovia"
+   ]
+  },
+  {
+   "id": "2006-01-25-hamas-wins-election",
+   "date": "2006-01-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Middle East",
+   "title": "Hamas wins the Palestinian legislative election",
+   "summary": "Israel and Western donors cut off the government, setting up the 2007 split with Fatah.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election"
+    }
+   ],
+   "entities": [
+    "hamas",
+    "fatah",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "unplaced": "Palestinian territories (West Bank and Gaza)."
+  },
+  {
+   "id": "2006-02-04-cartoon-protests",
+   "date": "2006-02-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Europe",
+   "title": "Protests over Danish cartoons of the Prophet Muhammad turn violent",
+   "summary": "Embassies were attacked in Damascus and Beirut.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy"
+    }
+   ],
+   "entities": [
+    "denmark"
+   ],
+   "marker": "political",
+   "where": [
+    "copenhagen"
+   ]
+  },
+  {
+   "id": "2006-02-22-samarra-mosque-bombing",
+   "date": "2006-02-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Middle East",
+   "title": "Bombing of the al-Askari shrine in Samarra ignites Iraq's sectarian war",
+   "summary": "Al-Qaeda in Iraq's attack on the Shia shrine set off mass reprisal killings.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_al-Askari_mosque_bombing"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "al-qaeda",
+    "abu-musab-al-zarqawi"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "samarra"
+   ]
+  },
+  {
+   "id": "2006-03-19-belarus-election",
+   "date": "2006-03-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Russia/Eurasia",
+   "title": "Lukashenko claims re-election, and protesters camp in Minsk",
+   "summary": "Police broke up the tent camp.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Belarusian_presidential_election"
+    }
+   ],
+   "entities": [
+    "belarus",
+    "alexander-lukashenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "minsk"
+   ]
+  },
+  {
+   "id": "2006-03-26-ukraine-election-yanukovych",
+   "date": "2006-03-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Russia/Eurasia",
+   "title": "Yanukovych's party wins Ukraine's parliamentary vote",
+   "summary": "He returned as prime minister after the Orange camp split.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Ukrainian_parliamentary_election"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "viktor-yanukovych"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2006-03-02-bush-singh-nuclear-deal",
+   "date": "2006-03-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "Bush and Manmohan Singh agree a US–India civil nuclear deal in New Delhi",
+   "summary": "The deal, finalised in 2008, recognised India's nuclear status outside the NPT.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/India%E2%80%93United_States_Civil_Nuclear_Agreement"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "india",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "new-delhi"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2006-01-01-russia-ukraine-gas-cut",
+    "2006-03-19-belarus-election",
+    "2006-03-26-ukraine-election-yanukovych"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2006-01-16-sirleaf-inaugurated"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2006-01-25-hamas-wins-election"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2006-02-22-samarra-mosque-bombing"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2006-03-02-bush-singh-nuclear-deal"
+   ]
+  }
+ ]
+}
