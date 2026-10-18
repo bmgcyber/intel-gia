@@ -1,0 +1,178 @@
+{
+ "edition": "2023-12-28",
+ "stories": [
+  {
+   "id": "2023-10-08-hezbollah-support-front",
+   "date": "2023-10-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Hezbollah opens a 'support front' for Gaza, starting a year of cross-border war",
+   "summary": "A day after Oct 7, Hezbollah shelled Israeli positions in the Shebaa Farms. Daily exchanges of rockets, drones and airstrikes followed, emptying border communities on both sides for nearly a year.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/israel-strikes-lebanon-after-hezbollah-hits-shebaa-farms-2023-10-08/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/10/8/israel-hezbollah-exchange-fire-raising-regional-tensions"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hezbollah–Israel_conflict_(2023–present)"
+    }
+   ],
+   "entities": [
+    "hezbollah",
+    "israel",
+    "lebanon"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-07-hamas-attack",
+     "why": "Solidarity front opened after Oct 7",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Along the Lebanon–Israel border."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2023-10-08-hezbollah-support-front"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2023-10-08-hezbollah-support-front"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "arakan-army",
+   "name": "Arakan Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arakan_Army"
+  },
+  {
+   "id": "mndaa",
+   "name": "Myanmar National Democratic Alliance Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Myanmar_National_Democratic_Alliance_Army"
+  },
+  {
+   "id": "edmundo-gonzalez",
+   "name": "Edmundo González",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez"
+  },
+  {
+   "id": "somalia",
+   "name": "Somalia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Somalia"
+  },
+  {
+   "id": "somaliland",
+   "name": "Somaliland",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Somaliland"
+  },
+  {
+   "id": "hassan-sheikh-mohamud",
+   "name": "Hassan Sheikh Mohamud",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud"
+  },
+  {
+   "id": "marco-rubio",
+   "name": "Marco Rubio",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio"
+  },
+  {
+   "id": "sergey-lavrov",
+   "name": "Sergey Lavrov",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sergey_Lavrov"
+  },
+  {
+   "id": "spain",
+   "name": "Spain",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Spain"
+  },
+  {
+   "id": "lashio",
+   "name": "Lashio",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lashio",
+   "lat": 22.93333333,
+   "lon": 97.75,
+   "precision": "city"
+  },
+  {
+   "id": "ann-myanmar",
+   "name": "Ann",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ann%2C_Myanmar",
+   "lat": 19.78333333,
+   "lon": 94.03333333,
+   "precision": "city"
+  },
+  {
+   "id": "berbera",
+   "name": "Berbera",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Berbera",
+   "lat": 10.43555556,
+   "lon": 45.01638889,
+   "precision": "city"
+  },
+  {
+   "id": "nuuk",
+   "name": "Nuuk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nuuk",
+   "lat": 64.17666667,
+   "lon": -51.73611111,
+   "precision": "city"
+  },
+  {
+   "id": "severomorsk",
+   "name": "Severomorsk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Severomorsk",
+   "lat": 69.06666667,
+   "lon": 33.41666667,
+   "precision": "city"
+  }
+ ]
+}
