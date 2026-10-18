@@ -1,0 +1,635 @@
+{
+ "edition": "2001-12-31",
+ "stories": [
+  {
+   "id": "2001-10-07-afghanistan-invasion",
+   "date": "2001-10-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "US and UK begin strikes on the Taliban and al-Qaeda in Afghanistan",
+   "summary": "With the Northern Alliance, they toppled the Taliban by December.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "united-kingdom",
+    "taliban",
+    "al-qaeda",
+    "afghanistan"
+   ],
+   "storylines": [
+    "war-on-terror",
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "kabul"
+   ]
+  },
+  {
+   "id": "2001-10-26-patriot-act",
+   "date": "2001-10-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Bush signs the Patriot Act",
+   "summary": "It expanded surveillance powers later exposed by Snowden.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Patriot_Act"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "war-on-terror",
+    "us-domestic-politics"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2001-11-10-china-wto-approved",
+   "date": "2001-11-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "The WTO approves China's membership",
+   "summary": "China joined on December 11 and became the world's factory.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/China_and_the_World_Trade_Organization"
+    }
+   ],
+   "entities": [
+    "china",
+    "wto"
+   ],
+   "storylines": [
+    "china-economy",
+    "us-tariffs-trade"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "doha"
+   ]
+  },
+  {
+   "id": "2001-12-02-enron-bankruptcy",
+   "date": "2001-12-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Enron files for bankruptcy",
+   "summary": "The fraud led to the Sarbanes–Oxley Act.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Enron_scandal"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "enron"
+   ],
+   "marker": "political",
+   "where": [
+    "houston"
+   ]
+  },
+  {
+   "id": "2001-12-05-bonn-agreement",
+   "date": "2001-12-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "The Bonn Agreement names Hamid Karzai to lead an interim Afghan government",
+   "summary": "The Taliban were excluded from the talks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bonn_Agreement_%28Afghanistan%29"
+    }
+   ],
+   "entities": [
+    "afghanistan",
+    "hamid-karzai"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "bonn"
+   ]
+  },
+  {
+   "id": "2001-12-12-tora-bora",
+   "date": "2001-12-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Bin Laden escapes the battle of Tora Bora into Pakistan",
+   "summary": "He evaded capture until 2011.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Tora_Bora"
+    }
+   ],
+   "entities": [
+    "osama-bin-laden",
+    "al-qaeda",
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror",
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "tora-bora"
+   ]
+  },
+  {
+   "id": "2001-12-13-indian-parliament-attack",
+   "date": "2001-12-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Militants attack India's parliament",
+   "summary": "India blamed Pakistan-based groups and mobilised troops for a ten-month standoff.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Indian_Parliament_attack"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "lashkar-e-taiba"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan"
+   ],
+   "marker": "strike",
+   "where": [
+    "indian-parliament"
+   ]
+  },
+  {
+   "id": "2001-12-20-argentina-collapse",
+   "date": "2001-12-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Riots topple Argentina's government",
+   "summary": "President De la Rúa fled, and Argentina defaulted days later.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/December_2001_riots_in_Argentina"
+    }
+   ],
+   "entities": [
+    "argentina",
+    "imf"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "buenos-aires"
+   ]
+  },
+  {
+   "id": "2001-10-anthrax-letters",
+   "date": "2001-10",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Anthrax letters kill five Americans",
+   "summary": "The FBI later blamed a US Army scientist.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "storylines": [
+    "us-domestic-politics"
+   ],
+   "marker": "strike",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2001-10-23-ira-decommissioning",
+   "date": "2001-10-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "The IRA begins putting its weapons beyond use",
+   "summary": "The move saved Northern Ireland's power-sharing institutions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+    }
+   ],
+   "entities": [
+    "provisional-ira",
+    "united-kingdom"
+   ],
+   "marker": "political",
+   "where": [
+    "belfast"
+   ]
+  },
+  {
+   "id": "2001-11-14-doha-round",
+   "date": "2001-11-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Middle East",
+   "title": "The WTO launches the Doha Development Round",
+   "summary": "The round never concluded.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Doha_Development_Round"
+    }
+   ],
+   "entities": [
+    "wto"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "doha"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2002-01-11-guantanamo-opens",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-10-07-afghanistan-invasion",
+     "why": "Captives from Afghanistan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-01-29-axis-of-evil",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-09-11-september-11-attacks",
+     "why": "Post-9/11 doctrine",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-03-02-operation-anaconda",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-12-12-tora-bora",
+     "why": "Fighters regrouped",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-06-13-karzai-loya-jirga",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-12-05-bonn-agreement",
+     "why": "Bonn process",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-06-india-pakistan-standoff",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-12-13-indian-parliament-attack",
+     "why": "Trigger",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-06-13-us-quits-abm",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-01-20-bush-inaugurated",
+     "why": "Bush's missile defence push",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2002-07-09-african-union-launched",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-07-lusaka-au-plan",
+     "why": "Implementation plan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-01-argentina-peso-devalued",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-12-20-argentina-collapse",
+     "why": "Collapse",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-09-20-bush-doctrine",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-09-11-september-11-attacks",
+     "why": "9/11",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2003-03-20-iraq-invasion",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2002-11-08-unsc-1441",
+     "why": "Iraq's 'final opportunity'",
+     "confidence": "likely"
+    },
+    {
+     "story": "2002-10-16-congress-authorises-iraq-war",
+     "why": "Authorisation",
+     "confidence": "likely"
+    },
+    {
+     "story": "2002-09-20-bush-doctrine",
+     "why": "Doctrine",
+     "confidence": "likely"
+    },
+    {
+     "story": "2001-09-11-september-11-attacks",
+     "why": "Post-9/11 threat framing",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2004-07-22-911-commission-report",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-09-11-september-11-attacks",
+     "why": "Investigation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2005-08-15-gaza-disengagement",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2004-11-11-arafat-dies",
+     "why": "New Palestinian leadership",
+     "confidence": "possible"
+    },
+    {
+     "story": "2001-02-06-sharon-elected",
+     "why": "Sharon's plan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-09-19-thai-coup",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2005-02-06-thaksin-landslide",
+     "why": "Thaksin's dominance",
+     "confidence": "likely"
+    },
+    {
+     "story": "2001-02-09-thaksin-pm",
+     "why": "Thaksin era",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-05-02-bin-laden-killed",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-12-12-tora-bora",
+     "why": "Escape",
+     "confidence": "likely"
+    },
+    {
+     "story": "2001-09-11-september-11-attacks",
+     "why": "Mastermind",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-06-06-snowden-nsa-leaks",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-07-25-wikileaks-afghan-logs",
+     "why": "Earlier leaks",
+     "confidence": "possible"
+    },
+    {
+     "story": "2001-10-26-patriot-act",
+     "why": "Surveillance powers",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2002-11-21-nato-prague-summit",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-09-12-nato-article-5",
+     "why": "Post-9/11 NATO",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2005-07-28-ira-ends-campaign",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-10-23-ira-decommissioning",
+     "why": "Earlier step",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2005-07-05-sco-astana-summit",
+   "why": "2001 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2001-06-15-sco-founded",
+     "why": "SCO",
+     "confidence": "likely"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2001-10-07-afghanistan-invasion",
+    "2001-10-26-patriot-act",
+    "2001-12-12-tora-bora"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2001-10-07-afghanistan-invasion",
+    "2001-12-05-bonn-agreement",
+    "2001-12-12-tora-bora"
+   ]
+  },
+  {
+   "id": "us-domestic-politics",
+   "name": "US domestic politics",
+   "entities": [
+    "united-states"
+   ],
+   "stories": [
+    "2001-10-26-patriot-act",
+    "2001-10-anthrax-letters"
+   ]
+  },
+  {
+   "id": "china-economy",
+   "name": "China's economy and property crisis",
+   "entities": [
+    "china",
+    "evergrande"
+   ],
+   "stories": [
+    "2001-11-10-china-wto-approved"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2001-11-10-china-wto-approved",
+    "2001-11-14-doha-round"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2001-12-13-indian-parliament-attack"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2001-12-20-argentina-collapse"
+   ]
+  }
+ ]
+}
