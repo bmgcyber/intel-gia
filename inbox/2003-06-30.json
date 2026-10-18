@@ -1,0 +1,364 @@
+{
+ "edition": "2003-06-30",
+ "stories": [
+  {
+   "id": "2003-04-29-us-leaves-saudi-bases",
+   "date": "2003-04-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "US says it will pull most forces out of Saudi Arabia",
+   "summary": "Operations shifted from Prince Sultan Air Base to Qatar.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "saudi-arabia",
+    "qatar"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "military",
+   "where": [
+    "prince-sultan-air-base"
+   ]
+  },
+  {
+   "id": "2003-04-30-road-map",
+   "date": "2003-04-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "The Quartet publishes a 'road map' for Israeli–Palestinian peace",
+   "summary": "Its phased plan for a Palestinian state was never carried out.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Road_map_for_peace"
+    }
+   ],
+   "entities": [
+    "israel",
+    "united-states",
+    "european-union",
+    "russia"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "jerusalem"
+   ]
+  },
+  {
+   "id": "2003-05-01-mission-accomplished",
+   "date": "2003-05-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Bush declares major combat operations in Iraq over",
+   "summary": "The 'Mission Accomplished' banner came to symbolise the war's misjudgments.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mission_Accomplished_speech"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "unplaced": "Aboard the USS Abraham Lincoln off California."
+  },
+  {
+   "id": "2003-05-12-riyadh-compound-bombings",
+   "date": "2003-05-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Al-Qaeda suicide bombers attack housing compounds in Riyadh",
+   "summary": "It began al-Qaeda's campaign inside Saudi Arabia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Riyadh_compound_bombings"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2003-05-16-de-baathification",
+   "date": "2003-05-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "US authority in Iraq orders de-Baathification and then disbands the army",
+   "summary": "The orders put many Sunnis out of work, and some of the ex-officers later joined the Islamic State.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/De-Ba%27athification"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Coalition_Provisional_Authority"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war",
+    "isis-war"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2003-05-16-casablanca-bombings",
+   "date": "2003-05-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "Suicide bombers strike Casablanca",
+   "summary": "Morocco launched a crackdown on Islamists.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Casablanca_bombings"
+    }
+   ],
+   "entities": [
+    "morocco",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "casablanca"
+   ]
+  },
+  {
+   "id": "2003-05-25-kirchner-takes-office",
+   "date": "2003-05-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Néstor Kirchner takes office in Argentina after its default",
+   "summary": "He restructured the debt and broke with the IMF.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner"
+    }
+   ],
+   "entities": [
+    "argentina",
+    "nestor-kirchner",
+    "imf"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "buenos-aires"
+   ]
+  },
+  {
+   "id": "2003-06-12-operation-artemis",
+   "date": "2003-06-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "French-led EU force deploys to Bunia in eastern Congo",
+   "summary": "Operation Artemis was the EU's first military mission outside Europe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Artemis"
+    }
+   ],
+   "entities": [
+    "france",
+    "european-union",
+    "drc"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "military",
+   "where": [
+    "bunia"
+   ]
+  },
+  {
+   "id": "2003-04-09-baghdad-falls",
+   "date": "2003-04-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Baghdad falls and Saddam's statue is pulled down in Firdos Square",
+   "summary": "Looting followed as the regime collapsed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Baghdad_%282003%29"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Firdos_Square_statue_destruction"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iraq",
+    "saddam-hussein"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "firdos-square"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2003-04-29-us-leaves-saudi-bases"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2003-04-30-road-map"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2003-05-01-mission-accomplished",
+    "2003-05-16-de-baathification",
+    "2003-04-09-baghdad-falls"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2003-05-12-riyadh-compound-bombings",
+    "2003-05-16-casablanca-bombings"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2003-05-16-de-baathification"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2003-05-25-kirchner-takes-office"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2003-06-12-operation-artemis"
+   ]
+  }
+ ]
+}
