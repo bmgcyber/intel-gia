@@ -762,7 +762,8 @@
   "storylines": [
    "china-minerals-leverage",
    "taiwan-indopacific",
-   "ai-compute-minerals"
+   "ai-compute-minerals",
+   "us-tariffs-trade"
   ],
   "related_stories": [
    "2021-12-china-rare-earth-group",
@@ -771,7 +772,7 @@
    "2026-09-23-us-china-fragile-truce",
    "2025-10-09-china-rare-earth-expansion",
    "2025-10-30-busan-truce",
-   "eu-china-rare-earth-green-channel",
+   "china-draft-ai-export-controls",
    "ai-minerals",
    "pla-drills",
    "2022-05-23-ipef",
@@ -782,6 +783,7 @@
    "pla-patrol-oct14-15",
    "saudi-blames-iran-eu-gcc-postponed",
    "coreweave-ai-credit-shock",
+   "eu-china-rare-earth-green-channel",
    "2025-12-29-justice-mission-drills",
    "2026-02-08-takaichi-landslide",
    "2026-03-30-china-sanctions-furuya",
@@ -791,7 +793,18 @@
    "2025-07-10-mp-materials-dod",
    "2025-10-20-us-australia-minerals",
    "2025-11-07-takaichi-taiwan-remarks",
-   "china-draft-ai-export-controls"
+   "2025-11-06-c5-plus-1-summit",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2023-04-05-tsai-mccarthy",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-23-china-ecs-adiz",
+   "2013-11-24-iran-interim-deal",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
   ],
   "causes": [
    {
@@ -841,6 +854,13 @@
     "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -1301,7 +1321,8 @@
   "era": "2020s",
   "storylines": [
    "venezuela-oil",
-   "global-oil"
+   "global-oil",
+   "western-hemisphere"
   ],
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
@@ -1368,6 +1389,13 @@
      "marker",
      "unplaced"
     ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
    }
   ],
   "marker": "energy",
@@ -1397,7 +1425,8 @@
   ],
   "storylines": [
    "global-oil",
-   "russia-ukraine"
+   "russia-ukraine",
+   "europe-cost-of-living"
   ],
   "causes": [],
   "batch": "backfill-2021-22",
@@ -1412,7 +1441,8 @@
    "2022-03-16-fed-hike",
    "2022-04-27-gas-cutoff-poland",
    "2022-05-18-repowereu",
-   "2022-08-eu-gas-record"
+   "2022-08-eu-gas-record",
+   "2009-01-07-russia-ukraine-gas-cutoff"
   ],
   "marker": "energy",
   "unplaced": "Europe-wide gas market.",
@@ -1423,6 +1453,13 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -5901,7 +5938,8 @@
    "inflation"
   ],
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "europe-cost-of-living"
   ],
   "causes": [
    {
@@ -5940,6 +5978,13 @@
     "fields": [
      "marker",
      "unplaced"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -6653,7 +6698,8 @@
    "inflation"
   ],
   "storylines": [
-   "central-banks-rates"
+   "central-banks-rates",
+   "europe-cost-of-living"
   ],
   "causes": [
    {
@@ -6680,6 +6726,13 @@
      "storylines",
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -7841,7 +7894,8 @@
   "storylines": [
    "yemen-houthis-saudi",
    "iran-proxy-network",
-   "global-oil"
+   "global-oil",
+   "gulf-realignment"
   ],
   "causes": [
    {
@@ -7859,6 +7913,7 @@
    "houthis-hit-aramco",
    "gfs-pride-sunk",
    "houthis-hit-aden-palace",
+   "saudi-blames-iran-eu-gcc-postponed",
    "hormuz-attacks-surge",
    "saudi-offensive-mokha",
    "2022-01-abu-dhabi-attack",
@@ -7867,7 +7922,27 @@
    "2022-04-02-yemen-truce",
    "2022-07-15-biden-saudi",
    "2022-10-02-truce-expires",
-   "saudi-blames-iran-eu-gcc-postponed"
+   "yanbu-missile-intercepted",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-09-10-houthis-seize-mokha",
+   "2026-09-10-east-west-pipeline-attack",
+   "2024-01-12-us-uk-strike-houthis",
+   "2023-11-19-galaxy-leader-seized",
+   "second-mine-tanker-ukmto-record",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
+   "2021-02-04-biden-yemen-shift",
+   "2019-09-14-abqaiq-attack",
+   "2019-12-11-aramco-ipo",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-06-05-qatar-blockade",
+   "2017-12-04-saleh-killed",
+   "2016-04-25-vision-2030",
+   "2015-03-26-saudi-intervention-yemen",
+   "2014-09-21-houthis-take-sanaa",
+   "2009-08-11-yemen-scorched-earth"
   ],
   "where": [
    "medina",
@@ -7882,6 +7957,13 @@
     "fields": [
      "where",
      "marker"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -8225,7 +8307,8 @@
    "confidence": "likely"
   },
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "transatlantic-rift"
   ],
   "era": "2020s",
   "marker": "diplomacy",
@@ -8263,7 +8346,53 @@
    "2026-04-23-eu-90bn-loan",
    "2026-08-13-russian-diesel-lows",
    "2026-09-18-graham-act-signed",
-   "2026-09-22-zelensky-trump-unga"
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-04-02-liberation-day",
+   "2025-06-25-nato-hague-5pct",
+   "2025-07-27-eu-us-turnberry",
+   "2025-08-15-alaska-summit",
+   "2025-08-27-india-50pct-tariff",
+   "2025-08-refinery-strikes",
+   "2025-09-28-iran-snapback",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-20-28-point-plan",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2025-09-22-putin-new-start-offer",
+   "2025-02-18-riyadh-us-russia-talks",
+   "iran-seven-day-hormuz-offer",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "poland-starlink-arson-russia-gang",
+   "2020-07-21-ngeu",
+   "2020-08-20-navalny-poisoned",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2019-10-09-operation-peace-spring",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2018-04-14-us-uk-france-strike-syria",
+   "2018-05-08-us-quits-jcpoa",
+   "2018-07-11-trump-nord-stream-2",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2015-07-14-jcpoa-agreed",
+   "2014-02-22-yanukovych-ousted",
+   "2014-03-18-crimea-annexed",
+   "2014-07-17-mh17-shot-down",
+   "2013-11-21-euromaidan",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2009-01-07-russia-ukraine-gas-cutoff",
+   "2007-02-10-putin-munich-speech",
+   "2003-04-30-road-map",
+   "2002-05-24-moscow-treaty"
   ],
   "revisions": [
    {
@@ -8271,6 +8400,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -8708,7 +8844,8 @@
   },
   "storylines": [
    "yemen-houthis-saudi",
-   "iran-proxy-network"
+   "iran-proxy-network",
+   "gulf-realignment"
   ],
   "era": "2020s",
   "marker": "diplomacy",
@@ -8720,6 +8857,7 @@
    "houthis-hit-aden-palace",
    "2026-10-05-mecca-pact-activated",
    "yanbu-missile-intercepted",
+   "egypt-offers-to-defend-saudi",
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
@@ -8737,7 +8875,32 @@
    "eu-china-rare-earth-green-channel",
    "2026-02-05-new-start-expires",
    "2026-09-18-graham-act-signed",
-   "egypt-offers-to-defend-saudi"
+   "2025-04-02-liberation-day",
+   "2025-11-06-c5-plus-1-summit",
+   "2023-03-10-saudi-iran-beijing",
+   "2023-08-24-brics-expansion",
+   "2024-10-02-china-coast-guard-arctic",
+   "2025-02-18-riyadh-us-russia-talks",
+   "second-mine-tanker-ukmto-record",
+   "houthis-aden-airport-khamis-mushait",
+   "2020-04-12-opec-plus-record-cut",
+   "2021-02-04-biden-yemen-shift",
+   "2026-04-07-hormuz-resolution-veto",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2019-09-14-abqaiq-attack",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2018-08-09-dahyan-bus-strike",
+   "2017-08-02-caatsa",
+   "2016-01-16-jcpoa-implementation",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-03-26-saudi-intervention-yemen",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2007-02-13-six-party-deal",
+   "2003-04-30-road-map",
+   "2003-08-27-six-party-talks-begin"
   ],
   "revisions": [
    {
@@ -8745,6 +8908,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -8806,7 +8976,8 @@
    "confidence": "possible"
   },
   "storylines": [
-   "ai-compute-minerals"
+   "ai-compute-minerals",
+   "central-banks-rates"
   ],
   "era": "2020s",
   "marker": "political",
@@ -8822,7 +8993,16 @@
    "2022-10-07-bis-controls",
    "2026-03-17-hyperscaler-ai-debt",
    "2026-05-13-warsh-confirmed",
-   "2026-05-14-trump-xi-beijing"
+   "2026-05-14-trump-xi-beijing",
+   "2025-12-08-h200-china",
+   "2025-12-10-fed-third-cut",
+   "2024-09-18-fed-jumbo-cut",
+   "2023-07-26-fed-peak-rate",
+   "2023-10-17-us-chip-rules-tightened",
+   "china-draft-ai-export-controls",
+   "2019-07-04-japan-korea-trade-dispute",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin"
   ],
   "revisions": [
    {
@@ -8830,6 +9010,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -9055,7 +9242,8 @@
   },
   "storylines": [
    "russia-ukraine",
-   "global-oil"
+   "global-oil",
+   "us-tariffs-trade"
   ],
   "era": "2020s",
   "marker": "political",
@@ -9064,6 +9252,8 @@
    "diesel-deal",
    "trump-disgrace-eu-summit",
    "2026-09-18-graham-act-signed",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
    "energy-ceasefire",
    "venezuela-oil",
    "2021-11-russia-buildup",
@@ -9093,8 +9283,53 @@
    "2026-05-14-trump-xi-beijing",
    "2026-08-13-russian-diesel-lows",
    "2026-09-22-zelensky-trump-unga",
-   "russia-332-drone-energy-strike",
-   "graham-waiver-bipartisan-backlash"
+   "2025-02-28-oval-office-clash",
+   "2025-04-02-liberation-day",
+   "2025-08-15-alaska-summit",
+   "2025-08-27-india-50pct-tariff",
+   "2025-08-refinery-strikes",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-10-30-busan-truce",
+   "2025-11-20-28-point-plan",
+   "2025-12-08-h200-china",
+   "2025-09-22-putin-new-start-offer",
+   "2025-11-06-c5-plus-1-summit",
+   "2023-08-24-brics-expansion",
+   "2023-09-09-delhi-g20",
+   "2024-10-02-china-coast-guard-arctic",
+   "2025-02-18-riyadh-us-russia-talks",
+   "iran-seven-day-hormuz-offer",
+   "2020-01-15-phase-one-deal",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-05-10-us-china-tariffs-escalate",
+   "2019-05-15-huawei-entity-list",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2019-10-09-operation-peace-spring",
+   "2019-12-02-power-of-siberia",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2018-07-06-us-china-tariffs-begin",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2014-05-21-russia-china-gas-deal",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention",
+   "2009-06-16-first-bric-summit",
+   "2007-02-10-putin-munich-speech",
+   "2007-02-13-six-party-deal",
+   "2003-08-27-six-party-talks-begin",
+   "2002-05-24-moscow-treaty",
+   "2001-07-16-sino-russian-treaty"
   ],
   "revisions": [
    {
@@ -9102,6 +9337,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -9352,7 +9594,8 @@
   "storylines": [
    "yemen-houthis-saudi",
    "iran-proxy-network",
-   "global-oil"
+   "global-oil",
+   "gulf-realignment"
   ],
   "era": "2020s",
   "marker": "strike",
@@ -9361,6 +9604,8 @@
   ],
   "related_stories": [
    "saudi-blames-iran-eu-gcc-postponed",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
    "hormuz-attacks-surge",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
@@ -9368,8 +9613,21 @@
    "2022-03-25-jeddah-attack",
    "houthis-saudi-oct15",
    "houthis-hit-aden-palace",
-   "egypt-offers-to-defend-saudi",
-   "houthis-aden-airport-khamis-mushait"
+   "2026-09-10-east-west-pipeline-attack",
+   "2023-03-10-saudi-iran-beijing",
+   "2023-08-24-brics-expansion",
+   "second-mine-tanker-ukmto-record",
+   "2019-09-14-abqaiq-attack",
+   "2015-03-26-saudi-intervention-yemen"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -9422,7 +9680,8 @@
    "confidence": "possible"
   },
   "storylines": [
-   "ai-compute-minerals"
+   "ai-compute-minerals",
+   "central-banks-rates"
   ],
   "era": "2020s",
   "marker": "political",
@@ -9432,7 +9691,21 @@
    "2022-03-16-fed-hike",
    "2022-06-15-fed-75",
    "2022-08-31-nvidia-ban",
-   "2022-10-07-bis-controls"
+   "2022-10-07-bis-controls",
+   "2026-05-13-warsh-confirmed",
+   "2026-09-16-fed-hikes",
+   "2025-12-10-fed-third-cut",
+   "2024-09-18-fed-jumbo-cut",
+   "2023-07-26-fed-peak-rate"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -9539,7 +9812,8 @@
    "confidence": "possible"
   },
   "storylines": [
-   "china-minerals-leverage"
+   "china-minerals-leverage",
+   "us-tariffs-trade"
   ],
   "era": "2020s",
   "marker": "diplomacy",
@@ -9572,6 +9846,13 @@
     "why": "Phase C sweep: chronology fix. The cause rare-earth-nov10 (dated 2026-10-14) postdates this 2026-10-09 story; replaced with the earlier root causes it summarised",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -10961,7 +11242,8 @@
    "confidence": "likely"
   },
   "storylines": [
-   "pakistan-afghanistan-war"
+   "pakistan-afghanistan-war",
+   "south-asia-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "strike",
@@ -10997,6 +11279,13 @@
     "why": "Archive audit: link to earlier causes",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -11463,7 +11752,8 @@
   "effects": [],
   "batch": "inbox-2026-03-31",
   "storylines": [
-   "pakistan-afghanistan-war"
+   "pakistan-afghanistan-war",
+   "south-asia-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "strike",
@@ -11471,7 +11761,21 @@
    "kabul"
   ],
   "related_stories": [
-   "2026-02-26-pakistan-afghanistan-war"
+   "2026-02-26-pakistan-afghanistan-war",
+   "2026-10-05-taliban-diplomacy",
+   "2025-10-19-afpak-doha-ceasefire",
+   "2025-01-01-pakistan-deadliest-year",
+   "kurram-border-clash",
+   "2021-08-15-fall-of-kabul"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -11861,7 +12165,8 @@
   },
   "storylines": [
    "transatlantic-rift",
-   "russia-ukraine"
+   "russia-ukraine",
+   "europe-populism"
   ],
   "era": "2026 (Iran war year)",
   "marker": "political",
@@ -11879,6 +12184,13 @@
     "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
     "fields": [
      "sources"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -14315,15 +14627,28 @@
   "effects": [],
   "batch": "inbox-2026-10-14",
   "storylines": [
-   "pakistan-afghanistan-war"
+   "pakistan-afghanistan-war",
+   "south-asia-security"
   ],
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
   "unplaced": "Consultations in Moscow; no place entity yet.",
   "related_stories": [
    "2026-02-26-pakistan-afghanistan-war",
+   "kurram-border-clash",
    "2026-03-16-kabul-hospital-strike",
-   "kurram-border-clash"
+   "2025-10-19-afpak-doha-ceasefire",
+   "2025-01-01-pakistan-deadliest-year",
+   "2021-08-15-fall-of-kabul"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -14604,7 +14929,8 @@
   "batch": "inbox-2026-10-14",
   "storylines": [
    "russia-ukraine",
-   "transatlantic-rift"
+   "transatlantic-rift",
+   "europe-populism"
   ],
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
@@ -14613,7 +14939,18 @@
    "2026-04-12-orban-ousted",
    "trump-disgrace-eu-summit",
    "energy-ceasefire",
-   "2026-04-23-eu-90bn-loan"
+   "2026-04-23-eu-90bn-loan",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2023-12-14-eu-opens-ukraine-talks"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -19681,19 +20018,35 @@
   "effects": [],
   "batch": "inbox-2025-12-30",
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "nuclear-arms-control"
   ],
   "era": "2025 (Trump's return)",
   "marker": "diplomacy",
   "unplaced": "A statement in Moscow; no place entity.",
   "related_stories": [
+   "2026-02-05-new-start-expires",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "energy-ceasefire-collapse",
    "trump-disgrace-eu-summit",
    "trump-waives-russia-sanctions",
-   "2026-02-05-new-start-expires",
-   "2025-08-15-alaska-summit"
+   "2025-08-15-alaska-summit",
+   "graham-waiver-bipartisan-backlash",
+   "2021-06-16-biden-putin-geneva",
+   "2016-10-07-russia-election-interference",
+   "2014-03-18-crimea-annexed",
+   "2007-02-10-putin-munich-speech",
+   "2002-05-24-moscow-treaty"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -21891,12 +22244,22 @@
   "effects": [],
   "batch": "inbox-2024-09-30",
   "storylines": [
-   "transatlantic-rift"
+   "transatlantic-rift",
+   "europe-populism"
   ],
   "era": "2024 (wars widen; election year)",
   "marker": "political",
   "unplaced": "A national election.",
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2024-07-06-aes-confederation",
@@ -24657,7 +25020,8 @@
   "batch": "inbox-2023-12-31",
   "storylines": [
    "russia-ukraine",
-   "transatlantic-rift"
+   "transatlantic-rift",
+   "europe-populism"
   ],
   "era": "2022–23 (attrition and Oct 7)",
   "marker": "diplomacy",
@@ -24670,6 +25034,15 @@
    "2026-04-23-eu-90bn-loan",
    "2026-10-13-hungary-lifts-accession-veto",
    "2025-12-18-eu-90bn-loan-agreed"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -51902,7 +52275,8 @@
   "effects": [],
   "batch": "inbox-2013-06-30",
   "storylines": [
-   "europe-populism"
+   "europe-populism",
+   "turkey-erdogan"
   ],
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "political",
@@ -51911,6 +52285,15 @@
   ],
   "related_stories": [
    "2016-07-15-turkey-coup-attempt"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -57055,7 +57438,8 @@
   "effects": [],
   "batch": "inbox-2010-06-30",
   "storylines": [
-   "russia-ukraine"
+   "russia-ukraine",
+   "nuclear-arms-control"
   ],
   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
   "marker": "diplomacy",
@@ -57081,6 +57465,13 @@
     "why": "2002 backfill: thread forward to later stories",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-09",
+    "why": "Make storyline links two-way: the storyline already lists this story",
+    "fields": [
+     "storylines"
     ]
    }
   ]
@@ -72962,6 +73353,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/African_Union"
+   },
+   {
+    "name": "African Union (Lusaka summit decisions)",
+    "url": "https://www.au.int/sites/default/files/decisions/9546-2001_ahg_dec_160-170_xxxvii_f.pdf"
    }
   ],
   "entities": [
@@ -72980,12 +73375,21 @@
   ],
   "related_stories": [
    "2002-07-09-african-union-launched"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: AU record dates the Lusaka summit decisions to 9-11 July 2001; no single day given, so month precision kept",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
   "id": "2001-09-pakistan-sides-with-us",
-  "date": "2001-09",
-  "date_precision": "month",
+  "date": "2001-09-19",
+  "date_precision": "day",
   "kind": "backfill",
   "edition": "2001-09-30",
   "region": "Asia-Pacific",
@@ -72995,6 +73399,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+   },
+   {
+    "name": "BBC News",
+    "url": "http://news.bbc.co.uk/1/hi/world/monitoring/media_reports/1553542.stm"
    }
   ],
   "entities": [
@@ -73018,6 +73426,17 @@
   "related_stories": [
    "2021-08-15-fall-of-kabul",
    "2016-05-21-mansour-killed"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: BBC text of Musharraf's address of 19 Sep 2001 backing US",
+    "fields": [
+     "sources",
+     "date",
+     "date_precision"
+    ]
+   }
   ]
  },
  {
@@ -73344,6 +73763,14 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks"
+   },
+   {
+    "name": "National Academies via NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK209417/table/ttt00014/"
+   },
+   {
+    "name": "FBI",
+    "url": "https://www.fbi.gov/history/cases-and-criminals/amerithrax-or-anthrax-investigation"
    }
   ],
   "entities": [
@@ -73360,7 +73787,16 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: Timeline dates the October 2001 letters and deaths (first death 5 Oct, five in all, last 21 Nov); month precision kept",
+    "fields": [
+     "sources"
+    ]
+   }
+  ]
  },
  {
   "id": "2001-10-23-ira-decommissioning",
@@ -74114,8 +74550,8 @@
  },
  {
   "id": "2000-07-plan-colombia",
-  "date": "2000-07",
-  "date_precision": "month",
+  "date": "2000-07-13",
+  "date_precision": "day",
   "kind": "backfill",
   "edition": "2000-09-30",
   "region": "Americas",
@@ -74125,6 +74561,10 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Plan_Colombia"
+   },
+   {
+    "name": "White House (Clinton archive)",
+    "url": "https://clintonwhitehouse5.archives.gov/library/hot_releases/July_13_2000_3.html"
    }
   ],
   "entities": [
@@ -74146,6 +74586,17 @@
   ],
   "related_stories": [
    "2002-08-07-uribe-takes-office"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: Clinton's statement of 13 July 2000 on signing H.R. 4425",
+    "fields": [
+     "sources",
+     "date",
+     "date_precision"
+    ]
+   }
   ]
  },
  {
@@ -74538,8 +74989,8 @@
  },
  {
   "id": "2000-11-fujimori-falls",
-  "date": "2000-11",
-  "date_precision": "month",
+  "date": "2000-11-21",
+  "date_precision": "day",
   "kind": "backfill",
   "edition": "2000-12-31",
   "region": "Americas",
@@ -74549,6 +75000,14 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+   },
+   {
+    "name": "BBC News",
+    "url": "http://news.bbc.co.uk/2/hi/americas/1033433.stm"
+   },
+   {
+    "name": "Congreso de la República del Perú",
+    "url": "https://www2.congreso.gob.pe/sicr/tradocestproc/tradoc_expdig_2000.nsf/ProyectosExpDigital/00817?opendocument="
    }
   ],
   "entities": [
@@ -74567,7 +75026,18 @@
   "where": [
    "lima"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: Peru's Congress record shows the vote declaring the presidency vacant on 21 Nov 2000; BBC reports the sacking",
+    "fields": [
+     "sources",
+     "date",
+     "date_precision"
+    ]
+   }
+  ]
  },
  {
   "id": "2000-11-cassette-scandal",
@@ -74711,8 +75181,8 @@
  },
  {
   "id": "2000-12-sharif-exiled",
-  "date": "2000-12",
-  "date_precision": "month",
+  "date": "2000-12-10",
+  "date_precision": "day",
   "kind": "backfill",
   "edition": "2000-12-31",
   "region": "Asia-Pacific",
@@ -74722,6 +75192,14 @@
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+   },
+   {
+    "name": "BBC News",
+    "url": "http://news.bbc.co.uk/2/hi/south_asia/1063635.stm"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2000/dec/11/pakistan.saudiarabia"
    }
   ],
   "entities": [
@@ -74743,6 +75221,17 @@
   ],
   "related_stories": [
    "2013-05-11-sharif-wins"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-09",
+    "why": "Date source: BBC (10 Dec 2000) reports Sharif landed in Jeddah that day",
+    "fields": [
+     "sources",
+     "date",
+     "date_precision"
+    ]
+   }
   ]
  },
  {

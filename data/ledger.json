@@ -118031,6 +118031,3415 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-09": {
+   "sha256": "e235c2a5460e67812f270f8e46754c8c3ac39adae1de69b1cf30f079c51d8970",
+   "undo": {
+    "stories": {
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "date": "2026-10-14",
+      "region": "Americas",
+      "title": "Venezuela's reopened oil trade; India imports at a seven-year high",
+      "summary": "After the US operation that removed Maduro on Jan 3, OFAC licences reopened trade. Exports averaged ~1.14M bpd Apr–Sep and 1.08M in September. India's October imports are expected at ~465k bpd, led by Reliance.",
+      "analysis": {
+       "text": "Gulf disruption makes Venezuela a US-managed swing supplier.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "Kpler",
+        "url": "https://www.kpler.com/blog/venezuelas-oil-trade-reopened-the-risk-moved-to-the-vessel"
+       },
+       {
+        "name": "uCapital",
+        "url": "https://ucapital.com/en/news/markets/reliance-industries-venezuela-crude-oil-imports-seven-year-high-6ac89fb299269ba578e2acde"
+       },
+       {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20006/publication-of-venezuela-sanctions-regulations-web-general-licenses-46c-47a-48b-50b-51b-52a-and-54a"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "india",
+       "reliance",
+       "ofac",
+       "nicolas-maduro",
+       "united-states",
+       "petroleum",
+       "strait-of-hormuz",
+       "russia"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "venezuela-oil",
+       "global-oil"
+      ],
+      "related_stories": [
+       "2022-03-05-us-venezuela-talks",
+       "2026-01-06-us-venezuela-oil-deal",
+       "venezuela-talks-election-rules",
+       "hormuz-attacks-surge",
+       "diesel-deal",
+       "2022-03-08-us-oil-ban",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "trump-waives-russia-sanctions",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-03-maduro-captured",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-cuba-talks",
+       "2026-04-13-us-blockade-iran",
+       "2026-09-18-graham-act-signed",
+       "2026-10-12-cuba-blockade-bites",
+       "2025-08-27-india-50pct-tariff",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record",
+       "graham-waiver-bipartisan-backlash",
+       "2020-03-26-maduro-indicted",
+       "2019-01-23-guaido-interim-president",
+       "2019-01-28-pdvsa-sanctions",
+       "2017-07-30-venezuela-constituent-assembly"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-05-us-venezuela-talks",
+        "why": "First US–Maduro energy outreach after the invasion",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-01-06-us-venezuela-oil-deal",
+        "why": "The post-Maduro oil deal reopened trade",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ],
+      "marker": "energy",
+      "unplaced": "Oil trade flows."
+     },
+     "rare-earth-nov10": {
+      "id": "rare-earth-nov10",
+      "date": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "China's rare-earth leverage: Nov 10 suspension deadline, US refiners blacklisted",
+      "summary": "China's April 2025 controls on 7 rare earths remain in force; the Oct 2025 expansion is suspended until Nov 10, 2026. On Oct 3, MP Materials and USA Rare Earth were barred from dual-use inputs. Per CFR, supplies to Japan were cut to near zero in 2026. The Oct 9 EU–China outcome promises fast-track licences without volumes or dates.",
+      "analysis": {
+       "text": "China treats mineral licensing as a strategic deterrent, including on Taiwan.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CFR",
+        "url": "https://www.cfr.org/reports/dismantling-chinas-supply-chain-weapon"
+       },
+       {
+        "name": "Crux Investor",
+        "url": "https://www.cruxinvestor.com/posts/chinas-export-cap-shifts-rare-earth-margin-toward-producers"
+       },
+       {
+        "name": "East Asia Brief",
+        "url": "https://eastasiabrief.com/semiconductors/china-bans-dual-use-sales-mp-materials-us-refiners-526"
+       },
+       {
+        "name": "TSN",
+        "url": "https://tsnmedia.org/eu-china-rare-earth-export-licences-fast-track-first-step-sefcovic/"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths",
+       "mp-materials",
+       "united-states",
+       "japan",
+       "european-union",
+       "taiwan",
+       "gallium",
+       "ai-data-centers"
+      ],
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-14",
+      "era": "2020s",
+      "storylines": [
+       "china-minerals-leverage",
+       "taiwan-indopacific",
+       "ai-compute-minerals"
+      ],
+      "related_stories": [
+       "2021-12-china-rare-earth-group",
+       "2022-10-07-bis-controls",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "eu-china-rare-earth-green-channel",
+       "ai-minerals",
+       "pla-drills",
+       "2022-05-23-ipef",
+       "2022-06-14-msp",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-08-31-nvidia-ban",
+       "pla-patrol-oct14-15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "coreweave-ai-credit-shock",
+       "2025-12-29-justice-mission-drills",
+       "2026-02-08-takaichi-landslide",
+       "2026-03-30-china-sanctions-furuya",
+       "2026-05-22-china-japan-rare-earths",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-20-us-australia-minerals",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "china-draft-ai-export-controls"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-china-rare-earth-group",
+        "why": "State consolidation enabled licensing leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-05-14-trump-xi-beijing",
+        "why": "The May truce set the Nov 10 horizon",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-09-23-us-china-fragile-truce",
+        "why": "Shaky implementation of the truce",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-10-09-china-rare-earth-expansion",
+        "why": "The controls whose suspension ends Nov 10",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-10-30-busan-truce",
+        "why": "The Busan truce set the one-year clock",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "marker": "political",
+      "unplaced": "The measures span China, the United States, and Japan. No single place is named.",
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "trump-waives-russia-sanctions": {
+      "id": "trump-waives-russia-sanctions",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Americas",
+      "title": "Trump waives much of the new Russia sanctions law two days before it takes effect",
+      "summary": "Trump signed an executive order on Friday night suspending many sanctions, restrictions and duties in the Russia sanctions law Congress passed and he signed in September, telling Congress the pause was in the US 'national interest'. The law gave him power to levy tariffs of up to 100% on the top five buyers of Russian oil and gas, chiefly China and India, and sanctioned senior Russian figures including Putin, Russian financial institutions and the shadow fleet; the BBC said many of those provisions were waived. Kremlin envoy Kirill Dmitriev called it 'an important and truly historic moment'. Zelenskyy said the sanctions 'could have helped enormously'; Democratic Rep. Don Beyer called it a 'surrender to Putin'.",
+      "sources": [
+       {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+       },
+       {
+        "name": "The Guardian (Ukraine war briefing)",
+        "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states",
+       "russia",
+       "vladimir-putin",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "china",
+       "india",
+       "petroleum",
+       "ofac"
+      ],
+      "causes": [
+       {
+        "story": "diesel-deal",
+        "why": "The Russian diesel deal set the frame of easing Russia pressure to cut US fuel prices",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-disgrace-eu-summit",
+        "why": "The waiver followed Trump's open break with Zelenskyy over refinery strikes",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-09-18-graham-act-signed",
+        "why": "The waiver hollows out the act before it takes effect",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "The waiver completes a pivot: Washington is now trading Russia pressure for lower fuel prices before Nov 3, after the diesel deal, the energy pause and the Starshield curbs. Secondary tariffs on China and India were also the one tool that could have hit Russian oil revenue hard, so their removal eases pressure on Beijing and Delhi too. Expect Europe to carry more of Ukraine's financing and sanctions burden.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Executive order signed in Washington; a policy act with no event site.",
+      "related_stories": [
+       "diesel-deal",
+       "trump-disgrace-eu-summit",
+       "2026-09-18-graham-act-signed",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-03-08-us-oil-ban",
+       "2022-05-23-ipef",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-05-new-start-expires",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-08-13-russian-diesel-lows",
+       "2026-09-22-zelensky-trump-unga",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "eu-china-rare-earth-green-channel": {
+      "id": "eu-china-rare-earth-green-channel",
+      "date": "2026-10-09",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Asia-Pacific",
+      "title": "EU-China trade truce adds a rare-earth 'green channel' but leaves Europe dependent",
+      "summary": "EU trade commissioner Maroš Šefčovič and Chinese commerce minister Wang Wentao agreed a 16-point list in Beijing on Oct 8-9, including a 'green channel' to speed licences for rare earths and permanent magnets exported to the EU; in return the EU will work to accelerate priority licences for dual-use items going to China. China also committed to halving hybrid and plug-in hybrid car exports to the EU, with the mechanism undisclosed. EU leaders reviewed the deal at their Oct 15-16 summit. Separately, China continues to restrict controlled rare-earth sales to listed US firms; its suspension of the 0.1% foreign-content rule expires Nov 10.",
+      "sources": [
+       {
+        "name": "Decode39",
+        "url": "https://decode39.com/16992/eu-and-china-reach-a-trade-truce-in-beijing-but-europes-rare-earth-exposure-remains/"
+       },
+       {
+        "name": "European Commission joint statement",
+        "url": "https://europa.eu/newsroom/ecpc-failover/pdf/statement-26-2122_en.pdf"
+       },
+       {
+        "name": "China Daily",
+        "url": "https://www.chinadaily.com.cn/a/202610/15/WS6ad089c1e4b06d4aa0562fd5.html"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "china",
+       "rare-earths",
+       "beijing",
+       "mp-materials",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-09-china-rare-earth-expansion",
+        "why": "The suspended Oct 2025 controls (suspension ends Nov 10) keep licensing at the centre of China's leverage",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-10-30-busan-truce",
+        "why": "The Busan truce set the one-year clock to Nov 10",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "Beijing is splitting the West: faster licences for Europe while US firms stay on restricted lists, just as Washington eases Russia sanctions over European objections. Europe gains predictability, not independence; China can still slow approvals at will.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "china-minerals-leverage"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "rare-earth-nov10",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "pla-patrol-oct14-15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-20-us-australia-minerals",
+       "2025-11-06-c5-plus-1-summit",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2016-11-04-paris-agreement-in-force",
+       "2015-07-14-jcpoa-agreed",
+       "2013-11-24-iran-interim-deal"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C sweep: chronology fix. The cause rare-earth-nov10 (dated 2026-10-14) postdates this 2026-10-09 story; replaced with the earlier root causes it summarised",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "coreweave-ai-credit-shock": {
+      "id": "coreweave-ai-credit-shock",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Americas",
+      "title": "CoreWeave debt scare jolts AI trade; Treasuries rally despite hot inflation",
+      "summary": "Yields on CoreWeave's junk-rated 2031 bonds rose to about 16% and its default-insurance cost to roughly 1,000 basis points (Reuters); the company has about $50 billion of debt (LSEG). Nvidia's Jensen Huang said CoreWeave's finances are improving and no backstop is needed; Nvidia has agreed to buy its unsold capacity through April 2032. South Korea's KOSPI fell nearly 8% and the Nikkei about 5% on Oct 15 before rebounding about 3% and 1.5% on Oct 16. The US 10-year yield fell 10.2bp to 5.086%, its biggest one-day drop in over a year, even as September PPI rose 6.3% year on year against a 5.3% consensus.",
+      "sources": [
+       {
+        "name": "Reuters explainer via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500"
+       },
+       {
+        "name": "Reuters Morning Bid via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/morning-bid-calm-after-coreweave-shock-but-for-how-long-4953079"
+       },
+       {
+        "name": "WSJ markets",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/thursday-recap-treasurys-bounce-back-aWdBi36xqCwHhWwH1kg4"
+       },
+       {
+        "name": "Anadolu (PPI)",
+        "url": "https://www.aa.com.tr/en/economy/us-producer-inflation-hits-63-in-september-exceeding-expectations-of-53-/4089880"
+       }
+      ],
+      "entities": [
+       "coreweave",
+       "nvidia",
+       "ai-data-centers",
+       "semiconductors",
+       "federal-reserve",
+       "inflation",
+       "south-korea",
+       "japan",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "hormuz-attacks-surge",
+        "why": "Energy-driven inflation keeps long yields high, raising financing costs for leveraged AI builders",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-09-16-fed-hikes",
+        "why": "Higher rates stress AI debt",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "The AI build-out runs on credit. With 10-year yields above 5%, held up partly by war-driven energy inflation, the most leveraged borrowers crack first. This is where the Hormuz shock meets the AI-compute storyline.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Market-wide credit move; no event site.",
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "2026-09-16-fed-hikes",
+       "tech-selloff-worst-week",
+       "rare-earth-nov10",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-05-14-trump-xi-beijing"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "tech-selloff-worst-week": {
+      "id": "tech-selloff-worst-week",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Americas",
+      "title": "AI selloff gives stocks their worst week since June as oil and yields stay high",
+      "summary": "The S&P 500 fell 1.09% to 7,659.44 and the Nasdaq 2.15% to 26,140.03 on Oct 16; the S&P lost about 2% on the week and the Nasdaq about 4.5%, while the Dow eked out a weekly gain. CoreWeave fell 11.9% on the day and more than 23% on the week (WSJ). The 10-year Treasury yield ended near 5.10% after hitting about 5.33% following Wednesday's CPI; September import prices rose 1.1% on the month. The VIX rose about 22% to 20.07, the dollar index slipped 0.24% and gold was little changed near $4,189. Fed Chair Kevin Warsh gave no rate guidance; CME FedWatch showed more than 80% odds of a hold this month.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
+       },
+       {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3"
+       },
+       {
+        "name": "CNBC (Treasuries)",
+        "url": "https://www.cnbc.com/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html"
+       },
+       {
+        "name": "The Closing Print",
+        "url": "https://www.theclosingprint.net/2026/10/closing-macro-recap-2026-10-16/"
+       }
+      ],
+      "entities": [
+       "coreweave",
+       "nvidia",
+       "ai-data-centers",
+       "federal-reserve",
+       "inflation",
+       "united-states",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "coreweave-ai-credit-shock",
+        "why": "CoreWeave's debt scare kept pressure on AI stocks through the week",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "Equities are being squeezed from both ends: energy-led inflation keeps long yields above 5%, which punishes the debt-financed AI build-out. The Dow's resilience shows rotation toward energy and value rather than a broad panic.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "ai-compute-minerals"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Market-wide move; no event site.",
+      "related_stories": [
+       "coreweave-ai-credit-shock",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls"
+      ]
+     },
+     "trump-disgrace-eu-summit": {
+      "id": "trump-disgrace-eu-summit",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Europe",
+      "title": "Trump calls Kyiv's refinery strikes a 'disgrace' as EU summit rallies around Zelenskiy",
+      "summary": "Trump told Newsmax that Ukraine's resumed strikes on Russian refineries are 'a disgrace' that push world oil prices higher. EU leaders hosted Zelenskiy at their Brussels summit on Oct 16, where he sought a 'winter package' of energy, air defence and funding. Ukraine's finance minister puts the unfunded 2027 budget gap at $32.6 billion, excluding about $40 billion in direct military supplies. Putin said the refinery strikes caused 'nothing particularly significant'. A Putin decree dated Oct 15 (No. 738) placed Russian units of Tarkett, Menshen, Ontex, Kappa Rus (Swedish-owned) and a Sonoco-linked packaging firm under temporary state-appointed management.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/eu-leaders-rally-around-zelenskiy-as-trump-calls-ukrainian-strikes-on-russia-a-disgrace-4953324"
+       },
+       {
+        "name": "AK&M (Decree No. 738)",
+        "url": "https://www.akm.ru/eng/news/vladimir-putin-has-transferred-the-assets-of-a-number-of-foreign-companies-to-temporary-management-/"
+       },
+       {
+        "name": "Russian legal portal: Decree No. 738",
+        "url": "http://www.publication.pravo.gov.ru/document/0001202610150039"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "european-union",
+       "russia",
+       "vladimir-putin",
+       "france",
+       "germany",
+       "sweden",
+       "petroleum",
+       "brussels"
+      ],
+      "causes": [
+       {
+        "story": "energy-ceasefire-collapse",
+        "why": "Kyiv's exit from the energy pause and new refinery strikes drew Trump's rebuke",
+        "confidence": "likely"
+       },
+       {
+        "story": "diesel-deal",
+        "why": "EU leaders object to the US-Russia diesel deal that underpins Washington's pressure on Kyiv",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-10-13-hungary-lifts-accession-veto",
+        "why": "The EU rallying around Kyiv",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Washington's operative goal is lower pump prices before the Nov 3 midterms; Europe's is keeping Ukraine solvent and lit through winter without dependable US cover. The asset seizures signal that any EU move on frozen Russian state assets will be answered in kind against European companies still inside Russia.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "energy-ceasefire-collapse",
+       "diesel-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-waives-russia-sanctions",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-03-08-us-oil-ban",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-01-21-greenland-davos",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-04-23-eu-90bn-loan",
+       "2026-08-13-russian-diesel-lows",
+       "2026-09-18-graham-act-signed",
+       "2026-09-22-zelensky-trump-unga"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "saudi-blames-iran-eu-gcc-postponed": {
+      "id": "saudi-blames-iran-eu-gcc-postponed",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Middle East",
+      "title": "Saudi Arabia blames Iran for Houthi escalation; EU-GCC summit in Riyadh postponed",
+      "summary": "The GCC and the EU postponed indefinitely the second EU-GCC summit set for Oct 24 in Riyadh, citing Houthi attacks and the closure of King Khalid International Airport. Saudi deputy minister Rayed Krimly told reporters Iran is encouraging the Houthi escalation, that the Houthis refused a July meeting in Oman, that Riyadh has not asked for Iranian mediation, and that some Iranian and Houthi capabilities or intelligence come from 'elements in Russia or China'. AP reported at least 19 killed; the coalition said the Riyadh airport was targeted 20 times this month.",
+      "sources": [
+       {
+        "name": "AP via PBS",
+        "url": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom"
+       },
+       {
+        "name": "Council of the EU",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/postponement-of-the-second-eu-gcc-summit/"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "houthis",
+       "iran",
+       "european-union",
+       "riyadh",
+       "russia",
+       "china",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "houthis-saudi-oct15",
+        "why": "Houthi strikes on Riyadh airport and oil sites made the summit unsafe to host",
+        "confidence": "likely"
+       },
+       {
+        "story": "houthis-hit-aden-palace",
+        "why": "The widening Houthi campaign sharpened Riyadh's public case against Tehran",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-10-05-mecca-pact-activated",
+        "why": "Riyadh is already on a war footing",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Riyadh is building the case for more US military help and for keeping Iran's Yemen card inside any US-Iran deal, while keeping its own line to Tehran open. Losing the summit dents the kingdom's safe-hub pitch to investors.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": [
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "2026-10-05-mecca-pact-activated",
+       "yanbu-missile-intercepted",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "rare-earth-nov10",
+       "2021-11-29-jcpoa-vienna",
+       "2022-02-26-swift-cbr",
+       "2022-03-25-jeddah-attack",
+       "2022-06-14-msp",
+       "2022-09-02-price-cap",
+       "2022-09-jcpoa-stall",
+       "2022-10-05-opec-cut",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "egypt-offers-to-defend-saudi"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "yanbu-missile-intercepted": {
+      "id": "yanbu-missile-intercepted",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Middle East",
+      "title": "Houthi ballistic missile aimed at Yanbu, Saudi Arabia's Hormuz bypass, is intercepted",
+      "summary": "The Saudi-led coalition said it intercepted a ballistic missile over Yanbu, the Red Sea terminus of a major oil pipeline, plus two cruise missiles over the Red Sea and three drones over southern Saudi Arabia and Riyadh; initial reports indicated no damage. Saudi deputy minister Rayed Krimly said Iran's support for the Houthis violates the China-brokered 2023 Beijing agreement. Iran's foreign ministry spokesman Esmaeil Baqaei rejected any role and offered to mediate. The UN Security Council condemned the Houthi attacks on Oct 15. On Oct 17 the coalition said it destroyed two ballistic-missile launch platforms in Saada.",
+      "sources": [
+       {
+        "name": "AFP via Khaleej Times",
+        "url": "https://www.khaleejtimes.com/world/gulf/saudi-coalition-intercept-missiles-drones-riyadh-oct-16-2026"
+       },
+       {
+        "name": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/gulf/5330363-coalition-intercepts-ballistic-cruise-missiles-and-uavs"
+       },
+       {
+        "name": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran"
+       },
+       {
+        "name": "Khaleej Times live (Iran denial)",
+        "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-16-2026"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "saudi-arabia",
+       "yanbu",
+       "iran",
+       "china",
+       "aramco",
+       "petroleum",
+       "saada"
+      ],
+      "causes": [
+       {
+        "story": "saudi-blames-iran-eu-gcc-postponed",
+        "why": "Same Houthi escalation against the kingdom, now aimed at its Red Sea export outlet",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "Yanbu is the escape valve that lets Saudi crude avoid Hormuz. Targeting it signals that the Houthi campaign is aimed at Gulf export capacity, not just Saudi morale, which pairs with Iran's squeeze on Hormuz. Invoking the Beijing deal also puts China on the spot as guarantor.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "yanbu"
+      ],
+      "related_stories": [
+       "saudi-blames-iran-eu-gcc-postponed",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait"
+      ]
+     },
+     "houthis-saudi-oct15": {
+      "id": "houthis-saudi-oct15",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "era": "2020s",
+      "edition": "2026-10-15",
+      "region": "Middle East",
+      "title": "Saudi coalition says cruise missile intercepted over Medina; Houthis keep targeting oil and airports",
+      "summary": "On Oct 15 the Saudi-led coalition said it intercepted a cruise missile over the Medina region; Houthis called the claim a lie. On Oct 14 Houthis vowed more attacks on Saudi airports and oil after a strike that sources said heavily damaged Aramco's Dhahran HQ (Saudi Energy Ministry: limited fire). Riyadh King Khalid airport was hit Oct 10 (13 killed). Saudi-led strikes hit Sanaa-area fuel sites. Houthis swept to Bab el-Mandeb in September; Saudi-backed forces later pressed toward Mokha.",
+      "analysis": {
+       "text": "Stated Houthi motive is retaliation for Saudi strikes in Yemen; as Iran's proxy they open a second chokepoint (Bab el-Mandeb) while Hormuz burns, multiplying oil and Red Sea shipping risk without Tehran owning every shot.",
+       "confidence": "likely"
+      },
+      "sources": [
+       {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/"
+       },
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6001752/saudi-arabia-issues-new-security-alerts-after-houthi-rebels-hit-saudi-oil-company"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/saudi-arabia-yemen-strikes-mideast-conflict-riyadh-c81a91347c00b17097c8fafde7e4eeec"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "saudi-arabia",
+       "aramco",
+       "yemen",
+       "iran",
+       "bab-el-mandeb",
+       "red-sea",
+       "petroleum",
+       "mohammed-bin-salman"
+      ],
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "houthis-hit-aramco",
+        "why": "Continuation of the Oct Houthi campaign against Saudi oil and airports",
+        "confidence": "likely"
+       },
+       {
+        "story": "gfs-pride-sunk",
+        "why": "Same Iran-linked Gulf crisis: Hormuz pressure plus Red Sea/Bab el-Mandeb second front",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "houthis-hit-aramco",
+       "gfs-pride-sunk",
+       "houthis-hit-aden-palace",
+       "hormuz-attacks-surge",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-07-15-biden-saudi",
+       "2022-10-02-truce-expires",
+       "saudi-blames-iran-eu-gcc-postponed"
+      ],
+      "where": [
+       "medina",
+       "dhahran",
+       "riyadh"
+      ],
+      "marker": "strike",
+      "revisions": [
+       {
+        "edition": "2026-10-15",
+        "why": "Place today's story at the named sites: Medina intercept, Dhahran HQ, Riyadh airport.",
+        "fields": [
+         "where",
+         "marker"
+        ]
+       }
+      ]
+     },
+     "2026-02-26-pakistan-afghanistan-war": {
+      "id": "2026-02-26-pakistan-afghanistan-war",
+      "date": "2026-02-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "Pakistan declares 'open war' on Taliban-ruled Afghanistan",
+      "summary": "After days of cross-border fighting, Pakistan's defence minister said the country was in 'open war' with Afghanistan, and Pakistani jets struck targets in Kabul, Kandahar and other provinces. The Taliban said it was open to talks.",
+      "sources": [
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/pakistan-strikes-afghanistan-targets-clashes-intensify-2026-02-27/"
+       },
+       {
+        "name": "Reuters (clashes)",
+        "url": "https://www.reuters.com/world/asia-pacific/afghanistan-has-launched-retaliatory-attacks-pakistani-border-posts-taliban-2026-02-26/"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "causes": [
+       {
+        "story": "2022-07-31-zawahiri",
+        "why": "Al-Qaeda's leader sheltering in Kabul showed the Taliban hosting militants, the core of Pakistan's complaint",
+        "confidence": "speculative"
+       },
+       {
+        "story": "2025-10-19-afpak-doha-ceasefire",
+        "why": "The October 2025 ceasefire failed",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-01-01-pakistan-deadliest-year",
+        "why": "TTP violence Pakistan blamed on Kabul",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-08-15-fall-of-kabul",
+        "why": "Taliban rule let the TTP regroup",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Islamabad blames the Taliban for sheltering the Pakistani Taliban (TTP). Its former proxy has become an enemy.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "kabul"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2021-08-15-fall-of-kabul",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "kurram-border-clash"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-28",
+        "why": "Phase E gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-26",
+        "why": "Archive audit: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2026-03-16-kabul-hospital-strike": {
+      "id": "2026-03-16-kabul-hospital-strike",
+      "date": "2026-03-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "Pakistani airstrike on a Kabul hospital kills hundreds",
+      "summary": "Pakistani airstrikes hit a hospital in Kabul. Wikipedia's account of the strike, citing news reports, puts the dead at more than 400.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2026 Kabul hospital airstrike",
+        "url": "https://en.wikipedia.org/wiki/2026_Kabul_hospital_airstrike"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-26-pakistan-afghanistan-war",
+        "why": "Escalating air campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "strike",
+      "where": [
+       "kabul"
+      ],
+      "related_stories": [
+       "2026-02-26-pakistan-afghanistan-war"
+      ]
+     },
+     "2026-10-05-taliban-diplomacy": {
+      "id": "2026-10-05-taliban-diplomacy",
+      "date": "2026-10-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-10-14",
+      "region": "Asia-Pacific",
+      "title": "Moscow Format ends without a communiqué as Pakistan–Taliban rift persists",
+      "summary": "The Taliban said problems with Pakistan could be resolved through diplomacy. Dawn reported the Oct 5 Moscow Format consultations ended without a joint communiqué because Pakistan and the Taliban disagreed over language on terrorist networks. Islamabad says talks cannot be unconditional and demands a verifiable mechanism against TTP attacks. Earlier mediation by Qatar and Turkey, Saudi Arabia and China failed to produce a lasting settlement.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/afghan-taliban-says-problems-with-pakistan-can-be-resolved-through-diplomacy-2026-10-05/"
+       },
+       {
+        "name": "Dawn",
+        "url": "https://www.dawn.com/news/2037780/pakistan-rules-out-unconditional-talks-with-afghanistan"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-26-pakistan-afghanistan-war",
+        "why": "Unresolved war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-14",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "Consultations in Moscow; no place entity yet.",
+      "related_stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "kurram-border-clash"
+      ]
+     },
+     "2021-10-europe-gas-crunch": {
+      "id": "2021-10-europe-gas-crunch",
+      "date": "2021-10",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "Europe's gas crunch sends prices to records",
+      "summary": "European gas prices hit record highs in autumn 2021 amid low storage, a post-COVID demand rebound and limited Russian supply above contracted volumes.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021–2023 global energy crisis",
+        "url": "https://en.wikipedia.org/wiki/2021–2023_global_energy_crisis"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "natural-gas",
+       "russia",
+       "gazprom",
+       "inflation"
+      ],
+      "storylines": [
+       "global-oil",
+       "russia-ukraine"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-03-16-fed-hike",
+        "why": "Energy inflation already building in 2021",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-03-16-fed-hike",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-repowereu",
+       "2022-08-eu-gas-record"
+      ],
+      "marker": "energy",
+      "unplaced": "Europe-wide gas market.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-08-eu-gas-record": {
+      "id": "2022-08-eu-gas-record",
+      "date": "2022-08-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "European gas prices hit record above €300/MWh",
+      "summary": "Dutch TTF gas futures hit all-time highs in late August 2022 as Russian flows shrank.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Russia–European Union gas dispute",
+        "url": "https://en.wikipedia.org/wiki/2022_Russia–European_Union_gas_dispute"
+       }
+      ],
+      "entities": [
+       "natural-gas",
+       "european-union",
+       "russia",
+       "inflation"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-14-nordstream-cut",
+        "why": "Supply cut",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-23-uk-mini-budget",
+        "why": "Energy-price support costs and inflation backdrop",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-11-israel-lebanon",
+        "why": "Europe's gas hunt raised the value of East Med gas",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-06-14-nordstream-cut",
+       "2022-09-23-uk-mini-budget",
+       "2022-10-11-israel-lebanon",
+       "2021-10-europe-gas-crunch",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-repowereu"
+      ],
+      "marker": "energy",
+      "unplaced": "European gas market.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-09-23-uk-mini-budget": {
+      "id": "2022-09-23-uk-mini-budget",
+      "date": "2022-09-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "UK mini-budget triggers gilt market crisis",
+      "summary": "Unfunded tax cuts set off a gilt sell-off, forcing Bank of England intervention and leading to Liz Truss's resignation.",
+      "sources": [
+       {
+        "name": "Wikipedia: September 2022 United Kingdom mini-budget",
+        "url": "https://en.wikipedia.org/wiki/September_2022_United_Kingdom_mini-budget"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "inflation"
+      ],
+      "storylines": [
+       "central-banks-rates"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-eu-gas-record",
+        "why": "Energy-price support costs and inflation backdrop",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-08-eu-gas-record",
+       "2022-10-25-sunak-pm"
+      ],
+      "where": [
+       "london"
+      ],
+      "marker": "political",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines",
+         "where",
+         "marker"
+        ]
+       }
+      ]
+     },
+     "2026-04-12-orban-ousted": {
+      "id": "2026-04-12-orban-ousted",
+      "date": "2026-04-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Europe",
+      "title": "Orbán ousted after 16 years as Magyar's Tisza wins a landslide",
+      "summary": "Péter Magyar's pro-EU Tisza party won a two-thirds majority in Hungary's election, ending Viktor Orbán's 16-year rule. Magyar promised a democratic reset with an eye on frozen EU funds.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/"
+       },
+       {
+        "name": "Reuters (Magyar)",
+        "url": "https://www.reuters.com/world/europe/hungarians-look-changed-future-after-pro-eu-magyars-election-landslide-2026-04-13/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election"
+       }
+      ],
+      "entities": [
+       "hungary",
+       "viktor-orban",
+       "peter-magyar",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Moscow lost its most reliable veto inside the EU and NATO.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift",
+       "russia-ukraine"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "where": [
+       "budapest"
+      ],
+      "related_stories": [
+       "2026-04-23-eu-90bn-loan",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-12",
+        "why": "Phase C sweep: every existing source is bot-blocked (401/403/timeout) from the checker; add a Wikipedia source that loads",
+        "fields": [
+         "sources"
+        ]
+       }
+      ]
+     },
+     "2026-10-13-hungary-lifts-accession-veto": {
+      "id": "2026-10-13-hungary-lifts-accession-veto",
+      "date": "2026-10-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-10-14",
+      "region": "Europe",
+      "title": "Hungary lifts its veto and the EU opens two more Ukraine accession clusters",
+      "summary": "After Ukraine adopted protections for minority-language education, including for Hungarians in Transcarpathia, Budapest dropped its veto and the EU opened Clusters 2 and 3, so four of six are now open. Magyar and Zelenskyy met in Brussels on Oct 16.",
+      "sources": [
+       {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin"
+       },
+       {
+        "name": "Interfax-Ukraine",
+        "url": "https://en.interfax.com.ua/news/general/1218898.html"
+       },
+       {
+        "name": "Kyiv Post",
+        "url": "https://www.kyivpost.com/post/87303"
+       }
+      ],
+      "entities": [
+       "hungary",
+       "ukraine",
+       "european-union",
+       "peter-magyar",
+       "volodymyr-zelenskyy"
+      ],
+      "causes": [
+       {
+        "story": "2026-04-12-orban-ousted",
+        "why": "The Magyar government reversed Orbán's blockade",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-14",
+      "storylines": [
+       "russia-ukraine",
+       "transatlantic-rift"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "A Council decision; no single site.",
+      "related_stories": [
+       "2026-04-12-orban-ousted",
+       "trump-disgrace-eu-summit",
+       "energy-ceasefire",
+       "2026-04-23-eu-90bn-loan"
+      ]
+     },
+     "2023-12-14-eu-opens-ukraine-talks": {
+      "id": "2023-12-14-eu-opens-ukraine-talks",
+      "date": "2023-12-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Europe",
+      "title": "EU decides to open accession talks with Ukraine as Orbán steps out of the room",
+      "summary": "EU leaders agreed to open membership negotiations with Ukraine and Moldova, with Hungary's Orbán absent so the decision could pass. He blocked a €50bn aid package until February 2024.",
+      "sources": [
+       {
+        "name": "European Pravda",
+        "url": "https://www.eurointegration.com.ua/eng/news/2023/12/14/7175588/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Potential_accession_of_Ukraine_to_the_European_Union"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "ukraine",
+       "hungary",
+       "viktor-orban"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-23-ukraine-eu",
+        "why": "Follows the 2022 candidate status",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "storylines": [
+       "russia-ukraine",
+       "transatlantic-rift"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2022-06-23-ukraine-eu",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2025-12-18-eu-90bn-loan-agreed"
+      ]
+     },
+     "2024-07-07-france-hung-parliament": {
+      "id": "2024-07-07-france-hung-parliament",
+      "date": "2024-07-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Europe",
+      "title": "Macron's snap election leaves France with a hung parliament",
+      "summary": "After the far right won the European elections, Macron dissolved the Assembly. A left alliance came first in the Jul 7 runoff, ahead of Macron's centrists and the RN, leaving no majority and a string of fragile governments.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2024_French_legislative_election"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/article/2024/jul/08/france-election-new-caledonia-kanak-emmanuel-tjibaou-seat"
+       }
+      ],
+      "entities": [
+       "france",
+       "emmanuel-macron"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": []
+     },
+     "2010-04-08-new-start": {
+      "id": "2010-04-08-new-start",
+      "date": "2010-04-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-06-30",
+      "region": "Europe",
+      "title": "Obama and Medvedev sign New START in Prague",
+      "summary": "The treaty capped strategic arsenals and was the last US–Russia nuclear arms pact.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/New_START"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "barack-obama",
+       "dmitry-medvedev"
+      ],
+      "causes": [
+       {
+        "story": "2009-03-06-us-russia-reset",
+        "why": "Product of the reset",
+        "confidence": "likely"
+       },
+       {
+        "story": "2002-05-24-moscow-treaty",
+        "why": "Replaced SORT",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2010-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "diplomacy",
+      "where": [
+       "prague"
+      ],
+      "related_stories": [
+       "2009-03-06-us-russia-reset",
+       "2002-05-24-moscow-treaty",
+       "2026-02-05-new-start-expires",
+       "2015-07-14-jcpoa-agreed"
+      ],
+      "revisions": [
+       {
+        "edition": "2009-12-31",
+        "why": "2009 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2002-12-31",
+        "why": "2002 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-09-22-putin-new-start-offer": {
+      "id": "2025-09-22-putin-new-start-offer",
+      "date": "2025-09-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Russia/Eurasia",
+      "title": "Putin offers to keep New START limits for a year after it expires if the US does too",
+      "summary": "Putin said Russia would voluntarily observe the treaty's central limits (1,550 deployed warheads and 700 deployed launchers) for one year after Feb 5, 2026, if Washington reciprocated.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/putin-offers-trump-temporary-nuclear-arms-control-deal-that-would-extend-status-2025-09-22/"
+       },
+       {
+        "name": "CRS",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12964/IF12964.7.pdf"
+       }
+      ],
+      "entities": [
+       "russia",
+       "united-states",
+       "vladimir-putin",
+       "new-start"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "unplaced": "A statement in Moscow; no place entity.",
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2025-08-15-alaska-summit"
+      ]
+     },
+     "2013-05-28-gezi-protests": {
+      "id": "2013-05-28-gezi-protests",
+      "date": "2013-05-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Europe",
+      "title": "Gezi Park protests become a nationwide revolt against Erdoğan",
+      "summary": "A harsh crackdown marked Erdoğan's turn toward more authoritarian rule.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gezi_Park_protests"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "where": [
+       "gezi-park"
+      ],
+      "related_stories": [
+       "2016-07-15-turkey-coup-attempt"
+      ]
+     },
+     "2000-12-sharif-exiled": {
+      "id": "2000-12-sharif-exiled",
+      "date": "2000-12",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-12-31",
+      "region": "Asia-Pacific",
+      "title": "Ousted Pakistani leader Nawaz Sharif goes into exile in Saudi Arabia",
+      "summary": "Musharraf consolidated military rule.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "nawaz-sharif",
+       "pervez-musharraf",
+       "saudi-arabia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-12-31",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "jeddah"
+      ],
+      "related_stories": [
+       "2013-05-11-sharif-wins"
+      ]
+     },
+     "2000-07-plan-colombia": {
+      "id": "2000-07-plan-colombia",
+      "date": "2000-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Americas",
+      "title": "The US backs Plan Colombia with aid against drugs and guerrillas",
+      "summary": "Military aid flowed to the fight against the FARC.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plan_Colombia"
+       }
+      ],
+      "entities": [
+       "colombia",
+       "united-states",
+       "farc",
+       "bill-clinton"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "military",
+      "where": [
+       "bogota"
+      ],
+      "related_stories": [
+       "2002-08-07-uribe-takes-office"
+      ]
+     },
+     "2000-11-fujimori-falls": {
+      "id": "2000-11-fujimori-falls",
+      "date": "2000-11",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-12-31",
+      "region": "Americas",
+      "title": "Alberto Fujimori flees to Japan and is removed as Peru's president",
+      "summary": "A bribery scandal had engulfed his government.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+       }
+      ],
+      "entities": [
+       "peru",
+       "alberto-fujimori",
+       "japan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "lima"
+      ],
+      "related_stories": []
+     },
+     "2001-07-lusaka-au-plan": {
+      "id": "2001-07-lusaka-au-plan",
+      "date": "2001-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Africa",
+      "title": "African leaders in Lusaka adopt the plan to launch the African Union",
+      "summary": "The AU replaced the OAU in 2002.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/African_Union"
+       }
+      ],
+      "entities": [
+       "african-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "lusaka"
+      ],
+      "related_stories": [
+       "2002-07-09-african-union-launched"
+      ]
+     },
+     "2001-10-anthrax-letters": {
+      "id": "2001-10-anthrax-letters",
+      "date": "2001-10",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2001-12-31",
+      "region": "Americas",
+      "title": "Anthrax letters kill five Americans",
+      "summary": "The FBI later blamed a US Army scientist.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks"
+       }
+      ],
+      "entities": [
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-12-31",
+      "storylines": [
+       "us-domestic-politics"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "strike",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2001-09-pakistan-sides-with-us": {
+      "id": "2001-09-pakistan-sides-with-us",
+      "date": "2001-09",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Asia-Pacific",
+      "title": "Musharraf allies Pakistan with the US after 9/11 and drops the Taliban",
+      "summary": "Pakistan became a frontline ally while elements of its state kept ties to the Taliban.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "pervez-musharraf",
+       "united-states",
+       "taliban"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "pakistan-afghanistan-war",
+       "south-asia-security"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2021-08-15-fall-of-kabul",
+       "2016-05-21-mansour-killed"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-07-us-rsf-genocide",
+       "2025-01-11-wad-madani-retaken",
+       "2020-10-03-juba-agreement",
+       "2020-12-14-sudan-delisted",
+       "2019-04-11-bashir-ousted",
+       "2019-06-03-khartoum-massacre",
+       "2018-12-19-sudan-protests-begin",
+       "2016-07-08-juba-clashes",
+       "2009-03-04-icc-bashir-warrant",
+       "2007-07-31-unamid-darfur",
+       "2006-05-05-darfur-peace-agreement",
+       "2005-01-09-sudan-cpa",
+       "2005-03-31-unsc-refers-darfur",
+       "2005-07-30-garang-killed",
+       "2004-09-09-us-calls-darfur-genocide",
+       "2003-02-26-darfur-rebellion",
+       "2002-07-20-machakos-protocol"
+      ],
+      "source": "inbox"
+     },
+     "korean-peninsula": {
+      "id": "korean-peninsula",
+      "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+      "entities": [
+       "south-korea",
+       "north-korea",
+       "russia",
+       "yoon-suk-yeol",
+       "lee-jae-myung",
+       "kim-jong-un"
+      ],
+      "stories": [
+       "2025-04-04-yoon-removed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-06-03-lee-jae-myung-elected",
+       "2025-10-10-hwasong-20-parade",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-02-19-yoon-life-sentence",
+       "2026-03-29-hwasong-20-engine-test",
+       "2026-09-20-dprk-hypersonic-test",
+       "2024-06-19-putin-kim-treaty",
+       "2024-10-18-dprk-troops-to-russia",
+       "2024-12-03-yoon-martial-law",
+       "2025-03-13-kursk-exit",
+       "2020-06-16-liaison-office-blown-up",
+       "2023-09-13-kim-putin-vostochny",
+       "2025-04-26-russia-claims-kursk",
+       "2019-02-28-hanoi-summit",
+       "2019-06-30-dmz-meeting",
+       "2018-02-09-pyeongchang-olympic-thaw",
+       "2018-04-27-panmunjom-summit",
+       "2018-06-12-singapore-summit",
+       "2017-02-13-kim-jong-nam-killed",
+       "2017-03-06-thaad-deployed",
+       "2017-03-10-park-removed",
+       "2017-07-04-hwasong-14-icbm",
+       "2017-09-03-north-korea-sixth-nuclear-test",
+       "2017-11-28-hwasong-15",
+       "2016-01-06-north-korea-fourth-test",
+       "2016-12-09-park-impeached",
+       "2013-02-12-nk-third-nuclear-test",
+       "2013-12-12-jang-executed",
+       "2012-04-11-kim-jong-un-party-chief",
+       "2012-12-12-nk-satellite-launch",
+       "2012-12-19-park-elected",
+       "2011-12-17-kim-jong-il-dies",
+       "2010-03-26-cheonan-sunk",
+       "2010-09-30-kim-jong-un-anointed",
+       "2010-11-23-yeonpyeong-shelling",
+       "2009-05-25-nk-second-nuclear-test",
+       "2008-06-27-yongbyon-tower-demolished",
+       "2007-02-13-six-party-deal",
+       "2007-12-19-lee-myung-bak-elected",
+       "2006-10-09-nk-first-nuclear-test",
+       "2005-09-19-six-party-joint-statement",
+       "2003-01-10-nk-quits-npt",
+       "2003-08-27-six-party-talks-begin",
+       "2002-09-17-koizumi-pyongyang",
+       "2002-10-16-nk-uranium-admission",
+       "2002-12-19-roh-elected",
+       "2000-06-13-inter-korean-summit"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing",
+       "2008-10-10-us-india-nuclear-deal",
+       "2008-11-26-mumbai-attacks",
+       "2007-07-10-lal-masjid-siege",
+       "2007-11-03-musharraf-emergency",
+       "2007-12-14-ttp-formed",
+       "2007-12-27-bhutto-assassinated",
+       "2006-03-02-bush-singh-nuclear-deal",
+       "2006-07-11-mumbai-train-bombings",
+       "2006-06-sri-lanka-eelam-war-iv",
+       "2005-11-17-rajapaksa-elected",
+       "2004-02-04-aq-khan-confession",
+       "2004-05-13-india-manmohan-singh",
+       "2002-02-27-gujarat-riots",
+       "2001-09-pakistan-sides-with-us",
+       "2000-04-elephant-pass",
+       "2000-12-sharif-exiled",
+       "2001-06-01-nepal-royal-massacre",
+       "2006-04-24-nepal-king-yields",
+       "2008-04-10-nepal-maoists-win"
+      ],
+      "source": "inbox"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul",
+       "2021-08-26-kabul-airport-bombing",
+       "2019-09-07-camp-david-cancelled",
+       "2016-05-21-mansour-killed",
+       "2015-07-29-mullah-omar-death-revealed",
+       "2015-09-28-taliban-take-kunduz",
+       "2014-06-15-zarb-e-azb",
+       "2014-09-29-ghani-inaugurated",
+       "2014-12-16-peshawar-school-massacre",
+       "2014-12-28-isaf-ends",
+       "2013-05-11-sharif-wins",
+       "2012-10-09-malala-shot",
+       "2011-05-02-bin-laden-killed",
+       "2011-11-26-salala-incident",
+       "2010-02-13-marjah-offensive",
+       "2010-06-23-mcchrystal-out",
+       "2010-07-25-wikileaks-afghan-logs",
+       "2009-08-20-afghan-election-fraud",
+       "2009-10-17-south-waziristan-offensive",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-30-camp-chapman-attack",
+       "2007-12-14-ttp-formed",
+       "2006-09-02-operation-medusa",
+       "2006-09-05-waziristan-accord",
+       "2004-03-18-battle-of-wana",
+       "2004-10-09-afghan-election",
+       "2003-08-11-nato-takes-isaf",
+       "2002-03-02-operation-anaconda",
+       "2002-06-13-karzai-loya-jirga",
+       "2001-03-bamiyan-buddhas",
+       "2001-09-pakistan-sides-with-us",
+       "2001-10-07-afghanistan-invasion",
+       "2001-12-05-bonn-agreement",
+       "2001-12-12-tora-bora"
+      ],
+      "source": "inbox"
+     },
+     "ai-compute-minerals": {
+      "id": "ai-compute-minerals",
+      "name": "AI compute → critical minerals",
+      "entities": [
+       "ai-data-centers",
+       "copper",
+       "gallium",
+       "rare-earths",
+       "coltan"
+      ],
+      "stories": [
+       "ai-minerals",
+       "rare-earth-nov10",
+       "rubaya-coltan",
+       "2022-03-08-lme-nickel",
+       "2022-04-19-mexico-lithium",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-deepseek-shock",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-08-h200-china",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2022-11-30-chatgpt-launch",
+       "2023-10-17-us-chip-rules-tightened",
+       "2020-05-15-huawei-fdpr",
+       "2019-05-15-huawei-entity-list",
+       "2019-07-04-japan-korea-trade-dispute",
+       "2018-04-16-zte-export-ban",
+       "2018-12-01-meng-wanzhou-arrested",
+       "2015-05-19-made-in-china-2025"
+      ],
+      "source": "threads.md"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse",
+       "2023-07-26-fed-peak-rate",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2021-03-11-american-rescue-plan",
+       "2023-03-19-credit-suisse-rescue",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2013-04-04-boj-qqe",
+       "2013-06-19-taper-tantrum",
+       "2012-07-26-draghi-whatever-it-takes",
+       "2011-08-05-us-downgrade",
+       "2011-12-21-ecb-ltro",
+       "2010-11-03-fed-qe2",
+       "2009-03-18-fed-expands-qe1",
+       "2008-11-25-fed-qe1",
+       "2000-03-10-dotcom-peak"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria",
+       "2015-11-24-turkey-downs-su-24",
+       "2014-07-08-gaza-war",
+       "2013-06-05-qusayr-hezbollah",
+       "2013-08-21-ghouta-sarin",
+       "2013-09-14-syria-chemical-deal",
+       "2012-01-23-nusra-founded",
+       "2012-05-25-houla-massacre",
+       "2012-07-18-damascus-bombing",
+       "2012-08-20-obama-red-line",
+       "2012-07-19-ypg-takes-kobani",
+       "2012-11-14-pillar-of-defense",
+       "2012-11-29-un-palestine-observer",
+       "2011-03-15-syria-uprising",
+       "2011-07-29-fsa-formed",
+       "2010-05-31-gaza-flotilla-raid",
+       "2009-02-10-israel-election-netanyahu",
+       "2009-06-04-obama-cairo-speech",
+       "2008-05-21-doha-agreement-lebanon",
+       "2008-12-27-operation-cast-lead",
+       "2007-06-14-hamas-takes-gaza",
+       "2007-09-06-israel-strikes-syrian-reactor",
+       "2007-11-27-annapolis-conference",
+       "2006-01-25-hamas-wins-election",
+       "2006-06-25-shalit-captured",
+       "2006-07-12-lebanon-war",
+       "2006-08-11-unsc-1701",
+       "2005-02-14-hariri-assassinated",
+       "2005-03-14-cedar-revolution",
+       "2005-08-15-gaza-disengagement",
+       "2004-03-22-yassin-killed",
+       "2004-07-09-icj-wall-opinion",
+       "2004-11-11-arafat-dies",
+       "2003-04-30-road-map",
+       "2002-03-28-arab-peace-initiative",
+       "2002-03-29-defensive-shield",
+       "2001-02-06-sharon-elected",
+       "2001-06-01-dolphinarium-bombing",
+       "2000-05-israel-leaves-lebanon",
+       "2000-06-10-hafez-assad-dies",
+       "2000-07-11-camp-david-summit",
+       "2000-09-28-second-intifada",
+       "2000-10-07-hezbollah-raid"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies",
+       "2015-11-22-macri-elected",
+       "2014-03-17-car-wash-begins",
+       "2014-09-26-iguala-kidnapping",
+       "2014-10-26-rousseff-reelected",
+       "2014-12-17-cuba-thaw-announced",
+       "2013-03-05-chavez-dies",
+       "2013-06-20-brazil-protests",
+       "2012-06-22-lugo-impeached",
+       "2012-07-01-pena-nieto-elected",
+       "2012-09-04-farc-talks-open",
+       "2011-01-01-rousseff-takes-office",
+       "2010-01-12-haiti-earthquake",
+       "2010-06-20-santos-elected",
+       "2010-08-24-san-fernando-massacre",
+       "2010-10-31-dilma-elected",
+       "2009-06-28-honduras-coup",
+       "2009-12-06-bolivia-morales-reelected",
+       "2008-02-19-fidel-castro-steps-down",
+       "2008-03-01-andean-crisis",
+       "2008-06-30-merida-initiative",
+       "2007-01-10-ortega-returns",
+       "2007-01-15-correa-takes-office",
+       "2006-05-01-bolivia-gas-nationalised",
+       "2006-07-02-mexico-calderon-wins",
+       "2006-10-29-lula-reelected",
+       "2006-12-11-mexico-drug-war",
+       "2005-11-05-mar-del-plata-summit",
+       "2005-12-18-morales-elected",
+       "2004-02-29-aristide-ousted",
+       "2004-10-31-uruguay-left-wins",
+       "2003-01-01-lula-takes-office",
+       "2003-05-25-kirchner-takes-office",
+       "2003-10-17-bolivia-gas-war",
+       "2002-01-argentina-peso-devalued",
+       "2002-08-07-uribe-takes-office",
+       "2002-10-27-lula-elected",
+       "2001-06-03-toledo-elected",
+       "2001-12-20-argentina-collapse",
+       "2000-01-21-ecuador-coup",
+       "2000-07-02-fox-wins-mexico",
+       "2000-07-plan-colombia",
+       "2000-07-30-chavez-reelected",
+       "2000-11-fujimori-falls"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-03-06-true-confidence",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2024-12-26-suez-revenue-loss",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift",
+       "2019-09-14-abqaiq-attack",
+       "2018-06-13-hodeidah-offensive",
+       "2018-08-09-dahyan-bus-strike",
+       "2018-12-13-stockholm-agreement",
+       "2017-12-04-saleh-killed",
+       "2015-01-22-houthis-oust-hadi",
+       "2015-03-26-saudi-intervention-yemen",
+       "2014-09-21-houthis-take-sanaa",
+       "2011-11-23-saleh-gcc-deal",
+       "2009-08-11-yemen-scorched-earth",
+       "2004-06-18-yemen-houthi-war-begins"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected",
+       "2018-11-25-kerch-strait-incident",
+       "2017-08-02-caatsa",
+       "2016-07-08-nato-warsaw-summit",
+       "2016-09-28-mh17-jit-findings",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-02-27-nemtsov-killed",
+       "2014-02-22-yanukovych-ousted",
+       "2014-03-18-crimea-annexed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-25-poroshenko-elected",
+       "2014-07-17-mh17-shot-down",
+       "2014-08-29-ilovaisk",
+       "2014-09-05-nato-wales-2pct",
+       "2014-12-16-ruble-crash",
+       "2013-11-21-euromaidan",
+       "2012-03-04-putin-returns",
+       "2011-12-10-moscow-protests",
+       "2010-02-07-yanukovych-elected",
+       "2010-04-08-new-start",
+       "2010-12-19-belarus-election-crackdown",
+       "2009-01-07-russia-ukraine-gas-cutoff",
+       "2009-04-16-chechnya-operation-ends",
+       "2009-05-07-eastern-partnership",
+       "2008-03-02-medvedev-elected",
+       "2008-04-03-nato-bucharest-summit",
+       "2008-08-08-russia-georgia-war",
+       "2007-02-10-putin-munich-speech",
+       "2007-04-27-estonia-cyberattacks",
+       "2007-09-30-ukraine-snap-election",
+       "2006-01-01-russia-ukraine-gas-cut",
+       "2006-03-19-belarus-election",
+       "2006-03-26-ukraine-election-yanukovych",
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-09-08-nord-stream-deal",
+       "2004-03-14-putin-reelected",
+       "2004-03-29-nato-enlargement",
+       "2004-05-09-kadyrov-assassinated",
+       "2004-09-01-beslan-siege",
+       "2004-11-22-orange-revolution",
+       "2002-05-28-nato-russia-council",
+       "2002-10-23-moscow-theatre-siege",
+       "2002-11-21-nato-prague-summit",
+       "2001-07-16-sino-russian-treaty",
+       "2000-02-grozny-falls",
+       "2000-03-26-putin-elected",
+       "2000-06-gusinsky-arrested",
+       "2000-05-13-russia-federal-districts",
+       "2000-08-12-kursk-sinks",
+       "2000-11-cassette-scandal",
+       "2001-04-14-ntv-takeover",
+       "2003-10-25-khodorkovsky-arrested",
+       "2003-12-07-united-russia-wins",
+       "2005-05-31-khodorkovsky-sentenced",
+       "2006-10-07-politkovskaya-murdered",
+       "2006-11-01-litvinenko-poisoned"
+      ],
+      "source": "threads.md"
+     },
+     "global-oil": {
+      "id": "global-oil",
+      "name": "Global oil price & flows",
+      "entities": [
+       "petroleum",
+       "strait-of-hormuz",
+       "saudi-arabia",
+       "russia",
+       "venezuela"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "2021-10-europe-gas-crunch",
+       "2022-03-05-us-venezuela-talks",
+       "2022-03-07-oil-spike",
+       "2022-03-08-us-oil-ban",
+       "2022-03-25-jeddah-attack",
+       "2022-03-31-spr-release",
+       "2022-06-03-eu-oil-embargo",
+       "2022-07-15-biden-saudi",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2020-03-09-oil-price-war",
+       "2020-04-12-opec-plus-record-cut",
+       "2020-04-20-wti-negative",
+       "2021-03-23-ever-given",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-09-14-abqaiq-attack",
+       "2019-12-02-power-of-siberia",
+       "2019-12-11-aramco-ipo",
+       "2016-01-20-oil-below-30",
+       "2016-12-10-opec-plus-formed",
+       "2014-05-21-russia-china-gas-deal",
+       "2014-11-27-opec-no-cut",
+       "2014-12-16-ruble-crash",
+       "2011-03-11-fukushima-meltdown",
+       "2010-04-20-deepwater-horizon",
+       "2008-07-11-oil-peaks-147"
+      ],
+      "source": "threads.md"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2026-04-07-hormuz-resolution-veto",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-07-19-stena-impero-seized",
+       "2019-09-14-abqaiq-attack",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-05-19-rouhani-reelected",
+       "2017-12-28-iran-dey-protests",
+       "2016-01-16-jcpoa-implementation",
+       "2015-07-14-jcpoa-agreed",
+       "2013-06-14-rouhani-elected",
+       "2013-11-24-iran-interim-deal",
+       "2011-11-08-iaea-iran-report",
+       "2011-11-29-uk-embassy-tehran",
+       "2011-12-05-iran-captures-rq170",
+       "2010-06-09-unsc-1929",
+       "2010-06-17-stuxnet",
+       "2009-06-12-iran-green-movement",
+       "2009-09-25-fordow-revealed",
+       "2007-03-24-unsc-1747",
+       "2007-12-03-iran-nie",
+       "2006-04-11-iran-enrichment-announced",
+       "2006-12-23-unsc-1737",
+       "2005-06-24-ahmadinejad-elected",
+       "2004-02-04-aq-khan-confession",
+       "2003-10-21-tehran-declaration",
+       "2002-08-14-iran-natanz-exposed"
+      ],
+      "source": "threads.md"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2023-10-08-hezbollah-support-front",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2020-05-07-kadhimi-pm",
+       "2019-10-01-iraq-protests",
+       "2019-12-27-k1-rocket-attack",
+       "2019-12-29-us-strikes-kataib-hezbollah",
+       "2019-12-31-baghdad-embassy-siege",
+       "2017-09-25-kurdish-referendum",
+       "2017-10-16-kirkuk-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-09-21-houthis-take-sanaa",
+       "2013-06-05-qusayr-hezbollah",
+       "2011-03-14-gcc-crushes-bahrain",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-02-12-mughniyeh-killed",
+       "2008-05-21-doha-agreement-lebanon",
+       "2006-07-12-lebanon-war",
+       "2004-04-04-sadr-uprising",
+       "2002-01-03-karine-a-seized",
+       "2000-05-israel-leaves-lebanon",
+       "2000-10-07-hezbollah-raid"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-09-15-aukus",
+       "2021-10-04-kishida-pm",
+       "2023-02-04-spy-balloon",
+       "2023-08-05-second-thomas-shoal-water-cannon",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-01-02-xi-taiwan-speech",
+       "2019-06-09-hong-kong-protests",
+       "2018-03-11-xi-term-limits-scrapped",
+       "2017-10-24-xi-thought-enshrined",
+       "2016-05-20-tsai-inaugurated",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2014-03-18-sunflower-movement",
+       "2014-05-02-hysy981-standoff",
+       "2014-09-28-umbrella-movement",
+       "2014-07-01-japan-collective-self-defense",
+       "2013-01-22-philippines-files-arbitration",
+       "2013-03-14-xi-becomes-president",
+       "2013-11-23-china-ecs-adiz",
+       "2013-12-26-abe-yasukuni",
+       "2012-04-08-scarborough-standoff",
+       "2012-09-11-senkaku-purchase",
+       "2012-11-15-xi-general-secretary",
+       "2012-12-16-abe-returns",
+       "2011-11-16-darwin-marines",
+       "2010-09-07-senkaku-trawler",
+       "2008-03-22-ma-ying-jeou-elected",
+       "2007-01-11-china-asat-test",
+       "2005-03-14-anti-secession-law",
+       "2005-04-anti-japan-protests",
+       "2004-03-20-chen-reelected",
+       "2003-07-01-hong-kong-article-23-march",
+       "2001-04-01-hainan-incident",
+       "2000-03-18-chen-elected"
+      ],
+      "source": "threads.md"
+     },
+     "china-minerals-leverage": {
+      "id": "china-minerals-leverage",
+      "name": "China rare-earth / tech leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials",
+       "japan",
+       "european-union"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-drills",
+       "2021-12-china-rare-earth-group",
+       "2022-02-04-no-limits",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2022-10-16-party-congress",
+       "pla-patrol-oct14-15",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2025-11-06-c5-plus-1-summit",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2023-07-03-china-gallium-controls",
+       "2023-10-17-us-chip-rules-tightened",
+       "2010-09-07-senkaku-trawler",
+       "2006-11-04-focac-beijing-summit"
+      ],
+      "source": "threads.md"
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "name": "Venezuela reopening & oil reroute",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "india",
+       "reliance",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-06-19-petro",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2024-07-28-venezuela-stolen-election",
+       "2023-12-03-essequibo-referendum",
+       "2020-03-26-maduro-indicted",
+       "2020-12-06-venezuela-assembly-vote",
+       "2019-01-23-guaido-interim-president",
+       "2019-01-28-pdvsa-sanctions",
+       "2018-05-20-maduro-reelected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2015-12-06-venezuela-opposition-wins-assembly",
+       "2013-03-05-chavez-dies",
+       "2012-10-07-chavez-reelected",
+       "2009-02-15-venezuela-term-limits",
+       "2007-05-01-chavez-orinoco-nationalised",
+       "2007-12-02-venezuela-rejects-reform",
+       "2006-12-03-chavez-reelected",
+       "2004-08-15-chavez-recall-survived",
+       "2003-02-03-venezuela-strike-ends",
+       "2002-04-11-venezuela-coup-attempt",
+       "2000-07-30-chavez-reelected"
+      ],
+      "source": "threads.md"
+     },
+     "drc-m23-minerals": {
+      "id": "drc-m23-minerals",
+      "name": "DRC / M23 minerals war",
+      "entities": [
+       "drc",
+       "m23",
+       "rwanda",
+       "joseph-kabila",
+       "rubaya",
+       "coltan"
+      ],
+      "stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "ai-minerals",
+       "2022-06-13-bunagana",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-m23-takes-goma",
+       "2025-12-04-washington-accords-uvira",
+       "2024-05-02-m23-seizes-rubaya",
+       "2019-07-17-ebola-emergency",
+       "2012-11-20-m23-takes-goma",
+       "2006-10-29-drc-election",
+       "2003-06-12-operation-artemis",
+       "2002-07-30-pretoria-accord",
+       "2001-01-16-laurent-kabila-killed",
+       "2000-06-kisangani-six-day-war"
+      ],
+      "source": "threads.md"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement",
+       "2019-10-11-abiy-nobel",
+       "2018-04-02-abiy-pm",
+       "2018-07-09-ethiopia-eritrea-peace",
+       "2016-10-09-ethiopia-state-of-emergency",
+       "2013-09-21-westgate-attack",
+       "2013-12-15-south-sudan-civil-war",
+       "2012-02-09-shabaab-joins-al-qaeda",
+       "2012-04-10-heglig-crisis",
+       "2012-09-28-kismayo-falls",
+       "2011-01-09-south-sudan-referendum",
+       "2011-07-09-south-sudan-independence",
+       "2011-07-20-somalia-famine",
+       "2011-10-16-kenya-invades-somalia",
+       "2009-04-08-maersk-alabama-hijacked",
+       "2008-11-15-sirius-star-seized",
+       "2007-02-20-amisom-authorised",
+       "2006-06-05-icu-takes-mogadishu",
+       "2006-12-24-ethiopia-invades-somalia",
+       "2005-05-15-ethiopia-election-crackdown",
+       "2000-12-12-algiers-agreement"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists",
+       "2017-10-04-tongo-tongo-ambush",
+       "2016-03-30-gna-arrives-tripoli",
+       "2016-12-06-sirte-liberated",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-31-buhari-wins",
+       "2015-09-16-burkina-coup-attempt",
+       "2015-12-17-libyan-political-agreement",
+       "2014-04-14-chibok-kidnapping",
+       "2014-05-16-haftar-operation-dignity",
+       "2014-08-01-barkhane",
+       "2014-10-31-compaore-ousted",
+       "2013-01-11-operation-serval",
+       "2013-01-16-in-amenas",
+       "2012-01-17-tuareg-rebellion",
+       "2012-03-22-mali-coup",
+       "2012-09-11-benghazi-attack",
+       "2011-02-15-libya-uprising",
+       "2011-03-19-libya-intervention",
+       "2011-08-20-fall-of-tripoli",
+       "2011-08-26-abuja-un-bombing",
+       "2011-10-20-gaddafi-killed",
+       "2010-02-09-jonathan-acting-president",
+       "2009-08-04-niger-tandja-referendum",
+       "2008-08-06-mauritania-coup",
+       "2007-04-11-algiers-bombings",
+       "2005-08-03-mauritania-coup"
+      ],
+      "source": "threads.md"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted",
+       "2021-01-05-al-ula-qatar",
+       "2019-12-11-aramco-ipo",
+       "2018-10-02-khashoggi-killed",
+       "2017-06-05-qatar-blockade",
+       "2017-06-21-mbs-crown-prince",
+       "2017-11-04-saudi-purge-hariri",
+       "2016-01-02-nimr-executed-saudi-iran-split",
+       "2016-04-25-vision-2030",
+       "2015-01-23-king-salman-accedes",
+       "2013-06-25-tamim-emir",
+       "2013-07-03-morsi-ousted",
+       "2013-08-14-rabaa-massacre",
+       "2012-06-24-morsi-wins",
+       "2012-11-22-morsi-decree",
+       "2011-01-14-ben-ali-flees",
+       "2011-02-11-mubarak-resigns",
+       "2011-03-14-gcc-crushes-bahrain",
+       "2010-06-06-khaled-said",
+       "2010-12-17-bouazizi",
+       "2003-04-29-us-leaves-saudi-bases",
+       "2002-03-28-arab-peace-initiative"
+      ],
+      "source": "inbox"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated",
+       "2021-09-26-german-election",
+       "2025-02-23-german-election",
+       "2025-09-10-drones-over-poland",
+       "2019-07-24-johnson-pm",
+       "2019-12-12-johnson-landslide",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-07-11-trump-nord-stream-2",
+       "2018-11-25-brexit-deal-endorsed",
+       "2017-01-20-trump-inaugurated",
+       "2017-03-29-article-50",
+       "2017-06-01-us-quits-paris-agreement",
+       "2017-06-08-uk-hung-parliament",
+       "2016-06-23-brexit-referendum",
+       "2016-11-08-trump-elected",
+       "2015-05-08-cameron-majority",
+       "2014-09-05-nato-wales-2pct",
+       "2013-06-06-snowden-nsa-leaks"
+      ],
+      "source": "inbox"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-11-24-china-cables",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-04-16-zte-export-ban",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-09-30-usmca-deal",
+       "2018-12-01-meng-wanzhou-arrested",
+       "2017-01-20-trump-inaugurated",
+       "2017-01-23-us-quits-tpp",
+       "2016-11-08-trump-elected",
+       "2015-05-19-made-in-china-2025",
+       "2015-06-29-aiib-signed",
+       "2014-11-08-silk-road-fund",
+       "2013-03-14-xi-becomes-president",
+       "2013-09-07-silk-road-economic-belt",
+       "2012-11-15-xi-general-secretary",
+       "2005-07-21-yuan-peg-ends",
+       "2001-11-10-china-wto-approved",
+       "2001-11-14-doha-round",
+       "2000-10-10-us-china-pntr"
+      ],
+      "source": "inbox"
+     },
+     "isis-war": {
+      "id": "isis-war",
+      "name": "Islamic State: caliphate and the war against it",
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "syria",
+       "united-states",
+       "sdf"
+      ],
+      "stories": [
+       "2016-03-22-brussels-bombings",
+       "2016-07-14-nice-truck-attack",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-06-sirte-liberated",
+       "2016-12-19-berlin-market-attack",
+       "2015-01-07-charlie-hebdo",
+       "2015-01-26-kobani-retaken",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-18-bardo-attack",
+       "2015-05-17-ramadi-falls",
+       "2015-10-10-ankara-bombings",
+       "2015-10-31-metrojet-bombing",
+       "2015-11-13-paris-attacks",
+       "2015-12-28-ramadi-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-06-29-caliphate-declared",
+       "2014-08-03-sinjar-genocide",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2013-04-08-isil-founded",
+       "2013-04-23-hawija-clashes",
+       "2012-07-19-ypg-takes-kobani",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2010-09-01-operation-new-dawn",
+       "2006-06-07-zarqawi-killed",
+       "2004-10-17-zarqawi-pledges-to-al-qaeda",
+       "2003-05-16-de-baathification"
+      ],
+      "source": "inbox"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote",
+       "2018-11-17-yellow-vests",
+       "2017-05-07-macron-elected",
+       "2017-09-24-afd-enters-bundestag",
+       "2016-03-18-eu-turkey-migrant-deal",
+       "2016-06-23-brexit-referendum",
+       "2016-12-19-berlin-market-attack",
+       "2015-09-04-merkel-opens-border",
+       "2015-11-13-paris-attacks",
+       "2013-05-28-gezi-protests",
+       "2013-09-22-merkel-third-term",
+       "2013-10-03-lampedusa-shipwreck",
+       "2012-05-06-greek-election-syriza",
+       "2011-07-22-norway-attacks",
+       "2010-04-10-smolensk-crash",
+       "2010-05-11-cameron-coalition",
+       "2009-04-07-moldova-twitter-revolution",
+       "2009-05-07-eastern-partnership",
+       "2009-12-01-lisbon-treaty-in-force",
+       "2008-02-17-kosovo-independence",
+       "2008-06-12-ireland-rejects-lisbon",
+       "2007-01-01-bulgaria-romania-join-eu",
+       "2007-12-13-lisbon-treaty-signed",
+       "2005-05-29-eu-constitution-rejected",
+       "2004-05-01-eu-enlargement",
+       "2001-05-13-berlusconi-returns",
+       "2000-02-04-austria-fpo-government",
+       "2000-10-05-milosevic-ousted",
+       "2001-06-28-milosevic-extradited",
+       "2001-08-13-ohrid-agreement",
+       "2004-03-17-kosovo-unrest",
+       "2006-05-21-montenegro-independence",
+       "2008-07-21-karadzic-arrested",
+       "2000-12-nice-treaty",
+       "2000-09-28-danish-euro-no"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
