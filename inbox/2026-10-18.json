@@ -1463,6 +1463,8 @@
   },
   {
    "id": "tigray",
+   "label_dx": 8,
+   "label_dy": 24,
    "note": "Federal forces claim Axum to Zalambessa; Eritrea calls it 'war'",
    "stories": [
     "tigray-federal-takeover-rubio"
@@ -1504,6 +1506,8 @@
    "name": "Sudan (Kordofan / Darfur)",
    "lat": 13.2,
    "lon": 28.5,
+   "label_dx": -150,
+   "label_dy": 18,
    "severity": "high",
    "note": "Army strikes Nyala; RSF drones hit El Obeid and Kordofan mines",
    "entities": [
@@ -1523,6 +1527,8 @@
    "name": "Lebanon (Israel–Hezbollah)",
    "lat": 33.3,
    "lon": 35.5,
+   "label_dx": -178,
+   "label_dy": -8,
    "severity": "elevated",
    "note": "Israeli strikes continue; talks in Tampa Oct 20",
    "entities": [
@@ -1538,9 +1544,11 @@
   },
   {
    "id": "pakistan-afghanistan",
-   "name": "Pakistan–Afghanistan border",
+   "name": "Pakistan–Afghanistan",
    "lat": 33.9,
    "lon": 70.3,
+   "label_dx": -20,
+   "label_dy": -16,
    "severity": "elevated",
    "note": "Artillery duel in Kurram; Islamabad rejects unconditional talks",
    "entities": [
@@ -1560,6 +1568,8 @@
    "name": "Cuba (grid & oil siege)",
    "lat": 22.3,
    "lon": -79.8,
+   "label_dx": 10,
+   "label_dy": -10,
    "severity": "elevated",
    "note": "75% of island dark at peak; peso 800/USD; UN embargo vote Oct 27-28",
    "entities": [
