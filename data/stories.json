@@ -49415,5 +49415,261 @@
    "2020-11-15-rcep",
    "2019-07-04-japan-korea-trade-dispute"
   ]
+ },
+ {
+  "id": "2012-01-17-tuareg-rebellion",
+  "date": "2012-01-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Africa",
+  "title": "Tuareg rebels launch an uprising in northern Mali, armed from Libya's war",
+  "summary": "The MNLA, joined by fighters returning from Gaddafi's forces, allied with the jihadist Ansar Dine.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tuareg_rebellion_%282012%29"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mali_War"
+   }
+  ],
+  "entities": [
+   "mali",
+   "mnla",
+   "ansar-dine",
+   "libya"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "military",
+  "unplaced": "Northern Mali.",
+  "related_stories": [
+   "2012-03-22-mali-coup"
+  ]
+ },
+ {
+  "id": "2012-01-23-nusra-founded",
+  "date": "2012-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Middle East",
+  "title": "Jabhat al-Nusra announces itself in Syria",
+  "summary": "Ahmed al-Sharaa (al-Julani) founded it as an offshoot of the Islamic State of Iraq; it later became HTS, which took Damascus in 2024.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Al-Nusra_Front"
+   }
+  ],
+  "entities": [
+   "jabhat-al-nusra",
+   "syria",
+   "ahmed-al-sharaa"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "unplaced": "Online announcement.",
+  "related_stories": []
+ },
+ {
+  "id": "2012-03-04-putin-returns",
+  "date": "2012-03-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Putin wins back Russia's presidency with 63%",
+  "summary": "Observers reported flaws, and the March of the Millions on May 6 ended in clashes and prosecutions as he cracked down.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2012_Russian_presidential_election"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bolotnaya_Square_case"
+   }
+  ],
+  "entities": [
+   "russia",
+   "vladimir-putin"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2012-03-15-bo-xilai-purged",
+  "date": "2012-03-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Asia-Pacific",
+  "title": "Bo Xilai is fired as Chongqing party chief",
+  "summary": "The scandal removed Xi's main rival before the leadership transition.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bo_Xilai"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2012/mar/30/bo-xilai-profile"
+   }
+  ],
+  "entities": [
+   "china",
+   "bo-xilai"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "where": [
+   "chongqing"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2012-03-22-mali-coup",
+  "date": "2012-03-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Africa",
+  "title": "Mutinying soldiers overthrow Mali's President Touré",
+  "summary": "Angered by the handling of the rebellion, they left the north to fall within weeks; the MNLA declared 'Azawad' independent on Apr 6.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2012_Malian_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Azawad"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2012/mar/22/mali-rebels-coup"
+   }
+  ],
+  "entities": [
+   "mali",
+   "mnla"
+  ],
+  "causes": [
+   {
+    "story": "2012-01-17-tuareg-rebellion",
+    "why": "Army anger over the rebellion",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "analysis": {
+   "text": "This began a cycle of coups and jihadist expansion that led to the 2020–21 juntas.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "where": [
+   "bamako"
+  ],
+  "related_stories": [
+   "2012-01-17-tuareg-rebellion"
+  ]
+ },
+ {
+  "id": "2012-02-09-shabaab-joins-al-qaeda",
+  "date": "2012-02",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Africa",
+  "title": "Al-Shabaab's leaders pledge allegiance to al-Qaeda",
+  "summary": "The pledge widened internal splits within the Somali jihadist group.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Al-Shabaab_%28militant_group%29"
+   }
+  ],
+  "entities": [
+   "al-shabaab",
+   "al-qaeda",
+   "somalia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "unplaced": "Announced by video.",
+  "related_stories": []
+ },
+ {
+  "id": "2012-02-21-greek-second-bailout",
+  "date": "2012-02",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2012-03-31",
+  "region": "Europe",
+  "title": "Greece's second bailout is ratified, with a big write-down for private bondholders",
+  "summary": "Recession and missed targets forced the second programme.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+   }
+  ],
+  "entities": [
+   "greece",
+   "european-union",
+   "imf"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2012-03-31",
+  "storylines": [
+   "eurozone-crisis"
+  ],
+  "era": "2012 (Xi's rise, Mali, whatever it takes)",
+  "marker": "political",
+  "where": [
+   "athens"
+  ],
+  "related_stories": [
+   "2015-07-05-greek-referendum"
+  ]
  }
 ]
