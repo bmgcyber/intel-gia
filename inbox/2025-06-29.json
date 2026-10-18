@@ -1,0 +1,169 @@
+{
+ "edition": "2025-06-29",
+ "entities": [
+  {
+   "id": "kunming",
+   "name": "Kunming",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kunming",
+   "lat": 25.0464,
+   "lon": 102.7094,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2025-01-18-kunming-ceasefire",
+   "date": "2025-01-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "China brokers a formal ceasefire between Myanmar's junta and the MNDAA in Kunming",
+   "summary": "After a seventh round of talks in Kunming, Beijing said the military and the Kokang MNDAA signed a ceasefire that took effect at midnight on Jan 18. China had pressured the group with border closures.",
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20250120/5cf61067079b4309b553d9195891df0a/c.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-minority-armed-group-agree-ceasefire-china-says-2025-01-20/"
+    },
+    {
+     "name": "Radio Free Asia",
+     "url": "https://www.rfa.org/english/myanmar/2025/01/21/kokang-mndaa-ceasefire-china/"
+    }
+   ],
+   "entities": [
+    "china",
+    "myanmar",
+    "mndaa"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "causes": [
+    {
+     "story": "2024-08-03-lashio-falls",
+     "why": "Beijing moved to stop the rebel advance after Lashio",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "kunming"
+   ]
+  },
+  {
+   "id": "2025-04-22-lashio-handback",
+   "date": "2025-04-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "MNDAA hands Lashio back to Myanmar's junta under Chinese pressure",
+   "summary": "Junta troops re-entered the northern Shan city on Apr 22 after the MNDAA withdrew under the Kunming ceasefire; a Chinese monitoring team and envoy Deng Xijun oversaw the handover. Beijing had reportedly threatened to close the border to MNDAA areas. The MNDAA kept the surrounding countryside.",
+   "sources": [
+    {
+     "name": "China foreign ministry",
+     "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202504/t20250422_11601566.html"
+    },
+    {
+     "name": "Radio Free Asia",
+     "url": "https://www.rfa.org/english/myanmar/2025/04/22/mndaa-lashio-junta/"
+    },
+    {
+     "name": "The Irrawaddy",
+     "url": "https://www.irrawaddy.com/news/burma/mndaa-hands-lashio-back-to-myanmar-junta.html"
+    },
+    {
+     "name": "DVB",
+     "url": "https://english.dvb.no/lashio-returned-to-naypyidaw-control-under-beijing-mediation-over-60000-students-to-retake-matriculation-exams/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/china-sends-team-myanmar-monitor-ceasefire-foreign-ministry-says-2025-04-22/"
+    }
+   ],
+   "entities": [
+    "mndaa",
+    "myanmar",
+    "china"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "causes": [
+    {
+     "story": "2024-08-03-lashio-falls",
+     "why": "Reverses the 2024 capture",
+     "confidence": "likely"
+    },
+    {
+     "story": "2025-01-18-kunming-ceasefire",
+     "why": "Implementation of the China-brokered ceasefire",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "China showed it would restrain allied rebels to keep the junta afloat and the border stable.",
+    "confidence": "likely"
+   },
+   "where": [
+    "lashio"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2025-01-18-kunming-ceasefire",
+    "2025-04-22-lashio-handback"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2026-01-30-myanmar-junta-election",
+   "why": "Lashio handback: junta regained ground before the vote",
+   "causes": [
+    {
+     "story": "2025-03-28-myanmar-earthquake",
+     "why": "The junta pressed ahead with its election plan",
+     "confidence": "speculative"
+    },
+    {
+     "story": "2023-10-27-operation-1027",
+     "why": "The junta lost much territory after Operation 1027",
+     "confidence": "likely"
+    },
+    {
+     "story": "2024-08-03-lashio-falls",
+     "why": "Territorial losses shaped where voting was possible",
+     "confidence": "possible"
+    },
+    {
+     "story": "2024-12-20-arakan-army-ann",
+     "why": "Rakhine largely outside junta control",
+     "confidence": "possible"
+    },
+    {
+     "story": "2025-04-22-lashio-handback",
+     "why": "Junta regained a major northern city months before the vote",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ]
+}
