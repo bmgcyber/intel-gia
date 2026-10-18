@@ -34678,7 +34678,8 @@
   "marker": "strike",
   "unplaced": "Balakot has no coordinates on Wikipedia.",
   "related_stories": [
-   "2019-02-14-pulwama-attack"
+   "2019-02-14-pulwama-attack",
+   "2019-05-23-modi-reelected"
   ]
  },
  {
@@ -34717,7 +34718,9 @@
   "where": [
    "hanoi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2019-06-30-dmz-meeting"
+  ]
  },
  {
   "id": "2019-03-19-nazarbayev-steps-down",
@@ -34862,5 +34865,594 @@
    "christchurch"
   ],
   "related_stories": []
+ },
+ {
+  "id": "2019-04-02-bouteflika-resigns",
+  "date": "2019-04-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Africa",
+  "title": "Algeria's Bouteflika resigns after mass 'Hirak' protests",
+  "summary": "Protests began in February after he sought a fifth term; the army insisted he leave immediately.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hirak_%28Algeria%29"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2019/04/02/world/africa/Abdelaziz-Bouteflika-resigns.html"
+   }
+  ],
+  "entities": [
+   "algeria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "algiers"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2019-04-04-haftar-tripoli-offensive",
+  "date": "2019-04-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Africa",
+  "title": "Khalifa Haftar launches an offensive to seize Tripoli",
+  "summary": "His Libyan National Army attacked the UN-recognised government in the capital; the 14-month campaign killed more than 2,400 before Turkish intervention forced Haftar back in June 2020.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Western_Libya_campaign"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/apr/04/un-chief-urges-restraint-as-libyan-army-leader-plans-tripoli-assault"
+   }
+  ],
+  "entities": [
+   "libya",
+   "khalifa-haftar",
+   "turkey",
+   "russia",
+   "wagner-group",
+   "uae",
+   "egypt"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "military",
+  "unplaced": "Tripoli has no coordinates on its Wikipedia page.",
+  "related_stories": [
+   "2023-08-24-brics-expansion",
+   "2020-10-23-libya-ceasefire"
+  ]
+ },
+ {
+  "id": "2019-04-11-bashir-ousted",
+  "date": "2019-04-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Africa",
+  "title": "Sudan's army ousts Omar al-Bashir after months of protests",
+  "summary": "The military ended his three-decade rule and formed a Transitional Military Council led by Abdel Fattah al-Burhan with RSF chief Hemedti as deputy.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Sudanese_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2019/4/11/sudans-military-seizes-power-from-president-omar-al-bashir"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/apr/11/sudan-army-ousts-bashir-after-30-years-in-power"
+   }
+  ],
+  "entities": [
+   "sudan",
+   "omar-al-bashir",
+   "abdel-fattah-al-burhan",
+   "hemedti",
+   "sudanese-armed-forces",
+   "rsf"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "analysis": {
+   "text": "The Burhan–Hemedti partnership born here broke apart in the 2023 war.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "khartoum"
+  ],
+  "related_stories": [
+   "2019-06-03-khartoum-massacre",
+   "2026-02-03-kadugli-siege-broken",
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-10-09-el-obeid-drones",
+   "2025-03-21-khartoum-retaken",
+   "2025-10-26-el-fasher-falls",
+   "2023-04-15-sudan-war-begins",
+   "2023-05-11-jeddah-declaration",
+   "2023-12-18-wad-madani-falls",
+   "2024-05-10-el-fasher-siege",
+   "2025-01-11-wad-madani-retaken",
+   "sudan-nyala-strikes"
+  ]
+ },
+ {
+  "id": "2019-04-21-zelensky-elected",
+  "date": "2019-04-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Russia/Eurasia",
+  "title": "Volodymyr Zelenskyy wins Ukraine's presidency in a landslide",
+  "summary": "The television comedian beat incumbent Petro Poroshenko with 73% in the runoff, promising to end the Donbas war.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2019/04/21/europe/ukraine-elections-intl/index.html"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "volodymyr-zelenskyy",
+   "petro-poroshenko"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2019-04-21-sri-lanka-easter-bombings",
+  "date": "2019-04-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Asia-Pacific",
+  "title": "Islamic State-linked bombers kill 269 in Sri Lanka's Easter attacks",
+  "summary": "Suicide bombers hit three churches and three luxury hotels in Colombo, Negombo and Batticaloa.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/apr/21/sri-lanka-explosions-80-believed-injured-in-blasts-at-two-churches"
+   }
+  ],
+  "entities": [
+   "sri-lanka",
+   "islamic-state"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "where": [
+   "colombo"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2019-05-10-us-china-tariffs-escalate",
+  "date": "2019-05-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Americas",
+  "title": "Trump raises tariffs on $200bn of Chinese goods to 25% as talks collapse",
+  "summary": "The trade war that began in January 2018 escalated after negotiations broke down; China retaliated and in August the US labelled it a currency manipulator.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2019/05/05/trump-says-tariffs-on-200-billion-of-chinese-goods-will-increase-to-25percent-on-friday.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "china",
+   "donald-trump",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "unplaced": "Tariff decision.",
+  "related_stories": [
+   "2019-05-15-huawei-entity-list",
+   "trump-waives-russia-sanctions",
+   "2026-02-20-scotus-ieepa",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china",
+   "2020-01-15-phase-one-deal",
+   "2020-06-30-hong-kong-nsl",
+   "2023-11-15-biden-xi-woodside",
+   "2022-11-14-biden-xi-bali"
+  ]
+ },
+ {
+  "id": "2019-05-12-fujairah-tanker-sabotage",
+  "date": "2019-05-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Middle East",
+  "title": "Four ships are sabotaged off Fujairah as US–Iran tensions rise",
+  "summary": "Two Saudi tankers, a Norwegian tanker and an Emirati bunkering ship were holed by explosive devices; US officials blamed Iran, which denied it. In June two more tankers were attacked in the Gulf of Oman.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/May_2019_Gulf_of_Oman_incident"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/June_2019_Gulf_of_Oman_incident"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2019/05/12/middleeast/uae-cargo-ship-sabotage-intl/index.html"
+   }
+  ],
+  "entities": [
+   "uae",
+   "saudi-arabia",
+   "iran",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "iran-war-hormuz",
+   "global-oil"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "where": [
+   "fujairah"
+  ],
+  "related_stories": [
+   "2019-06-20-global-hawk-downed",
+   "hormuz-attacks-surge",
+   "houthis-hit-aramco",
+   "2022-03-27-negev-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2023-08-24-brics-expansion",
+   "second-mine-tanker-ukmto-record"
+  ]
+ },
+ {
+  "id": "2019-05-15-huawei-entity-list",
+  "date": "2019-05-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Americas",
+  "title": "US puts Huawei on its Entity List and declares a telecoms emergency",
+  "summary": "Trump's order targeted 'foreign adversary' telecoms gear, and Commerce barred US firms from supplying Huawei without a licence.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Huawei"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2019/may/15/donald-trump-national-emergency-telecoms-threats-huawei"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "huawei",
+   "china",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2019-05-10-us-china-tariffs-escalate",
+    "why": "Trade war widened to technology",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "ai-compute-minerals",
+   "us-tariffs-trade"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "unplaced": "Executive order.",
+  "related_stories": [
+   "2019-05-10-us-china-tariffs-escalate",
+   "trump-waives-russia-sanctions",
+   "2026-02-20-scotus-ieepa",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china",
+   "2020-01-15-phase-one-deal",
+   "2020-05-15-huawei-fdpr"
+  ]
+ },
+ {
+  "id": "2019-05-23-modi-reelected",
+  "date": "2019-05-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Asia-Pacific",
+  "title": "Modi's BJP wins a bigger majority in India's election",
+  "summary": "The BJP won 303 seats with 37% of the vote, the highest share for any party since 1989, weeks after the Balakot strike.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Indian_general_election"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2019/05/19/world/asia/india-election-results.html"
+   }
+  ],
+  "entities": [
+   "india",
+   "narendra-modi"
+  ],
+  "causes": [
+   {
+    "story": "2019-02-26-balakot-strike",
+    "why": "Nationalist mood after Balakot",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": [
+   "2019-02-26-balakot-strike"
+  ]
+ },
+ {
+  "id": "2019-06-03-khartoum-massacre",
+  "date": "2019-06-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Africa",
+  "title": "Sudanese forces massacre protesters at the Khartoum sit-in",
+  "summary": "Troops of the military council, including Hemedti's RSF, killed over 100 people breaking up the sit-in; a power-sharing deal with civilians followed in August.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Khartoum_massacre"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jun/03/sudan-khartoum-protest-gunfire-explosions-heard"
+   }
+  ],
+  "entities": [
+   "sudan",
+   "rsf",
+   "hemedti",
+   "abdel-fattah-al-burhan"
+  ],
+  "causes": [
+   {
+    "story": "2019-04-11-bashir-ousted",
+    "why": "Military council resisted civilian rule",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "military",
+  "where": [
+   "khartoum"
+  ],
+  "related_stories": [
+   "2019-04-11-bashir-ousted"
+  ]
+ },
+ {
+  "id": "2019-06-09-hong-kong-protests",
+  "date": "2019-06-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Asia-Pacific",
+  "title": "Hong Kong's extradition-bill protests become the largest in its history",
+  "summary": "Mass marches against a bill allowing extradition to mainland China grew into a months-long movement against Beijing's tightening control.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jun/18/hong-kong-carrie-lam-to-apologise-to-protesters-extradition-bill"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "unplaced": "Hong Kong's Wikipedia coordinates are a territory centroid.",
+  "related_stories": []
+ },
+ {
+  "id": "2019-06-20-global-hawk-downed",
+  "date": "2019-06-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Middle East",
+  "title": "Iran shoots down a US Global Hawk drone; Trump calls off retaliatory strikes",
+  "summary": "Iran said the drone violated its airspace near Hormuz; the US said it was over international waters. Trump approved and then cancelled strikes on IRGC sites.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jun/21/iran-latest-trump-drone-attack-timeline-airstrikes-called-off"
+   }
+  ],
+  "entities": [
+   "iran",
+   "irgc",
+   "united-states",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2019-05-12-fujairah-tanker-sabotage",
+    "why": "Escalating Gulf crisis",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "unplaced": "Over the Strait of Hormuz; not pinned.",
+  "related_stories": [
+   "2019-05-12-fujairah-tanker-sabotage",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "kataib-hezbollah-halt",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-22-midnight-hammer",
+   "2024-04-13-iran-strikes-israel",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752"
+  ]
+ },
+ {
+  "id": "2019-06-30-dmz-meeting",
+  "date": "2019-06-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-06-30",
+  "region": "Asia-Pacific",
+  "title": "Trump steps into North Korea at the DMZ to meet Kim",
+  "summary": "The first sitting US president on North Korean soil met Kim and Moon Jae-in at Panmunjom, but working-level talks went nowhere.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Koreas%E2%80%93United_States_DMZ_Summit"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2019/6/30/trump-meets-north-koreas-kim-at-dmz-in-landmark-visit"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "kim-jong-un",
+   "moon-jae-in",
+   "north-korea",
+   "south-korea"
+  ],
+  "causes": [
+   {
+    "story": "2019-02-28-hanoi-summit",
+    "why": "Attempt to revive talks after Hanoi",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-06-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "diplomacy",
+  "where": [
+   "panmunjom-jsa"
+  ],
+  "related_stories": [
+   "2019-02-28-hanoi-summit",
+   "2020-06-16-liaison-office-blown-up"
+  ]
  }
 ]
