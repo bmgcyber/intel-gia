@@ -1,0 +1,627 @@
+{
+ "edition": "2002-03-31",
+ "entities": [
+  {
+   "id": "euro",
+   "name": "Euro",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Euro"
+  },
+  {
+   "id": "angola",
+   "name": "Angola",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Angola"
+  },
+  {
+   "id": "jonas-savimbi",
+   "name": "Jonas Savimbi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Savimbi"
+  },
+  {
+   "id": "alvaro-uribe",
+   "name": "Álvaro Uribe",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+  },
+  {
+   "id": "roh-moo-hyun",
+   "name": "Roh Moo-hyun",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
+  },
+  {
+   "id": "abm-treaty",
+   "name": "Anti-Ballistic Missile Treaty",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anti-Ballistic_Missile_Treaty"
+  },
+  {
+   "id": "guantanamo",
+   "name": "Guantánamo Bay detention camp",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp",
+   "lat": 19.9025,
+   "lon": -75.1,
+   "precision": "feature"
+  },
+  {
+   "id": "godhra",
+   "name": "Godhra",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Godhra",
+   "lat": 22.77722222,
+   "lon": 73.62027778,
+   "precision": "city"
+  },
+  {
+   "id": "shahi-kot",
+   "name": "Shah-i-Kot Valley (Operation Anaconda)",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Operation_Anaconda",
+   "lat": 33.36666667,
+   "lon": 69.18333333,
+   "precision": "sector"
+  },
+  {
+   "id": "jenin",
+   "name": "Jenin",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jenin",
+   "lat": 32.46111111,
+   "lon": 35.3,
+   "precision": "city"
+  },
+  {
+   "id": "luanda",
+   "name": "Luanda",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Luanda",
+   "lat": -8.83833333,
+   "lon": 13.23444444,
+   "precision": "city"
+  },
+  {
+   "id": "durban",
+   "name": "Durban",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Durban",
+   "lat": -29.88333333,
+   "lon": 31.05,
+   "precision": "city"
+  },
+  {
+   "id": "freetown",
+   "name": "Freetown",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Freetown",
+   "lat": 8.48722222,
+   "lon": -13.23555556,
+   "precision": "city"
+  },
+  {
+   "id": "karachi",
+   "name": "Karachi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karachi",
+   "lat": 24.86,
+   "lon": 67.01,
+   "precision": "city"
+  },
+  {
+   "id": "kuta",
+   "name": "Kuta, Bali",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kuta%2C_Bali",
+   "lat": -8.73333333,
+   "lon": 115.16666667,
+   "precision": "city"
+  },
+  {
+   "id": "dubrovka-theatre",
+   "name": "Dubrovka theatre, Moscow",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moscow_theater_hostage_crisis",
+   "lat": 55.72569444,
+   "lon": 37.67347222,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2002-01-01-euro-cash-launch",
+   "date": "2002-01-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Europe",
+   "title": "Euro notes and coins enter circulation in 12 countries",
+   "summary": "Fixed exchange rates within the single currency later trapped weaker economies in the debt crisis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Euro"
+    }
+   ],
+   "entities": [
+    "euro",
+    "european-union",
+    "ecb"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "frankfurt"
+   ]
+  },
+  {
+   "id": "2002-01-11-guantanamo-opens",
+   "date": "2002-01-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Americas",
+   "title": "First detainees arrive at Guantánamo Bay",
+   "summary": "Detention without trial became a lasting symbol of the war on terror.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "al-qaeda",
+    "taliban"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "political",
+   "where": [
+    "guantanamo"
+   ]
+  },
+  {
+   "id": "2002-01-18-sierra-leone-war-ends",
+   "date": "2002-01-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "Sierra Leone declares its civil war over",
+   "summary": "British and UN forces had helped end the war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
+    }
+   ],
+   "entities": [
+    "sierra-leone",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "freetown"
+   ]
+  },
+  {
+   "id": "2002-01-29-axis-of-evil",
+   "date": "2002-01-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Americas",
+   "title": "Bush names Iran, Iraq and North Korea an 'axis of evil'",
+   "summary": "The speech set out the case for pre-emptive action against hostile states seeking WMD.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Axis_of_evil"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush",
+    "iran",
+    "iraq",
+    "north-korea"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2002-02-01-daniel-pearl-killed",
+   "date": "2002-02-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Asia-Pacific",
+   "title": "Wall Street Journal reporter Daniel Pearl is murdered by militants in Pakistan",
+   "summary": "Khalid Sheikh Mohammed later claimed to have carried out the killing.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Daniel_Pearl"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "al-qaeda",
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "karachi"
+   ]
+  },
+  {
+   "id": "2002-02-22-savimbi-killed",
+   "date": "2002-02-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "UNITA leader Jonas Savimbi is killed, ending Angola's civil war",
+   "summary": "A ceasefire followed in April.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Angolan_Civil_War"
+    }
+   ],
+   "entities": [
+    "angola",
+    "jonas-savimbi"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "luanda"
+   ]
+  },
+  {
+   "id": "2002-02-27-gujarat-riots",
+   "date": "2002-02-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Asia-Pacific",
+   "title": "A train fire at Godhra sets off anti-Muslim riots across Gujarat",
+   "summary": "Narendra Modi was the state's chief minister; the riots shadowed him for years.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2002_Gujarat_riots"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Godhra_train_burning"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "godhra"
+   ]
+  },
+  {
+   "id": "2002-03-02-operation-anaconda",
+   "date": "2002-03-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Asia-Pacific",
+   "title": "US-led forces fight al-Qaeda and Taliban fighters in Shah-i-Kot",
+   "summary": "Many fighters escaped into Pakistan's tribal areas.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Anaconda"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "al-qaeda",
+    "taliban",
+    "afghanistan"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "war-on-terror"
+   ],
+   "marker": "military",
+   "where": [
+    "shahi-kot"
+   ]
+  },
+  {
+   "id": "2002-03-13-zimbabwe-mugabe-reelected",
+   "date": "2002-03-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "Mugabe wins a disputed election amid violence",
+   "summary": "The Commonwealth suspended Zimbabwe.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2002_Zimbabwean_presidential_election"
+    }
+   ],
+   "entities": [
+    "zimbabwe",
+    "robert-mugabe"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "harare"
+   ]
+  },
+  {
+   "id": "2002-03-28-arab-peace-initiative",
+   "date": "2002-03-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Middle East",
+   "title": "The Arab League endorses the Saudi peace plan",
+   "summary": "It offered normal ties with Israel in return for withdrawal and a Palestinian state.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Arab_Peace_Initiative"
+    }
+   ],
+   "entities": [
+    "arab-league",
+    "saudi-arabia",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars",
+    "gulf-realignment"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2002-03-29-defensive-shield",
+   "date": "2002-03-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Middle East",
+   "title": "Israel launches Operation Defensive Shield in the West Bank",
+   "summary": "The offensive followed a wave of suicide bombings.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Defensive_Shield"
+    }
+   ],
+   "entities": [
+    "israel",
+    "yasser-arafat"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "jenin"
+   ]
+  },
+  {
+   "id": "2002-01-argentina-peso-devalued",
+   "date": "2002-01",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Americas",
+   "title": "Argentina abandons the peso's dollar peg after a record default",
+   "summary": "The collapse plunged millions into poverty.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression"
+    }
+   ],
+   "entities": [
+    "argentina",
+    "imf"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "buenos-aires"
+   ]
+  },
+  {
+   "id": "2002-01-03-karine-a-seized",
+   "date": "2002-01-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Middle East",
+   "title": "Israel seizes the Karine A, a ship carrying Iranian arms to the Palestinians",
+   "summary": "The affair exposed Iran's arms pipeline to Palestinian militants.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Karine_A_affair"
+    }
+   ],
+   "entities": [
+    "israel",
+    "iran",
+    "yasser-arafat"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "unplaced": "Red Sea, in international waters."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2002-01-01-euro-cash-launch"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2002-01-11-guantanamo-opens",
+    "2002-01-29-axis-of-evil",
+    "2002-02-01-daniel-pearl-killed",
+    "2002-03-02-operation-anaconda"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2002-01-18-sierra-leone-war-ends",
+    "2002-02-22-savimbi-killed",
+    "2002-03-13-zimbabwe-mugabe-reelected"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2002-02-27-gujarat-riots"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2002-03-02-operation-anaconda"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2002-03-28-arab-peace-initiative",
+    "2002-03-29-defensive-shield"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2002-03-28-arab-peace-initiative"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2002-01-argentina-peso-devalued"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2002-01-03-karine-a-seized"
+   ]
+  }
+ ]
+}
