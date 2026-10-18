@@ -53832,5 +53832,278 @@
   "related_stories": [
    "2010-02-13-marjah-offensive"
   ]
+ },
+ {
+  "id": "2010-07-25-wikileaks-afghan-logs",
+  "date": "2010-07-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Americas",
+  "title": "WikiLeaks publishes 91,000 US military logs from Afghanistan",
+  "summary": "On Nov 28 the State Department cables followed, embarrassing US diplomacy worldwide.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Afghan_War_documents_leak"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks"
+   }
+  ],
+  "entities": [
+   "wikileaks",
+   "julian-assange",
+   "united-states",
+   "afghanistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "political",
+  "unplaced": "Online publication.",
+  "related_stories": []
+ },
+ {
+  "id": "2010-08-05-russia-wildfires",
+  "date": "2010-08",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Record heat and wildfires engulf western Russia",
+  "summary": "Smoke choked Moscow in the hottest summer in Russian history.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_Russian_wildfires"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2010/aug/06/russia-fires-moscow"
+   }
+  ],
+  "entities": [
+   "russia",
+   "dmitry-medvedev"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "political",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2010-08-24-san-fernando-massacre",
+  "date": "2010-08-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Americas",
+  "title": "Los Zetas massacre 72 migrants in Tamaulipas",
+  "summary": "Most victims were from Central and South America.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_San_Fernando_massacre"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2010/aug/25/mexican-police-72-bodies-dump"
+   }
+  ],
+  "entities": [
+   "mexico"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "strike",
+  "where": [
+   "san-fernando-tamaulipas"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2010-09-01-operation-new-dawn",
+  "date": "2010-09-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Middle East",
+  "title": "US formally ends combat operations in Iraq as Operation New Dawn begins",
+  "summary": "A residual force stayed in an advisory role until the full withdrawal in 2011.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Iraq_War"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq",
+   "barack-obama"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "military",
+  "where": [
+   "baghdad"
+  ],
+  "related_stories": [
+   "2014-08-08-us-strikes-isis-iraq",
+   "2011-12-18-us-leaves-iraq"
+  ]
+ },
+ {
+  "id": "2010-09-07-senkaku-trawler",
+  "date": "2010-09-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Asia-Pacific",
+  "title": "Chinese trawler rams Japanese coast-guard boats near the Senkakus",
+  "summary": "China then informally limited rare-earth exports to Japan, though whether this was a response to the incident is debated.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_Senkaku_boat_collision_incident"
+   }
+  ],
+  "entities": [
+   "china",
+   "japan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "analysis": {
+   "text": "It was an early sign of the minerals leverage behind its 2025–26 export controls.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "china-minerals-leverage",
+   "taiwan-indopacific"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "diplomacy",
+  "where": [
+   "senkaku-islands"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2010-09-30-kim-jong-un-anointed",
+  "date": "2010-09-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Asia-Pacific",
+  "title": "Kim Jong Un is anointed heir at a North Korean party conference",
+  "summary": "State media released the first official photograph of him as an adult.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un",
+   "kim-jong-il"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "political",
+  "where": [
+   "pyongyang"
+  ],
+  "related_stories": [
+   "2011-12-17-kim-jong-il-dies"
+  ]
+ },
+ {
+  "id": "2010-07-29-pakistan-floods",
+  "date": "2010-07",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Asia-Pacific",
+  "title": "Monsoon floods submerge a fifth of Pakistan",
+  "summary": "1,985 people died, most in Khyber Pakhtunkhwa.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_Pakistan_floods"
+   }
+  ],
+  "entities": [
+   "pakistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "political",
+  "unplaced": "Nationwide flooding.",
+  "related_stories": []
+ },
+ {
+  "id": "2010-08-04-kenya-constitution",
+  "date": "2010-08-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2010-09-30",
+  "region": "Africa",
+  "title": "Kenyans approve a new constitution",
+  "summary": "It devolved power, and in 2017 its Supreme Court annulled a presidential vote.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2010_Kenyan_constitutional_referendum"
+   }
+  ],
+  "entities": [
+   "kenya"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2010-09-30",
+  "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+  "marker": "political",
+  "where": [
+   "nairobi"
+  ],
+  "related_stories": []
  }
 ]
