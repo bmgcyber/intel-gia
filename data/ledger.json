@@ -106917,6 +106917,1223 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2003-12-31": {
+   "sha256": "61965711843a60e77c1590f7f347d7fcf0b5f28e2915c973d2c77efcaa9288ac",
+   "undo": {
+    "stories": {
+     "2003-10-15-shenzhou-5": null,
+     "2003-10-17-bolivia-gas-war": null,
+     "2003-10-21-tehran-declaration": null,
+     "2003-10-25-khodorkovsky-arrested": null,
+     "2003-11-15-istanbul-bombings": null,
+     "2003-11-23-rose-revolution": null,
+     "2003-12-07-united-russia-wins": null,
+     "2003-12-13-saddam-captured": null,
+     "2003-12-19-libya-gives-up-wmd": null,
+     "2003-12-26-bam-earthquake": null,
+     "2003-11-26-loc-ceasefire": null,
+     "2004-01-04-saakashvili-elected": {
+      "id": "2004-01-04-saakashvili-elected",
+      "date": "2004-01-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Mikheil Saakashvili wins Georgia's presidency after the Rose Revolution",
+      "summary": "He pursued NATO membership and confronted the breakaway regions.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election"
+       }
+      ],
+      "entities": [
+       "georgia",
+       "mikheil-saakashvili"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "south-caucasus"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "tbilisi"
+      ],
+      "related_stories": [
+       "2008-08-08-russia-georgia-war"
+      ]
+     },
+     "2004-02-04-aq-khan-confession": {
+      "id": "2004-02-04-aq-khan-confession",
+      "date": "2004-02-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Asia-Pacific",
+      "title": "A.Q. Khan confesses to selling nuclear secrets",
+      "summary": "His network had supplied Iran, Libya and North Korea; Musharraf pardoned him.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "abdul-qadeer-khan",
+       "iran",
+       "north-korea",
+       "libya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "south-asia-security",
+       "iran-war-hormuz"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": []
+     },
+     "2004-03-25-blair-meets-gaddafi": {
+      "id": "2004-03-25-blair-meets-gaddafi",
+      "date": "2004-03-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Africa",
+      "title": "Blair meets Gaddafi as Libya gives up its weapons programmes",
+      "summary": "Libya's December 2003 pledge brought sanctions relief and exposed the A.Q. Khan network.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+       }
+      ],
+      "entities": [
+       "libya",
+       "muammar-gaddafi",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "diplomacy",
+      "where": [
+       "tripoli"
+      ],
+      "related_stories": []
+     },
+     "2004-04-04-first-battle-of-fallujah": {
+      "id": "2004-04-04-first-battle-of-fallujah",
+      "date": "2004-04-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-06-30",
+      "region": "Middle East",
+      "title": "US Marines assault Fallujah after the killing of four contractors",
+      "summary": "The siege was called off, leaving the city to insurgents.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Battle_of_Fallujah"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-06-30",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "military",
+      "where": [
+       "fallujah"
+      ],
+      "related_stories": []
+     },
+     "2004-04-28-abu-ghraib": {
+      "id": "2004-04-28-abu-ghraib",
+      "date": "2004-04-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-06-30",
+      "region": "Middle East",
+      "title": "Photos of US abuse of prisoners at Abu Ghraib are published",
+      "summary": "The scandal became a recruiting tool for jihadists.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-06-30",
+      "storylines": [
+       "iraq-war",
+       "war-on-terror"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "abu-ghraib"
+      ],
+      "related_stories": []
+     },
+     "2004-06-28-iraq-sovereignty-handover": {
+      "id": "2004-06-28-iraq-sovereignty-handover",
+      "date": "2004-06-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-06-30",
+      "region": "Middle East",
+      "title": "US hands sovereignty to Iraq's interim government",
+      "summary": "Ayad Allawi led the government as the insurgency grew.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iraqi_Interim_Government"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-06-30",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2005-01-30-iraq-first-election"
+      ]
+     },
+     "2004-03-11-madrid-bombings": {
+      "id": "2004-03-11-madrid-bombings",
+      "date": "2004-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Europe",
+      "title": "Bombs on Madrid commuter trains kill 193",
+      "summary": "The al-Qaeda-inspired attack was Europe's deadliest terrorist strike since Lockerbie.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
+       }
+      ],
+      "entities": [
+       "spain",
+       "al-qaeda"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "strike",
+      "where": [
+       "madrid"
+      ],
+      "related_stories": []
+     },
+     "2004-10-17-zarqawi-pledges-to-al-qaeda": {
+      "id": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+      "date": "2004-10-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-12-31",
+      "region": "Middle East",
+      "title": "Zarqawi pledges allegiance to bin Laden, creating al-Qaeda in Iraq",
+      "summary": "The group was the forerunner of the Islamic State.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Al-Qaeda_in_Iraq"
+       }
+      ],
+      "entities": [
+       "abu-musab-al-zarqawi",
+       "al-qaeda",
+       "osama-bin-laden"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-12-31",
+      "storylines": [
+       "iraq-war",
+       "isis-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "unplaced": "Announced online.",
+      "related_stories": [
+       "2006-02-22-samarra-mosque-bombing",
+       "2006-06-07-zarqawi-killed",
+       "2005-11-09-amman-bombings"
+      ]
+     },
+     "2004-09-09-us-calls-darfur-genocide": {
+      "id": "2004-09-09-us-calls-darfur-genocide",
+      "date": "2004-09-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-09-30",
+      "region": "Africa",
+      "title": "US Secretary of State Powell calls the killing in Darfur genocide",
+      "summary": "Janjaweed militias backed by Khartoum had driven millions from their homes.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_in_Darfur"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-09-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "diplomacy",
+      "unplaced": "Darfur, western Sudan.",
+      "related_stories": [
+       "2005-01-09-sudan-cpa",
+       "2005-03-31-unsc-refers-darfur"
+      ]
+     },
+     "2004-11-22-orange-revolution": {
+      "id": "2004-11-22-orange-revolution",
+      "date": "2004-11-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Ukraine's Orange Revolution erupts over a rigged election",
+      "summary": "Mass protests forced a rerun that Yushchenko won; Moscow saw Western interference.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orange_Revolution"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "viktor-yushchenko",
+       "viktor-yanukovych",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-12-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "maidan"
+      ],
+      "related_stories": [
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-03-24-tulip-revolution",
+       "2014-02-22-yanukovych-ousted",
+       "2013-11-21-euromaidan"
+      ]
+     },
+     "2004-05-29-khobar-massacre": {
+      "id": "2004-05-29-khobar-massacre",
+      "date": "2004-05-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-06-30",
+      "region": "Middle East",
+      "title": "Al-Qaeda gunmen kill 22 in Khobar, Saudi Arabia",
+      "summary": "It was part of al-Qaeda's campaign in the kingdom that led to the founding of AQAP.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_Khobar_massacre"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "al-qaeda"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-06-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "strike",
+      "where": [
+       "khobar"
+      ],
+      "related_stories": []
+     },
+     "2005-05-31-khodorkovsky-sentenced": {
+      "id": "2005-05-31-khodorkovsky-sentenced",
+      "date": "2005-05-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Yukos founder Mikhail Khodorkovsky is sentenced to nine years",
+      "summary": "Yukos's main assets passed to state-owned Rosneft.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+       }
+      ],
+      "entities": [
+       "russia",
+       "mikhail-khodorkovsky",
+       "rosneft"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2005-12-18-morales-elected": {
+      "id": "2005-12-18-morales-elected",
+      "date": "2005-12-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-12-31",
+      "region": "Americas",
+      "title": "Evo Morales wins Bolivia's presidency",
+      "summary": "He was Bolivia's first indigenous president.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Bolivian_general_election"
+       }
+      ],
+      "entities": [
+       "bolivia",
+       "evo-morales"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "la-paz"
+      ],
+      "related_stories": [
+       "2006-05-01-bolivia-gas-nationalised"
+      ]
+     },
+     "2005-06-24-ahmadinejad-elected": {
+      "id": "2005-06-24-ahmadinejad-elected",
+      "date": "2005-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Middle East",
+      "title": "Mahmoud Ahmadinejad wins Iran's presidency",
+      "summary": "Tehran resumed uranium conversion in August, ending a freeze agreed with Europe.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mahmoud-ahmadinejad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": [
+       "2006-04-11-iran-enrichment-announced"
+      ]
+     },
+     "2005-11-05-mar-del-plata-summit": {
+      "id": "2005-11-05-mar-del-plata-summit",
+      "date": "2005-11-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-12-31",
+      "region": "Americas",
+      "title": "The US-backed Free Trade Area of the Americas dies at Mar del Plata",
+      "summary": "Chávez and Kirchner led the opposition at the Summit of the Americas.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/4th_Summit_of_the_Americas"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "argentina",
+       "hugo-chavez"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "diplomacy",
+      "where": [
+       "mar-del-plata"
+      ],
+      "related_stories": []
+     },
+     "2006-12-30-saddam-executed": {
+      "id": "2006-12-30-saddam-executed",
+      "date": "2006-12-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Middle East",
+      "title": "Saddam Hussein is hanged in Baghdad",
+      "summary": "Shia guards taunted him, and the sectarian spectacle angered Sunnis.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Execution_of_Saddam_Hussein"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "saddam-hussein"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": []
+     },
+     "2008-11-26-mumbai-attacks": {
+      "id": "2008-11-26-mumbai-attacks",
+      "date": "2008-11-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-12-31",
+      "region": "Asia-Pacific",
+      "title": "Lashkar-e-Taiba gunmen attack Mumbai, killing 166",
+      "summary": "Ten attackers from Pakistan hit hotels and a railway station over four days.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+       }
+      ],
+      "entities": [
+       "india",
+       "pakistan",
+       "lashkar-e-taiba"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-12-31",
+      "storylines": [
+       "kashmir-india-pakistan",
+       "south-asia-security"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "strike",
+      "where": [
+       "mumbai"
+      ],
+      "related_stories": [
+       "2016-09-18-uri-attack"
+      ]
+     },
+     "2007-01-10-iraq-surge-announced": {
+      "id": "2007-01-10-iraq-surge-announced",
+      "date": "2007-01-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-03-31",
+      "region": "Middle East",
+      "title": "Bush announces a 'surge' of over 20,000 more troops to Iraq",
+      "summary": "With the Sunni Awakening, the surge cut violence sharply by 2008.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Iraq_War_troop_surge_of_2007"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq",
+       "george-w-bush"
+      ],
+      "causes": [
+       {
+        "story": "2006-12-06-iraq-study-group",
+        "why": "Bush rejected the ISG",
+        "confidence": "likely"
+       },
+       {
+        "story": "2006-02-22-samarra-mosque-bombing",
+        "why": "Sectarian war",
+        "confidence": "likely"
+       },
+       {
+        "story": "2006-11-07-us-midterms-democrats",
+        "why": "Political pressure",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2007-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "military",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2006-12-06-iraq-study-group",
+       "2006-02-22-samarra-mosque-bombing",
+       "2006-11-07-us-midterms-democrats",
+       "2008-03-25-battle-of-basra"
+      ],
+      "revisions": [
+       {
+        "edition": "2006-12-31",
+        "why": "2006 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-06-10-fall-of-mosul": {
+      "id": "2014-06-10-fall-of-mosul",
+      "date": "2014-06-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-06-30",
+      "region": "Middle East",
+      "title": "Islamic State seizes Mosul as the Iraqi army collapses",
+      "summary": "The jihadists swept toward Baghdad and massacred up to 1,500 Shia cadets at Camp Speicher near Tikrit; Ayatollah Sistani's call to arms gave rise to the mostly Iran-backed PMF.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fall_of_Mosul"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Camp_Speicher_massacre"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2014/jun/10/iraq-sunni-insurgents-islamic-militants-seize-control-mosul"
+       }
+      ],
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "abu-bakr-al-baghdadi"
+      ],
+      "causes": [
+       {
+        "story": "2013-04-08-isil-founded",
+        "why": "ISIL's growth in Syria",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2014-06-30",
+      "analysis": {
+       "text": "Mosul's fall created the Iran-backed militias, such as Kata'ib Hezbollah, that later attacked US forces.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "isis-war",
+       "iran-proxy-network"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "military",
+      "where": [
+       "mosul"
+      ],
+      "related_stories": [
+       "2013-04-08-isil-founded",
+       "2016-10-17-mosul-offensive",
+       "2015-05-17-ramadi-falls",
+       "2014-06-29-caliphate-declared"
+      ],
+      "revisions": [
+       {
+        "edition": "2013-12-31",
+        "why": "2013 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2003-05-16-de-baathification": {
+      "id": "2003-05-16-de-baathification",
+      "date": "2003-05-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-06-30",
+      "region": "Middle East",
+      "title": "US authority in Iraq orders de-Baathification and then disbands the army",
+      "summary": "The orders put many Sunnis out of work, and some of the ex-officers later joined the Islamic State.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/De-Ba%27athification"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coalition_Provisional_Authority"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-06-30",
+      "storylines": [
+       "iraq-war",
+       "isis-war"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": []
+     },
+     "2003-03-20-iraq-invasion": {
+      "id": "2003-03-20-iraq-invasion",
+      "date": "2003-03-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-03-31",
+      "region": "Middle East",
+      "title": "US-led forces invade Iraq",
+      "summary": "Baghdad fell on April 9. No weapons of mass destruction were found.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq",
+       "united-kingdom",
+       "saddam-hussein",
+       "george-w-bush"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "military",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2007-01-10-iraq-surge-announced"
+      ]
+     },
+     "2003-08-19-un-baghdad-bombing": {
+      "id": "2003-08-19-un-baghdad-bombing",
+      "date": "2003-08-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-09-30",
+      "region": "Middle East",
+      "title": "Truck bomb kills UN envoy Sérgio Vieira de Mello in Baghdad",
+      "summary": "The UN pulled most of its staff out of Iraq.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Canal_Hotel_bombing"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "abu-musab-al-zarqawi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-09-30",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "strike",
+      "where": [
+       "canal-hotel"
+      ],
+      "related_stories": []
+     },
+     "2003-02-26-darfur-rebellion": {
+      "id": "2003-02-26-darfur-rebellion",
+      "date": "2003-02-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-03-31",
+      "region": "Africa",
+      "title": "Rebels attack government forces in Darfur, starting the war there",
+      "summary": "Khartoum armed Janjaweed militias whose leaders later formed the RSF.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_in_Darfur"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "rsf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-03-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "military",
+      "unplaced": "Darfur, western Sudan.",
+      "related_stories": []
+     },
+     "2003-05-12-riyadh-compound-bombings": {
+      "id": "2003-05-12-riyadh-compound-bombings",
+      "date": "2003-05-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-06-30",
+      "region": "Middle East",
+      "title": "Al-Qaeda suicide bombers attack housing compounds in Riyadh",
+      "summary": "It began al-Qaeda's campaign inside Saudi Arabia.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Riyadh_compound_bombings"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "al-qaeda"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-06-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "strike",
+      "where": [
+       "riyadh"
+      ],
+      "related_stories": []
+     },
+     "2003-05-25-kirchner-takes-office": {
+      "id": "2003-05-25-kirchner-takes-office",
+      "date": "2003-05-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-06-30",
+      "region": "Americas",
+      "title": "Néstor Kirchner takes office in Argentina after its default",
+      "summary": "He restructured the debt and broke with the IMF.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner"
+       }
+      ],
+      "entities": [
+       "argentina",
+       "nestor-kirchner",
+       "imf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-06-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "buenos-aires"
+      ],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies",
+       "2015-11-22-macri-elected",
+       "2014-03-17-car-wash-begins",
+       "2014-09-26-iguala-kidnapping",
+       "2014-10-26-rousseff-reelected",
+       "2014-12-17-cuba-thaw-announced",
+       "2013-03-05-chavez-dies",
+       "2013-06-20-brazil-protests",
+       "2012-06-22-lugo-impeached",
+       "2012-07-01-pena-nieto-elected",
+       "2012-09-04-farc-talks-open",
+       "2011-01-01-rousseff-takes-office",
+       "2010-01-12-haiti-earthquake",
+       "2010-06-20-santos-elected",
+       "2010-08-24-san-fernando-massacre",
+       "2010-10-31-dilma-elected",
+       "2009-06-28-honduras-coup",
+       "2009-12-06-bolivia-morales-reelected",
+       "2008-02-19-fidel-castro-steps-down",
+       "2008-03-01-andean-crisis",
+       "2008-06-30-merida-initiative",
+       "2007-01-10-ortega-returns",
+       "2007-01-15-correa-takes-office",
+       "2006-05-01-bolivia-gas-nationalised",
+       "2006-07-02-mexico-calderon-wins",
+       "2006-10-29-lula-reelected",
+       "2006-12-11-mexico-drug-war",
+       "2005-11-05-mar-del-plata-summit",
+       "2005-12-18-morales-elected",
+       "2004-02-29-aristide-ousted",
+       "2004-10-31-uruguay-left-wins",
+       "2003-01-01-lula-takes-office",
+       "2003-05-25-kirchner-takes-office"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2026-04-07-hormuz-resolution-veto",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-07-19-stena-impero-seized",
+       "2019-09-14-abqaiq-attack",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-05-19-rouhani-reelected",
+       "2017-12-28-iran-dey-protests",
+       "2016-01-16-jcpoa-implementation",
+       "2015-07-14-jcpoa-agreed",
+       "2013-06-14-rouhani-elected",
+       "2013-11-24-iran-interim-deal",
+       "2011-11-08-iaea-iran-report",
+       "2011-11-29-uk-embassy-tehran",
+       "2011-12-05-iran-captures-rq170",
+       "2010-06-09-unsc-1929",
+       "2010-06-17-stuxnet",
+       "2009-06-12-iran-green-movement",
+       "2009-09-25-fordow-revealed",
+       "2007-03-24-unsc-1747",
+       "2007-12-03-iran-nie",
+       "2006-04-11-iran-enrichment-announced",
+       "2006-12-23-unsc-1737",
+       "2005-06-24-ahmadinejad-elected",
+       "2004-02-04-aq-khan-confession"
+      ],
+      "source": "threads.md"
+     },
+     "war-on-terror": {
+      "id": "war-on-terror",
+      "name": "9/11 and the war on terror",
+      "entities": [
+       "al-qaeda",
+       "united-states",
+       "taliban",
+       "osama-bin-laden"
+      ],
+      "stories": [
+       "2009-11-05-fort-hood-shooting",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-25-underwear-bomber",
+       "2009-12-30-camp-chapman-attack",
+       "2011-05-02-bin-laden-killed",
+       "2006-08-10-transatlantic-plot",
+       "2006-09-02-operation-medusa",
+       "2005-07-07-london-bombings",
+       "2005-11-09-amman-bombings",
+       "2004-03-11-madrid-bombings",
+       "2004-04-28-abu-ghraib",
+       "2004-05-29-khobar-massacre",
+       "2004-07-22-911-commission-report",
+       "2003-05-12-riyadh-compound-bombings",
+       "2003-05-16-casablanca-bombings"
+      ],
+      "source": "inbox"
+     },
+     "south-caucasus": {
+      "id": "south-caucasus",
+      "name": "South Caucasus: Karabakh wars & settlement",
+      "entities": [
+       "armenia",
+       "azerbaijan",
+       "russia",
+       "turkey"
+      ],
+      "stories": [
+       "2020-09-27-karabakh-war",
+       "2020-11-10-karabakh-ceasefire",
+       "2022-09-13-armenia-azerbaijan",
+       "2023-09-19-karabakh-falls",
+       "2025-08-08-armenia-azerbaijan-deal",
+       "2018-04-23-armenia-velvet-revolution",
+       "2008-08-08-russia-georgia-war",
+       "2004-01-04-saakashvili-elected"
+      ],
+      "source": "inbox"
+     },
+     "iraq-war": {
+      "id": "iraq-war",
+      "name": "Iraq war and occupation 2003–11",
+      "entities": [
+       "iraq",
+       "united-states",
+       "nouri-al-maliki"
+      ],
+      "stories": [
+       "2009-02-27-obama-iraq-drawdown",
+       "2010-09-01-operation-new-dawn",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-03-25-battle-of-basra",
+       "2008-11-27-iraq-sofa",
+       "2007-01-10-iraq-surge-announced",
+       "2007-08-14-yazidi-bombings",
+       "2007-09-16-nisour-square",
+       "2006-02-22-samarra-mosque-bombing",
+       "2006-05-20-maliki-becomes-pm",
+       "2006-06-07-zarqawi-killed",
+       "2006-11-07-us-midterms-democrats",
+       "2006-12-06-iraq-study-group",
+       "2006-12-30-saddam-executed",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2005-01-30-iraq-first-election",
+       "2005-10-15-iraq-constitution",
+       "2005-11-09-amman-bombings",
+       "2005-12-15-iraq-december-election",
+       "2004-03-14-zapatero-wins",
+       "2004-01-japan-troops-iraq",
+       "2004-04-04-first-battle-of-fallujah",
+       "2004-04-04-sadr-uprising",
+       "2004-04-28-abu-ghraib",
+       "2004-06-28-iraq-sovereignty-handover",
+       "2004-11-07-second-battle-of-fallujah",
+       "2004-10-17-zarqawi-pledges-to-al-qaeda",
+       "2003-02-05-powell-un-presentation",
+       "2003-02-15-global-antiwar-protests",
+       "2003-03-20-iraq-invasion",
+       "2003-05-01-mission-accomplished",
+       "2003-05-16-de-baathification",
+       "2003-04-09-baghdad-falls",
+       "2003-08-19-un-baghdad-bombing",
+       "2003-08-29-najaf-bombing"
+      ],
+      "source": "inbox"
+     },
+     "kashmir-india-pakistan": {
+      "id": "kashmir-india-pakistan",
+      "name": "Kashmir & the India–Pakistan crises",
+      "entities": [
+       "india",
+       "pakistan",
+       "jaish-e-mohammed",
+       "narendra-modi"
+      ],
+      "stories": [
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked",
+       "2016-07-08-burhan-wani-kashmir-unrest",
+       "2016-09-18-uri-attack",
+       "2008-11-26-mumbai-attacks",
+       "2005-10-08-kashmir-earthquake"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
