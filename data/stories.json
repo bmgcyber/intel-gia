@@ -47626,5 +47626,309 @@
    "2021-08-26-kabul-airport-bombing",
    "2019-09-07-camp-david-cancelled"
   ]
+ },
+ {
+  "id": "2013-01-11-operation-serval",
+  "date": "2013-01-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Africa",
+  "title": "France intervenes in Mali to halt a jihadist advance",
+  "summary": "Islamists who had seized the north in 2012 pushed toward Konna; French troops retook the northern cities within weeks.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Serval"
+   }
+  ],
+  "entities": [
+   "france",
+   "mali"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "where": [
+   "konna"
+  ],
+  "related_stories": [
+   "2013-01-16-in-amenas"
+  ]
+ },
+ {
+  "id": "2013-01-16-in-amenas",
+  "date": "2013-01-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Africa",
+  "title": "Jihadists linked to Belmokhtar seize Algeria's In Amenas gas plant",
+  "summary": "Algerian special forces stormed the facility after four days; dozens of foreign hostages died.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/In_Amenas_hostage_crisis"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/jan/16/british-nationals-workers-kidnapped-algeria"
+   }
+  ],
+  "entities": [
+   "algeria",
+   "aqim"
+  ],
+  "causes": [
+   {
+    "story": "2013-01-11-operation-serval",
+    "why": "Attackers cited the French intervention in Mali",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "strike",
+  "where": [
+   "in-amenas"
+  ],
+  "related_stories": [
+   "2013-01-11-operation-serval"
+  ]
+ },
+ {
+  "id": "2013-01-22-philippines-files-arbitration",
+  "date": "2013-01-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Asia-Pacific",
+  "title": "Philippines takes China to arbitration over the South China Sea",
+  "summary": "Manila filed under UNCLOS after China took control of Scarborough Shoal in 2012; China refused to take part.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/South_China_Sea_Arbitration"
+   }
+  ],
+  "entities": [
+   "philippines",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "southeast-asia",
+   "taiwan-indopacific"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "diplomacy",
+  "where": [
+   "manila"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-02-12-nk-third-nuclear-test",
+  "date": "2013-02-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Asia-Pacific",
+  "title": "North Korea conducts its third nuclear test, the first under Kim Jong Un",
+  "summary": "The UN tightened sanctions; Pyongyang's crisis rhetoric followed in the spring.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_North_Korean_nuclear_test"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "where": [
+   "punggye-ri"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-03-05-chavez-dies",
+  "date": "2013-03-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Americas",
+  "title": "Hugo Chávez dies; Nicolás Maduro narrowly wins the April succession vote",
+  "summary": "Maduro beat Henrique Capriles on Apr 14 by a slim margin the opposition disputed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_Venezuelan_presidential_election"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2013/03/05/world/americas/obit-venezuela-chavez/index.html"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "hugo-chavez",
+   "nicolas-maduro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "caracas"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-03-14-xi-becomes-president",
+  "date": "2013-03-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Asia-Pacific",
+  "title": "Xi Jinping becomes China's president, completing his takeover",
+  "summary": "Party chief since November 2012, Xi launched a broad anti-corruption purge and centralised power.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "us-tariffs-trade",
+   "taiwan-indopacific"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-03-24-seleka-takes-bangui",
+  "date": "2013-03-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Africa",
+  "title": "Séléka rebels seize Bangui and oust Central African Republic's Bozizé",
+  "summary": "The capture began sectarian conflict that later drew in UN peacekeepers and Russian Wagner forces.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Bangui_%282013%29"
+   }
+  ],
+  "entities": [
+   "central-african-republic"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "where": [
+   "bangui"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-03-25-cyprus-bailout",
+  "date": "2013-03-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Europe",
+  "title": "Cyprus accepts a €10bn bailout that hits large bank deposits",
+  "summary": "Eurozone ministers forced losses on uninsured depositors and imposed capital controls.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis"
+   }
+  ],
+  "entities": [
+   "cyprus",
+   "european-union",
+   "ecb"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "storylines": [
+   "eurozone-crisis"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "nicosia"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-03-04-kenyatta-elected",
+  "date": "2013-03-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-03-31",
+  "region": "Africa",
+  "title": "Uhuru Kenyatta defeats Raila Odinga in Kenya's presidential vote",
+  "summary": "Kenyatta won despite facing ICC charges over the 2007–08 post-election violence.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_Kenyan_general_election"
+   }
+  ],
+  "entities": [
+   "kenya",
+   "uhuru-kenyatta"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-03-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "nairobi"
+  ],
+  "related_stories": []
  }
 ]
