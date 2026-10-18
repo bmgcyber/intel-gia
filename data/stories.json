@@ -24239,6 +24239,11 @@
     "story": "2022-11-01-netanyahu-returns",
     "why": "Far-right government",
     "confidence": "speculative"
+   },
+   {
+    "story": "2006-06-25-shalit-captured",
+    "why": "Sinwar freed in the Shalit deal",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -24258,6 +24263,7 @@
    "2023-03-26-israel-judicial-protests",
    "2020-08-13-abraham-accords",
    "2022-11-01-netanyahu-returns",
+   "2006-06-25-shalit-captured",
    "2025-09-09-israel-strikes-doha",
    "2024-01-28-tower-22",
    "2024-04-13-iran-strikes-israel",
@@ -24280,6 +24286,13 @@
    {
     "edition": "2026-06-29",
     "why": "Archive audit wave 2: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -40381,7 +40394,13 @@
    "russia",
    "united-kingdom"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-11-01-litvinenko-poisoned",
+    "why": "Earlier poisoning in Britain",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-03-31",
   "storylines": [
@@ -40393,7 +40412,17 @@
    "salisbury"
   ],
   "related_stories": [
+   "2006-11-01-litvinenko-poisoned",
    "2020-08-20-navalny-poisoned"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -50056,7 +50085,13 @@
    "hamas",
    "benjamin-netanyahu"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2007-06-14-hamas-takes-gaza",
+    "why": "Hamas rule in Gaza",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-09-30",
   "storylines": [
@@ -50068,10 +50103,20 @@
    "gaza-city"
   ],
   "related_stories": [
+   "2007-06-14-hamas-takes-gaza",
    "2025-03-18-gaza-war-resumes",
    "2024-11-21-icc-netanyahu-warrant",
    "gaza-drone-strikes-oct17",
    "2021-05-10-gaza-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -50266,7 +50311,8 @@
   "effects": [],
   "batch": "inbox-2014-09-30",
   "storylines": [
-   "isis-war"
+   "isis-war",
+   "iraq-war"
   ],
   "era": "2014 (Crimea and the caliphate)",
   "marker": "strike",
@@ -50275,15 +50321,30 @@
   ],
   "related_stories": [
    "2014-08-03-sinjar-genocide",
+   "2015-01-26-kobani-retaken",
    "2019-03-23-baghuz-caliphate-ends",
    "2019-12-29-us-strikes-kataib-hezbollah",
    "2017-07-10-mosul-liberated",
    "2017-10-17-raqqa-falls",
    "2016-10-17-mosul-offensive",
-   "2015-01-26-kobani-retaken",
    "2015-05-17-ramadi-falls",
    "2015-12-28-ramadi-retaken",
-   "2014-06-29-caliphate-declared"
+   "2014-06-29-caliphate-declared",
+   "2013-04-08-isil-founded",
+   "2013-08-21-ghouta-sarin",
+   "2012-08-20-obama-red-line",
+   "2011-12-18-us-leaves-iraq",
+   "2010-09-01-operation-new-dawn",
+   "2009-02-27-obama-iraq-drawdown"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "Thread into storyline",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -56568,6 +56629,11 @@
     "story": "2009-01-07-russia-ukraine-gas-cutoff",
     "why": "Gas crisis weakened Tymoshenko's government",
     "confidence": "possible"
+   },
+   {
+    "story": "2006-03-26-ukraine-election-yanukovych",
+    "why": "Comeback",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -56582,12 +56648,20 @@
   ],
   "related_stories": [
    "2009-01-07-russia-ukraine-gas-cutoff",
+   "2006-03-26-ukraine-election-yanukovych",
    "2013-11-21-euromaidan"
   ],
   "revisions": [
    {
     "edition": "2009-12-31",
     "why": "2009 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -58217,7 +58291,13 @@
    "gazprom",
    "european-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-01-01-russia-ukraine-gas-cut",
+    "why": "Earlier cutoff",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-03-31",
   "storylines": [
@@ -58229,6 +58309,8 @@
    "kyiv"
   ],
   "related_stories": [
+   "2006-01-01-russia-ukraine-gas-cut",
+   "2010-02-07-yanukovych-elected",
    "energy-ceasefire",
    "2021-10-europe-gas-crunch",
    "2022-04-27-gas-cutoff-poland",
@@ -58238,8 +58320,16 @@
    "2014-02-22-yanukovych-ousted",
    "2014-03-18-crimea-annexed",
    "2014-07-17-mh17-shot-down",
-   "2013-11-21-euromaidan",
-   "2010-02-07-yanukovych-elected"
+   "2013-11-21-euromaidan"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -58997,7 +59087,13 @@
    "ltte",
    "mahinda-rajapaksa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-06-sri-lanka-eelam-war-iv",
+    "why": "Final war",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-06-30",
   "storylines": [
@@ -59008,7 +59104,18 @@
   "where": [
    "mullaitivu"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-06-sri-lanka-eelam-war-iv"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2009-05-25-nk-second-nuclear-test",
@@ -60549,7 +60656,13 @@
   "entities": [
    "nepal"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-04-24-nepal-king-yields",
+    "why": "Peace process",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
@@ -60557,7 +60670,18 @@
   "where": [
    "kathmandu"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-04-24-nepal-king-yields"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-04-food-price-crisis",
@@ -60669,7 +60793,13 @@
    "hezbollah",
    "qatar"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-07-12-lebanon-war",
+    "why": "Hezbollah's rising power",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "storylines": [
@@ -60681,7 +60811,18 @@
   "where": [
    "beirut"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-07-12-lebanon-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-06-12-ireland-rejects-lisbon",
@@ -60804,7 +60945,13 @@
    "united-states",
    "mexico"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-11-mexico-drug-war",
+    "why": "Support for the crackdown",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "storylines": [
@@ -60815,7 +60962,18 @@
   "where": [
    "mexico-city"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-12-11-mexico-drug-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-07-11-oil-peaks-147",
@@ -61243,7 +61401,13 @@
    "united-states",
    "india"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-03-02-bush-singh-nuclear-deal",
+    "why": "Framework deal",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-12-31",
   "storylines": [
@@ -61254,7 +61418,18 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-03-02-bush-singh-nuclear-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2008-11-04-obama-elected",
@@ -61516,7 +61691,13 @@
   "entities": [
    "thailand"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-09-19-thai-coup",
+    "why": "Thaksin conflict",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-12-31",
   "storylines": [
@@ -61528,7 +61709,17 @@
    "bangkok"
   ],
   "related_stories": [
+   "2006-09-19-thai-coup",
    "2009-04-11-thai-red-shirts-pattaya"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61701,7 +61892,23 @@
    "iraq",
    "george-w-bush"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-06-iraq-study-group",
+    "why": "Bush rejected the ISG",
+    "confidence": "likely"
+   },
+   {
+    "story": "2006-02-22-samarra-mosque-bombing",
+    "why": "Sectarian war",
+    "confidence": "likely"
+   },
+   {
+    "story": "2006-11-07-us-midterms-democrats",
+    "why": "Political pressure",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-03-31",
   "storylines": [
@@ -61713,7 +61920,19 @@
    "baghdad"
   ],
   "related_stories": [
+   "2006-12-06-iraq-study-group",
+   "2006-02-22-samarra-mosque-bombing",
+   "2006-11-07-us-midterms-democrats",
    "2008-03-25-battle-of-basra"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61821,7 +62040,13 @@
    "japan",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-10-09-nk-first-nuclear-test",
+    "why": "Talks resumed after the test",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-03-31",
   "storylines": [
@@ -61833,6 +62058,8 @@
    "beijing"
   ],
   "related_stories": [
+   "2006-10-09-nk-first-nuclear-test",
+   "2008-06-27-yongbyon-tower-demolished",
    "rare-earth-nov10",
    "2022-05-23-ipef",
    "2022-08-04-pla-drills",
@@ -61856,8 +62083,16 @@
    "2013-11-23-china-ecs-adiz",
    "2013-11-24-iran-interim-deal",
    "2013-12-26-abe-yasukuni",
-   "2011-03-19-libya-intervention",
-   "2008-06-27-yongbyon-tower-demolished"
+   "2011-03-19-libya-intervention"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61880,7 +62115,13 @@
    "somalia",
    "al-shabaab"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-24-ethiopia-invades-somalia",
+    "why": "Replace Ethiopian troops",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-03-31",
   "storylines": [
@@ -61891,7 +62132,18 @@
   "where": [
    "mogadishu"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-12-24-ethiopia-invades-somalia"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-03-24-unsc-1747",
@@ -61913,7 +62165,13 @@
    "united-states",
    "iaea"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-23-unsc-1737",
+    "why": "Follow-on sanctions",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-03-31",
   "storylines": [
@@ -61925,9 +62183,19 @@
    "un-hq"
   ],
   "related_stories": [
+   "2006-12-23-unsc-1737",
    "2022-09-jcpoa-stall",
    "2016-01-16-jcpoa-implementation",
    "2009-09-25-fordow-revealed"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -62081,7 +62349,13 @@
    "hugo-chavez",
    "pdvsa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-03-chavez-reelected",
+    "why": "Second term agenda",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-06-30",
   "storylines": [
@@ -62093,7 +62367,17 @@
    "caracas"
   ],
   "related_stories": [
+   "2006-12-03-chavez-reelected",
    "2012-10-07-chavez-reelected"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -62146,7 +62430,13 @@
    "israel",
    "mahmoud-abbas"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-01-25-hamas-wins-election",
+    "why": "Power struggle with Fatah",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-06-30",
   "storylines": [
@@ -62158,7 +62448,18 @@
    "gaza-city"
   ],
   "related_stories": [
+   "2006-01-25-hamas-wins-election",
+   "2014-07-08-gaza-war",
    "2008-12-27-operation-cast-lead"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -62304,7 +62605,13 @@
    "sudan",
    "african-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-05-05-darfur-peace-agreement",
+    "why": "Agreement failed",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-09-30",
   "storylines": [
@@ -62313,7 +62620,18 @@
   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
   "marker": "diplomacy",
   "unplaced": "Darfur, western Sudan.",
-  "related_stories": []
+  "related_stories": [
+   "2006-05-05-darfur-peace-agreement"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-08-02-arktika-flag",
@@ -62555,7 +62873,13 @@
    "ukraine",
    "yulia-tymoshenko"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-03-26-ukraine-election-yanukovych",
+    "why": "Crisis between rivals",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-09-30",
   "storylines": [
@@ -62566,7 +62890,18 @@
   "where": [
    "kyiv"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-03-26-ukraine-election-yanukovych"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-09-12-abe-resigns",
@@ -62752,7 +63087,13 @@
    "venezuela",
    "hugo-chavez"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2006-12-03-chavez-reelected",
+    "why": "Mandate for reform",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-12-31",
   "storylines": [
@@ -62764,7 +63105,17 @@
    "caracas"
   ],
   "related_stories": [
+   "2006-12-03-chavez-reelected",
    "2009-02-15-venezuela-term-limits"
+  ],
+  "revisions": [
+   {
+    "edition": "2006-12-31",
+    "why": "2006 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -63158,7 +63509,9 @@
   "where": [
    "samarra"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-01-10-iraq-surge-announced"
+  ]
  },
  {
   "id": "2006-03-19-belarus-election",
@@ -63222,7 +63575,10 @@
   "where": [
    "kyiv"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-09-30-ukraine-snap-election",
+   "2010-02-07-yanukovych-elected"
+  ]
  },
  {
   "id": "2006-03-02-bush-singh-nuclear-deal",
@@ -63255,7 +63611,9 @@
   "where": [
    "new-delhi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-10-10-us-india-nuclear-deal"
+  ]
  },
  {
   "id": "2006-04-24-nepal-king-yields",
@@ -63283,7 +63641,9 @@
   "where": [
    "kathmandu"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-04-10-nepal-maoists-win"
+  ]
  },
  {
   "id": "2006-05-01-bolivia-gas-nationalised",
@@ -63347,7 +63707,9 @@
   "where": [
    "abuja"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2007-07-31-unamid-darfur"
+  ]
  },
  {
   "id": "2006-05-20-maliki-becomes-pm",
@@ -63692,7 +64054,8 @@
    "2023-10-08-hezbollah-support-front",
    "2024-10-01-israel-invades-lebanon",
    "lebanon-tampa-talks-demands",
-   "2006-08-11-unsc-1701"
+   "2006-08-11-unsc-1701",
+   "2008-05-21-doha-agreement-lebanon"
   ]
  },
  {
@@ -63871,7 +64234,9 @@
   "where": [
    "bangkok"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-11-25-thai-airports-seized"
+  ]
  },
  {
   "id": "2006-06-sri-lanka-eelam-war-iv",
@@ -63901,6 +64266,466 @@
   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
   "marker": "military",
   "unplaced": "Northern and eastern Sri Lanka.",
+  "related_stories": [
+   "2009-05-18-ltte-defeated"
+  ]
+ },
+ {
+  "id": "2006-10-07-politkovskaya-murdered",
+  "date": "2006-10-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Journalist Anna Politkovskaya, critic of the Chechen war, is shot dead in Moscow",
+  "summary": "Her murder became a symbol of the dangers facing Kremlin critics.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anna_Politkovskaya"
+   }
+  ],
+  "entities": [
+   "russia",
+   "anna-politkovskaya"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2006-10-09-nk-first-nuclear-test",
+  "date": "2006-10-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Asia-Pacific",
+  "title": "North Korea conducts its first nuclear test",
+  "summary": "The UN imposed sanctions in Resolution 1718.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-il"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "military",
+  "where": [
+   "punggye-ri"
+  ],
+  "related_stories": [
+   "2007-02-13-six-party-deal"
+  ]
+ },
+ {
+  "id": "2006-10-29-lula-reelected",
+  "date": "2006-10-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Americas",
+  "title": "Lula wins re-election in Brazil",
+  "summary": "His second term was a commodity-fuelled boom.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_Brazilian_general_election"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "lula"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "brasilia"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2006-10-29-drc-election",
+  "date": "2006-10-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Africa",
+  "title": "Joseph Kabila wins Congo's first free election in four decades",
+  "summary": "The runoff capped the peace process after the Second Congo War.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_Democratic_Republic_of_the_Congo_general_election"
+   }
+  ],
+  "entities": [
+   "drc",
+   "joseph-kabila"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "drc-m23-minerals"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "kinshasa"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2006-11-01-litvinenko-poisoned",
+  "date": "2006-11-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Europe",
+  "title": "Former FSB officer Alexander Litvinenko is poisoned with polonium in London",
+  "summary": "A UK inquiry later concluded that Putin probably approved the killing.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko"
+   }
+  ],
+  "entities": [
+   "russia",
+   "united-kingdom",
+   "alexander-litvinenko",
+   "vladimir-putin"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "strike",
+  "where": [
+   "london"
+  ],
+  "related_stories": [
+   "2018-03-04-skripal-poisoning"
+  ]
+ },
+ {
+  "id": "2006-11-04-focac-beijing-summit",
+  "date": "2006-11-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Africa",
+  "title": "China hosts African leaders at a summit and pledges loans and aid",
+  "summary": "The Beijing summit marked China's rise as Africa's main partner.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Forum_on_China%E2%80%93Africa_Cooperation"
+   }
+  ],
+  "entities": [
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "china-minerals-leverage"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "diplomacy",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2006-11-07-us-midterms-democrats",
+  "date": "2006-11-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Americas",
+  "title": "Democrats win Congress on anger over Iraq; Rumsfeld resigns",
+  "summary": "The defeat preceded Bush's turn to the surge.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_United_States_elections"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "george-w-bush"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "us-domestic-politics",
+   "iraq-war"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2007-01-10-iraq-surge-announced"
+  ]
+ },
+ {
+  "id": "2006-12-03-chavez-reelected",
+  "date": "2006-12-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Americas",
+  "title": "Chávez wins re-election by a wide margin",
+  "summary": "He promised to deepen 'socialism of the 21st century'.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_Venezuelan_presidential_election"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "hugo-chavez"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "venezuela-oil"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "caracas"
+  ],
+  "related_stories": [
+   "2007-05-01-chavez-orinoco-nationalised",
+   "2007-12-02-venezuela-rejects-reform"
+  ]
+ },
+ {
+  "id": "2006-12-05-fiji-coup",
+  "date": "2006-12-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Asia-Pacific",
+  "title": "Fiji's military commander Frank Bainimarama seizes power",
+  "summary": "It was Fiji's fourth coup in two decades.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat"
+   }
+  ],
+  "entities": [
+   "fiji"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "military",
+  "where": [
+   "suva"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2006-12-06-iraq-study-group",
+  "date": "2006-12-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Americas",
+  "title": "Iraq Study Group calls the situation 'grave and deteriorating'",
+  "summary": "Bush rejected its call to draw down and chose a surge.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Iraq_Study_Group"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2007-01-10-iraq-surge-announced"
+  ]
+ },
+ {
+  "id": "2006-12-11-mexico-drug-war",
+  "date": "2006-12-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Americas",
+  "title": "Calderón sends troops into Michoacán, launching Mexico's drug war",
+  "summary": "The militarised crackdown splintered the cartels.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mexican_drug_war"
+   }
+  ],
+  "entities": [
+   "mexico",
+   "felipe-calderon"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "military",
+  "unplaced": "Michoacán state, Mexico.",
+  "related_stories": [
+   "2008-06-30-merida-initiative"
+  ]
+ },
+ {
+  "id": "2006-12-23-unsc-1737",
+  "date": "2006-12-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Middle East",
+  "title": "UN imposes its first sanctions on Iran's nuclear programme",
+  "summary": "Resolution 1737 followed Iran's refusal to halt enrichment.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1737"
+   }
+  ],
+  "entities": [
+   "iran",
+   "iaea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "diplomacy",
+  "where": [
+   "un-hq"
+  ],
+  "related_stories": [
+   "2007-03-24-unsc-1747"
+  ]
+ },
+ {
+  "id": "2006-12-24-ethiopia-invades-somalia",
+  "date": "2006-12-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Africa",
+  "title": "Ethiopia invades Somalia and ousts the Islamic Courts",
+  "summary": "The US-backed intervention fuelled al-Shabaab's insurgency.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/War_in_Somalia_%282006%E2%80%932009%29"
+   }
+  ],
+  "entities": [
+   "ethiopia",
+   "somalia",
+   "islamic-courts-union",
+   "al-shabaab"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "military",
+  "where": [
+   "mogadishu"
+  ],
+  "related_stories": [
+   "2007-02-20-amisom-authorised",
+   "2006-06-05-icu-takes-mogadishu"
+  ]
+ },
+ {
+  "id": "2006-12-30-saddam-executed",
+  "date": "2006-12-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2006-12-31",
+  "region": "Middle East",
+  "title": "Saddam Hussein is hanged in Baghdad",
+  "summary": "Shia guards taunted him, and the sectarian spectacle angered Sunnis.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Execution_of_Saddam_Hussein"
+   }
+  ],
+  "entities": [
+   "iraq",
+   "saddam-hussein"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2006-12-31",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+  "marker": "political",
+  "where": [
+   "baghdad"
+  ],
   "related_stories": []
  }
 ]
