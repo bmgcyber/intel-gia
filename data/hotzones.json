@@ -317,7 +317,9 @@
    "stories": [
     "ethiopia-tigray-advance",
     "tigray-federal-takeover-rubio"
-   ]
+   ],
+   "label_dx": 8,
+   "label_dy": 24
   },
   {
    "id": "sudan-kordofan",
@@ -336,7 +338,9 @@
    "stories": [
     "sudan-nyala-strikes",
     "2026-10-09-el-obeid-drones"
-   ]
+   ],
+   "label_dx": -150,
+   "label_dy": 18
   },
   {
    "id": "lebanon",
@@ -354,11 +358,13 @@
    "stories": [
     "lebanon-tampa-talks-demands",
     "2026-10-14-lebanon-yellow-line"
-   ]
+   ],
+   "label_dx": -178,
+   "label_dy": -8
   },
   {
    "id": "pakistan-afghanistan",
-   "name": "Pakistan–Afghanistan border",
+   "name": "Pakistan–Afghanistan",
    "lat": 33.9,
    "lon": 70.3,
    "severity": "elevated",
@@ -373,7 +379,9 @@
    "stories": [
     "kurram-border-clash",
     "2026-10-05-taliban-diplomacy"
-   ]
+   ],
+   "label_dx": -20,
+   "label_dy": -16
   },
   {
    "id": "cuba",
@@ -391,7 +399,9 @@
    "stories": [
     "cuba-75pct-blackout-santa-cruz",
     "2026-10-12-cuba-blockade-bites"
-   ]
+   ],
+   "label_dx": 10,
+   "label_dy": -10
   }
  ],
  "links": [
