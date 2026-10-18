@@ -1,0 +1,499 @@
+{
+ "edition": "2010-03-31",
+ "entities": [
+  {
+   "id": "ireland",
+   "name": "Ireland",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+  },
+  {
+   "id": "bp",
+   "name": "BP",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/BP"
+  },
+  {
+   "id": "wikileaks",
+   "name": "WikiLeaks",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/WikiLeaks"
+  },
+  {
+   "id": "julian-assange",
+   "name": "Julian Assange",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julian_Assange"
+  },
+  {
+   "id": "liu-xiaobo",
+   "name": "Liu Xiaobo",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Liu_Xiaobo"
+  },
+  {
+   "id": "nouri-al-maliki",
+   "name": "Nouri al-Maliki",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nouri_al-Maliki"
+  },
+  {
+   "id": "dmitry-medvedev",
+   "name": "Dmitry Medvedev",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Medvedev"
+  },
+  {
+   "id": "lee-myung-bak",
+   "name": "Lee Myung-bak",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lee_Myung-bak"
+  },
+  {
+   "id": "yulia-tymoshenko",
+   "name": "Yulia Tymoshenko",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yulia_Tymoshenko"
+  },
+  {
+   "id": "kurmanbek-bakiyev",
+   "name": "Kurmanbek Bakiyev",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurmanbek_Bakiyev"
+  },
+  {
+   "id": "lech-kaczynski",
+   "name": "Lech Kaczyński",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lech_Kaczy%C5%84ski"
+  },
+  {
+   "id": "efsf",
+   "name": "European Financial Stability Facility",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/European_Financial_Stability_Facility"
+  },
+  {
+   "id": "goodluck-jonathan",
+   "name": "Goodluck Jonathan",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Goodluck_Jonathan"
+  },
+  {
+   "id": "stanley-mcchrystal",
+   "name": "Stanley McChrystal",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stanley_McChrystal"
+  },
+  {
+   "id": "baengnyeongdo",
+   "name": "Baengnyeongdo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Baengnyeongdo",
+   "lat": 37.96666667,
+   "lon": 124.65,
+   "precision": "feature"
+  },
+  {
+   "id": "yeonpyeongdo",
+   "name": "Yeonpyeongdo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yeonpyeongdo",
+   "lat": 37.66666667,
+   "lon": 125.69638889,
+   "precision": "feature"
+  },
+  {
+   "id": "osh",
+   "name": "Osh",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Osh",
+   "lat": 40.53,
+   "lon": 72.8,
+   "precision": "city"
+  },
+  {
+   "id": "prague",
+   "name": "Prague",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Prague",
+   "lat": 50.0875,
+   "lon": 14.42138889,
+   "precision": "city"
+  },
+  {
+   "id": "smolensk",
+   "name": "Smolensk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Smolensk",
+   "lat": 54.78277778,
+   "lon": 32.04527778,
+   "precision": "city"
+  },
+  {
+   "id": "sidi-bouzid",
+   "name": "Sidi Bouzid",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sidi_Bouzid",
+   "lat": 35.03805556,
+   "lon": 9.48583333,
+   "precision": "city"
+  },
+  {
+   "id": "marjah",
+   "name": "Marjah",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marjah",
+   "lat": 31.51666667,
+   "lon": 64.11666667,
+   "precision": "city"
+  },
+  {
+   "id": "dublin",
+   "name": "Dublin",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dublin",
+   "lat": 53.35,
+   "lon": -6.26027778,
+   "precision": "city"
+  },
+  {
+   "id": "oslo",
+   "name": "Oslo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oslo",
+   "lat": 59.91333333,
+   "lon": 10.73888889,
+   "precision": "city"
+  },
+  {
+   "id": "deepwater-horizon",
+   "name": "Deepwater Horizon spill site",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
+   "lat": 28.73805556,
+   "lon": -88.36611111,
+   "precision": "feature"
+  },
+  {
+   "id": "copiapo",
+   "name": "Copiapó",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Copiap%C3%B3",
+   "lat": -27.36638889,
+   "lon": -70.33305556,
+   "precision": "city"
+  },
+  {
+   "id": "san-fernando-tamaulipas",
+   "name": "San Fernando, Tamaulipas",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/San_Fernando%2C_Tamaulipas",
+   "lat": 24.84805556,
+   "lon": -98.15944444,
+   "precision": "city"
+  },
+  {
+   "id": "alexandria",
+   "name": "Alexandria",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexandria",
+   "lat": 31.1975,
+   "lon": 29.8925,
+   "precision": "city"
+  },
+  {
+   "id": "yangon",
+   "name": "Yangon",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yangon",
+   "lat": 16.795,
+   "lon": 96.16,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2010-01-12-haiti-earthquake",
+   "date": "2010-01-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Magnitude-7 earthquake devastates Haiti",
+   "summary": "Estimates of the dead range from 100,000 to more than 300,000; the state never recovered.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/jan/17/retribution-lynching-haiti-looters"
+    }
+   ],
+   "entities": [
+    "haiti"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "port-au-prince"
+   ]
+  },
+  {
+   "id": "2010-02-07-yanukovych-elected",
+   "date": "2010-02-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Russia/Eurasia",
+   "title": "Viktor Yanukovych narrowly beats Tymoshenko for Ukraine's presidency",
+   "summary": "The Moscow-leaning winner later dropped the EU deal, setting off the Maidan revolt.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "viktor-yanukovych",
+    "yulia-tymoshenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "kyiv"
+   ]
+  },
+  {
+   "id": "2010-02-13-marjah-offensive",
+   "date": "2010-02-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "Surge troops launch the Marjah offensive in Helmand",
+   "summary": "Operation Moshtarak, with 15,000 troops, was the largest joint operation of the war to that point.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Moshtarak"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "nato",
+    "afghanistan",
+    "taliban",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "marjah"
+   ]
+  },
+  {
+   "id": "2010-03-07-iraq-election",
+   "date": "2010-03-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Middle East",
+   "title": "Allawi's bloc edges Maliki in Iraq's election, but Maliki keeps power",
+   "summary": "Iraqiya won 91 seats; Maliki's second term saw Sunni grievances grow.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Iraqi_parliamentary_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/mar/16/iraqi-election-vote-rigging-claims"
+    }
+   ],
+   "entities": [
+    "iraq",
+    "nouri-al-maliki"
+   ],
+   "storylines": [
+    "isis-war",
+    "iran-proxy-network"
+   ],
+   "marker": "political",
+   "where": [
+    "baghdad"
+   ]
+  },
+  {
+   "id": "2010-03-26-cheonan-sunk",
+   "date": "2010-03-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "South Korean warship Cheonan sinks, killing 46",
+   "summary": "An international investigation concluded a North Korean torpedo fired from a midget submarine sank it.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sinking_of_ROKS_Cheonan"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/mar/26/south-korea-navy-ship-attack"
+    }
+   ],
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "lee-myung-bak"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "military",
+   "where": [
+    "baengnyeongdo"
+   ]
+  },
+  {
+   "id": "2010-02-09-jonathan-acting-president",
+   "date": "2010-02-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Africa",
+   "title": "Goodluck Jonathan becomes Nigeria's acting president",
+   "summary": "The Senate used a 'doctrine of necessity' while the ailing Yar'Adua was abroad; Jonathan was later beaten by Buhari in 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Goodluck_Jonathan"
+    }
+   ],
+   "entities": [
+    "nigeria",
+    "goodluck-jonathan"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "where": [
+    "abuja"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2010-01-12-haiti-earthquake"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2010-02-07-yanukovych-elected"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2010-02-13-marjah-offensive"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2010-03-07-iraq-election"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2010-03-07-iraq-election"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2010-03-26-cheonan-sunk"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2010-02-09-jonathan-acting-president"
+   ]
+  }
+ ]
+}
