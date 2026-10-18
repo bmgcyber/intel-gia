@@ -1,0 +1,494 @@
+{
+ "edition": "2019-09-30",
+ "stories": [
+  {
+   "id": "2019-07-04-japan-korea-trade-dispute",
+   "date": "2019-07-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Japan curbs chip-material exports to South Korea",
+   "summary": "Tokyo tightened controls on materials used to make semiconductors and later dropped Seoul from its trade 'white list', citing export-control lapses amid a feud over wartime labour rulings.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93South_Korea_trade_dispute"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2019/07/26/tech/japan-south-korea-trade-war/index.html"
+    }
+   ],
+   "entities": [
+    "japan",
+    "south-korea",
+    "semiconductors",
+    "shinzo-abe",
+    "moon-jae-in"
+   ],
+   "storylines": [
+    "ai-compute-minerals"
+   ],
+   "marker": "political",
+   "unplaced": "Trade measure."
+  },
+  {
+   "id": "2019-07-19-stena-impero-seized",
+   "date": "2019-07-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Iran seizes the British tanker Stena Impero in the Strait of Hormuz",
+   "summary": "The IRGC took the tanker two weeks after Britain detained an Iranian tanker off Gibraltar on suspicion of carrying oil to Syria.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93United_Kingdom_relations"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/jul/11/iranian-boats-harass-british-oil-tanker-in-strait-of-hormuz"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2019/07/04/uk/tanker-syria-gibraltar-intl-gbr/index.html"
+    }
+   ],
+   "entities": [
+    "iran",
+    "irgc",
+    "united-kingdom"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2019-06-20-global-hawk-downed",
+     "why": "Gulf crisis",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "In the Strait of Hormuz; not pinned."
+  },
+  {
+   "id": "2019-07-24-johnson-pm",
+   "date": "2019-07-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Europe",
+   "title": "Boris Johnson becomes UK prime minister vowing Brexit 'do or die'",
+   "summary": "Johnson replaced Theresa May, who quit after Parliament rejected her withdrawal deal three times.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Boris_Johnson"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/politics/2019/jul/24/philip-hammond-quits-johnson-fully-aligned-chancellor-gauke-stewart"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "boris-johnson",
+    "european-union"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2019-08-02-inf-treaty-ends",
+   "date": "2019-08-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Russia/Eurasia",
+   "title": "The US formally leaves the INF Treaty, accusing Russia of violations",
+   "summary": "The 1987 treaty had banned ground-launched missiles with ranges of 500–5,500 km. Washington cited Russia's 9M729 cruise missile.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2019/08/02/politics/nuclear-treaty-inf-us-withdraws-russia/index.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "inf-treaty"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "INF's end left New START as the last US–Russia arms limit, which expired in 2026.",
+    "confidence": "likely"
+   },
+   "unplaced": "Treaty withdrawal."
+  },
+  {
+   "id": "2019-08-05-article-370-revoked",
+   "date": "2019-08-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "India revokes Kashmir's special status under Article 370",
+   "summary": "New Delhi split the state into two union territories, cut communications for months and detained Kashmiri leaders. Pakistan downgraded ties.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2019/08/05/world/asia/india-pakistan-kashmir-jammu.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/08/india-imposes-lockdown-kashmir-puts-leaders-house-arrest-190804174841241.html"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan",
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2019-05-23-modi-reelected",
+     "why": "BJP manifesto pledge",
+     "confidence": "likely"
+    },
+    {
+     "story": "2019-02-14-pulwama-attack",
+     "why": "Kashmir crisis",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Constitutional order covering the whole region."
+  },
+  {
+   "id": "2019-09-07-camp-david-cancelled",
+   "date": "2019-09-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Trump cancels secret Camp David talks with the Taliban",
+   "summary": "Trump called off a planned meeting after a Taliban attack in Kabul killed a US soldier; talks resumed months later and led to the Doha deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Afghan_peace_process"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "taliban",
+    "afghanistan",
+    "donald-trump"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Announcement on social media."
+  },
+  {
+   "id": "2019-09-14-abqaiq-attack",
+   "date": "2019-09-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Drones and missiles knock out half of Saudi oil output at Abqaiq and Khurais",
+   "summary": "The Houthis claimed the attack; the US and Saudi Arabia blamed Iran, and France, Germany and the UK agreed Iran was responsible. Brent briefly jumped by the most on record.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/sep/14/major-saudi-arabia-oil-facilities-hit-by-drone-strikes"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2019/09/14/explosion-fire-hit-major-saudi-aramco-facility.html"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "aramco",
+    "houthis",
+    "iran",
+    "united-states"
+   ],
+   "storylines": [
+    "global-oil",
+    "iran-war-hormuz",
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2019-05-12-fujairah-tanker-sabotage",
+     "why": "Gulf escalation",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "analysis": {
+    "text": "The muted US response convinced Riyadh it could not rely on Washington, pushing it toward détente with Iran in 2023.",
+    "confidence": "likely"
+   },
+   "where": [
+    "abqaiq"
+   ]
+  },
+  {
+   "id": "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "date": "2019-09-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "House opens an impeachment inquiry over Trump's pressure on Ukraine",
+   "summary": "A whistleblower complaint revealed Trump's July 25 call asking Zelenskyy to investigate Joe Biden while military aid was frozen. The House impeached him on Dec 18; the Senate acquitted him in February 2020.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Trump%E2%80%93Ukraine_scandal"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_impeachment_of_Donald_Trump"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2019/12/18/politics/house-impeachment-vote/index.html"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "ukraine",
+    "united-states",
+    "joe-biden"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2019-04-21-zelensky-elected",
+     "why": "New Ukrainian president targeted",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2019-07-17-ebola-emergency",
+   "date": "2019-07-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "WHO declares Congo's Ebola outbreak a global health emergency",
+   "summary": "A case in Goma prompted the declaration; the Kivu epidemic, centred on conflict-hit North Kivu and Ituri, became the second-largest Ebola outbreak recorded.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2019/07/15/health/ebola-congo-outbreak.html"
+    }
+   ],
+   "entities": [
+    "who",
+    "drc"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "political",
+   "where": [
+    "goma"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2019-07-04-japan-korea-trade-dispute"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2019-07-19-stena-impero-seized",
+    "2019-09-14-abqaiq-attack"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2019-07-24-johnson-pm"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2019-08-02-inf-treaty-ends",
+    "2019-09-24-trump-ukraine-impeachment-inquiry"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2019-08-05-article-370-revoked"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2019-08-05-article-370-revoked"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2019-09-07-camp-david-cancelled"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2019-09-14-abqaiq-attack"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2019-09-14-abqaiq-attack"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2019-07-17-ebola-emergency"
+   ]
+  }
+ ]
+}
