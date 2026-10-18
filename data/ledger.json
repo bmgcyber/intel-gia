@@ -34340,6 +34340,671 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2021-03-31": {
+   "sha256": "34f7c9b660a1b0d90ad1466adede4cb6b9b19d8f012422abaacfa34edcc40d56",
+   "undo": {
+    "stories": {
+     "2021-01-05-al-ula-qatar": null,
+     "2021-01-06-capitol-attack": null,
+     "2021-01-20-biden-inaugurated": null,
+     "2021-01-23-navalny-arrest-protests": null,
+     "2021-02-01-myanmar-coup": null,
+     "2021-02-04-biden-yemen-shift": null,
+     "2021-03-07-whitsun-reef": null,
+     "2021-03-11-american-rescue-plan": null,
+     "2021-03-12-quad-summit-anchorage": null,
+     "2021-03-23-ever-given": null,
+     "2021-03-24-palma-attack": null,
+     "2020-11-03-us-election": {
+      "id": "2020-11-03-us-election",
+      "date": "2020-11-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Americas",
+      "title": "Biden defeats Trump; Trump refuses to concede",
+      "summary": "Biden won 306 electoral votes amid record turnout and mail voting. Trump's fraud claims were rejected by courts and culminated in the Jan 6 2021 Capitol attack.",
+      "sources": [
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/11/17/936003057/cisa-director-chris-krebs-fired-after-trying-to-correct-voter-fraud-disinformati"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "joe-biden",
+       "donald-trump"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2021-11-29-jcpoa-vienna"
+      ]
+     },
+     "2020-08-20-navalny-poisoned": {
+      "id": "2020-08-20-navalny-poisoned",
+      "date": "2020-08-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Navalny is poisoned with Novichok on a flight from Tomsk",
+      "summary": "His plane made an emergency landing in Omsk and he was flown to Berlin, where German labs found a Novichok nerve agent. The EU imposed sanctions; he returned to Russia and was arrested in January 2021.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/aug/20/a-cup-of-tea-then-screams-of-agony-how-alexei-navalny-was-left-fighting-for-his-life"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny"
+       }
+      ],
+      "entities": [
+       "alexei-navalny",
+       "russia",
+       "germany",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "omsk"
+      ],
+      "related_stories": [
+       "trump-disgrace-eu-summit",
+       "2024-02-16-navalny-dies"
+      ]
+     },
+     "2020-11-08-myanmar-election": {
+      "id": "2020-11-08-myanmar-election",
+      "date": "2020-11-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Asia-Pacific",
+      "title": "Suu Kyi's NLD wins Myanmar's election in a landslide; the army cries fraud",
+      "summary": "The NLD took a large majority while the military-backed USDP won only 33 seats. The army's fraud claims, rejected by the election commission, became the pretext for the February 2021 coup.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/crisis-myanmar-after-army-alleges-election-fraud-2021-02-01/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/world-asia-57144397"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Myanmar_general_election"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "aung-san-suu-kyi",
+       "min-aung-hlaing"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "analysis": {
+       "text": "The 2021 coup that followed set off the civil war behind Operation 1027.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2023-10-27-operation-1027"
+      ]
+     },
+     "2020-03-15-fed-zero-rates": {
+      "id": "2020-03-15-fed-zero-rates",
+      "date": "2020-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Americas",
+      "title": "Fed cuts rates to zero and restarts QE; Congress passes the $2.2tn CARES Act",
+      "summary": "In an emergency Sunday move the Fed cut to 0–0.25% and announced at least $700bn of bond purchases, later unlimited. On Mar 27 Trump signed the $2.2tn CARES stimulus.",
+      "sources": [
+       {
+        "name": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm"
+       },
+       {
+        "name": "NPR (CARES Act)",
+        "url": "https://www.npr.org/2020/03/26/821457551/whats-inside-the-senate-s-2-trillion-coronavirus-aid-package"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/CARES_Act"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "united-states",
+       "covid-19",
+       "donald-trump"
+      ],
+      "causes": [
+       {
+        "story": "2020-03-11-who-pandemic",
+        "why": "Pandemic shock",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "Zero rates and huge fiscal transfers fed the 2021–22 inflation that forced the Fed's fastest hiking cycle in decades.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "covid-shock",
+       "central-banks-rates"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2020-03-11-who-pandemic",
+       "2026-09-16-fed-hikes",
+       "2022-03-16-fed-hike"
+      ]
+     },
+     "2020-10-06-quad-tokyo-malabar": {
+      "id": "2020-10-06-quad-tokyo-malabar",
+      "date": "2020-10-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-30",
+      "region": "Asia-Pacific",
+      "title": "The Quad's foreign ministers meet in Tokyo and Australia rejoins Malabar naval drills",
+      "summary": "Quad foreign ministers met in Tokyo in October 2020, and in November Australia joined the US, India and Japan in Exercise Malabar for the first time since 2007, a 'non-contact, at sea only' drill because of COVID.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Malabar_%28naval_exercise%29"
+       }
+      ],
+      "entities": [
+       "quad",
+       "united-states",
+       "india",
+       "japan",
+       "australia",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2020-06-15-galwan-clash",
+        "why": "Galwan pushed India toward the Quad",
+        "confidence": "possible"
+       },
+       {
+        "story": "2020-05-australia-china-trade-war",
+        "why": "China's coercion of Australia",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-12-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": [
+       "2020-06-15-galwan-clash",
+       "2020-05-australia-china-trade-war",
+       "rare-earth-nov10",
+       "2022-05-23-ipef",
+       "2022-08-04-pla-drills",
+       "trump-waives-russia-sanctions",
+       "2025-12-29-justice-mission-drills",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-10-20-us-australia-minerals",
+       "2023-03-13-aukus-pathway",
+       "2020-11-15-rcep"
+      ]
+     },
+     "2020-08-12-mocimboa-falls": {
+      "id": "2020-08-12-mocimboa-falls",
+      "date": "2020-08-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Africa",
+      "title": "Islamic State-linked insurgents seize Mozambique's Mocímboa da Praia port",
+      "summary": "After a days-long assault the Cabo Delgado insurgents drove out government forces and held the port that supplied nearby LNG projects. It was the third time that year they took the town.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/world-africa-53756692"
+       },
+       {
+        "name": "ACLED Cabo Ligado",
+        "url": "https://acleddata.com/update/cabo-ligado-weekly-10-16-august-2020"
+       },
+       {
+        "name": "CSIS",
+        "url": "https://www.csis.org/analysis/insurgency-marks-new-milestone-coastal-attack-northern-mozambique"
+       }
+      ],
+      "entities": [
+       "mozambique",
+       "islamic-state"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "mocimboa-da-praia"
+      ],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted"
+      ],
+      "source": "inbox"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack"
+      ],
+      "source": "threads.md"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-03-06-true-confidence",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2024-12-26-suez-revenue-loss",
+       "2020-04-25-stc-self-rule"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar"
+      ],
+      "source": "threads.md"
+     },
+     "covid-shock": {
+      "id": "covid-shock",
+      "name": "COVID-19 pandemic & the 2020 economic shock",
+      "entities": [
+       "covid-19",
+       "who",
+       "federal-reserve",
+       "ecb",
+       "imf",
+       "china"
+      ],
+      "stories": [
+       "2020-01-23-wuhan-lockdown",
+       "2020-03-09-oil-price-war",
+       "2020-03-11-who-pandemic",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2020-04-14-imf-great-lockdown",
+       "2020-04-20-wti-negative",
+       "2020-07-21-ngeu",
+       "2020-12-08-vaccine-rollout"
+      ],
+      "source": "inbox"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse",
+       "2023-07-26-fed-peak-rate",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp"
+      ],
+      "source": "inbox"
+     },
+     "global-oil": {
+      "id": "global-oil",
+      "name": "Global oil price & flows",
+      "entities": [
+       "petroleum",
+       "strait-of-hormuz",
+       "saudi-arabia",
+       "russia",
+       "venezuela"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "2021-10-europe-gas-crunch",
+       "2022-03-05-us-venezuela-talks",
+       "2022-03-07-oil-spike",
+       "2022-03-08-us-oil-ban",
+       "2022-03-25-jeddah-attack",
+       "2022-03-31-spr-release",
+       "2022-06-03-eu-oil-embargo",
+       "2022-07-15-biden-saudi",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2020-03-09-oil-price-war",
+       "2020-04-12-opec-plus-record-cut",
+       "2020-04-20-wti-negative"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

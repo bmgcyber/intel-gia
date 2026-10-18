@@ -27143,7 +27143,8 @@
   "related_stories": [
    "2020-03-11-who-pandemic",
    "2026-09-16-fed-hikes",
-   "2022-03-16-fed-hike"
+   "2022-03-16-fed-hike",
+   "2021-03-11-american-rescue-plan"
   ]
  },
  {
@@ -28011,7 +28012,9 @@
   "where": [
    "mocimboa-da-praia"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2021-03-24-palma-attack"
+  ]
  },
  {
   "id": "2020-08-13-abraham-accords",
@@ -28153,7 +28156,8 @@
   ],
   "related_stories": [
    "trump-disgrace-eu-summit",
-   "2024-02-16-navalny-dies"
+   "2024-02-16-navalny-dies",
+   "2021-01-23-navalny-arrest-protests"
   ]
  },
  {
@@ -28543,7 +28547,9 @@
   "marker": "political",
   "unplaced": "National election.",
   "related_stories": [
-   "2021-11-29-jcpoa-vienna"
+   "2021-11-29-jcpoa-vienna",
+   "2021-01-06-capitol-attack",
+   "2021-01-20-biden-inaugurated"
   ]
  },
  {
@@ -28636,7 +28642,8 @@
   "marker": "political",
   "unplaced": "National election.",
   "related_stories": [
-   "2023-10-27-operation-1027"
+   "2023-10-27-operation-1027",
+   "2021-02-01-myanmar-coup"
   ]
  },
  {
@@ -29107,7 +29114,8 @@
    "2025-04-02-liberation-day",
    "2025-10-20-us-australia-minerals",
    "2023-03-13-aukus-pathway",
-   "2020-11-15-rcep"
+   "2020-11-15-rcep",
+   "2021-03-12-quad-summit-anchorage"
   ]
  },
  {
@@ -29350,6 +29358,543 @@
    "2026-02-28-iran-war-begins",
    "2025-06-22-midnight-hammer",
    "2025-10-10-gaza-ceasefire-trump-plan"
+  ]
+ },
+ {
+  "id": "2021-01-05-al-ula-qatar",
+  "date": "2021-01-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Middle East",
+  "title": "Saudi Arabia and its allies end the Qatar blockade at the Al-Ula summit",
+  "summary": "Riyadh reopened its airspace and land border with Qatar on Jan 4, and at the GCC summit in Al-Ula the next day Saudi Arabia, the UAE, Bahrain and Egypt agreed to restore ties, ending a rift that began in 2017.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Qatar%E2%80%93Saudi_Arabia_relations"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Qatar_diplomatic_crisis"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2021/01/04/world/qatar-and-saudi-arabia-reopen-airspace-intl/index.html"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "qatar",
+   "uae",
+   "bahrain",
+   "egypt",
+   "mohammed-bin-salman"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "diplomacy",
+  "unplaced": "Summit in Al-Ula, Saudi Arabia; no verified pin.",
+  "related_stories": [
+   "2023-08-24-brics-expansion"
+  ]
+ },
+ {
+  "id": "2021-01-06-capitol-attack",
+  "date": "2021-01-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Americas",
+  "title": "Trump supporters storm the US Capitol to stop certification of Biden's win",
+  "summary": "A mob tried to stop Congress counting the electoral votes. Five people died within 36 hours and 174 police officers were injured; Congress certified Biden's victory that night and the House impeached Trump a week later.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2021/01/06/politics/us-capitol-lockdown/index.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2021/01/06/electoral-college-ballots-saved-during-capitol-riots.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump",
+   "joe-biden"
+  ],
+  "causes": [
+   {
+    "story": "2020-11-03-us-election",
+    "why": "Trump's false claims the election was stolen",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2020-11-03-us-election"
+  ]
+ },
+ {
+  "id": "2021-01-20-biden-inaugurated",
+  "date": "2021-01-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Americas",
+  "title": "Joe Biden is inaugurated amid the pandemic and the aftermath of Jan 6",
+  "summary": "Biden and Kamala Harris took office under heavy security. On day one he moved to rejoin the Paris climate agreement and the WHO.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Inauguration_of_Joe_Biden"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/01/20/956922884/bidens-inaugural-address-annotated"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2021/01/20/us/politics/biden-president.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "joe-biden",
+   "kamala-harris",
+   "who"
+  ],
+  "causes": [
+   {
+    "story": "2020-11-03-us-election",
+    "why": "Biden's election win",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2020-11-03-us-election",
+   "2021-02-04-biden-yemen-shift"
+  ]
+ },
+ {
+  "id": "2021-01-23-navalny-arrest-protests",
+  "date": "2021-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Navalny is jailed on his return to Russia; protests erupt in over 100 cities",
+  "summary": "Navalny was detained at the airport on Jan 17 after returning from treatment in Germany. His team released the 'Putin's Palace' film and protests on Jan 23 drew crowds in 122 towns; thousands were detained and his suspended sentence was turned into prison time.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Russian_protests"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2021/jan/23/the-problem-is-putin-protesters-throng-the-streets-to-support-navalny"
+   }
+  ],
+  "entities": [
+   "alexei-navalny",
+   "russia",
+   "vladimir-putin"
+  ],
+  "causes": [
+   {
+    "story": "2020-08-20-navalny-poisoned",
+    "why": "Returned after Novichok poisoning",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": [
+   "2020-08-20-navalny-poisoned",
+   "2024-02-16-navalny-dies"
+  ]
+ },
+ {
+  "id": "2021-02-01-myanmar-coup",
+  "date": "2021-02-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Asia-Pacific",
+  "title": "Myanmar's military seizes power and detains Aung San Suu Kyi",
+  "summary": "On the day before the new parliament was to sit, the army declared the 2020 election invalid, proclaimed a state of emergency and handed power to Min Aung Hlaing. Armed resistance by the People's Defence Force followed the crackdown on protests.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/2/1/world-reacts-to-military-coup-in-myanmar"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/02/01/962758188/myanmar-coup-military-detains-aung-san-suu-kyi-plans-new-election-in-2022"
+   }
+  ],
+  "entities": [
+   "myanmar",
+   "min-aung-hlaing",
+   "aung-san-suu-kyi"
+  ],
+  "causes": [
+   {
+    "story": "2020-11-08-myanmar-election",
+    "why": "Army rejected the NLD landslide",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "analysis": {
+   "text": "The coup started the civil war that later produced Operation 1027 and the junta's 2025–26 election.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "naypyidaw"
+  ],
+  "related_stories": [
+   "2020-11-08-myanmar-election"
+  ]
+ },
+ {
+  "id": "2021-02-04-biden-yemen-shift",
+  "date": "2021-02-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Middle East",
+  "title": "Biden ends US support for Saudi offensive operations in Yemen",
+  "summary": "Biden announced an end to US support for offensive operations in the Saudi-led war, including relevant arms sales, and his administration revoked the Trump-era terrorist designation of the Houthis that month.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2021/feb/04/us-end-support-saudi-led-operations-yemen-humanitarian-crisis"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "joe-biden",
+   "saudi-arabia",
+   "houthis",
+   "yemen"
+  ],
+  "causes": [
+   {
+    "story": "2021-01-20-biden-inaugurated",
+    "why": "New administration's policy",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "yemen-houthis-saudi"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "diplomacy",
+  "unplaced": "Policy announcement.",
+  "related_stories": [
+   "2021-01-20-biden-inaugurated",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-21-saada-strike",
+   "2022-03-25-jeddah-attack",
+   "2022-04-02-yemen-truce",
+   "2022-07-15-biden-saudi",
+   "2022-10-02-truce-expires",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2026-07-20-houthi-saudi-blockade",
+   "2024-01-12-us-uk-strike-houthis",
+   "2024-03-06-true-confidence",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait"
+  ]
+ },
+ {
+  "id": "2021-03-07-whitsun-reef",
+  "date": "2021-03-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Asia-Pacific",
+  "title": "Hundreds of Chinese maritime militia boats mass at Whitsun Reef",
+  "summary": "The Philippines called on China to remove a large fleet of vessels moored at the reef in the Spratlys, which Beijing described as fishing boats sheltering from the weather.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Whitsun_Reef"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/03/22/979923065/philippines-calls-on-china-to-remove-massive-fishing-fleet-at-disputed-reef"
+   }
+  ],
+  "entities": [
+   "philippines",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "military",
+  "where": [
+   "whitsun-reef"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2021-03-11-american-rescue-plan",
+  "date": "2021-03-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Americas",
+  "title": "Biden signs the $1.9tn American Rescue Plan",
+  "summary": "The COVID relief package passed without Republican votes and built on the 2020 CARES Act and December relief bill.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/American_Rescue_Plan_Act_of_2021"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2021/mar/06/coronavirus-relief-bill-passes-senate-joe-biden"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "joe-biden",
+   "covid-19"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-15-fed-zero-rates",
+    "why": "Builds on the 2020 rescue",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "analysis": {
+   "text": "Economists later debated how much this stimulus added to the 2021–22 inflation surge.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "covid-shock",
+   "central-banks-rates"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2020-03-15-fed-zero-rates"
+  ]
+ },
+ {
+  "id": "2021-03-12-quad-summit-anchorage",
+  "date": "2021-03-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Asia-Pacific",
+  "title": "First Quad leaders' summit, then a bitter US–China meeting in Anchorage",
+  "summary": "Biden hosted the first Quad leaders' meeting by video on Mar 12. A week later Blinken and Sullivan met Yang Jiechi and Wang Yi in Anchorage, where the talks opened with public recriminations.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States%E2%80%93China_talks_in_Alaska"
+   },
+   {
+    "name": "The Guardian",
+    "url": "http://www.theguardian.com/world/2021/mar/19/us-china-talks-alaska-biden-blinken-sullivan-wang"
+   }
+  ],
+  "entities": [
+   "quad",
+   "united-states",
+   "china",
+   "india",
+   "japan",
+   "australia"
+  ],
+  "causes": [
+   {
+    "story": "2020-10-06-quad-tokyo-malabar",
+    "why": "Quad revival",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "diplomacy",
+  "where": [
+   "anchorage"
+  ],
+  "related_stories": [
+   "2020-10-06-quad-tokyo-malabar",
+   "rare-earth-nov10",
+   "2022-05-23-ipef",
+   "2022-08-04-pla-drills",
+   "trump-waives-russia-sanctions",
+   "2025-12-29-justice-mission-drills",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-10-20-us-australia-minerals",
+   "2023-03-13-aukus-pathway",
+   "2020-11-15-rcep"
+  ]
+ },
+ {
+  "id": "2021-03-23-ever-given",
+  "date": "2021-03-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Middle East",
+  "title": "The Ever Given blocks the Suez Canal for six days",
+  "summary": "The 400-metre container ship ran aground in high winds, holding up an estimated $9.6bn of trade a day; at least 369 ships were queued by Mar 28.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/3/29/traffic-in-suez-canal-resumes-after-stranded-ship-refloated"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2021/03/29/suez-canal-traffic-resumes-after-cargo-ship-ever-given-is-removed.html"
+   }
+  ],
+  "entities": [
+   "egypt",
+   "suez-canal"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "storylines": [
+   "global-oil"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "energy",
+  "where": [
+   "ever-given-grounding"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2021-03-24-palma-attack",
+  "date": "2021-03-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-03-31",
+  "region": "Africa",
+  "title": "Islamic State-linked insurgents storm Palma, halting Mozambique's LNG project",
+  "summary": "Insurgents overran the town next to the Afungi LNG site, killing dozens before troops retook it days later; the operator suspended all work in the area.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Palma"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/3/27/over-180-people-trapped-in-mozambique-hotel-after-isil-attack"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2021/mar/29/total-chaos-survivors-tell-of-insurgent-attack-in-mozambique-palma"
+   }
+  ],
+  "entities": [
+   "mozambique",
+   "islamic-state"
+  ],
+  "causes": [
+   {
+    "story": "2020-08-12-mocimboa-falls",
+    "why": "Insurgency advance in Cabo Delgado",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-03-31",
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "military",
+  "where": [
+   "palma-mozambique"
+  ],
+  "related_stories": [
+   "2020-08-12-mocimboa-falls"
   ]
  }
 ]
