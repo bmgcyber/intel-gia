@@ -1,0 +1,758 @@
+{
+ "edition": "2018-12-31",
+ "stories": [
+  {
+   "id": "2018-10-02-khashoggi-killed",
+   "date": "2018-10-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "Saudi agents kill journalist Jamal Khashoggi in the Istanbul consulate",
+   "summary": "A 15-member squad strangled and dismembered him; Turkey leaked recordings and the CIA concluded MBS approved the operation. Riyadh denied the crown prince's involvement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2018/10/22/middleeast/saudi-operative-jamal-khashoggi-clothes/index.html"
+    }
+   ],
+   "entities": [
+    "jamal-khashoggi",
+    "saudi-arabia",
+    "mohammed-bin-salman",
+    "turkey"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "istanbul"
+   ]
+  },
+  {
+   "id": "2018-10-12-migrant-caravan",
+   "date": "2018-10-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "A migrant caravan sets out from Honduras toward the US",
+   "summary": "Thousands walked north through Guatemala and Mexico; Trump threatened to close the border and sent troops before the midterms.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Central_American_migrant_caravans"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2018/10/18/658607385/as-caravan-of-migrants-heads-north-trump-threatens-to-close-southern-u-s-border"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "mexico",
+    "donald-trump"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "Moving column across Central America."
+  },
+  {
+   "id": "2018-10-28-bolsonaro-elected",
+   "date": "2018-10-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Jair Bolsonaro wins Brazil's presidency",
+   "summary": "The far-right outsider beat Fernando Haddad after Lula was barred from running.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "jair-bolsonaro",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2018-11-06-us-midterms",
+   "date": "2018-11-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Democrats win the House in the US midterms",
+   "summary": "The end of unified Republican control set up the 2019 House impeachment of Trump.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_United_States_elections"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "donald-trump"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2018-11-17-yellow-vests",
+   "date": "2018-11-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "France's 'yellow vest' protests erupt over fuel taxes",
+   "summary": "Weekly protests over fuel prices and cost of living, sometimes violent, forced Macron to scrap a fuel-tax rise.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2018/11/17/europe/macron-france-fuel-protests-intl/"
+    }
+   ],
+   "entities": [
+    "france",
+    "emmanuel-macron"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2018-11-25-kerch-strait-incident",
+   "date": "2018-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Russia/Eurasia",
+   "title": "Russia fires on and seizes three Ukrainian navy vessels in the Kerch Strait",
+   "summary": "It was the first open clash between Russian and Ukrainian forces since 2014; Ukraine declared martial law in border regions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kerch_Strait_incident"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2018/nov/25/russia-border-guards-ram-tugboat-ukraine-navy-crimea"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine",
+    "crimea",
+    "petro-poroshenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "military",
+   "where": [
+    "kerch-strait"
+   ]
+  },
+  {
+   "id": "2018-11-25-brexit-deal-endorsed",
+   "date": "2018-11-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Europe",
+   "title": "EU leaders endorse Theresa May's Brexit withdrawal agreement",
+   "summary": "The House of Commons rejected the deal three times in 2019, forcing May out.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2018/11/25/670626957/european-union-leaders-approve-brexit-plan"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "european-union",
+    "theresa-may"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2018-12-01-meng-wanzhou-arrested",
+   "date": "2018-12-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Americas",
+   "title": "Canada arrests Huawei CFO Meng Wanzhou at US request",
+   "summary": "The US charged her with fraud linked to Iran sanctions; China then detained two Canadians. All three were freed in 2021.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Extradition_case_of_Meng_Wanzhou"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2018/12/11/tech/huawei-meng-wanzhou-bail-decision/index.html"
+    }
+   ],
+   "entities": [
+    "meng-wanzhou",
+    "huawei",
+    "canada",
+    "united-states",
+    "china"
+   ],
+   "storylines": [
+    "ai-compute-minerals",
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2018-04-16-zte-export-ban",
+     "why": "Same Iran-sanctions enforcement against Chinese telecoms",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "vancouver-airport"
+   ]
+  },
+  {
+   "id": "2018-12-13-stockholm-agreement",
+   "date": "2018-12-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Middle East",
+   "title": "UN-brokered Stockholm deal halts the battle for Hodeidah",
+   "summary": "The ceasefire gave both sides 21 days to withdraw from the port city; it largely froze the front.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Hodeidah"
+    }
+   ],
+   "entities": [
+    "houthis",
+    "yemen",
+    "saudi-arabia",
+    "uae"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2018-06-13-hodeidah-offensive",
+     "why": "Ended the Hodeidah offensive",
+     "confidence": "likely"
+    },
+    {
+     "story": "2018-10-02-khashoggi-killed",
+     "why": "Pressure on Riyadh after Khashoggi",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "hodeidah"
+   ]
+  },
+  {
+   "id": "2018-12-19-sudan-protests-begin",
+   "date": "2018-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2018 (trade war and summitry)",
+   "region": "Africa",
+   "title": "Bread-price protests begin Sudan's revolution",
+   "summary": "Street protests over prices quickly turned against Omar al-Bashir's 30-year rule.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sudanese_revolution"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "omar-al-bashir"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "political",
+   "unplaced": "Nationwide protests."
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2019-02-28-hanoi-summit",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-06-12-singapore-summit",
+     "why": "Follow-up to Singapore",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-01-23-guaido-interim-president",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-05-20-maduro-reelected",
+     "why": "Assembly rejected the 2018 vote",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-05-10-us-china-tariffs-escalate",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-07-06-us-china-tariffs-begin",
+     "why": "Escalation of the 2018 trade war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-05-15-huawei-entity-list",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-05-10-us-china-tariffs-escalate",
+     "why": "Trade war widened to technology",
+     "confidence": "likely"
+    },
+    {
+     "story": "2018-12-01-meng-wanzhou-arrested",
+     "why": "Huawei already in the US crosshairs",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-05-12-fujairah-tanker-sabotage",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-05-08-us-quits-jcpoa",
+     "why": "Iranian push-back against maximum pressure",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-10-11-abiy-nobel",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-07-09-ethiopia-eritrea-peace",
+     "why": "Prize cited the Eritrea peace",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-10-09-operation-peace-spring",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-03-23-baghuz-caliphate-ends",
+     "why": "End of the caliphate weakened the case for US troops",
+     "confidence": "possible"
+    },
+    {
+     "story": "2018-01-20-operation-olive-branch",
+     "why": "Second Turkish offensive on the YPG",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-01-01-bolsonaro-inaugurated",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-10-28-bolsonaro-elected",
+     "why": "Election win",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-04-11-bashir-ousted",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-12-19-sudan-protests-begin",
+     "why": "Months of protest",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-07-24-johnson-pm",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-11-25-brexit-deal-endorsed",
+     "why": "May's deal failed in Parliament",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-03-25-golan-recognition",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-05-14-jerusalem-embassy-gaza",
+     "why": "Second pro-Israel sovereignty move",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-10-23-russia-africa-summit",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-07-30-wagner-car-journalists",
+     "why": "Russia's push into Africa",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2019-11-11-gambia-v-myanmar",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-08-27-un-myanmar-genocide-call",
+     "why": "UN findings underpinned the case",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-11-24-china-cables",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-08-13-xinjiang-un-review",
+     "why": "Leaks confirmed the camps",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-03-05-idlib-ceasefire",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2019-10-09-operation-peace-spring",
+     "why": "Turkey's deeper military role in northern Syria",
+     "confidence": "possible"
+    },
+    {
+     "story": "2018-09-17-idlib-sochi-deal",
+     "why": "Sochi deal had collapsed",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-08-20-navalny-poisoned",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-03-04-skripal-poisoning",
+     "why": "Same Novichok agent",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-09-27-karabakh-war",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-04-23-armenia-velvet-revolution",
+     "why": "Pashinyan government faced Azerbaijan",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2021-07-21-nord-stream-2-deal",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-07-11-trump-nord-stream-2",
+     "why": "Long US opposition to the pipeline",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-04-10-imran-khan",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-07-25-imran-khan-elected",
+     "why": "Ended the government formed in 2018",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-10-16-party-congress",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-03-11-xi-term-limits-scrapped",
+     "why": "Removal of term limits enabled a third term",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-10-22-meloni-government",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-03-04-italy-populist-vote",
+     "why": "Earlier populist breakthrough",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2021-11-07-nicaragua-sham-vote",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-04-18-nicaragua-protests",
+     "why": "Crackdown since 2018",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2021-11-29-jcpoa-vienna",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2020-11-27-fakhrizadeh-killed",
+     "why": "Iran expanded enrichment after the killing",
+     "confidence": "likely"
+    },
+    {
+     "story": "2020-11-03-us-election",
+     "why": "Biden sought a return to the deal",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-04-11-natanz-sabotage",
+     "why": "Iran raised enrichment after Natanz",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-06-18-raisi-elected",
+     "why": "Talks resumed under a hardline president",
+     "confidence": "likely"
+    },
+    {
+     "story": "2018-05-08-us-quits-jcpoa",
+     "why": "Talks to restore the deal the US left",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2021-05-10-gaza-war",
+   "why": "2018 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2018-05-14-jerusalem-embassy-gaza",
+     "why": "Jerusalem tensions",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2018-10-02-khashoggi-killed"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2018-10-12-migrant-caravan",
+    "2018-10-28-bolsonaro-elected"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2018-11-17-yellow-vests"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2018-11-25-kerch-strait-incident"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2018-11-25-brexit-deal-endorsed"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2018-12-01-meng-wanzhou-arrested"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2018-12-01-meng-wanzhou-arrested"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2018-12-13-stockholm-agreement"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2018-12-19-sudan-protests-begin"
+   ]
+  }
+ ]
+}
