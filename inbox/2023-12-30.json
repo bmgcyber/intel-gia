@@ -1,0 +1,592 @@
+{
+ "edition": "2023-12-30",
+ "stories": [
+  {
+   "id": "2022-12-16-japan-security-strategy",
+   "date": "2022-12-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "Japan adopts new security strategies: counterstrike missiles and 2% of GDP on defence",
+   "summary": "Kishida's cabinet approved a new National Security Strategy and defence plans calling China the 'greatest strategic challenge', acquiring counterstrike capability such as Tomahawks, and lifting defence and related spending to 2% of GDP by FY2027.",
+   "sources": [
+    {
+     "name": "Cabinet Secretariat (NSS, English)",
+     "url": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf"
+    },
+    {
+     "name": "Ministry of Defense",
+     "url": "https://www.mod.go.jp/j/policy/agenda/guideline/index.html"
+    }
+   ],
+   "entities": [
+    "japan",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Chinese drills after Pelosi's visit, missiles landing in Japan's EEZ",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-24-invasion",
+     "why": "Russia's invasion shattered assumptions",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "A cabinet decision in Tokyo."
+  },
+  {
+   "id": "2023-01-08-china-reopens",
+   "date": "2023-01-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "China reopens its borders, ending zero-COVID after an explosive outbreak",
+   "summary": "Beijing scrapped quarantine for arrivals after abruptly abandoning zero-COVID in December. The reopening rebound faded within months amid the property slump.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/china-says-covid-outbreak-has-infected-80-population-2023-01-21"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/jan/05/china-data-under-represents-true-impact-of-covid-outbreak-who"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_mainland_China"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "causes": [
+    {
+     "story": "2022-04-shanghai-lockdown",
+     "why": "End of the lockdown era",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-10-16-party-congress",
+     "why": "Xi's third term",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Nationwide policy."
+  },
+  {
+   "id": "2023-03-13-aukus-pathway",
+   "date": "2023-03-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "AUKUS leaders unveil the plan to give Australia nuclear-powered submarines",
+   "summary": "Meeting in San Diego, Biden, Albanese and Sunak set out the 'optimal pathway': US Virginia-class boats for Australia from the early 2030s and a new SSN-AUKUS design built in Britain and Australia.",
+   "sources": [
+    {
+     "name": "White House (archived joint statement)",
+     "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/joint-leaders-statement-on-aukus-2/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/AUKUS"
+    }
+   ],
+   "entities": [
+    "aukus",
+    "australia",
+    "united-states",
+    "united-kingdom",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [],
+   "marker": "military",
+   "unplaced": "Announced in San Diego."
+  },
+  {
+   "id": "2023-04-05-tsai-mccarthy",
+   "date": "2023-04-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "Tsai meets US House Speaker McCarthy in California; China stages 'Joint Sword' drills",
+   "summary": "Tsai met McCarthy at the Reagan Library during a US transit. Beijing answered with three days of drills simulating strikes and encirclement of Taiwan.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2023/04/05/politics/tsai-ing-wen-taiwan-meeting-mccarthy-california-hnk/index.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/List_of_international_presidential_trips_made_by_Tsai_Ing-wen"
+    }
+   ],
+   "entities": [
+    "taiwan",
+    "tsai-ing-wen",
+    "united-states",
+    "china",
+    "pla"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Repeats the 2022 drills response",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "unplaced": "Meeting in California; drills around Taiwan."
+  },
+  {
+   "id": "2023-05-11-jeddah-declaration",
+   "date": "2023-05-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Africa",
+   "title": "Sudan's warring sides sign the Jeddah Declaration on protecting civilians, then break it",
+   "summary": "US–Saudi talks produced a commitment to protect civilians and allow aid, and a short truce followed. Neither held, and talks were suspended.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/sudan-ceasefire-deal-raises-hopes-relief-khartoum-2023-05-21/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2023/05/05/us/politics/sudan-generals-peace-talks.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Jeddah_(2023)"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "sudanese-armed-forces",
+    "rsf",
+    "saudi-arabia",
+    "united-states"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2023-04-15-sudan-war-begins",
+     "why": "First mediation attempt",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "jeddah"
+   ]
+  },
+  {
+   "id": "2023-08-23-chandrayaan-3",
+   "date": "2023-08-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "India becomes the first country to land near the Moon's south pole",
+   "summary": "ISRO's Chandrayaan-3 lander touched down near the lunar south pole, days after Russia's Luna-25 crashed, making India the fourth nation to soft-land on the Moon.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/science/why-are-countries-racing-moons-heavily-cratered-south-pole-2023-08-23/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2023/08/23/science/chandrayaan-3-india-moon-landing.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "On the Moon."
+  },
+  {
+   "id": "2023-09-09-delhi-g20",
+   "date": "2023-09-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "India's G20 summit admits the African Union and reaches a consensus declaration",
+   "summary": "Modi's New Delhi summit agreed a declaration that softened language on Ukraine, made the African Union a permanent member and launched the India–Middle East–Europe corridor, with Xi absent.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/india-hands-over-g20-presidency-brazil-2023-09-10/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_G20_New_Delhi_summit"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi",
+    "g7",
+    "china",
+    "russia"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [],
+   "marker": "diplomacy",
+   "where": [
+    "new-delhi"
+   ]
+  },
+  {
+   "id": "2023-10-06-narges-mohammadi-nobel",
+   "date": "2023-10-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Jailed Iranian activist Narges Mohammadi wins the Nobel Peace Prize",
+   "summary": "The committee honoured her fight against the oppression of women in Iran, a year after the 'Woman, Life, Freedom' protests that followed Mahsa Amini's death. Iran had crushed the uprising with mass arrests and executions.",
+   "sources": [
+    {
+     "name": "NobelPrize.org",
+     "url": "https://www.nobelprize.org/prizes/peace/2023/press-release/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Nobel_Peace_Prize"
+    }
+   ],
+   "entities": [
+    "narges-mohammadi",
+    "iran"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2022-09-16-mahsa-amini",
+     "why": "Recognition of the 2022 uprising",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Announced in Oslo; Mohammadi was in Evin prison."
+  },
+  {
+   "id": "2023-10-18-country-garden-default",
+   "date": "2023-10-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Asia-Pacific",
+   "title": "Country Garden defaults on its offshore debt, deepening China's property crisis",
+   "summary": "Once China's biggest developer by sales, Country Garden missed a payment deadline, putting all its offshore debt into default. Evergrande was ordered liquidated by a Hong Kong court in January 2024.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/country-gardens-entire-offshore-debt-be-default-if-tuesday-payment-not-made-2023-10-16/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2023/10/10/business/country-garden-default-china-real-estate-crisis.html"
+    },
+    {
+     "name": "The Guardian (Evergrande)",
+     "url": "https://www.theguardian.com/business/2024/jan/29/evergrande-collapse-liquidation-china-debt-developer-property-giant"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Country_Garden"
+    }
+   ],
+   "entities": [
+    "country-garden",
+    "evergrande",
+    "china"
+   ],
+   "causes": [
+    {
+     "story": "2023-01-08-china-reopens",
+     "why": "The reopening failed to revive property",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The property bust pushed Beijing toward export-led growth, giving 2025's trillion-dollar surplus.",
+    "confidence": "likely"
+   },
+   "unplaced": "A bond default."
+  },
+  {
+   "id": "2023-11-24-gaza-hostage-truce",
+   "date": "2023-11-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "First Gaza truce frees 105 hostages for 240 Palestinian prisoners",
+   "summary": "A Qatar-, Egypt- and US-mediated pause, extended twice, ran Nov 24–Dec 1. It freed mostly women and children on both sides before fighting resumed.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/israel-hamas-start-first-truce-gaza-war-2023-11-24/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/11/24/who-were-the-palestinian-prisoners-israel-released-on-friday"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas",
+    "qatar",
+    "egypt",
+    "united-states"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2023-10-27-gaza-ground-invasion",
+     "why": "Pause in the ground war",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Gaza and Israeli prisons."
+  },
+  {
+   "id": "2023-12-18-wad-madani-falls",
+   "date": "2023-12-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Africa",
+   "title": "RSF seizes Wad Madani, Sudan's second city and an aid hub",
+   "summary": "The army withdrew from Gezira state's capital, where hundreds of thousands who had fled Khartoum were sheltering, setting off new flight and RSF abuses in Gezira.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/2023/12/19/losing-hope-sudan-civilians-terrified-as-rsf-attacks-second-biggest-city"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2023/12/20/world/africa/sudan-army-rsf-wad-madani.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Wad_Madani"
+    }
+   ],
+   "entities": [
+    "rsf",
+    "sudanese-armed-forces",
+    "sudan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2023-04-15-sudan-war-begins",
+     "why": "RSF expansion beyond Khartoum",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "wad-madani"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2022-12-16-japan-security-strategy",
+    "2023-03-13-aukus-pathway",
+    "2023-04-05-tsai-mccarthy"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2023-05-11-jeddah-declaration",
+    "2023-12-18-wad-madani-falls"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2023-09-09-delhi-g20"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2023-10-06-narges-mohammadi-nobel"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2023-11-24-gaza-hostage-truce"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "tarique-rahman",
+   "name": "Tarique Rahman",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tarique_Rahman"
+  },
+  {
+   "id": "muhammad-yunus",
+   "name": "Muhammad Yunus",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus"
+  },
+  {
+   "id": "narges-mohammadi",
+   "name": "Narges Mohammadi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Narges_Mohammadi"
+  },
+  {
+   "id": "country-garden",
+   "name": "Country Garden",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Country_Garden"
+  },
+  {
+   "id": "evergrande",
+   "name": "Evergrande Group",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Evergrande_Group"
+  },
+  {
+   "id": "icj",
+   "name": "International Court of Justice",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/International_Court_of_Justice"
+  },
+  {
+   "id": "icc",
+   "name": "International Criminal Court",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+  },
+  {
+   "id": "aukus",
+   "name": "AUKUS",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/AUKUS"
+  },
+  {
+   "id": "ecuador",
+   "name": "Ecuador",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ecuador"
+  },
+  {
+   "id": "tsai-ing-wen",
+   "name": "Tsai Ing-wen",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tsai_Ing-wen"
+  },
+  {
+   "id": "wad-madani",
+   "name": "Wad Madani",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wad_Madani",
+   "lat": 14.4,
+   "lon": 33.51666667,
+   "precision": "city"
+  },
+  {
+   "id": "new-delhi",
+   "name": "New Delhi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Delhi",
+   "lat": 28.6139,
+   "lon": 77.2089,
+   "precision": "city"
+  }
+ ]
+}
