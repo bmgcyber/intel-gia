@@ -36157,6 +36157,491 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2021-12-31": {
+   "sha256": "5626c6c82be1e1a4e87360f0fb60d0245547e8bcb57c7375a8e8b806331c74af",
+   "undo": {
+    "stories": {
+     "2021-10-04-kishida-pm": null,
+     "2021-10-08-global-minimum-tax": null,
+     "2021-11-02-ethiopia-emergency": null,
+     "2021-11-07-nicaragua-sham-vote": null,
+     "2021-11-08-belarus-border-crisis": null,
+     "2021-11-13-cop26-glasgow": null,
+     "2021-11-26-omicron": null,
+     "2021-12-19-boric-elected": null,
+     "2020-08-28-abe-resigns": {
+      "id": "2020-08-28-abe-resigns",
+      "date": "2020-08-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Asia-Pacific",
+      "title": "Shinzo Abe resigns as Japan's longest-serving PM; Suga succeeds him",
+      "summary": "Abe cited a relapse of ulcerative colitis. Yoshihide Suga was elected prime minister on Sep 16, promising continuity.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/article/us-japan-politics-abe/japans-pm-abe-resigns-as-coronavirus-hits-economy-endangers-legacy-idUSKBN25O00F/"
+       },
+       {
+        "name": "PBS",
+        "url": "https://www.pbs.org/newshour/world/japan-prime-minister-shinzo-abe-says-hes-resigning-for-health-reasons"
+       },
+       {
+        "name": "Prime Minister's Office of Japan",
+        "url": "https://japan.kantei.go.jp/99_suga/actions/202009/_00001.html"
+       }
+      ],
+      "entities": [
+       "japan",
+       "shinzo-abe",
+       "yoshihide-suga"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "tokyo"
+      ],
+      "related_stories": []
+     },
+     "2021-06-28-tdf-retakes-mekelle": {
+      "id": "2021-06-28-tdf-retakes-mekelle",
+      "date": "2021-06-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-06-30",
+      "region": "Africa",
+      "title": "Tigrayan forces retake Mekelle as federal troops withdraw",
+      "summary": "The TDF's 'Operation Alula', launched on Jun 11, recaptured much of central and eastern Tigray, and Ethiopia declared a unilateral ceasefire as its troops left the regional capital.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Alula"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2021/06/28/world/asia/tigray-mekelle-ethiopia-retreat.html"
+       }
+      ],
+      "entities": [
+       "tplf",
+       "ethiopia",
+       "abiy-ahmed",
+       "eritrea"
+      ],
+      "causes": [
+       {
+        "story": "2020-11-04-tigray-war",
+        "why": "Counter-offensive in the Tigray war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-06-30",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "military",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2020-11-04-tigray-war",
+       "ethiopia-tigray-advance",
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "2025-03-tplf-split",
+       "tigray-federal-takeover-rubio"
+      ]
+     },
+     "2021-05-23-ryanair-diversion": {
+      "id": "2021-05-23-ryanair-diversion",
+      "date": "2021-05-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-06-30",
+      "region": "Europe",
+      "title": "Belarus forces down a Ryanair jet to arrest a dissident journalist",
+      "summary": "Belarus diverted the Athens–Vilnius flight to Minsk with a false bomb claim and arrested Roman Protasevich. The EU barred its airlines from Belarusian airspace; Russia backed Minsk.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2021/5/24/hamas-rejects-belarus-claim-over-plane-bomb-threat"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2021/05/23/world/europe/ryanair-belarus.html"
+       }
+      ],
+      "entities": [
+       "belarus",
+       "alexander-lukashenko",
+       "european-union",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2020-08-09-belarus-protests",
+        "why": "Crackdown after the 2020 uprising",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "where": [
+       "minsk"
+      ],
+      "related_stories": [
+       "2020-08-09-belarus-protests"
+      ]
+     },
+     "2020-12-08-vaccine-rollout": {
+      "id": "2020-12-08-vaccine-rollout",
+      "date": "2020-12-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Europe",
+      "title": "Britain gives the first approved COVID vaccine dose, starting global vaccination",
+      "summary": "After the UK licensed the Pfizer–BioNTech mRNA vaccine on Dec 2, the first shot was given on Dec 8; the US authorised it days later. Rich countries' advance purchases led to a vaccine-equity fight.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/society/2020/dec/02/pfizer-biontech-covid-vaccine-wins-licence-for-use-in-the-uk"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/12/4/bahrain-becomes-second-country-to-approve-pfizer-covid-19-vaccine"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pfizer–BioNTech_COVID-19_vaccine"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "covid-19",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2020-03-11-who-pandemic",
+        "why": "Response to the pandemic",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "covid-shock"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "Rollout across the UK.",
+      "related_stories": [
+       "2020-03-11-who-pandemic"
+      ]
+     },
+     "2020-10-25-chile-plebiscite": {
+      "id": "2020-10-25-chile-plebiscite",
+      "date": "2020-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Americas",
+      "title": "Chileans vote 78% to replace Pinochet's constitution",
+      "summary": "A year after mass protests, 78.27% approved drafting a new constitution and 78.99% chose a fully elected convention.",
+      "sources": [
+       {
+        "name": "BCN Chile",
+        "url": "https://www.bcn.cl/procesoconstituyente/plebiscito2020"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/rebirth-chileans-vote-by-millions-tear-up-pinochets-constitution-2020-10-26/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/world-latin-america-54687090"
+       }
+      ],
+      "entities": [
+       "chile"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "National vote.",
+      "related_stories": [
+       "2022-09-04-chile-vote"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-09-15-aukus"
+      ],
+      "source": "threads.md"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal"
+      ],
+      "source": "threads.md"
+     },
+     "covid-shock": {
+      "id": "covid-shock",
+      "name": "COVID-19 pandemic & the 2020 economic shock",
+      "entities": [
+       "covid-19",
+       "who",
+       "federal-reserve",
+       "ecb",
+       "imf",
+       "china"
+      ],
+      "stories": [
+       "2020-01-23-wuhan-lockdown",
+       "2020-03-09-oil-price-war",
+       "2020-03-11-who-pandemic",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2020-04-14-imf-great-lockdown",
+       "2020-04-20-wti-negative",
+       "2020-07-21-ngeu",
+       "2020-12-08-vaccine-rollout",
+       "2021-03-11-american-rescue-plan"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
