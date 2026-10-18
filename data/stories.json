@@ -59519,7 +59519,13 @@
    "saudi-arabia",
    "ali-abdullah-saleh"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-06-18-yemen-houthi-war-begins",
+    "why": "Sixth round",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2009-09-30",
   "storylines": [
@@ -59531,6 +59537,8 @@
    "saada"
   ],
   "related_stories": [
+   "2004-06-18-yemen-houthi-war-begins",
+   "2015-03-26-saudi-intervention-yemen",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
    "2022-01-21-saada-strike",
@@ -59547,9 +59555,17 @@
    "2018-08-09-dahyan-bus-strike",
    "2018-12-13-stockholm-agreement",
    "2017-12-04-saleh-killed",
-   "2015-03-26-saudi-intervention-yemen",
    "2014-09-21-houthis-take-sanaa",
    "2011-11-23-saleh-gcc-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60253,7 +60269,13 @@
    "russia",
    "european-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-03-17-kosovo-unrest",
+    "why": "Status push",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-03-31",
   "storylines": [
@@ -60265,7 +60287,17 @@
    "pristina"
   ],
   "related_stories": [
+   "2004-03-17-kosovo-unrest",
    "2014-03-18-crimea-annexed"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -60693,7 +60725,13 @@
    "georgia",
    "russia"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-03-29-nato-enlargement",
+    "why": "Previous wave",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2008-06-30",
   "storylines": [
@@ -60705,11 +60743,21 @@
    "bucharest"
   ],
   "related_stories": [
+   "2004-03-29-nato-enlargement",
+   "2014-03-18-crimea-annexed",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2025-11-20-28-point-plan",
-   "2023-06-04-counteroffensive",
-   "2014-03-18-crimea-annexed"
+   "2023-06-04-counteroffensive"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -61167,6 +61215,11 @@
     "story": "2007-02-10-putin-munich-speech",
     "why": "Russian grievance",
     "confidence": "possible"
+   },
+   {
+    "story": "2004-01-04-saakashvili-elected",
+    "why": "Saakashvili's push",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -61182,6 +61235,7 @@
   ],
   "related_stories": [
    "2007-02-10-putin-munich-speech",
+   "2004-01-04-saakashvili-elected",
    "2014-03-18-crimea-annexed",
    "2009-05-07-eastern-partnership"
   ],
@@ -61189,6 +61243,13 @@
    {
     "edition": "2007-12-31",
     "why": "2007 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -62390,7 +62451,13 @@
    "russia",
    "nato"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-03-29-nato-enlargement",
+    "why": "Estonia in NATO",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2007-06-30",
   "storylines": [
@@ -62401,7 +62468,18 @@
   "where": [
    "tallinn"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-03-29-nato-enlargement"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2007-05-01-chavez-orinoco-nationalised",
@@ -63642,6 +63720,11 @@
     "story": "2005-10-15-iraq-constitution",
     "why": "Sectarian polarisation",
     "confidence": "possible"
+   },
+   {
+    "story": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+    "why": "AQI strategy",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -63656,6 +63739,7 @@
   ],
   "related_stories": [
    "2005-10-15-iraq-constitution",
+   "2004-10-17-zarqawi-pledges-to-al-qaeda",
    "2007-01-10-iraq-surge-announced",
    "2006-06-07-zarqawi-killed"
   ],
@@ -63663,6 +63747,13 @@
    {
     "edition": "2005-12-31",
     "why": "2005 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -63772,7 +63863,13 @@
    "india",
    "george-w-bush"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-05-13-india-manmohan-singh",
+    "why": "Singh government",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2006-03-31",
   "storylines": [
@@ -63784,7 +63881,17 @@
    "new-delhi"
   ],
   "related_stories": [
+   "2004-05-13-india-manmohan-singh",
    "2008-10-10-us-india-nuclear-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -64064,7 +64171,13 @@
    "united-states",
    "iraq"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+    "why": "AQI leader",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2006-06-30",
   "storylines": [
@@ -64077,7 +64190,18 @@
    "baqubah"
   ],
   "related_stories": [
-   "2006-02-22-samarra-mosque-bombing"
+   "2004-10-17-zarqawi-pledges-to-al-qaeda",
+   "2006-02-22-samarra-mosque-bombing",
+   "2004-11-07-second-battle-of-fallujah"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -65018,7 +65142,13 @@
    "sudan",
    "south-sudan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-09-09-us-calls-darfur-genocide",
+    "why": "US pressure on Khartoum",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65030,7 +65160,17 @@
    "naivasha"
   ],
   "related_stories": [
+   "2004-09-09-us-calls-darfur-genocide",
    "2011-01-09-south-sudan-referendum"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -65053,7 +65193,13 @@
    "viktor-yushchenko",
    "yulia-tymoshenko"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-11-22-orange-revolution",
+    "why": "Rerun victory",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65065,8 +65211,18 @@
    "kyiv"
   ],
   "related_stories": [
+   "2004-11-22-orange-revolution",
    "2006-01-01-russia-ukraine-gas-cut",
    "2006-03-26-ukraine-election-yanukovych"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -65087,7 +65243,13 @@
   "entities": [
    "iraq"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-06-28-iraq-sovereignty-handover",
+    "why": "Transition plan",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65098,7 +65260,18 @@
   "where": [
    "baghdad"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-06-28-iraq-sovereignty-handover"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-02-14-hariri-assassinated",
@@ -65154,7 +65327,13 @@
   "entities": [
    "cop"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-11-russia-ratifies-kyoto",
+    "why": "Russia's ratification",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65165,7 +65344,18 @@
   "where": [
    "kyoto"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-11-russia-ratifies-kyoto"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-03-14-anti-secession-law",
@@ -65253,7 +65443,13 @@
   "entities": [
    "kyrgyzstan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-11-22-orange-revolution",
+    "why": "Colour revolution wave",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65265,7 +65461,17 @@
    "bishkek"
   ],
   "related_stories": [
+   "2004-11-22-orange-revolution",
    "2010-04-07-kyrgyz-revolution"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -65353,7 +65559,13 @@
    "sudan",
    "icc"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-09-09-us-calls-darfur-genocide",
+    "why": "Genocide finding",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-03-31",
   "storylines": [
@@ -65365,7 +65577,17 @@
    "un-hq"
   ],
   "related_stories": [
+   "2004-09-09-us-calls-darfur-genocide",
    "2009-03-04-icc-bashir-warrant"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -65752,7 +65974,18 @@
    "indonesia",
    "free-aceh-movement"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-12-26-indian-ocean-tsunami",
+    "why": "Tsunami spurred peace",
+    "confidence": "likely"
+   },
+   {
+    "story": "2004-10-20-sby-inaugurated",
+    "why": "SBY's peace push",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-09-30",
   "storylines": [
@@ -65763,7 +65996,19 @@
   "where": [
    "banda-aceh"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-12-26-indian-ocean-tsunami",
+   "2004-10-20-sby-inaugurated"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-08-15-gaza-disengagement",
@@ -65784,7 +66029,13 @@
    "israel",
    "hamas"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-11-11-arafat-dies",
+    "why": "New Palestinian leadership",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-09-30",
   "storylines": [
@@ -65796,7 +66047,17 @@
    "gaza-city"
   ],
   "related_stories": [
+   "2004-11-11-arafat-dies",
    "2006-01-25-hamas-wins-election"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -66202,7 +66463,13 @@
    "al-qaeda",
    "abu-musab-al-zarqawi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+    "why": "Al-Qaeda in Iraq",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-12-31",
   "storylines": [
@@ -66214,7 +66481,18 @@
   "where": [
    "amman"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2004-10-17-zarqawi-pledges-to-al-qaeda"
+  ],
+  "revisions": [
+   {
+    "edition": "2004-12-31",
+    "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-11-22-merkel-chancellor",
@@ -66378,7 +66656,9 @@
   "where": [
    "tbilisi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-08-08-russia-georgia-war"
+  ]
  },
  {
   "id": "2004-02-04-aq-khan-confession",
@@ -66576,7 +66856,9 @@
   "where": [
    "pristina"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2008-02-17-kosovo-independence"
+  ]
  },
  {
   "id": "2004-03-18-battle-of-wana",
@@ -66709,7 +66991,8 @@
    "brussels"
   ],
   "related_stories": [
-   "2007-04-27-estonia-cyberattacks"
+   "2007-04-27-estonia-cyberattacks",
+   "2008-04-03-nato-bucharest-summit"
   ]
  },
  {
@@ -66969,7 +67252,9 @@
   "where": [
    "new-delhi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-03-02-bush-singh-nuclear-deal"
+  ]
  },
  {
   "id": "2004-05-29-khobar-massacre",
@@ -67070,7 +67355,9 @@
   "where": [
    "baghdad"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2005-01-30-iraq-first-election"
+  ]
  },
  {
   "id": "2004-05-09-kadyrov-assassinated",
@@ -67259,7 +67546,10 @@
   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
   "marker": "diplomacy",
   "unplaced": "Darfur, western Sudan.",
-  "related_stories": []
+  "related_stories": [
+   "2005-01-09-sudan-cpa",
+   "2005-03-31-unsc-refers-darfur"
+  ]
  },
  {
   "id": "2004-09-19-hu-takes-military",
@@ -67288,6 +67578,413 @@
   "marker": "political",
   "where": [
    "beijing"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2004-10-09-afghan-election",
+  "date": "2004-10-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Asia-Pacific",
+  "title": "Hamid Karzai wins Afghanistan's first presidential election",
+  "summary": "The vote was held three years after the Taliban's fall.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Afghan_presidential_election"
+   }
+  ],
+  "entities": [
+   "afghanistan",
+   "hamid-karzai"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "kabul"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2004-10-20-sby-inaugurated",
+  "date": "2004-10-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Asia-Pacific",
+  "title": "Susilo Bambang Yudhoyono becomes Indonesia's first directly elected president",
+  "summary": "He went on to settle the Aceh conflict.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Indonesian_presidential_election"
+   }
+  ],
+  "entities": [
+   "indonesia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "jakarta"
+  ],
+  "related_stories": [
+   "2005-08-15-aceh-peace"
+  ]
+ },
+ {
+  "id": "2004-10-25-tak-bai-incident",
+  "date": "2004-10-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Asia-Pacific",
+  "title": "Dozens of Muslim protesters die in Thai army custody at Tak Bai",
+  "summary": "Most suffocated in army trucks; it fuelled southern Thailand's insurgency.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tak_Bai_incident"
+   }
+  ],
+  "entities": [
+   "thailand"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "military",
+  "where": [
+   "tak-bai"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2004-11-02-bush-reelected",
+  "date": "2004-11-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Americas",
+  "title": "George W. Bush wins re-election",
+  "summary": "He narrowly defeated John Kerry.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_United_States_presidential_election"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "george-w-bush"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2004-11-06-france-ivory-coast-clash",
+  "date": "2004-11-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Africa",
+  "title": "France destroys Ivory Coast's air force after a strike on French troops",
+  "summary": "Anti-French riots followed in Abidjan.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_French%E2%80%93Ivorian_clashes"
+   }
+  ],
+  "entities": [
+   "france",
+   "ivory-coast",
+   "laurent-gbagbo"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "africa-governance"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "military",
+  "where": [
+   "abidjan"
+  ],
+  "related_stories": [
+   "2011-04-11-gbagbo-captured"
+  ]
+ },
+ {
+  "id": "2004-11-07-second-battle-of-fallujah",
+  "date": "2004-11-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Middle East",
+  "title": "US-led forces storm Fallujah in the war's fiercest urban battle",
+  "summary": "The city was retaken.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Fallujah"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "military",
+  "where": [
+   "fallujah"
+  ],
+  "related_stories": [
+   "2006-06-07-zarqawi-killed"
+  ]
+ },
+ {
+  "id": "2004-11-11-arafat-dies",
+  "date": "2004-11-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Middle East",
+  "title": "Yasser Arafat dies; Mahmoud Abbas succeeds him",
+  "summary": "Abbas was elected in January 2005.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yasser_Arafat"
+   }
+  ],
+  "entities": [
+   "yasser-arafat",
+   "mahmoud-abbas",
+   "fatah"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "unplaced": "Died in a French military hospital; buried in Ramallah.",
+  "related_stories": [
+   "2005-08-15-gaza-disengagement"
+  ]
+ },
+ {
+  "id": "2004-11-22-orange-revolution",
+  "date": "2004-11-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Ukraine's Orange Revolution erupts over a rigged election",
+  "summary": "Mass protests forced a rerun that Yushchenko won; Moscow saw Western interference.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orange_Revolution"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "viktor-yushchenko",
+   "viktor-yanukovych",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "maidan"
+  ],
+  "related_stories": [
+   "2005-01-23-yushchenko-inaugurated",
+   "2005-03-24-tulip-revolution",
+   "2014-02-22-yanukovych-ousted",
+   "2013-11-21-euromaidan"
+  ]
+ },
+ {
+  "id": "2004-12-26-indian-ocean-tsunami",
+  "date": "2004-12-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Asia-Pacific",
+  "title": "An Indian Ocean earthquake and tsunami kill 227,898 people",
+  "summary": "Aceh was the worst hit.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"
+   }
+  ],
+  "entities": [
+   "indonesia",
+   "sri-lanka",
+   "india",
+   "thailand"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "banda-aceh"
+  ],
+  "related_stories": [
+   "2005-08-15-aceh-peace"
+  ]
+ },
+ {
+  "id": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+  "date": "2004-10-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Middle East",
+  "title": "Zarqawi pledges allegiance to bin Laden, creating al-Qaeda in Iraq",
+  "summary": "The group was the forerunner of the Islamic State.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Al-Qaeda_in_Iraq"
+   }
+  ],
+  "entities": [
+   "abu-musab-al-zarqawi",
+   "al-qaeda",
+   "osama-bin-laden"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "iraq-war",
+   "isis-war"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "unplaced": "Announced online.",
+  "related_stories": [
+   "2006-02-22-samarra-mosque-bombing",
+   "2006-06-07-zarqawi-killed",
+   "2005-11-09-amman-bombings"
+  ]
+ },
+ {
+  "id": "2004-11-russia-ratifies-kyoto",
+  "date": "2004-11",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Russia ratifies the Kyoto Protocol, bringing it into force",
+  "summary": "Russia's vote crossed the threshold needed for the treaty to take effect in February 2005.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kyoto_Protocol"
+   }
+  ],
+  "entities": [
+   "russia",
+   "cop"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "diplomacy",
+  "where": [
+   "moscow"
+  ],
+  "related_stories": [
+   "2005-02-16-kyoto-in-force"
+  ]
+ },
+ {
+  "id": "2004-10-31-uruguay-left-wins",
+  "date": "2004-10-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2004-12-31",
+  "region": "Americas",
+  "title": "Tabaré Vázquez wins Uruguay's presidency for the left",
+  "summary": "Uruguay joined the 'pink tide' sweeping South America.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2004_Uruguayan_general_election"
+   }
+  ],
+  "entities": [
+   "uruguay"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2004-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+  "marker": "political",
+  "where": [
+   "montevideo"
   ],
   "related_stories": []
  }
