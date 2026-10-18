@@ -26097,5 +26097,660 @@
    "2025-01-18-kunming-ceasefire",
    "2026-01-30-myanmar-junta-election"
   ]
+ },
+ {
+  "id": "2020-01-03-soleimani-killed",
+  "date": "2020-01-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Middle East",
+  "title": "US drone strike kills Iran's Qasem Soleimani at Baghdad airport",
+  "summary": "Trump ordered the strike that killed the Quds Force commander and Iraqi militia leader Abu Mahdi al-Muhandis. Iraq's parliament voted to expel US troops, and Iran vowed revenge.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/jan/03/baghdad-airport-iraq-attack-deaths-iran-us-tensions"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/20200103-a-more-dangerous-world-usa-killing-soleimani-stokes-fears-regional-conflict-iran-iraq-trump"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iran",
+   "irgc",
+   "qasem-soleimani",
+   "abu-mahdi-al-muhandis",
+   "iraq",
+   "donald-trump",
+   "kataib-hezbollah"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "analysis": {
+   "text": "Removing Soleimani weakened Iran's coordination of its proxy network but hardened the US–Iran confrontation that runs to the 2026 war.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-proxy-network"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "where": [
+   "baghdad"
+  ],
+  "related_stories": [
+   "2020-01-08-iran-retaliates-ps752",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "kataib-hezbollah-halt",
+   "2021-10-10-iraq-election",
+   "2021-11-07-kadhimi-drone",
+   "2022-08-29-baghdad-clashes",
+   "2022-10-27-sudani-govt",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2026-09-30-us-leaves-iraq",
+   "2025-06-22-midnight-hammer",
+   "2024-01-28-tower-22",
+   "2024-04-13-iran-strikes-israel",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record"
+  ]
+ },
+ {
+  "id": "2020-01-08-iran-retaliates-ps752",
+  "date": "2020-01-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Middle East",
+  "title": "Iran fires missiles at US bases in Iraq, then shoots down a Ukrainian airliner",
+  "summary": "The IRGC hit Al-Asad and Erbil with more than a dozen ballistic missiles; no US troops were killed but many suffered brain injuries. Hours later IRGC air defences downed Ukraine International Airlines Flight 752 near Tehran, killing all 176 aboard, which Iran admitted three days later.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/jan/08/suleimani-assassination-two-us-airbases-in-iraq-hit-by-missiles-in-retaliation"
+   },
+   {
+    "name": "The Guardian (PS752)",
+    "url": "https://www.theguardian.com/world/2020/jan/08/iran-plane-crash-ukraine-boeing-180-tehran"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Martyr_Soleimani"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752"
+   }
+  ],
+  "entities": [
+   "iran",
+   "irgc",
+   "united-states",
+   "iraq",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2020-01-03-soleimani-killed",
+    "why": "Retaliation for Soleimani",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "iran-proxy-network"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "where": [
+   "al-asad-airbase",
+   "tehran"
+  ],
+  "related_stories": [
+   "2020-01-03-soleimani-killed",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "kataib-hezbollah-halt",
+   "2022-10-iran-drones-russia",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses",
+   "2026-09-30-us-leaves-iraq",
+   "2024-01-28-tower-22",
+   "2024-04-13-iran-strikes-israel",
+   "second-mine-tanker-ukmto-record"
+  ]
+ },
+ {
+  "id": "2020-01-11-tsai-reelected",
+  "date": "2020-01-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Asia-Pacific",
+  "title": "Tsai Ing-wen wins re-election in a landslide, rebuffing Beijing",
+  "summary": "Tsai and running mate Lai Ching-te won with a record vote after Hong Kong's 2019 unrest, defeating the KMT's Han Kuo-yu.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/jan/11/taiwan-re-elects-tsai-ing-wen-as-president-in-clear-message-to-china"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Taiwanese_presidential_election"
+   }
+  ],
+  "entities": [
+   "taiwan",
+   "tsai-ing-wen",
+   "lai-ching-te",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "taipei"
+  ],
+  "related_stories": [
+   "pla-drills",
+   "pla-patrol-oct14-15",
+   "2025-12-29-justice-mission-drills",
+   "2024-01-13-lai-elected-taiwan",
+   "2023-04-05-tsai-mccarthy"
+  ]
+ },
+ {
+  "id": "2020-01-15-phase-one-deal",
+  "date": "2020-01-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Americas",
+  "title": "US and China sign the 'Phase One' trade deal",
+  "summary": "Trump and Vice Premier Liu He signed a truce in which China pledged to buy at least $200bn more US goods and services over 2020–21. China later bought only about 58% of the promised extra, and most tariffs stayed.",
+  "sources": [
+   {
+    "name": "USTR fact sheet",
+    "url": "https://ustr.gov/sites/default/files/files/agreements/phase%20one%20agreement/Phase_One_Agreement-Expanding_Trade_Fact_Sheet.pdf"
+   },
+   {
+    "name": "PIIE",
+    "url": "https://www.piie.com/blogs/realtime-economics/2022/china-bought-none-extra-200-billion-us-exports-trumps-trade-deal"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/article/business/whats-in-the-us-china-phase-1-trade-deal-idUSKBN1ZE2IF/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "china",
+   "donald-trump"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "trump-waives-russia-sanctions",
+   "2026-02-20-scotus-ieepa",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china"
+  ]
+ },
+ {
+  "id": "2020-01-23-wuhan-lockdown",
+  "date": "2020-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Asia-Pacific",
+  "title": "China locks down Wuhan as a new coronavirus spreads",
+  "summary": "Beijing sealed off Wuhan and other Hubei cities, an unprecedented quarantine of tens of millions, as the virus was already spreading abroad.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/01/26/asia/wuhan-coronavirus-update-intl-hnk/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_Hubei"
+   }
+  ],
+  "entities": [
+   "china",
+   "covid-19",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "wuhan"
+  ],
+  "related_stories": [
+   "2020-03-11-who-pandemic"
+  ]
+ },
+ {
+  "id": "2020-01-31-brexit",
+  "date": "2020-01-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Europe",
+  "title": "The UK formally leaves the European Union",
+  "summary": "Britain left at 23:00 GMT, entering a transition period to Dec 31 during which it stayed in the single market while negotiating a trade deal.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/video/2020/jan/31/britain-leaves-the-eu-to-virtual-bongs-and-god-save-the-queen-video"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brexit"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "london"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-02-29-doha-agreement",
+  "date": "2020-02-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Asia-Pacific",
+  "title": "US and Taliban sign the Doha deal on a full US withdrawal from Afghanistan",
+  "summary": "Washington agreed to withdraw all troops within 14 months; the Taliban pledged not to let al-Qaeda use Afghan soil and to open talks with Kabul, which began in Doha in September. The Afghan government was not a party.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/feb/29/us-taliban-sign-peace-agreement-afghanistan-war"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/02/afghanistan-taliban-sign-deal-america-longest-war-200213063412531.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States–Taliban_deal"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "taliban",
+   "afghanistan",
+   "al-qaeda",
+   "qatar"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "analysis": {
+   "text": "The deal set the timetable for the August 2021 collapse of the Afghan republic and the Taliban's return.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "doha"
+  ],
+  "related_stories": [
+   "2022-07-31-zawahiri",
+   "2025-10-19-afpak-doha-ceasefire"
+  ]
+ },
+ {
+  "id": "2020-03-05-idlib-ceasefire",
+  "date": "2020-03-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Middle East",
+  "title": "Turkey's Operation Spring Shield hits Assad's forces; Putin and Erdoğan agree an Idlib ceasefire",
+  "summary": "After a Feb 27 airstrike killed more than 30 Turkish soldiers, Turkey launched drone strikes on Syrian government forces and shot down Syrian jets. A Moscow-brokered ceasefire froze the last rebel enclave, dominated by HTS.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/3/1/turkey-shoots-down-two-syrian-fighter-jets-over-idlib"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Spring_Shield"
+   }
+  ],
+  "entities": [
+   "turkey",
+   "syria",
+   "russia",
+   "hts",
+   "recep-tayyip-erdogan",
+   "vladimir-putin",
+   "bashar-al-assad"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "analysis": {
+   "text": "The frozen Idlib enclave let HTS survive and rebuild, launching the 2024 offensive that toppled Assad.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "military",
+  "where": [
+   "idlib"
+  ],
+  "related_stories": [
+   "2022-07-19-putin-tehran",
+   "2024-12-08-assad-falls",
+   "2024-11-30-aleppo-falls",
+   "2024-12-01-sna-tell-rifaat"
+  ]
+ },
+ {
+  "id": "2020-03-09-oil-price-war",
+  "date": "2020-03-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Middle East",
+  "title": "Saudi–Russian oil price war crashes crude as COVID hits demand",
+  "summary": "After OPEC+ talks collapsed on Mar 6 when Russia refused deeper cuts, Saudi Arabia slashed prices and pledged to raise output. Oil and stock markets suffered their biggest falls since 2008.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/mar/11/saudi-arabia-oil-price-war-production-increase-aramco"
+   },
+   {
+    "name": "The Guardian (markets)",
+    "url": "https://www.theguardian.com/business/2020/mar/09/global-stock-markets-post-biggest-falls-since-2008-financial-crisis"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Russia–Saudi_Arabia_oil_price_war"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "russia",
+   "opec-plus",
+   "aramco"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "global-oil",
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "energy",
+  "unplaced": "OPEC+ talks in Vienna and global markets.",
+  "related_stories": [
+   "2022-10-05-opec-cut"
+  ]
+ },
+ {
+  "id": "2020-03-11-who-pandemic",
+  "date": "2020-03-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Europe",
+  "title": "WHO declares COVID-19 a pandemic",
+  "summary": "Tedros said cases outside China had risen 13-fold in two weeks to 118,000 in 114 countries. Borders closed and lockdowns spread across Europe, the Americas and beyond.",
+  "sources": [
+   {
+    "name": "WHO",
+    "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-who/world-health-organization-describes-coronavirus-outbreak-as-pandemic-idUSKBN20Y2OI/"
+   }
+  ],
+  "entities": [
+   "who",
+   "covid-19"
+  ],
+  "causes": [
+   {
+    "story": "2020-01-23-wuhan-lockdown",
+    "why": "Spread from Wuhan",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "geneva"
+  ],
+  "related_stories": [
+   "2020-01-23-wuhan-lockdown",
+   "2020-03-15-fed-zero-rates",
+   "2020-03-18-ecb-pepp"
+  ]
+ },
+ {
+  "id": "2020-03-15-fed-zero-rates",
+  "date": "2020-03-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Americas",
+  "title": "Fed cuts rates to zero and restarts QE; Congress passes the $2.2tn CARES Act",
+  "summary": "In an emergency Sunday move the Fed cut to 0–0.25% and announced at least $700bn of bond purchases, later unlimited. On Mar 27 Trump signed the $2.2tn CARES stimulus.",
+  "sources": [
+   {
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm"
+   },
+   {
+    "name": "NPR (CARES Act)",
+    "url": "https://www.npr.org/2020/03/26/821457551/whats-inside-the-senate-s-2-trillion-coronavirus-aid-package"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/CARES_Act"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "united-states",
+   "covid-19",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-11-who-pandemic",
+    "why": "Pandemic shock",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "analysis": {
+   "text": "Zero rates and huge fiscal transfers fed the 2021–22 inflation that forced the Fed's fastest hiking cycle in decades.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "covid-shock",
+   "central-banks-rates"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2020-03-11-who-pandemic",
+   "2026-09-16-fed-hikes"
+  ]
+ },
+ {
+  "id": "2020-03-18-ecb-pepp",
+  "date": "2020-03-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Europe",
+  "title": "ECB launches a €750bn pandemic bond-buying programme",
+  "summary": "The PEPP bought public and private debt flexibly across euro countries, including Greek bonds, to stop a debt panic. It was raised to €1.85tn by December.",
+  "sources": [
+   {
+    "name": "ECB press release",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr200318_1~3949d6f266.en.html"
+   },
+   {
+    "name": "ECB (PEPP)",
+    "url": "https://www.ecb.europa.eu/mopo/implement/pepp/html/index.en.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/European_Central_Bank"
+   }
+  ],
+  "entities": [
+   "ecb",
+   "european-union",
+   "covid-19"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-11-who-pandemic",
+    "why": "Pandemic shock",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "covid-shock",
+   "central-banks-rates"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "frankfurt"
+  ],
+  "related_stories": [
+   "2020-03-11-who-pandemic"
+  ]
+ },
+ {
+  "id": "2020-03-26-maduro-indicted",
+  "date": "2020-03-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-03-31",
+  "region": "Americas",
+  "title": "US charges Maduro with narco-terrorism and offers $15m for his arrest",
+  "summary": "The Justice Department indicted Maduro and 14 officials over cocaine trafficking with FARC. In May, a botched mercenary raid ('Operation Gideon') to seize him was crushed.",
+  "sources": [
+   {
+    "name": "US DEA",
+    "url": "https://www.dea.gov/press-releases/2020/03/26/nicolas-maduro-moros-and-14-current-and-former-venezuelan-officials"
+   },
+   {
+    "name": "US State Department (archived)",
+    "url": "https://2017-2021.state.gov/department-of-state-offers-rewards-for-information-to-bring-venezuelan-drug-traffickers-to-justice/"
+   },
+   {
+    "name": "Al Jazeera (Gideon)",
+    "url": "https://www.aljazeera.com/news/2020/5/6/venezuela-failed-coup-plot-what-we-know-so-far"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "venezuela",
+   "nicolas-maduro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-03-31",
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "Indictment unsealed in New York.",
+  "related_stories": [
+   "venezuela-oil",
+   "2022-03-05-us-venezuela-talks",
+   "2026-01-03-maduro-captured",
+   "2025-09-02-boat-strikes-begin",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade"
+  ]
  }
 ]
