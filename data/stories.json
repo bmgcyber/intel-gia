@@ -26169,7 +26169,8 @@
    "2024-01-28-tower-22",
    "2024-04-13-iran-strikes-israel",
    "iran-seven-day-hormuz-offer",
-   "second-mine-tanker-ukmto-record"
+   "second-mine-tanker-ukmto-record",
+   "2020-05-07-kadhimi-pm"
   ]
  },
  {
@@ -26333,7 +26334,8 @@
    "2026-09-18-graham-act-signed",
    "2025-04-02-liberation-day",
    "2025-10-30-busan-truce",
-   "2025-12-08-h200-china"
+   "2025-12-08-h200-china",
+   "2020-05-15-huawei-fdpr"
   ]
  },
  {
@@ -26551,7 +26553,9 @@
   "marker": "energy",
   "unplaced": "OPEC+ talks in Vienna and global markets.",
   "related_stories": [
-   "2022-10-05-opec-cut"
+   "2022-10-05-opec-cut",
+   "2020-04-12-opec-plus-record-cut",
+   "2020-04-20-wti-negative"
   ]
  },
  {
@@ -26597,7 +26601,9 @@
   "related_stories": [
    "2020-01-23-wuhan-lockdown",
    "2020-03-15-fed-zero-rates",
-   "2020-03-18-ecb-pepp"
+   "2020-03-18-ecb-pepp",
+   "2020-04-14-imf-great-lockdown",
+   "2020-04-20-wti-negative"
   ]
  },
  {
@@ -26751,6 +26757,488 @@
    "2025-09-02-boat-strikes-begin",
    "2025-11-16-ford-caribbean",
    "2025-12-16-venezuela-tanker-blockade"
+  ]
+ },
+ {
+  "id": "2020-04-12-opec-plus-record-cut",
+  "date": "2020-04-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Middle East",
+  "title": "OPEC+ ends the price war with a record 9.7m bpd cut",
+  "summary": "Under pressure from Trump, Saudi Arabia and Russia agreed to cut about 10% of global supply from May, tapering until April 2022, after Mexico won a smaller share.",
+  "sources": [
+   {
+    "name": "OPEC",
+    "url": "https://www.opec.org/pr-detail/310-12-apr-2020.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2020/04/12/opec-and-allies-finalize-record-oil-production-cut-after-days-of-discussion.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/article/us-global-oil-opec-deal/opec-agrees-largest-ever-oil-output-cut-of-9-7-million-bpd-sources-idUSKCN21U0QO/"
+   }
+  ],
+  "entities": [
+   "opec-plus",
+   "saudi-arabia",
+   "russia",
+   "united-states",
+   "mexico"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-09-oil-price-war",
+    "why": "Ends the price war",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "analysis": {
+   "text": "The deal welded Riyadh and Moscow into the OPEC+ partnership that later defied US pressure.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "global-oil"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "energy",
+  "unplaced": "Agreed by videoconference.",
+  "related_stories": [
+   "2020-03-09-oil-price-war",
+   "2022-10-05-opec-cut",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2025-02-18-riyadh-us-russia-talks"
+  ]
+ },
+ {
+  "id": "2020-04-14-imf-great-lockdown",
+  "date": "2020-04-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Americas",
+  "title": "IMF forecasts the worst recession since the Great Depression",
+  "summary": "The 'Great Lockdown' outlook projected a 3% contraction of global output in 2020, a 6.3-point cut from January.",
+  "sources": [
+   {
+    "name": "IMF blog",
+    "url": "https://www.imf.org/en/blogs/articles/2020/04/14/blog-weo-the-great-lockdown-worst-economic-downturn-since-the-great-depression"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/article/us-imf-worldbank-outlook/coronavirus-great-lockdown-to-shrink-global-economy-by-3-in-2020-imf-idUSKCN21W1MA/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/COVID-19_recession"
+   }
+  ],
+  "entities": [
+   "imf",
+   "covid-19"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-11-who-pandemic",
+    "why": "Lockdowns worldwide",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "A global forecast.",
+  "related_stories": [
+   "2020-03-11-who-pandemic"
+  ]
+ },
+ {
+  "id": "2020-04-20-wti-negative",
+  "date": "2020-04-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Americas",
+  "title": "US crude futures settle below zero for the first time",
+  "summary": "With storage at Cushing nearly full, the expiring May WTI contract settled at –$37.63 a barrel, after an intraday low of –$40.32.",
+  "sources": [
+   {
+    "name": "US CFTC",
+    "url": "https://www.cftc.gov/media/5296/InterimStaffReportNYMEX_WTICrudeOil/download"
+   },
+   {
+    "name": "US EIA",
+    "url": "https://www.eia.gov/Todayinenergy/detail.php?id=43495"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/article/business/oil-price-crashes-into-negative-territory-for-the-first-time-in-history-amid-pan-idUSKBN2210V8/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "2020-03-09-oil-price-war",
+    "why": "Glut from the price war",
+    "confidence": "likely"
+   },
+   {
+    "story": "2020-03-11-who-pandemic",
+    "why": "Demand collapse",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "global-oil",
+   "covid-shock"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "energy",
+  "where": [
+   "cushing-oklahoma"
+  ],
+  "related_stories": [
+   "2020-03-09-oil-price-war",
+   "2020-03-11-who-pandemic"
+  ]
+ },
+ {
+  "id": "2020-04-25-stc-self-rule",
+  "date": "2020-04-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Middle East",
+  "title": "Yemen's UAE-backed STC declares self-rule in the south",
+  "summary": "The Southern Transitional Council declared emergency and self-administration in Aden, breaking the Saudi-brokered Riyadh Agreement with the Hadi government.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/4/26/separatist-group-announces-self-rule-in-southern-yemen"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/world-middle-east-52428998"
+   }
+  ],
+  "entities": [
+   "stc",
+   "yemen",
+   "uae",
+   "saudi-arabia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "yemen-houthis-saudi",
+   "gulf-realignment"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "aden"
+  ],
+  "related_stories": [
+   "2022-04-07-plc",
+   "2026-01-09-stc-dissolution",
+   "2025-12-03-stc-seizes-hadramawt"
+  ]
+ },
+ {
+  "id": "2020-05-07-kadhimi-pm",
+  "date": "2020-05-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Middle East",
+  "title": "Iraq's intelligence chief Mustafa al-Kadhimi becomes PM after months of protests",
+  "summary": "After protests toppled Adel Abdul-Mahdi, parliament approved Kadhimi, who promised early elections and to rein in armed groups. Iran-aligned militias distrusted him.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/5/7/who-is-mustafa-al-kadhimi-iraqs-new-prime-minister"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/may/07/iraq-appoints-new-prime-minister-after-months-of-protests-and-jockeying"
+   }
+  ],
+  "entities": [
+   "iraq",
+   "mustafa-al-kadhimi",
+   "kataib-hezbollah"
+  ],
+  "causes": [
+   {
+    "story": "2020-01-03-soleimani-killed",
+    "why": "Post-Soleimani crisis over US troops",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "iran-proxy-network"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "baghdad"
+  ],
+  "related_stories": [
+   "2020-01-03-soleimani-killed"
+  ]
+ },
+ {
+  "id": "2020-05-15-huawei-fdpr",
+  "date": "2020-05-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Americas",
+  "title": "US uses the foreign direct product rule to cut Huawei off from chipmakers",
+  "summary": "Commerce required licences for chips made abroad with US tools and software for Huawei. TSMC stopped taking new Huawei orders; the rule was tightened again in August.",
+  "sources": [
+   {
+    "name": "US Commerce (archived)",
+    "url": "https://2017-2021.commerce.gov/news/press-releases/2020/05/commerce-addresses-huaweis-efforts-undermine-entity-list-restricts.html"
+   },
+   {
+    "name": "Federal Register",
+    "url": "https://www.federalregister.gov/documents/2020/05/19/2020-10856/export-administration-regulations-amendments-to-general-prohibition-three-foreign-produced-direct"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2020/05/15/us-china-tensions-rise-as-trump-administration-moves-to-cut-huawei-off-from-global-chip-suppliers.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "huawei",
+   "china",
+   "tsmc",
+   "semiconductors"
+  ],
+  "causes": [
+   {
+    "story": "2020-01-15-phase-one-deal",
+    "why": "Tech war continued despite the trade truce",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "analysis": {
+   "text": "The FDPR became the template for the 2022 controls on China's whole chip sector.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "us-tariffs-trade",
+   "ai-compute-minerals"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "A regulatory action.",
+  "related_stories": [
+   "2020-01-15-phase-one-deal",
+   "2022-08-09-chips-act",
+   "2022-08-31-nvidia-ban",
+   "2022-10-07-bis-controls",
+   "2026-05-14-trump-xi-beijing",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-12-08-h200-china",
+   "2024-05-14-biden-ev-tariffs",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2023-10-17-us-chip-rules-tightened",
+   "china-draft-ai-export-controls"
+  ]
+ },
+ {
+  "id": "2020-05-australia-china-trade-war",
+  "date": "2020-05",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Asia-Pacific",
+  "title": "China punishes Australia with trade curbs after its call for a COVID inquiry",
+  "summary": "After Canberra called for an independent inquiry into the virus's origins, Beijing imposed tariffs on Australian barley, blocked some beef, then targeted wine, coal, lobster and timber. Australia did not back down.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/australian-lobster-timber-halted-by-chinese-customs-checks-fuels-trade-dispute-2020-11-02/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Australia–China_trade_war"
+   }
+  ],
+  "entities": [
+   "china",
+   "australia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "Trade measures; no single site.",
+  "related_stories": []
+ },
+ {
+  "id": "2020-06-15-galwan-clash",
+  "date": "2020-06-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Asia-Pacific",
+  "title": "Galwan Valley clash kills 20 Indian soldiers in the first deadly China–India border fight in decades",
+  "summary": "Troops fought with clubs and stones in Ladakh amid a standoff that began in May. China later acknowledged four deaths. India banned dozens of Chinese apps and tightened Chinese investment rules.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/jun/16/india-says-soldiers-killed-on-disputed-himalayan-border-with-china"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/06/china-releases-indian-soldiers-days-ladakh-clash-reports-200619033527314.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020–2021_China–India_skirmishes"
+   }
+  ],
+  "entities": [
+   "india",
+   "china",
+   "pla",
+   "narendra-modi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "analysis": {
+   "text": "Galwan pushed India closer to the US-led Quad while it kept buying Russian arms and oil.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "military",
+  "where": [
+   "galwan-river"
+  ],
+  "related_stories": [
+   "2023-09-09-delhi-g20"
+  ]
+ },
+ {
+  "id": "2020-06-16-liaison-office-blown-up",
+  "date": "2020-06-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Asia-Pacific",
+  "title": "North Korea blows up the inter-Korean liaison office in Kaesong",
+  "summary": "After weeks of anger over activists' leaflet launches, voiced by Kim Yo Jong, Pyongyang demolished the joint office opened in 2018, ending the détente of the Moon–Kim summits.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/06/south-korea-north-blew-liaison-office-tensions-rise-200616071045580.html"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/06/16/asia/north-korea-explosion-intl-hnk/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Inter-Korean_Liaison_Office"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "south-korea",
+   "kim-jong-un"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "military",
+  "where": [
+   "inter-korean-liaison-office"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-06-30-hong-kong-nsl",
+  "date": "2020-06-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-06-30",
+  "region": "Asia-Pacific",
+  "title": "Beijing imposes a national security law on Hong Kong",
+  "summary": "The NPC Standing Committee passed a law criminalising secession, subversion, terrorism and collusion with foreign forces, with sentences up to life. The US ended Hong Kong's special trade status and the UK opened a path to citizenship for BN(O) holders.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/jun/30/china-passes-controversial-hong-kong-national-security-law"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/06/29/china/hong-kong-national-security-law-passed-intl-hnk/index.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping",
+   "united-states",
+   "united-kingdom"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-06-30",
+  "analysis": {
+   "text": "Hong Kong's fate hardened Taiwanese opinion against 'one country, two systems'.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": [
+   "2026-05-14-trump-xi-beijing",
+   "2025-10-30-busan-truce",
+   "2023-03-13-aukus-pathway"
   ]
  }
 ]
