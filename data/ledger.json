@@ -13526,6 +13526,1113 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-09-29": {
+   "sha256": "0700f72822e53095cde9f5644e85ba9845920a96f8cf73d5e27b987b46e8bd31",
+   "undo": {
+    "stories": {
+     "2026-01-14-china-trillion-surplus": null,
+     "2026-01-28-msci-indonesia-freeze": null,
+     "2026-01-23-to-lam-new-term": null,
+     "2026-01-30-myanmar-junta-election": null,
+     "2026-02-08-thai-election-anutin": null,
+     "2026-02-19-yoon-life-sentence": null,
+     "2026-03-09-madagascar-government-dismissed": null,
+     "2026-03-29-hwasong-20-engine-test": null,
+     "2026-06-07-peru-fujimori-wins": null,
+     "2026-07-01-usmca-review": null,
+     "2026-07-17-knesset-dissolves": null,
+     "2026-08-29-niger-mutiny": null,
+     "2026-09-20-dprk-hypersonic-test": null,
+     "2026-09-20-duma-election": null,
+     "2026-02-05-new-start-expires": {
+      "id": "2026-02-05-new-start-expires",
+      "date": "2026-02-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Russia/Eurasia",
+      "title": "New START expires; no limits remain on US and Russian nuclear forces",
+      "summary": "The last US–Russia strategic arms treaty expired on Feb 5. Moscow said it would keep to the old limits only if Washington did, and the US said it wanted a broader deal that includes China. US officials met Russian and Chinese delegations later in February, but China resisted formal three-way talks.",
+      "sources": [
+       {
+        "name": "Reuters (Russia position)",
+        "url": "https://www.reuters.com/world/russia-says-it-wont-breach-limits-expired-nuclear-treaty-if-us-does-same-2026-02-11/"
+       },
+       {
+        "name": "Reuters (talks)",
+        "url": "https://www.reuters.com/world/china/us-meeting-russian-chinese-delegations-nuclear-arms-control-talks-official-says-2026-02-23/"
+       },
+       {
+        "name": "CFR",
+        "url": "https://www.cfr.org/articles/nukes-without-limits-a-new-era-after-the-end-of-new-start"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "china",
+       "new-start"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "A treaty lapse; no physical site.",
+      "related_stories": [
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions"
+      ]
+     },
+     "msci-indonesia-standalone": {
+      "id": "msci-indonesia-standalone",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Asia-Pacific",
+      "title": "MSCI moves to drop Indonesia from emerging markets; Jakarta stocks suffer worst day since 1998",
+      "summary": "MSCI proposed reclassifying Indonesia to 'standalone' status, citing ownership opacity and market dysfunction, with consultation until April 2027. Jakarta's benchmark fell 11% to a six-year low after a 30-minute trading halt, and the rupiah slid 0.6% to 18,070 per dollar. UBS estimated about $4 billion of passive outflows and up to $15 billion more from active funds; minister Airlangga Hartarto questioned why MSCI had not raised the step at a meeting in Bangkok this week.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/indonesia-gets-a-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4953255"
+       }
+      ],
+      "entities": [
+       "indonesia",
+       "nickel"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "This is a governance verdict on Prabowo-era policymaking, following negative outlooks from Moody's and Fitch. Capital-flight pressure on the rupiah raises the odds Jakarta leans harder on resource nationalism, including nickel, to fund itself.",
+       "confidence": "possible"
+      },
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Index-provider decision on the whole market; no event site.",
+      "related_stories": []
+     },
+     "2026-02-22-el-mencho-killed": {
+      "id": "2026-02-22-el-mencho-killed",
+      "date": "2026-02-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "Mexican forces kill CJNG boss 'El Mencho' in a US-backed raid",
+      "summary": "Mexican special forces killed Nemesio 'El Mencho' Oseguera, leader of the Jalisco New Generation Cartel, in Tapalpa, Jalisco. US intelligence, including a new Pentagon-led task force, helped find him. The cartel answered with roadblocks and arson across Mexico. President Sheinbaum said US forces shared intelligence but did not take part.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/mexican-drug-lord-el-mencho-killed-military-operation-government-source-2026-02-22/"
+       },
+       {
+        "name": "Reuters (US task force)",
+        "url": "https://www.reuters.com/world/americas/new-us-military-led-group-aided-mexicos-hunt-el-mencho-cartel-boss-2026-02-22/"
+       },
+       {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/02/23/us-intel-backed-operation-that-led-to-killing-of-mexican-drug-lord-00794540"
+       }
+      ],
+      "entities": [
+       "mexico",
+       "cjng",
+       "claudia-sheinbaum",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-03-maduro-captured",
+        "why": "The Caracas raid made the threat of unilateral US action against cartels credible",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-02-20-cartels-fto",
+        "why": "CJNG named a terrorist organisation",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Mexico delivered a major scalp on its own terms to head off unilateral US strikes on its soil.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "where": [
+       "tapalpa"
+      ],
+      "related_stories": [
+       "2026-01-03-maduro-captured",
+       "2025-02-20-cartels-fto"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-10-30-busan-truce": {
+      "id": "2025-10-30-busan-truce",
+      "date": "2025-10-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Asia-Pacific",
+      "title": "Busan truce: China suspends its new rare-earth controls for a year and the US cuts tariffs",
+      "summary": "Trump and Xi met in Busan. Per the White House, China suspended the Oct 9 controls and issued general licences, and the US cut the fentanyl tariff by 10 points and kept its higher reciprocal rates paused until Nov 10 2026. China also committed to soybean purchases.",
+      "sources": [
+       {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/looming-trump-xi-meeting-revives-hope-us-china-trade-truce-2025-10-29/"
+       },
+       {
+        "name": "Reuters (analysis)",
+        "url": "https://www.reuters.com/world/china/trump-xi-amazing-summit-brings-tactical-truce-not-major-reset-2025-10-30/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "donald-trump",
+       "xi-jinping",
+       "rare-earths"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-09-china-rare-earth-expansion",
+        "why": "China's new leverage",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-04-02-liberation-day",
+        "why": "Unwinds the post-April escalation",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "This was a truce, not a settlement: both sides' weapons were suspended to Nov 10 2026, which is why that date hangs over today.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade",
+       "china-minerals-leverage"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "busan"
+      ],
+      "related_stories": [
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-04-02-liberation-day",
+       "rare-earth-nov10",
+       "2026-05-14-trump-xi-beijing",
+       "2025-12-08-h200-china",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "pla-patrol-oct14-15",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-20-scotus-ieepa",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-20-us-australia-minerals"
+      ]
+     },
+     "2025-04-02-liberation-day": {
+      "id": "2025-04-02-liberation-day",
+      "date": "2025-04-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Americas",
+      "title": "'Liberation Day': Trump invokes IEEPA for a 10% global tariff and higher 'reciprocal' rates",
+      "summary": "Executive Order 14257 declared trade deficits a national emergency under IEEPA. It imposed a 10% tariff on all countries from Apr 5 and higher country-specific rates from Apr 9, adding to the earlier IEEPA 'fentanyl' tariffs on Canada, Mexico and China.",
+      "sources": [
+       {
+        "name": "White House (EO 14257)",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/"
+       },
+       {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-unveils-global-reciprocal-tariffs-2025-04-02/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "china",
+       "european-union",
+       "india"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "Basing the tariffs on emergency powers rather than trade statutes made them fast to impose but exposed them in court. That is the weakness the Supreme Court ruled on in Feb 2026.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2025-04-04-china-rare-earth-controls",
+       "rare-earth-nov10",
+       "2022-05-23-ipef",
+       "2022-06-14-msp",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-01-21-greenland-davos",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal"
+      ]
+     },
+     "2025-08-29-indonesia-protests": {
+      "id": "2025-08-29-indonesia-protests",
+      "date": "2025-08-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "Deadly riots shake Indonesia after a police vehicle kills a delivery driver; Sri Mulyani is ousted",
+      "summary": "Protests over lawmakers' housing allowances turned into nationwide riots after a police armoured vehicle ran over delivery driver Affan Kurniawan in Jakarta. Looters hit homes including Finance Minister Sri Mulyani's. On Sep 8 Prabowo replaced her with Purbaya Yudhi Sadewa, who promised faster growth.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/indonesia-protests-ministers-fired-3776bd9365804cda9f7c3f85b2104502"
+       },
+       {
+        "name": "Reuters (explainer)",
+        "url": "https://www.reuters.com/world/asia-pacific/whats-fuelling-rage-indonesia-2025-09-02/"
+       },
+       {
+        "name": "Reuters (Sri Mulyani replaced)",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesia-replaces-respected-finance-minister-with-economist-promising-rapid-2025-09-08/"
+       },
+       {
+        "name": "Jakarta Post",
+        "url": "https://www.thejakartapost.com/indonesia/2025/09/08/president-reshuffles-cabinet-after-weeklong-protest-replacing-sri-mulyani"
+       }
+      ],
+      "entities": [
+       "indonesia",
+       "prabowo-subianto"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "analysis": {
+       "text": "Losing a trusted finance minister and turning to growth-first policy fed the investor doubts behind MSCI's 2026 actions.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "jakarta"
+      ],
+      "related_stories": []
+     },
+     "2025-03-28-myanmar-earthquake": {
+      "id": "2025-03-28-myanmar-earthquake",
+      "date": "2025-03-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "Magnitude-7.7 earthquake devastates central Myanmar in the middle of its civil war",
+      "summary": "A quake on the Sagaing fault near Mandalay killed more than 3,700 people by the junta's count, with satellite assessments showing damage across Sagaing, Mandalay, Nay Pyi Taw and Shan.",
+      "sources": [
+       {
+        "name": "ReliefWeb (UNOSAT/partners damage assessment)",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-m77-28-march-2025-sagaing-earthquake-satellite-based-comprehensive-damage-assessment-report-sagaing-mandalay-shan-north-magway-nay-pyi-taw-shan-south-and-bago-east-regions"
+       },
+       {
+        "name": "Myanmar Ministry of Information",
+        "url": "https://moi.gov.mm/moi:eng/index.php/earthquake-news/18035"
+       },
+       {
+        "name": "Wikipedia (overview)",
+        "url": "https://en.wikipedia.org/wiki/2025_Myanmar_earthquake"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "mandalay"
+      ],
+      "related_stories": []
+     },
+     "2025-12-08-thai-cambodia-war-resumes": {
+      "id": "2025-12-08-thai-cambodia-war-resumes",
+      "date": "2025-12-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "Thailand–Cambodia fighting resumes with airstrikes; a second ceasefire on Dec 27",
+      "summary": "The Kuala Lumpur accords broke down amid accusations of landmine blasts and violations. Thailand launched airstrikes, and some 20 days of fighting followed before a new ceasefire on Dec 27 under ASEAN observation.",
+      "sources": [
+       {
+        "name": "Reuters (how the truce failed)",
+        "url": "https://www.reuters.com/world/asia-pacific/how-thailand-cambodia-conflict-went-trump-backed-ceasefire-airstrikes-2025-12-08/"
+       },
+       {
+        "name": "Reuters (talks)",
+        "url": "https://www.reuters.com/world/asia-pacific/asean-seek-resolution-thailand-cambodia-conflict-with-malaysia-meeting-2025-12-21/"
+       },
+       {
+        "name": "Reuters (second ceasefire)",
+        "url": "https://www.reuters.com/world/asia-pacific/thailand-cambodia-sign-ceasefire-agreement-cambodian-defence-ministry-says-2025-12-27/"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "cambodia"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-26-kl-accords",
+        "why": "The accords broke down",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Along the Thai–Cambodian border.",
+      "related_stories": [
+       "2025-10-26-kl-accords"
+      ]
+     },
+     "2025-04-04-yoon-removed": {
+      "id": "2025-04-04-yoon-removed",
+      "date": "2025-04-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "South Korea's Constitutional Court removes Yoon Suk Yeol over his martial-law decree",
+      "summary": "The court unanimously (8–0) upheld Yoon's impeachment over his Dec 3, 2024 martial-law declaration, finding he deployed troops to the National Assembly, raided the election commission and ordered politicians arrested without any real emergency. A snap election had to follow within 60 days.",
+      "sources": [
+       {
+        "name": "Constitutional Court of Korea",
+        "url": "https://english.ccourt.go.kr/site/eng/decisions/casesearch/caseSearch.do"
+       },
+       {
+        "name": "Yonhap",
+        "url": "https://en.yna.co.kr/view/AEN20250403008556315"
+       },
+       {
+        "name": "Hankyoreh",
+        "url": "https://english.hani.co.kr/arti/english_edition/e_national/1190684.html"
+       },
+       {
+        "name": "Aju Press (ruling text)",
+        "url": "https://www.ajupress.com/view/20250404210137677"
+       }
+      ],
+      "entities": [
+       "south-korea",
+       "yoon-suk-yeol"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "seoul"
+      ],
+      "related_stories": [
+       "2025-06-03-lee-jae-myung-elected"
+      ]
+     },
+     "2025-10-14-madagascar-coup": {
+      "id": "2025-10-14-madagascar-coup",
+      "date": "2025-10-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Africa",
+      "title": "Madagascar's military seizes power after Gen Z protests; president impeached",
+      "summary": "After youth protests over water and power cuts, Col. Michael Randrianirina's CAPSAT unit sided with the protesters. President Rajoelina fled and was impeached, and Randrianirina declared a takeover and was sworn in on Oct 17, promising elections within two years.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/madagascars-president-dissolves-national-assembly-escalating-crisis-2025-10-14/"
+       },
+       {
+        "name": "Reuters (sworn in)",
+        "url": "https://www.reuters.com/world/africa/madagascar-military-ruler-randrianirina-sworn-president-reuters-witness-2025-10-17/"
+       },
+       {
+        "name": "AP timeline",
+        "url": "https://apnews.com/article/madagascar-coup-rajoelina-military-6d56fcb2653557e359ffb74cf0481f41"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo"
+       }
+      ],
+      "entities": [
+       "madagascar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "antananarivo"
+      ],
+      "related_stories": []
+     },
+     "2025-10-10-hwasong-20-parade": {
+      "id": "2025-10-10-hwasong-20-parade",
+      "date": "2025-10-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Asia-Pacific",
+      "title": "North Korea unveils the Hwasong-20 ICBM at a parade attended by China's premier and Russia's Medvedev",
+      "summary": "Marking the Workers' Party's 80th anniversary, Kim showed off the solid-fuel Hwasong-20, which KCNA called its 'most powerful nuclear strategic weapon system'. Chinese Premier Li Qiang, Dmitry Medvedev and Vietnam's To Lam attended.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/north-korea-holds-military-parade-shows-off-new-intercontinental-missile-2025-10-10/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/north-korea-missile-kim-jong-un-8a6b9f3498d50effe3f72969bfe9c842"
+       },
+       {
+        "name": "Yonhap",
+        "url": "https://en.yna.co.kr/view/AEN20251011001351315"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2025/10/10/asia/north-korea-military-parade-new-missiles-intl-hnk-ml"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un",
+       "china",
+       "russia",
+       "to-lam"
+      ],
+      "causes": [
+       {
+        "story": "2025-04-28-dprk-confirms-kursk-troops",
+        "why": "Russian partnership deepened",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "pyongyang"
+      ],
+      "related_stories": [
+       "2025-04-28-dprk-confirms-kursk-troops"
+      ]
+     },
+     "2025-04-28-dprk-confirms-kursk-troops": {
+      "id": "2025-04-28-dprk-confirms-kursk-troops",
+      "date": "2025-04-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Russia/Eurasia",
+      "title": "North Korea and Russia confirm North Korean troops fought in Kursk; Moscow sends air defences and missile know-how",
+      "summary": "After Russia's chief of staff praised them, KCNA confirmed Kim Jong Un had sent troops under the 2024 mutual-defence treaty. Seoul estimated more than 11,000 went in late 2024 and about 3,000 more in early 2025. A May report by the 11-nation Multilateral Sanctions Monitoring Team said Russia supplied Pantsir air defences, electronic-warfare gear and missile-guidance data, and that Pyongyang had shipped some 9 million shells and more than 100 ballistic missiles.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/north-korea-confirms-troop-deployment-russia-first-time-kcna-report-2025-04-27/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/ckg25wxvpy2o"
+       },
+       {
+        "name": "Yonhap",
+        "url": "https://en.yna.co.kr/view/AEN20250428000552315"
+       },
+       {
+        "name": "Yonhap (MSMT report)",
+        "url": "https://en.yna.co.kr/view/AEN20250529001200315"
+       },
+       {
+        "name": "MSMT report (mirror)",
+        "url": "https://www.globalsecurity.org/military/library/report/2025/multilateral-sanctions-monitoring-team-report_msmt_20250529.pdf"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "russia",
+       "kim-jong-un",
+       "ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-24-hwasong17",
+        "why": "North Korea's post-2022 arms build-up made it a supplier",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "analysis": {
+       "text": "Pyongyang traded troops and shells for Russian military technology, which shows up in its 2025–26 missile programme.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "korean-peninsula",
+       "russia-ukraine"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Fighting in Kursk; Kursk has no place entity.",
+      "related_stories": [
+       "2022-03-24-hwasong17",
+       "2025-10-10-hwasong-20-parade"
+      ]
+     },
+     "2025-12-14-kast-chile": {
+      "id": "2025-12-14-kast-chile",
+      "date": "2025-12-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Americas",
+      "title": "Hard-right José Antonio Kast wins Chile's presidency",
+      "summary": "Kast beat Jeannette Jara in the runoff with about 58% of the vote, Chile's sharpest shift to the right since the dictatorship.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/chile-votes-presidential-race-expected-lurch-country-right-2025-12-14/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president"
+       }
+      ],
+      "entities": [
+       "chile",
+       "jose-antonio-kast"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "Part of the swing to the right that carried into Colombia and Brazil in 2026.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2026-06-21-colombia-de-la-espriella"
+      ]
+     },
+     "2025-07-31-mexico-tariff-reprieve": {
+      "id": "2025-07-31-mexico-tariff-reprieve",
+      "date": "2025-07-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-30",
+      "region": "Americas",
+      "title": "Trump gives Mexico a 90-day reprieve from a 30% tariff; USMCA goods stay exempt",
+      "summary": "After a call with Sheinbaum, Trump delayed a threatened 30% tariff. Mexico kept paying the 25% 'fentanyl' tariff on non-USMCA goods, 25% on cars and 50% on steel, aluminium and copper. Mexico said about 85% of its exports met USMCA rules and so stayed exempt.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/sheinbaum-says-mexico-secures-new-tariff-reprieve-90-days-strike-trade-deal-2025-07-31/"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2025/07/31/g-s1-80414/trump-mexico-trade-deal-delay"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/trump-tariffs-canada-mexico-exemption-969a4cfb03638ce9d6c0ffad2b98b4b1"
+       }
+      ],
+      "entities": [
+       "mexico",
+       "united-states",
+       "claudia-sheinbaum",
+       "donald-trump"
+      ],
+      "causes": [
+       {
+        "story": "2025-04-02-liberation-day",
+        "why": "Part of the 2025 tariff escalation",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-02-27-mexico-hands-over-capos",
+        "why": "Security co-operation bought tariff time",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-30",
+      "storylines": [
+       "us-tariffs-trade",
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A phone deal; no site.",
+      "related_stories": [
+       "2025-04-02-liberation-day",
+       "2025-02-27-mexico-hands-over-capos",
+       "2026-02-20-scotus-ieepa",
+       "2026-02-22-el-mencho-killed"
+      ]
+     },
+     "2026-02-20-scotus-ieepa": {
+      "id": "2026-02-20-scotus-ieepa",
+      "date": "2026-02-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Americas",
+      "title": "Supreme Court strikes down Trump's IEEPA tariffs; a 10% global tariff replaces them",
+      "summary": "In Learning Resources v. Trump the Supreme Court held that the emergency-powers law IEEPA does not let the president impose tariffs, voiding the 'reciprocal' and drug-trafficking tariffs. Trump ordered a temporary 10% global tariff for 150 days under Section 122 from Feb 24 and new trade probes under other laws.",
+      "sources": [
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/LSB11398"
+       },
+       {
+        "name": "US Supreme Court opinion",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/24-1287%5Fnew%5F3135.pdf"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/trump-orders-temporary-10-global-tariff-replace-duties-struck-down-by-us-supreme-2026-02-20/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "us-supreme-court",
+       "donald-trump",
+       "china",
+       "mexico"
+      ],
+      "causes": [
+       {
+        "story": "2025-04-02-liberation-day",
+        "why": "The IEEPA tariffs the Court struck down",
+        "confidence": "likely"
+       },
+       {
+        "story": "2025-11-05-scotus-tariff-argument",
+        "why": "Argued in November",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Losing IEEPA took away the fastest tariff weapon, which made trade deals and sector-specific tariffs Washington's main levers for the rest of the year.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A court ruling and executive orders; no event site.",
+      "related_stories": [
+       "2025-04-02-liberation-day",
+       "2025-11-05-scotus-tariff-argument",
+       "2026-05-14-trump-xi-beijing",
+       "trump-waives-russia-sanctions",
+       "2026-09-18-graham-act-signed",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-06-06-wagner-leaves-mali": {
+      "id": "2025-06-06-wagner-leaves-mali",
+      "date": "2025-06-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Africa",
+      "title": "Wagner leaves Mali and the state-run Africa Corps takes over",
+      "summary": "Wagner said it was leaving Mali after about three and a half years. Russia's defence-ministry-controlled Africa Corps said it would stay, with Crisis Group describing a shift toward training and protection roles.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/russias-wagner-mercenary-group-says-it-is-leaving-mali-after-mission-2025-06-06/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/mali-wagner-russia-withdraws-b29349be737cbc14dfc435b3536711eb"
+       },
+       {
+        "name": "International Crisis Group",
+        "url": "https://www.crisisgroup.org/alr/africa/sahel/mali-russia-internal/mali-and-russia-restructure-their-security-partnership-what-end"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "africa-corps",
+       "mali",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2021-12-wagner-mali",
+        "why": "Ends the deployment that began in 2021",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "A smaller, less combat-focused Russian force left Bamako's junta more exposed, as the April 2026 offensive showed.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "unplaced": "Country-wide withdrawal.",
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "kidal",
+       "2026-04-25-mali-offensive",
+       "2025-09-jnim-fuel-blockade"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "north-korea--alliance--russia": null,
+     "thailand--rivalry--cambodia": null,
+     "russia--patron-proxy--niger": null
+    },
+    "storylines": {
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal"
+      ],
+      "source": "inbox"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes"
+      ],
+      "source": "inbox"
+     },
+     "korean-peninsula": {
+      "id": "korean-peninsula",
+      "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+      "entities": [
+       "south-korea",
+       "north-korea",
+       "russia",
+       "yoon-suk-yeol",
+       "lee-jae-myung",
+       "kim-jong-un"
+      ],
+      "stories": [
+       "2025-04-04-yoon-removed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-06-03-lee-jae-myung-elected",
+       "2025-10-10-hwasong-20-parade",
+       "2025-10-29-us-korea-gyeongju-deal"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade"
+      ],
+      "source": "threads.md"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

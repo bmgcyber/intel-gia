@@ -6642,7 +6642,13 @@
    "indonesia",
    "nickel"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2026-01-28-msci-indonesia-freeze",
+    "why": "MSCI's January freeze escalated to a standalone proposal",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-10-16",
   "analysis": {
@@ -6652,7 +6658,22 @@
   "era": "2020s",
   "marker": "political",
   "unplaced": "Index-provider decision on the whole market; no event site.",
-  "related_stories": []
+  "related_stories": [
+   "2026-01-28-msci-indonesia-freeze"
+  ],
+  "storylines": [
+   "southeast-asia"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-29",
+    "why": "Gap backfill: link to earlier events",
+    "fields": [
+     "storylines",
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "pla-patrol-oct15-16",
@@ -8134,15 +8155,33 @@
    "china",
    "new-start"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-09-22-putin-new-start-offer",
+    "why": "Putin's one-year offer went unanswered before expiry",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-03-31",
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
   "unplaced": "A treaty lapse; no physical site.",
   "related_stories": [
+   "2025-09-22-putin-new-start-offer",
    "saudi-blames-iran-eu-gcc-postponed",
-   "trump-waives-russia-sanctions"
+   "trump-waives-russia-sanctions",
+   "2026-09-18-graham-act-signed",
+   "2025-11-06-c5-plus-1-summit"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-29",
+    "why": "Gap backfill: link to earlier events",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8365,7 +8404,8 @@
    "trump-waives-russia-sanctions",
    "2026-09-18-graham-act-signed",
    "2025-10-30-busan-truce",
-   "2025-12-08-h200-china"
+   "2025-12-08-h200-china",
+   "2026-07-01-usmca-review"
   ],
   "revisions": [
    {
@@ -8416,6 +8456,11 @@
     "story": "2025-02-20-cartels-fto",
     "why": "CJNG named a terrorist organisation",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-02-27-mexico-hands-over-capos",
+    "why": "Mexico's 2025 shift to handing cartel bosses to the US",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -8434,12 +8479,22 @@
   ],
   "related_stories": [
    "2026-01-03-maduro-captured",
-   "2025-02-20-cartels-fto"
+   "2025-02-20-cartels-fto",
+   "2025-02-27-mexico-hands-over-capos",
+   "2025-07-31-mexico-tariff-reprieve",
+   "2026-07-01-usmca-review"
   ],
   "revisions": [
    {
     "edition": "2025-12-31",
     "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-29",
+    "why": "Gap backfill: link to earlier events",
     "fields": [
      "causes"
     ]
@@ -12695,7 +12750,8 @@
    "2025-10-30-busan-truce",
    "2025-11-05-scotus-tariff-argument",
    "2025-07-31-mexico-tariff-reprieve",
-   "2025-10-29-us-korea-gyeongju-deal"
+   "2025-10-29-us-korea-gyeongju-deal",
+   "2026-01-14-china-trillion-surplus"
   ]
  },
  {
@@ -13164,7 +13220,8 @@
    "2021-12-wagner-mali",
    "kidal",
    "2026-04-25-mali-offensive",
-   "2025-09-jnim-fuel-blockade"
+   "2025-09-jnim-fuel-blockade",
+   "2026-08-29-niger-mutiny"
   ]
  },
  {
@@ -14393,7 +14450,9 @@
   "where": [
    "antananarivo"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-03-09-madagascar-government-dismissed"
+  ]
  },
  {
   "id": "2025-10-19-afpak-doha-ceasefire",
@@ -14813,7 +14872,8 @@
    "2026-09-23-us-china-fragile-truce",
    "2025-04-04-china-rare-earth-controls",
    "2025-07-10-mp-materials-dod",
-   "2025-10-20-us-australia-minerals"
+   "2025-10-20-us-australia-minerals",
+   "2026-01-14-china-trillion-surplus"
   ]
  },
  {
@@ -15379,7 +15439,8 @@
   "marker": "political",
   "unplaced": "A national election.",
   "related_stories": [
-   "2026-06-21-colombia-de-la-espriella"
+   "2026-06-21-colombia-de-la-espriella",
+   "2026-06-07-peru-fujimori-wins"
   ]
  },
  {
@@ -15651,7 +15712,9 @@
   "where": [
    "mandalay"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-01-30-myanmar-junta-election"
+  ]
  },
  {
   "id": "2025-04-04-yoon-removed",
@@ -15696,7 +15759,8 @@
    "seoul"
   ],
   "related_stories": [
-   "2025-06-03-lee-jae-myung-elected"
+   "2025-06-03-lee-jae-myung-elected",
+   "2026-02-19-yoon-life-sentence"
   ]
  },
  {
@@ -15758,7 +15822,8 @@
   "unplaced": "Fighting in Kursk; Kursk has no place entity.",
   "related_stories": [
    "2022-03-24-hwasong17",
-   "2025-10-10-hwasong-20-parade"
+   "2025-10-10-hwasong-20-parade",
+   "2026-03-29-hwasong-20-engine-test"
   ]
  },
  {
@@ -15903,7 +15968,8 @@
    "2025-04-02-liberation-day",
    "2025-02-27-mexico-hands-over-capos",
    "2026-02-20-scotus-ieepa",
-   "2026-02-22-el-mencho-killed"
+   "2026-02-22-el-mencho-killed",
+   "2026-07-01-usmca-review"
   ]
  },
  {
@@ -15952,7 +16018,9 @@
   "where": [
    "jakarta"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-01-28-msci-indonesia-freeze"
+  ]
  },
  {
   "id": "2025-09-22-putin-new-start-offer",
@@ -16050,7 +16118,8 @@
    "pyongyang"
   ],
   "related_stories": [
-   "2025-04-28-dprk-confirms-kursk-troops"
+   "2025-04-28-dprk-confirms-kursk-troops",
+   "2026-03-29-hwasong-20-engine-test"
   ]
  },
  {
@@ -16320,7 +16389,714 @@
   "marker": "military",
   "unplaced": "Along the Thai–Cambodian border.",
   "related_stories": [
-   "2025-10-26-kl-accords"
+   "2025-10-26-kl-accords",
+   "2026-02-08-thai-election-anutin"
   ]
+ },
+ {
+  "id": "2026-01-14-china-trillion-surplus",
+  "date": "2026-01-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "China's trade surplus tops $1.1 trillion in 2025 as exports swerve around US tariffs; GDP hits 5%",
+  "summary": "Customs data showed a record goods surplus of about $1.19trn, with exports diverted to markets outside the US. GDP grew 5.0% in 2025, with net exports doing much of the work. The IMF noted consumer inflation of about zero and a falling GDP deflator amid the property slump.",
+  "sources": [
+   {
+    "name": "Reuters (trade)",
+    "url": "https://www.reuters.com/world/china/chinas-trade-ends-2025-with-record-trillion-dollar-surplus-despite-trump-tariffs-2026-01-14/"
+   },
+   {
+    "name": "Reuters (GDP)",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-q4-gdp-grows-45-yy-just-ahead-market-forecast-2026-01-19/"
+   },
+   {
+    "name": "National Bureau of Statistics of China",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202602/t20260228%5F1962661.html"
+   },
+   {
+    "name": "IMF Article IV",
+    "url": "https://www.imf.org/en/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf"
+   }
+  ],
+  "entities": [
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-30-busan-truce",
+    "why": "Trade truce with the US",
+    "confidence": "possible"
+   },
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "US tariffs redirected Chinese exports",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "analysis": {
+   "text": "A trillion-dollar surplus pushed China's deflation outward, adding to trade frictions with Europe and the Global South.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "National data.",
+  "related_stories": [
+   "2025-10-30-busan-truce",
+   "2025-04-02-liberation-day"
+  ]
+ },
+ {
+  "id": "2026-01-28-msci-indonesia-freeze",
+  "date": "2026-01-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "MSCI freezes Indonesian index changes over free-float concerns; Jakarta stocks plunge",
+  "summary": "MSCI froze foreign-inclusion increases and new Indonesian additions, citing opaque ownership. The Jakarta Composite fell about 7.4% with a trading halt, and regulators promised a 15% free-float rule while Purbaya called the reaction excessive.",
+  "sources": [
+   {
+    "name": "MSCI announcement",
+    "url": "https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=4YgVKowBJiE%3D"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-28/msci-halts-indonesia-index-changes-flags-transparency-risks"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-financial-regulator-says-it-will-impose-15-stock-free-float-2026-01-29/"
+   },
+   {
+    "name": "Tempo",
+    "url": "https://en.tempo.co/read/2083716/purbaya-dismisses-ihsg-turmoil-as-fundamental-weakness"
+   }
+  ],
+  "entities": [
+   "indonesia",
+   "msci"
+  ],
+  "causes": [
+   {
+    "story": "2025-08-29-indonesia-protests",
+    "why": "Policy shift after the protests unsettled investors",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "where": [
+   "jakarta"
+  ],
+  "related_stories": [
+   "2025-08-29-indonesia-protests",
+   "msci-indonesia-standalone"
+  ]
+ },
+ {
+  "id": "2026-01-23-to-lam-new-term",
+  "date": "2026-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "Vietnam's To Lam wins a new term as party chief, then adds the state presidency in April",
+  "summary": "The 14th Party Congress unanimously re-elected To Lam general secretary for 2026–31. On Apr 7 the National Assembly also elected him state president, combining the top party and state posts.",
+  "sources": [
+   {
+    "name": "Reuters (Congress)",
+    "url": "https://www.reuters.com/world/asia-pacific/vietnam-communist-party-confirms-lam-leader-next-5-years-2026-01-23/"
+   },
+   {
+    "name": "Reuters (presidency)",
+    "url": "https://www.reuters.com/world/asia-pacific/vietnam-parliament-elects-party-leader-lam-new-state-president-2026-04-07/"
+   },
+   {
+    "name": "VOV",
+    "url": "https://english.vov.vn/en/politics/domestic/vietnam-wraps-up-14th-party-congress-confirms-top-leadership-lineup-post1263739.vov"
+   }
+  ],
+  "entities": [
+   "vietnam",
+   "to-lam"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "Hanoi has no place entity.",
+  "related_stories": []
+ },
+ {
+  "id": "2026-01-30-myanmar-junta-election",
+  "date": "2026-01-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "Myanmar's military-backed USDP wins a phased election held amid civil war",
+  "summary": "With Aung San Suu Kyi's NLD dissolved and much of the country out of the junta's control, the USDP won 339 of 420 elected seats. With the military's reserved seats, the pro-army bloc held about 86% of parliament, which elected coup leader Min Aung Hlaing president on Apr 3.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/myanmar-election-delivers-victory-military-backed-party-amid-civil-war-2026-01-30/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/myanmar-election-usdp-party-min-aung-hlaing-ce432b0d344e11b54a537d5f2c7b5dd9"
+   },
+   {
+    "name": "Reuters (president)",
+    "url": "https://www.reuters.com/world/asia-pacific/myanmars-junta-chief-set-parliamentary-vote-presidential-bid-2026-04-03/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament"
+   }
+  ],
+  "entities": [
+   "myanmar",
+   "min-aung-hlaing"
+  ],
+  "causes": [
+   {
+    "story": "2025-03-28-myanmar-earthquake",
+    "why": "The junta pressed ahead with its election plan",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-03-28-myanmar-earthquake"
+  ]
+ },
+ {
+  "id": "2026-02-08-thai-election-anutin",
+  "date": "2026-02-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "Anutin's Bhumjaithai wins Thailand's election after the border war",
+  "summary": "Bhumjaithai won 192 of 500 seats, the People's Party 120 and Pheu Thai 74. Anutin formed a coalition with Pheu Thai and was re-elected prime minister on Mar 19.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/thailand-votes-three-way-race-risk-instability-looms-2026-02-08/"
+   },
+   {
+    "name": "IPU Parline",
+    "url": "https://data.ipu.org/parliament/TH/TH-LC01/election/TH-LC01-E20260208"
+   },
+   {
+    "name": "Reuters (certified)",
+    "url": "https://www.reuters.com/world/asia-pacific/thai-poll-body-certifies-election-results-clearing-path-new-parliament-2026-03-04/"
+   }
+  ],
+  "entities": [
+   "thailand",
+   "anutin-charnvirakul"
+  ],
+  "causes": [
+   {
+    "story": "2025-12-08-thai-cambodia-war-resumes",
+    "why": "The border war boosted the nationalist incumbent",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-12-08-thai-cambodia-war-resumes"
+  ]
+ },
+ {
+  "id": "2026-02-19-yoon-life-sentence",
+  "date": "2026-02-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "Yoon Suk Yeol sentenced to life for leading an insurrection",
+  "summary": "The Seoul Central District Court found that the 2024 martial-law decree was an insurrection aimed at paralysing the National Assembly, and gave him life imprisonment (prosecutors had sought death). His appeal is due to be argued through about Nov 5.",
+  "sources": [
+   {
+    "name": "Yonhap",
+    "url": "https://en.yna.co.kr/view/AEN20260219001853315"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korea-braces-verdict-expresident-yoons-insurrection-trial-2026-02-19/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea"
+   },
+   {
+    "name": "Herald Business (appeal)",
+    "url": "https://biz.heraldcorp.com/article/10904238"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "yoon-suk-yeol"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-04-yoon-removed",
+    "why": "Criminal trial after removal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": [
+   "2025-04-04-yoon-removed"
+  ]
+ },
+ {
+  "id": "2026-03-09-madagascar-government-dismissed",
+  "date": "2026-03-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Africa",
+  "title": "Madagascar's military ruler sacks his government as Gen Z frustration grows",
+  "summary": "Randrianirina dismissed Prime Minister Rajaonarivelo and the cabinet, then named anti-corruption chief Mamitiana Rajaonarison prime minister with a 30-member cabinet. Arrests of protesters followed in April. A constitutional referendum is planned for June 2027 and a presidential election for October 2027.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/madagascars-president-randrianirina-dismisses-prime-minister-cabinet-2026-03-09/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c39wywm298lo"
+   },
+   {
+    "name": "Reuters (new PM)",
+    "url": "https://www.reuters.com/world/africa/madagascar-president-names-mamitiana-rajaonarison-prime-minister-2026-03-15/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime"
+   },
+   {
+    "name": "Africanews (election timetable)",
+    "url": "https://www.africanews.com/2026/05/11/madagascar-presidential-election-scheduled-for-october-2027/"
+   },
+   {
+    "name": "RFI (one year on)",
+    "url": "https://www.rfi.fr/en/africa/20261012-a-year-after-madagascar-s-gen-z-protests-and-rajoelina-s-ouster-little-promised-change"
+   }
+  ],
+  "entities": [
+   "madagascar"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-14-madagascar-coup",
+    "why": "Instability of the post-coup transition",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "where": [
+   "antananarivo"
+  ],
+  "related_stories": [
+   "2025-10-14-madagascar-coup"
+  ]
+ },
+ {
+  "id": "2026-03-29-hwasong-20-engine-test",
+  "date": "2026-03-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "North Korea tests a 2,500 kN solid-fuel ICBM engine; Wonsan missile salvos follow in April",
+  "summary": "KCNA said Kim oversaw a ground test of a carbon-fibre solid-fuel engine with 2,500 kN of thrust, up from 1,971 kN in Sep 2025 and probably meant for the Hwasong-20. In April Pyongyang fired several days of short-range missile salvos near Wonsan. No ICBM has flown since the Hwasong-19 in Oct 2024.",
+  "sources": [
+   {
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/week-asia/politics/article/3348280/north-tests-powerful-missile-engine-will-icbm-launch-follow"
+   },
+   {
+    "name": "Asia Business Daily",
+    "url": "https://www.asiae.co.kr/en/article/2026033014265511833"
+   },
+   {
+    "name": "Asia Business Daily (April launches)",
+    "url": "https://www.asiae.co.kr/en/article/2026040809453628465"
+   },
+   {
+    "name": "Modern Diplomacy",
+    "url": "https://moderndiplomacy.eu/2026/06/17/after-hwasong-20-washington-needs-a-new-north-korea-strategy/"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-10-hwasong-20-parade",
+    "why": "Engine for the missile unveiled in October",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-04-28-dprk-confirms-kursk-troops",
+    "why": "Russian technical aid suspected",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "where": [
+   "wonsan"
+  ],
+  "related_stories": [
+   "2025-10-10-hwasong-20-parade",
+   "2025-04-28-dprk-confirms-kursk-troops",
+   "2026-09-20-dprk-hypersonic-test"
+  ]
+ },
+ {
+  "id": "2026-06-07-peru-fujimori-wins",
+  "date": "2026-06-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Americas",
+  "title": "Keiko Fujimori narrowly wins Peru's presidency on her fourth attempt",
+  "summary": "Fujimori beat leftist Roberto Sánchez in the runoff with 50.135% to 49.865%, a margin of about 50,000 votes. The JNE proclaimed her president-elect for 2026–31.",
+  "sources": [
+   {
+    "name": "JNE",
+    "url": "https://www.gob.pe/institucion/jne/noticias/1414770-jne-proclama-a-keiko-fujimori-higuchi-como-presidenta-electa-de-la-republica"
+   },
+   {
+    "name": "ONPE results",
+    "url": "https://resultadosegundavuelta.onpe.gob.pe/main/resumen/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/keiko-fujimori-declared-winner-peru-presidential-race-2026-07-03/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/peru-election-keiko-fujimori-presidential-runoff-b86901d627e3305da6da68d61468f1e8"
+   }
+  ],
+  "entities": [
+   "peru",
+   "keiko-fujimori"
+  ],
+  "causes": [
+   {
+    "story": "2025-12-14-kast-chile",
+    "why": "Part of the region's swing to the right",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-12-14-kast-chile"
+  ]
+ },
+ {
+  "id": "2026-07-01-usmca-review",
+  "date": "2026-07-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Americas",
+  "title": "US declines to renew USMCA at its joint review, putting the pact on annual reviews",
+  "summary": "At the six-year review the US refused to extend the agreement as it stands while Mexico and Canada backed renewal. The pact stays in force but now faces annual reviews until 2036 unless extended. US–Mexico bilateral talks continued, with differences over auto content.",
+  "sources": [
+   {
+    "name": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-trump-demands-2026-07-01/"
+   },
+   {
+    "name": "Government of Canada",
+    "url": "https://www.canada.ca/en/global-affairs/news/2026/07/statement-by-minister-leblanc-following-trilateral-cusma-joint-review-meeting.html"
+   },
+   {
+    "name": "Reuters (Mexico talks)",
+    "url": "https://www.reuters.com/world/americas/us-mexico-set-fourth-round-usmca-talks-amid-differences-over-key-issues-2026-07-24/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "mexico",
+   "claudia-sheinbaum"
+  ],
+  "causes": [
+   {
+    "story": "2025-07-31-mexico-tariff-reprieve",
+    "why": "Tariff truce carried into the review",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-02-20-scotus-ieepa",
+    "why": "With IEEPA tariffs struck down, the review became the main lever",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "us-tariffs-trade",
+   "western-hemisphere"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A trade review; no site.",
+  "related_stories": [
+   "2025-07-31-mexico-tariff-reprieve",
+   "2026-02-20-scotus-ieepa",
+   "2026-02-22-el-mencho-killed",
+   "2025-02-27-mexico-hands-over-capos"
+  ]
+ },
+ {
+  "id": "2026-07-17-knesset-dissolves",
+  "date": "2026-07-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Middle East",
+  "title": "Knesset dissolves itself; Israel votes on Oct 27",
+  "summary": "Lawmakers voted 62–0 to end the Knesset's term on Jul 17, setting the election for the 26th Knesset on Oct 27, the first since the Oct 7 attacks and the Iran war.",
+  "sources": [
+   {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/h1nremv4gl"
+   },
+   {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/knesset-election-set-for-october-27-with-government-set-to-complete-full-term/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/israel-knesset-elections-netanyahu-644a8927076eb4089257a38909a0f0f6"
+   },
+   {
+    "name": "Israel Interior Ministry",
+    "url": "http://www.gov.il/en/pages/knesset-elections-2026"
+   }
+  ],
+  "entities": [
+   "israel",
+   "knesset",
+   "benjamin-netanyahu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "analysis": {
+   "text": "The Oct 27 vote will decide who manages the stalled Gaza phase two, Lebanon and the Iran endgame.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "Jerusalem has no place entity.",
+  "related_stories": []
+ },
+ {
+  "id": "2026-08-29-niger-mutiny",
+  "date": "2026-08-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Africa",
+  "title": "Mutineers attack Niamey's airport and presidency; Russian Africa Corps helps crush the revolt",
+  "summary": "Soldiers attacked the airport and Base 101, the presidency and state media in what observers called a coup attempt against Gen. Tiani. Loyalists, aided by Russia's Africa Corps, regained control within about a day. Dozens were killed or arrested, and Tiani then purged the army command.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/gunfire-blasts-heard-several-areas-niger-capital-niamey-witness-says-2026-08-29/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/niger-niamey-russia-africacorps-mutiny-e8a26d5b74160d80d56a010f3932ee7d"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny"
+   },
+   {
+    "name": "DW (French)",
+    "url": "https://www.dw.com/fr/niger-apres-mutinerie-focus-sahel-plus/a-79282787"
+   }
+  ],
+  "entities": [
+   "niger",
+   "abdourahamane-tiani",
+   "africa-corps",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2025-06-06-wagner-leaves-mali",
+    "why": "Russia's Africa Corps took over junta protection",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "where": [
+   "niamey"
+  ],
+  "related_stories": [
+   "2025-06-06-wagner-leaves-mali"
+  ]
+ },
+ {
+  "id": "2026-09-20-dprk-hypersonic-test",
+  "date": "2026-09-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Asia-Pacific",
+  "title": "North Korea tests an upgraded Hwasongpho-11Ma hypersonic missile",
+  "summary": "South Korea's JCS tracked two missiles from the Wonsan area flying about 450 km and more than 600 km. KCNA said Kim declared hypersonic research complete and moving to deployment.",
+  "sources": [
+   {
+    "name": "USNI News",
+    "url": "https://news.usni.org/2026/09/23/north-korea-tests-new-hypersonic-missile"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un"
+  ],
+  "causes": [
+   {
+    "story": "2026-03-29-hwasong-20-engine-test",
+    "why": "Continuing missile campaign",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "where": [
+   "wonsan"
+  ],
+  "related_stories": [
+   "2026-03-29-hwasong-20-engine-test"
+  ]
+ },
+ {
+  "id": "2026-09-20-duma-election",
+  "date": "2026-09-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-29",
+  "region": "Russia/Eurasia",
+  "title": "United Russia keeps a constitutional majority in a wartime Duma election",
+  "summary": "In the Sep 18–20 vote, the CEC's final results gave United Russia 349 of 450 seats, the Communists 37, LDPR 23, New People 19 and A Just Russia 17, on turnout of 59.8%.",
+  "sources": [
+   {
+    "name": "State Duma",
+    "url": "http://duma.gov.ru/news/64124/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/russia-parliament-election-duma-putin-ukraine-da0abcee5249692473a1fd7c02814ebc"
+   },
+   {
+    "name": "Kommersant",
+    "url": "https://www.kommersant.ru/doc/8987330"
+   },
+   {
+    "name": "Xinhua",
+    "url": "https://english.news.cn/20260925/dd266dac84b14157bec1ecf052df752c/c.html"
+   }
+  ],
+  "entities": [
+   "russia",
+   "vladimir-putin"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-09-29",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": []
  }
 ]
