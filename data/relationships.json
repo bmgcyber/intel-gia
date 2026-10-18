@@ -863,5 +863,51 @@
   "evidence": [
    "2020-11-04-tigray-war"
   ]
+ },
+ {
+  "id": "pakistan--patron-proxy--taliban",
+  "a": "pakistan",
+  "b": "taliban",
+  "type": "patron-proxy",
+  "start": "1994",
+  "end": null,
+  "stated": "Pakistan denies directing the Taliban",
+  "actual": "Long-time sponsor whose client turned hostile after 2021",
+  "confidence": "likely",
+  "evidence": [
+   "2021-08-15-fall-of-kabul",
+   "2026-02-26-pakistan-afghanistan-war"
+  ]
+ },
+ {
+  "id": "united-states--alliance--australia",
+  "a": "united-states",
+  "b": "australia",
+  "type": "alliance",
+  "start": "1951",
+  "end": null,
+  "stated": "ANZUS treaty allies",
+  "actual": "AUKUS deepened the alliance against China",
+  "confidence": "likely",
+  "evidence": [
+   "2021-09-15-aukus",
+   "2023-03-13-aukus-pathway"
+  ]
+ },
+ {
+  "id": "china--rivalry--united-states",
+  "a": "china",
+  "b": "united-states",
+  "type": "rivalry",
+  "start": "2018",
+  "end": null,
+  "stated": "Competition with guardrails",
+  "actual": "Strategic rivalry across trade, tech and Taiwan",
+  "confidence": "likely",
+  "evidence": [
+   "2023-02-04-spy-balloon",
+   "2023-11-15-biden-xi-woodside",
+   "2021-03-12-quad-summit-anchorage"
+  ]
  }
 ]
