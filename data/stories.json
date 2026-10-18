@@ -27587,7 +27587,8 @@
   "marker": "political",
   "unplaced": "Trade measures; no single site.",
   "related_stories": [
-   "2022-04-19-solomon-pact"
+   "2022-04-19-solomon-pact",
+   "2020-10-06-quad-tokyo-malabar"
   ]
  },
  {
@@ -27635,7 +27636,8 @@
    "galwan-river"
   ],
   "related_stories": [
-   "2023-09-09-delhi-g20"
+   "2023-09-09-delhi-g20",
+   "2020-10-06-quad-tokyo-malabar"
   ]
  },
  {
@@ -28060,7 +28062,8 @@
    "2026-02-28-iran-war-begins",
    "2025-06-22-midnight-hammer",
    "2025-10-10-gaza-ceasefire-trump-plan",
-   "2020-11-14-western-sahara-clashes"
+   "2020-11-14-western-sahara-clashes",
+   "2020-12-14-sudan-delisted"
   ]
  },
  {
@@ -28960,6 +28963,393 @@
   ],
   "related_stories": [
    "2020-01-31-brexit"
+  ]
+ },
+ {
+  "id": "2020-05-26-george-floyd-protests",
+  "date": "2020-05-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Americas",
+  "title": "George Floyd's murder by Minneapolis police sets off nationwide protests",
+  "summary": "Protests began in Minneapolis the day after officer Derek Chauvin knelt on Floyd's neck for more than nine minutes. They spread to more than 2,000 US towns and over 60 countries; Chauvin was convicted of murder in April 2021.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/George_Floyd_protests"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/05/29/864818368/the-history-behind-when-the-looting-starts-the-shooting-starts"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/05/29/us/derek-chauvin-criminal-complaint-trnd/index.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "donald-trump"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "minneapolis"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-07-02-natanz-fire",
+  "date": "2020-07-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Middle East",
+  "title": "Explosion wrecks a centrifuge assembly hall at Natanz",
+  "summary": "The blast was one of a series of mysterious explosions across Iran from late June 2020. Iran acknowledged damage at its main enrichment site; Western and Iranian officials pointed to Israeli sabotage.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Iran_explosions"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2020/07/factory-blast-iran-capital-kills-latest-explosion-200707124705165.html"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2020/07/05/world/middleeast/iran-Natanz-nuclear-damage.html"
+   }
+  ],
+  "entities": [
+   "iran",
+   "israel",
+   "iaea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "where": [
+   "natanz"
+  ],
+  "related_stories": [
+   "2020-11-27-fakhrizadeh-killed"
+  ]
+ },
+ {
+  "id": "2020-10-06-quad-tokyo-malabar",
+  "date": "2020-10-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Asia-Pacific",
+  "title": "The Quad's foreign ministers meet in Tokyo and Australia rejoins Malabar naval drills",
+  "summary": "Quad foreign ministers met in Tokyo in October 2020, and in November Australia joined the US, India and Japan in Exercise Malabar for the first time since 2007, a 'non-contact, at sea only' drill because of COVID.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malabar_%28naval_exercise%29"
+   }
+  ],
+  "entities": [
+   "quad",
+   "united-states",
+   "india",
+   "japan",
+   "australia",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2020-06-15-galwan-clash",
+    "why": "Galwan pushed India toward the Quad",
+    "confidence": "possible"
+   },
+   {
+    "story": "2020-05-australia-china-trade-war",
+    "why": "China's coercion of Australia",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "where": [
+   "tokyo"
+  ],
+  "related_stories": [
+   "2020-06-15-galwan-clash",
+   "2020-05-australia-china-trade-war",
+   "rare-earth-nov10",
+   "2022-05-23-ipef",
+   "2022-08-04-pla-drills",
+   "trump-waives-russia-sanctions",
+   "2025-12-29-justice-mission-drills",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-10-20-us-australia-minerals",
+   "2023-03-13-aukus-pathway",
+   "2020-11-15-rcep"
+  ]
+ },
+ {
+  "id": "2020-10-29-nice-vienna-attacks",
+  "date": "2020-10-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Europe",
+  "title": "Jihadist attacks in Nice and Vienna",
+  "summary": "A Tunisian attacker killed three people in Nice's Notre-Dame basilica on Oct 29. On Nov 2 an Islamic State sympathiser killed four in central Vienna before police shot him.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Nice_stabbing"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Vienna_attack"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2020/oct/29/france-will-not-give-in-to-terror-after-nice-attack-macron-says"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2020/11/02/europe/vienna-shooting-intl/index.html"
+   }
+  ],
+  "entities": [
+   "france",
+   "austria",
+   "islamic-state",
+   "emmanuel-macron"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "where": [
+   "nice",
+   "vienna"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-11-03-ant-ipo-halted",
+  "date": "2020-11-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Asia-Pacific",
+  "title": "Chinese regulators halt Ant Group's record IPO",
+  "summary": "Two days before Ant's planned $34.5bn listing, the Shanghai exchange suspended it after regulators summoned Jack Ma. It began Beijing's crackdown on its tech giants.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ant_Group"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/11/03/930799521/regulators-squash-giant-ant-ipo"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2020/11/03/technology/ant-ipo-jack-ma-summoned.html"
+   }
+  ],
+  "entities": [
+   "ant-group",
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "shanghai"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-11-26-farmers-protest",
+  "date": "2020-11-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Asia-Pacific",
+  "title": "Indian farmers march on Delhi against Modi's farm laws",
+  "summary": "Unions, mainly from Punjab and Haryana, began the 'Dilli Chalo' march against three farm acts passed in September 2020 and camped on Delhi's borders for a year until the laws were repealed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020%E2%80%932021_Indian_farmers%27_protest"
+   },
+   {
+    "name": "The Guardian",
+    "url": "http://www.theguardian.com/world/2020/nov/30/indian-farmers-march-on-delhi-in-protest-against-agriculture-laws"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2020/11/30/world/asia/india-farmers-protest.html"
+   }
+  ],
+  "entities": [
+   "india",
+   "narendra-modi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "where": [
+   "delhi"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2020-12-06-venezuela-assembly-vote",
+  "date": "2020-12-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Americas",
+  "title": "Maduro's allies take the National Assembly in a vote the opposition boycotted",
+  "summary": "The main opposition parties, including the four largest, refused to take part, citing irregularities and courts that had seized their party leaderships. The assembly was expanded to 277 seats.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_Venezuelan_parliamentary_election"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20201206-voting-opens-in-venezuela-s-parliamentary-elections-amid-calls-for-boycott"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "nicolas-maduro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
+ },
+ {
+  "id": "2020-12-13-solarwinds-hack",
+  "date": "2020-12-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Americas",
+  "title": "SolarWinds hack: suspected Russian spies breached US agencies for months",
+  "summary": "A supply-chain attack through SolarWinds software gave hackers access from no later than March 2020 to the Treasury, Commerce and other agencies, NATO, the UK government and Microsoft. US officials blamed Russia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2020/12/13/cyber-hack-on-us-treasury-by-foreign-government-.html"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2020/12/19/948318197/pompeo-russia-pretty-clearly-behind-massive-solarwinds-cyberattack"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "solarwinds"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "strike",
+  "unplaced": "Cyberattack across many networks.",
+  "related_stories": []
+ },
+ {
+  "id": "2020-12-14-sudan-delisted",
+  "date": "2020-12-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2020-12-30",
+  "region": "Africa",
+  "title": "US removes Sudan from its terrorism-sponsor list",
+  "summary": "Trump had tied the move to $335m in compensation for victims of al-Qaeda attacks; Sudan agreed to establish relations with Israel and was delisted on Dec 14.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sudan%E2%80%93United_States_relations"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/US-designated_state_sponsors_of_terrorism"
+   }
+  ],
+  "entities": [
+   "sudan",
+   "united-states",
+   "israel",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2020-08-13-abraham-accords",
+    "why": "Sudan joined the normalisation wave",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2020-12-30",
+  "storylines": [
+   "sudan-war",
+   "gulf-realignment"
+  ],
+  "era": "2020 (pandemic year)",
+  "marker": "diplomacy",
+  "unplaced": "Policy decision.",
+  "related_stories": [
+   "2020-08-13-abraham-accords",
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan"
   ]
  }
 ]

@@ -33806,6 +33806,540 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2020-12-30": {
+   "sha256": "b3019eefb01da6e791ca2af5239a4865d2aecc2969317dc43922fb0e81501bed",
+   "undo": {
+    "stories": {
+     "2020-05-26-george-floyd-protests": null,
+     "2020-07-02-natanz-fire": null,
+     "2020-10-06-quad-tokyo-malabar": null,
+     "2020-10-29-nice-vienna-attacks": null,
+     "2020-11-03-ant-ipo-halted": null,
+     "2020-11-26-farmers-protest": null,
+     "2020-12-06-venezuela-assembly-vote": null,
+     "2020-12-13-solarwinds-hack": null,
+     "2020-12-14-sudan-delisted": null,
+     "2020-06-15-galwan-clash": {
+      "id": "2020-06-15-galwan-clash",
+      "date": "2020-06-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "Galwan Valley clash kills 20 Indian soldiers in the first deadly China–India border fight in decades",
+      "summary": "Troops fought with clubs and stones in Ladakh amid a standoff that began in May. China later acknowledged four deaths. India banned dozens of Chinese apps and tightened Chinese investment rules.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/jun/16/india-says-soldiers-killed-on-disputed-himalayan-border-with-china"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/06/china-releases-indian-soldiers-days-ladakh-clash-reports-200619033527314.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020–2021_China–India_skirmishes"
+       }
+      ],
+      "entities": [
+       "india",
+       "china",
+       "pla",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "analysis": {
+       "text": "Galwan pushed India closer to the US-led Quad while it kept buying Russian arms and oil.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "galwan-river"
+      ],
+      "related_stories": [
+       "2023-09-09-delhi-g20"
+      ]
+     },
+     "2020-05-australia-china-trade-war": {
+      "id": "2020-05-australia-china-trade-war",
+      "date": "2020-05",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "China punishes Australia with trade curbs after its call for a COVID inquiry",
+      "summary": "After Canberra called for an independent inquiry into the virus's origins, Beijing imposed tariffs on Australian barley, blocked some beef, then targeted wine, coal, lobster and timber. Australia did not back down.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/australian-lobster-timber-halted-by-chinese-customs-checks-fuels-trade-dispute-2020-11-02/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Australia–China_trade_war"
+       }
+      ],
+      "entities": [
+       "china",
+       "australia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "Trade measures; no single site.",
+      "related_stories": [
+       "2022-04-19-solomon-pact"
+      ]
+     },
+     "2020-08-13-abraham-accords": {
+      "id": "2020-08-13-abraham-accords",
+      "date": "2020-08-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Middle East",
+      "title": "UAE and Israel announce normalisation; the Abraham Accords are signed with Bahrain",
+      "summary": "Trump announced the UAE–Israel deal, in which Israel suspended annexation plans in the West Bank. Bahrain followed, and both signed at the White House on Sep 15; Sudan joined in October.",
+      "sources": [
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2020/08/13/middleeast/mideast-trump-full-statement-uae-israel-intl/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abraham_Accords"
+       }
+      ],
+      "entities": [
+       "uae",
+       "israel",
+       "bahrain",
+       "united-states",
+       "donald-trump",
+       "benjamin-netanyahu"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "analysis": {
+       "text": "The accords built an Israel–Gulf security axis against Iran that survived the Gaza war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "gulf-realignment",
+       "levant-wars"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2022-03-27-negev-summit",
+       "2026-02-28-iran-war-begins",
+       "2025-06-22-midnight-hammer",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2020-11-14-western-sahara-clashes"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns"
+      ],
+      "source": "threads.md"
+     },
+     "venezuela-oil": {
+      "id": "venezuela-oil",
+      "name": "Venezuela reopening & oil reroute",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "india",
+       "reliance",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-06-19-petro",
+       "2025-09-02-boat-strikes-begin",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2024-07-28-venezuela-stolen-election",
+       "2023-12-03-essequibo-referendum",
+       "2020-03-26-maduro-indicted"
+      ],
+      "source": "threads.md"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-07-us-rsf-genocide",
+       "2025-01-11-wad-madani-retaken",
+       "2020-10-03-juba-agreement"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "andrej-babis",
+     "angela-merkel",
+     "ant-group",
+     "ashraf-ghani",
+     "austria",
+     "bassirou-diomaye-faye",
+     "belaya-air-base",
+     "bola-tinubu",
+     "brice-oligui-nguema",
+     "bushra-bibi",
+     "butler-pennsylvania",
+     "calin-georgescu",
+     "canada",
+     "chad",
+     "conakry",
+     "cop",
+     "credit-suisse",
+     "czech-republic",
+     "daniel-noboa",
+     "daniel-ortega",
+     "delhi",
+     "donald-tusk",
+     "ever-given-grounding",
+     "filoli",
+     "fumio-kishida",
+     "gabon",
+     "gabriel-boric",
+     "geert-wilders",
+     "georgia",
+     "georgian-dream",
+     "glasgow",
+     "guinea",
+     "idriss-deby",
+     "jerusalem",
+     "jovenel-moise",
+     "kabul-airport",
+     "kamala-harris",
+     "karol-nawrocki",
+     "kathmandu",
+     "kenya",
+     "latakia",
+     "libreville",
+     "mahamat-deby",
+     "maia-sandu",
+     "mamady-doumbouya",
+     "mark-carney",
+     "minneapolis",
+     "moldova",
+     "myrtle-beach",
+     "naftali-bennett",
+     "nairobi",
+     "naypyidaw",
+     "nepal",
+     "netherlands",
+     "nicaragua",
+     "nice",
+     "olenya-air-base",
+     "palestinian-islamic-jihad",
+     "palma-mozambique",
+     "quad",
+     "quito",
+     "robert-fico",
+     "rodrigo-paz",
+     "romania",
+     "second-thomas-shoal",
+     "senegal",
+     "shanghai",
+     "slovakia",
+     "solarwinds",
+     "south-africa",
+     "suwayda",
+     "switzerland",
+     "tbilisi",
+     "vienna",
+     "vostochny-cosmodrome",
+     "whitsun-reef",
+     "william-ruto"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
