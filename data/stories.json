@@ -1599,7 +1599,9 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [
+   "2025-11-06-c5-plus-1-summit"
+  ]
  },
  {
   "id": "2022-01-abu-dhabi-attack",
@@ -2625,7 +2627,8 @@
    }
   ],
   "related_stories": [
-   "2022-10-04-dprk-over-japan"
+   "2022-10-04-dprk-over-japan",
+   "2025-04-28-dprk-confirms-kursk-troops"
   ]
  },
  {
@@ -12309,7 +12312,8 @@
   "unplaced": "A legal designation; no site.",
   "related_stories": [
    "2026-02-22-el-mencho-killed",
-   "2025-09-02-boat-strikes-begin"
+   "2025-09-02-boat-strikes-begin",
+   "2025-02-27-mexico-hands-over-capos"
   ]
  },
  {
@@ -12689,7 +12693,9 @@
    "2025-07-27-eu-us-turnberry",
    "2025-08-27-india-50pct-tariff",
    "2025-10-30-busan-truce",
-   "2025-11-05-scotus-tariff-argument"
+   "2025-11-05-scotus-tariff-argument",
+   "2025-07-31-mexico-tariff-reprieve",
+   "2025-10-29-us-korea-gyeongju-deal"
   ]
  },
  {
@@ -14241,7 +14247,8 @@
    "2026-05-14-trump-xi-beijing",
    "2026-09-23-us-china-fragile-truce",
    "2025-07-10-mp-materials-dod",
-   "2025-12-08-h200-china"
+   "2025-12-08-h200-china",
+   "2025-11-06-c5-plus-1-summit"
   ]
  },
  {
@@ -15549,6 +15556,771 @@
    "2025-09-28-iran-snapback",
    "2025-06-22-midnight-hammer",
    "2026-01-08-iran-protest-crackdown"
+  ]
+ },
+ {
+  "id": "2025-02-27-mexico-hands-over-capos",
+  "date": "2025-02-27",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Americas",
+  "title": "Mexico sends 29 cartel figures, including Caro Quintero, to the US as a tariff deadline looms",
+  "summary": "Mexico transferred 29 wanted defendants to US custody, among them Rafael Caro Quintero, accused in the 1985 killing of DEA agent Kiki Camarena, plus figures from the Sinaloa, CJNG, Gulf and other cartels. It came days before Trump's 25% tariffs were due.",
+  "sources": [
+   {
+    "name": "US Justice Department",
+    "url": "https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-announces-29-wanted-defendants-mexico-taken-us-custody"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexico-extradite-us-convicted-drug-kingpin-caro-quintero-other-suspected-cartel-2025-02-27/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/mexico-drug-lord-rafael-caro-quintero-extradition-ad769ef1f2addd8530f4b8b96d00bb4c"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/feb/27/mexico-cartels-fentanyl-extraditions-trump"
+   }
+  ],
+  "entities": [
+   "mexico",
+   "united-states",
+   "claudia-sheinbaum",
+   "cjng"
+  ],
+  "causes": [
+   {
+    "story": "2025-02-20-cartels-fto",
+    "why": "Followed the terrorist designations",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "western-hemisphere",
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A transfer of custody; no single site.",
+  "related_stories": [
+   "2025-02-20-cartels-fto",
+   "2025-07-31-mexico-tariff-reprieve",
+   "2026-02-22-el-mencho-killed"
+  ]
+ },
+ {
+  "id": "2025-03-28-myanmar-earthquake",
+  "date": "2025-03-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Magnitude-7.7 earthquake devastates central Myanmar in the middle of its civil war",
+  "summary": "A quake on the Sagaing fault near Mandalay killed more than 3,700 people by the junta's count, with satellite assessments showing damage across Sagaing, Mandalay, Nay Pyi Taw and Shan.",
+  "sources": [
+   {
+    "name": "ReliefWeb (UNOSAT/partners damage assessment)",
+    "url": "https://reliefweb.int/report/myanmar/myanmar-m77-28-march-2025-sagaing-earthquake-satellite-based-comprehensive-damage-assessment-report-sagaing-mandalay-shan-north-magway-nay-pyi-taw-shan-south-and-bago-east-regions"
+   },
+   {
+    "name": "Myanmar Ministry of Information",
+    "url": "https://moi.gov.mm/moi:eng/index.php/earthquake-news/18035"
+   },
+   {
+    "name": "Wikipedia (overview)",
+    "url": "https://en.wikipedia.org/wiki/2025_Myanmar_earthquake"
+   }
+  ],
+  "entities": [
+   "myanmar",
+   "min-aung-hlaing"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "mandalay"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2025-04-04-yoon-removed",
+  "date": "2025-04-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "South Korea's Constitutional Court removes Yoon Suk Yeol over his martial-law decree",
+  "summary": "The court unanimously (8–0) upheld Yoon's impeachment over his Dec 3, 2024 martial-law declaration, finding he deployed troops to the National Assembly, raided the election commission and ordered politicians arrested without any real emergency. A snap election had to follow within 60 days.",
+  "sources": [
+   {
+    "name": "Constitutional Court of Korea",
+    "url": "https://english.ccourt.go.kr/site/eng/decisions/casesearch/caseSearch.do"
+   },
+   {
+    "name": "Yonhap",
+    "url": "https://en.yna.co.kr/view/AEN20250403008556315"
+   },
+   {
+    "name": "Hankyoreh",
+    "url": "https://english.hani.co.kr/arti/english_edition/e_national/1190684.html"
+   },
+   {
+    "name": "Aju Press (ruling text)",
+    "url": "https://www.ajupress.com/view/20250404210137677"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "yoon-suk-yeol"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "seoul"
+  ],
+  "related_stories": [
+   "2025-06-03-lee-jae-myung-elected"
+  ]
+ },
+ {
+  "id": "2025-04-28-dprk-confirms-kursk-troops",
+  "date": "2025-04-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Russia/Eurasia",
+  "title": "North Korea and Russia confirm North Korean troops fought in Kursk; Moscow sends air defences and missile know-how",
+  "summary": "After Russia's chief of staff praised them, KCNA confirmed Kim Jong Un had sent troops under the 2024 mutual-defence treaty. Seoul estimated more than 11,000 went in late 2024 and about 3,000 more in early 2025. A May report by the 11-nation Multilateral Sanctions Monitoring Team said Russia supplied Pantsir air defences, electronic-warfare gear and missile-guidance data, and that Pyongyang had shipped some 9 million shells and more than 100 ballistic missiles.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/north-korea-confirms-troop-deployment-russia-first-time-kcna-report-2025-04-27/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/ckg25wxvpy2o"
+   },
+   {
+    "name": "Yonhap",
+    "url": "https://en.yna.co.kr/view/AEN20250428000552315"
+   },
+   {
+    "name": "Yonhap (MSMT report)",
+    "url": "https://en.yna.co.kr/view/AEN20250529001200315"
+   },
+   {
+    "name": "MSMT report (mirror)",
+    "url": "https://www.globalsecurity.org/military/library/report/2025/multilateral-sanctions-monitoring-team-report_msmt_20250529.pdf"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "russia",
+   "kim-jong-un",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2022-03-24-hwasong17",
+    "why": "North Korea's post-2022 arms build-up made it a supplier",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "analysis": {
+   "text": "Pyongyang traded troops and shells for Russian military technology, which shows up in its 2025–26 missile programme.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "korean-peninsula",
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Fighting in Kursk; Kursk has no place entity.",
+  "related_stories": [
+   "2022-03-24-hwasong17",
+   "2025-10-10-hwasong-20-parade"
+  ]
+ },
+ {
+  "id": "2025-06-03-lee-jae-myung-elected",
+  "date": "2025-06-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Lee Jae Myung wins South Korea's snap presidential election",
+  "summary": "Lee of the Democratic Party won 49.42% to the conservative Kim Moon-soo's 41.15% on turnout near 80%, six months to the day after Yoon's decree. He pledged to restore democracy and faced immediate US tariff talks.",
+  "sources": [
+   {
+    "name": "National Election Commission",
+    "url": "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?cityCode=0&electionCode=1&electionId=0020250603&requestURI=%2Felectioninfo%2F0020250603%2Fvc%2Fvccp09.jsp&secondMenuId=VCCP09&statementId=VCCP09_%231"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreans-vote-president-after-months-turmoil-triggered-by-martial-law-2025-06-02/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c861yyqxg4do"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2025/06/03/asia/south-korea-presidential-election-results-intl-hnk"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "lee-jae-myung"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-04-yoon-removed",
+    "why": "The snap election followed Yoon's removal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-04-04-yoon-removed",
+   "2025-10-29-us-korea-gyeongju-deal"
+  ]
+ },
+ {
+  "id": "2025-07-24-thai-cambodia-border-war",
+  "date": "2025-07-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Thailand and Cambodia fight a five-day border war; Malaysia brokers a ceasefire",
+  "summary": "A long-running border dispute erupted into artillery fire and airstrikes along the frontier. With Malaysia's Anwar mediating, the two sides agreed a ceasefire in Putrajaya that took effect on Jul 28.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/ceasefire-takes-effect-between-thailand-cambodia-after-five-day-border-battle-2025-07-28/"
+   },
+   {
+    "name": "Thai Foreign Ministry",
+    "url": "https://www.mfa.go.th/en/content/press-briefing-28-july-2025-eng?cate=674059168d902f116b4a9a52"
+   }
+  ],
+  "entities": [
+   "thailand",
+   "cambodia",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Along the Thai–Cambodian border.",
+  "related_stories": [
+   "2025-10-26-kl-accords"
+  ]
+ },
+ {
+  "id": "2025-07-31-mexico-tariff-reprieve",
+  "date": "2025-07-31",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Americas",
+  "title": "Trump gives Mexico a 90-day reprieve from a 30% tariff; USMCA goods stay exempt",
+  "summary": "After a call with Sheinbaum, Trump delayed a threatened 30% tariff. Mexico kept paying the 25% 'fentanyl' tariff on non-USMCA goods, 25% on cars and 50% on steel, aluminium and copper. Mexico said about 85% of its exports met USMCA rules and so stayed exempt.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/sheinbaum-says-mexico-secures-new-tariff-reprieve-90-days-strike-trade-deal-2025-07-31/"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2025/07/31/g-s1-80414/trump-mexico-trade-deal-delay"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/trump-tariffs-canada-mexico-exemption-969a4cfb03638ce9d6c0ffad2b98b4b1"
+   }
+  ],
+  "entities": [
+   "mexico",
+   "united-states",
+   "claudia-sheinbaum",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "Part of the 2025 tariff escalation",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-02-27-mexico-hands-over-capos",
+    "why": "Security co-operation bought tariff time",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "us-tariffs-trade",
+   "western-hemisphere"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A phone deal; no site.",
+  "related_stories": [
+   "2025-04-02-liberation-day",
+   "2025-02-27-mexico-hands-over-capos",
+   "2026-02-20-scotus-ieepa",
+   "2026-02-22-el-mencho-killed"
+  ]
+ },
+ {
+  "id": "2025-08-29-indonesia-protests",
+  "date": "2025-08-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Deadly riots shake Indonesia after a police vehicle kills a delivery driver; Sri Mulyani is ousted",
+  "summary": "Protests over lawmakers' housing allowances turned into nationwide riots after a police armoured vehicle ran over delivery driver Affan Kurniawan in Jakarta. Looters hit homes including Finance Minister Sri Mulyani's. On Sep 8 Prabowo replaced her with Purbaya Yudhi Sadewa, who promised faster growth.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/indonesia-protests-ministers-fired-3776bd9365804cda9f7c3f85b2104502"
+   },
+   {
+    "name": "Reuters (explainer)",
+    "url": "https://www.reuters.com/world/asia-pacific/whats-fuelling-rage-indonesia-2025-09-02/"
+   },
+   {
+    "name": "Reuters (Sri Mulyani replaced)",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesia-replaces-respected-finance-minister-with-economist-promising-rapid-2025-09-08/"
+   },
+   {
+    "name": "Jakarta Post",
+    "url": "https://www.thejakartapost.com/indonesia/2025/09/08/president-reshuffles-cabinet-after-weeklong-protest-replacing-sri-mulyani"
+   }
+  ],
+  "entities": [
+   "indonesia",
+   "prabowo-subianto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "analysis": {
+   "text": "Losing a trusted finance minister and turning to growth-first policy fed the investor doubts behind MSCI's 2026 actions.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "jakarta"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2025-09-22-putin-new-start-offer",
+  "date": "2025-09-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Russia/Eurasia",
+  "title": "Putin offers to keep New START limits for a year after it expires if the US does too",
+  "summary": "Putin said Russia would voluntarily observe the treaty's central limits (1,550 deployed warheads and 700 deployed launchers) for one year after Feb 5, 2026, if Washington reciprocated.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/putin-offers-trump-temporary-nuclear-arms-control-deal-that-would-extend-status-2025-09-22/"
+   },
+   {
+    "name": "CRS",
+    "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12964/IF12964.7.pdf"
+   }
+  ],
+  "entities": [
+   "russia",
+   "united-states",
+   "vladimir-putin",
+   "new-start"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "A statement in Moscow; no place entity.",
+  "related_stories": [
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "2026-02-05-new-start-expires",
+   "2025-08-15-alaska-summit"
+  ]
+ },
+ {
+  "id": "2025-10-10-hwasong-20-parade",
+  "date": "2025-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "North Korea unveils the Hwasong-20 ICBM at a parade attended by China's premier and Russia's Medvedev",
+  "summary": "Marking the Workers' Party's 80th anniversary, Kim showed off the solid-fuel Hwasong-20, which KCNA called its 'most powerful nuclear strategic weapon system'. Chinese Premier Li Qiang, Dmitry Medvedev and Vietnam's To Lam attended.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/north-korea-holds-military-parade-shows-off-new-intercontinental-missile-2025-10-10/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/north-korea-missile-kim-jong-un-8a6b9f3498d50effe3f72969bfe9c842"
+   },
+   {
+    "name": "Yonhap",
+    "url": "https://en.yna.co.kr/view/AEN20251011001351315"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2025/10/10/asia/north-korea-military-parade-new-missiles-intl-hnk-ml"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un",
+   "china",
+   "russia",
+   "to-lam"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-28-dprk-confirms-kursk-troops",
+    "why": "Russian partnership deepened",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "pyongyang"
+  ],
+  "related_stories": [
+   "2025-04-28-dprk-confirms-kursk-troops"
+  ]
+ },
+ {
+  "id": "2025-10-26-kl-accords",
+  "date": "2025-10-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "With Trump watching, Thailand and Cambodia sign the Kuala Lumpur peace declaration",
+  "summary": "At the ASEAN summit, Anutin and Hun Manet signed a joint declaration expanding the July ceasefire, with ASEAN observers, withdrawal of heavy weapons, demining and the release of Cambodian prisoners.",
+  "sources": [
+   {
+    "name": "White House (joint declaration)",
+    "url": "https://www.whitehouse.gov/briefings-statements/2025/10/joint-declaration-by-the-prime-minister-of-the-kingdom-of-cambodia-and-the-prime-minister-of-the-kingdom-of-thailand-on-the-outcomes-of-their-meeting-in-kuala-lampur-malaysia/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/thai-cambodia-leaders-sign-expanded-ceasefire-deal-with-trump-present-2025-10-26/"
+   },
+   {
+    "name": "Malaysia PMO",
+    "url": "https://www.pmo.gov.my/en/speeches-en/verbatim-text-remarks-by-the-honourable-donald-trump-president-of-the-united-states-of-america-and-the-honourable-dato-seri-anwar-bin-ibrahim-prime-minister-of-malaysia-at-the-signing-of-cambodia/"
+   }
+  ],
+  "entities": [
+   "thailand",
+   "cambodia",
+   "united-states",
+   "donald-trump",
+   "anutin-charnvirakul"
+  ],
+  "causes": [
+   {
+    "story": "2025-07-24-thai-cambodia-border-war",
+    "why": "Formalises the July truce",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "kuala-lumpur"
+  ],
+  "related_stories": [
+   "2025-07-24-thai-cambodia-border-war",
+   "2025-12-08-thai-cambodia-war-resumes"
+  ]
+ },
+ {
+  "id": "2025-10-29-us-korea-gyeongju-deal",
+  "date": "2025-10-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Lee and Trump seal a $350bn investment-for-tariffs deal and US backing for Korean nuclear submarines",
+  "summary": "At the Gyeongju APEC summit they agreed $200bn in cash investment, capped at $20bn a year, plus $150bn for US shipbuilding, in return for 15% tariffs on Korean goods including cars. The joint fact sheet also approved South Korea building nuclear-powered submarines.",
+  "sources": [
+   {
+    "name": "White House joint fact sheet",
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/11/joint-fact-sheet-on-president-donald-j-trumps-meeting-with-president-lee-jae-myung/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/trump-says-trade-deal-reached-with-south-korea-2025-10-29/"
+   },
+   {
+    "name": "Korea Herald",
+    "url": "https://www.koreaherald.com/article/10604433"
+   },
+   {
+    "name": "Yonhap (nuclear subs)",
+    "url": "https://en.yna.co.kr/view/AEN20251114006900315"
+   }
+  ],
+  "entities": [
+   "south-korea",
+   "united-states",
+   "lee-jae-myung",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "Settles the 2025 tariff threat",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-06-03-lee-jae-myung-elected",
+    "why": "Lee's first big deal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "korean-peninsula",
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "gyeongju"
+  ],
+  "related_stories": [
+   "2025-04-02-liberation-day",
+   "2025-06-03-lee-jae-myung-elected"
+  ]
+ },
+ {
+  "id": "2025-11-06-c5-plus-1-summit",
+  "date": "2025-11-06",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Russia/Eurasia",
+  "title": "First White House C5+1 summit: minerals deals with Central Asia; Kazakhstan to join the Abraham Accords",
+  "summary": "Trump hosted the presidents of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan. Kazakhstan signed a critical-minerals MoU and a $1.1bn tungsten project and agreed to join the Abraham Accords, part of a US push into a region dominated by Russia and China.",
+  "sources": [
+   {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/11/a-new-era-in-u-s-kazakhstan-relations"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/trump-meet-central-asian-presidents-us-seeks-counter-china-russia-influence-2025-11-06/"
+   },
+   {
+    "name": "S&P Global",
+    "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/110725-us-signs-mous-on-central-asian-critical-minerals-secures-stake-in-strategic-deposit"
+   },
+   {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2025/11/08/kazakhstan-to-join-abraham-accords-as-it-signs-critical-minerals-and-trade-deals-with-the-"
+   }
+  ],
+  "entities": [
+   "kazakhstan",
+   "uzbekistan",
+   "united-states",
+   "russia",
+   "china",
+   "rare-earths"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-09-china-rare-earth-expansion",
+    "why": "US hunt for non-Chinese minerals",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-01-kazakhstan-unrest",
+    "why": "Kazakhstan's balancing since the 2022 Russian-led intervention",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "china-minerals-leverage"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2025-10-09-china-rare-earth-expansion",
+   "2022-01-kazakhstan-unrest",
+   "rare-earth-nov10",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "pla-patrol-oct14-15",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "eu-china-rare-earth-green-channel",
+   "2026-02-05-new-start-expires",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-18-graham-act-signed",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-20-us-australia-minerals",
+   "2025-10-30-busan-truce"
+  ]
+ },
+ {
+  "id": "2025-11-14-bihar-nda-sweep",
+  "date": "2025-11-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Modi's NDA sweeps Bihar's state election",
+  "summary": "The BJP-led alliance won 202 of 243 seats (BJP 89, JD(U) 85), leaving the opposition Mahagathbandhan with 35. It reinforced Modi's grip after his party lost its majority in 2024.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/india-bihar-modi-36f3915f18d2298bb65bfb1c55a25ed4"
+   },
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/elections/bihar-assembly/nda-takes-bihar-by-storm/article70281201.ece"
+   }
+  ],
+  "entities": [
+   "india",
+   "narendra-modi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A state election; Patna has no place entity.",
+  "related_stories": []
+ },
+ {
+  "id": "2025-12-08-thai-cambodia-war-resumes",
+  "date": "2025-12-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-30",
+  "region": "Asia-Pacific",
+  "title": "Thailand–Cambodia fighting resumes with airstrikes; a second ceasefire on Dec 27",
+  "summary": "The Kuala Lumpur accords broke down amid accusations of landmine blasts and violations. Thailand launched airstrikes, and some 20 days of fighting followed before a new ceasefire on Dec 27 under ASEAN observation.",
+  "sources": [
+   {
+    "name": "Reuters (how the truce failed)",
+    "url": "https://www.reuters.com/world/asia-pacific/how-thailand-cambodia-conflict-went-trump-backed-ceasefire-airstrikes-2025-12-08/"
+   },
+   {
+    "name": "Reuters (talks)",
+    "url": "https://www.reuters.com/world/asia-pacific/asean-seek-resolution-thailand-cambodia-conflict-with-malaysia-meeting-2025-12-21/"
+   },
+   {
+    "name": "Reuters (second ceasefire)",
+    "url": "https://www.reuters.com/world/asia-pacific/thailand-cambodia-sign-ceasefire-agreement-cambodian-defence-ministry-says-2025-12-27/"
+   }
+  ],
+  "entities": [
+   "thailand",
+   "cambodia"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-26-kl-accords",
+    "why": "The accords broke down",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-30",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "Along the Thai–Cambodian border.",
+  "related_stories": [
+   "2025-10-26-kl-accords"
   ]
  }
 ]

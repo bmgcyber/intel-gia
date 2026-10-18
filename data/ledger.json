@@ -13045,6 +13045,487 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2025-12-30": {
+   "sha256": "3849ba8b5f3ff0dd0cd1ffc18025a8402472c490d3f47908fefc356d479e2ed1",
+   "undo": {
+    "stories": {
+     "2025-02-27-mexico-hands-over-capos": null,
+     "2025-03-28-myanmar-earthquake": null,
+     "2025-04-04-yoon-removed": null,
+     "2025-04-28-dprk-confirms-kursk-troops": null,
+     "2025-06-03-lee-jae-myung-elected": null,
+     "2025-07-24-thai-cambodia-border-war": null,
+     "2025-07-31-mexico-tariff-reprieve": null,
+     "2025-08-29-indonesia-protests": null,
+     "2025-09-22-putin-new-start-offer": null,
+     "2025-10-10-hwasong-20-parade": null,
+     "2025-10-26-kl-accords": null,
+     "2025-10-29-us-korea-gyeongju-deal": null,
+     "2025-11-06-c5-plus-1-summit": null,
+     "2025-11-14-bihar-nda-sweep": null,
+     "2025-12-08-thai-cambodia-war-resumes": null,
+     "2025-02-20-cartels-fto": {
+      "id": "2025-02-20-cartels-fto",
+      "date": "2025-02-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Americas",
+      "title": "US designates eight cartels and gangs as terrorist organisations",
+      "summary": "The State Department designated Tren de Aragua, MS-13, the Sinaloa Cartel, CJNG and four other groups as Foreign Terrorist Organizations and Specially Designated Global Terrorists.",
+      "sources": [
+       {
+        "name": "US State Department",
+        "url": "https://www.state.gov/designation-of-international-cartels"
+       },
+       {
+        "name": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2025/02/20/2025-02873/foreign-terrorist-organization-designations-of-tren-de-aragua-mara-salvatrucha-cartel-de-sinaloa"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "cjng",
+       "tren-de-aragua",
+       "mexico",
+       "venezuela"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "analysis": {
+       "text": "Treating cartels as terrorists gave the legal and political frame for the 2025 boat strikes, the Maduro operation and the El Mencho raid.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "A legal designation; no site.",
+      "related_stories": [
+       "2026-02-22-el-mencho-killed",
+       "2025-09-02-boat-strikes-begin"
+      ]
+     },
+     "2022-03-24-hwasong17": {
+      "id": "2022-03-24-hwasong17",
+      "date": "2022-03-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "North Korea test-fires an ICBM, ending its 2018 moratorium",
+      "summary": "North Korea launched what it called a Hwasong-17 ICBM, its first full ICBM test since 2017.",
+      "sources": [
+       {
+        "name": "Wikipedia: Hwasong-17",
+        "url": "https://en.wikipedia.org/wiki/Hwasong-17"
+       },
+       {
+        "name": "Wikipedia: 2021–2023 North Korean missile tests",
+        "url": "https://en.wikipedia.org/wiki/2021–2023_North_Korean_missile_tests"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-10-04-dprk-over-japan",
+        "why": "Escalating 2022 test campaign",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-10-04-dprk-over-japan"
+      ]
+     },
+     "2025-04-02-liberation-day": {
+      "id": "2025-04-02-liberation-day",
+      "date": "2025-04-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-06-30",
+      "region": "Americas",
+      "title": "'Liberation Day': Trump invokes IEEPA for a 10% global tariff and higher 'reciprocal' rates",
+      "summary": "Executive Order 14257 declared trade deficits a national emergency under IEEPA. It imposed a 10% tariff on all countries from Apr 5 and higher country-specific rates from Apr 9, adding to the earlier IEEPA 'fentanyl' tariffs on Canada, Mexico and China.",
+      "sources": [
+       {
+        "name": "White House (EO 14257)",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/"
+       },
+       {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-unveils-global-reciprocal-tariffs-2025-04-02/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "china",
+       "european-union",
+       "india"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2025-06-30",
+      "analysis": {
+       "text": "Basing the tariffs on emergency powers rather than trade statutes made them fast to impose but exposed them in court. That is the weakness the Supreme Court ruled on in Feb 2026.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2025-04-04-china-rare-earth-controls",
+       "rare-earth-nov10",
+       "2022-05-23-ipef",
+       "2022-06-14-msp",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-01-21-greenland-davos",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument"
+      ]
+     },
+     "2025-10-09-china-rare-earth-expansion": {
+      "id": "2025-10-09-china-rare-earth-expansion",
+      "date": "2025-10-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Asia-Pacific",
+      "title": "China extends rare-earth controls worldwide, including to foreign products with 0.1% Chinese content",
+      "summary": "MOFCOM added five more rare earths (holmium, erbium, thulium, europium, ytterbium) and rare-earth technologies to its controls. It required licences for foreign-made goods containing at least 0.1% Chinese-origin rare earths, with case-by-case review for advanced-chip and military-AI uses. Most measures were due on Nov 8 and Dec 1.",
+      "sources": [
+       {
+        "name": "MOFCOM Notice 2025 No. 61",
+        "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_65480a162cd745c2b0863d67553a4b05.html"
+       },
+       {
+        "name": "CSET translation",
+        "url": "https://cset.georgetown.edu/wp-content/uploads/t0656_china_rare_earth_controls_2025_61_EN.pdf"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/"
+       }
+      ],
+      "entities": [
+       "china",
+       "rare-earths",
+       "semiconductors",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2025-04-04-china-rare-earth-controls",
+        "why": "Escalates the April regime",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Mirrors the extraterritorial reach of US chip rules",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "Beijing showed it could copy the US foreign-direct-product rule. That gave it the leverage it traded at Busan, and set the Nov 10 2026 cliff.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "china-minerals-leverage",
+       "us-tariffs-trade",
+       "ai-compute-minerals"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "unplaced": "An export regime; no site.",
+      "related_stories": [
+       "2025-04-04-china-rare-earth-controls",
+       "2022-10-07-bis-controls",
+       "rare-earth-nov10",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "pla-patrol-oct14-15",
+       "eu-china-rare-earth-green-channel",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-23-us-china-fragile-truce",
+       "2025-07-10-mp-materials-dod",
+       "2025-12-08-h200-china"
+      ]
+     },
+     "2022-01-kazakhstan-unrest": {
+      "id": "2022-01-kazakhstan-unrest",
+      "date": "2022-01-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Kazakhstan unrest; Russia-led CSTO sends troops",
+      "summary": "Fuel-price protests turned into deadly unrest in Kazakhstan; the Russia-led CSTO deployed troops at President Tokayev's request.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Kazakh unrest",
+        "url": "https://en.wikipedia.org/wiki/2022_Kazakh_unrest"
+       }
+      ],
+      "entities": [
+       "kazakhstan",
+       "csto",
+       "russia"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade"
+      ],
+      "source": "inbox"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china"
+      ],
+      "source": "inbox"
+     },
+     "southeast-asia": null,
+     "korean-peninsula": null,
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed"
+      ],
+      "source": "threads.md"
+     },
+     "china-minerals-leverage": {
+      "id": "china-minerals-leverage",
+      "name": "China rare-earth / tech leverage",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials",
+       "japan",
+       "european-union"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-drills",
+       "2021-12-china-rare-earth-group",
+       "2022-02-04-no-limits",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "2022-10-16-party-congress",
+       "pla-patrol-oct14-15",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-30-busan-truce",
+       "2025-11-07-takaichi-taiwan-remarks"
+      ],
+      "source": "threads.md"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [
+     "abdourahamane-tiani",
+     "anutin-charnvirakul",
+     "cambodia",
+     "gyeongju",
+     "jakarta",
+     "keiko-fujimori",
+     "knesset",
+     "kuala-lumpur",
+     "lee-jae-myung",
+     "mandalay",
+     "min-aung-hlaing",
+     "msci",
+     "myanmar",
+     "narendra-modi",
+     "niamey",
+     "niger",
+     "peru",
+     "prabowo-subianto",
+     "pyongyang",
+     "seoul",
+     "thailand",
+     "to-lam",
+     "uzbekistan",
+     "vietnam",
+     "wonsan",
+     "yoon-suk-yeol"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
