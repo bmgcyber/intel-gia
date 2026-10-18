@@ -1,0 +1,607 @@
+{
+ "edition": "2019-06-30",
+ "stories": [
+  {
+   "id": "2019-04-02-bouteflika-resigns",
+   "date": "2019-04-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "Algeria's Bouteflika resigns after mass 'Hirak' protests",
+   "summary": "Protests began in February after he sought a fifth term; the army insisted he leave immediately.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hirak_%28Algeria%29"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2019/04/02/world/africa/Abdelaziz-Bouteflika-resigns.html"
+    }
+   ],
+   "entities": [
+    "algeria"
+   ],
+   "marker": "political",
+   "where": [
+    "algiers"
+   ]
+  },
+  {
+   "id": "2019-04-04-haftar-tripoli-offensive",
+   "date": "2019-04-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "Khalifa Haftar launches an offensive to seize Tripoli",
+   "summary": "His Libyan National Army attacked the UN-recognised government in the capital; the 14-month campaign killed more than 2,400 before Turkish intervention forced Haftar back in June 2020.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Western_Libya_campaign"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/apr/04/un-chief-urges-restraint-as-libyan-army-leader-plans-tripoli-assault"
+    }
+   ],
+   "entities": [
+    "libya",
+    "khalifa-haftar",
+    "turkey",
+    "russia",
+    "wagner-group",
+    "uae",
+    "egypt"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "military",
+   "unplaced": "Tripoli has no coordinates on its Wikipedia page."
+  },
+  {
+   "id": "2019-04-11-bashir-ousted",
+   "date": "2019-04-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "Sudan's army ousts Omar al-Bashir after months of protests",
+   "summary": "The military ended his three-decade rule and formed a Transitional Military Council led by Abdel Fattah al-Burhan with RSF chief Hemedti as deputy.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Sudanese_coup_d%27%C3%A9tat"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/4/11/sudans-military-seizes-power-from-president-omar-al-bashir"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/apr/11/sudan-army-ousts-bashir-after-30-years-in-power"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "omar-al-bashir",
+    "abdel-fattah-al-burhan",
+    "hemedti",
+    "sudanese-armed-forces",
+    "rsf"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The Burhan–Hemedti partnership born here broke apart in the 2023 war.",
+    "confidence": "likely"
+   },
+   "where": [
+    "khartoum"
+   ]
+  },
+  {
+   "id": "2019-04-21-zelensky-elected",
+   "date": "2019-04-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Russia/Eurasia",
+   "title": "Volodymyr Zelenskyy wins Ukraine's presidency in a landslide",
+   "summary": "The television comedian beat incumbent Petro Poroshenko with 73% in the runoff, promising to end the Donbas war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2019/04/21/europe/ukraine-elections-intl/index.html"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "volodymyr-zelenskyy",
+    "petro-poroshenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2019-04-21-sri-lanka-easter-bombings",
+   "date": "2019-04-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Islamic State-linked bombers kill 269 in Sri Lanka's Easter attacks",
+   "summary": "Suicide bombers hit three churches and three luxury hotels in Colombo, Negombo and Batticaloa.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/apr/21/sri-lanka-explosions-80-believed-injured-in-blasts-at-two-churches"
+    }
+   ],
+   "entities": [
+    "sri-lanka",
+    "islamic-state"
+   ],
+   "marker": "strike",
+   "where": [
+    "colombo"
+   ]
+  },
+  {
+   "id": "2019-05-10-us-china-tariffs-escalate",
+   "date": "2019-05-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "Trump raises tariffs on $200bn of Chinese goods to 25% as talks collapse",
+   "summary": "The trade war that began in January 2018 escalated after negotiations broke down; China retaliated and in August the US labelled it a currency manipulator.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2019/05/05/trump-says-tariffs-on-200-billion-of-chinese-goods-will-increase-to-25percent-on-friday.html"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "donald-trump",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "marker": "political",
+   "unplaced": "Tariff decision."
+  },
+  {
+   "id": "2019-05-12-fujairah-tanker-sabotage",
+   "date": "2019-05-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Four ships are sabotaged off Fujairah as US–Iran tensions rise",
+   "summary": "Two Saudi tankers, a Norwegian tanker and an Emirati bunkering ship were holed by explosive devices; US officials blamed Iran, which denied it. In June two more tankers were attacked in the Gulf of Oman.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/May_2019_Gulf_of_Oman_incident"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/June_2019_Gulf_of_Oman_incident"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2019/05/12/middleeast/uae-cargo-ship-sabotage-intl/index.html"
+    }
+   ],
+   "entities": [
+    "uae",
+    "saudi-arabia",
+    "iran",
+    "united-states"
+   ],
+   "storylines": [
+    "iran-war-hormuz",
+    "global-oil"
+   ],
+   "marker": "strike",
+   "where": [
+    "fujairah"
+   ]
+  },
+  {
+   "id": "2019-05-15-huawei-entity-list",
+   "date": "2019-05-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Americas",
+   "title": "US puts Huawei on its Entity List and declares a telecoms emergency",
+   "summary": "Trump's order targeted 'foreign adversary' telecoms gear, and Commerce barred US firms from supplying Huawei without a licence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Huawei"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2019/may/15/donald-trump-national-emergency-telecoms-threats-huawei"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "huawei",
+    "china",
+    "donald-trump"
+   ],
+   "storylines": [
+    "ai-compute-minerals",
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2019-05-10-us-china-tariffs-escalate",
+     "why": "Trade war widened to technology",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Executive order."
+  },
+  {
+   "id": "2019-05-23-modi-reelected",
+   "date": "2019-05-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Modi's BJP wins a bigger majority in India's election",
+   "summary": "The BJP won 303 seats with 37% of the vote, the highest share for any party since 1989, weeks after the Balakot strike.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Indian_general_election"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2019/05/19/world/asia/india-election-results.html"
+    }
+   ],
+   "entities": [
+    "india",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2019-02-26-balakot-strike",
+     "why": "Nationalist mood after Balakot",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2019-06-03-khartoum-massacre",
+   "date": "2019-06-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Africa",
+   "title": "Sudanese forces massacre protesters at the Khartoum sit-in",
+   "summary": "Troops of the military council, including Hemedti's RSF, killed over 100 people breaking up the sit-in; a power-sharing deal with civilians followed in August.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Khartoum_massacre"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/jun/03/sudan-khartoum-protest-gunfire-explosions-heard"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "rsf",
+    "hemedti",
+    "abdel-fattah-al-burhan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2019-04-11-bashir-ousted",
+     "why": "Military council resisted civilian rule",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "khartoum"
+   ]
+  },
+  {
+   "id": "2019-06-09-hong-kong-protests",
+   "date": "2019-06-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Hong Kong's extradition-bill protests become the largest in its history",
+   "summary": "Mass marches against a bill allowing extradition to mainland China grew into a months-long movement against Beijing's tightening control.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/jun/18/hong-kong-carrie-lam-to-apologise-to-protesters-extradition-bill"
+    }
+   ],
+   "entities": [
+    "china",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "unplaced": "Hong Kong's Wikipedia coordinates are a territory centroid."
+  },
+  {
+   "id": "2019-06-20-global-hawk-downed",
+   "date": "2019-06-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Middle East",
+   "title": "Iran shoots down a US Global Hawk drone; Trump calls off retaliatory strikes",
+   "summary": "Iran said the drone violated its airspace near Hormuz; the US said it was over international waters. Trump approved and then cancelled strikes on IRGC sites.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Iranian_shoot-down_of_American_drone"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2019/jun/21/iran-latest-trump-drone-attack-timeline-airstrikes-called-off"
+    }
+   ],
+   "entities": [
+    "iran",
+    "irgc",
+    "united-states",
+    "donald-trump"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2019-05-12-fujairah-tanker-sabotage",
+     "why": "Escalating Gulf crisis",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "unplaced": "Over the Strait of Hormuz; not pinned."
+  },
+  {
+   "id": "2019-06-30-dmz-meeting",
+   "date": "2019-06-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2019 (maximum pressure)",
+   "region": "Asia-Pacific",
+   "title": "Trump steps into North Korea at the DMZ to meet Kim",
+   "summary": "The first sitting US president on North Korean soil met Kim and Moon Jae-in at Panmunjom, but working-level talks went nowhere.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Koreas%E2%80%93United_States_DMZ_Summit"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2019/6/30/trump-meets-north-koreas-kim-at-dmz-in-landmark-visit"
+    }
+   ],
+   "entities": [
+    "donald-trump",
+    "kim-jong-un",
+    "moon-jae-in",
+    "north-korea",
+    "south-korea"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "causes": [
+    {
+     "story": "2019-02-28-hanoi-summit",
+     "why": "Attempt to revive talks after Hanoi",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "panmunjom-jsa"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2019-04-04-haftar-tripoli-offensive"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2019-04-11-bashir-ousted",
+    "2019-06-03-khartoum-massacre"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2019-04-21-zelensky-elected"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2019-05-10-us-china-tariffs-escalate",
+    "2019-05-15-huawei-entity-list"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2019-05-12-fujairah-tanker-sabotage",
+    "2019-06-20-global-hawk-downed"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2019-05-12-fujairah-tanker-sabotage"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2019-05-15-huawei-entity-list"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2019-05-23-modi-reelected"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2019-06-09-hong-kong-protests"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2019-06-30-dmz-meeting"
+   ]
+  }
+ ]
+}
