@@ -1,0 +1,226 @@
+{
+ "edition": "2023-03-31",
+ "stories": [
+  {
+   "id": "2023-01-08-brasilia-attacks",
+   "date": "2023-01-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "Bolsonaro supporters storm Brazil's Congress, Supreme Court and presidential palace",
+   "summary": "A week after Lula's inauguration, rioters who rejected his election ransacked the three branches' buildings in Brasília. The case fed the coup prosecution that convicted Bolsonaro in 2025.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/bolsonaro-supporters-invade-congress-presidential-palace-brasilia-2023-01-08/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2023/1/8/bolsonaro-supporters-storm-government-buildings-in-brazil"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/jan/08/jair-bolsonaro-supporters-storm-brazils-presidential-palace-and-supreme-court"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "jair-bolsonaro",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-30-lula",
+     "why": "Rejection of Lula's 2022 win",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "brasilia"
+   ]
+  },
+  {
+   "id": "2023-02-06-turkey-syria-quake",
+   "date": "2023-02-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Twin earthquakes kill more than 50,000 in Turkey and Syria",
+   "summary": "Magnitude-7.8 and 7.5 quakes devastated southern Turkey and northern Syria, among the deadliest disasters of the century, three months before Turkey's elections.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/major-earthquake-strikes-turkey-syria-about-200-dead-many-trapped-2023-02-06/"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/turkiye-and-syria-statement-earthquake-high-representative-borrell-and-commissioner-crisis-2023-02-06_en"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "syria"
+   ],
+   "causes": [],
+   "marker": "political",
+   "where": [
+    "kahramanmaras"
+   ]
+  },
+  {
+   "id": "2023-03-10-saudi-iran-beijing",
+   "date": "2023-03-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Middle East",
+   "title": "Saudi Arabia and Iran agree in Beijing to restore relations",
+   "summary": "In a China-brokered deal, the rivals agreed to reopen embassies within two months, seven years after ties were cut. It was Beijing's first big Middle East mediation.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/iran-saudi-arabia-agree-resume-ties-re-open-embassies-iranian-state-media-2023-03-10/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/mar/10/iran-saudi-arabia-agree-restore-ties-china-talks"
+    },
+    {
+     "name": "Al Jazeera (timeline)",
+     "url": "https://www.aljazeera.com/news/2023/3/10/iran-and-saudi-arabia-from-rivalry-to-mending-ties-a-timeline"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "iran",
+    "china"
+   ],
+   "storylines": [
+    "gulf-realignment",
+    "yemen-houthis-saudi"
+   ],
+   "causes": [
+    {
+     "story": "2022-04-02-yemen-truce",
+     "why": "The Yemen truce eased the Saudi–Iran confrontation",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2023-03-10-svb-collapse",
+   "date": "2023-03-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "Silicon Valley Bank fails, the biggest US bank failure since 2008",
+   "summary": "Losses on bonds hit by the Fed's rate rises set off a run on SVB. Regulators guaranteed all deposits, Signature and later First Republic failed, and Credit Suisse was rescued by UBS.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/finance/global-markets-banks-wrapup-1-2023-03-10/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank"
+    }
+   ],
+   "entities": [
+    "silicon-valley-bank",
+    "federal-reserve",
+    "united-states"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "causes": [
+    {
+     "story": "2022-06-15-fed-75",
+     "why": "Rate rises crushed long-bond values",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A bank failure; no site."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2023-01-08-brasilia-attacks"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2023-03-10-saudi-iran-beijing"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2023-03-10-saudi-iran-beijing"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2023-03-10-svb-collapse"
+   ]
+  }
+ ]
+}
