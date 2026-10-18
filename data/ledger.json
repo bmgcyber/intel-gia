@@ -101233,6 +101233,1290 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2005-12-31": {
+   "sha256": "dc16b2409d8bcce4dd0d5a460d767ac6bb64c17c36a54404b6f6d44ae03b3aea",
+   "undo": {
+    "stories": {
+     "2005-10-01-bali-bombings": null,
+     "2005-10-08-kashmir-earthquake": null,
+     "2005-10-15-iraq-constitution": null,
+     "2005-10-27-french-riots": null,
+     "2005-11-05-mar-del-plata-summit": null,
+     "2005-11-09-amman-bombings": null,
+     "2005-11-22-merkel-chancellor": null,
+     "2005-12-18-morales-elected": null,
+     "2005-11-17-rajapaksa-elected": null,
+     "2005-12-15-iraq-december-election": null,
+     "2006-01-01-russia-ukraine-gas-cut": {
+      "id": "2006-01-01-russia-ukraine-gas-cut",
+      "date": "2006-01-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Gazprom cuts gas to Ukraine in a price dispute, hitting European supplies",
+      "summary": "It was the first use of gas as leverage against post-Orange Ukraine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005%E2%80%932006_Russia%E2%80%93Ukraine_gas_dispute"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "gazprom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "energy",
+      "where": [
+       "kyiv"
+      ],
+      "related_stories": [
+       "2009-01-07-russia-ukraine-gas-cutoff"
+      ]
+     },
+     "2006-01-25-hamas-wins-election": {
+      "id": "2006-01-25-hamas-wins-election",
+      "date": "2006-01-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-03-31",
+      "region": "Middle East",
+      "title": "Hamas wins the Palestinian legislative election",
+      "summary": "Israel and Western donors cut off the government, setting up the 2007 split with Fatah.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election"
+       }
+      ],
+      "entities": [
+       "hamas",
+       "fatah",
+       "israel"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "unplaced": "Palestinian territories (West Bank and Gaza).",
+      "related_stories": [
+       "2007-06-14-hamas-takes-gaza"
+      ]
+     },
+     "2006-05-20-maliki-becomes-pm": {
+      "id": "2006-05-20-maliki-becomes-pm",
+      "date": "2006-05-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-06-30",
+      "region": "Middle East",
+      "title": "Nouri al-Maliki becomes Iraq's prime minister",
+      "summary": "He held power until 2014.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nouri_al-Maliki"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "nouri-al-maliki"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-06-30",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": []
+     },
+     "2006-02-22-samarra-mosque-bombing": {
+      "id": "2006-02-22-samarra-mosque-bombing",
+      "date": "2006-02-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-03-31",
+      "region": "Middle East",
+      "title": "Bombing of the al-Askari shrine in Samarra ignites Iraq's sectarian war",
+      "summary": "Al-Qaeda in Iraq's attack on the Shia shrine set off mass reprisal killings.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_al-Askari_mosque_bombing"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "al-qaeda",
+       "abu-musab-al-zarqawi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "strike",
+      "where": [
+       "samarra"
+      ],
+      "related_stories": [
+       "2007-01-10-iraq-surge-announced"
+      ]
+     },
+     "2006-04-11-iran-enrichment-announced": {
+      "id": "2006-04-11-iran-enrichment-announced",
+      "date": "2006-04-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-06-30",
+      "region": "Middle East",
+      "title": "Ahmadinejad announces Iran has enriched uranium",
+      "summary": "Iran's defiance moved the dispute to the UN Security Council.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mahmoud-ahmadinejad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-06-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": []
+     },
+     "2006-05-01-bolivia-gas-nationalised": {
+      "id": "2006-05-01-bolivia-gas-nationalised",
+      "date": "2006-05-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-06-30",
+      "region": "Americas",
+      "title": "Evo Morales nationalises Bolivia's natural gas",
+      "summary": "Troops occupied gas fields as foreign firms were forced to renegotiate.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natural_gas_in_Bolivia"
+       }
+      ],
+      "entities": [
+       "bolivia",
+       "evo-morales"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-06-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "energy",
+      "where": [
+       "la-paz"
+      ],
+      "related_stories": []
+     },
+     "2006-06-sri-lanka-eelam-war-iv": {
+      "id": "2006-06-sri-lanka-eelam-war-iv",
+      "date": "2006-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2006-09-30",
+      "region": "Asia-Pacific",
+      "title": "Fighting resumes between Sri Lanka's army and the Tamil Tigers",
+      "summary": "Eelam War IV ended with the LTTE's destruction in 2009.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eelam_War_IV"
+       }
+      ],
+      "entities": [
+       "sri-lanka",
+       "ltte"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "unplaced": "Northern and eastern Sri Lanka.",
+      "related_stories": [
+       "2009-05-18-ltte-defeated"
+      ]
+     },
+     "2006-07-12-lebanon-war": {
+      "id": "2006-07-12-lebanon-war",
+      "date": "2006-07-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-09-30",
+      "region": "Middle East",
+      "title": "Hezbollah's cross-border raid triggers a 34-day war with Israel",
+      "summary": "Hezbollah survived Israel's air and ground campaign, and its standing rose across the region.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+       }
+      ],
+      "entities": [
+       "hezbollah",
+       "israel",
+       "lebanon",
+       "hassan-nasrallah"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-09-30",
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "lebanon-tampa-talks-demands",
+       "2006-08-11-unsc-1701",
+       "2008-05-21-doha-agreement-lebanon"
+      ]
+     },
+     "2006-09-19-thai-coup": {
+      "id": "2006-09-19-thai-coup",
+      "date": "2006-09-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-09-30",
+      "region": "Asia-Pacific",
+      "title": "Thailand's military ousts Thaksin Shinawatra",
+      "summary": "The coup opened a long struggle between Thaksin's supporters and the royalist establishment.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Thai_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "thaksin-shinawatra"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": [
+       "2008-11-25-thai-airports-seized"
+      ]
+     },
+     "2006-03-26-ukraine-election-yanukovych": {
+      "id": "2006-03-26-ukraine-election-yanukovych",
+      "date": "2006-03-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Yanukovych's party wins Ukraine's parliamentary vote",
+      "summary": "He returned as prime minister after the Orange camp split.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Ukrainian_parliamentary_election"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "viktor-yanukovych"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "kyiv"
+      ],
+      "related_stories": [
+       "2007-09-30-ukraine-snap-election",
+       "2010-02-07-yanukovych-elected"
+      ]
+     },
+     "2007-12-13-lisbon-treaty-signed": {
+      "id": "2007-12-13-lisbon-treaty-signed",
+      "date": "2007-12-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-12-31",
+      "region": "Europe",
+      "title": "EU leaders sign the Lisbon Treaty",
+      "summary": "It salvaged reforms from the constitution rejected in 2005.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Lisbon"
+       }
+      ],
+      "entities": [
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-12-31",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "diplomacy",
+      "where": [
+       "lisbon"
+      ],
+      "related_stories": [
+       "2008-06-12-ireland-rejects-lisbon"
+      ]
+     },
+     "2009-03-04-icc-bashir-warrant": {
+      "id": "2009-03-04-icc-bashir-warrant",
+      "date": "2009-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Africa",
+      "title": "ICC issues an arrest warrant for Sudan's Omar al-Bashir over Darfur",
+      "summary": "It was the first ICC warrant for a sitting head of state; genocide charges were added in 2010. Bashir expelled aid groups in response.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omar_al-Bashir"
+       }
+      ],
+      "entities": [
+       "icc",
+       "omar-al-bashir",
+       "sudan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2019-04-11-bashir-ousted"
+      ]
+     },
+     "2011-01-09-south-sudan-referendum": {
+      "id": "2011-01-09-south-sudan-referendum",
+      "date": "2011-01-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "Southern Sudanese vote almost unanimously for independence",
+      "summary": "About 98.8% backed secession in the vote promised by the 2005 peace deal.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2011/1/9/bye-bye-juba"
+       }
+      ],
+      "entities": [
+       "south-sudan",
+       "sudan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "juba"
+      ],
+      "related_stories": [
+       "2011-07-09-south-sudan-independence"
+      ]
+     },
+     "2010-04-07-kyrgyz-revolution": {
+      "id": "2010-04-07-kyrgyz-revolution",
+      "date": "2010-04-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Uprising topples Kyrgyz President Bakiyev",
+      "summary": "Ethnic Kyrgyz–Uzbek violence erupted in Osh in June.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_Kyrgyz_Revolution"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2010/apr/08/kyrgyzstan-revolt-over-kurmanbek-bakiyev"
+       }
+      ],
+      "entities": [
+       "kyrgyzstan",
+       "kurmanbek-bakiyev"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-06-30",
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "bishkek"
+      ],
+      "related_stories": [
+       "2020-10-05-kyrgyz-revolution"
+      ],
+      "storylines": [
+       "central-asia"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2009-05-18-ltte-defeated": {
+      "id": "2009-05-18-ltte-defeated",
+      "date": "2009-05-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Asia-Pacific",
+      "title": "Sri Lanka's army crushes the Tamil Tigers, ending a 26-year civil war",
+      "summary": "LTTE leader Velupillai Prabhakaran was killed; a UN panel later said tens of thousands of civilians may have died in the final months.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war"
+       }
+      ],
+      "entities": [
+       "sri-lanka",
+       "ltte",
+       "mahinda-rajapaksa"
+      ],
+      "causes": [
+       {
+        "story": "2006-06-sri-lanka-eelam-war-iv",
+        "why": "Final war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "military",
+      "where": [
+       "mullaitivu"
+      ],
+      "related_stories": [
+       "2006-06-sri-lanka-eelam-war-iv"
+      ],
+      "revisions": [
+       {
+        "edition": "2006-12-31",
+        "why": "2006 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2007-05-06-sarkozy-elected": {
+      "id": "2007-05-06-sarkozy-elected",
+      "date": "2007-05-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2007-06-30",
+      "region": "Europe",
+      "title": "Nicolas Sarkozy is elected president of France",
+      "summary": "He went on to lead the 2011 Libya intervention.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007_French_presidential_election"
+       }
+      ],
+      "entities": [
+       "france",
+       "nicolas-sarkozy"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2007-06-30",
+      "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+      "marker": "political",
+      "where": [
+       "paris"
+      ],
+      "related_stories": []
+     },
+     "2014-05-21-russia-china-gas-deal": {
+      "id": "2014-05-21-russia-china-gas-deal",
+      "date": "2014-05-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Russia and China sign a $400bn, 30-year gas deal",
+      "summary": "Signed as the West sanctioned Moscow over Crimea, it made the Power of Siberia pipeline viable.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Power_of_Siberia"
+       }
+      ],
+      "entities": [
+       "russia",
+       "china",
+       "gazprom",
+       "vladimir-putin",
+       "xi-jinping"
+      ],
+      "causes": [
+       {
+        "story": "2014-03-18-crimea-annexed",
+        "why": "Moscow pivoted east under sanctions",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2014-06-30",
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "energy",
+      "where": [
+       "shanghai"
+      ],
+      "related_stories": [
+       "2014-03-18-crimea-annexed",
+       "2022-02-04-no-limits",
+       "trump-waives-russia-sanctions",
+       "2019-12-02-power-of-siberia"
+      ]
+     },
+     "2005-01-23-yushchenko-inaugurated": {
+      "id": "2005-01-23-yushchenko-inaugurated",
+      "date": "2005-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Viktor Yushchenko takes office after the Orange Revolution",
+      "summary": "He named Yulia Tymoshenko prime minister and pursued a Western course.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Viktor_Yushchenko"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "viktor-yushchenko",
+       "yulia-tymoshenko"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "kyiv"
+      ],
+      "related_stories": []
+     },
+     "2005-08-15-gaza-disengagement": {
+      "id": "2005-08-15-gaza-disengagement",
+      "date": "2005-08-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Middle East",
+      "title": "Israel begins evacuating its settlements from Gaza",
+      "summary": "Sharon's pullout left Gaza to the Palestinians; Hamas claimed it as a victory.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": []
+     },
+     "2005-06-24-ahmadinejad-elected": {
+      "id": "2005-06-24-ahmadinejad-elected",
+      "date": "2005-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Middle East",
+      "title": "Mahmoud Ahmadinejad wins Iran's presidency",
+      "summary": "Tehran resumed uranium conversion in August, ending a freeze agreed with Europe.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election"
+       }
+      ],
+      "entities": [
+       "iran",
+       "mahmoud-ahmadinejad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": []
+     },
+     "2005-03-14-cedar-revolution": {
+      "id": "2005-03-14-cedar-revolution",
+      "date": "2005-03-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Middle East",
+      "title": "Huge Cedar Revolution rally in Beirut; Syrian troops leave Lebanon by April",
+      "summary": "Lebanon split into the March 14 and the Hezbollah-led March 8 camps.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cedar_Revolution"
+       }
+      ],
+      "entities": [
+       "lebanon",
+       "syria",
+       "hezbollah"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": [
+       "2005-02-14-hariri-assassinated"
+      ]
+     },
+     "2005-02-06-thaksin-landslide": {
+      "id": "2005-02-06-thaksin-landslide",
+      "date": "2005-02-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Asia-Pacific",
+      "title": "Thaksin Shinawatra wins a second landslide in Thailand",
+      "summary": "His dominance alarmed the royalist establishment that ousted him in 2006.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Thai_general_election"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "thaksin-shinawatra"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": []
+     },
+     "2005-05-29-eu-constitution-rejected": {
+      "id": "2005-05-29-eu-constitution-rejected",
+      "date": "2005-05-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Europe",
+      "title": "French voters reject the EU constitution; the Dutch follow days later",
+      "summary": "The treaty was reworked into the Lisbon Treaty.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_French_European_Constitution_referendum"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2005_Dutch_European_Constitution_referendum"
+       }
+      ],
+      "entities": [
+       "france",
+       "netherlands",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "paris"
+      ],
+      "related_stories": []
+     },
+     "2005-03-31-unsc-refers-darfur": {
+      "id": "2005-03-31-unsc-refers-darfur",
+      "date": "2005-03-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Africa",
+      "title": "UN Security Council refers Darfur to the International Criminal Court",
+      "summary": "Resolution 1593 was the first UNSC referral to the ICC.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1593"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "icc"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "diplomacy",
+      "where": [
+       "un-hq"
+      ],
+      "related_stories": []
+     },
+     "2005-01-09-sudan-cpa": {
+      "id": "2005-01-09-sudan-cpa",
+      "date": "2005-01-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Africa",
+      "title": "Sudan's government and the SPLM sign the Comprehensive Peace Agreement",
+      "summary": "The Naivasha deal ended the Second Sudanese Civil War and promised the South a vote on independence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comprehensive_Peace_Agreement"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "south-sudan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "diplomacy",
+      "where": [
+       "naivasha"
+      ],
+      "related_stories": []
+     },
+     "2005-03-24-tulip-revolution": {
+      "id": "2005-03-24-tulip-revolution",
+      "date": "2005-03-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Kyrgyzstan's Tulip Revolution topples President Akayev",
+      "summary": "It was the third 'colour revolution', after Georgia and Ukraine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tulip_Revolution"
+       }
+      ],
+      "entities": [
+       "kyrgyzstan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-03-31",
+      "storylines": [
+       "central-asia"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "bishkek"
+      ],
+      "related_stories": []
+     },
+     "2005-07-05-sco-astana-summit": {
+      "id": "2005-07-05-sco-astana-summit",
+      "date": "2005-07-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Russia/Eurasia",
+      "title": "SCO summit calls for a timeline for US bases in Central Asia",
+      "summary": "Russia and China used the bloc to push back on the US presence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+       }
+      ],
+      "entities": [
+       "sco",
+       "russia",
+       "china",
+       "kazakhstan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "storylines": [
+       "central-asia"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "diplomacy",
+      "where": [
+       "astana"
+      ],
+      "related_stories": [
+       "2025-11-06-c5-plus-1-summit"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup",
+       "2024-02-14-prabowo-elected",
+       "2019-11-11-gambia-v-myanmar",
+       "2018-05-09-mahathir-wins",
+       "2018-08-27-un-myanmar-genocide-call",
+       "2017-05-23-marawi-siege",
+       "2017-08-25-rohingya-exodus",
+       "2016-06-30-duterte-drug-war",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2015-08-17-bangkok-bombing",
+       "2015-11-08-nld-wins-myanmar",
+       "2014-05-02-hysy981-standoff",
+       "2014-05-22-thai-coup",
+       "2013-01-22-philippines-files-arbitration",
+       "2012-04-01-suu-kyi-elected",
+       "2012-04-08-scarborough-standoff",
+       "2012-06-08-rakhine-riots",
+       "2011-03-30-thein-sein-sworn-in",
+       "2011-07-03-yingluck-wins",
+       "2010-05-19-thai-crackdown",
+       "2010-11-13-suu-kyi-released",
+       "2009-04-11-thai-red-shirts-pattaya",
+       "2008-05-02-cyclone-nargis",
+       "2008-11-25-thai-airports-seized",
+       "2007-09-26-saffron-revolution",
+       "2006-05-25-east-timor-crisis",
+       "2006-09-19-thai-coup",
+       "2005-02-06-thaksin-landslide",
+       "2005-08-15-aceh-peace"
+      ],
+      "source": "inbox"
+     },
+     "kashmir-india-pakistan": {
+      "id": "kashmir-india-pakistan",
+      "name": "Kashmir & the India–Pakistan crises",
+      "entities": [
+       "india",
+       "pakistan",
+       "jaish-e-mohammed",
+       "narendra-modi"
+      ],
+      "stories": [
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked",
+       "2016-07-08-burhan-wani-kashmir-unrest",
+       "2016-09-18-uri-attack",
+       "2008-11-26-mumbai-attacks"
+      ],
+      "source": "inbox"
+     },
+     "iraq-war": {
+      "id": "iraq-war",
+      "name": "Iraq war and occupation 2003–11",
+      "entities": [
+       "iraq",
+       "united-states",
+       "nouri-al-maliki"
+      ],
+      "stories": [
+       "2009-02-27-obama-iraq-drawdown",
+       "2010-09-01-operation-new-dawn",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-03-25-battle-of-basra",
+       "2008-11-27-iraq-sofa",
+       "2007-01-10-iraq-surge-announced",
+       "2007-08-14-yazidi-bombings",
+       "2007-09-16-nisour-square",
+       "2006-02-22-samarra-mosque-bombing",
+       "2006-05-20-maliki-becomes-pm",
+       "2006-06-07-zarqawi-killed",
+       "2006-11-07-us-midterms-democrats",
+       "2006-12-06-iraq-study-group",
+       "2006-12-30-saddam-executed",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2005-01-30-iraq-first-election"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies",
+       "2015-11-22-macri-elected",
+       "2014-03-17-car-wash-begins",
+       "2014-09-26-iguala-kidnapping",
+       "2014-10-26-rousseff-reelected",
+       "2014-12-17-cuba-thaw-announced",
+       "2013-03-05-chavez-dies",
+       "2013-06-20-brazil-protests",
+       "2012-06-22-lugo-impeached",
+       "2012-07-01-pena-nieto-elected",
+       "2012-09-04-farc-talks-open",
+       "2011-01-01-rousseff-takes-office",
+       "2010-01-12-haiti-earthquake",
+       "2010-06-20-santos-elected",
+       "2010-08-24-san-fernando-massacre",
+       "2010-10-31-dilma-elected",
+       "2009-06-28-honduras-coup",
+       "2009-12-06-bolivia-morales-reelected",
+       "2008-02-19-fidel-castro-steps-down",
+       "2008-03-01-andean-crisis",
+       "2008-06-30-merida-initiative",
+       "2007-01-10-ortega-returns",
+       "2007-01-15-correa-takes-office",
+       "2006-05-01-bolivia-gas-nationalised",
+       "2006-07-02-mexico-calderon-wins",
+       "2006-10-29-lula-reelected",
+       "2006-12-11-mexico-drug-war"
+      ],
+      "source": "inbox"
+     },
+     "war-on-terror": {
+      "id": "war-on-terror",
+      "name": "9/11 and the war on terror",
+      "entities": [
+       "al-qaeda",
+       "united-states",
+       "taliban",
+       "osama-bin-laden"
+      ],
+      "stories": [
+       "2009-11-05-fort-hood-shooting",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-25-underwear-bomber",
+       "2009-12-30-camp-chapman-attack",
+       "2011-05-02-bin-laden-killed",
+       "2006-08-10-transatlantic-plot",
+       "2006-09-02-operation-medusa",
+       "2005-07-07-london-bombings"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing",
+       "2008-10-10-us-india-nuclear-deal",
+       "2008-11-26-mumbai-attacks",
+       "2007-07-10-lal-masjid-siege",
+       "2007-11-03-musharraf-emergency",
+       "2007-12-14-ttp-formed",
+       "2007-12-27-bhutto-assassinated",
+       "2006-03-02-bush-singh-nuclear-deal",
+       "2006-07-11-mumbai-train-bombings",
+       "2006-06-sri-lanka-eelam-war-iv"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
