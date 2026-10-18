@@ -1,0 +1,669 @@
+{
+ "edition": "2004-03-31",
+ "entities": [
+  {
+   "id": "yasser-arafat",
+   "name": "Yasser Arafat",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yasser_Arafat"
+  },
+  {
+   "id": "abdul-qadeer-khan",
+   "name": "Abdul Qadeer Khan",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan"
+  },
+  {
+   "id": "jean-bertrand-aristide",
+   "name": "Jean-Bertrand Aristide",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide"
+  },
+  {
+   "id": "manmohan-singh",
+   "name": "Manmohan Singh",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manmohan_Singh"
+  },
+  {
+   "id": "chen-shui-bian",
+   "name": "Chen Shui-bian",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chen_Shui-bian"
+  },
+  {
+   "id": "uruguay",
+   "name": "Uruguay",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Uruguay"
+  },
+  {
+   "id": "equatorial-guinea",
+   "name": "Equatorial Guinea",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+  },
+  {
+   "id": "fallujah",
+   "name": "Fallujah",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fallujah",
+   "lat": 33.35,
+   "lon": 43.78333333,
+   "precision": "city"
+  },
+  {
+   "id": "abu-ghraib",
+   "name": "Abu Ghraib prison",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abu_Ghraib_prison",
+   "lat": 33.2925,
+   "lon": 44.065,
+   "precision": "feature"
+  },
+  {
+   "id": "najaf",
+   "name": "Najaf",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Najaf",
+   "lat": 32.0,
+   "lon": 44.33,
+   "precision": "city"
+  },
+  {
+   "id": "beslan",
+   "name": "Beslan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Beslan",
+   "lat": 43.18333333,
+   "lon": 44.55,
+   "precision": "city"
+  },
+  {
+   "id": "khobar",
+   "name": "Khobar",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Khobar",
+   "lat": 26.28333333,
+   "lon": 50.2,
+   "precision": "city"
+  },
+  {
+   "id": "tak-bai",
+   "name": "Tak Bai",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tak_Bai_district",
+   "lat": 6.25888889,
+   "lon": 102.055,
+   "precision": "sector"
+  },
+  {
+   "id": "wana",
+   "name": "Wana, South Waziristan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Wana",
+   "lat": 32.3061,
+   "lon": 69.5928,
+   "precision": "sector"
+  },
+  {
+   "id": "grozny",
+   "name": "Grozny",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Grozny",
+   "lat": 43.3125,
+   "lon": 45.69861111,
+   "precision": "city"
+  },
+  {
+   "id": "montevideo",
+   "name": "Montevideo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Montevideo",
+   "lat": -34.90555556,
+   "lon": -56.18416667,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2004-01-04-saakashvili-elected",
+   "date": "2004-01-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Russia/Eurasia",
+   "title": "Mikheil Saakashvili wins Georgia's presidency after the Rose Revolution",
+   "summary": "He pursued NATO membership and confronted the breakaway regions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election"
+    }
+   ],
+   "entities": [
+    "georgia",
+    "mikheil-saakashvili"
+   ],
+   "storylines": [
+    "south-caucasus"
+   ],
+   "marker": "political",
+   "where": [
+    "tbilisi"
+   ]
+  },
+  {
+   "id": "2004-02-04-aq-khan-confession",
+   "date": "2004-02-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "A.Q. Khan confesses to selling nuclear secrets",
+   "summary": "His network had supplied Iran, Libya and North Korea; Musharraf pardoned him.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "abdul-qadeer-khan",
+    "iran",
+    "north-korea",
+    "libya"
+   ],
+   "storylines": [
+    "south-asia-security",
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2004-02-29-aristide-ousted",
+   "date": "2004-02-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Americas",
+   "title": "Haiti's Aristide is forced out amid a rebellion",
+   "summary": "A Brazil-led UN force, MINUSTAH, deployed that June.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Stabilisation_Mission_in_Haiti"
+    }
+   ],
+   "entities": [
+    "haiti",
+    "jean-bertrand-aristide",
+    "brazil"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "port-au-prince"
+   ]
+  },
+  {
+   "id": "2004-03-11-madrid-bombings",
+   "date": "2004-03-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Europe",
+   "title": "Bombs on Madrid commuter trains kill 193",
+   "summary": "The al-Qaeda-inspired attack was Europe's deadliest terrorist strike since Lockerbie.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
+    }
+   ],
+   "entities": [
+    "spain",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "madrid"
+   ]
+  },
+  {
+   "id": "2004-03-14-putin-reelected",
+   "date": "2004-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Russia/Eurasia",
+   "title": "Putin wins a second term in a landslide",
+   "summary": "Observers said the vote was not a real contest.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Russian_presidential_election"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2004-03-14-zapatero-wins",
+   "date": "2004-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Europe",
+   "title": "Spain's Socialists win after the Madrid bombings and pull troops from Iraq",
+   "summary": "The government's attempt to blame ETA backfired.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Spanish_general_election"
+    }
+   ],
+   "entities": [
+    "spain"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "madrid"
+   ]
+  },
+  {
+   "id": "2004-03-17-kosovo-unrest",
+   "date": "2004-03-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Europe",
+   "title": "Anti-Serb riots sweep Kosovo",
+   "summary": "The violence pushed the West to settle Kosovo's status.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_unrest_in_Kosovo"
+    }
+   ],
+   "entities": [
+    "kosovo",
+    "serbia",
+    "nato"
+   ],
+   "marker": "political",
+   "where": [
+    "pristina"
+   ]
+  },
+  {
+   "id": "2004-03-18-battle-of-wana",
+   "date": "2004-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "Pakistan's army fights al-Qaeda-linked militants near Wana",
+   "summary": "It was the start of Pakistan's war in the tribal areas.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Wana"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "wana"
+   ]
+  },
+  {
+   "id": "2004-03-20-chen-reelected",
+   "date": "2004-03-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "Chen Shui-bian narrowly wins re-election in Taiwan after being shot",
+   "summary": "His pro-independence term raised tension with Beijing.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Taiwanese_presidential_election"
+    }
+   ],
+   "entities": [
+    "taiwan",
+    "chen-shui-bian",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "taipei"
+   ]
+  },
+  {
+   "id": "2004-03-22-yassin-killed",
+   "date": "2004-03-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "Israel kills Hamas founder Sheikh Ahmed Yassin",
+   "summary": "The strike came during the second intifada.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ahmed_Yassin"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hamas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "strike",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2004-03-29-nato-enlargement",
+   "date": "2004-03-29",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Europe",
+   "title": "Seven states including the three Baltic republics join NATO",
+   "summary": "The alliance's biggest expansion brought NATO to Russia's border.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Enlargement_of_NATO"
+    }
+   ],
+   "entities": [
+    "nato",
+    "estonia",
+    "bulgaria",
+    "romania",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2004-01-japan-troops-iraq",
+   "date": "2004-01",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "Japan sends ground troops to Iraq",
+   "summary": "It was Japan's first non-UN foreign troop deployment since World War II.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Japanese_Iraq_Reconstruction_and_Support_Group"
+    }
+   ],
+   "entities": [
+    "japan",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "unplaced": "Samawah, southern Iraq."
+  },
+  {
+   "id": "2004-03-07-equatorial-guinea-coup-plot",
+   "date": "2004-03-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Africa",
+   "title": "Mercenaries led by Simon Mann are arrested over an Equatorial Guinea coup plot",
+   "summary": "The 'Wonga coup' exposed foreign interest in the oil state.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Equatorial_Guinea_coup_attempt"
+    }
+   ],
+   "entities": [
+    "equatorial-guinea",
+    "zimbabwe"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "harare"
+   ]
+  },
+  {
+   "id": "2004-03-25-blair-meets-gaddafi",
+   "date": "2004-03-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Africa",
+   "title": "Blair meets Gaddafi as Libya gives up its weapons programmes",
+   "summary": "Libya's December 2003 pledge brought sanctions relief and exposed the A.Q. Khan network.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+    }
+   ],
+   "entities": [
+    "libya",
+    "muammar-gaddafi",
+    "united-kingdom"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tripoli"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2004-01-04-saakashvili-elected"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2004-02-04-aq-khan-confession"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2004-02-04-aq-khan-confession"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2004-02-29-aristide-ousted"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2004-03-11-madrid-bombings"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2004-03-14-putin-reelected",
+    "2004-03-29-nato-enlargement"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2004-03-14-zapatero-wins",
+    "2004-01-japan-troops-iraq"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2004-03-18-battle-of-wana"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2004-03-20-chen-reelected"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2004-03-22-yassin-killed"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2004-03-07-equatorial-guinea-coup-plot"
+   ]
+  }
+ ]
+}
