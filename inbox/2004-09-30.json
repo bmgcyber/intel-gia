@@ -1,0 +1,235 @@
+{
+ "edition": "2004-09-30",
+ "stories": [
+  {
+   "id": "2004-07-09-icj-wall-opinion",
+   "date": "2004-07-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Middle East",
+   "title": "The ICJ says Israel's West Bank barrier breaches international law",
+   "summary": "Israel rejected the advisory opinion.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Legal_Consequences_of_the_Construction_of_a_Wall_in_the_Occupied_Palestinian_Territory"
+    }
+   ],
+   "entities": [
+    "icj",
+    "israel"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "the-hague"
+   ]
+  },
+  {
+   "id": "2004-07-22-911-commission-report",
+   "date": "2004-07-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Americas",
+   "title": "9/11 Commission report details intelligence failures",
+   "summary": "It led to the creation of a Director of National Intelligence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/9/11_Commission"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2004-08-15-chavez-recall-survived",
+   "date": "2004-08-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Americas",
+   "title": "Chávez survives a recall referendum",
+   "summary": "The win let him consolidate control.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2004_Venezuelan_recall_referendum"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez"
+   ],
+   "storylines": [
+    "venezuela-oil"
+   ],
+   "marker": "political",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2004-09-01-beslan-siege",
+   "date": "2004-09-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Russia/Eurasia",
+   "title": "Chechen militants seize a school in Beslan; over 330 die",
+   "summary": "Putin used the tragedy to abolish elected governors.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Beslan_school_siege"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "beslan"
+   ]
+  },
+  {
+   "id": "2004-09-09-us-calls-darfur-genocide",
+   "date": "2004-09-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Africa",
+   "title": "US Secretary of State Powell calls the killing in Darfur genocide",
+   "summary": "Janjaweed militias backed by Khartoum had driven millions from their homes.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/War_in_Darfur"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "united-states"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Darfur, western Sudan."
+  },
+  {
+   "id": "2004-09-19-hu-takes-military",
+   "date": "2004-09-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+   "region": "Asia-Pacific",
+   "title": "Jiang Zemin hands command of China's military to Hu Jintao",
+   "summary": "The handover completed Hu's takeover of power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
+    }
+   ],
+   "entities": [
+    "china",
+    "hu-jintao",
+    "pla"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2004-07-09-icj-wall-opinion"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2004-07-22-911-commission-report"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2004-08-15-chavez-recall-survived"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2004-09-01-beslan-siege"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2004-09-09-us-calls-darfur-genocide"
+   ]
+  }
+ ]
+}
