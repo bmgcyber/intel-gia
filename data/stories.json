@@ -41794,7 +41794,9 @@
   "era": "2016 (Brexit and Trump)",
   "marker": "energy",
   "unplaced": "Global market.",
-  "related_stories": []
+  "related_stories": [
+   "2016-04-25-vision-2030"
+  ]
  },
  {
   "id": "2016-03-22-brussels-bombings",
@@ -41975,5 +41977,239 @@
   "related_stories": [
    "2020-08-12-east-med-standoff"
   ]
+ },
+ {
+  "id": "2016-04-03-panama-papers",
+  "date": "2016-04-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Europe",
+  "title": "Panama Papers leak exposes the offshore wealth of world leaders",
+  "summary": "11.5 million files from Mossack Fonseca led to the resignation of Iceland's PM and, in 2017, the disqualification of Pakistan's Nawaz Sharif.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Panama_Papers"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore"
+   }
+  ],
+  "entities": [
+   "pakistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "era": "2016 (Brexit and Trump)",
+  "marker": "political",
+  "unplaced": "Global leak.",
+  "related_stories": []
+ },
+ {
+  "id": "2016-04-25-vision-2030",
+  "date": "2016-04-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Middle East",
+  "title": "Mohammed bin Salman launches Saudi Vision 2030",
+  "summary": "The plan to diversify away from oil included selling part of Aramco; many of its megaprojects were later scaled back.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Saudi_Vision_2030"
+   }
+  ],
+  "entities": [
+   "mohammed-bin-salman",
+   "saudi-arabia",
+   "vision-2030",
+   "aramco"
+  ],
+  "causes": [
+   {
+    "story": "2016-01-20-oil-below-30",
+    "why": "Oil crash exposed fiscal dependence",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2016 (Brexit and Trump)",
+  "marker": "energy",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2016-01-20-oil-below-30",
+   "houthis-saudi-oct15",
+   "2019-12-11-aramco-ipo"
+  ]
+ },
+ {
+  "id": "2016-05-20-tsai-inaugurated",
+  "date": "2016-05-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Asia-Pacific",
+  "title": "Tsai Ing-wen takes office as Taiwan's president; Beijing freezes contacts",
+  "summary": "The DPP leader declined to endorse the '1992 consensus' and China cut official communication.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tsai_Ing-wen"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/20160520-taiwan-first-female-president-inauguration-tsai-ing-wen"
+   }
+  ],
+  "entities": [
+   "tsai-ing-wen",
+   "taiwan",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2016 (Brexit and Trump)",
+  "marker": "political",
+  "where": [
+   "taipei"
+  ],
+  "related_stories": [
+   "2023-04-05-tsai-mccarthy",
+   "2020-01-11-tsai-reelected",
+   "2019-01-02-xi-taiwan-speech"
+  ]
+ },
+ {
+  "id": "2016-05-21-mansour-killed",
+  "date": "2016-05-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Asia-Pacific",
+  "title": "US drone kills Taliban leader Akhtar Mansour in Pakistan",
+  "summary": "Hibatullah Akhundzada, a reclusive cleric who later became Afghanistan's supreme leader, succeeded him.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Akhtar_Mansur"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor"
+   }
+  ],
+  "entities": [
+   "akhtar-mansour",
+   "hibatullah-akhundzada",
+   "taliban",
+   "united-states",
+   "pakistan",
+   "barack-obama"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2016 (Brexit and Trump)",
+  "marker": "strike",
+  "unplaced": "Balochistan, location not precisely given.",
+  "related_stories": [
+   "2021-08-15-fall-of-kabul"
+  ]
+ },
+ {
+  "id": "2016-06-23-brexit-referendum",
+  "date": "2016-06-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Europe",
+  "title": "Britain votes 52–48 to leave the European Union",
+  "summary": "David Cameron resigned and Theresa May took over on Jul 13; it was the biggest blow yet to European integration.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2016/jun/25/article-50-brexit-debate-britain-eu"
+   }
+  ],
+  "entities": [
+   "united-kingdom",
+   "european-union",
+   "theresa-may"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "analysis": {
+   "text": "Brexit and Trump's win months later marked the populist turn that shaped Western politics to today.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "transatlantic-rift",
+   "europe-populism"
+  ],
+  "era": "2016 (Brexit and Trump)",
+  "marker": "political",
+  "unplaced": "National referendum.",
+  "related_stories": [
+   "2018-11-25-brexit-deal-endorsed",
+   "2017-03-29-article-50"
+  ]
+ },
+ {
+  "id": "2016-06-30-duterte-drug-war",
+  "date": "2016-06-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2016-06-30",
+  "region": "Asia-Pacific",
+  "title": "Rodrigo Duterte becomes Philippine president and launches a bloody drug war",
+  "summary": "Thousands were killed by police and vigilantes; he also tilted Manila toward Beijing after the South China Sea ruling.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Philippine_drug_war"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2016/jul/01/philippines-president-rodrigo-duterte-urges-people-to-kill-drug-addicts"
+   }
+  ],
+  "entities": [
+   "rodrigo-duterte",
+   "philippines"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2016-06-30",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2016 (Brexit and Trump)",
+  "marker": "political",
+  "where": [
+   "manila"
+  ],
+  "related_stories": []
  }
 ]
