@@ -71162,6 +71162,509 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2011-09-30": {
+   "sha256": "491a0ba4d2b12baeef6d275e240c88d2089b2e7399bc82f312faeefe1864deb5",
+   "undo": {
+    "stories": {
+     "2011-07-03-yingluck-wins": null,
+     "2011-07-09-south-sudan-independence": null,
+     "2011-07-20-somalia-famine": null,
+     "2011-07-22-norway-attacks": null,
+     "2011-07-29-fsa-formed": null,
+     "2011-08-05-us-downgrade": null,
+     "2011-08-20-fall-of-tripoli": null,
+     "2011-08-26-abuja-un-bombing": null,
+     "2011-09-17-occupy-wall-street": null,
+     "2011-01-09-south-sudan-referendum": {
+      "id": "2011-01-09-south-sudan-referendum",
+      "date": "2011-01-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "Southern Sudanese vote almost unanimously for independence",
+      "summary": "About 98.8% backed secession in the vote promised by the 2005 peace deal.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2011/1/9/bye-bye-juba"
+       }
+      ],
+      "entities": [
+       "south-sudan",
+       "sudan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "juba"
+      ],
+      "related_stories": []
+     },
+     "2011-03-15-syria-uprising": {
+      "id": "2011-03-15-syria-uprising",
+      "date": "2011-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Middle East",
+      "title": "Syria's uprising against Assad begins, centred on Daraa",
+      "summary": "Peaceful protests met with lethal force spiralled into civil war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syrian_revolution"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/30/syrian-protests-assad-blames-conspirators"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad"
+      ],
+      "causes": [
+       {
+        "story": "2011-01-14-ben-ali-flees",
+        "why": "Arab Spring contagion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "analysis": {
+       "text": "The war that followed drew in Iran, Russia, Turkey and the US and produced ISIS and the HTS government.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "daraa"
+      ],
+      "related_stories": [
+       "2011-01-14-ben-ali-flees"
+      ]
+     },
+     "2011-03-19-libya-intervention": {
+      "id": "2011-03-19-libya-intervention",
+      "date": "2011-03-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "NATO-led coalition intervenes in Libya under UN Resolution 1973",
+      "summary": "Russia and China abstained on the no-fly zone vote, and Moscow later said the West had abused it to topple Gaddafi.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1973"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/17/germany-rules-out-libya-military"
+       }
+      ],
+      "entities": [
+       "nato",
+       "united-states",
+       "france",
+       "united-kingdom",
+       "libya",
+       "russia",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2011-02-15-libya-uprising",
+        "why": "Protect civilians in Benghazi",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "military",
+      "where": [
+       "un-hq"
+      ],
+      "related_stories": [
+       "2011-02-15-libya-uprising",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-26-swift-cbr",
+       "2022-06-29-madrid",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-11-20-28-point-plan",
+       "2025-11-06-c5-plus-1-summit",
+       "2023-03-13-aukus-pathway",
+       "2024-10-02-china-coast-guard-arctic",
+       "2025-03-14-svalbard-militarisation-row",
+       "2020-06-30-hong-kong-nsl",
+       "2021-09-15-aukus",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-08-us-quits-jcpoa",
+       "2015-07-14-jcpoa-agreed",
+       "2015-12-12-paris-climate-agreement",
+       "2014-09-05-nato-wales-2pct",
+       "2013-11-24-iran-interim-deal"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup",
+       "2024-02-14-prabowo-elected",
+       "2019-11-11-gambia-v-myanmar",
+       "2018-05-09-mahathir-wins",
+       "2018-08-27-un-myanmar-genocide-call",
+       "2017-05-23-marawi-siege",
+       "2017-08-25-rohingya-exodus",
+       "2016-06-30-duterte-drug-war",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2015-08-17-bangkok-bombing",
+       "2015-11-08-nld-wins-myanmar",
+       "2014-05-02-hysy981-standoff",
+       "2014-05-22-thai-coup",
+       "2013-01-22-philippines-files-arbitration",
+       "2012-04-01-suu-kyi-elected",
+       "2012-04-08-scarborough-standoff",
+       "2012-06-08-rakhine-riots",
+       "2011-03-30-thein-sein-sworn-in"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement",
+       "2019-10-11-abiy-nobel",
+       "2018-04-02-abiy-pm",
+       "2018-07-09-ethiopia-eritrea-peace",
+       "2016-10-09-ethiopia-state-of-emergency",
+       "2013-09-21-westgate-attack",
+       "2013-12-15-south-sudan-civil-war",
+       "2012-02-09-shabaab-joins-al-qaeda",
+       "2012-04-10-heglig-crisis",
+       "2012-09-28-kismayo-falls",
+       "2011-01-09-south-sudan-referendum"
+      ],
+      "source": "inbox"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote",
+       "2018-11-17-yellow-vests",
+       "2017-05-07-macron-elected",
+       "2017-09-24-afd-enters-bundestag",
+       "2016-03-18-eu-turkey-migrant-deal",
+       "2016-06-23-brexit-referendum",
+       "2016-12-19-berlin-market-attack",
+       "2015-09-04-merkel-opens-border",
+       "2015-11-13-paris-attacks",
+       "2013-05-28-gezi-protests",
+       "2013-09-22-merkel-third-term",
+       "2013-10-03-lampedusa-shipwreck",
+       "2012-05-06-greek-election-syriza"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria",
+       "2015-11-24-turkey-downs-su-24",
+       "2014-07-08-gaza-war",
+       "2013-06-05-qusayr-hezbollah",
+       "2013-08-21-ghouta-sarin",
+       "2013-09-14-syria-chemical-deal",
+       "2012-01-23-nusra-founded",
+       "2012-05-25-houla-massacre",
+       "2012-07-18-damascus-bombing",
+       "2012-08-20-obama-red-line",
+       "2012-07-19-ypg-takes-kobani",
+       "2012-11-14-pillar-of-defense",
+       "2012-11-29-un-palestine-observer",
+       "2011-03-15-syria-uprising"
+      ],
+      "source": "inbox"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse",
+       "2023-07-26-fed-peak-rate",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2021-03-11-american-rescue-plan",
+       "2023-03-19-credit-suisse-rescue",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2013-04-04-boj-qqe",
+       "2013-06-19-taper-tantrum",
+       "2012-07-26-draghi-whatever-it-takes"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists",
+       "2017-10-04-tongo-tongo-ambush",
+       "2016-03-30-gna-arrives-tripoli",
+       "2016-12-06-sirte-liberated",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-31-buhari-wins",
+       "2015-09-16-burkina-coup-attempt",
+       "2015-12-17-libyan-political-agreement",
+       "2014-04-14-chibok-kidnapping",
+       "2014-05-16-haftar-operation-dignity",
+       "2014-08-01-barkhane",
+       "2014-10-31-compaore-ousted",
+       "2013-01-11-operation-serval",
+       "2013-01-16-in-amenas",
+       "2012-01-17-tuareg-rebellion",
+       "2012-03-22-mali-coup",
+       "2012-09-11-benghazi-attack",
+       "2011-02-15-libya-uprising",
+       "2011-03-19-libya-intervention"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
