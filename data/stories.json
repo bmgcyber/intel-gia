@@ -7922,6 +7922,11 @@
     "story": "2025-01-07-trump-greenland-panama",
     "why": "A year of US pressure on Greenland",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-10-02-china-coast-guard-arctic",
+    "why": "Sino-Russian Arctic activity was cited as rationale",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -7940,6 +7945,7 @@
   ],
   "related_stories": [
    "2025-01-07-trump-greenland-panama",
+   "2024-10-02-china-coast-guard-arctic",
    "2026-01-27-india-eu-fta",
    "2026-07-08-nato-ankara",
    "2026-09-18-greenland-deal",
@@ -7952,6 +7958,13 @@
    {
     "edition": "2025-12-31",
     "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12241,6 +12254,11 @@
     "story": "2024-10-16-sinwar-killed",
     "why": "Hamas leadership decapitated",
     "confidence": "possible"
+   },
+   {
+    "story": "2023-11-24-gaza-hostage-truce",
+    "why": "The 2023 truce was the template for the hostage-prisoner exchange",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -12253,12 +12271,20 @@
   "unplaced": "Gaza Strip-wide; no single site.",
   "related_stories": [
    "2024-10-16-sinwar-killed",
+   "2023-11-24-gaza-hostage-truce",
    "2025-03-18-gaza-war-resumes"
   ],
   "revisions": [
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -12298,6 +12324,11 @@
     "story": "2022-06-13-bunagana",
     "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-05-02-m23-seizes-rubaya",
+    "why": "Coltan revenue from Rubaya financed the advance",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -12312,12 +12343,22 @@
   ],
   "related_stories": [
    "2022-06-13-bunagana",
+   "2024-05-02-m23-seizes-rubaya",
+   "2025-12-04-washington-accords-uvira",
    "kabila-m23",
    "rubaya-coltan",
    "kabila-frn-succeeds-afc",
    "2026-01-19-m23-leaves-uvira",
-   "2026-03-washington-accords",
-   "2025-12-04-washington-accords-uvira"
+   "2026-03-washington-accords"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -14021,6 +14062,11 @@
     "story": "2025-03-18-gaza-war-resumes",
     "why": "Renewed war and aid restrictions",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-03-18-gaza-famine-warning",
+    "why": "Famine had been projected since March 2024",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -14035,7 +14081,17 @@
   ],
   "related_stories": [
    "2025-03-18-gaza-war-resumes",
+   "2024-03-18-gaza-famine-warning",
    "2025-10-10-gaza-ceasefire-trump-plan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -15147,6 +15203,11 @@
     "story": "2024-08-01-zamzam-famine",
     "why": "Siege and famine around El Fasher",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-05-10-el-fasher-siege",
+    "why": "The fall ended an 18-month siege",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -15166,14 +15227,25 @@
   "related_stories": [
    "2025-03-21-khartoum-retaken",
    "2024-08-01-zamzam-famine",
+   "2024-05-10-el-fasher-siege",
    "2026-02-03-kadugli-siege-broken",
    "2026-06-el-obeid-atrocity-warning",
-   "2026-10-09-el-obeid-drones"
+   "2026-10-09-el-obeid-drones",
+   "2023-04-15-sudan-war-begins",
+   "2023-05-11-jeddah-declaration",
+   "2023-12-18-wad-madani-falls"
   ],
   "revisions": [
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -15349,6 +15421,11 @@
     "story": "2025-10-21-takaichi-pm",
     "why": "New hawkish premier",
     "confidence": "likely"
+   },
+   {
+    "story": "2022-12-16-japan-security-strategy",
+    "why": "Japan's harder security line since 2022",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -15362,6 +15439,7 @@
   "unplaced": "Remarks in the Diet; no place entity.",
   "related_stories": [
    "2025-10-21-takaichi-pm",
+   "2022-12-16-japan-security-strategy",
    "2025-12-29-justice-mission-drills",
    "2026-02-08-takaichi-landslide",
    "2026-05-22-china-japan-rare-earths",
@@ -15369,6 +15447,15 @@
    "pla-drills",
    "2022-08-04-pla-drills",
    "2026-03-30-china-sanctions-furuya"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -16014,6 +16101,11 @@
     "story": "2025-06-22-midnight-hammer",
     "why": "War damage and isolation",
     "confidence": "possible"
+   },
+   {
+    "story": "2023-10-06-narges-mohammadi-nobel",
+    "why": "Dissent kept alive since the 2022 uprising",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -16029,7 +16121,17 @@
   "related_stories": [
    "2025-09-28-iran-snapback",
    "2025-06-22-midnight-hammer",
+   "2023-10-06-narges-mohammadi-nobel",
    "2026-01-08-iran-protest-crackdown"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -16911,6 +17013,11 @@
     "story": "2025-04-02-liberation-day",
     "why": "US tariffs redirected Chinese exports",
     "confidence": "likely"
+   },
+   {
+    "story": "2023-10-18-country-garden-default",
+    "why": "The property bust shifted growth to exports",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -16927,7 +17034,17 @@
   "unplaced": "National data.",
   "related_stories": [
    "2025-10-30-busan-truce",
-   "2025-04-02-liberation-day"
+   "2025-04-02-liberation-day",
+   "2023-10-18-country-garden-default"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -17708,6 +17825,11 @@
     "story": "2022-08-04-pla-drills",
     "why": "Cross-strait tension since Pelosi's 2022 visit",
     "confidence": "likely"
+   },
+   {
+    "story": "2023-04-05-tsai-mccarthy",
+    "why": "Cross-strait tension in the run-up",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -17722,10 +17844,20 @@
   ],
   "related_stories": [
    "2022-08-04-pla-drills",
+   "2023-04-05-tsai-mccarthy",
+   "2025-04-02-strait-thunder",
    "pla-drills",
    "pla-patrol-oct14-15",
-   "2025-12-29-justice-mission-drills",
-   "2025-04-02-strait-thunder"
+   "2025-12-29-justice-mission-drills"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -18478,6 +18610,11 @@
     "story": "2023-07-26-niger-coup",
     "why": "Niger's coup completed the junta bloc",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-01-25-africa-corps-burkina",
+    "why": "Russian security backing for the juntas",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -18493,12 +18630,20 @@
   "related_stories": [
    "2022-02-17-france-leaves-mali",
    "2023-07-26-niger-coup",
+   "2024-01-25-africa-corps-burkina",
    "2025-06-06-wagner-leaves-mali"
   ],
   "revisions": [
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -18639,6 +18784,11 @@
     "story": "2023-04-15-sudan-war-begins",
     "why": "Famine produced by the war",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-05-10-el-fasher-siege",
+    "why": "Siege cut off the camps near El Fasher",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -18653,12 +18803,20 @@
   ],
   "related_stories": [
    "2023-04-15-sudan-war-begins",
+   "2024-05-10-el-fasher-siege",
    "2025-10-26-el-fasher-falls"
   ],
   "revisions": [
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2026-09-28",
+    "why": "Phase D gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -18712,7 +18870,8 @@
   ],
   "related_stories": [
    "2022-07-sri-lanka-flight",
-   "2025-11-17-hasina-death-sentence"
+   "2025-11-17-hasina-death-sentence",
+   "2026-02-12-bangladesh-election"
   ]
  },
  {
@@ -20914,7 +21073,8 @@
   "unplaced": "A cabinet decision in Tokyo.",
   "related_stories": [
    "2022-08-04-pla-drills",
-   "2022-02-24-invasion"
+   "2022-02-24-invasion",
+   "2025-11-07-takaichi-taiwan-remarks"
   ]
  },
  {
@@ -21055,7 +21215,8 @@
    "pla-patrol-oct15-16",
    "dongsha-coast-guard-incursion",
    "2025-12-29-justice-mission-drills",
-   "2025-04-02-strait-thunder"
+   "2025-04-02-strait-thunder",
+   "2024-01-13-lai-elected-taiwan"
   ]
  },
  {
@@ -21232,7 +21393,8 @@
   "marker": "political",
   "unplaced": "Announced in Oslo; Mohammadi was in Evin prison.",
   "related_stories": [
-   "2022-09-16-mahsa-amini"
+   "2022-09-16-mahsa-amini",
+   "2025-12-28-iran-protests-begin"
   ]
  },
  {
@@ -21284,7 +21446,8 @@
   "marker": "political",
   "unplaced": "A bond default.",
   "related_stories": [
-   "2023-01-08-china-reopens"
+   "2023-01-08-china-reopens",
+   "2026-01-14-china-trillion-surplus"
   ]
  },
  {
@@ -21340,7 +21503,8 @@
    "2025-09-09-israel-strikes-doha",
    "2025-10-10-gaza-ceasefire-trump-plan",
    "2025-11-17-unsc-2803",
-   "2024-05-07-rafah-offensive"
+   "2024-05-07-rafah-offensive",
+   "2025-01-19-gaza-ceasefire"
   ]
  },
  {
@@ -21527,7 +21691,8 @@
   "unplaced": "Ouagadougou has no place entity.",
   "related_stories": [
    "2023-08-23-prigozhin-killed",
-   "2025-06-06-wagner-leaves-mali"
+   "2025-06-06-wagner-leaves-mali",
+   "2024-07-06-aes-confederation"
   ]
  },
  {
@@ -21629,7 +21794,8 @@
   ],
   "related_stories": [
    "2023-10-27-gaza-ground-invasion",
-   "2024-11-21-icc-netanyahu-warrant"
+   "2024-11-21-icc-netanyahu-warrant",
+   "2025-08-22-gaza-famine"
   ]
  },
  {
@@ -21746,7 +21912,8 @@
    "2025-10-26-el-fasher-falls",
    "2023-04-15-sudan-war-begins",
    "2023-05-11-jeddah-declaration",
-   "2025-01-07-us-rsf-genocide"
+   "2025-01-07-us-rsf-genocide",
+   "2024-08-01-zamzam-famine"
   ]
  },
  {
@@ -21803,7 +21970,8 @@
    "trump-waives-russia-sanctions",
    "2026-02-05-new-start-expires",
    "2026-09-18-graham-act-signed",
-   "2025-11-06-c5-plus-1-summit"
+   "2025-11-06-c5-plus-1-summit",
+   "2026-01-21-greenland-davos"
   ]
  },
  {
@@ -21963,6 +22131,64 @@
    "dhaka"
   ],
   "related_stories": [
+   "2024-08-05-hasina-flees",
+   "2026-02-12-bangladesh-election"
+  ]
+ },
+ {
+  "id": "2026-02-12-bangladesh-election",
+  "date": "2026-02-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-28",
+  "region": "Asia-Pacific",
+  "title": "BNP wins a landslide in Bangladesh's first post-Hasina election; Tarique Rahman becomes PM",
+  "summary": "The BNP won about 210 of 300 directly elected seats, and Jamaat-e-Islami became the main opposition for the first time. A referendum approved the 'July Charter' reforms by more than 60%. Rahman replaced Yunus's interim government on Feb 17.",
+  "sources": [
+   {
+    "name": "IPU Parline",
+    "url": "https://data.ipu.org/parliament/BD/BD-LC01/election/BD-LC01-E20260212/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/tarique-rahman-sworn-bangladeshs-pm-after-landslide-election-victory-2026-02-17/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/2/17/incoming-bangladesh-pm-tarique-rahman-lawmakers-sworn-into-parliament"
+   },
+   {
+    "name": "The Business Standard",
+    "url": "https://www.tbsnews.net/bangladesh-election-2026/ec-publishes-gazette-newly-elected-mps-1361181"
+   }
+  ],
+  "entities": [
+   "bangladesh",
+   "tarique-rahman",
+   "muhammad-yunus"
+  ],
+  "causes": [
+   {
+    "story": "2025-11-17-hasina-death-sentence",
+    "why": "Awami League excluded",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-08-05-hasina-flees",
+    "why": "Transition after the uprising",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-28",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2025-11-17-hasina-death-sentence",
    "2024-08-05-hasina-flees"
   ]
  }

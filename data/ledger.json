@@ -22516,6 +22516,1265 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-09-28": {
+   "sha256": "ec676e4a3578655c9ebcb416de5e9fb9a6d812765057121ad7d6132322b2fc92",
+   "undo": {
+    "stories": {
+     "2026-02-12-bangladesh-election": null,
+     "2025-01-19-gaza-ceasefire": {
+      "id": "2025-01-19-gaza-ceasefire",
+      "date": "2025-01-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Middle East",
+      "title": "First Gaza ceasefire takes effect; first hostages and prisoners swapped",
+      "summary": "A ceasefire between Israel and Hamas took effect on Jan 19 after a nearly three-hour delay. Hamas freed three Israeli women hostages and Israel released 90 Palestinian prisoners on the first day.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cvgpe1pmyq5o"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/1/19/israel-hamas-ceasefire-takes-effect-in-gaza"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2024-10-16-sinwar-killed",
+        "why": "Hamas leadership decapitated",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "unplaced": "Gaza Strip-wide; no single site.",
+      "related_stories": [
+       "2024-10-16-sinwar-killed",
+       "2025-03-18-gaza-war-resumes"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-08-22-gaza-famine": {
+      "id": "2025-08-22-gaza-famine",
+      "date": "2025-08-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-09-30",
+      "region": "Middle East",
+      "title": "Famine confirmed in Gaza City for the first time",
+      "summary": "The IPC confirmed Phase 5 famine in Gaza Governorate and projected it would spread to Deir al-Balah and Khan Younis. More than 500,000 people faced catastrophic hunger, the WHO said.",
+      "sources": [
+       {
+        "name": "WHO",
+        "url": "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"
+       },
+       {
+        "name": "IPC Famine Review Committee",
+        "url": "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Famine_Review_Committee_Report_Gaza_Aug2025.pdf"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/gaza-city-officially-famine-with-hunger-spreading-says-global-hunger-monitor-2025-08-22/"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "who"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-18-gaza-war-resumes",
+        "why": "Renewed war and aid restrictions",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2025-03-18-gaza-war-resumes",
+       "2025-10-10-gaza-ceasefire-trump-plan"
+      ]
+     },
+     "2025-10-26-el-fasher-falls": {
+      "id": "2025-10-26-el-fasher-falls",
+      "date": "2025-10-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Africa",
+      "title": "RSF takes El Fasher after an 18-month siege, followed by mass killings",
+      "summary": "The RSF captured North Darfur's capital. The WHO said about 460 people were killed at the Saudi Hospital. OHCHR later documented more than 6,000 killings on Oct 25–27 and said the violations amount to war crimes.",
+      "sources": [
+       {
+        "name": "OHCHR",
+        "url": "https://www.ohchr.org/en/press-releases/2026/02/sudan-rsf-violations-capture-el-fasher-amount-war-crimes"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c364jgkge46o"
+       },
+       {
+        "name": "Yale HRL",
+        "url": "https://ysph.yale.edu/download-file/21697a62-b8a2-4692-b30a-6e984e96bb08/"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudan",
+       "sudanese-armed-forces",
+       "who"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-21-khartoum-retaken",
+        "why": "Driven from the capital, the RSF consolidated Darfur",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-08-01-zamzam-famine",
+        "why": "Siege and famine around El Fasher",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "With all of Darfur held, the RSF turned east into Kordofan, toward Babanusa, Kadugli and El Obeid.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "el-fasher"
+      ],
+      "related_stories": [
+       "2025-03-21-khartoum-retaken",
+       "2024-08-01-zamzam-famine",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-08-01-zamzam-famine": {
+      "id": "2024-08-01-zamzam-famine",
+      "date": "2024-08-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Africa",
+      "title": "Famine confirmed in Darfur's Zamzam camp",
+      "summary": "The IPC's Famine Review Committee found famine conditions in Zamzam camp near besieged El Fasher as the RSF besieged the city.",
+      "sources": [
+       {
+        "name": "IPC",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-107/en/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Famine_in_Sudan_(2024–present)"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "rsf",
+       "food-security"
+      ],
+      "causes": [
+       {
+        "story": "2023-04-15-sudan-war-begins",
+        "why": "Famine produced by the war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "zamzam-camp"
+      ],
+      "related_stories": [
+       "2023-04-15-sudan-war-begins",
+       "2025-10-26-el-fasher-falls"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-01-27-m23-takes-goma": {
+      "id": "2025-01-27-m23-takes-goma",
+      "date": "2025-01-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-03-31",
+      "region": "Africa",
+      "title": "Rwandan-backed M23 rebels enter Goma",
+      "summary": "M23 rebels entered the centre of Goma, eastern Congo's largest city, after claiming its capture. The UN said Rwandan troops were in the city backing them, and the UN Security Council demanded M23 halt its offensive.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/rebels-enter-centre-congos-goma-after-claiming-capture-city-2025-01-27/"
+       },
+       {
+        "name": "Reuters (UN: Rwandan troops)",
+        "url": "https://www.reuters.com/world/africa/fighting-ongoing-across-drcs-goma-rwanda-troops-city-says-un-2025-01-27/"
+       },
+       {
+        "name": "Reuters (UNSC)",
+        "url": "https://www.reuters.com/world/africa/un-security-council-demands-m23-stop-offensive-eastern-congo-2025-01-27/"
+       }
+      ],
+      "entities": [
+       "m23",
+       "rwanda",
+       "drc"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-13-bunagana",
+        "why": "M23's 2022 comeback at Bunagana grew into the 2025 offensive",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-03-31",
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "goma"
+      ],
+      "related_stories": [
+       "2022-06-13-bunagana",
+       "kabila-m23",
+       "rubaya-coltan",
+       "kabila-frn-succeeds-afc",
+       "2026-01-19-m23-leaves-uvira",
+       "2026-03-washington-accords",
+       "2025-12-04-washington-accords-uvira"
+      ]
+     },
+     "2024-07-06-aes-confederation": {
+      "id": "2024-07-06-aes-confederation",
+      "date": "2024-07-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Africa",
+      "title": "Mali, Burkina Faso and Niger form the Alliance of Sahel States confederation",
+      "summary": "Having announced their exit from ECOWAS in January, the three juntas signed a confederation treaty in Niamey and turned further toward Russia.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/7/6/niger-mali-and-burkina-faso-military-leaders-sign-new-pact-rebuff-ecowas"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+       }
+      ],
+      "entities": [
+       "alliance-of-sahel-states",
+       "mali",
+       "burkina-faso",
+       "niger",
+       "ecowas",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Shift from France to Russia",
+        "confidence": "likely"
+       },
+       {
+        "story": "2023-07-26-niger-coup",
+        "why": "Niger's coup completed the junta bloc",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "diplomacy",
+      "where": [
+       "niamey"
+      ],
+      "related_stories": [
+       "2022-02-17-france-leaves-mali",
+       "2023-07-26-niger-coup",
+       "2025-06-06-wagner-leaves-mali"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-01-13-lai-elected-taiwan": {
+      "id": "2024-01-13-lai-elected-taiwan",
+      "date": "2024-01-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-03-31",
+      "region": "Asia-Pacific",
+      "title": "Lai Ching-te wins Taiwan's presidency, a third straight DPP term that Beijing opposed",
+      "summary": "The DPP's Lai won the three-way race on Jan 13, though his party lost its legislative majority. Beijing called him a separatist and later staged large drills after his May inauguration.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/1/13/taiwan-ruling-partys-lai-wins-presidential-election"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/world-reactions-taiwan-election-2024-01-14/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2024_Taiwanese_presidential_election"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "lai-ching-te",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "Cross-strait tension since Pelosi's 2022 visit",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "taipei"
+      ],
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "pla-drills",
+       "pla-patrol-oct14-15",
+       "2025-12-29-justice-mission-drills",
+       "2025-04-02-strait-thunder"
+      ]
+     },
+     "2025-11-07-takaichi-taiwan-remarks": {
+      "id": "2025-11-07-takaichi-taiwan-remarks",
+      "date": "2025-11-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Asia-Pacific",
+      "title": "Takaichi says a Taiwan blockade could be 'survival-threatening', and China retaliates",
+      "summary": "Takaichi told parliament that a Chinese blockade or attack on Taiwan could be a 'survival-threatening situation', the legal trigger for collective self-defence. Beijing demanded a retraction and warned its citizens against travel to Japan.",
+      "sources": [
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/crklvx2n7rzo"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d"
+       },
+       {
+        "name": "AP (travel advisory)",
+        "url": "https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/japan-china-ties-deteriorate-after-takaichis-taiwan-comment-2025-11-20/"
+       }
+      ],
+      "entities": [
+       "japan",
+       "sanae-takaichi",
+       "china",
+       "taiwan"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-21-takaichi-pm",
+        "why": "New hawkish premier",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "unplaced": "Remarks in the Diet; no place entity.",
+      "related_stories": [
+       "2025-10-21-takaichi-pm",
+       "2025-12-29-justice-mission-drills",
+       "2026-02-08-takaichi-landslide",
+       "2026-05-22-china-japan-rare-earths",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "2026-03-30-china-sanctions-furuya"
+      ]
+     },
+     "2026-01-14-china-trillion-surplus": {
+      "id": "2026-01-14-china-trillion-surplus",
+      "date": "2026-01-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-09-29",
+      "region": "Asia-Pacific",
+      "title": "China's trade surplus tops $1.1 trillion in 2025 as exports swerve around US tariffs; GDP hits 5%",
+      "summary": "Customs data showed a record goods surplus of about $1.19trn, with exports diverted to markets outside the US. GDP grew 5.0% in 2025, with net exports doing much of the work. The IMF noted consumer inflation of about zero and a falling GDP deflator amid the property slump.",
+      "sources": [
+       {
+        "name": "Reuters (trade)",
+        "url": "https://www.reuters.com/world/china/chinas-trade-ends-2025-with-record-trillion-dollar-surplus-despite-trump-tariffs-2026-01-14/"
+       },
+       {
+        "name": "Reuters (GDP)",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-q4-gdp-grows-45-yy-just-ahead-market-forecast-2026-01-19/"
+       },
+       {
+        "name": "National Bureau of Statistics of China",
+        "url": "https://www.stats.gov.cn/english/PressRelease/202602/t20260228%5F1962661.html"
+       },
+       {
+        "name": "IMF Article IV",
+        "url": "https://www.imf.org/en/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf"
+       }
+      ],
+      "entities": [
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2025-10-30-busan-truce",
+        "why": "Trade truce with the US",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-04-02-liberation-day",
+        "why": "US tariffs redirected Chinese exports",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-09-29",
+      "analysis": {
+       "text": "A trillion-dollar surplus pushed China's deflation outward, adding to trade frictions with Europe and the Global South.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "National data.",
+      "related_stories": [
+       "2025-10-30-busan-truce",
+       "2025-04-02-liberation-day"
+      ]
+     },
+     "2025-12-28-iran-protests-begin": {
+      "id": "2025-12-28-iran-protests-begin",
+      "date": "2025-12-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Middle East",
+      "title": "Tehran bazaar strikes and protests erupt as the rial hits a record low",
+      "summary": "Shopkeepers in Tehran's electronics and phone markets closed and protested as the rial fell to about 1.45m per dollar. Protests spread to other markets and cities, and some chants turned against the government.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-traders-protest-rial-currency-ddc955739fb412b642251dee10638f03"
+       },
+       {
+        "name": "Iran International",
+        "url": "https://www.iranintl.com/en/202512282220"
+       },
+       {
+        "name": "BBC Persian",
+        "url": "https://www.bbc.com/persian/live/cy7vrznjpe6t"
+       },
+       {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/news/amp/rcna251325"
+       }
+      ],
+      "entities": [
+       "iran"
+      ],
+      "causes": [
+       {
+        "story": "2025-09-28-iran-snapback",
+        "why": "Restored UN sanctions deepened the currency crisis",
+        "confidence": "possible"
+       },
+       {
+        "story": "2025-06-22-midnight-hammer",
+        "why": "War damage and isolation",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "tehran"
+      ],
+      "related_stories": [
+       "2025-09-28-iran-snapback",
+       "2025-06-22-midnight-hammer",
+       "2026-01-08-iran-protest-crackdown"
+      ]
+     },
+     "2026-01-21-greenland-davos": {
+      "id": "2026-01-21-greenland-davos",
+      "date": "2026-01-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Europe",
+      "title": "Trump drops Greenland tariff threat after European troops deploy",
+      "summary": "Trump had threatened 10% tariffs, rising to 25% in June, on eight European countries that joined Denmark's Operation Arctic Endurance in Greenland. At Davos on Jan 21 he dropped the tariffs, said he would not use force, and announced a 'framework' on Arctic security after talks with NATO's Mark Rutte. Denmark and Greenland rejected any transfer of sovereignty.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/davos/determined-seize-greenland-trump-faces-tough-reception-davos-2026-01-21/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/22/trumps-greenland-framework-deal-what-we-know-about-it-what-we-dont"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/greenland-denmark-us-trump-eu-tariffs-4e63efa690604004c69fc89a7c14e7c2"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "greenland",
+       "denmark",
+       "nato",
+       "european-union",
+       "mark-rutte"
+      ],
+      "causes": [
+       {
+        "story": "2025-01-07-trump-greenland-panama",
+        "why": "A year of US pressure on Greenland",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Allies learned that collective pushback works, and also that Washington will use tariffs against NATO members. Both lessons pushed Europe to hedge, including with the India trade deal days later.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "where": [
+       "davos"
+      ],
+      "related_stories": [
+       "2025-01-07-trump-greenland-panama",
+       "2026-01-27-india-eu-fta",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "trump-disgrace-eu-summit",
+       "2025-04-02-liberation-day",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry"
+      ],
+      "revisions": [
+       {
+        "edition": "2025-12-31",
+        "why": "2025 backfill: link to the 2025 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-11-17-hasina-death-sentence": {
+      "id": "2025-11-17-hasina-death-sentence",
+      "date": "2025-11-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-29",
+      "region": "Asia-Pacific",
+      "title": "Bangladesh tribunal sentences the exiled Sheikh Hasina to death",
+      "summary": "The International Crimes Tribunal convicted her in absentia of crimes against humanity over the 2024 crackdown, in which the UN says up to 1,400 died. India has not extradited her, and her Awami League was barred from the coming election.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/bangladeshs-ousted-pm-hasina-convicted-students-crackdown-case-2025-11-17/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2025/11/17/tension-high-as-bangladesh-tribunal-convicts-ex-pm-hasina"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2025/nov/17/ousted-bangladesh-pm-sheikh-hasina-found-guilty-of-crimes-against-humanity"
+       }
+      ],
+      "entities": [
+       "sheikh-hasina",
+       "bangladesh",
+       "india",
+       "muhammad-yunus"
+      ],
+      "causes": [
+       {
+        "story": "2024-08-05-hasina-flees",
+        "why": "Accountability for the 2024 crackdown",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-29",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "political",
+      "where": [
+       "dhaka"
+      ],
+      "related_stories": [
+       "2024-08-05-hasina-flees"
+      ]
+     },
+     "2024-08-05-hasina-flees": {
+      "id": "2024-08-05-hasina-flees",
+      "date": "2024-08-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Asia-Pacific",
+      "title": "Student-led uprising topples Bangladesh's Sheikh Hasina, who flees to India",
+      "summary": "After weeks of protests over job quotas and a crackdown that killed hundreds, Hasina resigned and flew to India. Muhammad Yunus became head of an interim government.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/bangladesh-protesters-call-march-dhaka-defiance-curfew-2024-08-05/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/8/5/sheikh-hasina-a-critical-misstep-and-the-end-of-15-years-of-rule"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2024/08/05/world/asia/bangladesh-protests-looting-prime-minister-residence.html"
+       }
+      ],
+      "entities": [
+       "bangladesh",
+       "sheikh-hasina",
+       "india"
+      ],
+      "causes": [
+       {
+        "story": "2022-07-sri-lanka-flight",
+        "why": "Second South Asian leader ousted by street protests",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "dhaka"
+      ],
+      "related_stories": [
+       "2022-07-sri-lanka-flight",
+       "2025-11-17-hasina-death-sentence"
+      ]
+     },
+     "2023-11-24-gaza-hostage-truce": {
+      "id": "2023-11-24-gaza-hostage-truce",
+      "date": "2023-11-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Middle East",
+      "title": "First Gaza truce frees 105 hostages for 240 Palestinian prisoners",
+      "summary": "A Qatar-, Egypt- and US-mediated pause, extended twice, ran Nov 24–Dec 1. It freed mostly women and children on both sides before fighting resumed.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israel-hamas-start-first-truce-gaza-war-2023-11-24/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/11/24/who-were-the-palestinian-prisoners-israel-released-on-friday"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "qatar",
+       "egypt",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-27-gaza-ground-invasion",
+        "why": "Pause in the ground war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "diplomacy",
+      "unplaced": "Gaza and Israeli prisons.",
+      "related_stories": [
+       "2023-10-27-gaza-ground-invasion",
+       "2022-03-27-negev-summit",
+       "2026-10-gaza-phase-two-stalled",
+       "2025-06-22-midnight-hammer",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2024-05-07-rafah-offensive"
+      ]
+     },
+     "2024-03-18-gaza-famine-warning": {
+      "id": "2024-03-18-gaza-famine-warning",
+      "date": "2024-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Middle East",
+      "title": "IPC warns famine is imminent in northern Gaza",
+      "summary": "The global hunger monitor projected famine in northern Gaza by May without a ceasefire and aid surge. The EU's Borrell accused Israel of using starvation as a weapon of war.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/eus-borrell-says-israel-is-provoking-famine-gaza-2024-03-18/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/commentisfree/2024/mar/19/the-guardian-view-on-famine-in-gaza-a-human-made-catastrophe"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaza_Strip_famine"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "food-security",
+       "european-union"
+      ],
+      "causes": [
+       {
+        "story": "2023-10-27-gaza-ground-invasion",
+        "why": "Siege and war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2023-10-27-gaza-ground-invasion",
+       "2024-11-21-icc-netanyahu-warrant"
+      ]
+     },
+     "2024-05-10-el-fasher-siege": {
+      "id": "2024-05-10-el-fasher-siege",
+      "date": "2024-05-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Africa",
+      "title": "RSF tightens its siege of El Fasher, the army's last Darfur stronghold",
+      "summary": "Heavy fighting in May 2024 sealed off North Darfur's capital and nearby camps such as Abu Shouk and Zamzam. The siege lasted until the city fell in October 2025.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/article/2024/may/24/sudan-darfur-el-fasher-abu-shouk-displaced-people-camp-rsf"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_El_Fasher"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudanese-armed-forces",
+       "sudan",
+       "el-fasher"
+      ],
+      "causes": [
+       {
+        "story": "2023-12-18-wad-madani-falls",
+        "why": "RSF momentum",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "el-fasher"
+      ],
+      "related_stories": [
+       "2023-12-18-wad-madani-falls",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2025-01-07-us-rsf-genocide"
+      ]
+     },
+     "2024-01-25-africa-corps-burkina": {
+      "id": "2024-01-25-africa-corps-burkina",
+      "date": "2024-01-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Africa",
+      "title": "Russia's new Africa Corps deploys to Burkina Faso as Wagner is folded into the state",
+      "summary": "The first Africa Corps contingent arrived in Ouagadougou. Run by Russia's defence ministry, it took over Wagner's Sahel role after Prigozhin's death.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/russian-troops-deploy-burkina-faso-2024-01-25/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)"
+       }
+      ],
+      "entities": [
+       "africa-corps",
+       "burkina-faso",
+       "russia",
+       "wagner-group"
+      ],
+      "causes": [
+       {
+        "story": "2023-08-23-prigozhin-killed",
+        "why": "State takeover of Wagner's Africa business",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "unplaced": "Ouagadougou has no place entity.",
+      "related_stories": [
+       "2023-08-23-prigozhin-killed",
+       "2025-06-06-wagner-leaves-mali"
+      ]
+     },
+     "2023-04-05-tsai-mccarthy": {
+      "id": "2023-04-05-tsai-mccarthy",
+      "date": "2023-04-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Asia-Pacific",
+      "title": "Tsai meets US House Speaker McCarthy in California; China stages 'Joint Sword' drills",
+      "summary": "Tsai met McCarthy at the Reagan Library during a US transit. Beijing answered with three days of drills simulating strikes and encirclement of Taiwan.",
+      "sources": [
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2023/04/05/politics/tsai-ing-wen-taiwan-meeting-mccarthy-california-hnk/index.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_international_presidential_trips_made_by_Tsai_Ing-wen"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "tsai-ing-wen",
+       "united-states",
+       "china",
+       "pla"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "Repeats the 2022 drills response",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "Meeting in California; drills around Taiwan.",
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-02-pelosi",
+       "pla-patrol-oct14-15",
+       "pla-patrol-oct15-16",
+       "dongsha-coast-guard-incursion",
+       "2025-12-29-justice-mission-drills",
+       "2025-04-02-strait-thunder"
+      ]
+     },
+     "2022-12-16-japan-security-strategy": {
+      "id": "2022-12-16-japan-security-strategy",
+      "date": "2022-12-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Asia-Pacific",
+      "title": "Japan adopts new security strategies: counterstrike missiles and 2% of GDP on defence",
+      "summary": "Kishida's cabinet approved a new National Security Strategy and defence plans calling China the 'greatest strategic challenge', acquiring counterstrike capability such as Tomahawks, and lifting defence and related spending to 2% of GDP by FY2027.",
+      "sources": [
+       {
+        "name": "Cabinet Secretariat (NSS, English)",
+        "url": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf"
+       },
+       {
+        "name": "Ministry of Defense",
+        "url": "https://www.mod.go.jp/j/policy/agenda/guideline/index.html"
+       }
+      ],
+      "entities": [
+       "japan",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-04-pla-drills",
+        "why": "Chinese drills after Pelosi's visit, missiles landing in Japan's EEZ",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Russia's invasion shattered assumptions",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "A cabinet decision in Tokyo.",
+      "related_stories": [
+       "2022-08-04-pla-drills",
+       "2022-02-24-invasion"
+      ]
+     },
+     "2023-10-18-country-garden-default": {
+      "id": "2023-10-18-country-garden-default",
+      "date": "2023-10-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Asia-Pacific",
+      "title": "Country Garden defaults on its offshore debt, deepening China's property crisis",
+      "summary": "Once China's biggest developer by sales, Country Garden missed a payment deadline, putting all its offshore debt into default. Evergrande was ordered liquidated by a Hong Kong court in January 2024.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/country-gardens-entire-offshore-debt-be-default-if-tuesday-payment-not-made-2023-10-16/"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2023/10/10/business/country-garden-default-china-real-estate-crisis.html"
+       },
+       {
+        "name": "The Guardian (Evergrande)",
+        "url": "https://www.theguardian.com/business/2024/jan/29/evergrande-collapse-liquidation-china-debt-developer-property-giant"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Country_Garden"
+       }
+      ],
+      "entities": [
+       "country-garden",
+       "evergrande",
+       "china"
+      ],
+      "causes": [
+       {
+        "story": "2023-01-08-china-reopens",
+        "why": "The reopening failed to revive property",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "analysis": {
+       "text": "The property bust pushed Beijing toward export-led growth, giving 2025's trillion-dollar surplus.",
+       "confidence": "likely"
+      },
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "A bond default.",
+      "related_stories": [
+       "2023-01-08-china-reopens"
+      ]
+     },
+     "2023-10-06-narges-mohammadi-nobel": {
+      "id": "2023-10-06-narges-mohammadi-nobel",
+      "date": "2023-10-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-30",
+      "region": "Middle East",
+      "title": "Jailed Iranian activist Narges Mohammadi wins the Nobel Peace Prize",
+      "summary": "The committee honoured her fight against the oppression of women in Iran, a year after the 'Woman, Life, Freedom' protests that followed Mahsa Amini's death. Iran had crushed the uprising with mass arrests and executions.",
+      "sources": [
+       {
+        "name": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/2023/press-release/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Nobel_Peace_Prize"
+       }
+      ],
+      "entities": [
+       "narges-mohammadi",
+       "iran"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-16-mahsa-amini",
+        "why": "Recognition of the 2022 uprising",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2023-12-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "unplaced": "Announced in Oslo; Mohammadi was in Evin prison.",
+      "related_stories": [
+       "2022-09-16-mahsa-amini"
+      ]
+     },
+     "2024-10-02-china-coast-guard-arctic": {
+      "id": "2024-10-02-china-coast-guard-arctic",
+      "date": "2024-10-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Russia/Eurasia",
+      "title": "China's coast guard enters the Arctic for the first time on a joint patrol with Russia",
+      "summary": "Days after the US Coast Guard tracked Chinese and Russian ships in the Bering Sea, China's Meishan entered the Arctic Ocean. Bombers had flown jointly near Alaska in July, and the US called it growing strategic interest in the Arctic.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/chinas-coast-guard-enters-arctic-first-time-patrol-with-russia-2024-10-02/"
+       },
+       {
+        "name": "US Coast Guard",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/3922625/us-coast-guard-encounters-joint-chinese-coast-guard-russian-border-guard-patrol/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/us-china-russia-coast-guard-356dfbf91a4861798c9b920196c4bc50"
+       },
+       {
+        "name": "CSIS ChinaPower",
+        "url": "https://chinapower.csis.org/analysis/china-russia-coast-guard-cooperation/"
+       }
+      ],
+      "entities": [
+       "china",
+       "russia",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-04-no-limits",
+        "why": "Sino-Russian partnership extended to the Arctic",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "analysis": {
+       "text": "The Arctic became an arena of great-power competition, part of the backdrop to Trump's 2025–26 Greenland push.",
+       "confidence": "possible"
+      },
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "unplaced": "At sea in the Arctic.",
+      "related_stories": [
+       "2022-02-04-no-limits",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-11-06-c5-plus-1-summit"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "uae--patron-proxy--rsf": null
+    },
+    "storylines": {
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
