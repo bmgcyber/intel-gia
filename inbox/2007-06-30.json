@@ -1,0 +1,267 @@
+{
+ "edition": "2007-06-30",
+ "stories": [
+  {
+   "id": "2007-04-11-algiers-bombings",
+   "date": "2007-04-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Africa",
+   "title": "Al-Qaeda in the Islamic Maghreb bombs government targets in Algiers",
+   "summary": "The attacks announced AQIM as an al-Qaeda branch; it later spread south into the Sahel.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_Algiers_bombings"
+    }
+   ],
+   "entities": [
+    "algeria",
+    "aqim",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "strike",
+   "where": [
+    "algiers"
+   ]
+  },
+  {
+   "id": "2007-04-21-nigeria-yaradua",
+   "date": "2007-04-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Africa",
+   "title": "Umaru Yar'Adua wins a flawed Nigerian election",
+   "summary": "It was the first civilian-to-civilian handover; his illness later elevated Goodluck Jonathan.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_Nigerian_presidential_election"
+    }
+   ],
+   "entities": [
+    "nigeria",
+    "goodluck-jonathan"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "political",
+   "where": [
+    "abuja"
+   ]
+  },
+  {
+   "id": "2007-04-27-estonia-cyberattacks",
+   "date": "2007-04-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Europe",
+   "title": "Cyberattacks hit Estonia after a Soviet war memorial is moved",
+   "summary": "The attacks on Estonian sites were blamed on Russian actors and led NATO to set up its cyber centre in Tallinn.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia"
+    }
+   ],
+   "entities": [
+    "estonia",
+    "russia",
+    "nato"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "strike",
+   "where": [
+    "tallinn"
+   ]
+  },
+  {
+   "id": "2007-05-01-chavez-orinoco-nationalised",
+   "date": "2007-05-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Americas",
+   "title": "Chávez takes control of the Orinoco heavy-oil projects",
+   "summary": "Foreign oil majors had to cede majority stakes to PDVSA; ExxonMobil and ConocoPhillips left.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Petr%C3%B3leos_de_Venezuela"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez",
+    "pdvsa"
+   ],
+   "storylines": [
+    "venezuela-oil"
+   ],
+   "marker": "energy",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2007-05-06-sarkozy-elected",
+   "date": "2007-05-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Europe",
+   "title": "Nicolas Sarkozy is elected president of France",
+   "summary": "He went on to lead the 2011 Libya intervention.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2007_French_presidential_election"
+    }
+   ],
+   "entities": [
+    "france",
+    "nicolas-sarkozy"
+   ],
+   "marker": "political",
+   "where": [
+    "paris"
+   ]
+  },
+  {
+   "id": "2007-06-14-hamas-takes-gaza",
+   "date": "2007-06-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Middle East",
+   "title": "Hamas seizes control of Gaza from Fatah",
+   "summary": "The split left Palestinians divided between Gaza and the West Bank; Israel and Egypt tightened a blockade.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Gaza_%282007%29"
+    }
+   ],
+   "entities": [
+    "hamas",
+    "fatah",
+    "israel",
+    "mahmoud-abbas"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "where": [
+    "gaza-city"
+   ]
+  },
+  {
+   "id": "2007-06-27-brown-succeeds-blair",
+   "date": "2007-06-27",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2007 (Iraq surge, Putin's Munich speech, the credit crunch begins)",
+   "region": "Europe",
+   "title": "Tony Blair steps down and Gordon Brown becomes British prime minister",
+   "summary": "Blair's exit was hastened by the Iraq war; Brown led Britain through the financial crisis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gordon_Brown"
+    }
+   ],
+   "entities": [
+    "united-kingdom"
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2007-04-11-algiers-bombings"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2007-04-21-nigeria-yaradua"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2007-04-27-estonia-cyberattacks"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2007-05-01-chavez-orinoco-nationalised"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2007-06-14-hamas-takes-gaza"
+   ]
+  }
+ ]
+}
