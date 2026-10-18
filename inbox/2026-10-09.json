@@ -1,0 +1,781 @@
+{
+ "edition": "2026-10-09",
+ "storylines": [
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2021-10-25-sudan-coup",
+    "sudan-nyala-strikes"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2022-03-24-hwasong17",
+    "dprk-ai-torpedo-test",
+    "2017-05-12-wannacry"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2022-04-10-imran-khan",
+    "2022-05-sri-lanka-default",
+    "2022-07-sri-lanka-flight",
+    "kurram-border-clash"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2022-07-31-zawahiri",
+    "kurram-border-clash"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2022-09-04-chile-vote",
+    "coreweave-ai-credit-shock",
+    "tech-selloff-worst-week",
+    "2026-03-17-hyperscaler-ai-debt",
+    "2026-05-14-trump-xi-beijing",
+    "china-draft-ai-export-controls"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2022-09-23-uk-mini-budget"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2022-10-11-israel-lebanon",
+    "gaza-drone-strikes-oct17",
+    "lebanon-tampa-talks-demands"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2022-10-30-lula",
+    "2022-10-haiti-fuel",
+    "cuba-75pct-blackout-santa-cruz",
+    "brazil-runoff-dead-heat",
+    "venezuela-talks-election-rules"
+   ]
+  },
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "houthis-hit-aden-palace",
+    "saudi-blames-iran-eu-gcc-postponed",
+    "yanbu-missile-intercepted",
+    "2026-01-09-stc-dissolution",
+    "2026-07-20-houthi-saudi-blockade",
+    "2026-08-07-mecca-pact",
+    "2026-09-10-houthis-seize-mokha",
+    "2026-10-05-mecca-pact-activated",
+    "2026-10-10-riyadh-airport-strike",
+    "egypt-offers-to-defend-saudi",
+    "houthis-aden-airport-khamis-mushait"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "kirovohrad-drone-barrage",
+    "trump-disgrace-eu-summit",
+    "starshield-curbs-white-house",
+    "lutsk-blackout-volyn",
+    "trump-waives-russia-sanctions",
+    "putin-security-zone",
+    "russia-grid-strikes-oct16",
+    "2026-02-06-us-india-tariff-cut",
+    "2026-04-12-orban-ousted",
+    "2026-04-23-eu-90bn-loan",
+    "2026-07-08-nato-ankara",
+    "2026-08-13-russian-diesel-lows",
+    "2026-09-18-graham-act-signed",
+    "2026-09-22-zelensky-trump-unga",
+    "2026-10-02-g7-diesel-release",
+    "2026-10-13-hungary-lifts-accession-veto",
+    "russia-332-drone-energy-strike",
+    "graham-waiver-bipartisan-backlash",
+    "poland-starlink-arson-russia-gang"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "iea-diesel-release",
+    "us-weighs-shadow-fleet-relief",
+    "gulf-of-oman-tanker-fires",
+    "trump-waives-russia-sanctions",
+    "irgc-mine-supertanker-brent-110",
+    "yanbu-missile-intercepted",
+    "2026-01-06-us-venezuela-oil-deal",
+    "2026-02-06-us-india-tariff-cut",
+    "2026-02-28-iran-war-begins",
+    "2026-03-11-iea-record-release",
+    "2026-03-13-kharg-strike",
+    "2026-04-13-us-blockade-iran",
+    "2026-04-28-uae-quits-opec",
+    "2026-06-17-islamabad-mou",
+    "2026-07-08-mou-collapses",
+    "2026-08-13-russian-diesel-lows",
+    "2026-09-10-houthis-seize-mokha",
+    "2026-09-10-east-west-pipeline-attack",
+    "2026-10-02-g7-diesel-release",
+    "iran-seven-day-hormuz-offer",
+    "second-mine-tanker-ukmto-record",
+    "2021-05-07-colonial-pipeline"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "gulf-of-oman-tanker-fires",
+    "irgc-mine-supertanker-brent-110",
+    "2026-01-08-iran-protest-crackdown",
+    "2026-02-28-iran-war-begins",
+    "2026-03-02-hezbollah-joins-war",
+    "2026-03-08-mojtaba-khamenei",
+    "2026-03-13-kharg-strike",
+    "2026-04-07-iran-ceasefire-islamabad",
+    "2026-04-08-israel-strikes-lebanon",
+    "2026-04-13-us-blockade-iran",
+    "2026-06-17-islamabad-mou",
+    "2026-07-08-mou-collapses",
+    "2026-08-17-mou-expires",
+    "2026-09-26-trump-rejects-iran-plan",
+    "iran-seven-day-hormuz-offer",
+    "second-mine-tanker-ukmto-record"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "saudi-blames-iran-eu-gcc-postponed",
+    "yanbu-missile-intercepted",
+    "2026-03-02-hezbollah-joins-war",
+    "2026-07-20-houthi-saudi-blockade",
+    "2026-09-10-east-west-pipeline-attack",
+    "2026-09-30-us-leaves-iraq",
+    "egypt-offers-to-defend-saudi",
+    "houthis-aden-airport-khamis-mushait",
+    "lebanon-tampa-talks-demands"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "pla-patrol-oct15-16",
+    "ph-rebukes-china-envoy",
+    "dongsha-coast-guard-incursion",
+    "2025-12-29-justice-mission-drills",
+    "2026-02-08-takaichi-landslide",
+    "2026-03-30-china-sanctions-furuya",
+    "2026-04-15-scarborough-blocked",
+    "2026-05-22-china-japan-rare-earths",
+    "2026-07-23-scarborough-water-cannon",
+    "takaichi-yasukuni-offering",
+    "scarborough-shadowing-miguel-malvar",
+    "pla-patrol-oct17-18"
+   ]
+  },
+  {
+   "id": "china-minerals-leverage",
+   "name": "China rare-earth / tech leverage",
+   "entities": [
+    "china",
+    "rare-earths",
+    "gallium",
+    "mp-materials",
+    "japan",
+    "european-union"
+   ],
+   "stories": [
+    "eu-china-rare-earth-green-channel",
+    "2026-02-08-takaichi-landslide",
+    "2026-05-14-trump-xi-beijing",
+    "2026-05-22-china-japan-rare-earths",
+    "2026-09-23-us-china-fragile-truce",
+    "takaichi-yasukuni-offering",
+    "china-draft-ai-export-controls"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2026-01-03-maduro-captured",
+    "2026-01-06-us-venezuela-oil-deal",
+    "2026-03-13-cuba-talks",
+    "2026-06-21-colombia-de-la-espriella",
+    "venezuela-talks-election-rules"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2026-01-19-m23-leaves-uvira",
+    "2026-03-washington-accords",
+    "2026-05-17-ebola-pheic",
+    "kinshasa-suspends-kabila-party"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2026-01-29-tigray-clashes",
+    "2026-09-23-tplf-offensive",
+    "2026-10-09-ethiopia-eritrea-accusations",
+    "tigray-federal-takeover-rubio",
+    "2017-10-14-mogadishu-truck-bomb",
+    "2015-04-02-garissa-attack"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2026-04-25-mali-offensive",
+    "2026-04-28-bamako-blockade",
+    "sahel-jnim-issp-oudalan"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "egypt-offers-to-defend-saudi"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "graham-waiver-bipartisan-backlash",
+    "poland-starlink-arson-russia-gang"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "china-draft-ai-export-controls"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2020-08-12-mocimboa-falls",
+    "2020-10-29-nice-vienna-attacks",
+    "2021-03-24-palma-attack",
+    "2019-04-21-sri-lanka-easter-bombings",
+    "2017-05-22-manchester-bombing",
+    "2017-08-17-barcelona-attack"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2017-10-01-catalan-referendum",
+    "2014-09-18-scotland-referendum"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "venezuela-oil",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "venezuela-oil",
+    "global-oil",
+    "western-hemisphere"
+   ]
+  },
+  {
+   "id": "rare-earth-nov10",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "china-minerals-leverage",
+    "taiwan-indopacific",
+    "ai-compute-minerals",
+    "us-tariffs-trade"
+   ]
+  },
+  {
+   "id": "trump-waives-russia-sanctions",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "global-oil",
+    "us-tariffs-trade"
+   ]
+  },
+  {
+   "id": "eu-china-rare-earth-green-channel",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "china-minerals-leverage",
+    "us-tariffs-trade"
+   ]
+  },
+  {
+   "id": "coreweave-ai-credit-shock",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "ai-compute-minerals",
+    "central-banks-rates"
+   ]
+  },
+  {
+   "id": "tech-selloff-worst-week",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "ai-compute-minerals",
+    "central-banks-rates"
+   ]
+  },
+  {
+   "id": "trump-disgrace-eu-summit",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift"
+   ]
+  },
+  {
+   "id": "saudi-blames-iran-eu-gcc-postponed",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network",
+    "gulf-realignment"
+   ]
+  },
+  {
+   "id": "yanbu-missile-intercepted",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network",
+    "global-oil",
+    "gulf-realignment"
+   ]
+  },
+  {
+   "id": "houthis-saudi-oct15",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network",
+    "global-oil",
+    "gulf-realignment"
+   ]
+  },
+  {
+   "id": "2026-02-26-pakistan-afghanistan-war",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "south-asia-security"
+   ]
+  },
+  {
+   "id": "2026-03-16-kabul-hospital-strike",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "south-asia-security"
+   ]
+  },
+  {
+   "id": "2026-10-05-taliban-diplomacy",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "south-asia-security"
+   ]
+  },
+  {
+   "id": "2021-10-europe-gas-crunch",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "global-oil",
+    "russia-ukraine",
+    "europe-cost-of-living"
+   ]
+  },
+  {
+   "id": "2022-08-eu-gas-record",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "europe-cost-of-living"
+   ]
+  },
+  {
+   "id": "2022-09-23-uk-mini-budget",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "central-banks-rates",
+    "europe-cost-of-living"
+   ]
+  },
+  {
+   "id": "2026-04-12-orban-ousted",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "transatlantic-rift",
+    "russia-ukraine",
+    "europe-populism"
+   ]
+  },
+  {
+   "id": "2026-10-13-hungary-lifts-accession-veto",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift",
+    "europe-populism"
+   ]
+  },
+  {
+   "id": "2023-12-14-eu-opens-ukraine-talks",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift",
+    "europe-populism"
+   ]
+  },
+  {
+   "id": "2024-07-07-france-hung-parliament",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "transatlantic-rift",
+    "europe-populism"
+   ]
+  },
+  {
+   "id": "2010-04-08-new-start",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "nuclear-arms-control"
+   ]
+  },
+  {
+   "id": "2025-09-22-putin-new-start-offer",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "russia-ukraine",
+    "nuclear-arms-control"
+   ]
+  },
+  {
+   "id": "2013-05-28-gezi-protests",
+   "why": "Make storyline links two-way: the storyline already lists this story",
+   "storylines": [
+    "europe-populism",
+    "turkey-erdogan"
+   ]
+  },
+  {
+   "id": "2000-12-sharif-exiled",
+   "why": "Date source: BBC (10 Dec 2000) reports Sharif landed in Jeddah that day",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+    },
+    {
+     "name": "BBC News",
+     "url": "http://news.bbc.co.uk/2/hi/south_asia/1063635.stm"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2000/dec/11/pakistan.saudiarabia"
+    }
+   ],
+   "date": "2000-12-10",
+   "date_precision": "day"
+  },
+  {
+   "id": "2000-07-plan-colombia",
+   "why": "Date source: Clinton's statement of 13 July 2000 on signing H.R. 4425",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Plan_Colombia"
+    },
+    {
+     "name": "White House (Clinton archive)",
+     "url": "https://clintonwhitehouse5.archives.gov/library/hot_releases/July_13_2000_3.html"
+    }
+   ],
+   "date": "2000-07-13",
+   "date_precision": "day"
+  },
+  {
+   "id": "2000-11-fujimori-falls",
+   "why": "Date source: Peru's Congress record shows the vote declaring the presidency vacant on 21 Nov 2000; BBC reports the sacking",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+    },
+    {
+     "name": "BBC News",
+     "url": "http://news.bbc.co.uk/2/hi/americas/1033433.stm"
+    },
+    {
+     "name": "Congreso de la República del Perú",
+     "url": "https://www2.congreso.gob.pe/sicr/tradocestproc/tradoc_expdig_2000.nsf/ProyectosExpDigital/00817?opendocument="
+    }
+   ],
+   "date": "2000-11-21",
+   "date_precision": "day"
+  },
+  {
+   "id": "2001-07-lusaka-au-plan",
+   "why": "Date source: AU record dates the Lusaka summit decisions to 9-11 July 2001; no single day given, so month precision kept",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/African_Union"
+    },
+    {
+     "name": "African Union (Lusaka summit decisions)",
+     "url": "https://www.au.int/sites/default/files/decisions/9546-2001_ahg_dec_160-170_xxxvii_f.pdf"
+    }
+   ]
+  },
+  {
+   "id": "2001-10-anthrax-letters",
+   "why": "Date source: Timeline dates the October 2001 letters and deaths (first death 5 Oct, five in all, last 21 Nov); month precision kept",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks"
+    },
+    {
+     "name": "National Academies via NCBI Bookshelf",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK209417/table/ttt00014/"
+    },
+    {
+     "name": "FBI",
+     "url": "https://www.fbi.gov/history/cases-and-criminals/amerithrax-or-anthrax-investigation"
+    }
+   ]
+  },
+  {
+   "id": "2001-09-pakistan-sides-with-us",
+   "why": "Date source: BBC text of Musharraf's address of 19 Sep 2001 backing US",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+    },
+    {
+     "name": "BBC News",
+     "url": "http://news.bbc.co.uk/1/hi/world/monitoring/media_reports/1553542.stm"
+    }
+   ],
+   "date": "2001-09-19",
+   "date_precision": "day"
+  }
+ ]
+}
