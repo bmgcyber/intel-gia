@@ -7951,6 +7951,11 @@
     "story": "2024-10-02-china-coast-guard-arctic",
     "why": "Sino-Russian Arctic activity was cited as rationale",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-03-11-greenland-election",
+    "why": "Greenland's government set terms for US pressure",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -7970,6 +7975,7 @@
   "related_stories": [
    "2025-01-07-trump-greenland-panama",
    "2024-10-02-china-coast-guard-arctic",
+   "2025-03-11-greenland-election",
    "2026-01-27-india-eu-fta",
    "2026-07-08-nato-ankara",
    "2026-09-18-greenland-deal",
@@ -7989,6 +7995,13 @@
    {
     "edition": "2026-09-28",
     "why": "Phase D gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -11904,6 +11917,11 @@
     "story": "2026-09-23-tplf-offensive",
     "why": "The TPLF war pulled in Eritrea",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-01-01-ethiopia-somaliland-mou",
+    "why": "Abiy's Red Sea access ambitions alarmed neighbours",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -11920,7 +11938,18 @@
   "unplaced": "Diplomatic exchange; the fighting was across Tigray.",
   "related_stories": [
    "2026-09-23-tplf-offensive",
-   "ethiopia-tigray-advance"
+   "2024-01-01-ethiopia-somaliland-mou",
+   "ethiopia-tigray-advance",
+   "2025-03-tplf-split"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -12256,7 +12285,8 @@
   ],
   "related_stories": [
    "2026-01-21-greenland-davos",
-   "2026-09-18-greenland-deal"
+   "2026-09-18-greenland-deal",
+   "2025-03-11-greenland-election"
   ]
  },
  {
@@ -13641,6 +13671,11 @@
     "story": "2024-10-01-iran-missile-barrage",
     "why": "Israel's Oct 2024 strikes degraded Iran's air defences",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-10-26-israel-strikes-iran",
+    "why": "Iran's air defences degraded in Oct 2024",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -13658,15 +13693,24 @@
    "2022-09-jcpoa-stall",
    "2024-04-13-iran-strikes-israel",
    "2024-10-01-iran-missile-barrage",
+   "2024-10-26-israel-strikes-iran",
    "2025-06-22-midnight-hammer",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
-   "2026-02-28-iran-war-begins"
+   "2026-02-28-iran-war-begins",
+   "2024-04-01-damascus-consulate-strike"
   ],
   "revisions": [
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -14075,6 +14119,11 @@
     "story": "2025-02-28-oval-office-clash",
     "why": "Trump's turn to direct dealing with Moscow",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-02-18-riyadh-us-russia-talks",
+    "why": "US–Russia channel opened in Riyadh",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -14089,6 +14138,9 @@
   ],
   "related_stories": [
    "2025-02-28-oval-office-clash",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-20-28-point-plan",
    "energy-ceasefire",
    "diesel-deal",
    "2021-11-russia-buildup",
@@ -14105,8 +14157,16 @@
    "putin-security-zone",
    "2026-09-18-graham-act-signed",
    "2026-09-22-zelensky-trump-unga",
-   "2025-10-22-rosneft-lukoil-sanctions",
-   "2025-11-20-28-point-plan"
+   "2025-09-22-putin-new-start-offer"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -14904,6 +14964,11 @@
     "story": "2024-07-28-venezuela-stolen-election",
     "why": "Honoured for the 2024 election fight",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-09-08-gonzalez-exile",
+    "why": "Repression forced the opposition into exile and hiding",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -14916,12 +14981,20 @@
   "marker": "political",
   "unplaced": "Announced in Oslo; no place entity.",
   "related_stories": [
-   "2024-07-28-venezuela-stolen-election"
+   "2024-07-28-venezuela-stolen-election",
+   "2024-09-08-gonzalez-exile"
   ],
   "revisions": [
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -16467,6 +16540,11 @@
     "story": "2024-10-18-dprk-troops-to-russia",
     "why": "The 2024 deployment",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-03-13-kursk-exit",
+    "why": "Confirmation came after the Kursk recapture",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -16485,6 +16563,7 @@
   "related_stories": [
    "2022-03-24-hwasong17",
    "2024-10-18-dprk-troops-to-russia",
+   "2025-03-13-kursk-exit",
    "2025-10-10-hwasong-20-parade",
    "2026-03-29-hwasong-20-engine-test",
    "2024-06-19-putin-kim-treaty"
@@ -16493,6 +16572,13 @@
    {
     "edition": "2024-12-31",
     "why": "2024 backfill: link to 2024 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -17289,6 +17375,16 @@
     "story": "2023-10-27-operation-1027",
     "why": "The junta lost much territory after Operation 1027",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-08-03-lashio-falls",
+    "why": "Territorial losses shaped where voting was possible",
+    "confidence": "possible"
+   },
+   {
+    "story": "2024-12-20-arakan-army-ann",
+    "why": "Rakhine largely outside junta control",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -17301,12 +17397,21 @@
   "unplaced": "A national election.",
   "related_stories": [
    "2025-03-28-myanmar-earthquake",
-   "2023-10-27-operation-1027"
+   "2023-10-27-operation-1027",
+   "2024-08-03-lashio-falls",
+   "2024-12-20-arakan-army-ann"
   ],
   "revisions": [
    {
     "edition": "2023-12-31",
     "why": "Nov 2022–2023 backfill: link to 2023 causes",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
     "fields": [
      "causes"
     ]
@@ -19044,7 +19149,8 @@
   ],
   "related_stories": [
    "2024-10-18-dprk-troops-to-russia",
-   "2024-12-08-assad-falls"
+   "2024-12-08-assad-falls",
+   "2025-03-13-kursk-exit"
   ]
  },
  {
@@ -19080,7 +19186,13 @@
    "hassan-nasrallah",
    "lebanon"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2023-10-08-hezbollah-support-front",
+    "why": "Culmination of a year of cross-border war",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2024-09-30",
   "storylines": [
@@ -19093,13 +19205,23 @@
    "beirut"
   ],
   "related_stories": [
+   "2023-10-08-hezbollah-support-front",
+   "2024-10-01-iran-missile-barrage",
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "2024-10-01-israel-invades-lebanon",
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
    "2026-10-14-lebanon-yellow-line",
-   "2025-08-05-lebanon-disarm-hezbollah",
-   "2024-10-01-iran-missile-barrage",
-   "2024-11-27-israel-hezbollah-ceasefire",
-   "2024-10-01-israel-invades-lebanon"
+   "2025-08-05-lebanon-disarm-hezbollah"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -19336,7 +19458,8 @@
   "related_stories": [
    "2024-06-19-putin-kim-treaty",
    "2024-08-06-kursk-incursion",
-   "2025-04-28-dprk-confirms-kursk-troops"
+   "2025-04-28-dprk-confirms-kursk-troops",
+   "2025-03-13-kursk-exit"
   ]
  },
  {
@@ -19496,6 +19619,11 @@
     "story": "2024-09-17-pager-attacks",
     "why": "Hezbollah crippled by the autumn campaign",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-10-01-israel-invades-lebanon",
+    "why": "Ended the ground war",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -19509,13 +19637,24 @@
   "unplaced": "Applies along the Lebanon–Israel border.",
   "related_stories": [
    "2024-09-17-pager-attacks",
+   "2024-10-01-israel-invades-lebanon",
    "2025-08-05-lebanon-disarm-hezbollah",
    "2024-12-08-assad-falls",
    "2022-10-11-israel-lebanon",
    "2026-03-02-hezbollah-joins-war",
    "2026-04-08-israel-strikes-lebanon",
    "2026-08-17-mou-expires",
-   "2026-10-14-lebanon-yellow-line"
+   "2026-10-14-lebanon-yellow-line",
+   "2023-10-08-hezbollah-support-front"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -20091,7 +20230,8 @@
   "related_stories": [
    "2022-05-18-finland-sweden",
    "2022-06-29-madrid",
-   "2024-03-07-sweden-joins-nato"
+   "2024-03-07-sweden-joins-nato",
+   "2025-05-10-russia-arctic-buildup"
   ]
  },
  {
@@ -21897,7 +22037,8 @@
    "2023-04-04-finland-joins-nato",
    "2022-05-18-finland-sweden",
    "2022-06-29-madrid",
-   "2025-03-14-svalbard-militarisation-row"
+   "2025-03-14-svalbard-militarisation-row",
+   "2025-05-10-russia-arctic-buildup"
   ]
  },
  {
@@ -22410,7 +22551,8 @@
   ],
   "related_stories": [
    "2022-04-10-imran-khan",
-   "2024-02-08-pakistan-election"
+   "2024-02-08-pakistan-election",
+   "2025-01-17-khan-al-qadir-conviction"
   ]
  },
  {
@@ -23264,6 +23406,11 @@
     "story": "2024-07-06-aes-confederation",
     "why": "Confederation completed the break",
     "confidence": "likely"
+   },
+   {
+    "story": "2024-05-25-burkina-extends-transition",
+    "why": "Juntas chose extended rule over ECOWAS timelines",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -23275,7 +23422,17 @@
   "marker": "diplomacy",
   "unplaced": "Announced in Abuja.",
   "related_stories": [
-   "2024-07-06-aes-confederation"
+   "2024-07-06-aes-confederation",
+   "2024-05-25-burkina-extends-transition"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-27",
+    "why": "Phase F gap backfill: link to earlier causes",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -23581,7 +23738,8 @@
    "berbera"
   ],
   "related_stories": [
-   "2024-12-11-ankara-declaration"
+   "2024-12-11-ankara-declaration",
+   "2026-10-09-ethiopia-eritrea-accusations"
   ]
  },
  {
@@ -23627,7 +23785,8 @@
   "marker": "political",
   "unplaced": "Signed in Ouagadougou (no place entity).",
   "related_stories": [
-   "2022-09-30-burkina-coup2"
+   "2022-09-30-burkina-coup2",
+   "2025-01-29-aes-leaves-ecowas"
   ]
  },
  {
@@ -23681,7 +23840,8 @@
    "lashio"
   ],
   "related_stories": [
-   "2023-10-27-operation-1027"
+   "2023-10-27-operation-1027",
+   "2026-01-30-myanmar-junta-election"
   ]
  },
  {
@@ -23846,7 +24006,8 @@
   "marker": "strike",
   "unplaced": "About 20 sites across Iran.",
   "related_stories": [
-   "2024-10-01-iran-missile-barrage"
+   "2024-10-01-iran-missile-barrage",
+   "2025-06-13-israel-strikes-iran"
   ]
  },
  {
@@ -24004,7 +24165,289 @@
    "ann-myanmar"
   ],
   "related_stories": [
-   "2023-10-27-operation-1027"
+   "2023-10-27-operation-1027",
+   "2026-01-30-myanmar-junta-election"
+  ]
+ },
+ {
+  "id": "2025-01-17-khan-al-qadir-conviction",
+  "date": "2025-01-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-27",
+  "region": "Asia-Pacific",
+  "title": "Imran Khan gets 14 years in the Al-Qadir Trust case",
+  "summary": "The court convicted Khan and his wife Bushra Bibi (seven years) over land allegedly received from a property tycoon. It added to his existing sentences and kept him in prison.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/1/17/pakistans-ex-pm-imran-khan-wife-sentenced-to-jail-in-corruption-case"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Al-Qadir_Trust_case"
+   }
+  ],
+  "entities": [
+   "imran-khan",
+   "pakistan"
+  ],
+  "causes": [
+   {
+    "story": "2023-05-09-imran-khan-arrested",
+    "why": "The case behind his 2023 arrest",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-27",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "Verdict delivered at Adiala jail, Rawalpindi.",
+  "related_stories": [
+   "2023-05-09-imran-khan-arrested"
+  ]
+ },
+ {
+  "id": "2025-02-18-riyadh-us-russia-talks",
+  "date": "2025-02-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-27",
+  "region": "Russia/Eurasia",
+  "title": "US and Russia hold first high-level talks since the invasion in Riyadh; Istanbul follows",
+  "summary": "Rubio, Waltz and Witkoff met Lavrov and Ushakov without Ukraine. They agreed to restore embassy operations and appoint teams on ending the war. A Feb 27 Istanbul round dealt with embassy staffing and banking.",
+  "sources": [
+   {
+    "name": "US State Department",
+    "url": "https://www.state.gov/secretary-rubios-meeting-with-russian-foreign-minister-lavrov"
+   },
+   {
+    "name": "US State Department (Istanbul)",
+    "url": "https://www.state.gov/february-27-meeting-in-istanbul"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us-russia-agree-restore-diplomatic-missions-first-step-ukraine-war-talks-2025-02-18/"
+   },
+   {
+    "name": "Russian MFA",
+    "url": "https://mid.ru/en/foreign_policy/news/1998294/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "marco-rubio",
+   "sergey-lavrov",
+   "steve-witkoff",
+   "saudi-arabia",
+   "ukraine"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-27",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "2025-08-15-alaska-summit",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-06-23-himars",
+   "2022-10-05-opec-cut",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-11-20-28-point-plan"
+  ]
+ },
+ {
+  "id": "2025-03-11-greenland-election",
+  "date": "2025-03-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-27",
+  "region": "Europe",
+  "title": "Greenland's pro-business Democrats win an election shadowed by Trump's annexation push",
+  "summary": "The opposition Demokraatit jumped to a plurality of 10 of 31 seats. Naleraq, the party most open to US ties and to a quick independence vote, doubled its seats to come second. Both favour independence from Denmark but differ on the pace.",
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/mar/12/greenland-election-opposition-democrat-party-wins-surprise-victory-amid-spectre-of-trump"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/greenland-election-tests-independence-ambitions-us-interest-looms-2025-03-11/"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2025/03/12/world/europe/greenland-election.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2025_Greenlandic_general_election"
+   }
+  ],
+  "entities": [
+   "greenland",
+   "denmark",
+   "donald-trump",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2025-01-07-trump-greenland-panama",
+    "why": "Vote dominated by Trump's threats",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-27",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "nuuk"
+  ],
+  "related_stories": [
+   "2025-01-07-trump-greenland-panama",
+   "2026-01-21-greenland-davos",
+   "2026-09-18-greenland-deal"
+  ]
+ },
+ {
+  "id": "2025-03-13-kursk-exit",
+  "date": "2025-03-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-27",
+  "region": "Russia/Eurasia",
+  "title": "Russia retakes Sudzha as Ukraine's Kursk foothold collapses",
+  "summary": "With North Korean troops in support and US intelligence sharing briefly paused, Russian forces pushed Ukraine out of most of the Kursk salient by mid-March and entered Sudzha. Kyiv lost its bargaining chip for talks.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/3/13/russian-forces-recapture-kursk-raising-questions-about-us-ukraine-cutoff"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraine-verge-losing-kursk-pocket-its-foothold-inside-russia-2025-03-12/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/mar/10/russian-forces-threaten-border-in-effort-to-push-ukrainian-army-out-of-kursk"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kursk_campaign"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "north-korea"
+  ],
+  "causes": [
+   {
+    "story": "2024-08-06-kursk-incursion",
+    "why": "End of the incursion",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-10-18-dprk-troops-to-russia",
+    "why": "North Korean troops joined the counteroffensive",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-27",
+  "storylines": [
+   "russia-ukraine",
+   "korean-peninsula"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "sudzha"
+  ],
+  "related_stories": [
+   "2024-08-06-kursk-incursion",
+   "2024-10-18-dprk-troops-to-russia",
+   "2025-04-28-dprk-confirms-kursk-troops"
+  ]
+ },
+ {
+  "id": "2025-05-10-russia-arctic-buildup",
+  "date": "2025-05-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-27",
+  "region": "Russia/Eurasia",
+  "title": "Satellite images show Russia reinforcing bases near Finland and in the Kola Arctic",
+  "summary": "Images analysed by Swedish and Finnish media showed a disused Severomorsk-2 airfield being revived near the Northern Fleet's base, bombers at Olenya, a large tent camp at Kamenka and new hangars at Petrozavodsk. A new 44th Army Corps is being formed in Karelia.",
+  "sources": [
+   {
+    "name": "Helsinki Times (SVT imagery)",
+    "url": "https://www.helsinkitimes.fi/world-int/26829-satellite-images-show-russian-military-buildup-near-finnish-border.html"
+   },
+   {
+    "name": "NZZ",
+    "url": "https://www.nzz.ch/english/russian-army-boosts-presence-near-finlands-border-ld.1886633"
+   },
+   {
+    "name": "Meduza (Yle imagery)",
+    "url": "https://meduza.io/en/feature/2025/06/19/sky-high-evidence"
+   }
+  ],
+  "entities": [
+   "russia",
+   "finland",
+   "nato",
+   "norway"
+  ],
+  "causes": [
+   {
+    "story": "2023-04-04-finland-joins-nato",
+    "why": "Russia's promised response to Nordic NATO enlargement",
+    "confidence": "likely"
+   },
+   {
+    "story": "2024-03-07-sweden-joins-nato",
+    "why": "Nordic NATO enlargement",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-27",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "severomorsk"
+  ],
+  "related_stories": [
+   "2023-04-04-finland-joins-nato",
+   "2024-03-07-sweden-joins-nato",
+   "2022-05-18-finland-sweden",
+   "2022-06-29-madrid",
+   "2025-03-14-svalbard-militarisation-row"
   ]
  }
 ]
