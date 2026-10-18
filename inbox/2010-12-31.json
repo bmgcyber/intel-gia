@@ -1,0 +1,717 @@
+{
+ "edition": "2010-12-31",
+ "stories": [
+  {
+   "id": "2010-10-08-liu-xiaobo-nobel",
+   "date": "2010-10-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "Jailed Chinese dissident Liu Xiaobo wins the Nobel Peace Prize",
+   "summary": "Beijing froze relations with Norway; Liu died in custody in 2017.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Liu_Xiaobo"
+    }
+   ],
+   "entities": [
+    "china",
+    "liu-xiaobo",
+    "norway"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "oslo"
+   ]
+  },
+  {
+   "id": "2010-10-13-chile-miners-rescued",
+   "date": "2010-10-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Chile rescues 33 miners trapped for 69 days",
+   "summary": "The San José mine had collapsed in August.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident"
+    }
+   ],
+   "entities": [
+    "chile"
+   ],
+   "marker": "political",
+   "where": [
+    "copiapo"
+   ]
+  },
+  {
+   "id": "2010-10-31-dilma-elected",
+   "date": "2010-10-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Dilma Rousseff wins Brazil's presidency as Lula's successor",
+   "summary": "She won the runoff on Oct 31.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Brazilian_general_election"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "dilma-rousseff",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2010-11-02-us-midterms",
+   "date": "2010-11-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Republicans win the House in a Tea Party wave",
+   "summary": "Obama called it a 'shellacking'; divided government brought debt-ceiling brinkmanship.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_United_States_elections"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2010/11/03/131046118/obama-humbled-by-election-shellacking"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2010-11-03-fed-qe2",
+   "date": "2010-11-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Fed launches a second round of quantitative easing",
+   "summary": "QE2 drew criticism from emerging markets over currency wars.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Quantitative_easing"
+    }
+   ],
+   "entities": [
+    "federal-reserve",
+    "united-states"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2010-11-21-ireland-bailout",
+   "date": "2010-11-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "Ireland requests an EU–IMF bailout as its banks sink the state",
+   "summary": "The bank guarantee after the property bust turned private losses into sovereign debt.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Post-2008_Irish_economic_downturn"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/business/ireland-business-blog-with-lisa-ocarroll/2010/nov/28/ireland-bailout-full-government-statement"
+    }
+   ],
+   "entities": [
+    "ireland",
+    "european-union",
+    "imf",
+    "efsf"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "causes": [
+    {
+     "story": "2010-05-09-efsf-created",
+     "why": "Drew on the new fund",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "dublin"
+   ]
+  },
+  {
+   "id": "2010-11-23-yeonpyeong-shelling",
+   "date": "2010-11-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "North Korea shells Yeonpyeong island",
+   "summary": "About 170 shells and rockets hit military and civilian targets after a southern drill.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Yeonpyeongdo_bombardment"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "south-korea"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "causes": [
+    {
+     "story": "2010-03-26-cheonan-sunk",
+     "why": "Second deadly clash of 2010",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "yeonpyeongdo"
+   ]
+  },
+  {
+   "id": "2010-11-28-ivory-coast-runoff",
+   "date": "2010-11-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Africa",
+   "title": "Ivory Coast runoff ends in a standoff as Gbagbo refuses to accept defeat",
+   "summary": "Ouattara was recognised internationally as the winner.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Ivorian_presidential_election"
+    }
+   ],
+   "entities": [
+    "ivory-coast",
+    "laurent-gbagbo",
+    "alassane-ouattara"
+   ],
+   "marker": "political",
+   "where": [
+    "abidjan"
+   ]
+  },
+  {
+   "id": "2010-12-17-bouazizi",
+   "date": "2010-12-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Africa",
+   "title": "Tunisian vendor Mohamed Bouazizi sets himself on fire in Sidi Bouzid",
+   "summary": "His protest at police harassment sparked the uprising that toppled Ben Ali and launched the Arab Spring.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mohamed_Bouazizi"
+    }
+   ],
+   "entities": [
+    "tunisia"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "sidi-bouzid"
+   ]
+  },
+  {
+   "id": "2010-11-13-suu-kyi-released",
+   "date": "2010-11-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "Myanmar frees Aung San Suu Kyi after a junta-run election",
+   "summary": "The army-backed USDP had won the Nov 7 vote.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Myanmar_general_election"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "aung-san-suu-kyi"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "yangon"
+   ]
+  },
+  {
+   "id": "2010-12-19-belarus-election-crackdown",
+   "date": "2010-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Russia/Eurasia",
+   "title": "Lukashenko claims re-election, and police crush protests in Minsk",
+   "summary": "International observers condemned the vote.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Belarusian_presidential_election"
+    }
+   ],
+   "entities": [
+    "belarus",
+    "alexander-lukashenko"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "minsk"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2015-03-31-buhari-wins",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-02-09-jonathan-acting-president",
+     "why": "Defeated Jonathan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-02-11-mubarak-resigns",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Inspired by Tunisia",
+     "confidence": "likely"
+    },
+    {
+     "story": "2010-06-06-khaled-said",
+     "why": "Spark of the protests",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-03-30-thein-sein-sworn-in",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-11-13-suu-kyi-released",
+     "why": "Post-election transition",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-08-09-belarus-protests",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-12-19-belarus-election-crackdown",
+     "why": "Earlier crackdown",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-09-01-kenya-election-annulled",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-03-04-kenyatta-elected",
+     "why": "Kenyatta–Odinga rivalry",
+     "confidence": "likely"
+    },
+    {
+     "story": "2010-08-04-kenya-constitution",
+     "why": "New Supreme Court powers",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-01-14-ben-ali-flees",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-12-17-bouazizi",
+     "why": "Bouazizi sparked the revolt",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-04-11-gbagbo-captured",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-11-28-ivory-coast-runoff",
+     "why": "Disputed election",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-08-05-us-downgrade",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-11-02-us-midterms",
+     "why": "Divided government",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-10-27-greek-haircut",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-05-02-greek-bailout",
+     "why": "First bailout failed",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-12-18-us-leaves-iraq",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-09-01-operation-new-dawn",
+     "why": "Drawdown",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-07-03-yingluck-wins",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-05-19-thai-crackdown",
+     "why": "Red Shirt camp won the next vote",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2011-11-08-iaea-iran-report",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-06-09-unsc-1929",
+     "why": "Sanctions track",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2012-12-12-nk-satellite-launch",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2011-12-17-kim-jong-il-dies",
+     "why": "New leader's programme",
+     "confidence": "possible"
+    },
+    {
+     "story": "2010-09-30-kim-jong-un-anointed",
+     "why": "Kim's succession",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2011-12-17-kim-jong-il-dies",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-09-30-kim-jong-un-anointed",
+     "why": "Heir already named",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2012-09-04-farc-talks-open",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-06-20-santos-elected",
+     "why": "Santos opened talks",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-11-21-euromaidan",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-02-07-yanukovych-elected",
+     "why": "Yanukovych's turn to Moscow",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2013-06-06-snowden-nsa-leaks",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-07-25-wikileaks-afghan-logs",
+     "why": "Earlier leaks",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2013-12-12-jang-executed",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-09-30-kim-jong-un-anointed",
+     "why": "Kim's consolidation",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2012-09-11-senkaku-purchase",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-09-07-senkaku-trawler",
+     "why": "Earlier clash",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-10-05-kyrgyz-revolution",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2010-04-07-kyrgyz-revolution",
+     "why": "Earlier revolt",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2025-04-04-china-rare-earth-controls",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2025-04-02-liberation-day",
+     "why": "Retaliation for the tariffs",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-12-china-rare-earth-group",
+     "why": "State consolidation made licensing a usable weapon",
+     "confidence": "possible"
+    },
+    {
+     "story": "2024-12-03-china-bans-gallium-to-us",
+     "why": "Escalates China's 2024 minerals bans",
+     "confidence": "likely"
+    },
+    {
+     "story": "2010-09-07-senkaku-trawler",
+     "why": "2010 precedent",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2026-02-05-new-start-expires",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2025-09-22-putin-new-start-offer",
+     "why": "Putin's one-year offer went unanswered before expiry",
+     "confidence": "likely"
+    },
+    {
+     "story": "2010-04-08-new-start",
+     "why": "Treaty signed in 2010",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-06-23-brexit-referendum",
+   "why": "2010 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-05-08-cameron-majority",
+     "why": "Manifesto pledge",
+     "confidence": "likely"
+    },
+    {
+     "story": "2015-09-04-merkel-opens-border",
+     "why": "Migration fears",
+     "confidence": "possible"
+    },
+    {
+     "story": "2010-05-11-cameron-coalition",
+     "why": "Cameron's premiership",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2010-10-31-dilma-elected"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2010-11-03-fed-qe2"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2010-11-21-ireland-bailout"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2010-11-23-yeonpyeong-shelling"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2010-12-17-bouazizi"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2010-11-13-suu-kyi-released"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2010-12-19-belarus-election-crackdown"
+   ]
+  }
+ ]
+}
