@@ -117142,6 +117142,895 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-10": {
+   "sha256": "b08eaac23dd14390ef43e75a0a897e564426817725ad23cf4c22b7b6ec731559",
+   "undo": {
+    "stories": {
+     "2001-04-14-ntv-takeover": {
+      "id": "2001-04-14-ntv-takeover",
+      "date": "2001-04-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Gazprom takes over NTV, Russia's main independent channel",
+      "summary": "It marked the Kremlin's takeover of national television.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NTV_%28Russia%29"
+       }
+      ],
+      "entities": [
+       "russia",
+       "gazprom",
+       "vladimir-putin"
+      ],
+      "causes": [
+       {
+        "story": "2000-06-gusinsky-arrested",
+        "why": "Owner's arrest",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": [
+       "2000-06-gusinsky-arrested",
+       "2019-12-02-power-of-siberia",
+       "2014-05-21-russia-china-gas-deal"
+      ],
+      "revisions": [
+       {
+        "edition": "2000-12-31",
+        "why": "2000 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2003-10-25-khodorkovsky-arrested": {
+      "id": "2003-10-25-khodorkovsky-arrested",
+      "date": "2003-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Russia arrests Yukos chief Mikhail Khodorkovsky",
+      "summary": "The case brought the oil industry under Kremlin control and cowed the oligarchs.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+       }
+      ],
+      "entities": [
+       "russia",
+       "mikhail-khodorkovsky",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-12-31",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "novosibirsk"
+      ],
+      "related_stories": [
+       "2005-05-31-khodorkovsky-sentenced"
+      ]
+     },
+     "2003-12-07-united-russia-wins": {
+      "id": "2003-12-07-united-russia-wins",
+      "date": "2003-12-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-12-31",
+      "region": "Russia/Eurasia",
+      "title": "United Russia sweeps the Duma election",
+      "summary": "The result gave Putin a compliant parliament.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2003_Russian_legislative_election"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2003-12-31",
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2005-05-31-khodorkovsky-sentenced": {
+      "id": "2005-05-31-khodorkovsky-sentenced",
+      "date": "2005-05-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Yukos founder Mikhail Khodorkovsky is sentenced to nine years",
+      "summary": "Yukos's main assets passed to state-owned Rosneft.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+       }
+      ],
+      "entities": [
+       "russia",
+       "mikhail-khodorkovsky",
+       "rosneft"
+      ],
+      "causes": [
+       {
+        "story": "2003-10-25-khodorkovsky-arrested",
+        "why": "Trial",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2005-06-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": [
+       "2003-10-25-khodorkovsky-arrested"
+      ],
+      "revisions": [
+       {
+        "edition": "2003-12-31",
+        "why": "2003 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2006-10-07-politkovskaya-murdered": {
+      "id": "2006-10-07-politkovskaya-murdered",
+      "date": "2006-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Journalist Anna Politkovskaya, critic of the Chechen war, is shot dead in Moscow",
+      "summary": "Her murder became a symbol of the dangers facing Kremlin critics.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anna_Politkovskaya"
+       }
+      ],
+      "entities": [
+       "russia",
+       "anna-politkovskaya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2006-11-01-litvinenko-poisoned": {
+      "id": "2006-11-01-litvinenko-poisoned",
+      "date": "2006-11-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-12-31",
+      "region": "Europe",
+      "title": "Former FSB officer Alexander Litvinenko is poisoned with polonium in London",
+      "summary": "A UK inquiry later concluded that Putin probably approved the killing.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko"
+       }
+      ],
+      "entities": [
+       "russia",
+       "united-kingdom",
+       "alexander-litvinenko",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-12-31",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "strike",
+      "where": [
+       "london"
+      ],
+      "related_stories": [
+       "2018-03-04-skripal-poisoning"
+      ]
+     },
+     "2000-10-05-milosevic-ousted": {
+      "id": "2000-10-05-milosevic-ousted",
+      "date": "2000-10-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-12-31",
+      "region": "Europe",
+      "title": "Mass protests topple Slobodan Milošević",
+      "summary": "He was handed to The Hague in 2001.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+       }
+      ],
+      "entities": [
+       "serbia",
+       "slobodan-milosevic"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-12-31",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "belgrade"
+      ],
+      "related_stories": [
+       "2001-06-28-milosevic-extradited"
+      ]
+     },
+     "2001-06-28-milosevic-extradited": {
+      "id": "2001-06-28-milosevic-extradited",
+      "date": "2001-06-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Europe",
+      "title": "Serbia hands Slobodan Milošević to The Hague tribunal",
+      "summary": "He died in custody in 2006 before a verdict.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87"
+       }
+      ],
+      "entities": [
+       "serbia",
+       "slobodan-milosevic"
+      ],
+      "causes": [
+       {
+        "story": "2000-10-05-milosevic-ousted",
+        "why": "Fall from power",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "the-hague"
+      ],
+      "related_stories": [
+       "2000-10-05-milosevic-ousted"
+      ],
+      "revisions": [
+       {
+        "edition": "2000-12-31",
+        "why": "2000 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2001-08-13-ohrid-agreement": {
+      "id": "2001-08-13-ohrid-agreement",
+      "date": "2001-08-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Europe",
+      "title": "The Ohrid Agreement ends Macedonia's ethnic Albanian insurgency",
+      "summary": "It granted Albanians more rights.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ohrid_Agreement"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_insurgency_in_North_Macedonia"
+       }
+      ],
+      "entities": [
+       "north-macedonia",
+       "nato"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "skopje"
+      ],
+      "related_stories": []
+     },
+     "2004-03-17-kosovo-unrest": {
+      "id": "2004-03-17-kosovo-unrest",
+      "date": "2004-03-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-03-31",
+      "region": "Europe",
+      "title": "Anti-Serb riots sweep Kosovo",
+      "summary": "The violence pushed the West to settle Kosovo's status.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2004_unrest_in_Kosovo"
+       }
+      ],
+      "entities": [
+       "kosovo",
+       "serbia",
+       "nato"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-03-31",
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "pristina"
+      ],
+      "related_stories": [
+       "2008-02-17-kosovo-independence"
+      ]
+     },
+     "2006-05-21-montenegro-independence": {
+      "id": "2006-05-21-montenegro-independence",
+      "date": "2006-05-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-06-30",
+      "region": "Europe",
+      "title": "Montenegro votes for independence from Serbia",
+      "summary": "The vote ended the last remnant of Yugoslavia.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Montenegrin_independence_referendum"
+       }
+      ],
+      "entities": [
+       "montenegro",
+       "serbia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-06-30",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "podgorica"
+      ],
+      "related_stories": []
+     },
+     "2008-07-21-karadzic-arrested": {
+      "id": "2008-07-21-karadzic-arrested",
+      "date": "2008-07-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-09-30",
+      "region": "Europe",
+      "title": "Bosnian Serb wartime leader Radovan Karadžić is arrested in Belgrade",
+      "summary": "He was handed to The Hague and later convicted of genocide over Srebrenica.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Radovan_Karad%C5%BEi%C4%87"
+       }
+      ],
+      "entities": [
+       "radovan-karadzic",
+       "serbia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-09-30",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "belgrade"
+      ],
+      "related_stories": []
+     },
+     "2000-12-nice-treaty": {
+      "id": "2000-12-nice-treaty",
+      "date": "2000-12",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2000-12-31",
+      "region": "Europe",
+      "title": "EU leaders agree the Treaty of Nice to prepare for enlargement",
+      "summary": "It reformed voting rules for an expanding union.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Nice"
+       }
+      ],
+      "entities": [
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-12-31",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "diplomacy",
+      "where": [
+       "nice"
+      ],
+      "related_stories": []
+     },
+     "2000-09-28-danish-euro-no": {
+      "id": "2000-09-28-danish-euro-no",
+      "date": "2000-09-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2000-09-30",
+      "region": "Europe",
+      "title": "Danish voters reject the euro",
+      "summary": "Denmark kept the krone.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000_Danish_euro_referendum"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "euro"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2000-09-30",
+      "era": "2000 (Putin's rise, the second intifada, the dot-com bust)",
+      "marker": "political",
+      "where": [
+       "copenhagen"
+      ],
+      "related_stories": []
+     },
+     "2001-06-01-nepal-royal-massacre": {
+      "id": "2001-06-01-nepal-royal-massacre",
+      "date": "2001-06-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-06-30",
+      "region": "Asia-Pacific",
+      "title": "Nepal's crown prince kills King Birendra and much of the royal family",
+      "summary": "The massacre weakened the monarchy as the Maoist war grew.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nepalese_royal_massacre"
+       }
+      ],
+      "entities": [
+       "nepal"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-06-30",
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "kathmandu"
+      ],
+      "related_stories": []
+     },
+     "2006-04-24-nepal-king-yields": {
+      "id": "2006-04-24-nepal-king-yields",
+      "date": "2006-04-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-06-30",
+      "region": "Asia-Pacific",
+      "title": "Nepal's king restores parliament after mass protests",
+      "summary": "The movement led to peace with the Maoists in November and to the end of the monarchy.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_democracy_movement_in_Nepal"
+       }
+      ],
+      "entities": [
+       "nepal"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2006-06-30",
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "political",
+      "where": [
+       "kathmandu"
+      ],
+      "related_stories": [
+       "2008-04-10-nepal-maoists-win"
+      ]
+     },
+     "2008-04-10-nepal-maoists-win": {
+      "id": "2008-04-10-nepal-maoists-win",
+      "date": "2008-04-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Asia-Pacific",
+      "title": "Nepal's Maoists win the constituent-assembly vote; the monarchy is abolished",
+      "summary": "The assembly declared a republic in May, completing the peace process that ended the civil war in 2006.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Nepalese_Constituent_Assembly_election"
+       }
+      ],
+      "entities": [
+       "nepal"
+      ],
+      "causes": [
+       {
+        "story": "2006-04-24-nepal-king-yields",
+        "why": "Peace process",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "kathmandu"
+      ],
+      "related_stories": [
+       "2006-04-24-nepal-king-yields"
+      ],
+      "revisions": [
+       {
+        "edition": "2006-12-31",
+        "why": "2006 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected",
+       "2018-11-25-kerch-strait-incident",
+       "2017-08-02-caatsa",
+       "2016-07-08-nato-warsaw-summit",
+       "2016-09-28-mh17-jit-findings",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-02-27-nemtsov-killed",
+       "2014-02-22-yanukovych-ousted",
+       "2014-03-18-crimea-annexed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-25-poroshenko-elected",
+       "2014-07-17-mh17-shot-down",
+       "2014-08-29-ilovaisk",
+       "2014-09-05-nato-wales-2pct",
+       "2014-12-16-ruble-crash",
+       "2013-11-21-euromaidan",
+       "2012-03-04-putin-returns",
+       "2011-12-10-moscow-protests",
+       "2010-02-07-yanukovych-elected",
+       "2010-04-08-new-start",
+       "2010-12-19-belarus-election-crackdown",
+       "2009-01-07-russia-ukraine-gas-cutoff",
+       "2009-04-16-chechnya-operation-ends",
+       "2009-05-07-eastern-partnership",
+       "2008-03-02-medvedev-elected",
+       "2008-04-03-nato-bucharest-summit",
+       "2008-08-08-russia-georgia-war",
+       "2007-02-10-putin-munich-speech",
+       "2007-04-27-estonia-cyberattacks",
+       "2007-09-30-ukraine-snap-election",
+       "2006-01-01-russia-ukraine-gas-cut",
+       "2006-03-19-belarus-election",
+       "2006-03-26-ukraine-election-yanukovych",
+       "2005-01-23-yushchenko-inaugurated",
+       "2005-09-08-nord-stream-deal",
+       "2004-03-14-putin-reelected",
+       "2004-03-29-nato-enlargement",
+       "2004-05-09-kadyrov-assassinated",
+       "2004-09-01-beslan-siege",
+       "2004-11-22-orange-revolution",
+       "2002-05-28-nato-russia-council",
+       "2002-10-23-moscow-theatre-siege",
+       "2002-11-21-nato-prague-summit",
+       "2001-07-16-sino-russian-treaty",
+       "2000-02-grozny-falls",
+       "2000-03-26-putin-elected",
+       "2000-06-gusinsky-arrested",
+       "2000-05-13-russia-federal-districts",
+       "2000-08-12-kursk-sinks",
+       "2000-11-cassette-scandal"
+      ],
+      "source": "threads.md"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote",
+       "2018-11-17-yellow-vests",
+       "2017-05-07-macron-elected",
+       "2017-09-24-afd-enters-bundestag",
+       "2016-03-18-eu-turkey-migrant-deal",
+       "2016-06-23-brexit-referendum",
+       "2016-12-19-berlin-market-attack",
+       "2015-09-04-merkel-opens-border",
+       "2015-11-13-paris-attacks",
+       "2013-05-28-gezi-protests",
+       "2013-09-22-merkel-third-term",
+       "2013-10-03-lampedusa-shipwreck",
+       "2012-05-06-greek-election-syriza",
+       "2011-07-22-norway-attacks",
+       "2010-04-10-smolensk-crash",
+       "2010-05-11-cameron-coalition",
+       "2009-04-07-moldova-twitter-revolution",
+       "2009-05-07-eastern-partnership",
+       "2009-12-01-lisbon-treaty-in-force",
+       "2008-02-17-kosovo-independence",
+       "2008-06-12-ireland-rejects-lisbon",
+       "2007-01-01-bulgaria-romania-join-eu",
+       "2007-12-13-lisbon-treaty-signed",
+       "2005-05-29-eu-constitution-rejected",
+       "2004-05-01-eu-enlargement",
+       "2001-05-13-berlusconi-returns",
+       "2000-02-04-austria-fpo-government"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing",
+       "2008-10-10-us-india-nuclear-deal",
+       "2008-11-26-mumbai-attacks",
+       "2007-07-10-lal-masjid-siege",
+       "2007-11-03-musharraf-emergency",
+       "2007-12-14-ttp-formed",
+       "2007-12-27-bhutto-assassinated",
+       "2006-03-02-bush-singh-nuclear-deal",
+       "2006-07-11-mumbai-train-bombings",
+       "2006-06-sri-lanka-eelam-war-iv",
+       "2005-11-17-rajapaksa-elected",
+       "2004-02-04-aq-khan-confession",
+       "2004-05-13-india-manmohan-singh",
+       "2002-02-27-gujarat-riots",
+       "2001-09-pakistan-sides-with-us",
+       "2000-04-elephant-pass",
+       "2000-12-sharif-exiled"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
