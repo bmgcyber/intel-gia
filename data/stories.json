@@ -644,6 +644,8 @@
    "2022-10-07-bis-controls",
    "2026-05-14-trump-xi-beijing",
    "2026-09-23-us-china-fragile-truce",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-10-30-busan-truce",
    "eu-china-rare-earth-green-channel",
    "ai-minerals",
    "pla-drills",
@@ -658,7 +660,12 @@
    "2025-12-29-justice-mission-drills",
    "2026-02-08-takaichi-landslide",
    "2026-03-30-china-sanctions-furuya",
-   "2026-05-22-china-japan-rare-earths"
+   "2026-05-22-china-japan-rare-earths",
+   "2025-04-02-liberation-day",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-20-us-australia-minerals",
+   "2025-11-07-takaichi-taiwan-remarks"
   ],
   "causes": [
    {
@@ -680,6 +687,16 @@
     "story": "2026-09-23-us-china-fragile-truce",
     "why": "Shaky implementation of the truce",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-10-09-china-rare-earth-expansion",
+    "why": "The controls whose suspension ends Nov 10",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-10-30-busan-truce",
+    "why": "The Busan truce set the one-year clock",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -689,6 +706,13 @@
    {
     "edition": "2026-10-14",
     "why": "2026 backfill: link to the earlier 2026 events that led here",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
     "fields": [
      "causes"
     ]
@@ -2175,7 +2199,8 @@
    "2022-03-07-oil-spike",
    "2022-04-27-gas-cutoff-poland",
    "2022-09-02-price-cap",
-   "2026-04-23-eu-90bn-loan"
+   "2026-04-23-eu-90bn-loan",
+   "2025-12-18-eu-90bn-loan-agreed"
   ]
  },
  {
@@ -2466,7 +2491,8 @@
    "2022-10-05-opec-cut",
    "diesel-deal",
    "venezuela-oil",
-   "2026-09-18-graham-act-signed"
+   "2026-09-18-graham-act-signed",
+   "2025-10-22-rosneft-lukoil-sanctions"
   ]
  },
  {
@@ -2978,7 +3004,8 @@
   "related_stories": [
    "2022-04-02-yemen-truce",
    "saudi-offensive-mokha",
-   "2026-01-09-stc-dissolution"
+   "2026-01-09-stc-dissolution",
+   "2025-12-03-stc-seizes-hadramawt"
   ]
  },
  {
@@ -5125,7 +5152,9 @@
    "rare-earth-nov10",
    "2026-03-17-hyperscaler-ai-debt",
    "2026-05-14-trump-xi-beijing",
-   "2025-01-27-deepseek-shock"
+   "2025-01-27-deepseek-shock",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-12-08-h200-china"
   ],
   "marker": "political",
   "unplaced": "An export-control rule. The summary names no place."
@@ -7361,6 +7390,16 @@
     "story": "2022-08-04-pla-drills",
     "why": "The 2022 encirclement drills set the template that each new exercise extends",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-11-07-takaichi-taiwan-remarks",
+    "why": "Beijing cited Takaichi's remarks",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-04-02-strait-thunder",
+    "why": "Continues the 2025 blockade drills",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7377,15 +7416,26 @@
   "unplaced": "Drills ran in several zones around Taiwan; there is no single site.",
   "related_stories": [
    "2022-08-04-pla-drills",
+   "2025-11-07-takaichi-taiwan-remarks",
+   "2025-04-02-strait-thunder",
+   "pla-drills",
    "2026-02-08-takaichi-landslide",
    "rare-earth-nov10",
-   "pla-drills",
    "2022-05-23-ipef",
    "2022-08-02-pelosi",
    "pla-patrol-oct14-15",
    "pla-patrol-oct15-16",
    "dongsha-coast-guard-incursion",
    "2026-03-30-china-sanctions-furuya"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7419,6 +7469,21 @@
     "story": "2022-03-05-us-venezuela-talks",
     "why": "Washington's 2022 energy bargaining failed to move Maduro; in 2026 it switched from bargaining to force",
     "confidence": "speculative"
+   },
+   {
+    "story": "2025-09-02-boat-strikes-begin",
+    "why": "The Caribbean campaign",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-11-16-ford-caribbean",
+    "why": "The build-up near Venezuela",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-12-16-venezuela-tanker-blockade",
+    "why": "Oil blockade before the raid",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7438,11 +7503,23 @@
   ],
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
+   "2025-09-02-boat-strikes-begin",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
    "2026-01-06-us-venezuela-oil-deal",
    "2026-02-22-el-mencho-killed",
    "2026-03-13-cuba-talks",
-   "venezuela-oil",
-   "2026-10-12-cuba-blockade-bites"
+   "2026-10-12-cuba-blockade-bites",
+   "venezuela-oil"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7482,6 +7559,11 @@
     "story": "2026-01-03-maduro-captured",
     "why": "The raid gave Washington control of the acting government's oil decisions",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-16-venezuela-tanker-blockade",
+    "why": "The blockade made US-controlled sales the only outlet",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -7496,13 +7578,26 @@
   "unplaced": "An agreement announced from Washington; no physical site.",
   "related_stories": [
    "2026-01-03-maduro-captured",
+   "2025-12-16-venezuela-tanker-blockade",
    "venezuela-oil",
    "2022-03-05-us-venezuela-talks",
    "2022-05-23-ipef",
    "us-weighs-shadow-fleet-relief",
    "trump-waives-russia-sanctions",
    "2026-02-06-us-india-tariff-cut",
-   "2026-03-13-cuba-talks"
+   "2026-03-13-cuba-talks",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-08-27-india-50pct-tariff"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7544,6 +7639,11 @@
     "story": "2022-09-16-mahsa-amini",
     "why": "Same pattern: a protest wave met by mass force, deepening the regime's legitimacy gap",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-12-28-iran-protests-begin",
+    "why": "Crackdown on the December uprising",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7560,6 +7660,7 @@
   "unplaced": "Nationwide protests and crackdown; there is no single site.",
   "related_stories": [
    "2022-09-16-mahsa-amini",
+   "2025-12-28-iran-protests-begin",
    "2026-02-28-iran-war-begins",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
@@ -7567,7 +7668,20 @@
    "gfs-pride-sunk",
    "gulf-of-oman-tanker-fires",
    "irgc-mine-supertanker-brent-110",
-   "2026-03-13-kharg-strike"
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-22-midnight-hammer"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7609,6 +7723,11 @@
     "story": "2022-04-07-plc",
     "why": "The 2022 council bundled Saudi- and UAE-backed factions; that bargain broke in 2026",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-03-stc-seizes-hadramawt",
+    "why": "Saudi Arabia reversed the STC's December gains",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7629,8 +7748,18 @@
   ],
   "related_stories": [
    "2022-04-07-plc",
-   "houthis-hit-aden-palace",
-   "2026-04-28-uae-quits-opec"
+   "2025-12-03-stc-seizes-hadramawt",
+   "2026-04-28-uae-quits-opec",
+   "houthis-hit-aden-palace"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7663,6 +7792,11 @@
     "story": "2022-06-13-bunagana",
     "why": "M23's 2022 resurgence began the expansion that reached Uvira",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-04-washington-accords-uvira",
+    "why": "M23's December capture of Uvira",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7677,10 +7811,21 @@
   ],
   "related_stories": [
    "2022-06-13-bunagana",
+   "2025-12-04-washington-accords-uvira",
    "2026-03-washington-accords",
    "kabila-m23",
    "rubaya-coltan",
-   "kabila-frn-succeeds-afc"
+   "kabila-frn-succeeds-afc",
+   "2025-01-27-m23-takes-goma"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7715,7 +7860,13 @@
    "european-union",
    "mark-rutte"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-01-07-trump-greenland-panama",
+    "why": "A year of US pressure on Greenland",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-03-31",
   "analysis": {
@@ -7731,10 +7882,23 @@
    "davos"
   ],
   "related_stories": [
+   "2025-01-07-trump-greenland-panama",
    "2026-01-27-india-eu-fta",
-   "trump-disgrace-eu-summit",
    "2026-07-08-nato-ankara",
-   "2026-09-18-greenland-deal"
+   "2026-09-18-greenland-deal",
+   "trump-disgrace-eu-summit",
+   "2025-04-02-liberation-day",
+   "2025-06-25-nato-hague-5pct",
+   "2025-07-27-eu-us-turnberry"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7773,6 +7937,11 @@
     "story": "2026-01-21-greenland-davos",
     "why": "US tariff threats against allies pushed both sides to lock in other markets",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-08-27-india-50pct-tariff",
+    "why": "India hedged against US tariffs",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -7785,7 +7954,17 @@
   "unplaced": "Negotiated deal with no single signing site in the sources.",
   "related_stories": [
    "2026-01-21-greenland-davos",
+   "2025-08-27-india-50pct-tariff",
    "2026-02-06-us-india-tariff-cut"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7819,7 +7998,13 @@
    "ethiopia",
    "tplf"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-03-tplf-split",
+    "why": "The TPLF faction that took over in 2025",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-03-31",
   "storylines": [
@@ -7829,7 +8014,17 @@
   "marker": "military",
   "unplaced": "Western Tigray fighting; the sources name no town we can pin.",
   "related_stories": [
+   "2025-03-tplf-split",
    "2026-09-23-tplf-offensive"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7869,6 +8064,11 @@
     "story": "2021-10-25-sudan-coup",
     "why": "The 2021 coup left the army and RSF sharing power, the split that became today's war",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-10-26-el-fasher-falls",
+    "why": "After El Fasher the war shifted to Kordofan",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7887,7 +8087,19 @@
   ],
   "related_stories": [
    "2021-10-25-sudan-coup",
-   "2026-06-el-obeid-atrocity-warning"
+   "2025-10-26-el-fasher-falls",
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-10-09-el-obeid-drones",
+   "2025-03-21-khartoum-retaken"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -7969,6 +8181,11 @@
     "story": "2026-01-27-india-eu-fta",
     "why": "India's EU deal strengthened its hand with Washington",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-08-27-india-50pct-tariff",
+    "why": "Unwinds the 50% tariff",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -7983,6 +8200,7 @@
   "unplaced": "A trade framework with no event site.",
   "related_stories": [
    "2026-01-27-india-eu-fta",
+   "2025-08-27-india-50pct-tariff",
    "diesel-deal",
    "venezuela-oil",
    "2022-03-08-us-oil-ban",
@@ -7992,7 +8210,18 @@
    "trump-disgrace-eu-summit",
    "us-weighs-shadow-fleet-relief",
    "trump-waives-russia-sanctions",
-   "2026-01-06-us-venezuela-oil-deal"
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-09-18-graham-act-signed",
+   "2025-10-22-rosneft-lukoil-sanctions"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8030,6 +8259,16 @@
     "story": "2025-12-29-justice-mission-drills",
     "why": "Beijing tied its pressure on Japan to Takaichi's Taiwan remarks",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-10-21-takaichi-pm",
+    "why": "Takaichi took office in October",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-11-07-takaichi-taiwan-remarks",
+    "why": "Chinese pressure rallied voters",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -8043,12 +8282,23 @@
   "unplaced": "A national election; no single site.",
   "related_stories": [
    "2025-12-29-justice-mission-drills",
+   "2025-10-21-takaichi-pm",
+   "2025-11-07-takaichi-taiwan-remarks",
    "2026-03-30-china-sanctions-furuya",
+   "2026-05-22-china-japan-rare-earths",
    "rare-earth-nov10",
    "pla-drills",
    "2022-08-04-pla-drills",
-   "pla-patrol-oct14-15",
-   "2026-05-22-china-japan-rare-earths"
+   "pla-patrol-oct14-15"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8081,7 +8331,18 @@
    "china",
    "mexico"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "The IEEPA tariffs the Court struck down",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-11-05-scotus-tariff-argument",
+    "why": "Argued in November",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-03-31",
   "analysis": {
@@ -8095,8 +8356,22 @@
   "marker": "political",
   "unplaced": "A court ruling and executive orders; no event site.",
   "related_stories": [
+   "2025-04-02-liberation-day",
+   "2025-11-05-scotus-tariff-argument",
+   "2026-05-14-trump-xi-beijing",
    "trump-waives-russia-sanctions",
-   "2026-05-14-trump-xi-beijing"
+   "2026-09-18-graham-act-signed",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8133,6 +8408,11 @@
     "story": "2026-01-03-maduro-captured",
     "why": "The Caracas raid made the threat of unilateral US action against cartels credible",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-02-20-cartels-fto",
+    "why": "CJNG named a terrorist organisation",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -8150,7 +8430,17 @@
    "tapalpa"
   ],
   "related_stories": [
-   "2026-01-03-maduro-captured"
+   "2026-01-03-maduro-captured",
+   "2025-02-20-cartels-fto"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8186,6 +8476,11 @@
     "story": "2022-07-31-zawahiri",
     "why": "Al-Qaeda's leader sheltering in Kabul showed the Taliban hosting militants, the core of Pakistan's complaint",
     "confidence": "speculative"
+   },
+   {
+    "story": "2025-10-19-afpak-doha-ceasefire",
+    "why": "The October 2025 ceasefire failed",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -8204,8 +8499,18 @@
   ],
   "related_stories": [
    "2022-07-31-zawahiri",
+   "2025-10-19-afpak-doha-ceasefire",
    "2026-03-16-kabul-hospital-strike",
    "2026-10-05-taliban-diplomacy"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8254,6 +8559,16 @@
     "story": "2022-09-jcpoa-stall",
     "why": "With no nuclear deal since 2022, force became the default tool",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-06-22-midnight-hammer",
+    "why": "Precedent of direct US strikes on Iran",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-09-28-iran-snapback",
+    "why": "Diplomacy closed off by the snapback",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -8274,10 +8589,14 @@
   "related_stories": [
    "2026-01-08-iran-protest-crackdown",
    "2022-09-jcpoa-stall",
+   "2025-06-22-midnight-hammer",
+   "2025-09-28-iran-snapback",
    "2026-03-02-hezbollah-joins-war",
    "2026-03-08-mojtaba-khamenei",
    "2026-03-11-iea-record-release",
    "2026-03-13-kharg-strike",
+   "2026-04-07-iran-ceasefire-islamabad",
+   "2026-05-13-warsh-confirmed",
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "kataib-hezbollah-halt",
@@ -8286,8 +8605,24 @@
    "gfs-pride-sunk",
    "gulf-of-oman-tanker-fires",
    "irgc-mine-supertanker-brent-110",
-   "2026-04-07-iran-ceasefire-islamabad",
-   "2026-05-13-warsh-confirmed"
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-08-17-mou-expires",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-13-israel-strikes-iran",
+   "2025-10-10-gaza-ceasefire-trump-plan"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8324,6 +8659,11 @@
     "story": "2026-02-28-iran-war-begins",
     "why": "Hezbollah entered to avenge Khamenei",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-08-05-lebanon-disarm-hezbollah",
+    "why": "Hezbollah under disarmament pressure",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -8338,7 +8678,19 @@
   "unplaced": "Fighting across southern Lebanon and northern Israel; no single site.",
   "related_stories": [
    "2026-02-28-iran-war-begins",
-   "2026-04-08-israel-strikes-lebanon"
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-08-17-mou-expires",
+   "2026-10-14-lebanon-yellow-line"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8640,6 +8992,11 @@
     "story": "2022-10-07-bis-controls",
     "why": "AI compute became a strategic commodity worth borrowing for",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-10-21-meta-hyperion-debt",
+    "why": "Off-balance-sheet AI borrowing began in 2025",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -8657,9 +9014,19 @@
   "unplaced": "Capital-markets trend; no site.",
   "related_stories": [
    "2022-10-07-bis-controls",
+   "2025-10-21-meta-hyperion-debt",
+   "ai-minerals",
    "2022-08-31-nvidia-ban",
-   "coreweave-ai-credit-shock",
-   "ai-minerals"
+   "coreweave-ai-credit-shock"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8692,6 +9059,11 @@
     "story": "2026-01-19-m23-leaves-uvira",
     "why": "Uvira pullout was the first test of the accords",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-04-washington-accords-uvira",
+    "why": "Implementation of the December accords",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -8708,10 +9080,21 @@
   "unplaced": "Joint statement; no event site.",
   "related_stories": [
    "2026-01-19-m23-leaves-uvira",
+   "2025-12-04-washington-accords-uvira",
    "kabila-m23",
    "rubaya-coltan",
    "2022-06-13-bunagana",
-   "kabila-frn-succeeds-afc"
+   "kabila-frn-succeeds-afc",
+   "2025-01-27-m23-takes-goma"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8998,7 +9381,7 @@
   "edition": "2026-06-30",
   "region": "Asia-Pacific",
   "title": "China moves to block the entrance to Scarborough Shoal",
-  "summary": "Satellite images showed China moving to block the entrance to Scarborough Shoal, which the Philippines also claims. Beijing later proposed a national nature reserve at the shoal, which the US said in August was an effort to claim the South China Sea.",
+  "summary": "Satellite images showed China moving to block the entrance to Scarborough Shoal, which the Philippines also claims. China's State Council had already approved a national nature reserve at the shoal in September 2025, a move the US called an effort to claim the South China Sea.",
   "sources": [
    {
     "name": "Reuters",
@@ -9014,7 +9397,13 @@
    "philippines",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-09-10-scarborough-nature-reserve",
+    "why": "Follows the 2025 nature-reserve claim",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-06-30",
   "storylines": [
@@ -9026,7 +9415,18 @@
    "scarborough-shoal"
   ],
   "related_stories": [
+   "2025-09-10-scarborough-nature-reserve",
    "2026-07-23-scarborough-water-cannon"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here; fix the nature-reserve timing (it was approved in Sep 2025)",
+    "fields": [
+     "summary",
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9068,6 +9468,11 @@
     "story": "2022-02-26-swift-cbr",
     "why": "Repayment is tied to Russian assets frozen since 2022",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-18-eu-90bn-loan-agreed",
+    "why": "Finalises the December 2025 decision",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9082,8 +9487,19 @@
   "related_stories": [
    "2026-04-12-orban-ousted",
    "2022-02-26-swift-cbr",
+   "2025-12-18-eu-90bn-loan-agreed",
    "energy-ceasefire",
-   "trump-disgrace-eu-summit"
+   "trump-disgrace-eu-summit",
+   "2026-10-13-hungary-lifts-accession-veto"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9131,6 +9547,11 @@
     "story": "2021-12-wagner-mali",
     "why": "Russian forces in Mali since 2021",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-06-06-wagner-leaves-mali",
+    "why": "A lighter Russian force",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -9151,8 +9572,19 @@
   "related_stories": [
    "2022-02-17-france-leaves-mali",
    "2021-12-wagner-mali",
+   "2025-06-06-wagner-leaves-mali",
+   "kidal",
    "2026-04-28-bamako-blockade",
-   "kidal"
+   "2025-09-jnim-fuel-blockade"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9191,6 +9623,11 @@
     "story": "2026-04-25-mali-offensive",
     "why": "Follow-on to the offensive",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-09-jnim-fuel-blockade",
+    "why": "Escalates the 2025 fuel blockade",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9204,7 +9641,17 @@
    "bamako"
   ],
   "related_stories": [
-   "2026-04-25-mali-offensive"
+   "2026-04-25-mali-offensive",
+   "2025-09-jnim-fuel-blockade"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9251,6 +9698,11 @@
     "story": "2022-10-05-opec-cut",
     "why": "Saudi-led quota politics the UAE resented",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-05-03-opec-plus-hikes",
+    "why": "The market-share fight inside OPEC+",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -9268,7 +9720,17 @@
   "unplaced": "A policy decision; no site.",
   "related_stories": [
    "2026-01-09-stc-dissolution",
-   "2022-10-05-opec-cut"
+   "2022-10-05-opec-cut",
+   "2025-05-03-opec-plus-hikes"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9370,6 +9832,16 @@
     "story": "2022-10-07-bis-controls",
     "why": "Chip controls are the main US bargaining chip",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-10-30-busan-truce",
+    "why": "Follow-on to the Busan truce",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-12-08-h200-china",
+    "why": "H200 access was already on offer",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9391,7 +9863,10 @@
   "related_stories": [
    "2026-02-20-scotus-ieepa",
    "2022-10-07-bis-controls",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china",
    "rare-earth-nov10",
+   "2026-09-23-us-china-fragile-truce",
    "ai-minerals",
    "2022-06-14-msp",
    "2022-08-09-chips-act",
@@ -9400,7 +9875,22 @@
    "coreweave-ai-credit-shock",
    "trump-waives-russia-sanctions",
    "eu-china-rare-earth-green-channel",
-   "2026-09-23-us-china-fragile-truce"
+   "2026-09-18-graham-act-signed",
+   "2025-01-27-deepseek-shock",
+   "2025-04-02-liberation-day",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-10-20-us-australia-minerals"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9478,6 +9968,11 @@
     "story": "2021-12-china-rare-earth-group",
     "why": "State control of the sector makes targeted cut-offs possible",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-11-07-takaichi-taiwan-remarks",
+    "why": "The row that began in November",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9492,8 +9987,18 @@
   "related_stories": [
    "2026-02-08-takaichi-landslide",
    "2021-12-china-rare-earth-group",
+   "2025-11-07-takaichi-taiwan-remarks",
    "rare-earth-nov10",
    "2026-03-30-china-sanctions-furuya"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9525,6 +10030,11 @@
     "story": "2026-02-03-kadugli-siege-broken",
     "why": "Fighting shifted across Kordofan",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-10-26-el-fasher-falls",
+    "why": "The El Fasher atrocities set the precedent behind the warning",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9539,7 +10049,18 @@
   ],
   "related_stories": [
    "2026-02-03-kadugli-siege-broken",
-   "2026-10-09-el-obeid-drones"
+   "2025-10-26-el-fasher-falls",
+   "2026-10-09-el-obeid-drones",
+   "2025-03-21-khartoum-retaken"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9633,6 +10154,11 @@
     "story": "2022-06-19-petro",
     "why": "Ends the leftist turn that began with Petro's 2022 win",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-14-kast-chile",
+    "why": "Regional swing to the right",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -9646,7 +10172,17 @@
   "unplaced": "A national election; no single site.",
   "related_stories": [
    "2022-06-19-petro",
+   "2025-12-14-kast-chile",
    "2026-10-04-brazil-first-round"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9678,7 +10214,13 @@
    "andy-burnham",
    "reform-uk"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-05-01-reform-local-elections",
+    "why": "Reform's surge began in 2025",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-06-30",
   "storylines": [
@@ -9687,7 +10229,18 @@
   "era": "2026 (Iran war year)",
   "marker": "political",
   "unplaced": "A resignation announcement; no event site.",
-  "related_stories": []
+  "related_stories": [
+   "2025-05-01-reform-local-elections"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2026-07-08-mou-collapses",
@@ -9794,6 +10347,11 @@
     "story": "2022-06-29-madrid",
     "why": "Madrid named Russia the main threat; Ankara funds that judgment",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-06-25-nato-hague-5pct",
+    "why": "Reaffirms the Hague 5% target",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9810,8 +10368,19 @@
   "related_stories": [
    "2026-01-21-greenland-davos",
    "2022-06-29-madrid",
+   "2025-06-25-nato-hague-5pct",
    "2021-11-russia-buildup",
-   "2021-12-17-russia-drafts"
+   "2021-12-17-russia-drafts",
+   "2025-11-20-28-point-plan"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9854,6 +10423,11 @@
     "story": "2022-10-02-truce-expires",
     "why": "The 2022 truce never became a settlement",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-05-06-us-houthi-truce",
+    "why": "The US truce left Saudi shipping as a target",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -9868,16 +10442,26 @@
   "related_stories": [
    "2026-07-08-mou-collapses",
    "2022-10-02-truce-expires",
+   "2025-05-06-us-houthi-truce",
    "2026-08-07-mecca-pact",
    "2026-09-10-houthis-seize-mokha",
+   "2026-10-10-riyadh-airport-strike",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
    "2022-01-21-saada-strike",
    "2022-03-25-jeddah-attack",
    "2022-04-02-yemen-truce",
    "houthis-saudi-oct15",
-   "houthis-hit-aden-palace",
-   "2026-10-10-riyadh-airport-strike"
+   "houthis-hit-aden-palace"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -9959,6 +10543,11 @@
     "story": "2026-04-07-iran-ceasefire-islamabad",
     "why": "Pakistan's rising value to Gulf and US partners",
     "confidence": "speculative"
+   },
+   {
+    "story": "2025-09-17-saudi-pakistan-pact",
+    "why": "Widens the 2025 Saudi–Pakistan pact",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -9977,7 +10566,17 @@
   "related_stories": [
    "2026-07-20-houthi-saudi-blockade",
    "2026-04-07-iran-ceasefire-islamabad",
+   "2025-09-17-saudi-pakistan-pact",
    "2026-10-05-mecca-pact-activated"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -10014,6 +10613,11 @@
     "story": "2022-10-10-energy-strikes",
     "why": "Ukraine's answer to Russia's long war on its grid",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-08-refinery-strikes",
+    "why": "The refinery campaign intensified from 2025",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -10031,13 +10635,23 @@
   "unplaced": "Strikes on many refineries across Russia; no single site.",
   "related_stories": [
    "2022-10-10-energy-strikes",
-   "2026-09-22-zelensky-trump-unga",
+   "2025-08-refinery-strikes",
    "diesel-deal",
+   "2026-09-22-zelensky-trump-unga",
+   "2026-10-02-g7-diesel-release",
    "energy-ceasefire-collapse",
    "trump-disgrace-eu-summit",
    "iea-diesel-release",
-   "trump-waives-russia-sanctions",
-   "2026-10-02-g7-diesel-release"
+   "trump-waives-russia-sanctions"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -10128,7 +10742,18 @@
    "ahmed-al-sharaa",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-03-10-sdf-damascus-deal",
+    "why": "Completes the March 2025 deal",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-05-13-trump-lifts-syria-sanctions",
+    "why": "US embrace of Damascus",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-09-30",
   "analysis": {
@@ -10141,7 +10766,19 @@
   "era": "2026 (Iran war year)",
   "marker": "political",
   "unplaced": "A political merger; no single site.",
-  "related_stories": []
+  "related_stories": [
+   "2025-03-10-sdf-damascus-deal",
+   "2025-05-13-trump-lifts-syria-sanctions"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2026-09-10-houthis-seize-mokha",
@@ -10317,6 +10954,11 @@
     "story": "2026-07-08-mou-collapses",
     "why": "Oil shock kept inflation hot",
     "confidence": "likely"
+   },
+   {
+    "story": "2025-12-10-fed-third-cut",
+    "why": "Rates entered 2026 at 3.50–3.75%",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -10330,10 +10972,20 @@
   "related_stories": [
    "2026-05-13-warsh-confirmed",
    "2026-07-08-mou-collapses",
+   "2025-12-10-fed-third-cut",
+   "coreweave-ai-credit-shock",
    "2022-03-16-fed-hike",
    "2022-06-15-fed-75",
-   "coreweave-ai-credit-shock",
    "tech-selloff-worst-week"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -10372,6 +11024,16 @@
     "story": "2022-03-08-us-oil-ban",
     "why": "Escalates the sanctions regime begun in 2022",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-10-22-rosneft-lukoil-sanctions",
+    "why": "Escalates the 2025 oil sanctions",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-08-27-india-50pct-tariff",
+    "why": "Secondary tariffs on buyers of Russian oil",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -10385,6 +11047,9 @@
   "unplaced": "A bill signing; no event site.",
   "related_stories": [
    "2022-03-08-us-oil-ban",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-08-27-india-50pct-tariff",
+   "trump-waives-russia-sanctions",
    "us-iran-talks-deadlock",
    "diesel-deal",
    "venezuela-oil",
@@ -10394,7 +11059,6 @@
    "trump-disgrace-eu-summit",
    "us-weighs-shadow-fleet-relief",
    "saudi-blames-iran-eu-gcc-postponed",
-   "trump-waives-russia-sanctions",
    "2026-01-06-us-venezuela-oil-deal",
    "2026-01-08-iran-protest-crackdown",
    "2026-02-05-new-start-expires",
@@ -10403,7 +11067,21 @@
    "2026-02-28-iran-war-begins",
    "2026-05-14-trump-xi-beijing",
    "2026-09-22-zelensky-trump-unga",
-   "2026-09-26-trump-rejects-iran-plan"
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-04-02-liberation-day",
+   "2025-06-22-midnight-hammer",
+   "2025-08-15-alaska-summit",
+   "2025-10-30-busan-truce",
+   "2025-12-08-h200-china"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -10847,6 +11525,11 @@
     "story": "2026-06-21-colombia-de-la-espriella",
     "why": "Part of the region's rightward swing",
     "confidence": "possible"
+   },
+   {
+    "story": "2025-09-11-bolsonaro-convicted",
+    "why": "Flávio ran in his jailed father's place",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -10863,7 +11546,17 @@
   "unplaced": "A national election; no single site.",
   "related_stories": [
    "2022-10-30-lula",
-   "2026-06-21-colombia-de-la-espriella"
+   "2026-06-21-colombia-de-la-espriella",
+   "2025-09-11-bolsonaro-convicted"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -11286,7 +11979,18 @@
    "hamas",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2025-10-10-gaza-ceasefire-trump-plan",
+    "why": "Phase one of the October plan",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-11-17-unsc-2803",
+    "why": "The UN mandate that phase two is meant to fulfil",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2026-10-14",
   "storylines": [
@@ -11295,7 +11999,20 @@
   "era": "2026 (Iran war year)",
   "marker": "diplomacy",
   "unplaced": "Gaza has no place entity yet.",
-  "related_stories": []
+  "related_stories": [
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2025-11-17-unsc-2803",
+   "2025-09-09-israel-strikes-doha"
+  ],
+  "revisions": [
+   {
+    "edition": "2025-12-31",
+    "why": "2025 backfill: link to the 2025 events that led here",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2026-10-14-lebanon-yellow-line",
@@ -11492,7 +12209,8 @@
    "rubaya-coltan",
    "kabila-frn-succeeds-afc",
    "2026-01-19-m23-leaves-uvira",
-   "2026-03-washington-accords"
+   "2026-03-washington-accords",
+   "2025-12-04-washington-accords-uvira"
   ]
  },
  {
@@ -11546,7 +12264,8 @@
   "related_stories": [
    "2022-10-07-bis-controls",
    "2022-08-31-nvidia-ban",
-   "2026-05-14-trump-xi-beijing"
+   "2026-05-14-trump-xi-beijing",
+   "2025-10-21-meta-hyperion-debt"
   ]
  },
  {
@@ -11851,7 +12570,8 @@
    "2021-10-25-sudan-coup",
    "2026-02-03-kadugli-siege-broken",
    "2026-06-el-obeid-atrocity-warning",
-   "2026-10-09-el-obeid-drones"
+   "2026-10-09-el-obeid-drones",
+   "2025-10-26-el-fasher-falls"
   ]
  },
  {
@@ -11903,7 +12623,8 @@
   ],
   "related_stories": [
    "2026-09-23-tplf-offensive",
-   "2026-10-09-ethiopia-eritrea-accusations"
+   "2026-10-09-ethiopia-eritrea-accusations",
+   "2026-01-29-tigray-clashes"
   ]
  },
  {
@@ -11966,7 +12687,9 @@
    "2026-05-14-trump-xi-beijing",
    "2026-09-18-graham-act-signed",
    "2025-07-27-eu-us-turnberry",
-   "2025-08-27-india-50pct-tariff"
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-30-busan-truce",
+   "2025-11-05-scotus-tariff-argument"
   ]
  },
  {
@@ -12080,7 +12803,8 @@
    "eu-china-rare-earth-green-channel",
    "2026-05-14-trump-xi-beijing",
    "2026-09-23-us-china-fragile-truce",
-   "2025-07-10-mp-materials-dod"
+   "2025-07-10-mp-materials-dod",
+   "2025-10-09-china-rare-earth-expansion"
   ]
  },
  {
@@ -12282,7 +13006,8 @@
   "unplaced": "Agreement announced in Muscat; no place entity.",
   "related_stories": [
    "2022-10-02-truce-expires",
-   "houthis-hit-aramco"
+   "houthis-hit-aramco",
+   "2026-07-20-houthi-saudi-blockade"
   ]
  },
  {
@@ -12567,7 +13292,8 @@
    "2026-08-17-mou-expires",
    "2026-09-18-graham-act-signed",
    "2026-09-26-trump-rejects-iran-plan",
-   "2025-09-28-iran-snapback"
+   "2025-09-28-iran-snapback",
+   "2025-12-28-iran-protests-begin"
   ]
  },
  {
@@ -12622,7 +13348,8 @@
    "2025-03-18-germany-debt-brake",
    "2022-06-29-madrid",
    "trump-disgrace-eu-summit",
-   "2026-01-21-greenland-davos"
+   "2026-01-21-greenland-davos",
+   "2026-07-08-nato-ankara"
   ]
  },
  {
@@ -12678,7 +13405,8 @@
    "pla-patrol-oct14-15",
    "eu-china-rare-earth-green-channel",
    "2026-05-14-trump-xi-beijing",
-   "2026-09-23-us-china-fragile-truce"
+   "2026-09-23-us-china-fragile-truce",
+   "2025-10-20-us-australia-minerals"
   ]
  },
  {
@@ -12890,7 +13618,9 @@
    "trump-waives-russia-sanctions",
    "putin-security-zone",
    "2026-09-18-graham-act-signed",
-   "2026-09-22-zelensky-trump-unga"
+   "2026-09-22-zelensky-trump-unga",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-20-28-point-plan"
   ]
  },
  {
@@ -12939,7 +13669,8 @@
    "gaza-city"
   ],
   "related_stories": [
-   "2025-03-18-gaza-war-resumes"
+   "2025-03-18-gaza-war-resumes",
+   "2025-10-10-gaza-ceasefire-trump-plan"
   ]
  },
  {
@@ -13004,7 +13735,8 @@
    "trump-waives-russia-sanctions",
    "2026-01-06-us-venezuela-oil-deal",
    "2026-02-06-us-india-tariff-cut",
-   "2026-09-18-graham-act-signed"
+   "2026-09-18-graham-act-signed",
+   "2026-01-27-india-eu-fta"
   ]
  },
  {
@@ -13112,7 +13844,8 @@
    "2025-02-20-cartels-fto",
    "venezuela-oil",
    "2022-03-05-us-venezuela-talks",
-   "2026-01-03-maduro-captured"
+   "2026-01-03-maduro-captured",
+   "2025-11-16-ford-caribbean"
   ]
  },
  {
@@ -13167,7 +13900,8 @@
   "related_stories": [
    "2025-06-06-wagner-leaves-mali",
    "kidal",
-   "2026-04-25-mali-offensive"
+   "2026-04-25-mali-offensive",
+   "2026-04-28-bamako-blockade"
   ]
  },
  {
@@ -13218,7 +13952,8 @@
   "related_stories": [
    "2025-09-17-saudi-pakistan-pact",
    "2026-10-gaza-phase-two-stalled",
-   "2025-06-22-midnight-hammer"
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan"
   ]
  },
  {
@@ -13260,7 +13995,9 @@
   "where": [
    "scarborough-shoal"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-04-15-scarborough-blocked"
+  ]
  },
  {
   "id": "2025-09-11-bolsonaro-convicted",
@@ -13310,7 +14047,8 @@
   "marker": "political",
   "unplaced": "A court ruling; Brasília has no place entity.",
   "related_stories": [
-   "2022-10-30-lula"
+   "2022-10-30-lula",
+   "2026-10-04-brazil-first-round"
   ]
  },
  {
@@ -13365,7 +14103,8 @@
   ],
   "related_stories": [
    "2025-09-09-israel-strikes-doha",
-   "2025-05-07-operation-sindoor"
+   "2025-05-07-operation-sindoor",
+   "2026-08-07-mecca-pact"
   ]
  },
  {
@@ -13427,7 +14166,1389 @@
    "2025-06-22-midnight-hammer",
    "2022-09-jcpoa-stall",
    "2021-11-29-jcpoa-vienna",
-   "trump-disgrace-eu-summit"
+   "trump-disgrace-eu-summit",
+   "2025-12-28-iran-protests-begin",
+   "2026-02-28-iran-war-begins"
+  ]
+ },
+ {
+  "id": "2025-10-09-china-rare-earth-expansion",
+  "date": "2025-10-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "China extends rare-earth controls worldwide, including to foreign products with 0.1% Chinese content",
+  "summary": "MOFCOM added five more rare earths (holmium, erbium, thulium, europium, ytterbium) and rare-earth technologies to its controls. It required licences for foreign-made goods containing at least 0.1% Chinese-origin rare earths, with case-by-case review for advanced-chip and military-AI uses. Most measures were due on Nov 8 and Dec 1.",
+  "sources": [
+   {
+    "name": "MOFCOM Notice 2025 No. 61",
+    "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_65480a162cd745c2b0863d67553a4b05.html"
+   },
+   {
+    "name": "CSET translation",
+    "url": "https://cset.georgetown.edu/wp-content/uploads/t0656_china_rare_earth_controls_2025_61_EN.pdf"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/"
+   }
+  ],
+  "entities": [
+   "china",
+   "rare-earths",
+   "semiconductors",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-04-china-rare-earth-controls",
+    "why": "Escalates the April regime",
+    "confidence": "likely"
+   },
+   {
+    "story": "2022-10-07-bis-controls",
+    "why": "Mirrors the extraterritorial reach of US chip rules",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "Beijing showed it could copy the US foreign-direct-product rule. That gave it the leverage it traded at Busan, and set the Nov 10 2026 cliff.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "china-minerals-leverage",
+   "us-tariffs-trade",
+   "ai-compute-minerals"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "An export regime; no site.",
+  "related_stories": [
+   "2025-04-04-china-rare-earth-controls",
+   "2022-10-07-bis-controls",
+   "rare-earth-nov10",
+   "2025-10-20-us-australia-minerals",
+   "2025-10-30-busan-truce",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "2022-08-09-chips-act",
+   "2022-08-31-nvidia-ban",
+   "pla-patrol-oct14-15",
+   "eu-china-rare-earth-green-channel",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-07-10-mp-materials-dod",
+   "2025-12-08-h200-china"
+  ]
+ },
+ {
+  "id": "2025-10-10-gaza-ceasefire-trump-plan",
+  "date": "2025-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Middle East",
+  "title": "Gaza ceasefire under Trump's plan; all living hostages freed and a Sharm el-Sheikh summit held",
+  "summary": "The ceasefire took effect at noon on Oct 10 and Israeli forces pulled back to agreed lines. On Oct 13 Hamas freed all 20 living hostages, Israel released nearly 2,000 Palestinian prisoners and detainees, and Trump convened more than 20 leaders in Sharm el-Sheikh.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/details-gaza-ceasefire-agreement-2025-10-10/"
+   },
+   {
+    "name": "AP live",
+    "url": "https://apnews.com/live/israel-hamas-updates-10-13-2025"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c740jx07vz0o"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hamas",
+   "united-states",
+   "egypt",
+   "qatar",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-08-22-gaza-famine",
+    "why": "Famine raised pressure on Israel",
+    "confidence": "possible"
+   },
+   {
+    "story": "2025-09-09-israel-strikes-doha",
+    "why": "The Doha backlash pushed Washington to force a deal",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "sharm-el-sheikh"
+  ],
+  "related_stories": [
+   "2025-08-22-gaza-famine",
+   "2025-09-09-israel-strikes-doha",
+   "2026-10-gaza-phase-two-stalled",
+   "2025-11-17-unsc-2803",
+   "us-iran-talks-deadlock",
+   "2022-03-27-negev-summit",
+   "2026-02-28-iran-war-begins",
+   "2025-06-22-midnight-hammer"
+  ]
+ },
+ {
+  "id": "2025-10-10-machado-nobel",
+  "date": "2025-10-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Venezuela's María Corina Machado wins the Nobel Peace Prize",
+  "summary": "The Norwegian Nobel Committee honoured Machado for promoting democratic rights and a peaceful transition in Venezuela.",
+  "sources": [
+   {
+    "name": "NobelPrize.org",
+    "url": "https://www.nobelprize.org/prizes/peace/2025/press-release/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c70821201ego"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/nobel-peace-prize-oslo-41b6bff88e2d57af0917bcf778e132ad"
+   }
+  ],
+  "entities": [
+   "maria-corina-machado",
+   "venezuela",
+   "nicolas-maduro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "western-hemisphere",
+   "venezuela-oil"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "Announced in Oslo; no place entity.",
+  "related_stories": []
+ },
+ {
+  "id": "2025-10-14-madagascar-coup",
+  "date": "2025-10-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Africa",
+  "title": "Madagascar's military seizes power after Gen Z protests; president impeached",
+  "summary": "After youth protests over water and power cuts, Col. Michael Randrianirina's CAPSAT unit sided with the protesters. President Rajoelina fled and was impeached, and Randrianirina declared a takeover and was sworn in on Oct 17, promising elections within two years.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/madagascars-president-dissolves-national-assembly-escalating-crisis-2025-10-14/"
+   },
+   {
+    "name": "Reuters (sworn in)",
+    "url": "https://www.reuters.com/world/africa/madagascar-military-ruler-randrianirina-sworn-president-reuters-witness-2025-10-17/"
+   },
+   {
+    "name": "AP timeline",
+    "url": "https://apnews.com/article/madagascar-coup-rajoelina-military-6d56fcb2653557e359ffb74cf0481f41"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo"
+   }
+  ],
+  "entities": [
+   "madagascar"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "antananarivo"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2025-10-19-afpak-doha-ceasefire",
+  "date": "2025-10-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "After deadly border clashes, Pakistan and the Taliban agree a Doha ceasefire",
+  "summary": "After a week of heavy fighting, Qatar- and Turkey-mediated talks in Doha produced an immediate ceasefire. It was extended in Istanbul on Oct 30 with a monitoring mechanism, but later rounds failed to settle the dispute over the TTP.",
+  "sources": [
+   {
+    "name": "Qatar Foreign Ministry",
+    "url": "https://mofa.gov.qa/en/latest-articles/statements/pakistan-and-afghanistan-agree-to-an-immediate-ceasefire-during-a-round-of-negotiations-in-doha"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/afghanistan-pakistan-hold-peace-talks-doha-after-fierce-fighting-says-afghan-2025-10-18/"
+   },
+   {
+    "name": "Reuters (extension)",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-afghanistan-agree-continue-ceasefire-turkey-says-2025-10-30/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cze6nzpl74do"
+   },
+   {
+    "name": "Dawn (retrospective)",
+    "url": "https://www.dawn.com/news/2037780/pakistan-rules-out-unconditional-talks-with-afghanistan"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "afghanistan",
+   "taliban",
+   "qatar",
+   "turkey"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "pakistan-afghanistan-war",
+   "south-asia-security"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "doha"
+  ],
+  "related_stories": [
+   "2026-02-26-pakistan-afghanistan-war",
+   "2026-03-16-kabul-hospital-strike",
+   "2026-10-05-taliban-diplomacy"
+  ]
+ },
+ {
+  "id": "2025-10-20-us-australia-minerals",
+  "date": "2025-10-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "US and Australia sign a critical-minerals framework with an $8.5bn project pipeline",
+  "summary": "Trump and Albanese signed a framework under which each side commits at least $1bn within six months toward an $8.5bn pipeline of mining and processing projects, plus price floors and faster permitting.",
+  "sources": [
+   {
+    "name": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/"
+   },
+   {
+    "name": "Prime Minister of Australia",
+    "url": "https://www.pm.gov.au/media/historic-critical-minerals-framework-signed-president-trump-and-prime-minister-albanese"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cly9kvrdk2xo"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "australia",
+   "rare-earths",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-09-china-rare-earth-expansion",
+    "why": "Response to China's new controls",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-07-10-mp-materials-dod",
+    "why": "Extends the price-floor model to an ally",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "china-minerals-leverage",
+   "ai-compute-minerals"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-07-10-mp-materials-dod",
+   "rare-earth-nov10",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "pla-patrol-oct14-15",
+   "eu-china-rare-earth-green-channel",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-10-30-busan-truce"
+  ]
+ },
+ {
+  "id": "2025-10-21-takaichi-pm",
+  "date": "2025-10-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "Sanae Takaichi becomes Japan's first woman prime minister",
+  "summary": "The Diet elected Takaichi with 237 lower-house votes after the LDP formed a coalition with the right-wing Ishin party.",
+  "sources": [
+   {
+    "name": "Prime Minister's Office of Japan",
+    "url": "https://japan.kantei.go.jp/104/actions/202510/21shimei.html"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2025/10/21/nx-s1-5581178/japan-sanae-takaichi-female-prime-minister"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japans-ldp-ishin-agree-form-coalition-government-nhk-says-2025-10-20/"
+   }
+  ],
+  "entities": [
+   "japan",
+   "sanae-takaichi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A Diet vote; Tokyo has no place entity.",
+  "related_stories": [
+   "2026-02-08-takaichi-landslide",
+   "2025-11-07-takaichi-taiwan-remarks"
+  ]
+ },
+ {
+  "id": "2025-10-21-meta-hyperion-debt",
+  "date": "2025-10-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Meta's $27bn off-balance-sheet Hyperion financing launches the AI debt era",
+  "summary": "Meta formed a joint venture with Blue Owl funds, which own 80%, to build its Louisiana Hyperion data centre, financed with about $27bn of debt raised through a separate vehicle. Bloomberg reported Meta and xAI were starting a trend of off-balance-sheet AI debt.",
+  "sources": [
+   {
+    "name": "Meta",
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/technology/meta-forms-joint-venture-with-blue-owl-capital-louisiana-data-center-2025-10-21/"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt"
+   },
+   {
+    "name": "IFR",
+    "url": "https://www.ifre.com/bonds/2390941/moodys-opinion-threatens-to-derail-off-balance-sheet-data-centre-deals"
+   }
+  ],
+  "entities": [
+   "meta",
+   "ai-data-centers"
+  ],
+  "causes": [
+   {
+    "story": "2025-01-27-deepseek-shock",
+    "why": "The spending race continued despite the scare",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "ai-compute-minerals",
+   "central-banks-rates"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A financing deal; no site.",
+  "related_stories": [
+   "2025-01-27-deepseek-shock",
+   "2026-03-17-hyperscaler-ai-debt"
+  ]
+ },
+ {
+  "id": "2025-10-22-rosneft-lukoil-sanctions",
+  "date": "2025-10-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Russia/Eurasia",
+  "title": "US sanctions Rosneft and Lukoil",
+  "summary": "Treasury designated Russia's two largest oil companies and their majority-owned subsidiaries and called on Moscow to agree a ceasefire. Wind-down licences ran to Nov 21.",
+  "sources": [
+   {
+    "name": "US Treasury",
+    "url": "https://home.treasury.gov/news/press-releases/sb0290"
+   },
+   {
+    "name": "OFAC",
+    "url": "https://ofac.treasury.gov/recent-actions/20251022"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-announces-sanctions-russian-oil-companies-rosneft-lukoil-2025-10-22/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "rosneft",
+   "lukoil",
+   "ofac",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "2025-08-15-alaska-summit",
+    "why": "Alaska produced no ceasefire",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-03-08-us-oil-ban",
+    "why": "Deepens the oil sanctions begun in 2022",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "russia-ukraine",
+   "global-oil"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "energy",
+  "unplaced": "A sanctions designation; no site.",
+  "related_stories": [
+   "2025-08-15-alaska-summit",
+   "2022-03-08-us-oil-ban",
+   "2026-09-18-graham-act-signed",
+   "2025-11-20-28-point-plan",
+   "diesel-deal",
+   "venezuela-oil",
+   "2022-09-02-price-cap",
+   "2022-10-05-opec-cut",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "us-weighs-shadow-fleet-relief",
+   "trump-waives-russia-sanctions",
+   "2026-02-06-us-india-tariff-cut",
+   "2025-08-27-india-50pct-tariff"
+  ]
+ },
+ {
+  "id": "2025-10-26-el-fasher-falls",
+  "date": "2025-10-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Africa",
+  "title": "RSF takes El Fasher after an 18-month siege, followed by mass killings",
+  "summary": "The RSF captured North Darfur's capital. The WHO said about 460 people were killed at the Saudi Hospital. OHCHR later documented more than 6,000 killings on Oct 25–27 and said the violations amount to war crimes.",
+  "sources": [
+   {
+    "name": "OHCHR",
+    "url": "https://www.ohchr.org/en/press-releases/2026/02/sudan-rsf-violations-capture-el-fasher-amount-war-crimes"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c364jgkge46o"
+   },
+   {
+    "name": "Yale HRL",
+    "url": "https://ysph.yale.edu/download-file/21697a62-b8a2-4692-b30a-6e984e96bb08/"
+   }
+  ],
+  "entities": [
+   "rsf",
+   "sudan",
+   "sudanese-armed-forces",
+   "who"
+  ],
+  "causes": [
+   {
+    "story": "2025-03-21-khartoum-retaken",
+    "why": "Driven from the capital, the RSF consolidated Darfur",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "With all of Darfur held, the RSF turned east into Kordofan, toward Babanusa, Kadugli and El Obeid.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "sudan-war"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "el-fasher"
+  ],
+  "related_stories": [
+   "2025-03-21-khartoum-retaken",
+   "2026-02-03-kadugli-siege-broken",
+   "2026-06-el-obeid-atrocity-warning",
+   "2026-10-09-el-obeid-drones"
+  ]
+ },
+ {
+  "id": "2025-10-30-busan-truce",
+  "date": "2025-10-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "Busan truce: China suspends its new rare-earth controls for a year and the US cuts tariffs",
+  "summary": "Trump and Xi met in Busan. Per the White House, China suspended the Oct 9 controls and issued general licences, and the US cut the fentanyl tariff by 10 points and kept its higher reciprocal rates paused until Nov 10 2026. China also committed to soybean purchases.",
+  "sources": [
+   {
+    "name": "White House fact sheet",
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/looming-trump-xi-meeting-revives-hope-us-china-trade-truce-2025-10-29/"
+   },
+   {
+    "name": "Reuters (analysis)",
+    "url": "https://www.reuters.com/world/china/trump-xi-amazing-summit-brings-tactical-truce-not-major-reset-2025-10-30/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "china",
+   "donald-trump",
+   "xi-jinping",
+   "rare-earths"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-09-china-rare-earth-expansion",
+    "why": "China's new leverage",
+    "confidence": "likely"
+   },
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "Unwinds the post-April escalation",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "This was a truce, not a settlement: both sides' weapons were suspended to Nov 10 2026, which is why that date hangs over today.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "us-tariffs-trade",
+   "china-minerals-leverage"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "busan"
+  ],
+  "related_stories": [
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-04-02-liberation-day",
+   "rare-earth-nov10",
+   "2026-05-14-trump-xi-beijing",
+   "2025-12-08-h200-china",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "pla-patrol-oct14-15",
+   "trump-waives-russia-sanctions",
+   "eu-china-rare-earth-green-channel",
+   "2026-02-20-scotus-ieepa",
+   "2026-09-18-graham-act-signed",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-20-us-australia-minerals"
+  ]
+ },
+ {
+  "id": "2025-11-05-scotus-tariff-argument",
+  "date": "2025-11-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Supreme Court hears the IEEPA tariff challenge",
+  "summary": "In Learning Resources v. Trump, consolidated with V.O.S. Selections, the government argued that IEEPA's power to 'regulate importation' covers tariffs. Challengers said tariffs are taxes that need clear congressional approval.",
+  "sources": [
+   {
+    "name": "Supreme Court transcript",
+    "url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2025/24-1287_b07d.pdf"
+   },
+   {
+    "name": "Cornell LII",
+    "url": "https://www.law.cornell.edu/supct/cert/24-1287"
+   },
+   {
+    "name": "SCOTUSblog",
+    "url": "https://www.scotusblog.com/cases/learning-resources-inc-v-trump/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-tariffs-live-us-supreme-court-hear-arguments-legality-tariffs-2025-11-05/"
+   }
+  ],
+  "entities": [
+   "us-supreme-court",
+   "united-states",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-04-02-liberation-day",
+    "why": "The challenged tariffs",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2025-04-02-liberation-day",
+   "2026-02-20-scotus-ieepa"
+  ]
+ },
+ {
+  "id": "2025-11-07-takaichi-taiwan-remarks",
+  "date": "2025-11-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "Takaichi says a Taiwan blockade could be 'survival-threatening', and China retaliates",
+  "summary": "Takaichi told parliament that a Chinese blockade or attack on Taiwan could be a 'survival-threatening situation', the legal trigger for collective self-defence. Beijing demanded a retraction and warned its citizens against travel to Japan.",
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/crklvx2n7rzo"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/japan-china-taiwan-emergency-takaichi-0cefc2b4e4f1cda16a4c8bfef033be2d"
+   },
+   {
+    "name": "AP (travel advisory)",
+    "url": "https://apnews.com/article/china-japan-takaichi-taiwan-travel-advisory-4c8000c6f2d29cccc625d378362dc91d"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/japan-china-ties-deteriorate-after-takaichis-taiwan-comment-2025-11-20/"
+   }
+  ],
+  "entities": [
+   "japan",
+   "sanae-takaichi",
+   "china",
+   "taiwan"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-21-takaichi-pm",
+    "why": "New hawkish premier",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "taiwan-indopacific",
+   "china-minerals-leverage"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Remarks in the Diet; no place entity.",
+  "related_stories": [
+   "2025-10-21-takaichi-pm",
+   "2025-12-29-justice-mission-drills",
+   "2026-02-08-takaichi-landslide",
+   "2026-05-22-china-japan-rare-earths",
+   "rare-earth-nov10",
+   "pla-drills",
+   "2022-08-04-pla-drills",
+   "2026-03-30-china-sanctions-furuya"
+  ]
+ },
+ {
+  "id": "2025-11-16-ford-caribbean",
+  "date": "2025-11-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "USS Gerald R. Ford enters the Caribbean for 'Operation Southern Spear'",
+  "summary": "The Ford carrier strike group joined the counter-narcotics mission Operation Southern Spear. AP called it a major military build-up near Venezuela.",
+  "sources": [
+   {
+    "name": "US Navy",
+    "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4332628/gerald-r-ford-carrier-strike-group-enters-caribbean-sea/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "venezuela",
+   "nicolas-maduro"
+  ],
+  "causes": [
+   {
+    "story": "2025-09-02-boat-strikes-begin",
+    "why": "Escalation from boat strikes",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "western-hemisphere",
+   "venezuela-oil"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "unplaced": "At sea in the Caribbean.",
+  "related_stories": [
+   "2025-09-02-boat-strikes-begin",
+   "2026-01-03-maduro-captured",
+   "2025-12-16-venezuela-tanker-blockade",
+   "venezuela-oil",
+   "2022-03-05-us-venezuela-talks"
+  ]
+ },
+ {
+  "id": "2025-11-17-unsc-2803",
+  "date": "2025-11-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Middle East",
+  "title": "UN Security Council endorses the Board of Peace and a Gaza stabilisation force",
+  "summary": "Resolution 2803 passed 13–0, with Russia and China abstaining. It endorsed Trump's comprehensive plan, set up the Board of Peace as a transitional administration, and authorised an International Stabilization Force through 2027.",
+  "sources": [
+   {
+    "name": "UN press",
+    "url": "https://press.un.org/en/2025/sc16225.doc.htm"
+   },
+   {
+    "name": "UN News",
+    "url": "https://news.un.org/en/story/2025/11/1166391"
+   },
+   {
+    "name": "UNISPAL",
+    "url": "https://www.un.org/unispal/document/security-council-resolution-on-president-donald-j-trumps-comprehensive-plan-to-end-the-gaza-conflict-s-res-2803-2025/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "israel",
+   "hamas"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-10-gaza-ceasefire-trump-plan",
+    "why": "UN backing for the plan",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Adopted in New York; no place entity.",
+  "related_stories": [
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2026-10-gaza-phase-two-stalled",
+   "2025-09-09-israel-strikes-doha"
+  ]
+ },
+ {
+  "id": "2025-11-20-28-point-plan",
+  "date": "2025-11-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Witkoff–Dmitriev '28-point' Ukraine plan leaks; Geneva talks cut it to 19 points",
+  "summary": "A US–Russian draft reportedly included territorial concessions, a 600,000-troop cap on Ukraine's army and a permanent bar on NATO membership. After Ukrainian and European pushback, Geneva talks produced a revised 19-point framework without the army cap, while territory stayed unresolved.",
+  "sources": [
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2025/11/20/trump-ukraine-peace-plan-28-points-russia"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/11/26/russia-ukraine-peace-plan-whats-the-latest-version-after-us-kyiv-talks"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20251126-what-we-know-about-the-revised-us-plan-for-peace-in-ukraine"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cpd6qd10l94o"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "ukraine",
+   "steve-witkoff",
+   "nato"
+  ],
+  "causes": [
+   {
+    "story": "2025-08-15-alaska-summit",
+    "why": "Follow-on US–Russia channel",
+    "confidence": "possible"
+   },
+   {
+    "story": "2025-10-22-rosneft-lukoil-sanctions",
+    "why": "Sanctions pressure preceded the push",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "unplaced": "Drafted and negotiated in several capitals.",
+  "related_stories": [
+   "2025-08-15-alaska-summit",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-06-23-himars",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "trump-waives-russia-sanctions",
+   "2026-07-08-nato-ankara",
+   "2026-09-22-zelensky-trump-unga"
+  ]
+ },
+ {
+  "id": "2025-12-03-stc-seizes-hadramawt",
+  "date": "2025-12-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Middle East",
+  "title": "UAE-backed separatists sweep into Hadramawt and Mahra; Saudi Arabia pushes back",
+  "summary": "The Southern Transitional Council rapidly took much of oil-rich Hadramawt and al-Mahra. Saudi Arabia demanded a withdrawal, which the STC rejected. By late December CSIS reported Saudi strikes near STC forces and on a UAE-linked shipment at Mukalla, and the UAE withdrew counter-terrorism units.",
+  "sources": [
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2025/12/03/world/middleeast/yemen-militias-attack-oil-uae.html"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/uae-welcomes-saudi-efforts-support-security-yemen-foreign-ministry-says-2025-12-26/"
+   },
+   {
+    "name": "CSIS",
+    "url": "https://www.csis.org/analysis/understanding-saudi-reaction-escalation-yemen"
+   }
+  ],
+  "entities": [
+   "stc",
+   "uae",
+   "saudi-arabia",
+   "yemen",
+   "presidential-leadership-council"
+  ],
+  "causes": [
+   {
+    "story": "2022-04-07-plc",
+    "why": "The 2022 council papered over Saudi–UAE splits",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "This brought the Saudi–UAE rivalry into the open. It led straight to the STC's January 2026 dissolution and the UAE's OPEC exit.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "yemen-houthis-saudi",
+   "gulf-realignment"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "military",
+  "where": [
+   "mukalla"
+  ],
+  "related_stories": [
+   "2022-04-07-plc",
+   "2026-01-09-stc-dissolution",
+   "houthis-hit-aden-palace"
+  ]
+ },
+ {
+  "id": "2025-12-04-washington-accords-uvira",
+  "date": "2025-12-04",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Africa",
+  "title": "Tshisekedi and Kagame sign the Washington Accords, and M23 takes Uvira days later",
+  "summary": "With Trump presiding, the leaders of Congo and Rwanda signed accords requiring Rwanda to withdraw its forces and stop backing armed groups. M23, which did not sign, launched a South Kivu offensive and said it seized Uvira on Dec 10.",
+  "sources": [
+   {
+    "name": "US State Department",
+    "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/12/signing-of-the-washington-accords-for-peace-and-prosperity-between-the-democratic-republic-of-the-congo-and-rwanda"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/trump-hosts-congo-rwanda-leaders-latest-push-peace-2025-12-04/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/congo-m23-rebels-fighting-uvira-b757b1a23ee30b3495d76ac7324be6af"
+   },
+   {
+    "name": "IPIS",
+    "url": "https://ipisresearch.be/publication/shifting-frontlines-in-october-november-and-december-limits-of-diplomacy-afc-m23-advances-after-washington-accords/"
+   }
+  ],
+  "entities": [
+   "drc",
+   "rwanda",
+   "m23",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2025-01-27-m23-takes-goma",
+    "why": "Peace push after M23's 2025 gains",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "drc-m23-minerals"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc",
+   "uvira"
+  ],
+  "related_stories": [
+   "2025-01-27-m23-takes-goma",
+   "2026-01-19-m23-leaves-uvira",
+   "2026-03-washington-accords",
+   "kabila-m23",
+   "rubaya-coltan",
+   "2022-06-13-bunagana",
+   "kabila-frn-succeeds-afc"
+  ]
+ },
+ {
+  "id": "2025-12-08-h200-china",
+  "date": "2025-12-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Asia-Pacific",
+  "title": "Trump allows Nvidia H200 sales to China in exchange for a 25% cut",
+  "summary": "Trump said Nvidia could ship H200 AI chips to approved Chinese customers, with 25% of the proceeds going to the US government. Commerce rules followed in January.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/china/us-open-up-exports-nvidia-h200-chips-china-semafor-reports-2025-12-08/"
+   },
+   {
+    "name": "Federal Register (rule)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm"
+   }
+  ],
+  "entities": [
+   "nvidia",
+   "china",
+   "united-states",
+   "semiconductors",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-30-busan-truce",
+    "why": "Chip access as a truce bargaining chip",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-10-07-bis-controls",
+    "why": "Loosens the 2022 control regime",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "ai-compute-minerals",
+   "us-tariffs-trade"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A policy announcement; no site.",
+  "related_stories": [
+   "2025-10-30-busan-truce",
+   "2022-10-07-bis-controls",
+   "2026-05-14-trump-xi-beijing",
+   "2022-08-09-chips-act",
+   "2022-08-31-nvidia-ban",
+   "coreweave-ai-credit-shock",
+   "trump-waives-russia-sanctions",
+   "2026-02-20-scotus-ieepa",
+   "2026-09-18-graham-act-signed",
+   "2025-01-27-deepseek-shock",
+   "2025-04-02-liberation-day",
+   "2025-10-09-china-rare-earth-expansion"
+  ]
+ },
+ {
+  "id": "2025-12-10-fed-third-cut",
+  "date": "2025-12-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Fed cuts for a third straight meeting to 3.50–3.75% amid three dissents",
+  "summary": "The FOMC lowered the target range by 25 basis points, 9–3. Goolsbee and Schmid wanted no cut and Miran wanted a half point. Projections showed one more cut in 2026.",
+  "sources": [
+   {
+    "name": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2025/12/10/fed-interest-rate-decision-december-2025-.html"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-10/fed-cuts-rates-with-three-dissents-projects-one-cut-in-2026"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "united-states",
+   "inflation"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "Rates went into 2026 at 3.50–3.75%. The Iran-war oil shock turned the planned easing into Warsh's September 2026 hike.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "central-banks-rates"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2026-09-16-fed-hikes",
+   "2022-03-16-fed-hike",
+   "2022-06-15-fed-75",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-05-13-warsh-confirmed"
+  ]
+ },
+ {
+  "id": "2025-12-14-kast-chile",
+  "date": "2025-12-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Hard-right José Antonio Kast wins Chile's presidency",
+  "summary": "Kast beat Jeannette Jara in the runoff with about 58% of the vote, Chile's sharpest shift to the right since the dictatorship.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/chile-votes-presidential-race-expected-lurch-country-right-2025-12-14/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/chile-elections-kast-jara-president-boric-trump-e9ef32b53359f3152ee80d62c106c5f6"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president"
+   }
+  ],
+  "entities": [
+   "chile",
+   "jose-antonio-kast"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "analysis": {
+   "text": "Part of the swing to the right that carried into Colombia and Brazil in 2026.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "unplaced": "A national election.",
+  "related_stories": [
+   "2026-06-21-colombia-de-la-espriella"
+  ]
+ },
+ {
+  "id": "2025-12-16-venezuela-tanker-blockade",
+  "date": "2025-12-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Americas",
+  "title": "Trump orders a 'total and complete' blockade of sanctioned tankers serving Venezuela",
+  "summary": "Trump ordered a blockade of US-sanctioned oil tankers entering or leaving Venezuela,. US forces began pursuing tankers, though Reuters reported Coast Guard capacity limits.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/trump-venezuela-maduro-oil-tankers-625a7c9a3106e316c97ceb68a42a1cb5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2025/12/17/trump-orders-blockade-of-sanctioned-venezuelan-oil-tankers.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "venezuela",
+   "pdvsa",
+   "petroleum",
+   "nicolas-maduro"
+  ],
+  "causes": [
+   {
+    "story": "2025-11-16-ford-caribbean",
+    "why": "Military build-up in place",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "energy",
+  "unplaced": "Enforced at sea.",
+  "related_stories": [
+   "2025-11-16-ford-caribbean",
+   "2026-01-03-maduro-captured",
+   "2026-01-06-us-venezuela-oil-deal",
+   "venezuela-oil",
+   "2022-03-05-us-venezuela-talks",
+   "us-weighs-shadow-fleet-relief",
+   "2026-03-13-cuba-talks",
+   "2025-09-02-boat-strikes-begin"
+  ]
+ },
+ {
+  "id": "2025-12-18-eu-90bn-loan-agreed",
+  "date": "2025-12-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Europe",
+  "title": "EU leaders agree a €90bn Ukraine loan after the Russian-assets plan collapses",
+  "summary": "The European Council agreed an interest-free €90bn loan for 2026–27 financed by joint EU borrowing, with Czechia, Hungary and Slovakia opted out. The 'reparations loan' using frozen Russian assets failed over Belgian objections, though the assets stay immobilised.",
+  "sources": [
+   {
+    "name": "Council of the EU",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/19/european-council-18-december-2025-ukraine/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/eu-leaders-agree-ukraine-financing-2026-27-belgiums-approval-key-2025-12-18/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-abc7b025112dba1f074755e454c29681"
+   }
+  ],
+  "entities": [
+   "european-union",
+   "ukraine",
+   "russia",
+   "hungary"
+  ],
+  "causes": [
+   {
+    "story": "2025-11-20-28-point-plan",
+    "why": "Europe moved to fund Kyiv as the US pressed for concessions",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-02-26-swift-cbr",
+    "why": "The frozen assets date from 2022",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "russia-ukraine",
+   "transatlantic-rift"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "diplomacy",
+  "where": [
+   "brussels"
+  ],
+  "related_stories": [
+   "2025-11-20-28-point-plan",
+   "2022-02-26-swift-cbr",
+   "2026-04-23-eu-90bn-loan",
+   "energy-ceasefire",
+   "trump-disgrace-eu-summit",
+   "2026-10-13-hungary-lifts-accession-veto"
+  ]
+ },
+ {
+  "id": "2025-12-28-iran-protests-begin",
+  "date": "2025-12-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2025-12-31",
+  "region": "Middle East",
+  "title": "Tehran bazaar strikes and protests erupt as the rial hits a record low",
+  "summary": "Shopkeepers in Tehran's electronics and phone markets closed and protested as the rial fell to about 1.45m per dollar. Protests spread to other markets and cities, and some chants turned against the government.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/iran-traders-protest-rial-currency-ddc955739fb412b642251dee10638f03"
+   },
+   {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/202512282220"
+   },
+   {
+    "name": "BBC Persian",
+    "url": "https://www.bbc.com/persian/live/cy7vrznjpe6t"
+   },
+   {
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com/news/amp/rcna251325"
+   }
+  ],
+  "entities": [
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "2025-09-28-iran-snapback",
+    "why": "Restored UN sanctions deepened the currency crisis",
+    "confidence": "possible"
+   },
+   {
+    "story": "2025-06-22-midnight-hammer",
+    "why": "War damage and isolation",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2025-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2025 (Trump's return)",
+  "marker": "political",
+  "where": [
+   "tehran"
+  ],
+  "related_stories": [
+   "2025-09-28-iran-snapback",
+   "2025-06-22-midnight-hammer",
+   "2026-01-08-iran-protest-crackdown"
   ]
  }
 ]

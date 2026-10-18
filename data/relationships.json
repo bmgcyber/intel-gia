@@ -574,5 +574,80 @@
   "evidence": [
    "2026-02-28-iran-war-begins"
   ]
+ },
+ {
+  "id": "india--rivalry--pakistan",
+  "a": "india",
+  "b": "pakistan",
+  "type": "rivalry",
+  "start": "1947",
+  "end": null,
+  "stated": "Kashmir and cross-border terrorism",
+  "actual": "Recurrent military crises; four days of open conflict in May 2025",
+  "confidence": "likely",
+  "evidence": [
+   "2025-05-07-operation-sindoor"
+  ]
+ },
+ {
+  "id": "israel--rivalry--hamas",
+  "a": "israel",
+  "b": "hamas",
+  "type": "rivalry",
+  "start": "1987",
+  "end": null,
+  "stated": "Destroy Hamas and recover the hostages",
+  "actual": "A two-year war, now a stalled ceasefire with Hamas still armed",
+  "confidence": "likely",
+  "evidence": [
+   "2025-01-19-gaza-ceasefire",
+   "2025-03-18-gaza-war-resumes",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2026-10-gaza-phase-two-stalled"
+  ]
+ },
+ {
+  "id": "uae--patron-proxy--stc",
+  "a": "uae",
+  "b": "stc",
+  "type": "patron-proxy",
+  "start": "2017",
+  "end": null,
+  "stated": "Counter-terrorism partnership in southern Yemen",
+  "actual": "UAE leverage over Yemen's south and its coast, contested by Riyadh",
+  "confidence": "likely",
+  "evidence": [
+   "2025-12-03-stc-seizes-hadramawt",
+   "2026-01-09-stc-dissolution"
+  ]
+ },
+ {
+  "id": "armenia--rivalry--azerbaijan",
+  "a": "armenia",
+  "b": "azerbaijan",
+  "type": "rivalry",
+  "start": "1988",
+  "end": null,
+  "stated": "Border and Karabakh disputes",
+  "actual": "Moving toward a US-brokered peace after Azerbaijan's 2023 victory",
+  "confidence": "likely",
+  "evidence": [
+   "2025-08-08-armenia-azerbaijan-deal"
+  ]
+ },
+ {
+  "id": "united-states--sanction--iran",
+  "a": "united-states",
+  "b": "iran",
+  "type": "sanction",
+  "start": "1979",
+  "end": null,
+  "stated": "Stop the nuclear and missile programmes",
+  "actual": "Maximum pressure: UN snapback, then a 2026 blockade",
+  "confidence": "likely",
+  "evidence": [
+   "2025-09-28-iran-snapback",
+   "2026-04-13-us-blockade-iran"
+  ]
  }
 ]
