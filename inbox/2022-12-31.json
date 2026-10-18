@@ -1,0 +1,284 @@
+{
+ "edition": "2022-12-31",
+ "stories": [
+  {
+   "id": "2022-11-11-kherson-liberated",
+   "date": "2022-11-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Russia/Eurasia",
+   "title": "Russia retreats from Kherson city; Ukraine retakes the right bank of the Dnipro",
+   "summary": "Weeks after Moscow claimed to annex the region, Russian troops withdrew across the Dnipro and Ukrainian forces entered Kherson, completing a second major autumn counter-offensive after Kharkiv.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2022/11/11/russia-kherson-retreat-marks-tectonic-shift-in-ukraine-war"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/kremlin-status-kherson-part-russia-unchanged-2022-11-11/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Liberation_of_Kherson"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2022-09-30-annexation",
+     "why": "Retreat from an 'annexed' region",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-09-06-kharkiv",
+     "why": "Second autumn counter-offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "kherson"
+   ]
+  },
+  {
+   "id": "2022-11-30-chatgpt-launch",
+   "date": "2022-11-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "OpenAI releases ChatGPT, setting off the generative-AI boom",
+   "summary": "The chatbot drew mass adoption within weeks and set off a race in AI models, chips and data centres, with Nvidia as the main beneficiary.",
+   "sources": [
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/ChatGPT"
+    }
+   ],
+   "entities": [
+    "openai",
+    "nvidia",
+    "ai-data-centers"
+   ],
+   "storylines": [
+    "ai-compute-minerals"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "A product launch; no site."
+  },
+  {
+   "id": "2022-12-07-castillo-self-coup",
+   "date": "2022-12-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2022–23 (attrition and Oct 7)",
+   "region": "Americas",
+   "title": "Peru's Pedro Castillo tries to dissolve Congress, then is impeached and arrested",
+   "summary": "Facing an impeachment vote, Castillo announced he would dissolve Congress and rule by decree. Congress removed him within hours, Dina Boluarte took over, and deadly protests followed.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/perus-president-says-will-dissolve-congress-calls-elections-2022-12-07/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2022/12/7/peru-president-pedro-castillo-calls-to-dissolve-congress"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2022/dec/07/peru-president-detained-pedro-castillo-coup"
+    }
+   ],
+   "entities": [
+    "peru",
+    "pedro-castillo"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "Lima has no place entity."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2022-11-11-kherson-liberated"
+   ]
+  },
+  {
+   "id": "ai-compute-minerals",
+   "name": "AI compute → critical minerals",
+   "entities": [
+    "ai-data-centers",
+    "copper",
+    "gallium",
+    "rare-earths",
+    "coltan"
+   ],
+   "stories": [
+    "2022-11-30-chatgpt-launch"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2022-12-07-castillo-self-coup"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "yevgeny-prigozhin",
+   "name": "Yevgeny Prigozhin",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yevgeny_Prigozhin"
+  },
+  {
+   "id": "mohamed-bazoum",
+   "name": "Mohamed Bazoum",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Bazoum"
+  },
+  {
+   "id": "javier-milei",
+   "name": "Javier Milei",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Javier_Milei"
+  },
+  {
+   "id": "argentina",
+   "name": "Argentina",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Argentina"
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+   "id": "silicon-valley-bank",
+   "name": "Silicon Valley Bank",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Silicon_Valley_Bank"
+  },
+  {
+   "id": "guyana",
+   "name": "Guyana",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guyana"
+  },
+  {
+   "id": "pedro-castillo",
+   "name": "Pedro Castillo",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Castillo"
+  },
+  {
+   "id": "recep-tayyip-erdogan",
+   "name": "Recep Tayyip Erdoğan",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+  },
+  {
+   "id": "three-brotherhood-alliance",
+   "name": "Three Brotherhood Alliance",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Three_Brotherhood_Alliance"
+  },
+  {
+   "id": "kherson",
+   "name": "Kherson",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kherson",
+   "lat": 46.6425,
+   "lon": 32.625,
+   "precision": "city"
+  },
+  {
+   "id": "bakhmut",
+   "name": "Bakhmut",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bakhmut",
+   "lat": 48.59472222,
+   "lon": 38.00083333,
+   "precision": "city"
+  },
+  {
+   "id": "kakhovka-dam",
+   "name": "Kakhovka Dam",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kakhovka_Dam",
+   "lat": 46.77611111,
+   "lon": 33.37166667,
+   "precision": "feature"
+  },
+  {
+   "id": "brasilia",
+   "name": "Brasília",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+   "lat": -15.79388889,
+   "lon": -47.88277778,
+   "precision": "city"
+  },
+  {
+   "id": "stepanakert",
+   "name": "Stepanakert",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stepanakert",
+   "lat": 39.81527778,
+   "lon": 46.75194444,
+   "precision": "city"
+  },
+  {
+   "id": "kahramanmaras",
+   "name": "Kahramanmaraş",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kahramanmara%C5%9F",
+   "lat": 37.58333333,
+   "lon": 36.93333333,
+   "precision": "city"
+  }
+ ]
+}
