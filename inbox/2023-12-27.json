@@ -1,0 +1,202 @@
+{
+ "edition": "2023-12-27",
+ "stories": [
+  {
+   "id": "2023-09-30-fico-wins",
+   "date": "2023-09-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2023 (war of attrition)",
+   "region": "Europe",
+   "title": "Robert Fico's Smer wins Slovakia's election on a pledge to stop arming Ukraine",
+   "summary": "Smer took 42 seats and Fico formed a government, joining Orbán as a skeptic of aid to Kyiv inside the EU.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Slovak_parliamentary_election"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2023/09/28/europe/slovakia-election-russia-supporter-intl-cmd/index.html"
+    }
+   ],
+   "entities": [
+    "slovakia",
+    "robert-fico",
+    "viktor-orban",
+    "ukraine"
+   ],
+   "storylines": [
+    "europe-populism",
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2023-10-15-poland-tusk",
+   "date": "2023-10-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2023 (war of attrition)",
+   "region": "Europe",
+   "title": "Poland's opposition wins; Tusk returns as prime minister",
+   "summary": "PiS came first but lost its majority, and Donald Tusk's Civic Coalition formed a government with two allies, promising to restore the rule of law and unlock EU funds.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2023/10/15/europe/poland-election-voting-intl/index.html"
+    }
+   ],
+   "entities": [
+    "poland",
+    "donald-tusk",
+    "european-union"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2023-11-15-biden-xi-woodside",
+   "date": "2023-11-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2023 (war of attrition)",
+   "region": "Americas",
+   "title": "Biden and Xi meet at Woodside and agree to restore military contacts",
+   "summary": "At their APEC meeting near San Francisco the leaders agreed to resume military-to-military communication and cooperate against fentanyl, easing tensions after the balloon affair.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/APEC_United_States_2023"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/biden-xi-meet-us-china-military-economic-tensions-grind-2023-11-15/"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "joe-biden",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "taiwan-indopacific",
+    "us-tariffs-trade"
+   ],
+   "causes": [
+    {
+     "story": "2023-02-04-spy-balloon",
+     "why": "Thaw after the balloon crisis",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "filoli"
+   ]
+  },
+  {
+   "id": "2023-11-22-wilders-wins",
+   "date": "2023-11-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2023 (war of attrition)",
+   "region": "Europe",
+   "title": "Geert Wilders' far-right PVV wins the Dutch election",
+   "summary": "The PVV won 37 of 150 seats, the largest party for the first time, in one of the biggest upsets in postwar Dutch politics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Dutch_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2023/nov/22/far-right-party-set-to-win-most-seats-in-dutch-elections-exit-polls-show"
+    }
+   ],
+   "entities": [
+    "netherlands",
+    "geert-wilders"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2023-09-30-fico-wins",
+    "2023-10-15-poland-tusk",
+    "2023-11-22-wilders-wins"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2023-09-30-fico-wins"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2023-11-15-biden-xi-woodside"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2023-11-15-biden-xi-woodside"
+   ]
+  }
+ ]
+}
