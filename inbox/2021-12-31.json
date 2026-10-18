@@ -1,0 +1,362 @@
+{
+ "edition": "2021-12-31",
+ "stories": [
+  {
+   "id": "2021-10-04-kishida-pm",
+   "date": "2021-10-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Asia-Pacific",
+   "title": "Fumio Kishida becomes Japan's prime minister",
+   "summary": "The former foreign minister won the LDP leadership after Suga stood down and led the party to a majority in the October election.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fumio_Kishida"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/10/8/japans-new-pm-promises-to-do-his-utmost-to-end-covid-19-crisis"
+    }
+   ],
+   "entities": [
+    "japan",
+    "fumio-kishida",
+    "yoshihide-suga"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2020-08-28-abe-resigns",
+     "why": "Succession after Abe and Suga",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "tokyo"
+   ]
+  },
+  {
+   "id": "2021-10-08-global-minimum-tax",
+   "date": "2021-10-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Europe",
+   "title": "OECD deal sets a 15% global minimum corporate tax",
+   "summary": "After G7 backing in June, holdouts Ireland, Hungary and Estonia joined the OECD 'two-pillar' plan on Oct 8.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Global_minimum_corporate_tax_rate"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "united-states",
+    "g7"
+   ],
+   "marker": "political",
+   "unplaced": "Multilateral agreement."
+  },
+  {
+   "id": "2021-11-02-ethiopia-emergency",
+   "date": "2021-11-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Africa",
+   "title": "Ethiopia declares a state of emergency as Tigrayan forces march south",
+   "summary": "With the TDF and the Oromo Liberation Army holding towns on the highway to Addis Ababa, the government gave itself sweeping powers to detain critics and conscript citizens.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_Ethiopian_state_of_emergency"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/11/2/ethiopia-declares-nationwide-state-of-emergency"
+    }
+   ],
+   "entities": [
+    "ethiopia",
+    "tplf",
+    "abiy-ahmed"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "causes": [
+    {
+     "story": "2021-06-28-tdf-retakes-mekelle",
+     "why": "Tigrayan counter-offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Nationwide decree."
+  },
+  {
+   "id": "2021-11-07-nicaragua-sham-vote",
+   "date": "2021-11-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Americas",
+   "title": "Ortega wins a fourth straight term after jailing his rivals",
+   "summary": "Police arrested seven potential opposition candidates before the vote. The EU and US rejected the result.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Nicaraguan_general_election"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20211107-nicaragua-s-ortega-seeks-fourth-consecutive-term-in-sham-presidential-election"
+    }
+   ],
+   "entities": [
+    "nicaragua",
+    "daniel-ortega"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2021-11-08-belarus-border-crisis",
+   "date": "2021-11-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Europe",
+   "title": "Belarus pushes migrants to the Polish border",
+   "summary": "Hundreds of migrants were escorted toward Poland as Minsk lured travellers from the Middle East. The EU called it hybrid warfare in retaliation for sanctions.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Belarus%E2%80%93European_Union_border_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/nov/08/belarus-escorts-hundreds-of-migrants-towards-polish-border"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/11/19/lukashenko-says-troops-may-have-helped-refugees-reach-eu"
+    }
+   ],
+   "entities": [
+    "belarus",
+    "alexander-lukashenko",
+    "poland",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2021-05-23-ryanair-diversion",
+     "why": "EU sanctions after the Ryanair diversion",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Along the Belarus–Poland border."
+  },
+  {
+   "id": "2021-11-13-cop26-glasgow",
+   "date": "2021-11-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Europe",
+   "title": "COP26 ends with the first climate deal to target coal",
+   "summary": "The Glasgow Climate Pact asked countries to 'phase down' unabated coal after India and China weakened the language.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_United_Nations_Climate_Change_Conference"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/environment/2021/nov/13/cop26-countries-agree-to-accept-imperfect-climate-agreement"
+    }
+   ],
+   "entities": [
+    "cop",
+    "united-kingdom",
+    "china",
+    "india"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "glasgow"
+   ]
+  },
+  {
+   "id": "2021-11-26-omicron",
+   "date": "2021-11-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Africa",
+   "title": "WHO names Omicron a variant of concern",
+   "summary": "Reported by South African scientists on Nov 24, the heavily mutated variant became dominant worldwide; many countries restricted travel from southern Africa.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/passengers-south-africa-face-wait-covid-19-testing-amsterdam-2021-11-26/"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html"
+    }
+   ],
+   "entities": [
+    "who",
+    "covid-19",
+    "south-africa"
+   ],
+   "storylines": [
+    "covid-shock"
+   ],
+   "causes": [
+    {
+     "story": "2020-12-08-vaccine-rollout",
+     "why": "Variant tested vaccine protection",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Global spread."
+  },
+  {
+   "id": "2021-12-19-boric-elected",
+   "date": "2021-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2021 (post-pandemic recovery)",
+   "region": "Americas",
+   "title": "Leftist Gabriel Boric beats Kast to become Chile's youngest president",
+   "summary": "Boric, 35, won the runoff with 56%, after the 2019 protests and the 2020 vote for a new constitution.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_Chilean_general_election"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2021/dec/19/leftist-gabriel-boric-elected-as-chiles-president"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2021/12/20/gabriel-boric-wins-chiles-presidential-election"
+    }
+   ],
+   "entities": [
+    "chile",
+    "gabriel-boric",
+    "jose-antonio-kast"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2020-10-25-chile-plebiscite",
+     "why": "Constitutional moment",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2021-10-04-kishida-pm"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2021-11-02-ethiopia-emergency"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2021-11-07-nicaragua-sham-vote",
+    "2021-12-19-boric-elected"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2021-11-08-belarus-border-crisis"
+   ]
+  },
+  {
+   "id": "covid-shock",
+   "name": "COVID-19 pandemic & the 2020 economic shock",
+   "entities": [
+    "covid-19",
+    "who",
+    "federal-reserve",
+    "ecb",
+    "imf",
+    "china"
+   ],
+   "stories": [
+    "2021-11-26-omicron"
+   ]
+  }
+ ]
+}
