@@ -4867,7 +4867,6 @@
    "2012-11-20-m23-takes-goma"
   ],
   "marker": "military",
-  "unplaced": "Bunagana, DRC–Uganda border; no Wikipedia coordinates.",
   "revisions": [
    {
     "edition": "2026-10-13",
@@ -4876,7 +4875,18 @@
      "marker",
      "unplaced"
     ]
+   },
+   {
+    "edition": "2026-10-11",
+    "why": "Pin to Bunagana now that the place has coordinates",
+    "fields": [
+     "where",
+     "unplaced"
+    ]
    }
+  ],
+  "where": [
+   "bunagana"
   ]
  },
  {
@@ -6699,7 +6709,6 @@
    "2022-02-22-nord-stream-2-halt"
   ],
   "marker": "strike",
-  "unplaced": "Baltic Sea seabed.",
   "revisions": [
    {
     "edition": "2026-10-13",
@@ -6708,7 +6717,18 @@
      "marker",
      "unplaced"
     ]
+   },
+   {
+    "edition": "2026-10-11",
+    "why": "Pin to the Nord Stream sabotage site now that the place has coordinates",
+    "fields": [
+     "where",
+     "unplaced"
+    ]
    }
+  ],
+  "where": [
+   "nord-stream"
   ]
  },
  {
@@ -8001,6 +8021,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575"
+   },
+   {
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
    }
   ],
   "entities": [
@@ -8035,6 +8063,8 @@
   ],
   "related_stories": [
    "houthis-saudi-oct15",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "houthis-aden-airport-khamis-mushait",
    "houthis-hit-aramco",
    "saudi-offensive-mokha",
    "2022-01-abu-dhabi-attack",
@@ -8043,8 +8073,29 @@
    "2022-04-02-yemen-truce",
    "2022-04-07-plc",
    "2022-10-02-truce-expires",
-   "saudi-blames-iran-eu-gcc-postponed",
-   "houthis-aden-airport-khamis-mushait"
+   "yanbu-missile-intercepted",
+   "2026-01-09-stc-dissolution",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-09-10-houthis-seize-mokha",
+   "2025-12-03-stc-seizes-hadramawt",
+   "egypt-offers-to-defend-saudi",
+   "2021-02-04-biden-yemen-shift",
+   "2019-09-14-abqaiq-attack",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-12-04-saleh-killed",
+   "2015-03-26-saudi-intervention-yemen",
+   "2014-09-21-houthis-take-sanaa"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8060,6 +8111,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/world-news/central-ukrainian-region-hit-by-vast-drone-attack-killing-three-4950672"
+   },
+   {
+    "name": "The New Voice of Ukraine",
+    "url": "https://english.nv.ua/russian-war/russia-launches-record-drone-attack-on-kirovohrad-oblast-50650274.html"
+   },
+   {
+    "name": "Euromaidan Press",
+    "url": "https://euromaidanpress.com/2026/10/15/russias-largest-drone-attack-on-kirovohrad-oblast-since-the-full-scale-invasion-kills-three-in-kropyvnytskyi/"
    }
   ],
   "entities": [
@@ -8081,6 +8140,15 @@
   "unplaced": "Governor reported 26 locations across Kirovohrad region; no single site named.",
   "related_stories": [
    "lutsk-blackout-volyn"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8207,6 +8275,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/world-news/exclusiveorder-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say-4952816"
+   },
+   {
+    "name": "Defense News (Reuters)",
+    "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html"
    }
   ],
   "entities": [
@@ -8239,10 +8315,28 @@
   "unplaced": "The restriction applied to Starshield service across Ukraine; no single site is named.",
   "related_stories": [
    "energy-ceasefire-collapse",
+   "poland-starlink-arson-russia-gang",
    "energy-ceasefire",
    "diesel-deal",
    "trump-disgrace-eu-summit",
-   "poland-starlink-arson-russia-gang"
+   "trump-waives-russia-sanctions",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-11-20-28-point-plan",
+   "2025-02-18-riyadh-us-russia-talks",
+   "graham-waiver-bipartisan-backlash",
+   "2022-12-21-zelensky-washington",
+   "2019-09-24-trump-ukraine-impeachment-inquiry"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8403,6 +8497,14 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464"
+   },
+   {
+    "name": "Baird Maritime (Reuters)",
+    "url": "https://www.bairdmaritime.com/shipping/tankers/us-shadow-fleet-sanctions-relief-unlikely-to-solve-tanker-shortage-but-freight-futures-still-fall"
+   },
+   {
+    "name": "Marine Insight",
+    "url": "https://www.marineinsight.com/u-s-considers-lifting-sanctions-on-shadow-fleet-tankers-to-ease-record-high-global-freight-rates/"
    }
   ],
   "entities": [
@@ -8445,7 +8547,37 @@
    "energy-ceasefire-collapse",
    "trump-disgrace-eu-summit",
    "gulf-of-oman-tanker-fires",
-   "saudi-blames-iran-eu-gcc-postponed"
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-03-13-kharg-strike",
+   "2026-03-13-cuba-talks",
+   "2026-04-13-us-blockade-iran",
+   "2026-09-18-graham-act-signed",
+   "2026-10-02-g7-diesel-release",
+   "2026-10-12-cuba-blockade-bites",
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-12-16-venezuela-tanker-blockade",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "graham-waiver-bipartisan-backlash",
+   "venezuela-talks-election-rules",
+   "2019-01-23-guaido-interim-president",
+   "2017-08-02-caatsa",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -8702,6 +8834,10 @@
    {
     "name": "Reuters via Investing.com",
     "url": "https://www.investing.com/news/stock-market-news/indonesia-gets-a-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4953255"
+   },
+   {
+    "name": "The Straits Times (Reuters)",
+    "url": "https://www.straitstimes.com/business/msci-weighs-downgrading-indonesia-to-standalone-market-status"
    }
   ],
   "entities": [
@@ -8737,6 +8873,13 @@
     "fields": [
      "storylines",
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -9433,6 +9576,14 @@
    {
     "name": "The New Humanitarian",
     "url": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet"
+   },
+   {
+    "name": "Critical Threats (Africa File, Oct 15 2026)",
+    "url": "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-drc-m23-fln-kabila-rwanda-jnim-issp"
+   },
+   {
+    "name": "Daily Nation (Reuters)",
+    "url": "https://nation.africa/kenya/news/africa/asmara-appeals-to-un-as-ethiopian-troops-reach-border--5631100"
    }
   ],
   "entities": [
@@ -9470,7 +9621,10 @@
   "related_stories": [
    "2026-09-23-tplf-offensive",
    "2026-10-09-ethiopia-eritrea-accusations",
-   "tigray-federal-takeover-rubio"
+   "tigray-federal-takeover-rubio",
+   "2020-11-04-tigray-war",
+   "2021-06-28-tdf-retakes-mekelle",
+   "2022-11-02-pretoria-agreement"
   ],
   "revisions": [
    {
@@ -9478,6 +9632,13 @@
     "why": "2026 backfill: link to the earlier 2026 events that led here",
     "fields": [
      "causes"
+    ]
+   },
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
     ]
    }
   ]
@@ -11458,6 +11619,14 @@
    {
     "name": "Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/china-sanctions-japanese-lawmaker-taiwan-ties-state-media-reports-2026-03-30/"
+   },
+   {
+    "name": "PRC Ministry of Foreign Affairs (Mao Ning press conference, Mar 30 2026)",
+    "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/202603/t20260330_11883723.html"
+   },
+   {
+    "name": "The Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/03/30/japan/politics/china-bans-lawmaker-taiwan/"
    }
   ],
   "entities": [
@@ -11486,7 +11655,19 @@
    "rare-earth-nov10",
    "pla-drills",
    "2022-08-04-pla-drills",
-   "2025-12-29-justice-mission-drills"
+   "2025-12-29-justice-mission-drills",
+   "2026-05-22-china-japan-rare-earths",
+   "2025-11-07-takaichi-taiwan-remarks",
+   "takaichi-yasukuni-offering"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {
@@ -18847,6 +19028,10 @@
    {
     "name": "AP",
     "url": "https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-abc7b025112dba1f074755e454c29681"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2025/dec/19/ukraine-deal-latest-europe-leaders-loan-zelenskyy"
    }
   ],
   "entities": [
@@ -18884,7 +19069,21 @@
    "2026-04-23-eu-90bn-loan",
    "energy-ceasefire",
    "trump-disgrace-eu-summit",
-   "2026-10-13-hungary-lifts-accession-veto"
+   "2026-10-13-hungary-lifts-accession-veto",
+   "2023-12-14-eu-opens-ukraine-talks",
+   "2014-02-22-yanukovych-ousted",
+   "2014-03-18-crimea-annexed",
+   "2014-07-17-mh17-shot-down",
+   "2013-11-21-euromaidan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-11",
+    "why": "Phase C follow-up: existing sources are bot-blocked; add sources that load (HTTP 200) and cover the event",
+    "fields": [
+     "sources"
+    ]
+   }
   ]
  },
  {

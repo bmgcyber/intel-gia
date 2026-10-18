@@ -86073,6 +86073,575 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-11": {
+   "sha256": "817521fa8153a87eeadb9db855e07317ad84e509156cceaff7a0811d3eb47fae",
+   "undo": {
+    "stories": {
+     "houthis-hit-aden-palace": {
+      "id": "houthis-hit-aden-palace",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-15",
+      "region": "Middle East",
+      "title": "Houthi missiles hit Aden presidential palace, killing five",
+      "summary": "Houthis fired missiles and drones at Aden's Al-Maashiq presidential palace complex, seat of Yemen's Saudi-backed government, killing five and wounding 16 (Yemeni health minister). The PM and cabinet were safe. It is the first strike on the palace in the current Houthi-Saudi conflict. The coalition said Houthis made 20 attacks on Riyadh's King Khalid airport this month (17 killed, 333 wounded); ICAO's council condemned attacks on Saudi civil aviation.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/commodities-news/yemens-houthis-hit-palace-in-aden-coalition-details-attacks-on-saudi-infrastructure-4952575"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "yemen",
+       "saudi-arabia",
+       "presidential-leadership-council",
+       "iran",
+       "aden",
+       "riyadh"
+      ],
+      "causes": [
+       {
+        "story": "houthis-saudi-oct15",
+        "why": "Escalation of the Houthi campaign against Saudi Arabia and its Yemeni allies",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-15",
+      "analysis": {
+       "text": "Hitting the government seat signals the Houthis will widen the war beyond Saudi territory to the Yemeni government itself, raising pressure on the Mokha/Bab el-Mandeb front and on Riyadh to escalate or negotiate.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "aden"
+      ],
+      "related_stories": [
+       "houthis-saudi-oct15",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "houthis-aden-airport-khamis-mushait"
+      ]
+     },
+     "kirovohrad-drone-barrage": {
+      "id": "kirovohrad-drone-barrage",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-15",
+      "region": "Europe",
+      "title": "Record Russian drone barrage hits Kirovohrad region during 'energy truce'",
+      "summary": "Kirovohrad region suffered its largest Russian attack of the war overnight: 360+ drones hit 26 locations, killing three and wounding six (Gov. Andriy Raikovych). Ukraine's air force said 580 drones were launched nationwide, 536 shot down.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/world-news/central-ukrainian-region-hit-by-vast-drone-attack-killing-three-4950672"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-10-15",
+      "analysis": {
+       "text": "Strikes of this scale on infrastructure are the stated reason Kyiv abandoned the energy pause; expect tit-for-tat refinery and grid strikes to resume at pace.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "unplaced": "Governor reported 26 locations across Kirovohrad region; no single site named.",
+      "related_stories": [
+       "lutsk-blackout-volyn"
+      ]
+     },
+     "starshield-curbs-white-house": {
+      "id": "starshield-curbs-white-house",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Europe",
+      "title": "Order to throttle Ukraine's Starshield came from inside the White House, sources say",
+      "summary": "Two US officials and a Western official told Reuters the order to slow SpaceX's military-grade Starshield service for Ukraine came from inside the White House. Ukrainian officials said terminals stopped working on fast-moving objects, degrading drone guidance and interceptor drones; a Ukrainian defence ministry source said they now work at up to 160 km/h. A senior US official said 'no such request was ever made by the president.' Reuters said US officials had earlier threatened to stop sharing missile-launch intelligence; Trump said on Oct 13 that sharing continues.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/world-news/exclusiveorder-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say-4952816"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "united-states",
+       "starlink",
+       "spacex",
+       "donald-trump",
+       "steve-witkoff",
+       "volodymyr-zelenskyy"
+      ],
+      "causes": [
+       {
+        "story": "energy-ceasefire-collapse",
+        "why": "The curbs came as Washington pressed Kyiv to halt refinery strikes after it quit the energy pause",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "Regardless of who signed off, the effect is calibrated leverage: Washington can dial down enablers Kyiv depends on without a formal aid cut, pressing it to stop refinery strikes that raise US fuel prices.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "unplaced": "The restriction applied to Starshield service across Ukraine; no single site is named.",
+      "related_stories": [
+       "energy-ceasefire-collapse",
+       "energy-ceasefire",
+       "diesel-deal",
+       "trump-disgrace-eu-summit",
+       "poland-starlink-arson-russia-gang"
+      ]
+     },
+     "msci-indonesia-standalone": {
+      "id": "msci-indonesia-standalone",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Asia-Pacific",
+      "title": "MSCI moves to drop Indonesia from emerging markets; Jakarta stocks suffer worst day since 1998",
+      "summary": "MSCI proposed reclassifying Indonesia to 'standalone' status, citing ownership opacity and market dysfunction, with consultation until April 2027. Jakarta's benchmark fell 11% to a six-year low after a 30-minute trading halt, and the rupiah slid 0.6% to 18,070 per dollar. UBS estimated about $4 billion of passive outflows and up to $15 billion more from active funds; minister Airlangga Hartarto questioned why MSCI had not raised the step at a meeting in Bangkok this week.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/indonesia-gets-a-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4953255"
+       }
+      ],
+      "entities": [
+       "indonesia",
+       "nickel"
+      ],
+      "causes": [
+       {
+        "story": "2026-01-28-msci-indonesia-freeze",
+        "why": "MSCI's January freeze escalated to a standalone proposal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "This is a governance verdict on Prabowo-era policymaking, following negative outlooks from Moody's and Fitch. Capital-flight pressure on the rupiah raises the odds Jakarta leans harder on resource nationalism, including nickel, to fund itself.",
+       "confidence": "possible"
+      },
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Index-provider decision on the whole market; no event site.",
+      "related_stories": [
+       "2026-01-28-msci-indonesia-freeze"
+      ],
+      "storylines": [
+       "southeast-asia"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-09-29",
+        "why": "Gap backfill: link to earlier events",
+        "fields": [
+         "storylines",
+         "causes"
+        ]
+       }
+      ]
+     },
+     "us-weighs-shadow-fleet-relief": {
+      "id": "us-weighs-shadow-fleet-relief",
+      "date": "2026-10-15",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-16",
+      "region": "Americas",
+      "title": "US weighs case-by-case sanctions relief for shadow-fleet tankers to cut freight rates",
+      "summary": "A US official said the administration is discussing lifting sanctions on individual 'dark fleet' tankers so they can be sold to legitimate operators and carry non-sanctioned oil, to lower record freight rates. Kpler tracks about 160 US-sanctioned supertankers, roughly 22% of the commercial fleet, and estimates only about 24 could realistically rejoin trade; it expects 'virtually no impact'. Freight futures fell and WTI's discount to Brent narrowed to about $10.42 from $14.17 earlier in the week. The Energy Department said the move would not help Russia move oil.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/commodities-news/us-plan-to-ease-shadow-fleet-sanctions-unlikely-to-free-up-many-tankers-analysts-say-4952464"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "ofac",
+       "russia",
+       "iran",
+       "venezuela",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "hormuz-attacks-surge",
+        "why": "Hormuz attacks and war-risk premiums drove tanker rates to records",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-16",
+      "analysis": {
+       "text": "The aim is the midterm pump price, but case-by-case waivers chip at the sanctions architecture on Russia, Iran and Venezuela that Washington built; markets read it as a sign the White House will trade sanctions discipline for cheaper fuel.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "energy",
+      "unplaced": "Policy deliberation in Washington; no event site.",
+      "related_stories": [
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "2022-03-08-us-oil-ban",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "gulf-of-oman-tanker-fires",
+       "saudi-blames-iran-eu-gcc-postponed"
+      ]
+     },
+     "ethiopia-tigray-advance": {
+      "id": "ethiopia-tigray-advance",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Africa",
+      "title": "Ethiopian forces sweep Tigray to the Eritrean border, raising fears of interstate war",
+      "summary": "The New Humanitarian reported on Oct 16 that Ethiopian troops and the pro-government Tigray Peace Force militia took control of towns on Tigray's northern border this week as Eritrean forces stationed along the Zalambessa-Fatsi line crossed back into Eritrea, though some Eritrean troops remain inside Tigray. TPLF fighters withdrew deeper into the mountains after swift reversals since the war resumed in late September, and some residents of the regional capital Mekelle welcomed TPF leaders.",
+      "sources": [
+       {
+        "name": "The New Humanitarian",
+        "url": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet"
+       }
+      ],
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf",
+       "mekelle"
+      ],
+      "causes": [
+       {
+        "story": "2026-09-23-tplf-offensive",
+        "why": "Federal counter-offensive after the TPLF attack",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-10-09-ethiopia-eritrea-accusations",
+        "why": "Push toward the border amid accusations of an Eritrean invasion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "The question is whether Addis Ababa stops at the border or pushes on Asmara, possibly toward its long-sought access to the Red Sea. A war there would sit across the Bab el-Mandeb from the Houthi-Saudi fight and could pull in Egypt, Sudan's factions and Gulf patrons.",
+       "confidence": "speculative"
+      },
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2025-12-18-eu-90bn-loan-agreed": {
+      "id": "2025-12-18-eu-90bn-loan-agreed",
+      "date": "2025-12-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Europe",
+      "title": "EU leaders agree a €90bn Ukraine loan after the Russian-assets plan collapses",
+      "summary": "The European Council agreed an interest-free €90bn loan for 2026–27 financed by joint EU borrowing, with Czechia, Hungary and Slovakia opted out. The 'reparations loan' using frozen Russian assets failed over Belgian objections, though the assets stay immobilised.",
+      "sources": [
+       {
+        "name": "Council of the EU",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/19/european-council-18-december-2025-ukraine/"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/eu-leaders-agree-ukraine-financing-2026-27-belgiums-approval-key-2025-12-18/"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/europe-summit-ukraine-funds-assets-russia-loan-abc7b025112dba1f074755e454c29681"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "ukraine",
+       "russia",
+       "hungary"
+      ],
+      "causes": [
+       {
+        "story": "2025-11-20-28-point-plan",
+        "why": "Europe moved to fund Kyiv as the US pressed for concessions",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-02-26-swift-cbr",
+        "why": "The frozen assets date from 2022",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "storylines": [
+       "russia-ukraine",
+       "transatlantic-rift"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2025-11-20-28-point-plan",
+       "2022-02-26-swift-cbr",
+       "2026-04-23-eu-90bn-loan",
+       "energy-ceasefire",
+       "trump-disgrace-eu-summit",
+       "2026-10-13-hungary-lifts-accession-veto"
+      ]
+     },
+     "2026-03-30-china-sanctions-furuya": {
+      "id": "2026-03-30-china-sanctions-furuya",
+      "date": "2026-03-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Asia-Pacific",
+      "title": "China sanctions a close Takaichi aide over Taiwan visits",
+      "summary": "China sanctioned Japanese lawmaker Keiji Furuya, head of a cross-party Japan–Taiwan group and a close aide to PM Takaichi, for 'collusion' with Taiwan independence forces. Tokyo called it 'absolutely unacceptable'.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-sanctions-japanese-lawmaker-taiwan-ties-state-media-reports-2026-03-30/"
+       }
+      ],
+      "entities": [
+       "china",
+       "japan",
+       "taiwan",
+       "sanae-takaichi"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-08-takaichi-landslide",
+        "why": "Beijing kept up pressure after the election",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "A sanctions announcement; no site.",
+      "related_stories": [
+       "2026-02-08-takaichi-landslide",
+       "rare-earth-nov10",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "2025-12-29-justice-mission-drills"
+      ]
+     },
+     "2022-06-13-bunagana": {
+      "id": "2022-06-13-bunagana",
+      "date": "2022-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "M23 seizes Bunagana on DRC–Uganda border",
+      "summary": "M23 rebels, whose 2022 resurgence Kinshasa blames on Rwanda, captured the border town of Bunagana.",
+      "sources": [
+       {
+        "name": "Wikipedia: M23 campaign (2022–present)",
+        "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022–present)"
+       }
+      ],
+      "entities": [
+       "m23",
+       "drc",
+       "rwanda",
+       "bunagana"
+      ],
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kabila-m23",
+        "why": "M23's 2022 resurgence began today's war",
+        "confidence": "likely"
+       },
+       {
+        "story": "rubaya-coltan",
+        "why": "M23 territorial expansion since 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "2026-01-19-m23-leaves-uvira",
+       "2025-01-27-m23-takes-goma",
+       "2024-05-02-m23-seizes-rubaya",
+       "kabila-frn-succeeds-afc",
+       "2026-03-washington-accords",
+       "2025-12-04-washington-accords-uvira",
+       "2012-11-20-m23-takes-goma"
+      ],
+      "marker": "military",
+      "unplaced": "Bunagana, DRC–Uganda border; no Wikipedia coordinates.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     },
+     "2022-09-26-nord-stream-sabotage": {
+      "id": "2022-09-26-nord-stream-sabotage",
+      "date": "2022-09-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "Explosions rupture Nord Stream pipelines",
+      "summary": "Underwater blasts damaged Nord Stream 1 and 2 in the Baltic. Responsibility remains contested.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Nord Stream pipeline sabotage",
+        "url": "https://en.wikipedia.org/wiki/2022_Nord_Stream_pipeline_sabotage"
+       }
+      ],
+      "entities": [
+       "nord-stream",
+       "russia",
+       "germany",
+       "natural-gas"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-06-14-nordstream-cut",
+        "why": "Pipeline already a weapon of leverage",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-06-14-nordstream-cut",
+       "2022-02-22-nord-stream-2-halt"
+      ],
+      "marker": "strike",
+      "unplaced": "Baltic Sea seabed.",
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "marker",
+         "unplaced"
+        ]
+       }
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {},
+    "entities": {
+     "bunagana": {
+      "id": "bunagana",
+      "name": "Bunagana",
+      "type": "place",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bunagana"
+     },
+     "nord-stream": {
+      "id": "nord-stream",
+      "name": "Nord Stream",
+      "type": "place",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nord_Stream"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel",
+      "type": "place",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sahel"
+     }
+    },
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
