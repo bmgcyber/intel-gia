@@ -1,0 +1,716 @@
+{
+ "edition": "2011-03-31",
+ "entities": [
+  {
+   "id": "hosni-mubarak",
+   "name": "Hosni Mubarak",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hosni_Mubarak"
+  },
+  {
+   "id": "muammar-gaddafi",
+   "name": "Muammar Gaddafi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+  },
+  {
+   "id": "zine-el-abidine-ben-ali",
+   "name": "Zine El Abidine Ben Ali",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zine_El_Abidine_Ben_Ali"
+  },
+  {
+   "id": "osama-bin-laden",
+   "name": "Osama bin Laden",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Osama_bin_Laden"
+  },
+  {
+   "id": "kim-jong-il",
+   "name": "Kim Jong Il",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kim_Jong_Il"
+  },
+  {
+   "id": "ivory-coast",
+   "name": "Ivory Coast",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ivory_Coast"
+  },
+  {
+   "id": "laurent-gbagbo",
+   "name": "Laurent Gbagbo",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Gbagbo"
+  },
+  {
+   "id": "alassane-ouattara",
+   "name": "Alassane Ouattara",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alassane_Ouattara"
+  },
+  {
+   "id": "silvio-berlusconi",
+   "name": "Silvio Berlusconi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Silvio_Berlusconi"
+  },
+  {
+   "id": "yingluck-shinawatra",
+   "name": "Yingluck Shinawatra",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yingluck_Shinawatra"
+  },
+  {
+   "id": "gcc",
+   "name": "Gulf Cooperation Council",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council"
+  },
+  {
+   "id": "tepco",
+   "name": "Tokyo Electric Power Company",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tokyo_Electric_Power_Company"
+  },
+  {
+   "id": "thein-sein",
+   "name": "Thein Sein",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thein_Sein"
+  },
+  {
+   "id": "anna-hazare",
+   "name": "Anna Hazare",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anna_Hazare"
+  },
+  {
+   "id": "tunis",
+   "name": "Tunis",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tunis",
+   "lat": 36.80638889,
+   "lon": 10.18166667,
+   "precision": "city"
+  },
+  {
+   "id": "tahrir-square",
+   "name": "Tahrir Square, Cairo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tahrir_Square",
+   "lat": 30.04444444,
+   "lon": 31.23583333,
+   "precision": "feature"
+  },
+  {
+   "id": "fukushima-daiichi",
+   "name": "Fukushima Daiichi Nuclear Power Plant",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant",
+   "lat": 37.42305556,
+   "lon": 141.03305556,
+   "precision": "feature"
+  },
+  {
+   "id": "pearl-roundabout",
+   "name": "Pearl Roundabout, Manama",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Roundabout",
+   "lat": 26.2303,
+   "lon": 50.5614,
+   "precision": "feature"
+  },
+  {
+   "id": "abbottabad",
+   "name": "Abbottabad",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abbottabad",
+   "lat": 34.15583333,
+   "lon": 73.21944444,
+   "precision": "city"
+  },
+  {
+   "id": "utoya",
+   "name": "Utøya",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ut%C3%B8ya",
+   "lat": 60.02361111,
+   "lon": 10.24805556,
+   "precision": "feature"
+  },
+  {
+   "id": "zuccotti-park",
+   "name": "Zuccotti Park, New York",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zuccotti_Park",
+   "lat": 40.709228,
+   "lon": -74.011247,
+   "precision": "feature"
+  },
+  {
+   "id": "abidjan",
+   "name": "Abidjan",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abidjan",
+   "lat": 5.31666667,
+   "lon": -4.03333333,
+   "precision": "city"
+  },
+  {
+   "id": "mohmand",
+   "name": "Mohmand District",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohmand_District",
+   "lat": 34.5,
+   "lon": 71.33333333,
+   "precision": "sector"
+  },
+  {
+   "id": "tripoli",
+   "name": "Tripoli, Libya",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tripoli%2C_Libya",
+   "lat": 32.8875,
+   "lon": 13.1875,
+   "precision": "city"
+  },
+  {
+   "id": "ishinomaki",
+   "name": "Ishinomaki",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ishinomaki",
+   "lat": 38.41758333,
+   "lon": 141.30272222,
+   "precision": "city"
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rome",
+   "lat": 41.89333333,
+   "lon": 12.48277778,
+   "precision": "city"
+  },
+  {
+   "id": "darwin",
+   "name": "Darwin, Northern Territory",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Darwin%2C_Northern_Territory",
+   "lat": -12.43805556,
+   "lon": 130.84111111,
+   "precision": "city"
+  },
+  {
+   "id": "kashmar",
+   "name": "Kashmar",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kashmar",
+   "lat": 35.24472222,
+   "lon": 58.46083333,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2011-01-01-rousseff-takes-office",
+   "date": "2011-01-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Americas",
+   "title": "Dilma Rousseff takes office as Brazil's first woman president",
+   "summary": "Lula's chosen successor won 56% to 44%.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dilma_Rousseff"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "dilma-rousseff",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "brasilia"
+   ]
+  },
+  {
+   "id": "2011-01-09-south-sudan-referendum",
+   "date": "2011-01-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Southern Sudanese vote almost unanimously for independence",
+   "summary": "About 98.8% backed secession in the vote promised by the 2005 peace deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/2011/1/9/bye-bye-juba"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "sudan"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "where": [
+    "juba"
+   ]
+  },
+  {
+   "id": "2011-01-14-ben-ali-flees",
+   "date": "2011-01-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Tunisia's Ben Ali flees to Saudi Arabia after 23 years, igniting the Arab Spring",
+   "summary": "A month of protests set off by Mohamed Bouazizi's self-immolation toppled him and inspired uprisings across the region.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tunisian_revolution"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/jan/14/tunisian-president-dismisses-government-violence"
+    }
+   ],
+   "entities": [
+    "tunisia",
+    "zine-el-abidine-ben-ali"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The Arab Spring's collapse into war in Libya, Syria and Yemen underlies many current conflicts.",
+    "confidence": "likely"
+   },
+   "where": [
+    "tunis"
+   ]
+  },
+  {
+   "id": "2011-02-11-mubarak-resigns",
+   "date": "2011-02-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Mubarak resigns after 18 days of protest in Tahrir Square",
+   "summary": "He handed power to the military council (SCAF).",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Egyptian_revolution"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2011/2/1/protesters-flood-egypt-streets"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "hosni-mubarak"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Inspired by Tunisia",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "tahrir-square"
+   ]
+  },
+  {
+   "id": "2011-02-15-libya-uprising",
+   "date": "2011-02-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "Protests in Benghazi spark Libya's revolt against Gaddafi",
+   "summary": "Within days, the east fell to rebels and the regime turned its guns on protesters.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_Libyan_civil_war"
+    }
+   ],
+   "entities": [
+    "libya",
+    "muammar-gaddafi"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Arab Spring contagion",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "benghazi"
+   ]
+  },
+  {
+   "id": "2011-03-11-tohoku-earthquake",
+   "date": "2011-03-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "A magnitude-9 earthquake and tsunami devastate north-east Japan",
+   "summary": "Official figures put the toll at 19,759 dead and 2,553 missing.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/mar/11/japan-earthquake-tsunami-questions-answers"
+    }
+   ],
+   "entities": [
+    "japan"
+   ],
+   "marker": "political",
+   "where": [
+    "ishinomaki"
+   ]
+  },
+  {
+   "id": "2011-03-11-fukushima-meltdown",
+   "date": "2011-03-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Tsunami causes triple meltdown at Fukushima Daiichi",
+   "summary": "The worst nuclear accident since Chernobyl shut Japan's reactors and led Germany to abandon nuclear power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/mar/24/japan-nuclear-plant-workers-hospital"
+    }
+   ],
+   "entities": [
+    "japan",
+    "tepco"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2011-03-11-tohoku-earthquake",
+     "why": "Tsunami knocked out cooling",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "fukushima-daiichi"
+   ]
+  },
+  {
+   "id": "2011-03-14-gcc-crushes-bahrain",
+   "date": "2011-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Saudi and Emirati troops enter Bahrain to crush the Shia-led uprising",
+   "summary": "The Peninsula Shield intervention framed the Arab Spring in Gulf capitals as an Iranian threat.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_Bahraini_uprising"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/mar/18/bahrain-destroys-pearl-roundabout"
+    }
+   ],
+   "entities": [
+    "bahrain",
+    "saudi-arabia",
+    "uae",
+    "gcc",
+    "iran"
+   ],
+   "storylines": [
+    "gulf-realignment",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "where": [
+    "pearl-roundabout"
+   ]
+  },
+  {
+   "id": "2011-03-15-syria-uprising",
+   "date": "2011-03-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Middle East",
+   "title": "Syria's uprising against Assad begins, centred on Daraa",
+   "summary": "Peaceful protests met with lethal force spiralled into civil war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Syrian_revolution"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/mar/30/syrian-protests-assad-blames-conspirators"
+    }
+   ],
+   "entities": [
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "causes": [
+    {
+     "story": "2011-01-14-ben-ali-flees",
+     "why": "Arab Spring contagion",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The war that followed drew in Iran, Russia, Turkey and the US and produced ISIS and the HTS government.",
+    "confidence": "likely"
+   },
+   "where": [
+    "daraa"
+   ]
+  },
+  {
+   "id": "2011-03-19-libya-intervention",
+   "date": "2011-03-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Africa",
+   "title": "NATO-led coalition intervenes in Libya under UN Resolution 1973",
+   "summary": "Russia and China abstained on the no-fly zone vote, and Moscow later said the West had abused it to topple Gaddafi.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1973"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2011/mar/17/germany-rules-out-libya-military"
+    }
+   ],
+   "entities": [
+    "nato",
+    "united-states",
+    "france",
+    "united-kingdom",
+    "libya",
+    "russia",
+    "china"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2011-02-15-libya-uprising",
+     "why": "Protect civilians in Benghazi",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "un-hq"
+   ]
+  },
+  {
+   "id": "2011-03-30-thein-sein-sworn-in",
+   "date": "2011-03-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+   "region": "Asia-Pacific",
+   "title": "Myanmar's junta gives way to a nominally civilian government under Thein Sein",
+   "summary": "His reforms freed Suu Kyi's party to compete.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Thein_Sein"
+    }
+   ],
+   "entities": [
+    "myanmar",
+    "thein-sein"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "naypyidaw"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2011-01-01-rousseff-takes-office"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2011-01-09-south-sudan-referendum"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2011-01-14-ben-ali-flees",
+    "2011-02-11-mubarak-resigns",
+    "2011-03-14-gcc-crushes-bahrain"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2011-02-15-libya-uprising",
+    "2011-03-19-libya-intervention"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2011-03-11-fukushima-meltdown"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2011-03-14-gcc-crushes-bahrain"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2011-03-15-syria-uprising"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2011-03-30-thein-sein-sworn-in"
+   ]
+  }
+ ]
+}
