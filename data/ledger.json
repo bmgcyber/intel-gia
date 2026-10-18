@@ -35005,6 +35005,607 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2021-06-30": {
+   "sha256": "574c9a720c08638fd47a61f8441c66c4bbc54b82bdc6181da98d32243639ced7",
+   "undo": {
+    "stories": {
+     "2021-04-01-russia-spring-buildup": null,
+     "2021-04-11-natanz-sabotage": null,
+     "2021-04-14-us-afghan-exit-order": null,
+     "2021-04-20-deby-killed": null,
+     "2021-05-07-colonial-pipeline": null,
+     "2021-05-10-gaza-war": null,
+     "2021-05-23-ryanair-diversion": null,
+     "2021-05-24-mali-second-coup": null,
+     "2021-06-13-bennett-government": null,
+     "2021-06-16-biden-putin-geneva": null,
+     "2021-06-18-raisi-elected": null,
+     "2021-06-28-tdf-retakes-mekelle": null,
+     "2020-07-02-natanz-fire": {
+      "id": "2020-07-02-natanz-fire",
+      "date": "2020-07-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-30",
+      "region": "Middle East",
+      "title": "Explosion wrecks a centrifuge assembly hall at Natanz",
+      "summary": "The blast was one of a series of mysterious explosions across Iran from late June 2020. Iran acknowledged damage at its main enrichment site; Western and Iranian officials pointed to Israeli sabotage.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Iran_explosions"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/07/factory-blast-iran-capital-kills-latest-explosion-200707124705165.html"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2020/07/05/world/middleeast/iran-Natanz-nuclear-damage.html"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "iaea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-30",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "strike",
+      "where": [
+       "natanz"
+      ],
+      "related_stories": [
+       "2020-11-27-fakhrizadeh-killed"
+      ]
+     },
+     "2020-11-27-fakhrizadeh-killed": {
+      "id": "2020-11-27-fakhrizadeh-killed",
+      "date": "2020-11-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Middle East",
+      "title": "Iran's top nuclear scientist Mohsen Fakhrizadeh is assassinated near Tehran",
+      "summary": "Iran blamed Israel for the ambush at Absard. Days later its parliament passed a law to raise uranium enrichment and restrict UN inspections.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/11/27/top-iranian-nuclear-scientist-killed-iran-armed-forces"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/11/27/939491725/top-iranian-military-scientist-assassinated-state-media-reports"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "mohsen-fakhrizadeh",
+       "iaea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "strike",
+      "where": [
+       "absard"
+      ],
+      "related_stories": [
+       "2021-11-29-jcpoa-vienna"
+      ]
+     },
+     "2020-02-29-doha-agreement": {
+      "id": "2020-02-29-doha-agreement",
+      "date": "2020-02-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Asia-Pacific",
+      "title": "US and Taliban sign the Doha deal on a full US withdrawal from Afghanistan",
+      "summary": "Washington agreed to withdraw all troops within 14 months; the Taliban pledged not to let al-Qaeda use Afghan soil and to open talks with Kabul, which began in Doha in September. The Afghan government was not a party.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/feb/29/us-taliban-sign-peace-agreement-afghanistan-war"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/02/afghanistan-taliban-sign-deal-america-longest-war-200213063412531.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States–Taliban_deal"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "taliban",
+       "afghanistan",
+       "al-qaeda",
+       "qatar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "The deal set the timetable for the August 2021 collapse of the Afghan republic and the Taliban's return.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "doha"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2025-10-19-afpak-doha-ceasefire"
+      ]
+     },
+     "2020-08-09-belarus-protests": {
+      "id": "2020-08-09-belarus-protests",
+      "date": "2020-08-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Europe",
+      "title": "Lukashenko claims a landslide; Belarus erupts in the largest protests in its history",
+      "summary": "Officials gave Lukashenko about 80%. Opposition candidate Sviatlana Tsikhanouskaya fled to Lithuania and hundreds of thousands marched in Minsk. Thousands were detained; Moscow backed Lukashenko with a loan and offers of security support.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/aug/11/belarus-president-cuts-off-internet-amid-widespread-protests"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020–2021_Belarusian_protests"
+       }
+      ],
+      "entities": [
+       "belarus",
+       "alexander-lukashenko",
+       "sviatlana-tsikhanouskaya",
+       "russia",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "analysis": {
+       "text": "Surviving with Kremlin support made Lukashenko dependent on Moscow, and Belarus became a staging ground for the 2022 invasion.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "minsk"
+      ],
+      "related_stories": [
+       "2022-02-belarus-drills"
+      ]
+     },
+     "2020-08-18-mali-coup": {
+      "id": "2020-08-18-mali-coup",
+      "date": "2020-08-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Africa",
+      "title": "Mutinous soldiers oust Mali's President Keïta",
+      "summary": "After months of protests over insecurity and a disputed election, troops seized Kati base and arrested Keïta, who resigned. A junta led by Col. Assimi Goïta took power.",
+      "sources": [
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/20200818-ecowas-calls-on-mali-soldiers-to-end-the-mutiny"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/08/gunfire-heard-mali-army-base-warnings-mutiny-200818111723901.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Malian_coup_d'état"
+       }
+      ],
+      "entities": [
+       "mali",
+       "assimi-goita",
+       "ecowas",
+       "france"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "analysis": {
+       "text": "The first of the Sahel coups that ended France's mission and brought in Russia.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "kati"
+      ],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-02-17-france-leaves-mali"
+      ]
+     },
+     "2020-12-13-solarwinds-hack": {
+      "id": "2020-12-13-solarwinds-hack",
+      "date": "2020-12-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-30",
+      "region": "Americas",
+      "title": "SolarWinds hack: suspected Russian spies breached US agencies for months",
+      "summary": "A supply-chain attack through SolarWinds software gave hackers access from no later than March 2020 to the Treasury, Commerce and other agencies, NATO, the UK government and Microsoft. US officials blamed Russia.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2020/12/13/cyber-hack-on-us-treasury-by-foreign-government-.html"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/12/19/948318197/pompeo-russia-pretty-clearly-behind-massive-solarwinds-cyberattack"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "solarwinds"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "strike",
+      "unplaced": "Cyberattack across many networks.",
+      "related_stories": []
+     },
+     "2020-11-04-tigray-war": {
+      "id": "2020-11-04-tigray-war",
+      "date": "2020-11-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-12-31",
+      "region": "Africa",
+      "title": "Abiy launches an offensive in Tigray, starting a two-year war",
+      "summary": "After accusing the TPLF of attacking a federal army base, Abiy sent troops and declared an emergency; Eritrean forces joined. Federal forces took Mekelle on Nov 28.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/11/4/ethiopia-declares-state-of-emergency-in-opposition-tigray-region"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/2020/11/13/934241830/what-to-know-about-ethiopias-tigray-conflict"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tigray_war"
+       }
+      ],
+      "entities": [
+       "ethiopia",
+       "tplf",
+       "eritrea",
+       "abiy-ahmed"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-12-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "mekelle"
+      ],
+      "related_stories": [
+       "2025-03-tplf-split",
+       "ethiopia-tigray-advance",
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests"
+      ],
+      "source": "threads.md"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire"
+      ],
+      "source": "threads.md"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire"
+      ],
+      "source": "threads.md"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
