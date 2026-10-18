@@ -1,0 +1,356 @@
+{
+ "edition": "2008-09-30",
+ "stories": [
+  {
+   "id": "2008-07-11-oil-peaks-147",
+   "date": "2008-07-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Middle East",
+   "title": "Oil peaks at about $147 a barrel before collapsing",
+   "summary": "Prices fell to the $30s by December as the recession hit demand.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2000s_energy_crisis"
+    }
+   ],
+   "entities": [
+    "petroleum",
+    "opec"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "marker": "energy",
+   "unplaced": "Global oil market."
+  },
+  {
+   "id": "2008-07-21-karadzic-arrested",
+   "date": "2008-07-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Europe",
+   "title": "Bosnian Serb wartime leader Radovan Karadžić is arrested in Belgrade",
+   "summary": "He was handed to The Hague and later convicted of genocide over Srebrenica.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Radovan_Karad%C5%BEi%C4%87"
+    }
+   ],
+   "entities": [
+    "radovan-karadzic",
+    "serbia"
+   ],
+   "marker": "political",
+   "where": [
+    "belgrade"
+   ]
+  },
+  {
+   "id": "2008-08-08-beijing-olympics",
+   "date": "2008-08-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "The Beijing Olympics open as China's coming-out party",
+   "summary": "The Games showcased China's rise.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_Summer_Olympics"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "storylines": [
+    "china-economy"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2008-08-08-russia-georgia-war",
+   "date": "2008-08-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Russia/Eurasia",
+   "title": "Russia and Georgia go to war over South Ossetia",
+   "summary": "Russian forces routed Georgia in five days, and Moscow recognised South Ossetia and Abkhazia; it was the first sign Russia would use force against NATO's eastward pull.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War"
+    }
+   ],
+   "entities": [
+    "russia",
+    "georgia",
+    "mikheil-saakashvili",
+    "dmitry-medvedev"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "south-caucasus"
+   ],
+   "marker": "military",
+   "where": [
+    "tskhinvali"
+   ]
+  },
+  {
+   "id": "2008-08-18-musharraf-resigns",
+   "date": "2008-08-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "Pervez Musharraf resigns as Pakistan's president to avoid impeachment",
+   "summary": "Asif Ali Zardari succeeded him.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "pervez-musharraf"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "political",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2008-09-07-fannie-freddie-seized",
+   "date": "2008-09-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "US takes Fannie Mae and Freddie Mac into conservatorship",
+   "summary": "The mortgage giants' rescue was among the largest government interventions of the crisis.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Federal_takeover_of_Fannie_Mae_and_Freddie_Mac"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2008-09-15-lehman-collapse",
+   "date": "2008-09-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Americas",
+   "title": "Lehman Brothers files for the largest bankruptcy in US history",
+   "summary": "Its failure froze credit markets worldwide and turned the slump into a global panic.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers"
+    }
+   ],
+   "entities": [
+    "lehman-brothers",
+    "united-states",
+    "federal-reserve"
+   ],
+   "storylines": [
+    "global-financial-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "new-york-city"
+   ]
+  },
+  {
+   "id": "2008-09-20-islamabad-marriott-bombing",
+   "date": "2008-09-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Asia-Pacific",
+   "title": "Truck bomb devastates the Marriott hotel in Islamabad",
+   "summary": "The attack showed militants could strike the capital's heart.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Islamabad_Marriott_Hotel_bombing"
+    }
+   ],
+   "entities": [
+    "pakistan"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "strike",
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2008-08-06-mauritania-coup",
+   "date": "2008-08-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+   "region": "Africa",
+   "title": "Mauritania's army ousts its first freely elected president",
+   "summary": "General Mohamed Ould Abdel Aziz led the coup.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2008_Mauritanian_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "mauritania"
+   ],
+   "storylines": [
+    "africa-governance",
+    "sahel"
+   ],
+   "marker": "military",
+   "where": [
+    "nouakchott"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2008-07-11-oil-peaks-147"
+   ]
+  },
+  {
+   "id": "china-economy",
+   "name": "China's economy and property crisis",
+   "entities": [
+    "china",
+    "evergrande"
+   ],
+   "stories": [
+    "2008-08-08-beijing-olympics"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2008-08-08-russia-georgia-war"
+   ]
+  },
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2008-08-08-russia-georgia-war"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2008-08-18-musharraf-resigns",
+    "2008-09-20-islamabad-marriott-bombing"
+   ]
+  },
+  {
+   "id": "global-financial-crisis",
+   "name": "Global financial crisis 2007–09",
+   "entities": [
+    "federal-reserve",
+    "imf",
+    "g20",
+    "united-states"
+   ],
+   "stories": [
+    "2008-09-07-fannie-freddie-seized",
+    "2008-09-15-lehman-collapse"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2008-08-06-mauritania-coup"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2008-08-06-mauritania-coup"
+   ]
+  }
+ ]
+}
