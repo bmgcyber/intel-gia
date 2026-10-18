@@ -39263,6 +39263,11 @@
     "story": "2015-09-30-russia-enters-syria",
     "why": "Wagner grew in Syria",
     "confidence": "possible"
+   },
+   {
+    "story": "2013-03-24-seleka-takes-bangui",
+    "why": "CAR's conflict",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -39275,12 +39280,20 @@
   "unplaced": "Ambush site outside Bangui not precisely located.",
   "related_stories": [
    "2015-09-30-russia-enters-syria",
+   "2013-03-24-seleka-takes-bangui",
    "2019-10-23-russia-africa-summit"
   ],
   "revisions": [
    {
     "edition": "2015-12-31",
     "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -39748,7 +39761,13 @@
    "jair-bolsonaro",
    "lula"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-06-20-brazil-protests",
+    "why": "Start of the anti-establishment backlash",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2018-12-31",
   "storylines": [
@@ -39758,9 +39777,19 @@
   "marker": "political",
   "unplaced": "National election.",
   "related_stories": [
+   "2013-06-20-brazil-protests",
    "2019-01-01-bolsonaro-inaugurated",
    "2025-09-11-bolsonaro-convicted",
    "2023-01-08-brasilia-attacks"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -40369,7 +40398,13 @@
    "malaysia",
    "kim-jong-un"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-12-12-jang-executed",
+    "why": "Kim's purge of rivals",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-03-31",
   "storylines": [
@@ -40380,7 +40415,18 @@
   "where": [
    "klia"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-12-12-jang-executed"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-03-06-thaad-deployed",
@@ -40550,7 +40596,13 @@
    "syria",
    "bashar-al-assad"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-09-14-syria-chemical-deal",
+    "why": "Stockpile not fully removed",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-06-30",
   "storylines": [
@@ -40562,7 +40614,17 @@
    "khan-shaykhun"
   ],
   "related_stories": [
+   "2013-09-14-syria-chemical-deal",
    "2017-04-07-shayrat-strike"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -40759,7 +40821,13 @@
    "hassan-rouhani",
    "ebrahim-raisi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-06-14-rouhani-elected",
+    "why": "Second term",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-06-30",
   "storylines": [
@@ -40768,7 +40836,18 @@
   "era": "2017 (Trump's first year)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [
+   "2013-06-14-rouhani-elected"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-05-22-manchester-bombing",
@@ -40936,7 +41015,18 @@
    "turkey",
    "mohammed-bin-salman"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-06-25-tamim-emir",
+    "why": "Doha's independent line under Tamim",
+    "confidence": "possible"
+   },
+   {
+    "story": "2013-07-03-morsi-ousted",
+    "why": "Split over the Brotherhood",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-06-30",
   "storylines": [
@@ -40948,16 +41038,28 @@
    "doha"
   ],
   "related_stories": [
+   "2013-06-25-tamim-emir",
+   "2013-07-03-morsi-ousted",
+   "2021-01-05-al-ula-qatar",
    "2022-03-27-negev-summit",
    "houthis-saudi-oct15",
    "2025-05-13-trump-lifts-syria-sanctions",
    "2023-08-24-brics-expansion",
    "second-mine-tanker-ukmto-record",
    "egypt-offers-to-defend-saudi",
-   "2021-01-05-al-ula-qatar",
    "2019-04-04-haftar-tripoli-offensive",
    "2019-05-12-fujairah-tanker-sabotage",
-   "2018-10-02-khashoggi-killed"
+   "2018-10-02-khashoggi-killed",
+   "2015-03-26-saudi-intervention-yemen"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -41422,7 +41524,13 @@
    "kenya",
    "uhuru-kenyatta"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-03-04-kenyatta-elected",
+    "why": "Kenyatta–Odinga rivalry",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2017-09-30",
   "era": "2017 (Trump's first year)",
@@ -41430,7 +41538,18 @@
   "where": [
    "nairobi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-03-04-kenyatta-elected"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-09-03-north-korea-sixth-nuclear-test",
@@ -43073,6 +43192,11 @@
     "story": "2015-04-09-south-china-sea-reclamation",
     "why": "Island building at issue",
     "confidence": "likely"
+   },
+   {
+    "story": "2013-01-22-philippines-files-arbitration",
+    "why": "Ruling on Manila's case",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -43089,12 +43213,20 @@
   "marker": "diplomacy",
   "unplaced": "Ruling covers the whole South China Sea.",
   "related_stories": [
-   "2015-04-09-south-china-sea-reclamation"
+   "2015-04-09-south-china-sea-reclamation",
+   "2013-01-22-philippines-files-arbitration"
   ],
   "revisions": [
    {
     "edition": "2015-12-31",
     "why": "2015 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -43162,7 +43294,13 @@
    "fethullah-gulen",
    "united-states"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-05-28-gezi-protests",
+    "why": "Erdoğan's authoritarian turn",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2016-09-30",
   "era": "2016 (Brexit and Trump)",
@@ -43171,10 +43309,20 @@
    "ankara"
   ],
   "related_stories": [
+   "2013-05-28-gezi-protests",
+   "2017-04-16-turkey-referendum",
    "2016-08-24-euphrates-shield",
    "2019-10-09-operation-peace-spring",
-   "2018-08-10-turkish-lira-crash",
-   "2017-04-16-turkey-referendum"
+   "2018-08-10-turkish-lira-crash"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -44960,7 +45108,13 @@
    "united-kingdom",
    "xi-jinping"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-09-07-silk-road-economic-belt",
+    "why": "BRI financing",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2015-06-30",
   "storylines": [
@@ -44972,7 +45126,17 @@
    "beijing"
   ],
   "related_stories": [
+   "2013-09-07-silk-road-economic-belt",
    "2020-06-30-hong-kong-nsl"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -45043,7 +45207,13 @@
    "barack-obama",
    "hassan-rouhani"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-11-24-iran-interim-deal",
+    "why": "Interim deal led to the JCPOA",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2015-09-30",
   "analysis": {
@@ -45059,6 +45229,8 @@
    "vienna"
   ],
   "related_stories": [
+   "2013-11-24-iran-interim-deal",
+   "2016-01-16-jcpoa-implementation",
    "rare-earth-nov10",
    "2021-11-29-jcpoa-vienna",
    "2022-02-26-swift-cbr",
@@ -45081,8 +45253,18 @@
    "2018-03-08-steel-aluminum-tariffs",
    "2018-05-08-us-quits-jcpoa",
    "2017-08-02-caatsa",
-   "2016-01-16-jcpoa-implementation",
-   "2016-11-04-paris-agreement-in-force"
+   "2016-11-04-paris-agreement-in-force",
+   "2015-12-12-paris-climate-agreement",
+   "2014-03-18-crimea-annexed"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -45783,7 +45965,13 @@
    "venezuela",
    "nicolas-maduro"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-03-05-chavez-dies",
+    "why": "Maduro's weaker rule",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2015-12-31",
   "storylines": [
@@ -45793,7 +45981,17 @@
   "marker": "political",
   "unplaced": "National election.",
   "related_stories": [
+   "2013-03-05-chavez-dies",
    "2017-07-30-venezuela-constituent-assembly"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -45962,7 +46160,13 @@
    "russia",
    "european-union"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-11-21-euromaidan",
+    "why": "Climax of the protests",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-03-31",
   "storylines": [
@@ -45974,12 +46178,23 @@
    "maidan"
   ],
   "related_stories": [
+   "2013-11-21-euromaidan",
    "2014-03-18-crimea-annexed",
+   "2014-05-25-poroshenko-elected",
    "energy-ceasefire",
    "trump-disgrace-eu-summit",
    "2026-04-23-eu-90bn-loan",
    "2025-12-18-eu-90bn-loan-agreed",
-   "2014-05-25-poroshenko-elected"
+   "2014-07-17-mh17-shot-down"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -46001,7 +46216,13 @@
    "china",
    "xinjiang-camps"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-03-14-xi-becomes-president",
+    "why": "Xi's security agenda",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-03-31",
   "era": "2014 (Crimea and the caliphate)",
@@ -46010,7 +46231,17 @@
    "kunming"
   ],
   "related_stories": [
+   "2013-03-14-xi-becomes-president",
    "2018-08-13-xinjiang-un-review"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -46545,7 +46776,13 @@
    "egypt",
    "abdel-fattah-el-sisi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-07-03-morsi-ousted",
+    "why": "Coup leader turned president",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-06-30",
   "era": "2014 (Crimea and the caliphate)",
@@ -46553,7 +46790,18 @@
   "where": [
    "cairo"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-07-03-morsi-ousted"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2014-06-10-fall-of-mosul",
@@ -46583,7 +46831,13 @@
    "iraq",
    "abu-bakr-al-baghdadi"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-04-08-isil-founded",
+    "why": "ISIL's growth in Syria",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-06-30",
   "analysis": {
@@ -46600,9 +46854,19 @@
    "mosul"
   ],
   "related_stories": [
-   "2014-06-29-caliphate-declared",
+   "2013-04-08-isil-founded",
+   "2016-10-17-mosul-offensive",
    "2015-05-17-ramadi-falls",
-   "2016-10-17-mosul-offensive"
+   "2014-06-29-caliphate-declared"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -46669,6 +46933,11 @@
     "story": "2014-06-10-fall-of-mosul",
     "why": "Proclaimed after the June blitz",
     "confidence": "likely"
+   },
+   {
+    "story": "2013-04-08-isil-founded",
+    "why": "Syria expansion",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -46681,9 +46950,20 @@
   "unplaced": "Proclamation covering Iraq and Syria.",
   "related_stories": [
    "2014-06-10-fall-of-mosul",
-   "2015-05-17-ramadi-falls",
+   "2013-04-08-isil-founded",
+   "2015-03-07-boko-haram-pledges-isis",
    "2014-08-03-sinjar-genocide",
-   "2015-03-07-boko-haram-pledges-isis"
+   "2015-05-17-ramadi-falls",
+   "2014-08-08-us-strikes-isis-iraq"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -46803,7 +47083,13 @@
    "niger",
    "burkina-faso"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-01-11-operation-serval",
+    "why": "Successor to Serval",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-09-30",
   "storylines": [
@@ -46813,9 +47099,19 @@
   "marker": "military",
   "unplaced": "Region-wide operation headquartered in N'Djamena.",
   "related_stories": [
+   "2013-01-11-operation-serval",
    "2024-07-06-aes-confederation",
    "2025-01-29-aes-leaves-ecowas",
    "sahel-jnim-issp-oudalan"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -47431,7 +47727,13 @@
    "xi-jinping",
    "belt-and-road"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2013-09-07-silk-road-economic-belt",
+    "why": "Funding the 2013 plan",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2014-12-31",
   "storylines": [
@@ -47442,7 +47744,18 @@
   "where": [
    "beijing"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-09-07-silk-road-economic-belt"
+  ],
+  "revisions": [
+   {
+    "edition": "2013-12-31",
+    "why": "2013 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2014-12-16-ruble-crash",
@@ -47658,7 +47971,8 @@
    "konna"
   ],
   "related_stories": [
-   "2013-01-16-in-amenas"
+   "2013-01-16-in-amenas",
+   "2014-08-01-barkhane"
   ]
  },
  {
@@ -47736,7 +48050,9 @@
   "where": [
    "manila"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2016-07-12-south-china-sea-ruling"
+  ]
  },
  {
   "id": "2013-02-12-nk-third-nuclear-test",
@@ -47806,7 +48122,9 @@
   "where": [
    "caracas"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2015-12-06-venezuela-opposition-wins-assembly"
+  ]
  },
  {
   "id": "2013-03-14-xi-becomes-president",
@@ -47840,7 +48158,8 @@
    "beijing"
   ],
   "related_stories": [
-   "2013-09-07-silk-road-economic-belt"
+   "2013-09-07-silk-road-economic-belt",
+   "2014-03-01-kunming-attack"
   ]
  },
  {
@@ -47869,7 +48188,10 @@
   "where": [
    "bangui"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-12-05-france-sangaris-car",
+   "2018-07-30-wagner-car-journalists"
+  ]
  },
  {
   "id": "2013-03-25-cyprus-bailout",
@@ -47931,7 +48253,9 @@
   "where": [
    "nairobi"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2017-09-01-kenya-election-annulled"
+  ]
  },
  {
   "id": "2013-04-04-boj-qqe",
@@ -48134,7 +48458,9 @@
   "where": [
    "gezi-park"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2016-07-15-turkey-coup-attempt"
+  ]
  },
  {
   "id": "2013-06-05-qusayr-hezbollah",
@@ -48242,7 +48568,10 @@
   "where": [
    "tehran"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2013-11-24-iran-interim-deal",
+   "2017-05-19-rouhani-reelected"
+  ]
  },
  {
   "id": "2013-04-23-hawija-clashes",
@@ -48335,7 +48664,9 @@
   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
   "marker": "political",
   "unplaced": "Protests in many cities.",
-  "related_stories": []
+  "related_stories": [
+   "2018-10-28-bolsonaro-elected"
+  ]
  },
  {
   "id": "2013-06-25-tamim-emir",
@@ -48367,7 +48698,9 @@
   "where": [
    "doha"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2017-06-05-qatar-blockade"
+  ]
  },
  {
   "id": "2013-07-03-morsi-ousted",
@@ -48412,7 +48745,8 @@
    "2023-08-24-brics-expansion",
    "egypt-offers-to-defend-saudi",
    "2021-01-05-al-ula-qatar",
-   "2017-06-05-qatar-blockade"
+   "2017-06-05-qatar-blockade",
+   "2014-05-28-sisi-elected"
   ]
  },
  {
@@ -48543,7 +48877,8 @@
    "2019-10-09-operation-peace-spring",
    "2018-02-07-battle-of-khasham",
    "2018-04-14-us-uk-france-strike-syria",
-   "2017-04-07-shayrat-strike"
+   "2017-04-07-shayrat-strike",
+   "2017-04-04-khan-shaykhun-sarin"
   ]
  },
  {
@@ -48586,7 +48921,8 @@
   ],
   "related_stories": [
    "2013-03-14-xi-becomes-president",
-   "2014-11-08-silk-road-fund"
+   "2014-11-08-silk-road-fund",
+   "2015-06-29-aiib-signed"
   ]
  },
  {
@@ -48656,5 +48992,428 @@
    "berlin"
   ],
   "related_stories": []
+ },
+ {
+  "id": "2013-10-03-lampedusa-shipwreck",
+  "date": "2013-10-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Europe",
+  "title": "More than 360 migrants drown off Lampedusa",
+  "summary": "The boat came from Libya; Italy started the Mare Nostrum rescue operation.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/oct/03/lampedusa-migrants-killed-boat-sinks-italy"
+   }
+  ],
+  "entities": [
+   "italy",
+   "libya",
+   "european-union"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "europe-populism"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "lampedusa"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-11-08-typhoon-haiyan",
+  "date": "2013-11-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Asia-Pacific",
+  "title": "Typhoon Haiyan kills more than 6,300 in the Philippines",
+  "summary": "One of the strongest landfalling storms ever recorded flattened Tacloban.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Typhoon_Haiyan"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/global-development/2013/nov/08/philippines-rescue-services-typhoon-haiyan"
+   }
+  ],
+  "entities": [
+   "philippines"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "tacloban"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-11-21-euromaidan",
+  "date": "2013-11-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Russia/Eurasia",
+  "title": "Euromaidan protests begin after Yanukovych drops the EU deal",
+  "summary": "Under pressure from Moscow, he suspended the association agreement; protests on Kyiv's Maidan grew after a violent police raid.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euromaidan"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "viktor-yanukovych",
+   "european-union",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "maidan"
+  ],
+  "related_stories": [
+   "2014-02-22-yanukovych-ousted",
+   "energy-ceasefire",
+   "trump-disgrace-eu-summit",
+   "2026-04-23-eu-90bn-loan",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2014-03-18-crimea-annexed",
+   "2014-07-17-mh17-shot-down"
+  ]
+ },
+ {
+  "id": "2013-11-23-china-ecs-adiz",
+  "date": "2013-11-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Asia-Pacific",
+  "title": "China declares an air defence zone over the East China Sea, covering the Senkakus",
+  "summary": "The US flew B-52s through it unannounced; Japan and South Korea rejected it.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_%28East_China_Sea%29"
+   }
+  ],
+  "entities": [
+   "china",
+   "japan",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "unplaced": "East China Sea air zone.",
+  "related_stories": [
+   "rare-earth-nov10",
+   "2022-05-23-ipef",
+   "2022-08-04-pla-drills",
+   "2025-12-29-justice-mission-drills",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage"
+  ]
+ },
+ {
+  "id": "2013-11-24-iran-interim-deal",
+  "date": "2013-11-24",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Middle East",
+  "title": "Iran and the P5+1 sign an interim nuclear deal in Geneva",
+  "summary": "The Joint Plan of Action froze parts of Iran's programme for limited sanctions relief and led to the JCPOA.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joint_Plan_of_Action"
+   }
+  ],
+  "entities": [
+   "iran",
+   "united-states",
+   "european-union",
+   "russia",
+   "china",
+   "hassan-rouhani"
+  ],
+  "causes": [
+   {
+    "story": "2013-06-14-rouhani-elected",
+    "why": "Rouhani's opening",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "diplomacy",
+  "where": [
+   "geneva"
+  ],
+  "related_stories": [
+   "2013-06-14-rouhani-elected",
+   "2015-07-14-jcpoa-agreed",
+   "rare-earth-nov10",
+   "2021-11-29-jcpoa-vienna",
+   "2022-02-26-swift-cbr",
+   "2022-06-14-msp",
+   "2022-09-02-price-cap",
+   "2022-09-jcpoa-stall",
+   "trump-disgrace-eu-summit",
+   "us-weighs-shadow-fleet-relief",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "eu-china-rare-earth-green-channel",
+   "2026-02-05-new-start-expires",
+   "2026-09-18-graham-act-signed",
+   "2025-04-02-liberation-day",
+   "2025-11-06-c5-plus-1-summit",
+   "2023-08-24-brics-expansion",
+   "2024-10-02-china-coast-guard-arctic",
+   "2026-04-07-hormuz-resolution-veto",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2017-08-02-caatsa",
+   "2016-01-16-jcpoa-implementation",
+   "2016-11-04-paris-agreement-in-force",
+   "2014-03-18-crimea-annexed"
+  ]
+ },
+ {
+  "id": "2013-12-12-jang-executed",
+  "date": "2013-12-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Asia-Pacific",
+  "title": "Kim Jong Un executes his uncle Jang Song-thaek",
+  "summary": "The purge of the regime's No 2, seen as Beijing's interlocutor, consolidated Kim's power.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jang_Song-thaek"
+   }
+  ],
+  "entities": [
+   "north-korea",
+   "kim-jong-un",
+   "china"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "pyongyang"
+  ],
+  "related_stories": [
+   "2017-02-13-kim-jong-nam-killed",
+   "2025-10-10-hwasong-20-parade"
+  ]
+ },
+ {
+  "id": "2013-12-15-south-sudan-civil-war",
+  "date": "2013-12-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Africa",
+  "title": "South Sudan descends into civil war between Kiir and Machar",
+  "summary": "Kiir accused his ex-deputy of a coup; fighting along Dinka–Nuer lines killed hundreds of thousands by 2018.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2013/dec/23/south-sudan-state-that-fell-apart-in-a-week"
+   }
+  ],
+  "entities": [
+   "south-sudan",
+   "salva-kiir",
+   "riek-machar"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "where": [
+   "juba"
+  ],
+  "related_stories": [
+   "2016-07-08-juba-clashes"
+  ]
+ },
+ {
+  "id": "2013-10-01-us-shutdown",
+  "date": "2013-10-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Americas",
+  "title": "US government shuts down for 16 days over Obamacare",
+  "summary": "The shutdown ended with a stopgap deal that also lifted the debt ceiling.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2013_United_States_federal_government_shutdown"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "barack-obama"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-12-05-france-sangaris-car",
+  "date": "2013-12-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Africa",
+  "title": "UN authorises African and French troops for the Central African Republic",
+  "summary": "Resolution 2127 led to France's Operation Sangaris as Christian militias and Séléka fighters massacred civilians.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Sangaris"
+   }
+  ],
+  "entities": [
+   "france",
+   "central-african-republic"
+  ],
+  "causes": [
+   {
+    "story": "2013-03-24-seleka-takes-bangui",
+    "why": "Collapse after the Séléka takeover",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "military",
+  "where": [
+   "bangui"
+  ],
+  "related_stories": [
+   "2013-03-24-seleka-takes-bangui"
+  ]
+ },
+ {
+  "id": "2013-12-05-mandela-dies",
+  "date": "2013-12-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Africa",
+  "title": "Nelson Mandela dies at 95",
+  "summary": "He died at his home in Houghton, Johannesburg.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+   }
+  ],
+  "entities": [
+   "south-africa"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "political",
+  "where": [
+   "johannesburg"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2013-12-26-abe-yasukuni",
+  "date": "2013-12",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2013-12-31",
+  "region": "Asia-Pacific",
+  "title": "Abe visits the Yasukuni shrine, drawing condemnation from China and South Korea",
+  "summary": "China called it moving Japan in an 'extremely dangerous' direction.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shinzo_Abe"
+   }
+  ],
+  "entities": [
+   "japan",
+   "shinzo-abe",
+   "china",
+   "south-korea"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2013-12-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+  "marker": "diplomacy",
+  "where": [
+   "tokyo"
+  ],
+  "related_stories": [
+   "2020-11-15-rcep",
+   "2019-07-04-japan-korea-trade-dispute"
+  ]
  }
 ]
