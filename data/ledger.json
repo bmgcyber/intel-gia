@@ -18478,6 +18478,358 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-06-30": {
+   "sha256": "27e3dc6c159b8dc471665869f68cb40bd3b0d90b8fabc5df85ace678f830129c",
+   "undo": {
+    "stories": {
+     "2023-04-04-finland-joins-nato": null,
+     "2023-04-15-sudan-war-begins": null,
+     "2023-05-20-bakhmut-falls": null,
+     "2023-05-28-erdogan-reelected": null,
+     "2023-06-06-kakhovka-dam": null,
+     "2023-06-04-counteroffensive": null,
+     "2023-06-24-prigozhin-mutiny": null,
+     "2022-05-18-finland-sweden": {
+      "id": "2022-05-18-finland-sweden",
+      "date": "2022-05-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "Finland and Sweden apply to join NATO",
+      "summary": "Ending long military non-alignment, Finland and Sweden submitted NATO applications. Turkey initially objected.",
+      "sources": [
+       {
+        "name": "Wikipedia: Accession of Finland to NATO",
+        "url": "https://en.wikipedia.org/wiki/Accession_of_Finland_to_NATO"
+       }
+      ],
+      "entities": [
+       "finland",
+       "sweden",
+       "nato",
+       "turkey",
+       "russia"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Invasion reversed Nordic public opinion",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-06-29-madrid",
+        "why": "Accession deal reached",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "2022-06-29-madrid"
+      ]
+     },
+     "2021-10-25-sudan-coup": {
+      "id": "2021-10-25-sudan-coup",
+      "date": "2021-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Sudan's military seizes power from transitional government",
+      "summary": "Gen. Abdel Fattah al-Burhan dissolved the civilian-military transitional government and detained Prime Minister Abdalla Hamdok.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021 Sudan coup d'état",
+        "url": "https://en.wikipedia.org/wiki/2021_Sudan_coup_d'état"
+       }
+      ],
+      "entities": [
+       "sudan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2025-03-21-khartoum-retaken"
+      ]
+     },
+     "2023-02-06-turkey-syria-quake": {
+      "id": "2023-02-06-turkey-syria-quake",
+      "date": "2023-02-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-03-31",
+      "region": "Middle East",
+      "title": "Twin earthquakes kill more than 50,000 in Turkey and Syria",
+      "summary": "Magnitude-7.8 and 7.5 quakes devastated southern Turkey and northern Syria, among the deadliest disasters of the century, three months before Turkey's elections.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/major-earthquake-strikes-turkey-syria-about-200-dead-many-trapped-2023-02-06/"
+       },
+       {
+        "name": "European Commission",
+        "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/turkiye-and-syria-statement-earthquake-high-representative-borrell-and-commissioner-crisis-2023-02-06_en"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "syria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2023-03-31",
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "political",
+      "where": [
+       "kahramanmaras"
+      ],
+      "related_stories": []
+     },
+     "2022-11-11-kherson-liberated": {
+      "id": "2022-11-11-kherson-liberated",
+      "date": "2022-11-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2022-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Russia retreats from Kherson city; Ukraine retakes the right bank of the Dnipro",
+      "summary": "Weeks after Moscow claimed to annex the region, Russian troops withdrew across the Dnipro and Ukrainian forces entered Kherson, completing a second major autumn counter-offensive after Kharkiv.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2022/11/11/russia-kherson-retreat-marks-tectonic-shift-in-ukraine-war"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/kremlin-status-kherson-part-russia-unchanged-2022-11-11/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liberation_of_Kherson"
+       }
+      ],
+      "entities": [
+       "ukraine",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2022-09-30-annexation",
+        "why": "Retreat from an 'annexed' region",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-09-06-kharkiv",
+        "why": "Second autumn counter-offensive",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2022-12-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "where": [
+       "kherson"
+      ],
+      "related_stories": [
+       "2022-09-30-annexation",
+       "2022-09-06-kharkiv"
+      ]
+     },
+     "2022-06-23-himars": {
+      "id": "2022-06-23-himars",
+      "date": "2022-06-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "US-supplied HIMARS arrive in Ukraine",
+      "summary": "Ukraine received US HIMARS rocket systems and began striking Russian depots and command posts behind the lines.",
+      "sources": [
+       {
+        "name": "Wikipedia: M142 HIMARS",
+        "url": "https://en.wikipedia.org/wiki/M142_HIMARS"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "ukraine",
+       "russia"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-05-20-mariupol",
+        "why": "Shift to Donbas artillery war drove the need",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-06-kharkiv",
+        "why": "HIMARS strikes degraded Russian logistics",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-05-20-mariupol",
+       "2022-09-06-kharkiv",
+       "diesel-deal"
+      ],
+      "marker": "military",
+      "unplaced": "The systems arrived in Ukraine. The summary names no city."
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation"
+      ],
+      "source": "threads.md"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
