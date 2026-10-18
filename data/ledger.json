@@ -49579,6 +49579,2176 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2018-12-31": {
+   "sha256": "4677785bf2a925ba250f63e6db183184bd9cd7283bf1c10b7c6e27f90170fdf1",
+   "undo": {
+    "stories": {
+     "2018-10-02-khashoggi-killed": null,
+     "2018-10-12-migrant-caravan": null,
+     "2018-10-28-bolsonaro-elected": null,
+     "2018-11-06-us-midterms": null,
+     "2018-11-17-yellow-vests": null,
+     "2018-11-25-kerch-strait-incident": null,
+     "2018-11-25-brexit-deal-endorsed": null,
+     "2018-12-01-meng-wanzhou-arrested": null,
+     "2018-12-13-stockholm-agreement": null,
+     "2018-12-19-sudan-protests-begin": null,
+     "2019-02-28-hanoi-summit": {
+      "id": "2019-02-28-hanoi-summit",
+      "date": "2019-02-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Asia-Pacific",
+      "title": "Trump–Kim summit in Hanoi collapses without a deal",
+      "summary": "The second summit was cut short over North Korea's demand for sanctions relief; Trump said Kim wanted all sanctions lifted.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_North_Korea%E2%80%93United_States_Hanoi_Summit"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2019/02/28/white-house-trump-kim-meetings-change-of-schedule.html"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "kim-jong-un",
+       "north-korea",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "where": [
+       "hanoi"
+      ],
+      "related_stories": [
+       "2019-06-30-dmz-meeting",
+       "2020-06-16-liaison-office-blown-up"
+      ]
+     },
+     "2019-01-23-guaido-interim-president": {
+      "id": "2019-01-23-guaido-interim-president",
+      "date": "2019-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Americas",
+      "title": "Juan Guaidó declares himself Venezuela's interim president; the US recognises him",
+      "summary": "The opposition-led National Assembly called Maduro a usurper after his disputed 2018 re-election. The US and dozens of countries backed Guaidó; Russia, China and Cuba backed Maduro.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Venezuelan_presidential_crisis"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/jan/23/venezuela-protests-thousands-march-against-maduro-as-opposition-sees-chance-for-change"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2019/01/23/americas/venezuela-protests/index.html"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "juan-guaido",
+       "nicolas-maduro",
+       "united-states",
+       "russia",
+       "cuba"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "analysis": {
+       "text": "The failure of the Guaidó strategy left Washington looking for other ways to remove Maduro, up to the 2026 raid.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": [
+       "2019-01-28-pdvsa-sanctions",
+       "venezuela-oil",
+       "2022-03-05-us-venezuela-talks",
+       "us-weighs-shadow-fleet-relief",
+       "2026-01-03-maduro-captured",
+       "2026-03-13-cuba-talks",
+       "2026-10-12-cuba-blockade-bites",
+       "2025-09-02-boat-strikes-begin",
+       "2025-11-16-ford-caribbean",
+       "2025-12-16-venezuela-tanker-blockade",
+       "cuba-75pct-blackout-santa-cruz",
+       "2020-03-26-maduro-indicted"
+      ]
+     },
+     "2019-05-10-us-china-tariffs-escalate": {
+      "id": "2019-05-10-us-china-tariffs-escalate",
+      "date": "2019-05-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Americas",
+      "title": "Trump raises tariffs on $200bn of Chinese goods to 25% as talks collapse",
+      "summary": "The trade war that began in January 2018 escalated after negotiations broke down; China retaliated and in August the US labelled it a currency manipulator.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2019/05/05/trump-says-tariffs-on-200-billion-of-chinese-goods-will-increase-to-25percent-on-friday.html"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "donald-trump",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Tariff decision.",
+      "related_stories": [
+       "2019-05-15-huawei-entity-list",
+       "trump-waives-russia-sanctions",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china",
+       "2020-01-15-phase-one-deal",
+       "2020-06-30-hong-kong-nsl",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali"
+      ]
+     },
+     "2019-05-15-huawei-entity-list": {
+      "id": "2019-05-15-huawei-entity-list",
+      "date": "2019-05-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Americas",
+      "title": "US puts Huawei on its Entity List and declares a telecoms emergency",
+      "summary": "Trump's order targeted 'foreign adversary' telecoms gear, and Commerce barred US firms from supplying Huawei without a licence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Huawei"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2019/may/15/donald-trump-national-emergency-telecoms-threats-huawei"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "huawei",
+       "china",
+       "donald-trump"
+      ],
+      "causes": [
+       {
+        "story": "2019-05-10-us-china-tariffs-escalate",
+        "why": "Trade war widened to technology",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "ai-compute-minerals",
+       "us-tariffs-trade"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Executive order.",
+      "related_stories": [
+       "2019-05-10-us-china-tariffs-escalate",
+       "trump-waives-russia-sanctions",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-10-30-busan-truce",
+       "2025-12-08-h200-china",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr"
+      ]
+     },
+     "2019-05-12-fujairah-tanker-sabotage": {
+      "id": "2019-05-12-fujairah-tanker-sabotage",
+      "date": "2019-05-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Middle East",
+      "title": "Four ships are sabotaged off Fujairah as US–Iran tensions rise",
+      "summary": "Two Saudi tankers, a Norwegian tanker and an Emirati bunkering ship were holed by explosive devices; US officials blamed Iran, which denied it. In June two more tankers were attacked in the Gulf of Oman.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/May_2019_Gulf_of_Oman_incident"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/June_2019_Gulf_of_Oman_incident"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2019/05/12/middleeast/uae-cargo-ship-sabotage-intl/index.html"
+       }
+      ],
+      "entities": [
+       "uae",
+       "saudi-arabia",
+       "iran",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "strike",
+      "where": [
+       "fujairah"
+      ],
+      "related_stories": [
+       "2019-06-20-global-hawk-downed",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "2022-03-27-negev-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "2023-08-24-brics-expansion",
+       "second-mine-tanker-ukmto-record",
+       "2019-09-14-abqaiq-attack"
+      ]
+     },
+     "2019-10-11-abiy-nobel": {
+      "id": "2019-10-11-abiy-nobel",
+      "date": "2019-10-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Africa",
+      "title": "Ethiopia's Abiy Ahmed wins the Nobel Peace Prize for ending the war with Eritrea",
+      "summary": "The committee cited his 2018 peace with Eritrea. A year later he went to war in Tigray.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Nobel_Peace_Prize"
+       }
+      ],
+      "entities": [
+       "abiy-ahmed",
+       "ethiopia",
+       "eritrea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "unplaced": "Prize announcement in Oslo.",
+      "related_stories": [
+       "2020-11-04-tigray-war",
+       "2026-09-23-tplf-offensive",
+       "2026-10-09-ethiopia-eritrea-accusations",
+       "tigray-federal-takeover-rubio",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2022-11-02-pretoria-agreement"
+      ]
+     },
+     "2019-10-09-operation-peace-spring": {
+      "id": "2019-10-09-operation-peace-spring",
+      "date": "2019-10-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Middle East",
+      "title": "Turkey invades northeast Syria after Trump pulls US troops back",
+      "summary": "Days after Trump ordered US forces out of the area, Turkish troops and allied Syrian militias attacked the Kurdish-led SDF. More than 300,000 people fled; the SDF invited in Assad's army and Russia brokered a buffer zone.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_northeastern_Syria"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/oct/09/turkey-launches-military-operation-in-northern-syria-erdogan"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "recep-tayyip-erdogan",
+       "sdf",
+       "united-states",
+       "donald-trump",
+       "syria",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2019-03-23-baghuz-caliphate-ends",
+        "why": "End of the caliphate weakened the case for US troops",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "military",
+      "where": [
+       "ras-al-ayn"
+      ],
+      "related_stories": [
+       "2019-03-23-baghuz-caliphate-ends",
+       "2020-03-05-idlib-ceasefire",
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "trump-waives-russia-sanctions",
+       "2026-08-20-sdf-integration",
+       "2026-09-18-graham-act-signed",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-15-alaska-summit",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "graham-waiver-bipartisan-backlash",
+       "2019-03-25-golan-recognition"
+      ]
+     },
+     "2019-01-01-bolsonaro-inaugurated": {
+      "id": "2019-01-01-bolsonaro-inaugurated",
+      "date": "2019-01-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Americas",
+      "title": "Jair Bolsonaro is sworn in as Brazil's president",
+      "summary": "The far-right former army captain took office in Brasília, beginning a presidency that ended in his 2022 defeat by Lula and a coup plot.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inauguration_of_Jair_Bolsonaro"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/jan/01/jair-bolsonaro-inauguration-brazil-president"
+       }
+      ],
+      "entities": [
+       "brazil",
+       "jair-bolsonaro"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "brasilia"
+      ],
+      "related_stories": []
+     },
+     "2019-04-11-bashir-ousted": {
+      "id": "2019-04-11-bashir-ousted",
+      "date": "2019-04-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-06-30",
+      "region": "Africa",
+      "title": "Sudan's army ousts Omar al-Bashir after months of protests",
+      "summary": "The military ended his three-decade rule and formed a Transitional Military Council led by Abdel Fattah al-Burhan with RSF chief Hemedti as deputy.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Sudanese_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2019/4/11/sudans-military-seizes-power-from-president-omar-al-bashir"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/apr/11/sudan-army-ousts-bashir-after-30-years-in-power"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "omar-al-bashir",
+       "abdel-fattah-al-burhan",
+       "hemedti",
+       "sudanese-armed-forces",
+       "rsf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-06-30",
+      "analysis": {
+       "text": "The Burhan–Hemedti partnership born here broke apart in the 2023 war.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "khartoum"
+      ],
+      "related_stories": [
+       "2019-06-03-khartoum-massacre",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-11-wad-madani-retaken",
+       "sudan-nyala-strikes",
+       "2020-10-03-juba-agreement"
+      ]
+     },
+     "2019-07-24-johnson-pm": {
+      "id": "2019-07-24-johnson-pm",
+      "date": "2019-07-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-09-30",
+      "region": "Europe",
+      "title": "Boris Johnson becomes UK prime minister vowing Brexit 'do or die'",
+      "summary": "Johnson replaced Theresa May, who quit after Parliament rejected her withdrawal deal three times.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boris_Johnson"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2019/jul/24/philip-hammond-quits-johnson-fully-aligned-chancellor-gauke-stewart"
+       }
+      ],
+      "entities": [
+       "united-kingdom",
+       "boris-johnson",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-09-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": [
+       "2019-12-12-johnson-landslide"
+      ]
+     },
+     "2019-03-25-golan-recognition": {
+      "id": "2019-03-25-golan-recognition",
+      "date": "2019-03-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-03-31",
+      "region": "Middle East",
+      "title": "Trump recognises Israeli sovereignty over the Golan Heights",
+      "summary": "The US became the first country to recognise Israel's 1981 de facto annexation of territory captured from Syria in 1967.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_recognition_of_the_Golan_Heights_as_part_of_Israel"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2019/03/25/politics/donald-trump-benjamin-netanyahu/index.html"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "israel",
+       "syria",
+       "donald-trump",
+       "benjamin-netanyahu"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2026-02-28-iran-war-begins",
+       "2025-06-22-midnight-hammer",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2020-08-13-abraham-accords",
+       "2020-12-14-sudan-delisted"
+      ]
+     },
+     "2019-10-23-russia-africa-summit": {
+      "id": "2019-10-23-russia-africa-summit",
+      "date": "2019-10-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Russia/Eurasia",
+      "title": "Putin hosts 43 African leaders at the first Russia–Africa summit in Sochi",
+      "summary": "Putin offered aid and trade 'without political conditions', the diplomatic counterpart of Wagner's growing presence on the continent.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Russia%E2%80%93Africa_Summit"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin",
+       "egypt"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "where": [
+       "sochi"
+      ],
+      "related_stories": []
+     },
+     "2019-11-11-gambia-v-myanmar": {
+      "id": "2019-11-11-gambia-v-myanmar",
+      "date": "2019-11-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Asia-Pacific",
+      "title": "The Gambia takes Myanmar to the World Court for genocide against the Rohingya",
+      "summary": "Backed by the 57-member OIC, the case followed the army's 2017 expulsion of over 700,000 Rohingya; Aung San Suu Kyi defended Myanmar at The Hague in December.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rohingya_genocide_case"
+       },
+       {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2019/12/1053221"
+       }
+      ],
+      "entities": [
+       "the-gambia",
+       "myanmar",
+       "rohingya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "diplomacy",
+      "unplaced": "Filed at the ICJ in The Hague.",
+      "related_stories": []
+     },
+     "2019-11-24-china-cables": {
+      "id": "2019-11-24-china-cables",
+      "date": "2019-11-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2019-12-31",
+      "region": "Asia-Pacific",
+      "title": "Leaked 'China Cables' expose how Xinjiang's internment camps are run",
+      "summary": "The ICIJ published internal documents including an operations manual for the camps; Beijing called them fabricated.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/China_Cables"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2019/nov/25/uk-calls-for-un-access-chinese-detention-camps-xinjiang"
+       }
+      ],
+      "entities": [
+       "china",
+       "xinjiang-camps"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2019-12-31",
+      "storylines": [
+       "us-tariffs-trade"
+      ],
+      "era": "2019 (maximum pressure)",
+      "marker": "political",
+      "unplaced": "Leaked documents.",
+      "related_stories": []
+     },
+     "2020-03-05-idlib-ceasefire": {
+      "id": "2020-03-05-idlib-ceasefire",
+      "date": "2020-03-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Middle East",
+      "title": "Turkey's Operation Spring Shield hits Assad's forces; Putin and Erdoğan agree an Idlib ceasefire",
+      "summary": "After a Feb 27 airstrike killed more than 30 Turkish soldiers, Turkey launched drone strikes on Syrian government forces and shot down Syrian jets. A Moscow-brokered ceasefire froze the last rebel enclave, dominated by HTS.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/3/1/turkey-shoots-down-two-syrian-fighter-jets-over-idlib"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Spring_Shield"
+       }
+      ],
+      "entities": [
+       "turkey",
+       "syria",
+       "russia",
+       "hts",
+       "recep-tayyip-erdogan",
+       "vladimir-putin",
+       "bashar-al-assad"
+      ],
+      "causes": [
+       {
+        "story": "2019-10-09-operation-peace-spring",
+        "why": "Turkey's deeper military role in northern Syria",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "The frozen Idlib enclave let HTS survive and rebuild, launching the 2024 offensive that toppled Assad.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "idlib"
+      ],
+      "related_stories": [
+       "2019-10-09-operation-peace-spring",
+       "2024-11-30-aleppo-falls",
+       "2022-07-19-putin-tehran",
+       "2024-12-08-assad-falls",
+       "2024-12-01-sna-tell-rifaat"
+      ],
+      "revisions": [
+       {
+        "edition": "2019-12-31",
+        "why": "2019 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2020-08-20-navalny-poisoned": {
+      "id": "2020-08-20-navalny-poisoned",
+      "date": "2020-08-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Navalny is poisoned with Novichok on a flight from Tomsk",
+      "summary": "His plane made an emergency landing in Omsk and he was flown to Berlin, where German labs found a Novichok nerve agent. The EU imposed sanctions; he returned to Russia and was arrested in January 2021.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/aug/20/a-cup-of-tea-then-screams-of-agony-how-alexei-navalny-was-left-fighting-for-his-life"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny"
+       }
+      ],
+      "entities": [
+       "alexei-navalny",
+       "russia",
+       "germany",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "omsk"
+      ],
+      "related_stories": [
+       "trump-disgrace-eu-summit",
+       "2024-02-16-navalny-dies",
+       "2021-01-23-navalny-arrest-protests"
+      ]
+     },
+     "2020-09-27-karabakh-war": {
+      "id": "2020-09-27-karabakh-war",
+      "date": "2020-09-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Azerbaijan launches the Second Nagorno-Karabakh War, with Turkish drones",
+      "summary": "Azerbaijan's offensive, aided by Turkish Bayraktar drones and reportedly Syrian mercenaries, retook districts held by Armenia since 1994 and captured Shusha on Nov 8.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/9/28/azerbaijan-denies-turkey-sent-it-fighters-from-syria"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War"
+       }
+      ],
+      "entities": [
+       "azerbaijan",
+       "armenia",
+       "turkey",
+       "ilham-aliyev",
+       "nikol-pashinyan",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "storylines": [
+       "south-caucasus"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "military",
+      "where": [
+       "shusha",
+       "stepanakert"
+      ],
+      "related_stories": [
+       "2022-09-13-armenia-azerbaijan",
+       "2025-08-08-armenia-azerbaijan-deal",
+       "2023-09-19-karabakh-falls",
+       "2020-11-10-karabakh-ceasefire"
+      ]
+     },
+     "2021-07-21-nord-stream-2-deal": {
+      "id": "2021-07-21-nord-stream-2-deal",
+      "date": "2021-07-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-09-30",
+      "region": "Europe",
+      "title": "US and Germany settle their dispute over Nord Stream 2",
+      "summary": "Washington dropped efforts to block the Gazprom pipeline in exchange for German pledges to act if Russia used energy as a weapon. The line was completed in September but never entered service.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nord_Stream_2"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/us-germany-deal-nord-stream-2-pipeline-draws-ire-lawmakers-both-countries-2021-07-21/"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "germany",
+       "nord-stream",
+       "gazprom",
+       "angela-merkel"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-09-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "energy",
+      "unplaced": "Bilateral agreement.",
+      "related_stories": [
+       "2022-06-14-nordstream-cut",
+       "2022-02-22-nord-stream-2-halt"
+      ]
+     },
+     "2022-04-10-imran-khan": {
+      "id": "2022-04-10-imran-khan",
+      "date": "2022-04-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "Pakistan's PM Imran Khan ousted in no-confidence vote",
+      "summary": "Imran Khan became the first Pakistani prime minister removed by a no-confidence vote.",
+      "sources": [
+       {
+        "name": "Wikipedia: No-confidence motion against Imran Khan",
+        "url": "https://en.wikipedia.org/wiki/No-confidence_motion_against_Imran_Khan"
+       }
+      ],
+      "entities": [
+       "pakistan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2023-05-09-imran-khan-arrested"
+      ]
+     },
+     "2022-10-16-party-congress": {
+      "id": "2022-10-16-party-congress",
+      "date": "2022-10-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "CCP 20th Party Congress gives Xi a third term",
+      "summary": "The congress (16–22 October) cleared the way for Xi Jinping's norm-breaking third term and a loyalist Politburo Standing Committee.",
+      "sources": [
+       {
+        "name": "Wikipedia: 20th National Congress of the Chinese Communist Party",
+        "url": "https://en.wikipedia.org/wiki/20th_National_Congress_of_the_Chinese_Communist_Party"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping",
+       "taiwan"
+      ],
+      "storylines": [
+       "taiwan-indopacific",
+       "china-minerals-leverage"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2023-01-08-china-reopens"
+      ]
+     },
+     "2022-10-22-meloni-government": {
+      "id": "2022-10-22-meloni-government",
+      "date": "2022-10-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2022-12-30",
+      "region": "Europe",
+      "title": "Giorgia Meloni takes office as Italy's first woman prime minister",
+      "summary": "Her Brothers of Italy-led coalition was described as the first far-right-led government in Italy since the Second World War; it kept Rome firmly behind Ukraine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Meloni_government"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html"
+       }
+      ],
+      "entities": [
+       "italy",
+       "giorgia-meloni",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2022-12-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2022 (invasion year)",
+      "marker": "political",
+      "unplaced": "Government formation.",
+      "related_stories": []
+     },
+     "2021-11-07-nicaragua-sham-vote": {
+      "id": "2021-11-07-nicaragua-sham-vote",
+      "date": "2021-11-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-12-31",
+      "region": "Americas",
+      "title": "Ortega wins a fourth straight term after jailing his rivals",
+      "summary": "Police arrested seven potential opposition candidates before the vote. The EU and US rejected the result.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Nicaraguan_general_election"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/americas/20211107-nicaragua-s-ortega-seeks-fourth-consecutive-term-in-sham-presidential-election"
+       }
+      ],
+      "entities": [
+       "nicaragua",
+       "daniel-ortega"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-12-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": []
+     },
+     "2021-11-29-jcpoa-vienna": {
+      "id": "2021-11-29-jcpoa-vienna",
+      "date": "2021-11-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Vienna talks to revive the Iran nuclear deal resume under Raisi",
+      "summary": "Indirect US–Iran talks to restore the 2015 JCPOA resumed in Vienna, the first round under President Ebrahim Raisi's government.",
+      "sources": [
+       {
+        "name": "Wikipedia: Joint Comprehensive Plan of Action",
+        "url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
+       }
+      ],
+      "entities": [
+       "iran",
+       "united-states",
+       "jcpoa",
+       "ebrahim-raisi",
+       "european-union"
+      ],
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "causes": [
+       {
+        "story": "2020-11-27-fakhrizadeh-killed",
+        "why": "Iran expanded enrichment after the killing",
+        "confidence": "likely"
+       },
+       {
+        "story": "2020-11-03-us-election",
+        "why": "Biden sought a return to the deal",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-04-11-natanz-sabotage",
+        "why": "Iran raised enrichment after Natanz",
+        "confidence": "likely"
+       },
+       {
+        "story": "2021-06-18-raisi-elected",
+        "why": "Talks resumed under a hardline president",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-jcpoa-stall",
+        "why": "Culmination of the Vienna talks",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-11-03-us-election",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2022-09-jcpoa-stall",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "2025-09-28-iran-snapback"
+      ],
+      "revisions": [
+       {
+        "edition": "2020-12-31",
+        "why": "2020 backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2025-12-26",
+        "why": "Archive audit: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2021-05-10-gaza-war": {
+      "id": "2021-05-10-gaza-war",
+      "date": "2021-05-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-06-30",
+      "region": "Middle East",
+      "title": "Eleven-day Gaza war after clashes in Jerusalem",
+      "summary": "Protests over planned evictions in Sheikh Jarrah and police raids on Al-Aqsa led Hamas and Islamic Jihad to fire rockets on May 10. Israel bombed Gaza until a ceasefire on May 21.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis"
+       },
+       {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2021/05/1091492"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2021/may/10/dozens-injured-in-clashes-over-israeli-settlements-ahead-of-jerusalem-day-march"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas",
+       "palestinian-islamic-jihad",
+       "benjamin-netanyahu"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-06-30",
+      "analysis": {
+       "text": "Hamas drew the lesson that it could link Gaza to Jerusalem, a theme it later used to justify October 7.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "military",
+      "where": [
+       "jerusalem",
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2025-03-18-gaza-war-resumes",
+       "2024-11-21-icc-netanyahu-warrant",
+       "gaza-drone-strikes-oct17",
+       "2023-10-07-hamas-attack"
+      ]
+     },
+     "2018-04-16-zte-export-ban": {
+      "id": "2018-04-16-zte-export-ban",
+      "date": "2018-04-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Americas",
+      "title": "US bars American firms from selling to ZTE",
+      "summary": "Commerce imposed a seven-year ban for sanctions-busting sales to Iran and North Korea, nearly killing the company; Trump lifted it in July after a settlement.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ZTE"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "zte",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "ai-compute-minerals",
+       "us-tariffs-trade"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Commerce Department order.",
+      "related_stories": []
+     },
+     "2018-06-13-hodeidah-offensive": {
+      "id": "2018-06-13-hodeidah-offensive",
+      "date": "2018-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "Saudi- and UAE-led forces assault the Houthi-held port of Hodeidah",
+      "summary": "The coalition's biggest battle of the war targeted Yemen's main aid lifeline and raised fears of famine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Hodeidah"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/2018/jun/13/yemen-port-city-hodeidah-panic-fear-saudi-led-forces"
+       }
+      ],
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "houthis",
+       "yemen"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "military",
+      "where": [
+       "hodeidah"
+      ],
+      "related_stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "2026-01-09-stc-dissolution",
+       "2026-07-20-houthi-saudi-blockade",
+       "2025-12-03-stc-seizes-hadramawt",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift"
+      ]
+     },
+     "2018-05-20-maduro-reelected": {
+      "id": "2018-05-20-maduro-reelected",
+      "date": "2018-05-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Americas",
+      "title": "Maduro wins a second term in a vote widely called a sham",
+      "summary": "Major opposition parties were barred and turnout was the lowest of Venezuela's democratic era; the US, the EU and Latin American governments refused to recognise the result.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Venezuelan_presidential_election"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/may/21/venezuela-elections-nicolas-maduro-wins-second-term"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "nicolas-maduro"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": []
+     },
+     "2018-05-08-us-quits-jcpoa": {
+      "id": "2018-05-08-us-quits-jcpoa",
+      "date": "2018-05-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "Trump withdraws the US from the Iran nuclear deal and restores sanctions",
+      "summary": "France, Germany and Britain said the 2015 deal remained binding; US 'maximum pressure' sanctions, including on oil, were reimposed over the following months.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Iran_nuclear_deal"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/may/08/trump-iran-decision-sanctions-waiver-nuclear-deal-continue"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "iran",
+       "jcpoa",
+       "france",
+       "germany",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "analysis": {
+       "text": "The withdrawal began the cycle of Iranian escalation, tanker attacks and nuclear expansion that ran to the 2025–26 wars.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-09-jcpoa-stall",
+       "gfs-pride-sunk",
+       "trump-disgrace-eu-summit",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "iran-seven-day-hormuz-offer",
+       "2020-01-03-soleimani-killed",
+       "2021-09-15-aukus",
+       "2019-06-20-global-hawk-downed",
+       "2018-04-14-us-uk-france-strike-syria"
+      ]
+     },
+     "2018-07-30-wagner-car-journalists": {
+      "id": "2018-07-30-wagner-car-journalists",
+      "date": "2018-07-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Africa",
+      "title": "Three Russian journalists investigating Wagner are killed in the Central African Republic",
+      "summary": "They died in an ambush three days after arriving, as Russian mercenaries began guarding President Touadéra's government.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/07/31/world/africa/russian-journalists-killed-central-african-republic.html"
+       }
+      ],
+      "entities": [
+       "wagner-group",
+       "central-african-republic",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Ambush site outside Bangui not precisely located.",
+      "related_stories": []
+     },
+     "2018-08-27-un-myanmar-genocide-call": {
+      "id": "2018-08-27-un-myanmar-genocide-call",
+      "date": "2018-08-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "UN investigators call for Myanmar's generals to be tried for genocide",
+      "summary": "The fact-finding mission named commander Min Aung Hlaing over the 2017 expulsion of Rohingya; Facebook removed his account.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rohingya_genocide"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "min-aung-hlaing",
+       "rohingya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "UN report.",
+      "related_stories": []
+     },
+     "2018-08-13-xinjiang-un-review": {
+      "id": "2018-08-13-xinjiang-un-review",
+      "date": "2018-08-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "UN panel says China may be holding a million Uyghurs in camps",
+      "summary": "At a UN anti-racism committee review, members cited credible reports of mass detention in Xinjiang; Beijing first denied the camps and later called them vocational centres.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xinjiang_internment_camps"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2018/08/13/asia/china-xinjiang-uyghur-united-nations-intl/index.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xinjiang-camps"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "UN review in Geneva about camps across Xinjiang.",
+      "related_stories": []
+     },
+     "2018-03-04-skripal-poisoning": {
+      "id": "2018-03-04-skripal-poisoning",
+      "date": "2018-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Europe",
+      "title": "Former spy Sergei Skripal is poisoned with Novichok in Salisbury",
+      "summary": "Britain blamed Russia's GRU; the UK and its allies expelled more than 150 Russian diplomats.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2018/mar/07/russian-spy-police-appeal-for-witnesses-as-cobra-meeting-takes-place"
+       }
+      ],
+      "entities": [
+       "sergei-skripal",
+       "russia",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "strike",
+      "where": [
+       "salisbury"
+      ],
+      "related_stories": []
+     },
+     "2018-04-23-armenia-velvet-revolution": {
+      "id": "2018-04-23-armenia-velvet-revolution",
+      "date": "2018-04-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Armenia's 'Velvet Revolution' ousts Serzh Sargsyan",
+      "summary": "Mass protests led by Nikol Pashinyan forced Sargsyan out days after he moved from president to prime minister; Pashinyan was elected PM in May.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Armenian_Revolution"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/04/23/world/europe/armenia-prime-minister-protests.html"
+       }
+      ],
+      "entities": [
+       "armenia",
+       "nikol-pashinyan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "south-caucasus"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "yerevan"
+      ],
+      "related_stories": []
+     },
+     "2018-07-11-trump-nord-stream-2": {
+      "id": "2018-07-11-trump-nord-stream-2",
+      "date": "2018-07-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Europe",
+      "title": "Trump says Germany is 'captive of Russia' over Nord Stream 2",
+      "summary": "At the NATO summit in Brussels he attacked the Baltic gas pipeline and pressed allies to spend more on defence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nord_Stream_2"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2018/jul/11/germany-and-russia-gas-links-trump-questions-europe-nord-stream2"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "germany",
+       "angela-merkel",
+       "nord-stream-2",
+       "nato",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "energy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2022-02-27-zeitenwende",
+       "trump-disgrace-eu-summit"
+      ]
+     },
+     "2018-07-25-imran-khan-elected": {
+      "id": "2018-07-25-imran-khan-elected",
+      "date": "2018-07-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-09-30",
+      "region": "Asia-Pacific",
+      "title": "Imran Khan's PTI wins Pakistan's election",
+      "summary": "Opponents alleged military 'engineering'. Khan became prime minister on Aug 18 at the head of a coalition.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Pakistani_general_election"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/jul/27/pakistan-election-imran-khan-official-results-win-coalition"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "imran-khan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": []
+     },
+     "2018-03-11-xi-term-limits-scrapped": {
+      "id": "2018-03-11-xi-term-limits-scrapped",
+      "date": "2018-03-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Asia-Pacific",
+      "title": "China scraps presidential term limits, letting Xi rule indefinitely",
+      "summary": "The National People's Congress approved the constitutional amendment, ending the post-Deng two-term norm.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_amendment_to_the_Constitution_of_China"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2018/03/11/world/asia/china-xi-constitution-term-limits.html"
+       }
+      ],
+      "entities": [
+       "china",
+       "xi-jinping"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": []
+     },
+     "2018-03-04-italy-populist-vote": {
+      "id": "2018-03-04-italy-populist-vote",
+      "date": "2018-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-03-31",
+      "region": "Europe",
+      "title": "Populists win Italy's election; a Five Star–League government follows",
+      "summary": "The anti-establishment Five Star Movement came first and Matteo Salvini's League led the right. On June 1 they formed a coalition under Giuseppe Conte.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Italian_general_election"
+       }
+      ],
+      "entities": [
+       "italy",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-03-31",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": []
+     },
+     "2018-04-18-nicaragua-protests": {
+      "id": "2018-04-18-nicaragua-protests",
+      "date": "2018-04-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Americas",
+      "title": "Nicaragua's pension protests turn into a deadly uprising against Ortega",
+      "summary": "Ortega cancelled the social-security reform, but the crackdown that followed killed hundreds and he banned opposition protests that September.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018_Nicaraguan_protests"
+       },
+       {
+        "name": "NPR",
+        "url": "https://www.npr.org/sections/thetwo-way/2018/04/22/604762080/violent-unrest-continues-in-nicaragua-over-social-security-reforms"
+       }
+      ],
+      "entities": [
+       "nicaragua",
+       "daniel-ortega"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "political",
+      "unplaced": "Nationwide protests.",
+      "related_stories": []
+     },
+     "2018-05-14-jerusalem-embassy-gaza": {
+      "id": "2018-05-14-jerusalem-embassy-gaza",
+      "date": "2018-05-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2018-06-30",
+      "region": "Middle East",
+      "title": "US opens its embassy in Jerusalem as Israeli fire kills dozens at the Gaza fence",
+      "summary": "The move followed Trump's 2017 recognition of Jerusalem as Israel's capital. About 58 Palestinians were killed the same day in the 'Great March of Return' protests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Jerusalem"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2018%E2%80%932019_Gaza_border_protests"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2018/may/15/palestinians-to-bury-58-people-killed-in-us-embassy-protests"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "israel",
+       "jerusalem",
+       "hamas",
+       "donald-trump"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2018-06-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2018 (trade war and summitry)",
+      "marker": "diplomacy",
+      "where": [
+       "us-embassy-jerusalem"
+      ],
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "2026-02-28-iran-war-begins",
+       "2026-10-gaza-phase-two-stalled",
+       "2025-06-22-midnight-hammer",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-06-10-unsc-2735",
+       "2020-08-13-abraham-accords",
+       "2020-12-14-sudan-delisted",
+       "2019-03-25-golan-recognition"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion",
+       "2025-01-07-us-rsf-genocide",
+       "2020-04-25-stc-self-rule",
+       "2020-08-13-abraham-accords",
+       "2020-11-14-western-sahara-clashes",
+       "2020-12-14-sudan-delisted",
+       "2021-01-05-al-ula-qatar",
+       "2019-12-11-aramco-ipo"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal"
+      ],
+      "source": "inbox"
+     },
+     "europe-populism": {
+      "id": "europe-populism",
+      "name": "Europe's populist wave & the EU's eastern frontier",
+      "entities": [
+       "european-union",
+       "hungary",
+       "slovakia",
+       "netherlands",
+       "poland",
+       "romania",
+       "georgia",
+       "moldova"
+      ],
+      "stories": [
+       "2023-09-30-fico-wins",
+       "2023-10-15-poland-tusk",
+       "2023-11-22-wilders-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2024-12-06-romania-vote-annulled",
+       "2025-06-01-nawrocki-elected",
+       "2025-10-04-babis-wins",
+       "2026-04-12-orban-ousted",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-07-07-france-hung-parliament",
+       "2022-10-22-meloni-government",
+       "2018-03-04-italy-populist-vote"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected"
+      ],
+      "source": "threads.md"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated",
+       "2021-09-26-german-election",
+       "2025-02-23-german-election",
+       "2025-09-10-drones-over-poland",
+       "2019-07-24-johnson-pm",
+       "2019-12-12-johnson-landslide",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-07-11-trump-nord-stream-2"
+      ],
+      "source": "inbox"
+     },
+     "ai-compute-minerals": {
+      "id": "ai-compute-minerals",
+      "name": "AI compute → critical minerals",
+      "entities": [
+       "ai-data-centers",
+       "copper",
+       "gallium",
+       "rare-earths",
+       "coltan"
+      ],
+      "stories": [
+       "ai-minerals",
+       "rare-earth-nov10",
+       "rubaya-coltan",
+       "2022-03-08-lme-nickel",
+       "2022-04-19-mexico-lithium",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-16-ira",
+       "2022-08-31-nvidia-ban",
+       "2022-10-07-bis-controls",
+       "kabila-frn-succeeds-afc",
+       "2025-01-27-deepseek-shock",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-07-10-mp-materials-dod",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-20-us-australia-minerals",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-08-h200-china",
+       "2024-12-03-china-bans-gallium-to-us",
+       "2022-11-30-chatgpt-launch",
+       "2023-10-17-us-chip-rules-tightened",
+       "2020-05-15-huawei-fdpr",
+       "2019-05-15-huawei-entity-list",
+       "2019-07-04-japan-korea-trade-dispute",
+       "2018-04-16-zte-export-ban"
+      ],
+      "source": "threads.md"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-11-24-china-cables",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-04-16-zte-export-ban",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-09-30-usmca-deal"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-03-06-true-confidence",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2024-12-26-suez-revenue-loss",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift",
+       "2019-09-14-abqaiq-attack",
+       "2018-06-13-hodeidah-offensive",
+       "2018-08-09-dahyan-bus-strike"
+      ],
+      "source": "threads.md"
+     },
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-07-us-rsf-genocide",
+       "2025-01-11-wad-madani-retaken",
+       "2020-10-03-juba-agreement",
+       "2020-12-14-sudan-delisted",
+       "2019-04-11-bashir-ousted",
+       "2019-06-03-khartoum-massacre"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
