@@ -68349,5 +68349,321 @@
    "2011-04-11-gbagbo-captured",
    "2004-11-06-france-ivory-coast-clash"
   ]
+ },
+ {
+  "id": "2003-04-29-us-leaves-saudi-bases",
+  "date": "2003-04-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Middle East",
+  "title": "US says it will pull most forces out of Saudi Arabia",
+  "summary": "Operations shifted from Prince Sultan Air Base to Qatar.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "saudi-arabia",
+   "qatar"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "gulf-realignment"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "military",
+  "where": [
+   "prince-sultan-air-base"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-04-30-road-map",
+  "date": "2003-04-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Middle East",
+  "title": "The Quartet publishes a 'road map' for Israeli–Palestinian peace",
+  "summary": "Its phased plan for a Palestinian state was never carried out.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Road_map_for_peace"
+   }
+  ],
+  "entities": [
+   "israel",
+   "united-states",
+   "european-union",
+   "russia"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "diplomacy",
+  "where": [
+   "jerusalem"
+  ],
+  "related_stories": [
+   "2022-02-26-swift-cbr",
+   "2022-09-02-price-cap",
+   "trump-disgrace-eu-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2024-06-10-unsc-2735",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2013-11-24-iran-interim-deal"
+  ]
+ },
+ {
+  "id": "2003-05-01-mission-accomplished",
+  "date": "2003-05-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Americas",
+  "title": "Bush declares major combat operations in Iraq over",
+  "summary": "The 'Mission Accomplished' banner came to symbolise the war's misjudgments.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mission_Accomplished_speech"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "george-w-bush",
+   "iraq"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "military",
+  "unplaced": "Aboard the USS Abraham Lincoln off California.",
+  "related_stories": [
+   "2007-01-10-iraq-surge-announced",
+   "2003-03-20-iraq-invasion"
+  ]
+ },
+ {
+  "id": "2003-05-12-riyadh-compound-bombings",
+  "date": "2003-05-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Middle East",
+  "title": "Al-Qaeda suicide bombers attack housing compounds in Riyadh",
+  "summary": "It began al-Qaeda's campaign inside Saudi Arabia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riyadh_compound_bombings"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "war-on-terror"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "strike",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-05-16-de-baathification",
+  "date": "2003-05-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Middle East",
+  "title": "US authority in Iraq orders de-Baathification and then disbands the army",
+  "summary": "The orders put many Sunnis out of work, and some of the ex-officers later joined the Islamic State.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/De-Ba%27athification"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coalition_Provisional_Authority"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "iraq-war",
+   "isis-war"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "political",
+  "where": [
+   "baghdad"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-05-16-casablanca-bombings",
+  "date": "2003-05-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Africa",
+  "title": "Suicide bombers strike Casablanca",
+  "summary": "Morocco launched a crackdown on Islamists.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2003_Casablanca_bombings"
+   }
+  ],
+  "entities": [
+   "morocco",
+   "al-qaeda"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "war-on-terror"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "strike",
+  "where": [
+   "casablanca"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-05-25-kirchner-takes-office",
+  "date": "2003-05-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Americas",
+  "title": "Néstor Kirchner takes office in Argentina after its default",
+  "summary": "He restructured the debt and broke with the IMF.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner"
+   }
+  ],
+  "entities": [
+   "argentina",
+   "nestor-kirchner",
+   "imf"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "political",
+  "where": [
+   "buenos-aires"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-06-12-operation-artemis",
+  "date": "2003-06-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Africa",
+  "title": "French-led EU force deploys to Bunia in eastern Congo",
+  "summary": "Operation Artemis was the EU's first military mission outside Europe.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Artemis"
+   }
+  ],
+  "entities": [
+   "france",
+   "european-union",
+   "drc"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "drc-m23-minerals"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "military",
+  "where": [
+   "bunia"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2003-04-09-baghdad-falls",
+  "date": "2003-04-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2003-06-30",
+  "region": "Middle East",
+  "title": "Baghdad falls and Saddam's statue is pulled down in Firdos Square",
+  "summary": "Looting followed as the regime collapsed.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Baghdad_%282003%29"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Firdos_Square_statue_destruction"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq",
+   "saddam-hussein"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2003-06-30",
+  "storylines": [
+   "iraq-war"
+  ],
+  "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+  "marker": "military",
+  "where": [
+   "firdos-square"
+  ],
+  "related_stories": [
+   "2003-03-20-iraq-invasion"
+  ]
  }
 ]
