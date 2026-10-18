@@ -26242,6 +26242,576 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2024-12-28": {
+   "sha256": "2db75fb610d130f7d3886fb29fb25eccbfee244ecdf638af15c40ff0bf60758f",
+   "undo": {
+    "stories": {
+     "2024-01-01-ethiopia-somaliland-mou": null,
+     "2024-05-25-burkina-extends-transition": null,
+     "2024-08-03-lashio-falls": null,
+     "2024-09-08-gonzalez-exile": null,
+     "2024-10-01-israel-invades-lebanon": null,
+     "2024-10-26-israel-strikes-iran": null,
+     "2024-10-21-pakistan-26th-amendment": null,
+     "2024-12-11-ankara-declaration": null,
+     "2024-12-20-arakan-army-ann": null,
+     "2022-09-30-burkina-coup2": {
+      "id": "2022-09-30-burkina-coup2",
+      "date": "2022-09-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Second Burkina coup: Capt. Ibrahim Traoré ousts Damiba",
+      "summary": "Junior officers led by Ibrahim Traoré overthrew Damiba; some supporters waved Russian flags.",
+      "sources": [
+       {
+        "name": "Wikipedia: September 2022 Burkina Faso coup d'état",
+        "url": "https://en.wikipedia.org/wiki/September_2022_Burkina_Faso_coup_d'état"
+       }
+      ],
+      "entities": [
+       "burkina-faso",
+       "ibrahim-traore",
+       "sahel",
+       "russia",
+       "france"
+      ],
+      "storylines": [
+       "sahel"
+      ],
+      "causes": [
+       {
+        "story": "2022-01-24-burkina-coup",
+        "why": "Failure to stem jihadist violence",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-17-france-leaves-mali",
+        "why": "Anti-French and pro-Russian current across the Sahel",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2023-07-26-niger-coup",
+       "2024-08-24-barsalogho-massacre"
+      ]
+     },
+     "2023-10-27-operation-1027": {
+      "id": "2023-10-27-operation-1027",
+      "date": "2023-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2023-12-31",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's Three Brotherhood Alliance launches Operation 1027 and routs the junta in northern Shan",
+      "summary": "The ethnic armed alliance seized towns and border crossings with China, the junta's worst defeats since the 2021 coup, triggering wider resistance offensives.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2023/10/27/ethnic-rebel-alliance-attacks-military-positions-across-northern-myanmar"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_1027"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "three-brotherhood-alliance",
+       "min-aung-hlaing",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2023-12-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2022–23 (attrition and Oct 7)",
+      "marker": "military",
+      "unplaced": "Northern Shan State.",
+      "related_stories": [
+       "2026-01-30-myanmar-junta-election"
+      ]
+     },
+     "2024-07-28-venezuela-stolen-election": {
+      "id": "2024-07-28-venezuela-stolen-election",
+      "date": "2024-07-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Americas",
+      "title": "Maduro claims victory in Venezuela's election; the opposition's tallies show González won",
+      "summary": "The electoral council declared Maduro the winner without detailed results. The opposition led by María Corina Machado published precinct tallies showing a large win for Edmundo González, who later fled into exile, while a crackdown followed.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/latin-american-leaders-react-venezuela-election-results-2024-07-29/"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/article/2024/jul/29/venezuela-election-result-suspicion-abroad-nicolas-maduro"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2024/07/31/world/americas/venezuela-election-vote-flaws.html"
+       }
+      ],
+      "entities": [
+       "venezuela",
+       "nicolas-maduro",
+       "maria-corina-machado"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-05-us-venezuela-talks",
+        "why": "US engagement with Maduro since 2022 failed to produce a fair vote",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "venezuela-oil",
+       "western-hemisphere"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "caracas"
+      ],
+      "related_stories": [
+       "2022-03-05-us-venezuela-talks",
+       "2025-10-10-machado-nobel",
+       "2025-09-02-boat-strikes-begin"
+      ]
+     },
+     "2024-09-17-pager-attacks": {
+      "id": "2024-09-17-pager-attacks",
+      "date": "2024-09-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Middle East",
+      "title": "Exploding pagers and radios maim Hezbollah; Israel kills Nasrallah ten days later",
+      "summary": "On Sep 17–18 thousands of booby-trapped pagers and radios exploded across Lebanon. Israel then launched a heavy air campaign and on Sep 27 killed Secretary-General Hassan Nasrallah in Beirut, followed by a ground invasion on Oct 1.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/program/newsfeed/2024/9/17/exploding-pagers-injure-thousands-in-lebanon-in-attack-targeting-hezbollah"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Hassan_Nasrallah"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hezbollah",
+       "hassan-nasrallah",
+       "lebanon"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "where": [
+       "beirut"
+      ],
+      "related_stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-10-01-iran-missile-barrage",
+       "2024-11-27-israel-hezbollah-ceasefire"
+      ]
+     },
+     "2024-10-01-iran-missile-barrage": {
+      "id": "2024-10-01-iran-missile-barrage",
+      "date": "2024-10-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-31",
+      "region": "Middle East",
+      "title": "Iran fires about 200 ballistic missiles at Israel; Israel strikes back on Oct 26",
+      "summary": "Citing the killings of Haniyeh and Nasrallah, Iran launched its largest direct attack. On Oct 26 Israel struck Iranian air defences and missile production sites.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2024/oct/01/israel-vows-to-retaliate-after-iran-launches-unprecedented-missile-attack"
+       },
+       {
+        "name": "Al Jazeera (timeline)",
+        "url": "https://www.aljazeera.com/news/2024/10/2/timeline-the-key-moments-that-led-to-irans-missile-attacks-on-israel"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel"
+       }
+      ],
+      "entities": [
+       "iran",
+       "israel",
+       "irgc"
+      ],
+      "causes": [
+       {
+        "story": "2024-07-31-haniyeh-killed",
+        "why": "Revenge for Haniyeh",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-09-17-pager-attacks",
+        "why": "Revenge for Nasrallah",
+        "confidence": "likely"
+       },
+       {
+        "story": "2023-10-07-hamas-attack",
+        "why": "Regional war set off by Oct 7",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "strike",
+      "unplaced": "Launched from Iran across the region.",
+      "related_stories": [
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2023-10-07-hamas-attack",
+       "2025-06-13-israel-strikes-iran",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2026-02-28-iran-war-begins",
+       "2024-04-13-iran-strikes-israel"
+      ],
+      "revisions": [
+       {
+        "edition": "2023-12-31",
+        "why": "Nov 2022–2023 backfill: link to 2023 causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2024-02-08-pakistan-election": {
+      "id": "2024-02-08-pakistan-election",
+      "date": "2024-02-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-29",
+      "region": "Asia-Pacific",
+      "title": "Pakistan election: Khan-backed independents win the most seats but Sharif forms the government",
+      "summary": "With Khan jailed and his PTI stripped of its symbol, independents backed by the PTI won 93 seats, more than PML-N's 75 and PPP's 54. Amid rigging allegations, PML-N and PPP formed a coalition and Shehbaz Sharif returned as PM in March.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/2/8/pakistan-voting-ends-results-expected-soon-amid-charges-of-manipulation"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/how-will-pakistan-form-its-next-government-2024-02-12/"
+       },
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/asia-pacific/20240208-polls-open-in-pakistan-with-khan-in-jail-and-sharif-tipped-to-win"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2024_Pakistani_general_election"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "imran-khan",
+       "shehbaz-sharif",
+       "asim-munir"
+      ],
+      "causes": [
+       {
+        "story": "2023-05-09-imran-khan-arrested",
+        "why": "Khan jailed and barred",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-29",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "unplaced": "A national election.",
+      "related_stories": [
+       "2023-05-09-imran-khan-arrested"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair"
+      ],
+      "source": "threads.md"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel"
+      ],
+      "source": "threads.md"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }

@@ -5031,7 +5031,8 @@
    "2022-01-24-burkina-coup",
    "2022-02-17-france-leaves-mali",
    "2023-07-26-niger-coup",
-   "2024-08-24-barsalogho-massacre"
+   "2024-08-24-barsalogho-massacre",
+   "2024-05-25-burkina-extends-transition"
   ]
  },
  {
@@ -18823,7 +18824,8 @@
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
    "2025-10-10-machado-nobel",
-   "2025-09-02-boat-strikes-begin"
+   "2025-09-02-boat-strikes-begin",
+   "2024-09-08-gonzalez-exile"
   ]
  },
  {
@@ -19096,7 +19098,8 @@
    "2026-10-14-lebanon-yellow-line",
    "2025-08-05-lebanon-disarm-hezbollah",
    "2024-10-01-iran-missile-barrage",
-   "2024-11-27-israel-hezbollah-ceasefire"
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "2024-10-01-israel-invades-lebanon"
   ]
  },
  {
@@ -19221,7 +19224,8 @@
    "hormuz-attacks-surge",
    "us-iran-talks-deadlock",
    "2026-02-28-iran-war-begins",
-   "2024-04-13-iran-strikes-israel"
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-26-israel-strikes-iran"
   ],
   "revisions": [
    {
@@ -20975,7 +20979,9 @@
   "marker": "military",
   "unplaced": "Northern Shan State.",
   "related_stories": [
-   "2026-01-30-myanmar-junta-election"
+   "2026-01-30-myanmar-junta-election",
+   "2024-08-03-lashio-falls",
+   "2024-12-20-arakan-army-ann"
   ]
  },
  {
@@ -22560,7 +22566,8 @@
   "marker": "political",
   "unplaced": "A national election.",
   "related_stories": [
-   "2023-05-09-imran-khan-arrested"
+   "2023-05-09-imran-khan-arrested",
+   "2024-10-21-pakistan-26th-amendment"
   ]
  },
  {
@@ -23531,6 +23538,473 @@
    "2025-08-05-lebanon-disarm-hezbollah",
    "2024-09-17-pager-attacks",
    "2024-11-27-israel-hezbollah-ceasefire"
+  ]
+ },
+ {
+  "id": "2024-01-01-ethiopia-somaliland-mou",
+  "date": "2024-01-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Africa",
+  "title": "Ethiopia signs a sea-access MoU with breakaway Somaliland, enraging Somalia",
+  "summary": "Abiy and Somaliland's Muse Bihi Abdi agreed a memorandum that Somaliland said leased 20 km of coast near Berbera to Ethiopia's navy for 50 years in exchange for future recognition. Somalia declared it null and void and drew closer to Egypt and Turkey.",
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/world-africa-67858566"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/somalias-cabinet-calls-emergency-meet-ethiopia-somaliland-port-deal-2024-01-02/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/somaliland-ethiopia-agreement-security-sea-access-f00ef41ece46c4618b007385e4d476a6"
+   }
+  ],
+  "entities": [
+   "ethiopia",
+   "somaliland",
+   "somalia",
+   "abiy-ahmed"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "where": [
+   "berbera"
+  ],
+  "related_stories": [
+   "2024-12-11-ankara-declaration"
+  ]
+ },
+ {
+  "id": "2024-05-25-burkina-extends-transition",
+  "date": "2024-05-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Africa",
+  "title": "Burkina Faso's junta extends its rule by five years and makes Traoré eligible to run",
+  "summary": "A revised transition charter signed by Traoré set 60 more months from Jul 2 2024, renamed him 'President of Faso' and allowed him to stand in the elections that end the transition. Elections could come earlier 'if security permits'.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/burkina-faso-extends-junta-rule-by-five-years-2024-05-25/"
+   },
+   {
+    "name": "Présidence du Faso",
+    "url": "https://www.presidencedufaso.bf/assises-nationales-sur-la-suite-de-la-transition-les-forces-vives-consacrent-le-statut-de-president-du-faso-au-capitaine-ibrahim-traore/"
+   },
+   {
+    "name": "ILO NATLEX (charter)",
+    "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=118687"
+   }
+  ],
+  "entities": [
+   "burkina-faso",
+   "ibrahim-traore"
+  ],
+  "causes": [
+   {
+    "story": "2022-09-30-burkina-coup2",
+    "why": "Consolidates Traoré's 2022 seizure of power",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "Signed in Ouagadougou (no place entity).",
+  "related_stories": [
+   "2022-09-30-burkina-coup2"
+  ]
+ },
+ {
+  "id": "2024-08-03-lashio-falls",
+  "date": "2024-08-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Asia-Pacific",
+  "title": "Kokang MNDAA captures Lashio, the first Myanmar regional command to fall",
+  "summary": "After the Chinese-brokered pause in Operation 1027 collapsed, the MNDAA overran the Northeastern Command in northern Shan State. The junta admitted senior officers were captured.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/myanmar-junta-says-senior-officers-held-rebels-take-over-major-base-2024-08-05/"
+   },
+   {
+    "name": "The Irrawaddy",
+    "url": "https://www.irrawaddy.com/news/war-against-the-junta/domino-effects-historic-defeat-of-myanmar-military-command-shakes-junta.html"
+   },
+   {
+    "name": "Radio Free Asia",
+    "url": "https://www.rfa.org/english/news/myanmar/junta-officers-captured-mndaa-says-08052024063520.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Lashio"
+   }
+  ],
+  "entities": [
+   "mndaa",
+   "three-brotherhood-alliance",
+   "myanmar",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2023-10-27-operation-1027",
+    "why": "Second phase of the 1027 offensive",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "lashio"
+  ],
+  "related_stories": [
+   "2023-10-27-operation-1027"
+  ]
+ },
+ {
+  "id": "2024-09-08-gonzalez-exile",
+  "date": "2024-09-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Americas",
+  "title": "Edmundo González flees Venezuela for asylum in Spain after an arrest warrant",
+  "summary": "The opposition candidate, whose precinct tallies showed he won the July vote, flew to a Spanish air base near Madrid. Machado stayed in hiding inside Venezuela until December 2025, when she slipped out by boat to Curaçao and reached Oslo just after her Nobel ceremony.",
+  "sources": [
+   {
+    "name": "Spain foreign ministry",
+    "url": "https://www.exteriores.gob.es/en/Comunicacion/Comunicados/Paginas/2024_COMUNICADOS/20240908_COMU049.aspx"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/americas/venezuela-opposition-leader-gonzalez-flies-spain-after-arrest-warrant-2024-09-08/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c14zdypxr7no"
+   },
+   {
+    "name": "The Guardian (Machado escape)",
+    "url": "https://www.theguardian.com/world/2025/dec/12/maria-corina-machado-escape-venezuela-us-norway"
+   }
+  ],
+  "entities": [
+   "edmundo-gonzalez",
+   "maria-corina-machado",
+   "venezuela",
+   "nicolas-maduro",
+   "spain"
+  ],
+  "causes": [
+   {
+    "story": "2024-07-28-venezuela-stolen-election",
+    "why": "Crackdown after the disputed vote",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "unplaced": "Caracas to Madrid.",
+  "related_stories": [
+   "2024-07-28-venezuela-stolen-election",
+   "2025-10-10-machado-nobel"
+  ]
+ },
+ {
+  "id": "2024-10-01-israel-invades-lebanon",
+  "date": "2024-10-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Middle East",
+  "title": "Israel launches a ground invasion of southern Lebanon",
+  "summary": "After the pager attacks and Nasrallah's killing, Israeli troops crossed the Blue Line in the sixth invasion since 1978, clearing border villages while bombing across Lebanon. UN peacekeepers came under fire. A US–French ceasefire took effect on Nov 27.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/russia-calls-israel-withdraw-troops-lebanon-2024-10-01/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/10/11/israeli-forces-again-target-un-peacekeepers-in-southern-lebanon"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2024_Lebanon_war"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hezbollah",
+   "lebanon"
+  ],
+  "causes": [
+   {
+    "story": "2024-09-17-pager-attacks",
+    "why": "Escalation after decapitating Hezbollah",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "unplaced": "Southern Lebanon border villages.",
+  "related_stories": [
+   "2024-09-17-pager-attacks",
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-10-14-lebanon-yellow-line",
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "2023-10-08-hezbollah-support-front"
+  ]
+ },
+ {
+  "id": "2024-10-26-israel-strikes-iran",
+  "date": "2024-10-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Middle East",
+  "title": "Israel's 'Days of Repentance' strikes hit Iran's air defences and missile factories",
+  "summary": "Over 100 aircraft struck about 20 sites in Iran plus radars in Syria and Iraq, the largest attack on Iran since the Iran–Iraq war, while sparing oil and nuclear sites. Iran said damage was limited and did not retaliate directly.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/10/26/iran-says-israeli-strikes-on-military-bases-caused-limited-damage"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2024/10/26/world/middleeast/israel-air-defenses-iran-energy-sites.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/british-pm-starmer-says-iran-should-not-respond-israeli-strikes-2024-10-26/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/October_2024_Israeli_strikes_on_Iran"
+   }
+  ],
+  "entities": [
+   "israel",
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "2024-10-01-iran-missile-barrage",
+    "why": "Retaliation for the Oct 1 barrage",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "analysis": {
+   "text": "Degrading Iran's air defences opened the way for the June 2025 'Rising Lion' campaign.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "strike",
+  "unplaced": "About 20 sites across Iran.",
+  "related_stories": [
+   "2024-10-01-iran-missile-barrage"
+  ]
+ },
+ {
+  "id": "2024-10-21-pakistan-26th-amendment",
+  "date": "2024-10-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Asia-Pacific",
+  "title": "Pakistan's 26th amendment lets parliament pick the chief justice",
+  "summary": "Passed overnight, it ended seniority-based appointment, created constitutional benches and curbed suo motu powers. The opposition PTI said it was meant to subdue a judiciary that had been ruling on Khan's cases.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/10/21/pakistan-passes-amendment-empowering-parliament-to-pick-top-judge"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2024/oct/21/pakistans-government-curbs-judiciarys-power-after-alleged-harassment-of-mps"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-empowers-parliament-pick-countrys-top-judge-2024-10-21/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_Constitution_of_Pakistan"
+   }
+  ],
+  "entities": [
+   "pakistan",
+   "shehbaz-sharif",
+   "imran-khan"
+  ],
+  "causes": [
+   {
+    "story": "2024-02-08-pakistan-election",
+    "why": "Government entrenched after the disputed vote",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "south-asia-security"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "political",
+  "where": [
+   "islamabad"
+  ],
+  "related_stories": [
+   "2024-02-08-pakistan-election"
+  ]
+ },
+ {
+  "id": "2024-12-11-ankara-declaration",
+  "date": "2024-12-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Africa",
+  "title": "Turkey brokers the Ankara Declaration, easing the Ethiopia–Somalia port row",
+  "summary": "Erdoğan hosted Abiy and Hassan Sheikh Mohamud, who agreed to negotiate commercial sea access for Ethiopia 'under the sovereign authority' of Somalia, sidelining the Somaliland MoU.",
+  "sources": [
+   {
+    "name": "Turkish foreign ministry (text)",
+    "url": "https://www.mfa.gov.tr/etiyopya-federal-demokratik-cumhuriyeti-ve-somali-federal-cumhuriyeti-nin-ankara-bildirisi.en.mfa"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2024/12/12/somalia-ethiopia-agree-on-compromise-to-end-tension-turkish-leader-says"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ankara_Declaration"
+   }
+  ],
+  "entities": [
+   "ethiopia",
+   "somalia",
+   "turkey",
+   "recep-tayyip-erdogan",
+   "abiy-ahmed",
+   "hassan-sheikh-mohamud"
+  ],
+  "causes": [
+   {
+    "story": "2024-01-01-ethiopia-somaliland-mou",
+    "why": "Defuses the MoU crisis",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "diplomacy",
+  "where": [
+   "ankara"
+  ],
+  "related_stories": [
+   "2024-01-01-ethiopia-somaliland-mou"
+  ]
+ },
+ {
+  "id": "2024-12-20-arakan-army-ann",
+  "date": "2024-12-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2024-12-28",
+  "region": "Asia-Pacific",
+  "title": "Arakan Army seizes the junta's Western Command at Ann, controlling most of Rakhine",
+  "summary": "After about two weeks of fighting, the AA took the headquarters and said it captured two brigadier generals. It was the second regional command lost by the military.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/myanmar-rebels-say-they-have-taken-juntas-western-regional-command-2024-12-21/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2024/dec/21/myanmar-rebels-claims-control-over-major-western-military-headquarters"
+   },
+   {
+    "name": "DVB",
+    "url": "https://english.dvb.no/arakan-army-seizes-western-regional-military-command-headquarters/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Ann"
+   }
+  ],
+  "entities": [
+   "arakan-army",
+   "myanmar",
+   "three-brotherhood-alliance"
+  ],
+  "causes": [
+   {
+    "story": "2023-10-27-operation-1027",
+    "why": "AA offensive in Rakhine began with 1027",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2024-12-28",
+  "storylines": [
+   "southeast-asia"
+  ],
+  "era": "2024 (wars widen; election year)",
+  "marker": "military",
+  "where": [
+   "ann-myanmar"
+  ],
+  "related_stories": [
+   "2023-10-27-operation-1027"
   ]
  }
 ]
