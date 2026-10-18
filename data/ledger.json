@@ -18211,6 +18211,273 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2023-03-31": {
+   "sha256": "3a927e16eeede991d24471563c816422bc038d5f92acc356a983d65007e3c915",
+   "undo": {
+    "stories": {
+     "2023-01-08-brasilia-attacks": null,
+     "2023-02-06-turkey-syria-quake": null,
+     "2023-03-10-saudi-iran-beijing": null,
+     "2023-03-10-svb-collapse": null,
+     "2022-10-30-lula": {
+      "id": "2022-10-30-lula",
+      "date": "2022-10-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "Lula defeats Bolsonaro in Brazil's presidential runoff",
+      "summary": "Luiz Inácio Lula da Silva narrowly won Brazil's runoff.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Brazilian general election",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election"
+       }
+      ],
+      "entities": [
+       "brazil",
+       "lula"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2026-10-04-brazil-first-round",
+       "2025-09-11-bolsonaro-convicted"
+      ]
+     },
+     "2022-04-02-yemen-truce": {
+      "id": "2022-04-02-yemen-truce",
+      "date": "2022-04-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "UN-brokered nationwide truce takes effect in Yemen",
+      "summary": "A two-month truce began on 2 April, halting offensive operations, letting fuel ships into Hodeidah and reopening some Sanaa flights. It was the first nationwide truce since 2016.",
+      "sources": [
+       {
+        "name": "UN (Grundberg statement)",
+        "url": "https://www.un.org/sg/en/content/sg/notes-correspondents/2022-04-01/note-correspondents-press-statement-the-un-special-envoy-for-yemen-hans-grundberg-two-month-truce"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/world-middle-east-60962188"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/yemens-warring-parties-agree-two-month-ceasefire-says-un-envoy-2022-04-01/"
+       }
+      ],
+      "entities": [
+       "yemen",
+       "houthis",
+       "saudi-arabia",
+       "red-sea",
+       "hodeidah",
+       "sanaa"
+      ],
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-25-jeddah-attack",
+        "why": "Costly strikes on Saudi infrastructure raised Riyadh's interest in de-escalation",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-04-07-plc",
+        "why": "Restructuring alongside the truce",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-10-02-truce-expires",
+        "why": "End of the truce period",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha"
+      ],
+      "marker": "diplomacy",
+      "where": [
+       "hodeidah",
+       "sanaa"
+      ]
+     },
+     "2022-06-15-fed-75": {
+      "id": "2022-06-15-fed-75",
+      "date": "2022-06-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "Fed raises rates 75bp, the biggest hike since 1994",
+      "summary": "The Federal Reserve raised rates by 0.75 point as US inflation hit a four-decade high.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021–2023 inflation surge",
+        "url": "https://en.wikipedia.org/wiki/2021–2023_inflation_surge"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "inflation",
+       "united-states"
+      ],
+      "storylines": [],
+      "causes": [
+       {
+        "story": "2022-03-16-fed-hike",
+        "why": "Escalating cycle",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-03-16-fed-hike"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt"
+      ],
+      "source": "inbox"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis"
+      ],
+      "source": "threads.md"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
