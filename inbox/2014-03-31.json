@@ -1,0 +1,456 @@
+{
+ "edition": "2014-03-31",
+ "entities": [
+  {
+   "id": "viktor-yanukovych",
+   "name": "Viktor Yanukovych",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Yanukovych"
+  },
+  {
+   "id": "dpr-lpr",
+   "name": "Donetsk and Luhansk 'people's republics'",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic"
+  },
+  {
+   "id": "yazidis",
+   "name": "Yazidis",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yazidis"
+  },
+  {
+   "id": "prayut-chan-o-cha",
+   "name": "Prayut Chan-o-cha",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Prayut_Chan-o-cha"
+  },
+  {
+   "id": "enrique-pena-nieto",
+   "name": "Enrique Peña Nieto",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto"
+  },
+  {
+   "id": "blaise-compaore",
+   "name": "Blaise Compaoré",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Compaor%C3%A9"
+  },
+  {
+   "id": "raul-castro",
+   "name": "Raúl Castro",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro"
+  },
+  {
+   "id": "petrobras",
+   "name": "Petrobras",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Petrobras"
+  },
+  {
+   "id": "liberia",
+   "name": "Liberia",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Liberia"
+  },
+  {
+   "id": "sierra-leone",
+   "name": "Sierra Leone",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Leone"
+  },
+  {
+   "id": "belt-and-road",
+   "name": "Belt and Road Initiative",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Belt_and_Road_Initiative"
+  },
+  {
+   "id": "simferopol",
+   "name": "Simferopol",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Simferopol",
+   "lat": 44.95,
+   "lon": 34.1,
+   "precision": "city"
+  },
+  {
+   "id": "ilovaisk",
+   "name": "Ilovaisk",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ilovaisk",
+   "lat": 47.926,
+   "lon": 38.194,
+   "precision": "city"
+  },
+  {
+   "id": "sinjar-mountains",
+   "name": "Sinjar Mountains",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sinjar_Mountains",
+   "lat": 36.36672778,
+   "lon": 41.72183889,
+   "precision": "feature"
+  },
+  {
+   "id": "tikrit",
+   "name": "Tikrit",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tikrit",
+   "lat": 34.61,
+   "lon": 43.68,
+   "precision": "city"
+  },
+  {
+   "id": "chibok",
+   "name": "Chibok",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chibok",
+   "lat": 10.86972222,
+   "lon": 12.84666667,
+   "precision": "city"
+  },
+  {
+   "id": "paracel-islands",
+   "name": "Paracel Islands",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paracel_Islands",
+   "lat": 16.66666667,
+   "lon": 112.33333333,
+   "precision": "feature"
+  },
+  {
+   "id": "maidan",
+   "name": "Maidan Nezalezhnosti, Kyiv",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti",
+   "lat": 50.45,
+   "lon": 30.52416667,
+   "precision": "feature"
+  },
+  {
+   "id": "peshawar",
+   "name": "Peshawar",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Peshawar",
+   "lat": 34.01444444,
+   "lon": 71.5675,
+   "precision": "city"
+  },
+  {
+   "id": "iguala",
+   "name": "Iguala",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Iguala",
+   "lat": 18.345,
+   "lon": -99.53833333,
+   "precision": "city"
+  },
+  {
+   "id": "legislative-yuan",
+   "name": "Legislative Yuan, Taipei",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Legislative_Yuan",
+   "lat": 25.0439,
+   "lon": 121.5196,
+   "precision": "feature"
+  },
+  {
+   "id": "admiralty-hk",
+   "name": "Admiralty, Hong Kong",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Admiralty%2C_Hong_Kong",
+   "lat": 22.279636,
+   "lon": 114.165487,
+   "precision": "city"
+  },
+  {
+   "id": "ferguson",
+   "name": "Ferguson, Missouri",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ferguson%2C_Missouri",
+   "lat": 38.7444,
+   "lon": -90.305,
+   "precision": "city"
+  },
+  {
+   "id": "benghazi",
+   "name": "Benghazi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benghazi",
+   "lat": 32.11666667,
+   "lon": 20.06666667,
+   "precision": "city"
+  },
+  {
+   "id": "cairo",
+   "name": "Cairo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cairo",
+   "lat": 30.04444444,
+   "lon": 31.23583333,
+   "precision": "city"
+  },
+  {
+   "id": "edinburgh",
+   "name": "Edinburgh",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edinburgh",
+   "lat": 55.95333333,
+   "lon": -3.18916667,
+   "precision": "city"
+  },
+  {
+   "id": "miranshah",
+   "name": "Miranshah",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miranshah",
+   "lat": 33.0025,
+   "lon": 70.06888889,
+   "precision": "city"
+  },
+  {
+   "id": "newport-wales",
+   "name": "Newport, Wales",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Newport%2C_Wales",
+   "lat": 51.58861111,
+   "lon": -2.99777778,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2014-02-22-yanukovych-ousted",
+   "date": "2014-02-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Ukraine's parliament removes Yanukovych after the deadly Maidan crackdown",
+   "summary": "Months of protest over his rejection of an EU association deal ended with scores killed in Kyiv; Yanukovych fled to Russia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Revolution_of_Dignity"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2014/2/22/ukraine-president-yanukovich-impeached"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "viktor-yanukovych",
+    "russia",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "maidan"
+   ]
+  },
+  {
+   "id": "2014-03-01-kunming-attack",
+   "date": "2014-03-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Knife attackers kill 31 at Kunming railway station",
+   "summary": "China blamed Xinjiang separatists and launched a 'Strike Hard' campaign, the precursor of the mass internment camps.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Kunming_attack"
+    }
+   ],
+   "entities": [
+    "china",
+    "xinjiang-camps"
+   ],
+   "marker": "strike",
+   "where": [
+    "kunming"
+   ]
+  },
+  {
+   "id": "2014-03-08-mh370-vanishes",
+   "date": "2014-03-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Malaysia Airlines Flight 370 disappears with 239 aboard",
+   "summary": "The Beijing-bound Boeing 777 vanished from radar; it was never found.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/mar/08/malaysia-airlines-experts-surprised-at-disappearance-of-very-safe-boeing-777"
+    }
+   ],
+   "entities": [
+    "malaysia",
+    "china"
+   ],
+   "marker": "political",
+   "unplaced": "Lost over the Indian Ocean."
+  },
+  {
+   "id": "2014-03-17-car-wash-begins",
+   "date": "2014-03-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Americas",
+   "title": "Brazil's 'Car Wash' corruption probe begins",
+   "summary": "It uncovered a vast bribery scheme at Petrobras that brought down politicians, contributed to Rousseff's impeachment and jailed Lula.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Car_Wash"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "petrobras",
+    "lula"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "Federal investigation."
+  },
+  {
+   "id": "2014-03-18-crimea-annexed",
+   "date": "2014-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Russia annexes Crimea after a referendum held under occupation",
+   "summary": "Unmarked Russian troops seized the peninsula in late February; the US and EU imposed the first sanctions on Russia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/mar/18/red-square-rally-vladimir-putin-crimea"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "crimea",
+    "ukraine",
+    "united-states",
+    "european-union"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2014-02-22-yanukovych-ousted",
+     "why": "Moscow's response to the revolution",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Crimea was the start of the Russo-Ukrainian war that escalated into the 2022 invasion.",
+    "confidence": "likely"
+   },
+   "where": [
+    "simferopol"
+   ]
+  },
+  {
+   "id": "2014-03-18-sunflower-movement",
+   "date": "2014-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Taiwan students occupy parliament against a China trade pact",
+   "summary": "The Sunflower Movement blocked the services agreement with Beijing and boosted the DPP, which won the presidency in 2016.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sunflower_Student_Movement"
+    }
+   ],
+   "entities": [
+    "taiwan",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "legislative-yuan"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2014-02-22-yanukovych-ousted",
+    "2014-03-18-crimea-annexed"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2014-03-17-car-wash-begins"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2014-03-18-sunflower-movement"
+   ]
+  }
+ ]
+}
