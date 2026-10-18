@@ -1,0 +1,580 @@
+{
+ "edition": "2010-06-30",
+ "stories": [
+  {
+   "id": "2010-04-07-kyrgyz-revolution",
+   "date": "2010-04-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Russia/Eurasia",
+   "title": "Uprising topples Kyrgyz President Bakiyev",
+   "summary": "Ethnic Kyrgyz–Uzbek violence erupted in Osh in June.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Kyrgyz_Revolution"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/apr/08/kyrgyzstan-revolt-over-kurmanbek-bakiyev"
+    }
+   ],
+   "entities": [
+    "kyrgyzstan",
+    "kurmanbek-bakiyev"
+   ],
+   "marker": "political",
+   "where": [
+    "bishkek"
+   ]
+  },
+  {
+   "id": "2010-04-08-new-start",
+   "date": "2010-04-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "Obama and Medvedev sign New START in Prague",
+   "summary": "The treaty capped strategic arsenals and was the last US–Russia nuclear arms pact.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/New_START"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "russia",
+    "barack-obama",
+    "dmitry-medvedev"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "prague"
+   ]
+  },
+  {
+   "id": "2010-04-10-smolensk-crash",
+   "date": "2010-04-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "Polish president Kaczyński and 95 others die in a crash near Smolensk",
+   "summary": "They were flying to the Katyn commemoration; conspiracy theories poisoned Polish–Russian relations and Polish politics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Smolensk_air_disaster"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/apr/10/poland-president-lech-kaczynski-killed"
+    }
+   ],
+   "entities": [
+    "poland",
+    "lech-kaczynski",
+    "russia"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "smolensk"
+   ]
+  },
+  {
+   "id": "2010-04-20-deepwater-horizon",
+   "date": "2010-04-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Deepwater Horizon explodes, causing the largest marine oil spill",
+   "summary": "Eleven workers died, and BP's Macondo well leaked for months.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_explosion"
+    }
+   ],
+   "entities": [
+    "bp",
+    "united-states"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "marker": "energy",
+   "where": [
+    "deepwater-horizon"
+   ]
+  },
+  {
+   "id": "2010-05-02-greek-bailout",
+   "date": "2010-05-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "Greece gets a €110bn bailout from the EU and IMF",
+   "summary": "The troika attached harsh austerity conditions, beginning a decade-long depression.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/may/06/greece-crisis-approves-austerity-measures"
+    }
+   ],
+   "entities": [
+    "greece",
+    "european-union",
+    "imf",
+    "ecb"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "The eurozone crisis began here; it fuelled populism and the Syriza standoff.",
+    "confidence": "likely"
+   },
+   "where": [
+    "athens"
+   ]
+  },
+  {
+   "id": "2010-05-09-efsf-created",
+   "date": "2010-05-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "EU creates a rescue fund for eurozone states",
+   "summary": "The European Financial Stability Facility was later used for Ireland and Portugal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/European_Financial_Stability_Facility"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "efsf"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "causes": [
+    {
+     "story": "2010-05-02-greek-bailout",
+     "why": "Contagion fears",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "EU Council decision."
+  },
+  {
+   "id": "2010-05-11-cameron-coalition",
+   "date": "2010-05-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Europe",
+   "title": "Cameron forms Britain's first post-war coalition after a hung parliament",
+   "summary": "The Conservative–Liberal Democrat government pursued austerity; Cameron later called the Brexit referendum.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_United_Kingdom_general_election"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "david-cameron"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "political",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2010-05-19-thai-crackdown",
+   "date": "2010-05-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "Thai army crushes Red Shirt protests in Bangkok",
+   "summary": "More than 85 were killed in the April and May crackdowns.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Thai_military_crackdown"
+    }
+   ],
+   "entities": [
+    "thailand"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "military",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2010-05-31-gaza-flotilla-raid",
+   "date": "2010-05-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Middle East",
+   "title": "Israeli commandos raid a Gaza aid flotilla, killing Turkish activists",
+   "summary": "The deaths aboard the Mavi Marmara ruptured Turkey–Israel relations.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gaza_flotilla_raid"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/may/31/q-a-gaza-freedom-flotilla"
+    }
+   ],
+   "entities": [
+    "israel",
+    "turkey",
+    "recep-tayyip-erdogan"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "unplaced": "International waters off Gaza."
+  },
+  {
+   "id": "2010-06-09-unsc-1929",
+   "date": "2010-06-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Middle East",
+   "title": "UN Security Council imposes a fourth round of sanctions on Iran",
+   "summary": "Resolution 1929 tightened the arms embargo and targeted the IRGC.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1929"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2010/jun/09/iran-sanctions-united-nations-nuclear"
+    }
+   ],
+   "entities": [
+    "iran",
+    "irgc",
+    "united-states"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  },
+  {
+   "id": "2010-06-17-stuxnet",
+   "date": "2010-06-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Middle East",
+   "title": "Stuxnet worm, which sabotaged Iran's centrifuges, is discovered",
+   "summary": "The cyberweapon, widely attributed to the US and Israel, damaged centrifuges at Natanz.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stuxnet"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-states",
+    "israel"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "strike",
+   "where": [
+    "natanz"
+   ]
+  },
+  {
+   "id": "2010-06-20-santos-elected",
+   "date": "2010-06-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Americas",
+   "title": "Juan Manuel Santos wins Colombia's presidency",
+   "summary": "Uribe's former defence minister later opened peace talks with the FARC.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010_Colombian_presidential_election"
+    }
+   ],
+   "entities": [
+    "colombia"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "bogota"
+   ]
+  },
+  {
+   "id": "2010-06-06-khaled-said",
+   "date": "2010-06-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Africa",
+   "title": "Khaled Said's death in police custody in Alexandria galvanises Egyptian activists",
+   "summary": "Outrage over his death helped spark the 2011 revolution.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed"
+    }
+   ],
+   "entities": [
+    "egypt",
+    "hosni-mubarak"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "political",
+   "where": [
+    "alexandria"
+   ]
+  },
+  {
+   "id": "2010-06-23-mcchrystal-out",
+   "date": "2010-06-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+   "region": "Asia-Pacific",
+   "title": "Obama accepts McChrystal's resignation as Afghan commander",
+   "summary": "A magazine profile quoting his aides mocking officials ended his command; David Petraeus took over the surge.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Runaway_General"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "barack-obama",
+    "stanley-mcchrystal",
+    "afghanistan"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2010-02-13-marjah-offensive",
+     "why": "Surge under strain",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2010-04-08-new-start"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2010-04-10-smolensk-crash",
+    "2010-05-11-cameron-coalition"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2010-04-20-deepwater-horizon"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2010-05-02-greek-bailout",
+    "2010-05-09-efsf-created"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2010-05-19-thai-crackdown"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2010-05-31-gaza-flotilla-raid"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2010-06-09-unsc-1929",
+    "2010-06-17-stuxnet"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2010-06-20-santos-elected"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2010-06-06-khaled-said"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2010-06-23-mcchrystal-out"
+   ]
+  }
+ ]
+}
