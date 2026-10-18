@@ -1,0 +1,385 @@
+{
+ "edition": "2001-09-30",
+ "stories": [
+  {
+   "id": "2001-07-16-sino-russian-treaty",
+   "date": "2001-07-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Russia/Eurasia",
+   "title": "China and Russia sign a Treaty of Good-Neighbourliness and Friendly Cooperation",
+   "summary": "The treaty underpins their later partnership.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Sino-Russian_Treaty_of_Friendship"
+    }
+   ],
+   "entities": [
+    "china",
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2001-07-20-genoa-g8",
+   "date": "2001-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "Protester is shot dead as violence engulfs the Genoa G8 summit",
+   "summary": "It was the peak of the anti-globalisation movement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/27th_G8_summit"
+    }
+   ],
+   "entities": [
+    "g7",
+    "italy"
+   ],
+   "marker": "political",
+   "where": [
+    "genoa"
+   ]
+  },
+  {
+   "id": "2001-07-23-megawati-president",
+   "date": "2001-07-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Megawati Sukarnoputri replaces the impeached Wahid in Indonesia",
+   "summary": "She was Indonesia's first female president.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Megawati_Sukarnoputri"
+    }
+   ],
+   "entities": [
+    "indonesia"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "jakarta"
+   ]
+  },
+  {
+   "id": "2001-08-13-ohrid-agreement",
+   "date": "2001-08-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "The Ohrid Agreement ends Macedonia's ethnic Albanian insurgency",
+   "summary": "It granted Albanians more rights.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ohrid_Agreement"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_insurgency_in_North_Macedonia"
+    }
+   ],
+   "entities": [
+    "north-macedonia",
+    "nato"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "skopje"
+   ]
+  },
+  {
+   "id": "2001-09-07-durban-conference",
+   "date": "2001-09-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Africa",
+   "title": "The UN racism conference in Durban ends in acrimony",
+   "summary": "The US and Israel walked out over language on Zionism.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/World_Conference_against_Racism_2001"
+    }
+   ],
+   "entities": [
+    "south-africa",
+    "united-states",
+    "israel"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "durban"
+   ]
+  },
+  {
+   "id": "2001-09-09-massoud-assassinated",
+   "date": "2001-09-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Al-Qaeda suicide bombers kill Afghan resistance leader Ahmad Shah Massoud",
+   "summary": "The killing came two days before 9/11.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud"
+    }
+   ],
+   "entities": [
+    "ahmad-shah-massoud",
+    "al-qaeda",
+    "afghanistan"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "unplaced": "Northern Afghanistan."
+  },
+  {
+   "id": "2001-09-11-september-11-attacks",
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Al-Qaeda hijackers kill nearly 3,000 in the September 11 attacks",
+   "summary": "Planes hit the World Trade Center and the Pentagon. The attacks launched the war on terror and the wars in Afghanistan and Iraq.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+    }
+   ],
+   "entities": [
+    "al-qaeda",
+    "osama-bin-laden",
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "new-york-city"
+   ]
+  },
+  {
+   "id": "2001-09-12-nato-article-5",
+   "date": "2001-09-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Europe",
+   "title": "NATO invokes Article 5 for the first time",
+   "summary": "The allies treated the 9/11 attacks as an attack on all.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"
+    }
+   ],
+   "entities": [
+    "nato",
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  },
+  {
+   "id": "2001-09-18-aumf",
+   "date": "2001-09-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Americas",
+   "title": "Congress authorises force against those responsible for 9/11",
+   "summary": "The AUMF became the legal basis for strikes from Afghanistan to Somalia.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_of_2001"
+    }
+   ],
+   "entities": [
+    "united-states"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2001-07-lusaka-au-plan",
+   "date": "2001-07",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Africa",
+   "title": "African leaders in Lusaka adopt the plan to launch the African Union",
+   "summary": "The AU replaced the OAU in 2002.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/African_Union"
+    }
+   ],
+   "entities": [
+    "african-union"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "lusaka"
+   ]
+  },
+  {
+   "id": "2001-09-pakistan-sides-with-us",
+   "date": "2001-09",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+   "region": "Asia-Pacific",
+   "title": "Musharraf allies Pakistan with the US after 9/11 and drops the Taliban",
+   "summary": "Pakistan became a frontline ally while elements of its state kept ties to the Taliban.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "pervez-musharraf",
+    "united-states",
+    "taliban"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "south-asia-security"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "islamabad"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2001-07-16-sino-russian-treaty"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2001-07-23-megawati-president"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2001-09-09-massoud-assassinated",
+    "2001-09-11-september-11-attacks",
+    "2001-09-12-nato-article-5",
+    "2001-09-18-aumf"
+   ]
+  },
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2001-07-lusaka-au-plan"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2001-09-pakistan-sides-with-us"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2001-09-pakistan-sides-with-us"
+   ]
+  }
+ ]
+}
