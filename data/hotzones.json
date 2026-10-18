@@ -1,5 +1,5 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "zones": [
   {
    "id": "hormuz",
@@ -7,7 +7,7 @@
    "lat": 26.6,
    "lon": 56.3,
    "severity": "critical",
-   "note": "IRGC claims supertanker hit a mine; 3 tankers reported hit since Fri; Brent $109.86",
+   "note": "Iran's 7-day reopening offer via Qatar; 2nd tanker hits mine; record 12 attacks in a week",
    "label_dx": 8,
    "label_dy": -14,
    "entities": [
@@ -17,7 +17,9 @@
     "persian-gulf",
     "petroleum",
     "united-states",
-    "iea"
+    "iea",
+    "ukmto",
+    "abbas-araghchi"
    ],
    "stories": [
     "hormuz-attacks-surge",
@@ -26,7 +28,9 @@
     "gulf-of-oman-tanker-fires",
     "us-weighs-shadow-fleet-relief",
     "iea-diesel-release",
-    "irgc-mine-supertanker-brent-110"
+    "irgc-mine-supertanker-brent-110",
+    "iran-seven-day-hormuz-offer",
+    "second-mine-tanker-ukmto-record"
    ]
   },
   {
@@ -35,7 +39,7 @@
    "lat": 13.3,
    "lon": 43.4,
    "severity": "critical",
-   "note": "Coalition hits Saada launchers; Houthis keep firing at Saudi oil and airports",
+   "note": "Missiles hit Aden airport; Yemen rejects Iran's mediation",
    "label_dx": -60,
    "label_dy": 32,
    "entities": [
@@ -44,14 +48,17 @@
     "bab-el-mandeb",
     "red-sea",
     "mokha",
-    "iran"
+    "iran",
+    "aden"
    ],
    "stories": [
     "houthis-hit-aramco",
     "saudi-offensive-mokha",
     "houthis-saudi-oct15",
     "saudi-blames-iran-eu-gcc-postponed",
-    "yanbu-missile-intercepted"
+    "yanbu-missile-intercepted",
+    "houthis-aden-airport-khamis-mushait",
+    "egypt-offers-to-defend-saudi"
    ]
   },
   {
@@ -60,7 +67,7 @@
    "lat": 25.5,
    "lon": 48.5,
    "severity": "high",
-   "note": "Missile aimed at Yanbu bypass terminal intercepted; Riyadh says Iran broke Beijing deal",
+   "note": "Missiles at Khamis Mushait intercepted; Egypt offers to defend the kingdom",
    "label_dx": -105,
    "label_dy": -12,
    "entities": [
@@ -69,13 +76,16 @@
     "houthis",
     "petroleum",
     "riyadh",
-    "yanbu"
+    "yanbu",
+    "egypt"
    ],
    "stories": [
     "houthis-hit-aramco",
     "houthis-saudi-oct15",
     "saudi-blames-iran-eu-gcc-postponed",
-    "yanbu-missile-intercepted"
+    "yanbu-missile-intercepted",
+    "houthis-aden-airport-khamis-mushait",
+    "egypt-offers-to-defend-saudi"
    ]
   },
   {
@@ -102,7 +112,7 @@
    "lat": 49.5,
    "lon": 32.0,
    "severity": "critical",
-   "note": "15 energy sites hit, 1m+ without power; US waives Russia sanctions",
+   "note": "332-drone strike on the grid; Kyiv rejects Gerasimov's gain claims",
    "label_dx": -62,
    "label_dy": -10,
    "entities": [
@@ -110,7 +120,8 @@
     "russia",
     "volodymyr-zelenskyy",
     "starlink",
-    "spacex"
+    "spacex",
+    "sloviansk"
    ],
    "stories": [
     "energy-ceasefire",
@@ -120,7 +131,10 @@
     "starshield-curbs-white-house",
     "lutsk-blackout-volyn",
     "russia-grid-strikes-oct16",
-    "trump-waives-russia-sanctions"
+    "trump-waives-russia-sanctions",
+    "russia-332-drone-energy-strike",
+    "graham-waiver-bipartisan-backlash",
+    "poland-starlink-arson-russia-gang"
    ]
   },
   {
@@ -129,7 +143,7 @@
    "lat": 55.7,
    "lon": 37.6,
    "severity": "high",
-   "note": "Putin declares 660 km 'security zone' non-negotiable; sanctions waiver hailed",
+   "note": "Sanctions waiver stands as Congress recesses; sabotage via criminal proxies alleged",
    "entities": [
     "russia",
     "petroleum",
@@ -141,7 +155,9 @@
     "energy-ceasefire-collapse",
     "trump-disgrace-eu-summit",
     "putin-security-zone",
-    "trump-waives-russia-sanctions"
+    "trump-waives-russia-sanctions",
+    "graham-waiver-bipartisan-backlash",
+    "poland-starlink-arson-russia-gang"
    ]
   },
   {
@@ -150,7 +166,7 @@
    "lat": 24.0,
    "lon": 120.0,
    "severity": "high",
-   "note": "CCG ships enter Dongsha waters; 9 sorties, 5 across median line",
+   "note": "2 sorties, 5 PLAN and 9 official ships; coast-guard pressure",
    "entities": [
     "taiwan",
     "pla",
@@ -162,7 +178,8 @@
     "pla-drills",
     "pla-patrol-oct14-15",
     "pla-patrol-oct15-16",
-    "dongsha-coast-guard-incursion"
+    "dongsha-coast-guard-incursion",
+    "pla-patrol-oct17-18"
    ]
   },
   {
@@ -171,7 +188,7 @@
    "lat": 35.0,
    "lon": 105.0,
    "severity": "high",
-   "note": "Rare-earth green channel for EU; US firms still restricted ahead of Nov 10",
+   "note": "Draft curbs on AI models and chip designs; Yasukuni protest to Tokyo",
    "entities": [
     "china",
     "rare-earths",
@@ -182,7 +199,9 @@
     "rare-earth-nov10",
     "ai-minerals",
     "pla-patrol-oct14-15",
-    "eu-china-rare-earth-green-channel"
+    "eu-china-rare-earth-green-channel",
+    "china-draft-ai-export-controls",
+    "takaichi-yasukuni-offering"
    ]
   },
   {
@@ -191,19 +210,21 @@
    "lat": -1.5,
    "lon": 29.0,
    "severity": "high",
-   "note": "FRN dissolves AFC; Kabila claims Doha mantle; Rubaya still held",
+   "note": "Kabila's PPRD suspended; generals grounded; Belgium contacts frozen",
    "entities": [
     "drc",
     "m23",
     "joseph-kabila",
     "rubaya",
     "coltan",
-    "rwanda"
+    "rwanda",
+    "felix-tshisekedi"
    ],
    "stories": [
     "kabila-m23",
     "rubaya-coltan",
-    "kabila-frn-succeeds-afc"
+    "kabila-frn-succeeds-afc",
+    "kinshasa-suspends-kabila-party"
    ]
   },
   {
@@ -212,17 +233,19 @@
    "lat": 18.4,
    "lon": 1.4,
    "severity": "elevated",
-   "note": "Kidal retaken; JNIM strikes",
+   "note": "IS claims 400 JNIM dead in Oudalan; 734 tankers reach Bamako",
    "entities": [
     "mali",
     "kidal",
     "sahel",
     "africa-corps",
     "jnim",
-    "fla"
+    "fla",
+    "issp"
    ],
    "stories": [
-    "kidal"
+    "kidal",
+    "sahel-jnim-issp-oudalan"
    ]
   },
   {
@@ -231,7 +254,7 @@
    "lat": 8.0,
    "lon": -66.0,
    "severity": "elevated",
-   "note": "Reopened oil exports ~1.1M bpd",
+   "note": "Talks turn to election rules; opposition march Oct 22",
    "entities": [
     "venezuela",
     "pdvsa",
@@ -239,7 +262,8 @@
     "nicolas-maduro"
    ],
    "stories": [
-    "venezuela-oil"
+    "venezuela-oil",
+    "venezuela-talks-election-rules"
    ]
   },
   {
@@ -265,13 +289,14 @@
    "lat": 12.0,
    "lon": 115.0,
    "severity": "watch",
-   "note": "Manila rebukes envoy's 'easily win' remark; mil-mil hotline suspended",
+   "note": "9 Chinese assets shadow Philippine frigate at Scarborough",
    "entities": [
     "philippines",
     "china"
    ],
    "stories": [
-    "ph-rebukes-china-envoy"
+    "ph-rebukes-china-envoy",
+    "scarborough-shadowing-miguel-malvar"
    ]
   },
   {
@@ -280,15 +305,92 @@
    "lat": 14.12444444,
    "lon": 38.72388889,
    "severity": "elevated",
-   "note": "Ethiopian forces reach Eritrean border; TPLF retreats",
+   "note": "Federal forces claim Axum to Zalambessa; Eritrea calls it 'war'",
    "entities": [
     "ethiopia",
     "eritrea",
     "tplf",
-    "mekelle"
+    "mekelle",
+    "axum",
+    "zalambessa"
    ],
    "stories": [
-    "ethiopia-tigray-advance"
+    "ethiopia-tigray-advance",
+    "tigray-federal-takeover-rubio"
+   ]
+  },
+  {
+   "id": "sudan-kordofan",
+   "name": "Sudan (Kordofan / Darfur)",
+   "lat": 13.2,
+   "lon": 28.5,
+   "severity": "high",
+   "note": "Army strikes Nyala; RSF drones hit El Obeid and Kordofan mines",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces",
+    "el-obeid",
+    "nyala"
+   ],
+   "stories": [
+    "sudan-nyala-strikes",
+    "2026-10-09-el-obeid-drones"
+   ]
+  },
+  {
+   "id": "lebanon",
+   "name": "Lebanon (Israel–Hezbollah)",
+   "lat": 33.3,
+   "lon": 35.5,
+   "severity": "elevated",
+   "note": "Israeli strikes continue; talks in Tampa Oct 20",
+   "entities": [
+    "lebanon",
+    "israel",
+    "hezbollah",
+    "beirut"
+   ],
+   "stories": [
+    "lebanon-tampa-talks-demands",
+    "2026-10-14-lebanon-yellow-line"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan",
+   "name": "Pakistan–Afghanistan border",
+   "lat": 33.9,
+   "lon": 70.3,
+   "severity": "elevated",
+   "note": "Artillery duel in Kurram; Islamabad rejects unconditional talks",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban",
+    "ttp",
+    "kurram-district"
+   ],
+   "stories": [
+    "kurram-border-clash",
+    "2026-10-05-taliban-diplomacy"
+   ]
+  },
+  {
+   "id": "cuba",
+   "name": "Cuba (grid & oil siege)",
+   "lat": 22.3,
+   "lon": -79.8,
+   "severity": "elevated",
+   "note": "75% of island dark at peak; peso 800/USD; UN embargo vote Oct 27-28",
+   "entities": [
+    "cuba",
+    "havana",
+    "santa-cruz-del-norte",
+    "united-states"
+   ],
+   "stories": [
+    "cuba-75pct-blackout-santa-cruz",
+    "2026-10-12-cuba-blockade-bites"
    ]
   }
  ],
@@ -509,6 +611,51 @@
    "stories": [
     "ethiopia-tigray-advance",
     "yanbu-missile-intercepted"
+   ]
+  },
+  {
+   "id": "venezuela--cuba",
+   "from": "venezuela",
+   "to": "cuba",
+   "label": "Venezuelan oil cut off → Cuban grid collapse",
+   "entities": [
+    "venezuela",
+    "cuba",
+    "petroleum"
+   ],
+   "stories": [
+    "cuba-75pct-blackout-santa-cruz",
+    "venezuela-talks-election-rules"
+   ]
+  },
+  {
+   "id": "tigray--sudan-kordofan",
+   "from": "tigray",
+   "to": "sudan-kordofan",
+   "label": "Alleged Sudanese drones to TPLF; Egypt–Eritrea axis",
+   "entities": [
+    "sudan",
+    "eritrea",
+    "egypt",
+    "tplf"
+   ],
+   "stories": [
+    "tigray-federal-takeover-rubio",
+    "sudan-nyala-strikes"
+   ]
+  },
+  {
+   "id": "lebanon--hormuz",
+   "from": "lebanon",
+   "to": "hormuz",
+   "label": "Hezbollah front in Iran's war",
+   "entities": [
+    "hezbollah",
+    "iran"
+   ],
+   "stories": [
+    "lebanon-tampa-talks-demands",
+    "iran-seven-day-hormuz-offer"
    ]
   }
  ]
