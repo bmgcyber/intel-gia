@@ -1,0 +1,748 @@
+{
+ "edition": "2014-12-31",
+ "stories": [
+  {
+   "id": "2014-10-26-rousseff-reelected",
+   "date": "2014-10-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Americas",
+   "title": "Dilma Rousseff narrowly wins re-election as Brazil's economy falters",
+   "summary": "The Car Wash scandal and recession eroded her support and she was impeached in 2016.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2014/10/27/world/americas/brazilian-presidential-election.html"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "dilma-rousseff"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "National election."
+  },
+  {
+   "id": "2014-10-31-compaore-ousted",
+   "date": "2014-10-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Africa",
+   "title": "Popular uprising forces Burkina Faso's Compaoré out after 27 years",
+   "summary": "Protesters burned parliament as he tried to change term limits.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Burkina_Faso_uprising"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/oct/31/burkina-faso-president-refuses-to-resign-blaise-compaore"
+    }
+   ],
+   "entities": [
+    "burkina-faso",
+    "blaise-compaore"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "where": [
+    "ouagadougou"
+   ]
+  },
+  {
+   "id": "2014-11-27-opec-no-cut",
+   "date": "2014-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Middle East",
+   "title": "Saudi-led OPEC refuses to cut output as US shale floods the market",
+   "summary": "The decision to defend market share accelerated the oil crash that began in mid-2014; prices fell below $30 by January 2016.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010s_oil_glut"
+    }
+   ],
+   "entities": [
+    "opec",
+    "saudi-arabia",
+    "united-states"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "marker": "energy",
+   "unplaced": "OPEC meeting in Vienna."
+  },
+  {
+   "id": "2014-11-08-silk-road-fund",
+   "date": "2014-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Xi launches the Silk Road Fund to drive the Belt and Road Initiative",
+   "summary": "The plan Xi unveiled in Kazakhstan in 2013 grew into a global infrastructure push across more than 150 countries.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Belt_and_Road_Initiative"
+    }
+   ],
+   "entities": [
+    "china",
+    "xi-jinping",
+    "belt-and-road"
+   ],
+   "storylines": [
+    "us-tariffs-trade"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2014-12-16-ruble-crash",
+   "date": "2014-12-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Russia/Eurasia",
+   "title": "Russia hikes rates to 17% as the ruble collapses",
+   "summary": "Falling oil prices and Western sanctions plunged Russia into crisis; GDP fell 3.7% in 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russian_financial_crisis_%282014%E2%80%932016%29"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2014/12/16/energy-prices-and-oil-price-crash-the-good-the-bad-and-the-ugly.html"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2014-11-27-opec-no-cut",
+     "why": "Oil crash",
+     "confidence": "likely"
+    },
+    {
+     "story": "2014-07-17-mh17-shot-down",
+     "why": "Sanctions after MH17",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2014-12-16-peshawar-school-massacre",
+   "date": "2014-12-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "Pakistani Taliban massacre 149 at an army school in Peshawar",
+   "summary": "Most victims were children; Pakistan lifted its moratorium on executions and hardened its campaign against the TTP.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2014_Peshawar_school_massacre"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2014/dec/16/taliban-attack-army-public-school-pakistan-peshawar"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "ttp"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2014-06-15-zarb-e-azb",
+     "why": "Revenge for the offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "peshawar"
+   ]
+  },
+  {
+   "id": "2014-12-17-cuba-thaw-announced",
+   "date": "2014-12-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Americas",
+   "title": "Obama and Raúl Castro announce a move to restore ties",
+   "summary": "A prisoner swap opened the way to reopening embassies in 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cuban_thaw"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2014/12/18/371597843/rep-sires-pushes-back-against-obamas-cuba-plans"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "cuba",
+    "barack-obama",
+    "raul-castro"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "washington-dc"
+   ]
+  },
+  {
+   "id": "2014-12-28-isaf-ends",
+   "date": "2014-12-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2014 (Crimea and the caliphate)",
+   "region": "Asia-Pacific",
+   "title": "NATO ends its Afghan combat mission",
+   "summary": "A smaller Resolute Support training mission took over, with about 9,800 US troops staying.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Afghanistan_%282011%E2%80%932016%29"
+    }
+   ],
+   "entities": [
+    "nato",
+    "united-states",
+    "afghanistan",
+    "taliban"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2014-09-29-ghani-inaugurated",
+     "why": "Security pact signed by Ghani",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "kabul"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2025-06-25-nato-hague-5pct",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2025-03-18-germany-debt-brake",
+     "why": "Germany's fiscal room made the target reachable",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-06-29-madrid",
+     "why": "Funds the threat assessment adopted at Madrid",
+     "confidence": "possible"
+    },
+    {
+     "story": "2014-09-05-nato-wales-2pct",
+     "why": "Raised the 2014 2% target",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2022-12-16-japan-security-strategy",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Chinese drills after Pelosi's visit, missiles landing in Japan's EEZ",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-24-invasion",
+     "why": "Russia's invasion shattered assumptions",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-10-04-kishida-pm",
+     "why": "Kishida government's strategy",
+     "confidence": "likely"
+    },
+    {
+     "story": "2014-07-01-japan-collective-self-defense",
+     "why": "Built on the 2014 reinterpretation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-01-22-houthis-oust-hadi",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-09-21-houthis-take-sanaa",
+     "why": "Seized Sanaa in 2014",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-01-26-kobani-retaken",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-08-08-us-strikes-isis-iraq",
+     "why": "US air campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-02-12-minsk-ii",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-08-29-ilovaisk",
+     "why": "Minsk I collapsed",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-03-07-boko-haram-pledges-isis",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-04-14-chibok-kidnapping",
+     "why": "Boko Haram's rise",
+     "confidence": "possible"
+    },
+    {
+     "story": "2014-06-29-caliphate-declared",
+     "why": "Pledged to the new caliphate",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-03-26-saudi-intervention-yemen",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-01-22-houthis-oust-hadi",
+     "why": "Restore the ousted government",
+     "confidence": "likely"
+    },
+    {
+     "story": "2015-01-23-king-salman-accedes",
+     "why": "MBS's first big gamble",
+     "confidence": "likely"
+    },
+    {
+     "story": "2014-09-21-houthis-take-sanaa",
+     "why": "Houthi takeover",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-05-17-ramadi-falls",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-06-10-fall-of-mosul",
+     "why": "IS advance",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-05-08-cameron-majority",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-09-18-scotland-referendum",
+     "why": "Referendum politics",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-09-16-burkina-coup-attempt",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-10-31-compaore-ousted",
+     "why": "Compaoré's old guard tried to return",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-09-28-taliban-take-kunduz",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-07-29-mullah-omar-death-revealed",
+     "why": "Mansour's new leadership sought a victory",
+     "confidence": "possible"
+    },
+    {
+     "story": "2014-12-28-isaf-ends",
+     "why": "NATO combat forces gone",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2015-09-30-russia-enters-syria",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2015-05-17-ramadi-falls",
+     "why": "Assad was losing ground",
+     "confidence": "possible"
+    },
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Putin's growing assertiveness",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-04-09-south-china-sea-reclamation",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-05-02-hysy981-standoff",
+     "why": "China pressing its claims",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2015-12-17-libyan-political-agreement",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-05-16-haftar-operation-dignity",
+     "why": "Ending the 2014 split",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-01-20-oil-below-30",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-11-27-opec-no-cut",
+     "why": "Glut began in 2014",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-05-20-tsai-inaugurated",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-18-sunflower-movement",
+     "why": "Movement boosted the DPP",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-07-08-nato-warsaw-summit",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Response to Crimea",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-08-31-rousseff-removed",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-17-car-wash-begins",
+     "why": "Car Wash scandal",
+     "confidence": "likely"
+    },
+    {
+     "story": "2014-10-26-rousseff-reelected",
+     "why": "Second term",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-10-17-mosul-offensive",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-06-10-fall-of-mosul",
+     "why": "Retaking the city lost in 2014",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-09-28-mh17-jit-findings",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-07-17-mh17-shot-down",
+     "why": "Investigation of the downing",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2017-08-02-caatsa",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Codified Crimea sanctions",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-11-25-kerch-strait-incident",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-18-crimea-annexed",
+     "why": "Control of Crimea's waters",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-06-09-hong-kong-protests",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-09-28-umbrella-movement",
+     "why": "Successor movement",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2019-12-02-power-of-siberia",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-05-21-russia-china-gas-deal",
+     "why": "Built under the 2014 contract",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2018-08-13-xinjiang-un-review",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-03-01-kunming-attack",
+     "why": "Strike Hard campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2020-05-26-george-floyd-protests",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-08-09-ferguson",
+     "why": "Black Lives Matter movement",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2016-07-08-burhan-wani-kashmir-unrest",
+   "why": "2014 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2014-05-16-modi-wins",
+     "why": "Hardline Kashmir policy",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "id": "russia--patron-proxy--dpr-lpr",
+   "a": "russia",
+   "b": "dpr-lpr",
+   "type": "patron-proxy",
+   "start": "2014",
+   "end": null,
+   "stated": "Russia denied backing the separatists",
+   "actual": "Moscow armed, led and finally annexed them",
+   "confidence": "likely",
+   "evidence": [
+    "2014-04-12-donbas-war-begins",
+    "2014-08-29-ilovaisk",
+    "2014-07-17-mh17-shot-down"
+   ]
+  },
+  {
+   "id": "china--rivalry--vietnam",
+   "a": "china",
+   "b": "vietnam",
+   "type": "rivalry",
+   "start": "2014",
+   "end": null,
+   "stated": "Comprehensive strategic partners",
+   "actual": "Recurring clashes over the Paracels and Spratlys",
+   "confidence": "likely",
+   "evidence": [
+    "2014-05-02-hysy981-standoff",
+    "2015-04-09-south-china-sea-reclamation"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2014-10-26-rousseff-reelected",
+    "2014-12-17-cuba-thaw-announced"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2014-10-31-compaore-ousted"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2014-11-27-opec-no-cut",
+    "2014-12-16-ruble-crash"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2014-11-08-silk-road-fund"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2014-12-16-ruble-crash"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2014-12-16-peshawar-school-massacre",
+    "2014-12-28-isaf-ends"
+   ]
+  }
+ ]
+}
