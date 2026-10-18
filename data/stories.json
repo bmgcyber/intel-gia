@@ -45708,7 +45708,8 @@
    "2015-02-12-minsk-ii",
    "2015-07-14-jcpoa-agreed",
    "2014-04-12-donbas-war-begins",
-   "2014-05-21-russia-china-gas-deal"
+   "2014-05-21-russia-china-gas-deal",
+   "2014-09-05-nato-wales-2pct"
   ]
  },
  {
@@ -45785,7 +45786,9 @@
    "sloviansk"
   ],
   "related_stories": [
-   "2014-03-18-crimea-annexed"
+   "2014-03-18-crimea-annexed",
+   "2014-07-17-mh17-shot-down",
+   "2014-08-29-ilovaisk"
   ]
  },
  {
@@ -46206,7 +46209,613 @@
   "unplaced": "Proclamation covering Iraq and Syria.",
   "related_stories": [
    "2014-06-10-fall-of-mosul",
-   "2015-05-17-ramadi-falls"
+   "2015-05-17-ramadi-falls",
+   "2014-08-03-sinjar-genocide"
+  ]
+ },
+ {
+  "id": "2014-07-08-gaza-war",
+  "date": "2014-07-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Middle East",
+  "title": "Israel launches a 50-day war on Hamas in Gaza",
+  "summary": "Operation Protective Edge followed the killing of three Israeli teenagers; more than 2,000 Palestinians and 73 Israelis died.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Gaza_War"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2014/jul/25/guardian-view-causes-fighting-gaza"
+   }
+  ],
+  "entities": [
+   "israel",
+   "hamas",
+   "benjamin-netanyahu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "where": [
+   "gaza-city"
+  ],
+  "related_stories": [
+   "2025-03-18-gaza-war-resumes",
+   "2024-11-21-icc-netanyahu-warrant",
+   "gaza-drone-strikes-oct17",
+   "2021-05-10-gaza-war"
+  ]
+ },
+ {
+  "id": "2014-07-17-mh17-shot-down",
+  "date": "2014-07-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Russian Buk missile shoots down MH17 over eastern Ukraine, killing 298",
+  "summary": "The airliner was hit over separatist-held territory; the EU answered with sectoral sanctions on Russia.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "dpr-lpr",
+   "malaysia",
+   "european-union"
+  ],
+  "causes": [
+   {
+    "story": "2014-04-12-donbas-war-begins",
+    "why": "Russian air defences deployed to the Donbas",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "strike",
+  "unplaced": "Crash site near Hrabove, no Wikipedia coordinates.",
+  "related_stories": [
+   "2014-04-12-donbas-war-begins",
+   "energy-ceasefire",
+   "trump-disgrace-eu-summit",
+   "2026-04-23-eu-90bn-loan",
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2014-02-22-yanukovych-ousted",
+   "2014-03-18-crimea-annexed"
+  ]
+ },
+ {
+  "id": "2014-08-01-barkhane",
+  "date": "2014-08-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Africa",
+  "title": "France launches Operation Barkhane across the Sahel",
+  "summary": "It replaced Operation Serval, which had driven jihadists from northern Mali in 2013, with a 3,000-strong regional force; it ended in 2022.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Barkhane"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Operation_Serval"
+   }
+  ],
+  "entities": [
+   "france",
+   "mali",
+   "chad",
+   "niger",
+   "burkina-faso"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "unplaced": "Region-wide operation headquartered in N'Djamena.",
+  "related_stories": [
+   "2024-07-06-aes-confederation",
+   "2025-01-29-aes-leaves-ecowas",
+   "sahel-jnim-issp-oudalan"
+  ]
+ },
+ {
+  "id": "2014-08-03-sinjar-genocide",
+  "date": "2014-08-03",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Middle East",
+  "title": "Islamic State overruns Sinjar and begins the Yazidi genocide",
+  "summary": "Thousands of Yazidi men were killed and women enslaved; tens of thousands were trapped on Mount Sinjar.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sinjar_massacre"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/aug/13/us-ground-troops-direct-role-evacuate-yazidis-iraq"
+   }
+  ],
+  "entities": [
+   "islamic-state",
+   "yazidis",
+   "iraq"
+  ],
+  "causes": [
+   {
+    "story": "2014-06-29-caliphate-declared",
+    "why": "Caliphate's expansion",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "where": [
+   "sinjar-mountains"
+  ],
+  "related_stories": [
+   "2014-06-29-caliphate-declared",
+   "2014-08-08-us-strikes-isis-iraq"
+  ]
+ },
+ {
+  "id": "2014-08-08-us-strikes-isis-iraq",
+  "date": "2014-08-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Middle East",
+  "title": "US begins airstrikes on the Islamic State in Iraq",
+  "summary": "Obama acted to protect Erbil and the Yazidis; strikes expanded into Syria on Sep 23 with Arab partners.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/US-led_intervention_in_Iraq_%282014%E2%80%932021%29"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_intervention_in_Syria"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/aug/08/us-iraq-air-strikes-isis-irbil"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "barack-obama",
+   "islamic-state",
+   "iraq",
+   "syria"
+  ],
+  "causes": [
+   {
+    "story": "2014-08-03-sinjar-genocide",
+    "why": "Protect Yazidis and Erbil",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "isis-war"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "strike",
+  "where": [
+   "erbil"
+  ],
+  "related_stories": [
+   "2014-08-03-sinjar-genocide",
+   "2019-03-23-baghuz-caliphate-ends",
+   "2019-12-29-us-strikes-kataib-hezbollah",
+   "2017-07-10-mosul-liberated",
+   "2017-10-17-raqqa-falls",
+   "2016-10-17-mosul-offensive",
+   "2015-01-26-kobani-retaken",
+   "2015-05-17-ramadi-falls",
+   "2015-12-28-ramadi-retaken",
+   "2014-06-29-caliphate-declared"
+  ]
+ },
+ {
+  "id": "2014-08-08-ebola-emergency",
+  "date": "2014-08-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Africa",
+  "title": "WHO declares the West African Ebola epidemic a global emergency",
+  "summary": "The outbreak in Guinea, Liberia and Sierra Leone killed more than 11,000 people.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/aug/06/ebola-outbreak-nurse-nigeria-dies"
+   }
+  ],
+  "entities": [
+   "who",
+   "guinea",
+   "liberia",
+   "sierra-leone"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "unplaced": "Region-wide epidemic.",
+  "related_stories": []
+ },
+ {
+  "id": "2014-08-09-ferguson",
+  "date": "2014-08-09",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Americas",
+  "title": "Police shooting of Michael Brown sparks the Ferguson unrest",
+  "summary": "Protests made 'Black Lives Matter' a national movement, which resurfaced in 2020.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ferguson_unrest"
+   }
+  ],
+  "entities": [
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "ferguson"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-08-29-ilovaisk",
+  "date": "2014-08-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Russian regular troops rout Ukrainian forces at Ilovaisk",
+  "summary": "The encirclement of Ukrainian forces by covert Russian units pushed Kyiv into the Minsk ceasefire of Sep 5.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Ilovaisk"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Minsk_agreements"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "petro-poroshenko"
+  ],
+  "causes": [
+   {
+    "story": "2014-04-12-donbas-war-begins",
+    "why": "Russia intervened to save the separatists",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "where": [
+   "ilovaisk"
+  ],
+  "related_stories": [
+   "2014-04-12-donbas-war-begins",
+   "2018-11-25-kerch-strait-incident",
+   "2015-02-12-minsk-ii"
+  ]
+ },
+ {
+  "id": "2014-09-18-scotland-referendum",
+  "date": "2014-09-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Europe",
+  "title": "Scotland votes 55–45 to stay in the UK",
+  "summary": "Turnout was 84.6%; Brexit two years later revived the independence question.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum"
+   }
+  ],
+  "entities": [
+   "united-kingdom"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "edinburgh"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-09-21-houthis-take-sanaa",
+  "date": "2014-09-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Middle East",
+  "title": "Houthi rebels storm Yemen's capital Sanaa",
+  "summary": "Allied with ex-president Saleh, the Iran-backed movement took the city, leading to Hadi's ouster and the Saudi intervention.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Houthi_takeover_of_Yemen"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/middleeast/2014/09/yemen-houthi-rebels-advance-into-sanaa-201492091233845119.html"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "yemen",
+   "iran",
+   "ali-abdullah-saleh",
+   "abdrabbuh-mansur-hadi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "yemen-houthis-saudi",
+   "iran-proxy-network"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "military",
+  "where": [
+   "sanaa"
+  ],
+  "related_stories": [
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-abu-dhabi-attack",
+   "2022-03-25-jeddah-attack",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
+   "2017-12-04-saleh-killed",
+   "2015-01-22-houthis-oust-hadi",
+   "2015-03-26-saudi-intervention-yemen"
+  ]
+ },
+ {
+  "id": "2014-09-26-iguala-kidnapping",
+  "date": "2014-09-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Americas",
+  "title": "43 students disappear in Iguala, Mexico",
+  "summary": "Corrupt police and a drug gang were blamed, and the case haunted Peña Nieto's government.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Iguala_mass_kidnapping"
+   }
+  ],
+  "entities": [
+   "mexico",
+   "enrique-pena-nieto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "iguala"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-09-28-umbrella-movement",
+  "date": "2014-09-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Asia-Pacific",
+  "title": "Hong Kong's 'Umbrella Movement' occupies the city centre",
+  "summary": "Students protested Beijing's restrictions on electing the chief executive; the 79-day occupation ended without concessions.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Umbrella_Movement"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2014/09/30/world/asia/objects-hong-kong-protest/index.html"
+   }
+  ],
+  "entities": [
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "admiralty-hk"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-09-29-ghani-inaugurated",
+  "date": "2014-09-29",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Asia-Pacific",
+  "title": "Ashraf Ghani becomes Afghan president in a US-brokered power-sharing deal",
+  "summary": "John Kerry brokered the deal that made rival Abdullah Abdullah chief executive after a disputed runoff; Ghani signed the US security pact a day later.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Afghan_presidential_election"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2014/sep/27/john-kerry-afghanistan-abdullah-ghani-power-money"
+   }
+  ],
+  "entities": [
+   "afghanistan",
+   "ashraf-ghani",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "kabul"
+  ],
+  "related_stories": [
+   "2021-08-15-fall-of-kabul"
+  ]
+ },
+ {
+  "id": "2014-07-01-japan-collective-self-defense",
+  "date": "2014-07",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Asia-Pacific",
+  "title": "Abe's cabinet reinterprets Article 9 to allow collective self-defence",
+  "summary": "Japan may now fight to defend an ally under attack; security laws in 2015 put the change into effect.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Article_9_of_the_Japanese_Constitution"
+   }
+  ],
+  "entities": [
+   "japan",
+   "shinzo-abe"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "political",
+  "where": [
+   "tokyo"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2014-09-05-nato-wales-2pct",
+  "date": "2014-09-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2014-09-30",
+  "region": "Europe",
+  "title": "NATO's Wales summit pledges allies to move toward 2% of GDP on defence",
+  "summary": "Allies set a ten-year target and created a rapid-reaction force after Russia's seizure of Crimea.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Wales_summit"
+   }
+  ],
+  "entities": [
+   "nato",
+   "united-kingdom",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "2014-03-18-crimea-annexed",
+    "why": "Response to Crimea",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2014-09-30",
+  "storylines": [
+   "transatlantic-rift",
+   "russia-ukraine"
+  ],
+  "era": "2014 (Crimea and the caliphate)",
+  "marker": "diplomacy",
+  "where": [
+   "newport-wales"
+  ],
+  "related_stories": [
+   "2014-03-18-crimea-annexed"
   ]
  }
 ]
