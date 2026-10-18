@@ -51982,6 +51982,11 @@
     "story": "2010-07-25-wikileaks-afghan-logs",
     "why": "Earlier leaks",
     "confidence": "possible"
+   },
+   {
+    "story": "2001-10-26-patriot-act",
+    "why": "Surveillance powers",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -51993,12 +51998,20 @@
   "marker": "political",
   "unplaced": "Leaks published worldwide.",
   "related_stories": [
-   "2010-07-25-wikileaks-afghan-logs"
+   "2010-07-25-wikileaks-afghan-logs",
+   "2001-10-26-patriot-act"
   ],
   "revisions": [
    {
     "edition": "2010-12-31",
     "why": "2010 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -55497,7 +55510,18 @@
    "pakistan",
    "barack-obama"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-12-12-tora-bora",
+    "why": "Escape",
+    "confidence": "likely"
+   },
+   {
+    "story": "2001-09-11-september-11-attacks",
+    "why": "Mastermind",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2011-06-30",
   "storylines": [
@@ -55510,8 +55534,11 @@
    "abbottabad"
   ],
   "related_stories": [
+   "2001-12-12-tora-bora",
+   "2001-09-11-september-11-attacks",
    "2011-11-26-salala-incident",
-   "2016-05-21-mansour-killed"
+   "2016-05-21-mansour-killed",
+   "2002-02-01-daniel-pearl-killed"
   ],
   "revisions": [
    {
@@ -55519,6 +55546,13 @@
     "why": "Thread into storyline",
     "fields": [
      "storylines"
+    ]
+   },
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
     ]
    }
   ]
@@ -64661,6 +64695,11 @@
     "story": "2005-02-06-thaksin-landslide",
     "why": "Thaksin's dominance",
     "confidence": "likely"
+   },
+   {
+    "story": "2001-02-09-thaksin-pm",
+    "why": "Thaksin era",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -64675,12 +64714,20 @@
   ],
   "related_stories": [
    "2005-02-06-thaksin-landslide",
+   "2001-02-09-thaksin-pm",
    "2008-11-25-thai-airports-seized"
   ],
   "revisions": [
    {
     "edition": "2005-12-31",
     "why": "2005 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -65977,7 +66024,13 @@
    "china",
    "kazakhstan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-06-15-sco-founded",
+    "why": "SCO",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-09-30",
   "storylines": [
@@ -65989,8 +66042,18 @@
    "astana"
   ],
   "related_stories": [
-   "2025-11-06-c5-plus-1-summit",
-   "2014-05-21-russia-china-gas-deal"
+   "2001-06-15-sco-founded",
+   "2014-05-21-russia-china-gas-deal",
+   "2025-11-06-c5-plus-1-summit"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -66078,7 +66141,13 @@
    "united-kingdom",
    "ireland"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-10-23-ira-decommissioning",
+    "why": "Earlier step",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2005-09-30",
   "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
@@ -66086,7 +66155,18 @@
   "where": [
    "belfast"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2001-10-23-ira-decommissioning"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2005-08-15-aceh-peace",
@@ -66167,6 +66247,11 @@
     "story": "2004-11-11-arafat-dies",
     "why": "New Palestinian leadership",
     "confidence": "possible"
+   },
+   {
+    "story": "2001-02-06-sharon-elected",
+    "why": "Sharon's plan",
+    "confidence": "likely"
    }
   ],
   "effects": [],
@@ -66181,12 +66266,20 @@
   ],
   "related_stories": [
    "2004-11-11-arafat-dies",
+   "2001-02-06-sharon-elected",
    "2006-01-25-hamas-wins-election"
   ],
   "revisions": [
    {
     "edition": "2004-12-31",
     "why": "2004 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -67757,7 +67850,13 @@
    "united-states",
    "al-qaeda"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-09-11-september-11-attacks",
+    "why": "Investigation",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2004-09-30",
   "storylines": [
@@ -67768,7 +67867,18 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2001-09-11-september-11-attacks"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2004-08-15-chavez-recall-survived",
@@ -68781,6 +68891,11 @@
     "story": "2002-09-20-bush-doctrine",
     "why": "Doctrine",
     "confidence": "likely"
+   },
+   {
+    "story": "2001-09-11-september-11-attacks",
+    "why": "Post-9/11 threat framing",
+    "confidence": "possible"
    }
   ],
   "effects": [],
@@ -68797,6 +68912,7 @@
    "2002-11-08-unsc-1441",
    "2002-10-16-congress-authorises-iraq-war",
    "2002-09-20-bush-doctrine",
+   "2001-09-11-september-11-attacks",
    "2007-01-10-iraq-surge-announced",
    "2004-03-11-madrid-bombings",
    "2004-04-28-abu-ghraib",
@@ -68810,6 +68926,13 @@
    {
     "edition": "2002-12-31",
     "why": "2002 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   },
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
     "fields": [
      "causes"
     ]
@@ -69988,7 +70111,13 @@
    "al-qaeda",
    "taliban"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-10-07-afghanistan-invasion",
+    "why": "Captives from Afghanistan",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-03-31",
   "storylines": [
@@ -70000,8 +70129,18 @@
    "guantanamo"
   ],
   "related_stories": [
+   "2001-10-07-afghanistan-invasion",
    "2020-02-29-doha-agreement",
    "2002-03-02-operation-anaconda"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -70058,7 +70197,13 @@
    "iraq",
    "north-korea"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-09-11-september-11-attacks",
+    "why": "Post-9/11 doctrine",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-03-31",
   "storylines": [
@@ -70070,6 +70215,8 @@
    "washington-dc"
   ],
   "related_stories": [
+   "2001-09-11-september-11-attacks",
+   "2003-12-19-libya-gives-up-wmd",
    "kataib-hezbollah-halt",
    "2026-09-30-us-leaves-iraq",
    "2024-01-28-tower-22",
@@ -70079,8 +70226,16 @@
    "2017-08-02-caatsa",
    "2007-01-10-iraq-surge-announced",
    "2003-03-20-iraq-invasion",
-   "2003-05-01-mission-accomplished",
-   "2003-12-19-libya-gives-up-wmd"
+   "2003-05-01-mission-accomplished"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -70207,7 +70362,13 @@
    "taliban",
    "afghanistan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-12-12-tora-bora",
+    "why": "Fighters regrouped",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-03-31",
   "storylines": [
@@ -70220,6 +70381,7 @@
    "shahi-kot"
   ],
   "related_stories": [
+   "2001-12-12-tora-bora",
    "2022-07-31-zawahiri",
    "2020-02-29-doha-agreement",
    "2021-04-14-us-afghan-exit-order",
@@ -70231,7 +70393,17 @@
    "2010-02-13-marjah-offensive",
    "2009-12-01-obama-afghan-surge",
    "2009-12-30-camp-chapman-attack",
-   "2002-01-11-guantanamo-opens"
+   "2002-01-11-guantanamo-opens",
+   "2001-10-07-afghanistan-invasion"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -70351,7 +70523,13 @@
    "argentina",
    "imf"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-12-20-argentina-collapse",
+    "why": "Collapse",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-03-31",
   "storylines": [
@@ -70363,7 +70541,17 @@
    "buenos-aires"
   ],
   "related_stories": [
+   "2001-12-20-argentina-collapse",
    "2003-05-25-kirchner-takes-office"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -70565,7 +70753,13 @@
    "russia",
    "abm-treaty"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-01-20-bush-inaugurated",
+    "why": "Bush's missile defence push",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-06-30",
   "storylines": [
@@ -70576,7 +70770,18 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2001-01-20-bush-inaugurated"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2002-06-13-karzai-loya-jirga",
@@ -70597,7 +70802,13 @@
    "afghanistan",
    "hamid-karzai"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-12-05-bonn-agreement",
+    "why": "Bonn process",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-06-30",
   "storylines": [
@@ -70608,7 +70819,18 @@
   "where": [
    "kabul"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2001-12-05-bonn-agreement"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2002-06-india-pakistan-standoff",
@@ -70629,7 +70851,13 @@
    "india",
    "pakistan"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-12-13-indian-parliament-attack",
+    "why": "Trigger",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-06-30",
   "storylines": [
@@ -70638,7 +70866,18 @@
   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
   "marker": "military",
   "unplaced": "Along the India–Pakistan border.",
-  "related_stories": []
+  "related_stories": [
+   "2001-12-13-indian-parliament-attack"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2002-07-01-icc-founded",
@@ -70689,7 +70928,13 @@
    "african-union",
    "south-africa"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-07-lusaka-au-plan",
+    "why": "Implementation plan",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-09-30",
   "storylines": [
@@ -70700,7 +70945,18 @@
   "where": [
    "durban"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2001-07-lusaka-au-plan"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
+  ]
  },
  {
   "id": "2002-07-20-machakos-protocol",
@@ -70921,7 +71177,13 @@
    "united-states",
    "george-w-bush"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-09-11-september-11-attacks",
+    "why": "9/11",
+    "confidence": "likely"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-09-30",
   "storylines": [
@@ -70934,7 +71196,17 @@
    "washington-dc"
   ],
   "related_stories": [
+   "2001-09-11-september-11-attacks",
    "2003-03-20-iraq-invasion"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -71227,7 +71499,13 @@
    "romania",
    "bulgaria"
   ],
-  "causes": [],
+  "causes": [
+   {
+    "story": "2001-09-12-nato-article-5",
+    "why": "Post-9/11 NATO",
+    "confidence": "possible"
+   }
+  ],
   "effects": [],
   "batch": "inbox-2002-12-31",
   "storylines": [
@@ -71239,7 +71517,17 @@
    "prague"
   ],
   "related_stories": [
+   "2001-09-12-nato-article-5",
    "2004-03-29-nato-enlargement"
+  ],
+  "revisions": [
+   {
+    "edition": "2001-12-31",
+    "why": "2001 backfill: thread forward to later stories",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -71429,7 +71717,9 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-06-13-us-quits-abm"
+  ]
  },
  {
   "id": "2001-02-06-sharon-elected",
@@ -71461,7 +71751,9 @@
   "where": [
    "jerusalem"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2005-08-15-gaza-disengagement"
+  ]
  },
  {
   "id": "2001-02-09-thaksin-pm",
@@ -71493,7 +71785,9 @@
   "where": [
    "bangkok"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2006-09-19-thai-coup"
+  ]
  },
  {
   "id": "2001-03-bamiyan-buddhas",
@@ -72135,7 +72429,11 @@
    "new-york-city"
   ],
   "related_stories": [
-   "2011-05-02-bin-laden-killed"
+   "2011-05-02-bin-laden-killed",
+   "2002-01-29-axis-of-evil",
+   "2002-09-20-bush-doctrine",
+   "2003-03-20-iraq-invasion",
+   "2004-07-22-911-commission-report"
   ]
  },
  {
@@ -72168,7 +72466,9 @@
   "where": [
    "brussels"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-11-21-nato-prague-summit"
+  ]
  },
  {
   "id": "2001-09-18-aumf",
@@ -72230,7 +72530,9 @@
   "where": [
    "lusaka"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2002-07-09-african-union-launched"
+  ]
  },
  {
   "id": "2001-09-pakistan-sides-with-us",
@@ -72269,5 +72571,392 @@
    "2021-08-15-fall-of-kabul",
    "2016-05-21-mansour-killed"
   ]
+ },
+ {
+  "id": "2001-10-07-afghanistan-invasion",
+  "date": "2001-10-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Asia-Pacific",
+  "title": "US and UK begin strikes on the Taliban and al-Qaeda in Afghanistan",
+  "summary": "With the Northern Alliance, they toppled the Taliban by December.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "united-kingdom",
+   "taliban",
+   "al-qaeda",
+   "afghanistan"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "war-on-terror",
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "military",
+  "where": [
+   "kabul"
+  ],
+  "related_stories": [
+   "2002-01-11-guantanamo-opens",
+   "2022-07-31-zawahiri",
+   "2020-02-29-doha-agreement",
+   "2021-04-14-us-afghan-exit-order",
+   "2021-08-15-fall-of-kabul",
+   "2021-08-26-kabul-airport-bombing",
+   "2019-09-07-camp-david-cancelled",
+   "2015-09-28-taliban-take-kunduz",
+   "2014-12-28-isaf-ends",
+   "2010-02-13-marjah-offensive",
+   "2009-12-01-obama-afghan-surge",
+   "2009-12-30-camp-chapman-attack",
+   "2002-03-02-operation-anaconda"
+  ]
+ },
+ {
+  "id": "2001-10-26-patriot-act",
+  "date": "2001-10-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Americas",
+  "title": "Bush signs the Patriot Act",
+  "summary": "It expanded surveillance powers later exposed by Snowden.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Patriot_Act"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "george-w-bush"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "war-on-terror",
+   "us-domestic-politics"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "political",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "2013-06-06-snowden-nsa-leaks"
+  ]
+ },
+ {
+  "id": "2001-11-10-china-wto-approved",
+  "date": "2001-11-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Asia-Pacific",
+  "title": "The WTO approves China's membership",
+  "summary": "China joined on December 11 and became the world's factory.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/China_and_the_World_Trade_Organization"
+   }
+  ],
+  "entities": [
+   "china",
+   "wto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "china-economy",
+   "us-tariffs-trade"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "diplomacy",
+  "where": [
+   "doha"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2001-12-02-enron-bankruptcy",
+  "date": "2001-12-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Americas",
+  "title": "Enron files for bankruptcy",
+  "summary": "The fraud led to the Sarbanes–Oxley Act.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Enron_scandal"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "enron"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "political",
+  "where": [
+   "houston"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2001-12-05-bonn-agreement",
+  "date": "2001-12-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Europe",
+  "title": "The Bonn Agreement names Hamid Karzai to lead an interim Afghan government",
+  "summary": "The Taliban were excluded from the talks.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bonn_Agreement_%28Afghanistan%29"
+   }
+  ],
+  "entities": [
+   "afghanistan",
+   "hamid-karzai"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "diplomacy",
+  "where": [
+   "bonn"
+  ],
+  "related_stories": [
+   "2002-06-13-karzai-loya-jirga"
+  ]
+ },
+ {
+  "id": "2001-12-12-tora-bora",
+  "date": "2001-12-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Asia-Pacific",
+  "title": "Bin Laden escapes the battle of Tora Bora into Pakistan",
+  "summary": "He evaded capture until 2011.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Tora_Bora"
+   }
+  ],
+  "entities": [
+   "osama-bin-laden",
+   "al-qaeda",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "war-on-terror",
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "military",
+  "where": [
+   "tora-bora"
+  ],
+  "related_stories": [
+   "2011-05-02-bin-laden-killed",
+   "2002-03-02-operation-anaconda",
+   "2001-09-11-september-11-attacks"
+  ]
+ },
+ {
+  "id": "2001-12-13-indian-parliament-attack",
+  "date": "2001-12-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Asia-Pacific",
+  "title": "Militants attack India's parliament",
+  "summary": "India blamed Pakistan-based groups and mobilised troops for a ten-month standoff.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2001_Indian_Parliament_attack"
+   }
+  ],
+  "entities": [
+   "india",
+   "pakistan",
+   "jaish-e-mohammed",
+   "lashkar-e-taiba"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "kashmir-india-pakistan"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "strike",
+  "where": [
+   "indian-parliament"
+  ],
+  "related_stories": [
+   "2002-06-india-pakistan-standoff",
+   "2019-02-14-pulwama-attack",
+   "2019-02-26-balakot-strike",
+   "2016-09-18-uri-attack",
+   "2008-11-26-mumbai-attacks",
+   "2006-07-11-mumbai-train-bombings"
+  ]
+ },
+ {
+  "id": "2001-12-20-argentina-collapse",
+  "date": "2001-12-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Americas",
+  "title": "Riots topple Argentina's government",
+  "summary": "President De la Rúa fled, and Argentina defaulted days later.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/December_2001_riots_in_Argentina"
+   }
+  ],
+  "entities": [
+   "argentina",
+   "imf"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "political",
+  "where": [
+   "buenos-aires"
+  ],
+  "related_stories": [
+   "2002-01-argentina-peso-devalued"
+  ]
+ },
+ {
+  "id": "2001-10-anthrax-letters",
+  "date": "2001-10",
+  "date_precision": "month",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Americas",
+  "title": "Anthrax letters kill five Americans",
+  "summary": "The FBI later blamed a US Army scientist.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks"
+   }
+  ],
+  "entities": [
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "strike",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2001-10-23-ira-decommissioning",
+  "date": "2001-10-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Europe",
+  "title": "The IRA begins putting its weapons beyond use",
+  "summary": "The move saved Northern Ireland's power-sharing institutions.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+   }
+  ],
+  "entities": [
+   "provisional-ira",
+   "united-kingdom"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "political",
+  "where": [
+   "belfast"
+  ],
+  "related_stories": [
+   "2005-07-28-ira-ends-campaign"
+  ]
+ },
+ {
+  "id": "2001-11-14-doha-round",
+  "date": "2001-11-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2001-12-31",
+  "region": "Middle East",
+  "title": "The WTO launches the Doha Development Round",
+  "summary": "The round never concluded.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Doha_Development_Round"
+   }
+  ],
+  "entities": [
+   "wto"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2001-12-31",
+  "storylines": [
+   "us-tariffs-trade"
+  ],
+  "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+  "marker": "diplomacy",
+  "where": [
+   "doha"
+  ],
+  "related_stories": []
  }
 ]

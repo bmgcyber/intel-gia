@@ -112408,6 +112408,1301 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2001-12-31": {
+   "sha256": "ed3301a098250a921fbdb2fa346d954b80ab0c73bc1e1d9bbebaafa7645b7196",
+   "undo": {
+    "stories": {
+     "2001-10-07-afghanistan-invasion": null,
+     "2001-10-26-patriot-act": null,
+     "2001-11-10-china-wto-approved": null,
+     "2001-12-02-enron-bankruptcy": null,
+     "2001-12-05-bonn-agreement": null,
+     "2001-12-12-tora-bora": null,
+     "2001-12-13-indian-parliament-attack": null,
+     "2001-12-20-argentina-collapse": null,
+     "2001-10-anthrax-letters": null,
+     "2001-10-23-ira-decommissioning": null,
+     "2001-11-14-doha-round": null,
+     "2002-01-11-guantanamo-opens": {
+      "id": "2002-01-11-guantanamo-opens",
+      "date": "2002-01-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-03-31",
+      "region": "Americas",
+      "title": "First detainees arrive at Guantánamo Bay",
+      "summary": "Detention without trial became a lasting symbol of the war on terror.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "al-qaeda",
+       "taliban"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-03-31",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "guantanamo"
+      ],
+      "related_stories": [
+       "2020-02-29-doha-agreement",
+       "2002-03-02-operation-anaconda"
+      ]
+     },
+     "2002-01-29-axis-of-evil": {
+      "id": "2002-01-29-axis-of-evil",
+      "date": "2002-01-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-03-31",
+      "region": "Americas",
+      "title": "Bush names Iran, Iraq and North Korea an 'axis of evil'",
+      "summary": "The speech set out the case for pre-emptive action against hostile states seeking WMD.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Axis_of_evil"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "george-w-bush",
+       "iran",
+       "iraq",
+       "north-korea"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-03-31",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "kataib-hezbollah-halt",
+       "2026-09-30-us-leaves-iraq",
+       "2024-01-28-tower-22",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2019-12-27-k1-rocket-attack",
+       "2017-08-02-caatsa",
+       "2007-01-10-iraq-surge-announced",
+       "2003-03-20-iraq-invasion",
+       "2003-05-01-mission-accomplished",
+       "2003-12-19-libya-gives-up-wmd"
+      ]
+     },
+     "2002-03-02-operation-anaconda": {
+      "id": "2002-03-02-operation-anaconda",
+      "date": "2002-03-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-03-31",
+      "region": "Asia-Pacific",
+      "title": "US-led forces fight al-Qaeda and Taliban fighters in Shah-i-Kot",
+      "summary": "Many fighters escaped into Pakistan's tribal areas.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Anaconda"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "al-qaeda",
+       "taliban",
+       "afghanistan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-03-31",
+      "storylines": [
+       "pakistan-afghanistan-war",
+       "war-on-terror"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "military",
+      "where": [
+       "shahi-kot"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul",
+       "2021-08-26-kabul-airport-bombing",
+       "2019-09-07-camp-david-cancelled",
+       "2015-09-28-taliban-take-kunduz",
+       "2014-12-28-isaf-ends",
+       "2010-02-13-marjah-offensive",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-30-camp-chapman-attack",
+       "2002-01-11-guantanamo-opens"
+      ]
+     },
+     "2002-06-13-karzai-loya-jirga": {
+      "id": "2002-06-13-karzai-loya-jirga",
+      "date": "2002-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-06-30",
+      "region": "Asia-Pacific",
+      "title": "A loya jirga chooses Hamid Karzai to lead Afghanistan",
+      "summary": "The council set up a transitional government.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2002_loya_jirga"
+       }
+      ],
+      "entities": [
+       "afghanistan",
+       "hamid-karzai"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "kabul"
+      ],
+      "related_stories": []
+     },
+     "2002-06-india-pakistan-standoff": {
+      "id": "2002-06-india-pakistan-standoff",
+      "date": "2002-06",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2002-06-30",
+      "region": "Asia-Pacific",
+      "title": "India and Pakistan mass troops on their border",
+      "summary": "The crisis after the attack on India's parliament eased under US pressure.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001%E2%80%932002_India%E2%80%93Pakistan_standoff"
+       }
+      ],
+      "entities": [
+       "india",
+       "pakistan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-06-30",
+      "storylines": [
+       "kashmir-india-pakistan"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "military",
+      "unplaced": "Along the India–Pakistan border.",
+      "related_stories": []
+     },
+     "2002-06-13-us-quits-abm": {
+      "id": "2002-06-13-us-quits-abm",
+      "date": "2002-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-06-30",
+      "region": "Americas",
+      "title": "The US withdraws from the ABM Treaty",
+      "summary": "Moscow later cited the exit to justify new strategic weapons.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anti-Ballistic_Missile_Treaty"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "abm-treaty"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-06-30",
+      "storylines": [
+       "nuclear-arms-control"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2002-07-09-african-union-launched": {
+      "id": "2002-07-09-african-union-launched",
+      "date": "2002-07-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Africa",
+      "title": "The African Union replaces the OAU",
+      "summary": "It was launched at a summit in Durban.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/African_Union"
+       }
+      ],
+      "entities": [
+       "african-union",
+       "south-africa"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "durban"
+      ],
+      "related_stories": []
+     },
+     "2002-01-argentina-peso-devalued": {
+      "id": "2002-01-argentina-peso-devalued",
+      "date": "2002-01",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2002-03-31",
+      "region": "Americas",
+      "title": "Argentina abandons the peso's dollar peg after a record default",
+      "summary": "The collapse plunged millions into poverty.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression"
+       }
+      ],
+      "entities": [
+       "argentina",
+       "imf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-03-31",
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "buenos-aires"
+      ],
+      "related_stories": [
+       "2003-05-25-kirchner-takes-office"
+      ]
+     },
+     "2002-09-20-bush-doctrine": {
+      "id": "2002-09-20-bush-doctrine",
+      "date": "2002-09-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-09-30",
+      "region": "Americas",
+      "title": "US security strategy embraces pre-emptive war",
+      "summary": "The doctrine underpinned the Iraq invasion.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bush_Doctrine"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "george-w-bush"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-09-30",
+      "storylines": [
+       "war-on-terror",
+       "iraq-war"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2003-03-20-iraq-invasion"
+      ]
+     },
+     "2003-03-20-iraq-invasion": {
+      "id": "2003-03-20-iraq-invasion",
+      "date": "2003-03-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2003-03-31",
+      "region": "Middle East",
+      "title": "US-led forces invade Iraq",
+      "summary": "Baghdad fell on April 9. No weapons of mass destruction were found.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq",
+       "united-kingdom",
+       "saddam-hussein",
+       "george-w-bush"
+      ],
+      "causes": [
+       {
+        "story": "2002-11-08-unsc-1441",
+        "why": "Iraq's 'final opportunity'",
+        "confidence": "likely"
+       },
+       {
+        "story": "2002-10-16-congress-authorises-iraq-war",
+        "why": "Authorisation",
+        "confidence": "likely"
+       },
+       {
+        "story": "2002-09-20-bush-doctrine",
+        "why": "Doctrine",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2003-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+      "marker": "military",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2002-11-08-unsc-1441",
+       "2002-10-16-congress-authorises-iraq-war",
+       "2002-09-20-bush-doctrine",
+       "2007-01-10-iraq-surge-announced",
+       "2004-03-11-madrid-bombings",
+       "2004-04-28-abu-ghraib",
+       "2004-06-28-iraq-sovereignty-handover",
+       "2003-05-01-mission-accomplished",
+       "2003-04-09-baghdad-falls",
+       "2003-12-13-saddam-captured",
+       "2002-01-29-axis-of-evil"
+      ],
+      "revisions": [
+       {
+        "edition": "2002-12-31",
+        "why": "2002 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2004-07-22-911-commission-report": {
+      "id": "2004-07-22-911-commission-report",
+      "date": "2004-07-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2004-09-30",
+      "region": "Americas",
+      "title": "9/11 Commission report details intelligence failures",
+      "summary": "It led to the creation of a Director of National Intelligence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/9/11_Commission"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "al-qaeda"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2004-09-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2004 (Iraq insurgency, Beslan, Orange Revolution, the tsunami)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2005-08-15-gaza-disengagement": {
+      "id": "2005-08-15-gaza-disengagement",
+      "date": "2005-08-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Middle East",
+      "title": "Israel begins evacuating its settlements from Gaza",
+      "summary": "Sharon's pullout left Gaza to the Palestinians; Hamas claimed it as a victory.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza"
+       }
+      ],
+      "entities": [
+       "israel",
+       "hamas"
+      ],
+      "causes": [
+       {
+        "story": "2004-11-11-arafat-dies",
+        "why": "New Palestinian leadership",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "gaza-city"
+      ],
+      "related_stories": [
+       "2004-11-11-arafat-dies",
+       "2006-01-25-hamas-wins-election"
+      ],
+      "revisions": [
+       {
+        "edition": "2004-12-31",
+        "why": "2004 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2006-09-19-thai-coup": {
+      "id": "2006-09-19-thai-coup",
+      "date": "2006-09-19",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2006-09-30",
+      "region": "Asia-Pacific",
+      "title": "Thailand's military ousts Thaksin Shinawatra",
+      "summary": "The coup opened a long struggle between Thaksin's supporters and the royalist establishment.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Thai_coup_d%27%C3%A9tat"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "thaksin-shinawatra"
+      ],
+      "causes": [
+       {
+        "story": "2005-02-06-thaksin-landslide",
+        "why": "Thaksin's dominance",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2006-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+      "marker": "military",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": [
+       "2005-02-06-thaksin-landslide",
+       "2008-11-25-thai-airports-seized"
+      ],
+      "revisions": [
+       {
+        "edition": "2005-12-31",
+        "why": "2005 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2011-05-02-bin-laden-killed": {
+      "id": "2011-05-02-bin-laden-killed",
+      "date": "2011-05-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-06-30",
+      "region": "Asia-Pacific",
+      "title": "US SEALs kill Osama bin Laden in Abbottabad, Pakistan",
+      "summary": "His presence near Pakistan's military academy deepened US mistrust of Islamabad.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/may/02/bin-laden-body-buried-sea"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "osama-bin-laden",
+       "al-qaeda",
+       "pakistan",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war",
+       "war-on-terror"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "strike",
+      "where": [
+       "abbottabad"
+      ],
+      "related_stories": [
+       "2011-11-26-salala-incident",
+       "2016-05-21-mansour-killed"
+      ],
+      "revisions": [
+       {
+        "edition": "2009-12-31",
+        "why": "Thread into storyline",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2013-06-06-snowden-nsa-leaks": {
+      "id": "2013-06-06-snowden-nsa-leaks",
+      "date": "2013-06-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Americas",
+      "title": "Snowden leaks reveal mass NSA surveillance",
+      "summary": "Disclosures of phone records and PRISM collection strained US relations with allies including Germany and Brazil; Snowden fled to Russia.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_surveillance_disclosures_%282013%E2%80%93present%29"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "edward-snowden",
+       "russia"
+      ],
+      "causes": [
+       {
+        "story": "2010-07-25-wikileaks-afghan-logs",
+        "why": "Earlier leaks",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "unplaced": "Leaks published worldwide.",
+      "related_stories": [
+       "2010-07-25-wikileaks-afghan-logs"
+      ],
+      "revisions": [
+       {
+        "edition": "2010-12-31",
+        "why": "2010 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2002-11-21-nato-prague-summit": {
+      "id": "2002-11-21-nato-prague-summit",
+      "date": "2002-11-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2002-12-31",
+      "region": "Europe",
+      "title": "NATO's Prague summit invites seven ex-communist states to join",
+      "summary": "They joined in 2004.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2002_Prague_summit"
+       }
+      ],
+      "entities": [
+       "nato",
+       "estonia",
+       "romania",
+       "bulgaria"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2002-12-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+      "marker": "diplomacy",
+      "where": [
+       "prague"
+      ],
+      "related_stories": [
+       "2004-03-29-nato-enlargement"
+      ]
+     },
+     "2005-07-28-ira-ends-campaign": {
+      "id": "2005-07-28-ira-ends-campaign",
+      "date": "2005-07-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Europe",
+      "title": "The Provisional IRA formally ends its armed campaign",
+      "summary": "It verified putting its weapons beyond use in September.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+       }
+      ],
+      "entities": [
+       "provisional-ira",
+       "united-kingdom",
+       "ireland"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "political",
+      "where": [
+       "belfast"
+      ],
+      "related_stories": []
+     },
+     "2005-07-05-sco-astana-summit": {
+      "id": "2005-07-05-sco-astana-summit",
+      "date": "2005-07-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2005-09-30",
+      "region": "Russia/Eurasia",
+      "title": "SCO summit calls for a timeline for US bases in Central Asia",
+      "summary": "Russia and China used the bloc to push back on the US presence.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+       }
+      ],
+      "entities": [
+       "sco",
+       "russia",
+       "china",
+       "kazakhstan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2005-09-30",
+      "storylines": [
+       "central-asia"
+      ],
+      "era": "2005 (Cedar and Tulip revolutions, 7/7, Ahmadinejad's rise)",
+      "marker": "diplomacy",
+      "where": [
+       "astana"
+      ],
+      "related_stories": [
+       "2025-11-06-c5-plus-1-summit",
+       "2014-05-21-russia-china-gas-deal"
+      ]
+     },
+     "2001-09-11-september-11-attacks": {
+      "id": "2001-09-11-september-11-attacks",
+      "date": "2001-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Americas",
+      "title": "Al-Qaeda hijackers kill nearly 3,000 in the September 11 attacks",
+      "summary": "Planes hit the World Trade Center and the Pentagon. The attacks launched the war on terror and the wars in Afghanistan and Iraq.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+       }
+      ],
+      "entities": [
+       "al-qaeda",
+       "osama-bin-laden",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "strike",
+      "where": [
+       "new-york-city"
+      ],
+      "related_stories": [
+       "2011-05-02-bin-laden-killed"
+      ]
+     },
+     "2001-01-20-bush-inaugurated": {
+      "id": "2001-01-20-bush-inaugurated",
+      "date": "2001-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Americas",
+      "title": "George W. Bush is inaugurated after the contested 2000 election",
+      "summary": "The Supreme Court had halted the Florida recount.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_inauguration_of_George_W._Bush"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "george-w-bush"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "us-domestic-politics"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2001-07-lusaka-au-plan": {
+      "id": "2001-07-lusaka-au-plan",
+      "date": "2001-07",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Africa",
+      "title": "African leaders in Lusaka adopt the plan to launch the African Union",
+      "summary": "The AU replaced the OAU in 2002.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/African_Union"
+       }
+      ],
+      "entities": [
+       "african-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "lusaka"
+      ],
+      "related_stories": []
+     },
+     "2001-02-06-sharon-elected": {
+      "id": "2001-02-06-sharon-elected",
+      "date": "2001-02-06",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Middle East",
+      "title": "Ariel Sharon wins Israel's election amid the second intifada",
+      "summary": "He took a hard line, and in 2005 pulled out of Gaza.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_Israeli_prime_ministerial_election"
+       }
+      ],
+      "entities": [
+       "israel",
+       "ariel-sharon"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "jerusalem"
+      ],
+      "related_stories": []
+     },
+     "2001-02-09-thaksin-pm": {
+      "id": "2001-02-09-thaksin-pm",
+      "date": "2001-02-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-03-31",
+      "region": "Asia-Pacific",
+      "title": "Thaksin Shinawatra becomes Thailand's prime minister",
+      "summary": "His populist rule split Thai politics for two decades.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_Thai_general_election"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "thaksin-shinawatra"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-03-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "political",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": []
+     },
+     "2001-09-12-nato-article-5": {
+      "id": "2001-09-12-nato-article-5",
+      "date": "2001-09-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2001-09-30",
+      "region": "Europe",
+      "title": "NATO invokes Article 5 for the first time",
+      "summary": "The allies treated the 9/11 attacks as an attack on all.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"
+       }
+      ],
+      "entities": [
+       "nato",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2001-09-30",
+      "storylines": [
+       "war-on-terror"
+      ],
+      "era": "2001 (9/11 and the invasion of Afghanistan, China joins the WTO)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "war-on-terror": {
+      "id": "war-on-terror",
+      "name": "9/11 and the war on terror",
+      "entities": [
+       "al-qaeda",
+       "united-states",
+       "taliban",
+       "osama-bin-laden"
+      ],
+      "stories": [
+       "2009-11-05-fort-hood-shooting",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-25-underwear-bomber",
+       "2009-12-30-camp-chapman-attack",
+       "2011-05-02-bin-laden-killed",
+       "2006-08-10-transatlantic-plot",
+       "2006-09-02-operation-medusa",
+       "2005-07-07-london-bombings",
+       "2005-11-09-amman-bombings",
+       "2004-03-11-madrid-bombings",
+       "2004-04-28-abu-ghraib",
+       "2004-05-29-khobar-massacre",
+       "2004-07-22-911-commission-report",
+       "2003-05-12-riyadh-compound-bombings",
+       "2003-05-16-casablanca-bombings",
+       "2003-11-15-istanbul-bombings",
+       "2002-01-11-guantanamo-opens",
+       "2002-01-29-axis-of-evil",
+       "2002-02-01-daniel-pearl-killed",
+       "2002-03-02-operation-anaconda",
+       "2002-09-20-bush-doctrine",
+       "2002-10-12-bali-bombings",
+       "2002-11-03-yemen-drone-strike",
+       "2001-09-09-massoud-assassinated",
+       "2001-09-11-september-11-attacks",
+       "2001-09-12-nato-article-5",
+       "2001-09-18-aumf"
+      ],
+      "source": "inbox"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul",
+       "2021-08-26-kabul-airport-bombing",
+       "2019-09-07-camp-david-cancelled",
+       "2016-05-21-mansour-killed",
+       "2015-07-29-mullah-omar-death-revealed",
+       "2015-09-28-taliban-take-kunduz",
+       "2014-06-15-zarb-e-azb",
+       "2014-09-29-ghani-inaugurated",
+       "2014-12-16-peshawar-school-massacre",
+       "2014-12-28-isaf-ends",
+       "2013-05-11-sharif-wins",
+       "2012-10-09-malala-shot",
+       "2011-05-02-bin-laden-killed",
+       "2011-11-26-salala-incident",
+       "2010-02-13-marjah-offensive",
+       "2010-06-23-mcchrystal-out",
+       "2010-07-25-wikileaks-afghan-logs",
+       "2009-08-20-afghan-election-fraud",
+       "2009-10-17-south-waziristan-offensive",
+       "2009-12-01-obama-afghan-surge",
+       "2009-12-30-camp-chapman-attack",
+       "2007-12-14-ttp-formed",
+       "2006-09-02-operation-medusa",
+       "2006-09-05-waziristan-accord",
+       "2004-03-18-battle-of-wana",
+       "2004-10-09-afghan-election",
+       "2003-08-11-nato-takes-isaf",
+       "2002-03-02-operation-anaconda",
+       "2002-06-13-karzai-loya-jirga",
+       "2001-03-bamiyan-buddhas",
+       "2001-09-pakistan-sides-with-us"
+      ],
+      "source": "inbox"
+     },
+     "us-domestic-politics": {
+      "id": "us-domestic-politics",
+      "name": "US domestic politics",
+      "entities": [
+       "united-states"
+      ],
+      "stories": [
+       "2010-11-02-us-midterms",
+       "2011-09-17-occupy-wall-street",
+       "2012-11-06-obama-reelected",
+       "2013-04-15-boston-bombing",
+       "2013-10-01-us-shutdown",
+       "2014-08-09-ferguson",
+       "2017-01-27-travel-ban",
+       "2017-12-22-tax-cuts-signed",
+       "2018-11-06-us-midterms",
+       "2020-05-26-george-floyd-protests",
+       "2024-07-13-trump-shot",
+       "2024-07-21-biden-withdraws",
+       "2009-01-20-obama-inaugurated",
+       "2008-11-04-obama-elected",
+       "2006-11-07-us-midterms-democrats",
+       "2005-08-29-hurricane-katrina",
+       "2004-11-02-bush-reelected",
+       "2001-01-20-bush-inaugurated"
+      ],
+      "source": "inbox"
+     },
+     "china-economy": {
+      "id": "china-economy",
+      "name": "China's economy and property crisis",
+      "entities": [
+       "china",
+       "evergrande"
+      ],
+      "stories": [
+       "2015-08-24-china-black-monday",
+       "2020-11-03-ant-ipo-halted",
+       "2021-09-20-evergrande-crisis",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens",
+       "2023-10-18-country-garden-default",
+       "2008-08-08-beijing-olympics",
+       "2008-11-09-china-stimulus",
+       "2007-10-22-xi-joins-standing-committee",
+       "2005-07-21-yuan-peg-ends"
+      ],
+      "source": "inbox"
+     },
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-09-18-graham-act-signed",
+       "2026-09-23-us-china-fragile-truce",
+       "rare-earth-nov10",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2025-04-02-liberation-day",
+       "2025-04-04-china-rare-earth-controls",
+       "2025-07-27-eu-us-turnberry",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-09-china-rare-earth-expansion",
+       "2025-10-30-busan-truce",
+       "2025-11-05-scotus-tariff-argument",
+       "2025-12-08-h200-china",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-01-14-china-trillion-surplus",
+       "2026-07-01-usmca-review",
+       "2024-05-14-biden-ev-tariffs",
+       "2024-11-05-trump-elected",
+       "2020-01-15-phase-one-deal",
+       "2020-05-15-huawei-fdpr",
+       "2020-11-15-rcep",
+       "2023-11-15-biden-xi-woodside",
+       "2025-04-28-carney-wins",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-11-24-china-cables",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-04-16-zte-export-ban",
+       "2018-07-06-us-china-tariffs-begin",
+       "2018-09-30-usmca-deal",
+       "2018-12-01-meng-wanzhou-arrested",
+       "2017-01-20-trump-inaugurated",
+       "2017-01-23-us-quits-tpp",
+       "2016-11-08-trump-elected",
+       "2015-05-19-made-in-china-2025",
+       "2015-06-29-aiib-signed",
+       "2014-11-08-silk-road-fund",
+       "2013-03-14-xi-becomes-president",
+       "2013-09-07-silk-road-economic-belt",
+       "2012-11-15-xi-general-secretary",
+       "2005-07-21-yuan-peg-ends"
+      ],
+      "source": "inbox"
+     },
+     "kashmir-india-pakistan": {
+      "id": "kashmir-india-pakistan",
+      "name": "Kashmir & the India–Pakistan crises",
+      "entities": [
+       "india",
+       "pakistan",
+       "jaish-e-mohammed",
+       "narendra-modi"
+      ],
+      "stories": [
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked",
+       "2016-07-08-burhan-wani-kashmir-unrest",
+       "2016-09-18-uri-attack",
+       "2008-11-26-mumbai-attacks",
+       "2005-10-08-kashmir-earthquake",
+       "2003-11-26-loc-ceasefire",
+       "2002-06-india-pakistan-standoff"
+      ],
+      "source": "inbox"
+     },
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote",
+       "2021-07-07-moise-assassinated",
+       "2021-07-11-cuba-protests",
+       "2021-11-07-nicaragua-sham-vote",
+       "2021-12-19-boric-elected",
+       "2023-08-09-villavicencio-killed",
+       "2025-04-13-noboa-reelected",
+       "2025-04-28-carney-wins",
+       "2025-10-19-bolivia-paz",
+       "2025-10-26-milei-midterm-win",
+       "2019-01-01-bolsonaro-inaugurated",
+       "2019-01-23-guaido-interim-president",
+       "2019-10-03-ecuador-fuel-protests",
+       "2019-10-18-chile-estallido",
+       "2019-11-10-morales-resigns",
+       "2018-04-18-nicaragua-protests",
+       "2018-05-20-maduro-reelected",
+       "2018-07-01-amlo-elected",
+       "2018-09-30-usmca-deal",
+       "2018-10-12-migrant-caravan",
+       "2018-10-28-bolsonaro-elected",
+       "2017-07-30-venezuela-constituent-assembly",
+       "2016-02-01-zika-emergency",
+       "2016-08-31-rousseff-removed",
+       "2016-10-02-colombia-referendum-farc-deal",
+       "2016-11-25-fidel-castro-dies",
+       "2015-07-20-cuba-us-embassies",
+       "2015-11-22-macri-elected",
+       "2014-03-17-car-wash-begins",
+       "2014-09-26-iguala-kidnapping",
+       "2014-10-26-rousseff-reelected",
+       "2014-12-17-cuba-thaw-announced",
+       "2013-03-05-chavez-dies",
+       "2013-06-20-brazil-protests",
+       "2012-06-22-lugo-impeached",
+       "2012-07-01-pena-nieto-elected",
+       "2012-09-04-farc-talks-open",
+       "2011-01-01-rousseff-takes-office",
+       "2010-01-12-haiti-earthquake",
+       "2010-06-20-santos-elected",
+       "2010-08-24-san-fernando-massacre",
+       "2010-10-31-dilma-elected",
+       "2009-06-28-honduras-coup",
+       "2009-12-06-bolivia-morales-reelected",
+       "2008-02-19-fidel-castro-steps-down",
+       "2008-03-01-andean-crisis",
+       "2008-06-30-merida-initiative",
+       "2007-01-10-ortega-returns",
+       "2007-01-15-correa-takes-office",
+       "2006-05-01-bolivia-gas-nationalised",
+       "2006-07-02-mexico-calderon-wins",
+       "2006-10-29-lula-reelected",
+       "2006-12-11-mexico-drug-war",
+       "2005-11-05-mar-del-plata-summit",
+       "2005-12-18-morales-elected",
+       "2004-02-29-aristide-ousted",
+       "2004-10-31-uruguay-left-wins",
+       "2003-01-01-lula-takes-office",
+       "2003-05-25-kirchner-takes-office",
+       "2003-10-17-bolivia-gas-war",
+       "2002-01-argentina-peso-devalued",
+       "2002-08-07-uribe-takes-office",
+       "2002-10-27-lula-elected",
+       "2001-06-03-toledo-elected"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
