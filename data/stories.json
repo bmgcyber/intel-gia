@@ -61,7 +61,21 @@
    "2026-04-13-us-blockade-iran",
    "2026-06-17-islamabad-mou",
    "2026-08-17-mou-expires",
-   "2026-09-10-east-west-pipeline-attack"
+   "2026-09-10-east-west-pipeline-attack",
+   "2025-06-13-israel-strikes-iran",
+   "2025-06-22-midnight-hammer",
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-01-iran-missile-barrage",
+   "2024-04-01-damascus-consulate-strike",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2019-06-20-global-hawk-downed",
+   "2019-09-14-abqaiq-attack",
+   "2010-06-09-unsc-1929",
+   "2010-06-17-stuxnet"
   ],
   "causes": [
    {
@@ -88,8 +102,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "Strait of Hormuz; not pinned."
  },
  {
   "id": "us-iran-talks-deadlock",
@@ -133,6 +157,7 @@
   "related_stories": [
    "2022-09-jcpoa-stall",
    "2026-08-17-mou-expires",
+   "iran-seven-day-hormuz-offer",
    "hormuz-attacks-surge",
    "kataib-hezbollah-halt",
    "2022-03-27-negev-summit",
@@ -148,7 +173,26 @@
    "2026-07-08-mou-collapses",
    "2026-09-18-graham-act-signed",
    "2026-09-26-trump-rejects-iran-plan",
-   "iran-seven-day-hormuz-offer"
+   "2025-06-13-israel-strikes-iran",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2024-04-13-iran-strikes-israel",
+   "2024-10-01-iran-missile-barrage",
+   "2024-04-01-damascus-consulate-strike",
+   "second-mine-tanker-ukmto-record",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2020-08-13-abraham-accords",
+   "2020-12-14-sudan-delisted",
+   "2019-03-25-golan-recognition",
+   "2019-06-20-global-hawk-downed",
+   "2018-05-08-us-quits-jcpoa",
+   "2018-05-14-jerusalem-embassy-gaza",
+   "2017-01-27-travel-ban",
+   "2017-08-02-caatsa",
+   "2017-12-06-jerusalem-recognition",
+   "2010-06-09-unsc-1929",
+   "2010-06-17-stuxnet"
   ],
   "causes": [
    {
@@ -170,8 +214,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Diplomacy."
  },
  {
   "id": "houthis-hit-aramco",
@@ -322,7 +376,19 @@
    "houthis-hit-aden-palace",
    "saudi-blames-iran-eu-gcc-postponed",
    "yanbu-missile-intercepted",
-   "2026-07-20-houthi-saudi-blockade"
+   "2026-07-20-houthi-saudi-blockade",
+   "2024-01-12-us-uk-strike-houthis",
+   "2023-11-19-galaxy-leader-seized",
+   "egypt-offers-to-defend-saudi",
+   "houthis-aden-airport-khamis-mushait",
+   "2021-02-04-biden-yemen-shift",
+   "2019-09-14-abqaiq-attack",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-12-04-saleh-killed",
+   "2015-03-26-saudi-intervention-yemen",
+   "2014-09-21-houthis-take-sanaa"
   ],
   "causes": [
    {
@@ -344,8 +410,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "Yemen's Red Sea coast; Mokha is not pinned."
  },
  {
   "id": "kataib-hezbollah-halt",
@@ -395,7 +471,17 @@
    "2026-01-08-iran-protest-crackdown",
    "2026-02-28-iran-war-begins",
    "2026-03-13-kharg-strike",
-   "2026-07-08-mou-collapses"
+   "2026-07-08-mou-collapses",
+   "2024-01-28-tower-22",
+   "2024-04-13-iran-strikes-israel",
+   "second-mine-tanker-ukmto-record",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2019-06-20-global-hawk-downed",
+   "2019-12-27-k1-rocket-attack",
+   "2019-12-29-us-strikes-kataib-hezbollah",
+   "2019-12-31-baghdad-embassy-siege",
+   "2010-06-09-unsc-1929"
   ],
   "causes": [
    {
@@ -417,8 +503,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "Iraq-wide."
  },
  {
   "id": "energy-ceasefire",
@@ -557,7 +653,25 @@
    "russia-grid-strikes-oct16",
    "2026-02-06-us-india-tariff-cut",
    "2026-09-18-graham-act-signed",
-   "2026-09-22-zelensky-trump-unga"
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-08-27-india-50pct-tariff",
+   "2025-08-refinery-strikes",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-20-28-point-plan",
+   "2025-02-18-riyadh-us-russia-talks",
+   "iran-seven-day-hormuz-offer",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2019-10-09-operation-peace-spring",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2014-03-18-crimea-annexed"
   ],
   "causes": [
    {
@@ -589,8 +703,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Diplomacy."
  },
  {
   "id": "rare-earth-nov10",
@@ -777,7 +901,15 @@
    "pla-patrol-oct14-15",
    "eu-china-rare-earth-green-channel",
    "2026-05-14-trump-xi-beijing",
-   "2026-09-23-us-china-fragile-truce"
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-10-20-us-australia-minerals",
+   "2025-10-30-busan-truce",
+   "2025-11-06-c5-plus-1-summit",
+   "2024-12-03-china-bans-gallium-to-us",
+   "china-draft-ai-export-controls"
   ],
   "causes": [
    {
@@ -804,8 +936,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "energy",
+  "unplaced": "Global markets."
  },
  {
   "id": "pla-drills",
@@ -920,7 +1062,12 @@
    "kabila-frn-succeeds-afc",
    "ai-minerals",
    "rubaya-coltan",
-   "2026-01-19-m23-leaves-uvira"
+   "2026-01-19-m23-leaves-uvira",
+   "2025-01-27-m23-takes-goma",
+   "2025-12-04-washington-accords-uvira",
+   "2024-05-02-m23-seizes-rubaya",
+   "kinshasa-suspends-kabila-party",
+   "2012-11-20-m23-takes-goma"
   ],
   "causes": [
    {
@@ -942,8 +1089,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "political",
+  "unplaced": "Political announcement."
  },
  {
   "id": "rubaya-coltan",
@@ -995,7 +1152,8 @@
    "2026-03-washington-accords",
    "2025-01-27-m23-takes-goma",
    "2025-12-04-washington-accords-uvira",
-   "2024-05-02-m23-seizes-rubaya"
+   "2024-05-02-m23-seizes-rubaya",
+   "2012-11-20-m23-takes-goma"
   ],
   "causes": [
    {
@@ -1015,8 +1173,16 @@
     "fields": [
      "where"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker"
+    ]
    }
-  ]
+  ],
+  "marker": "military"
  },
  {
   "id": "kidal",
@@ -1140,6 +1306,7 @@
   "related_stories": [
    "2022-03-05-us-venezuela-talks",
    "2026-01-06-us-venezuela-oil-deal",
+   "venezuela-talks-election-rules",
    "hormuz-attacks-surge",
    "diesel-deal",
    "2022-03-08-us-oil-ban",
@@ -1160,7 +1327,18 @@
    "2026-04-13-us-blockade-iran",
    "2026-09-18-graham-act-signed",
    "2026-10-12-cuba-blockade-bites",
-   "venezuela-talks-election-rules"
+   "2025-08-27-india-50pct-tariff",
+   "2025-09-02-boat-strikes-begin",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "graham-waiver-bipartisan-backlash",
+   "2020-03-26-maduro-indicted",
+   "2019-01-23-guaido-interim-president",
+   "2019-01-28-pdvsa-sanctions",
+   "2017-07-30-venezuela-constituent-assembly"
   ],
   "causes": [
    {
@@ -1182,8 +1360,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "energy",
+  "unplaced": "Oil trade flows."
  },
  {
   "id": "2021-10-europe-gas-crunch",
@@ -1225,6 +1413,18 @@
    "2022-04-27-gas-cutoff-poland",
    "2022-05-18-repowereu",
    "2022-08-eu-gas-record"
+  ],
+  "marker": "energy",
+  "unplaced": "Europe-wide gas market.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -1279,7 +1479,8 @@
    "2022-10-27-sudani-govt",
    "2026-09-30-us-leaves-iraq",
    "2024-01-28-tower-22",
-   "2020-01-03-soleimani-killed"
+   "2020-01-03-soleimani-killed",
+   "2019-12-27-k1-rocket-attack"
   ],
   "revisions": [
    {
@@ -1288,8 +1489,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "baghdad"
+  ],
+  "marker": "political"
  },
  {
   "id": "2021-10-25-sudan-coup",
@@ -1309,7 +1522,9 @@
   "entities": [
    "sudan"
   ],
-  "storylines": [],
+  "storylines": [
+   "sudan-war"
+  ],
   "causes": [
    {
     "story": "2020-10-03-juba-agreement",
@@ -1332,8 +1547,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "khartoum"
+  ],
+  "marker": "military"
  },
  {
   "id": "2021-11-07-kadhimi-drone",
@@ -1380,7 +1608,8 @@
    "2022-10-27-sudani-govt",
    "2026-09-30-us-leaves-iraq",
    "2024-01-28-tower-22",
-   "2020-01-03-soleimani-killed"
+   "2020-01-03-soleimani-killed",
+   "2019-12-27-k1-rocket-attack"
   ],
   "revisions": [
    {
@@ -1389,8 +1618,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "baghdad"
+  ],
+  "marker": "strike"
  },
  {
   "id": "2021-11-russia-buildup",
@@ -1559,7 +1800,10 @@
    "2018-05-08-us-quits-jcpoa",
    "2022-09-jcpoa-stall",
    "saudi-blames-iran-eu-gcc-postponed",
-   "2025-09-28-iran-snapback"
+   "2025-09-28-iran-snapback",
+   "2016-01-16-jcpoa-implementation",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal"
   ],
   "revisions": [
    {
@@ -1582,8 +1826,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "vienna"
+  ],
+  "marker": "diplomacy"
  },
  {
   "id": "2021-12-17-russia-drafts",
@@ -1683,11 +1939,23 @@
    }
   ],
   "related_stories": [
-   "2022-06-14-msp",
    "rare-earth-nov10",
+   "2022-06-14-msp",
    "2026-05-22-china-japan-rare-earths",
    "2025-04-04-china-rare-earth-controls",
    "2023-07-03-china-gallium-controls"
+  ],
+  "marker": "political",
+  "unplaced": "Corporate consolidation.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -1796,12 +2064,27 @@
    "csto",
    "russia"
   ],
-  "storylines": [],
+  "storylines": [
+   "central-asia"
+  ],
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
    "2025-11-06-c5-plus-1-summit"
+  ],
+  "marker": "military",
+  "unplaced": "Nationwide unrest.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -1967,8 +2250,16 @@
      "causes",
      "where"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker"
+    ]
    }
-  ]
+  ],
+  "marker": "military"
  },
  {
   "id": "2022-02-04-no-limits",
@@ -2017,11 +2308,30 @@
    }
   ],
   "related_stories": [
-   "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-24-invasion",
    "2022-06-29-madrid",
-   "2024-10-02-china-coast-guard-arctic"
+   "2024-10-02-china-coast-guard-arctic",
+   "2021-11-russia-buildup",
+   "trump-waives-russia-sanctions",
+   "2025-03-14-svalbard-militarisation-row",
+   "2019-12-02-power-of-siberia",
+   "2014-05-21-russia-china-gas-deal",
+   "2011-03-19-libya-intervention"
+  ],
+  "where": [
+   "beijing"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2079,8 +2389,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "Exercises across Belarus."
  },
  {
   "id": "2022-02-17-france-leaves-mali",
@@ -2198,8 +2518,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "berlin"
+  ],
+  "marker": "energy"
  },
  {
   "id": "2022-02-21-recognition",
@@ -2492,9 +2824,29 @@
    "2022-02-24-invasion",
    "2022-03-07-oil-spike",
    "2022-04-27-gas-cutoff-poland",
-   "2022-09-02-price-cap",
    "2026-04-23-eu-90bn-loan",
-   "2025-12-18-eu-90bn-loan-agreed"
+   "2025-12-18-eu-90bn-loan-agreed",
+   "2022-09-02-price-cap",
+   "trump-disgrace-eu-summit",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2021-10-08-global-minimum-tax",
+   "2018-04-14-us-uk-france-strike-syria",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2013-11-24-iran-interim-deal",
+   "2011-03-19-libya-intervention"
+  ],
+  "marker": "political",
+  "unplaced": "Financial sanctions.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -2531,8 +2883,23 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
+   "2022-02-24-invasion",
    "2022-02-22-nord-stream-2-halt",
-   "2022-02-24-invasion"
+   "2018-07-11-trump-nord-stream-2"
+  ],
+  "where": [
+   "berlin"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2582,9 +2949,22 @@
   ],
   "related_stories": [
    "2022-02-24-invasion",
-   "2022-04-14-moskva",
    "2022-05-13-india-wheat-ban",
-   "2022-07-22-grain-deal"
+   "2022-07-22-grain-deal",
+   "2022-04-14-moskva",
+   "2023-07-17-russia-quits-grain-deal"
+  ],
+  "marker": "military",
+  "unplaced": "Ukraine's Black Sea ports.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -2621,7 +3001,22 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-02-24-invasion"
+   "2022-02-24-invasion",
+   "2023-06-06-kakhovka-dam"
+  ],
+  "where": [
+   "zaporizhzhia-npp"
+  ],
+  "marker": "military",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2668,7 +3063,31 @@
    "2022-02-24-invasion",
    "venezuela-oil",
    "2026-01-03-maduro-captured",
-   "2024-07-28-venezuela-stolen-election"
+   "2024-07-28-venezuela-stolen-election",
+   "us-weighs-shadow-fleet-relief",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-03-13-cuba-talks",
+   "2025-09-02-boat-strikes-begin",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
+   "2020-03-26-maduro-indicted",
+   "2019-01-23-guaido-interim-president",
+   "2019-01-28-pdvsa-sanctions",
+   "2017-07-30-venezuela-constituent-assembly"
+  ],
+  "where": [
+   "caracas"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2741,7 +3160,20 @@
    "2022-03-31-spr-release",
    "2022-05-sri-lanka-default",
    "2022-07-15-biden-saudi",
-   "2022-10-haiti-fuel"
+   "2022-10-haiti-fuel",
+   "iea-diesel-release"
+  ],
+  "marker": "energy",
+  "unplaced": "Global oil market.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -2780,14 +3212,35 @@
   "effects": [],
   "related_stories": [
    "2022-02-24-invasion",
+   "2026-09-18-graham-act-signed",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "diesel-deal",
+   "venezuela-oil",
    "2022-03-31-spr-release",
    "2022-07-15-biden-saudi",
    "2022-09-02-price-cap",
    "2022-10-05-opec-cut",
-   "diesel-deal",
-   "venezuela-oil",
-   "2026-09-18-graham-act-signed",
-   "2025-10-22-rosneft-lukoil-sanctions"
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "us-weighs-shadow-fleet-relief",
+   "trump-waives-russia-sanctions",
+   "2026-02-06-us-india-tariff-cut",
+   "2025-08-27-india-50pct-tariff",
+   "2021-06-16-biden-putin-geneva"
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "energy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2831,6 +3284,20 @@
   "related_stories": [
    "2022-02-24-invasion",
    "2022-06-14-msp"
+  ],
+  "where": [
+   "london"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -2853,7 +3320,9 @@
    "united-states",
    "inflation"
   ],
-  "storylines": [],
+  "storylines": [
+   "central-banks-rates"
+  ],
   "causes": [
    {
     "story": "2022-03-07-oil-spike",
@@ -2918,8 +3387,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-03-24-hwasong17",
@@ -2944,7 +3426,9 @@
    "north-korea",
    "kim-jong-un"
   ],
-  "storylines": [],
+  "storylines": [
+   "korean-peninsula"
+  ],
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [
@@ -2957,6 +3441,19 @@
   "related_stories": [
    "2022-10-04-dprk-over-japan",
    "2025-04-28-dprk-confirms-kursk-troops"
+  ],
+  "marker": "military",
+  "unplaced": "Launch site not on file.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3056,8 +3553,20 @@
   "effects": [],
   "related_stories": [
    "2021-12-wagner-mali",
-   "2022-02-17-france-leaves-mali",
-   "kidal"
+   "kidal",
+   "2022-02-17-france-leaves-mali"
+  ],
+  "marker": "strike",
+  "unplaced": "Moura, central Mali; no place on file.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3118,7 +3627,10 @@
    "2024-04-13-iran-strikes-israel",
    "2023-08-24-brics-expansion",
    "2023-11-24-gaza-hostage-truce",
-   "second-mine-tanker-ukmto-record"
+   "second-mine-tanker-ukmto-record",
+   "2019-05-12-fujairah-tanker-sabotage",
+   "2017-06-05-qatar-blockade",
+   "2010-06-17-stuxnet"
   ],
   "revisions": [
    {
@@ -3127,8 +3639,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Negev desert; no place on file."
  },
  {
   "id": "2022-03-29-istanbul-talks",
@@ -3171,7 +3693,23 @@
   "related_stories": [
    "2022-02-24-invasion",
    "2022-04-03-bucha",
-   "2022-07-22-grain-deal"
+   "2022-07-22-grain-deal",
+   "2023-07-17-russia-quits-grain-deal",
+   "poland-starlink-arson-russia-gang"
+  ],
+  "where": [
+   "istanbul"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3208,9 +3746,23 @@
   "effects": [],
   "related_stories": [
    "2022-03-07-oil-spike",
+   "2026-03-11-iea-record-release",
    "2022-03-08-us-oil-ban",
-   "2022-07-15-biden-saudi",
-   "2026-03-11-iea-record-release"
+   "2022-07-15-biden-saudi"
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "energy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3322,6 +3874,18 @@
   "related_stories": [
    "2022-03-29-istanbul-talks",
    "2022-06-03-eu-oil-embargo"
+  ],
+  "marker": "strike",
+  "unplaced": "Bucha, near Kyiv; no place on file.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3367,7 +3931,25 @@
    "2022-04-02-yemen-truce",
    "saudi-offensive-mokha",
    "2026-01-09-stc-dissolution",
-   "2025-12-03-stc-seizes-hadramawt"
+   "2025-12-03-stc-seizes-hadramawt",
+   "houthis-hit-aden-palace",
+   "houthis-aden-airport-khamis-mushait",
+   "2020-04-25-stc-self-rule",
+   "2018-06-13-hodeidah-offensive",
+   "2018-12-13-stockholm-agreement",
+   "2015-03-26-saudi-intervention-yemen"
+  ],
+  "marker": "political",
+  "unplaced": "Transfer of presidential power.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3388,7 +3970,9 @@
   "entities": [
    "pakistan"
   ],
-  "storylines": [],
+  "storylines": [
+   "south-asia-security"
+  ],
   "causes": [
    {
     "story": "2018-07-25-imran-khan-elected",
@@ -3409,8 +3993,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "islamabad"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-04-14-moskva",
@@ -3445,9 +4042,22 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-02-24-grain-halt",
    "2022-02-24-invasion",
-   "2022-07-22-grain-deal"
+   "2022-02-24-grain-halt",
+   "2022-07-22-grain-deal",
+   "2023-07-17-russia-quits-grain-deal"
+  ],
+  "marker": "military",
+  "unplaced": "Black Sea.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3492,8 +4102,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Bilateral pact."
  },
  {
   "id": "2022-04-19-mexico-lithium",
@@ -3524,7 +4144,21 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [],
+  "where": [
+   "mexico-city"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-04-shanghai-lockdown",
@@ -3544,7 +4178,10 @@
   "entities": [
    "china"
   ],
-  "storylines": [],
+  "storylines": [
+   "china-economy",
+   "covid-shock"
+  ],
   "causes": [
    {
     "story": "2020-01-23-wuhan-lockdown",
@@ -3585,8 +4222,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "shanghai"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-04-27-gas-cutoff-poland",
@@ -3628,10 +4278,22 @@
    }
   ],
   "related_stories": [
-   "2021-10-europe-gas-crunch",
    "2022-02-26-swift-cbr",
    "2022-05-18-repowereu",
+   "2021-10-europe-gas-crunch",
    "2022-08-eu-gas-record"
+  ],
+  "marker": "energy",
+  "unplaced": "Supplies to Poland and Bulgaria.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -3674,6 +4336,20 @@
   "related_stories": [
    "2022-02-24-grain-halt",
    "2022-07-22-grain-deal"
+  ],
+  "where": [
+   "new-delhi"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3709,8 +4385,22 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2021-12-wagner-mali",
-   "2022-02-17-france-leaves-mali"
+   "2022-02-17-france-leaves-mali",
+   "2021-12-wagner-mali"
+  ],
+  "where": [
+   "bamako"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3756,7 +4446,23 @@
   "related_stories": [
    "2022-02-24-invasion",
    "2022-06-29-madrid",
-   "2023-04-04-finland-joins-nato"
+   "2023-04-04-finland-joins-nato",
+   "2024-03-07-sweden-joins-nato",
+   "2025-05-10-russia-arctic-buildup"
+  ],
+  "where": [
+   "brussels"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3809,8 +4515,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "brussels"
+  ],
+  "marker": "energy"
  },
  {
   "id": "2022-05-20-mariupol",
@@ -3883,7 +4601,9 @@
    "inflation",
    "food-security"
   ],
-  "storylines": [],
+  "storylines": [
+   "south-asia-security"
+  ],
   "causes": [
    {
     "story": "2022-03-07-oil-spike",
@@ -3908,6 +4628,21 @@
    "2022-03-07-oil-spike",
    "2022-03-16-fed-hike",
    "2022-07-sri-lanka-flight"
+  ],
+  "where": [
+   "colombo"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -3967,7 +4702,9 @@
    "2025-04-02-liberation-day",
    "2024-05-14-biden-ev-tariffs",
    "2020-10-06-quad-tokyo-malabar",
-   "2023-11-15-biden-xi-woodside"
+   "2023-11-15-biden-xi-woodside",
+   "2022-11-14-biden-xi-bali",
+   "2013-11-23-china-ecs-adiz"
   ],
   "revisions": [
    {
@@ -3983,8 +4720,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "tokyo"
+  ],
+  "marker": "diplomacy"
  },
  {
   "id": "2022-06-03-eu-oil-embargo",
@@ -4037,9 +4786,24 @@
   ],
   "related_stories": [
    "2022-04-03-bucha",
+   "diesel-deal",
    "2022-06-14-nordstream-cut",
    "2022-09-02-price-cap",
-   "diesel-deal"
+   "trump-disgrace-eu-summit"
+  ],
+  "where": [
+   "brussels"
+  ],
+  "marker": "energy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4085,7 +4849,23 @@
    "rubaya-coltan",
    "2026-01-19-m23-leaves-uvira",
    "2025-01-27-m23-takes-goma",
-   "2024-05-02-m23-seizes-rubaya"
+   "2024-05-02-m23-seizes-rubaya",
+   "kabila-frn-succeeds-afc",
+   "2026-03-washington-accords",
+   "2025-12-04-washington-accords-uvira",
+   "2012-11-20-m23-takes-goma"
+  ],
+  "marker": "military",
+  "unplaced": "Bunagana, DRC–Uganda border; no Wikipedia coordinates.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -4135,11 +4915,39 @@
    }
   ],
   "related_stories": [
-   "2021-12-china-rare-earth-group",
    "2022-03-08-lme-nickel",
+   "2021-12-china-rare-earth-group",
    "2022-08-16-ira",
+   "rare-earth-nov10",
    "ai-minerals",
-   "rare-earth-nov10"
+   "pla-patrol-oct14-15",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "eu-china-rare-earth-green-channel",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-02-liberation-day",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-10-20-us-australia-minerals",
+   "2025-10-30-busan-truce",
+   "2025-11-06-c5-plus-1-summit",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Multilateral partnership.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -4187,10 +4995,23 @@
    }
   ],
   "related_stories": [
-   "2022-02-22-nord-stream-2-halt",
    "2022-06-03-eu-oil-embargo",
    "2022-08-eu-gas-record",
-   "2022-09-26-nord-stream-sabotage"
+   "2022-09-26-nord-stream-sabotage",
+   "2022-02-22-nord-stream-2-halt",
+   "2021-07-21-nord-stream-2-deal"
+  ],
+  "marker": "energy",
+  "unplaced": "Pipeline flows.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -4213,7 +5034,9 @@
    "inflation",
    "united-states"
   ],
-  "storylines": [],
+  "storylines": [
+   "central-banks-rates"
+  ],
   "causes": [
    {
     "story": "2022-03-16-fed-hike",
@@ -4225,7 +5048,29 @@
   "effects": [],
   "related_stories": [
    "2022-03-16-fed-hike",
-   "2023-03-10-svb-collapse"
+   "2023-03-10-svb-collapse",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-05-13-warsh-confirmed",
+   "2026-09-16-fed-hikes",
+   "2025-12-10-fed-third-cut",
+   "2024-09-18-fed-jumbo-cut",
+   "2023-07-26-fed-peak-rate"
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4256,6 +5101,20 @@
   "effects": [],
   "related_stories": [
    "2026-06-21-colombia-de-la-espriella"
+  ],
+  "where": [
+   "bogota"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4341,6 +5200,20 @@
   "related_stories": [
    "2022-02-24-invasion",
    "2023-12-14-eu-opens-ukraine-talks"
+  ],
+  "where": [
+   "brussels"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4384,10 +5257,29 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-02-04-no-limits",
    "2022-05-18-finland-sweden",
+   "2022-02-04-no-limits",
    "2026-07-08-nato-ankara",
-   "2025-06-25-nato-hague-5pct"
+   "2025-06-25-nato-hague-5pct",
+   "2023-04-04-finland-joins-nato",
+   "2024-03-07-sweden-joins-nato",
+   "2025-03-14-svalbard-militarisation-row",
+   "2025-05-10-russia-arctic-buildup",
+   "2011-03-19-libya-intervention"
+  ],
+  "where": [
+   "madrid"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4412,7 +5304,19 @@
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
-  "related_stories": []
+  "related_stories": [],
+  "marker": "political",
+  "unplaced": "Nara; no place on file.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
+  ]
  },
  {
   "id": "2022-07-sri-lanka-flight",
@@ -4432,7 +5336,9 @@
   "entities": [
    "sri-lanka"
   ],
-  "storylines": [],
+  "storylines": [
+   "south-asia-security"
+  ],
   "causes": [
    {
     "story": "2022-05-sri-lanka-default",
@@ -4445,6 +5351,21 @@
   "related_stories": [
    "2022-05-sri-lanka-default",
    "2024-08-05-hasina-flees"
+  ],
+  "where": [
+   "colombo"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4489,11 +5410,29 @@
   ],
   "related_stories": [
    "2022-03-07-oil-spike",
-   "2022-03-08-us-oil-ban",
-   "2022-03-31-spr-release",
    "2022-10-05-opec-cut",
    "hormuz-attacks-surge",
-   "houthis-hit-aramco"
+   "houthis-hit-aramco",
+   "2022-03-08-us-oil-ban",
+   "2022-03-31-spr-release",
+   "houthis-saudi-oct15",
+   "2025-05-13-trump-lifts-syria-sanctions",
+   "second-mine-tanker-ukmto-record",
+   "2021-02-04-biden-yemen-shift"
+  ],
+  "where": [
+   "jeddah"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4540,8 +5479,28 @@
   ],
   "related_stories": [
    "2022-02-24-invasion",
+   "2022-10-iran-drones-russia",
    "2022-09-16-mahsa-amini",
-   "2022-10-iran-drones-russia"
+   "2020-03-05-idlib-ceasefire",
+   "2021-06-18-raisi-elected",
+   "2018-09-17-idlib-sochi-deal",
+   "2017-01-23-astana-talks",
+   "2015-09-30-russia-enters-syria",
+   "2015-11-24-turkey-downs-su-24"
+  ],
+  "where": [
+   "tehran"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4586,10 +5545,25 @@
   "effects": [],
   "related_stories": [
    "2022-02-24-grain-halt",
+   "2022-05-13-india-wheat-ban",
+   "2023-07-17-russia-quits-grain-deal",
    "2022-03-29-istanbul-talks",
    "2022-04-14-moskva",
-   "2022-05-13-india-wheat-ban",
-   "2023-07-17-russia-quits-grain-deal"
+   "poland-starlink-arson-russia-gang"
+  ],
+  "where": [
+   "istanbul"
+  ],
+  "marker": "diplomacy",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4612,7 +5586,9 @@
    "al-qaeda",
    "afghanistan"
   ],
-  "storylines": [],
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
   "causes": [
    {
     "story": "2020-02-29-doha-agreement",
@@ -4646,8 +5622,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "kabul"
+  ],
+  "marker": "strike"
  },
  {
   "id": "2022-08-02-pelosi",
@@ -4846,10 +5835,27 @@
    }
   ],
   "related_stories": [
-   "2022-05-23-ipef",
    "2022-06-14-msp",
+   "ai-minerals",
+   "2022-05-23-ipef",
    "2022-08-09-chips-act",
-   "ai-minerals"
+   "2024-05-14-biden-ev-tariffs",
+   "2023-11-15-biden-xi-woodside",
+   "2022-11-14-biden-xi-bali"
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4897,12 +5903,24 @@
    }
   ],
   "related_stories": [
-   "2021-10-europe-gas-crunch",
-   "2022-04-27-gas-cutoff-poland",
-   "2022-05-18-repowereu",
    "2022-06-14-nordstream-cut",
    "2022-09-23-uk-mini-budget",
-   "2022-10-11-israel-lebanon"
+   "2022-10-11-israel-lebanon",
+   "2021-10-europe-gas-crunch",
+   "2022-04-27-gas-cutoff-poland",
+   "2022-05-18-repowereu"
+  ],
+  "marker": "energy",
+  "unplaced": "European gas market.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -4946,9 +5964,27 @@
   ],
   "related_stories": [
    "2021-10-10-iraq-election",
-   "2021-11-07-kadhimi-drone",
    "2022-10-27-sudani-govt",
-   "kataib-hezbollah-halt"
+   "kataib-hezbollah-halt",
+   "2021-11-07-kadhimi-drone",
+   "2026-09-30-us-leaves-iraq",
+   "2024-01-28-tower-22",
+   "2020-01-03-soleimani-killed",
+   "2019-12-27-k1-rocket-attack"
+  ],
+  "where": [
+   "baghdad"
+  ],
+  "marker": "military",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -4975,6 +6011,18 @@
   "effects": [],
   "related_stories": [
    "2023-07-12-imf-pakistan-sba"
+  ],
+  "marker": "political",
+  "unplaced": "Nationwide flooding.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -5028,10 +6076,36 @@
   ],
   "related_stories": [
    "2022-08-04-pla-drills",
-   "2022-08-09-chips-act",
    "2022-10-07-bis-controls",
+   "rare-earth-nov10",
    "ai-minerals",
-   "rare-earth-nov10"
+   "2022-08-09-chips-act",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week",
+   "2026-03-17-hyperscaler-ai-debt",
+   "2026-05-14-trump-xi-beijing",
+   "2025-01-27-deepseek-shock",
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-12-08-h200-china",
+   "2024-05-14-biden-ev-tariffs",
+   "2024-12-03-china-bans-gallium-to-us",
+   "2023-10-17-us-chip-rules-tightened",
+   "china-draft-ai-export-controls",
+   "2020-05-15-huawei-fdpr"
+  ],
+  "where": [
+   "washington-dc"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -5080,12 +6154,38 @@
    }
   ],
   "related_stories": [
+   "2022-06-03-eu-oil-embargo",
+   "diesel-deal",
+   "2022-10-05-opec-cut",
+   "venezuela-oil",
    "2022-02-26-swift-cbr",
    "2022-03-08-us-oil-ban",
-   "2022-06-03-eu-oil-embargo",
-   "2022-10-05-opec-cut",
-   "diesel-deal",
-   "venezuela-oil"
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "iea-diesel-release",
+   "us-weighs-shadow-fleet-relief",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-10-02-g7-diesel-release",
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2021-10-08-global-minimum-tax",
+   "2015-07-14-jcpoa-agreed",
+   "2014-03-18-crimea-annexed",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "marker": "energy",
+  "unplaced": "G7 decision.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -5163,7 +6263,9 @@
    "chile",
    "lithium"
   ],
-  "storylines": [],
+  "storylines": [
+   "ai-compute-minerals"
+  ],
   "causes": [
    {
     "story": "2020-10-25-chile-plebiscite",
@@ -5196,8 +6298,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "santiago"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-09-13-armenia-azerbaijan",
@@ -5221,7 +6336,9 @@
    "russia",
    "turkey"
   ],
-  "storylines": [],
+  "storylines": [
+   "south-caucasus"
+  ],
   "causes": [
    {
     "story": "2022-09-06-kharkiv",
@@ -5250,8 +6367,19 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
    }
-  ]
+  ],
+  "marker": "military",
+  "unplaced": "Armenia–Azerbaijan border."
  },
  {
   "id": "2022-09-16-mahsa-amini",
@@ -5311,8 +6439,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "tehran"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-09-jcpoa-stall",
@@ -5365,7 +6505,25 @@
    "us-iran-talks-deadlock",
    "2026-02-28-iran-war-begins",
    "2025-06-13-israel-strikes-iran",
-   "2025-09-28-iran-snapback"
+   "2025-09-28-iran-snapback",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2021-04-11-natanz-sabotage",
+   "2018-05-08-us-quits-jcpoa",
+   "2016-01-16-jcpoa-implementation",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Negotiations.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -5407,12 +6565,38 @@
    }
   ],
   "related_stories": [
+   "2022-09-06-kharkiv",
+   "2022-09-30-annexation",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-21-recognition",
    "2022-02-24-invasion",
-   "2022-09-06-kharkiv",
-   "2022-09-30-annexation"
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2025-08-15-alaska-summit",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2021-04-01-russia-spring-buildup",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed"
+  ],
+  "where": [
+   "moscow"
+  ],
+  "marker": "military",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -5434,7 +6618,9 @@
    "united-kingdom",
    "inflation"
   ],
-  "storylines": [],
+  "storylines": [
+   "central-banks-rates"
+  ],
   "causes": [
    {
     "story": "2022-08-eu-gas-record",
@@ -5447,6 +6633,21 @@
   "related_stories": [
    "2022-08-eu-gas-record",
    "2022-10-25-sunak-pm"
+  ],
+  "where": [
+   "london"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -5483,8 +6684,20 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-02-22-nord-stream-2-halt",
-   "2022-06-14-nordstream-cut"
+   "2022-06-14-nordstream-cut",
+   "2022-02-22-nord-stream-2-halt"
+  ],
+  "marker": "strike",
+  "unplaced": "Baltic Sea seabed.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -5520,12 +6733,38 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
+   "2022-09-21-mobilization",
+   "2022-11-11-kherson-liberated",
    "2021-11-russia-buildup",
    "2021-12-17-russia-drafts",
    "2022-02-21-recognition",
    "2022-02-24-invasion",
-   "2022-09-21-mobilization",
-   "2022-11-11-kherson-liberated"
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2025-08-15-alaska-summit",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "2021-04-01-russia-spring-buildup",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed"
+  ],
+  "where": [
+   "moscow"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -5585,8 +6824,16 @@
     "fields": [
      "where"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker"
+    ]
    }
-  ]
+  ],
+  "marker": "military"
  },
  {
   "id": "2022-10-02-truce-expires",
@@ -5713,7 +6960,8 @@
    "2025-10-22-rosneft-lukoil-sanctions",
    "2025-02-18-riyadh-us-russia-talks",
    "second-mine-tanker-ukmto-record",
-   "2020-03-09-oil-price-war"
+   "2020-03-09-oil-price-war",
+   "2016-12-10-opec-plus-formed"
   ],
   "revisions": [
    {
@@ -5722,8 +6970,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "vienna"
+  ],
+  "marker": "energy"
  },
  {
   "id": "2022-10-07-bis-controls",
@@ -5976,7 +7236,22 @@
   "effects": [],
   "related_stories": [
    "2022-07-19-putin-tehran",
-   "2022-10-10-energy-strikes"
+   "2022-10-10-energy-strikes",
+   "2020-01-08-iran-retaliates-ps752"
+  ],
+  "where": [
+   "kyiv"
+  ],
+  "marker": "strike",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -6000,7 +7275,9 @@
    "united-states",
    "natural-gas"
   ],
-  "storylines": [],
+  "storylines": [
+   "levant-wars"
+  ],
   "causes": [
    {
     "story": "2022-08-eu-gas-record",
@@ -6011,7 +7288,23 @@
   "batch": "backfill-2021-22",
   "effects": [],
   "related_stories": [
-   "2022-08-eu-gas-record"
+   "2022-08-eu-gas-record",
+   "2026-08-17-mou-expires",
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "lebanon-tampa-talks-demands"
+  ],
+  "marker": "diplomacy",
+  "unplaced": "Maritime boundary.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -6059,8 +7352,20 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "beijing"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-10-27-sudani-govt",
@@ -6102,11 +7407,28 @@
    }
   ],
   "related_stories": [
-   "2021-10-10-iraq-election",
-   "2021-11-07-kadhimi-drone",
    "2022-08-29-baghdad-clashes",
    "kataib-hezbollah-halt",
-   "2026-09-30-us-leaves-iraq"
+   "2026-09-30-us-leaves-iraq",
+   "2021-10-10-iraq-election",
+   "2021-11-07-kadhimi-drone",
+   "2024-01-28-tower-22",
+   "2020-01-03-soleimani-killed",
+   "2019-12-27-k1-rocket-attack"
+  ],
+  "where": [
+   "baghdad"
+  ],
+  "marker": "political",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "where",
+     "marker"
+    ]
+   }
   ]
  },
  {
@@ -6128,7 +7450,9 @@
    "brazil",
    "lula"
   ],
-  "storylines": [],
+  "storylines": [
+   "western-hemisphere"
+  ],
   "causes": [],
   "batch": "backfill-2021-22",
   "effects": [],
@@ -6136,6 +7460,19 @@
    "2026-10-04-brazil-first-round",
    "2025-09-11-bolsonaro-convicted",
    "2023-01-08-brasilia-attacks"
+  ],
+  "marker": "political",
+  "unplaced": "National election.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -6156,7 +7493,9 @@
   "entities": [
    "haiti"
   ],
-  "storylines": [],
+  "storylines": [
+   "western-hemisphere"
+  ],
   "causes": [
    {
     "story": "2022-03-07-oil-spike",
@@ -6183,8 +7522,21 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines",
+     "where",
+     "marker"
+    ]
    }
-  ]
+  ],
+  "where": [
+   "port-au-prince"
+  ],
+  "marker": "political"
  },
  {
   "id": "2022-10-04-dprk-over-japan",
@@ -6220,6 +7572,18 @@
   "effects": [],
   "related_stories": [
    "2022-03-24-hwasong17"
+  ],
+  "marker": "military",
+  "unplaced": "Missile flew over northern Japan.",
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "marker",
+     "unplaced"
+    ]
+   }
   ]
  },
  {
@@ -7991,8 +9355,13 @@
   ],
   "causes": [
    {
-    "story": "rare-earth-nov10",
-    "why": "The looming Nov 10 expiry keeps rare-earth licensing at the centre of China's trade leverage",
+    "story": "2025-10-09-china-rare-earth-expansion",
+    "why": "The suspended Oct 2025 controls (suspension ends Nov 10) keep licensing at the centre of China's leverage",
+    "confidence": "possible"
+   },
+   {
+    "story": "2025-10-30-busan-truce",
+    "why": "The Busan truce set the one-year clock to Nov 10",
     "confidence": "possible"
    }
   ],
@@ -8011,11 +9380,33 @@
    "beijing"
   ],
   "related_stories": [
+   "2025-10-09-china-rare-earth-expansion",
+   "2025-10-30-busan-truce",
    "rare-earth-nov10",
    "ai-minerals",
    "2022-06-14-msp",
    "pla-patrol-oct14-15",
-   "saudi-blames-iran-eu-gcc-postponed"
+   "saudi-blames-iran-eu-gcc-postponed",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-23-us-china-fragile-truce",
+   "2025-04-02-liberation-day",
+   "2025-04-04-china-rare-earth-controls",
+   "2025-07-10-mp-materials-dod",
+   "2025-10-20-us-australia-minerals",
+   "2025-11-06-c5-plus-1-summit",
+   "2018-03-08-steel-aluminum-tariffs",
+   "2016-11-04-paris-agreement-in-force",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C sweep: chronology fix. The cause rare-earth-nov10 (dated 2026-10-14) postdates this 2026-10-09 story; replaced with the earlier root causes it summarised",
+    "fields": [
+     "causes"
+    ]
+   }
   ]
  },
  {
@@ -8940,7 +10331,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "nuclear-arms-control"
   ]
  },
  {
@@ -14927,7 +16328,9 @@
   ],
   "related_stories": [
    "2023-09-19-karabakh-falls",
-   "2022-09-13-armenia-azerbaijan"
+   "2022-09-13-armenia-azerbaijan",
+   "2020-09-27-karabakh-war",
+   "2020-11-10-karabakh-ceasefire"
   ],
   "revisions": [
    {
@@ -14936,7 +16339,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "south-caucasus"
   ]
  },
  {
@@ -15947,7 +17360,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -18548,6 +19971,18 @@
   ],
   "related_stories": [
    "2025-10-14-madagascar-coup"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -21625,6 +23060,18 @@
   "unplaced": "A national election.",
   "related_stories": [
    "2023-02-06-turkey-syria-quake"
+  ],
+  "storylines": [
+   "turkey-erdogan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -22188,7 +23635,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "south-caucasus"
   ]
  },
  {
@@ -22814,7 +24271,18 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "china-economy",
+   "covid-shock"
   ]
  },
  {
@@ -23172,7 +24640,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "china-economy"
   ]
  },
  {
@@ -29369,6 +30847,18 @@
   ],
   "related_stories": [
    "2021-03-24-palma-attack"
+  ],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -29762,7 +31252,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "central-asia"
   ]
  },
  {
@@ -29894,7 +31394,19 @@
   "where": [
    "lagos"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2020-10-23-libya-ceasefire",
@@ -30554,7 +32066,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "us-domestic-politics"
   ]
  },
  {
@@ -30709,7 +32231,19 @@
    "nice",
    "vienna"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2020-11-03-ant-ipo-halted",
@@ -30747,7 +32281,19 @@
   "where": [
    "shanghai"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-economy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2020-11-26-farmers-protest",
@@ -31500,6 +33046,18 @@
   ],
   "related_stories": [
    "2020-08-12-mocimboa-falls"
+  ],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -31735,7 +33293,19 @@
   "era": "2021 (post-pandemic recovery)",
   "marker": "energy",
   "unplaced": "Cyberattack on a pipeline network.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "global-oil"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2021-05-10-gaza-war",
@@ -32562,6 +34132,18 @@
   "unplaced": "Corporate debt crisis.",
   "related_stories": [
    "2023-10-18-country-garden-default"
+  ],
+  "storylines": [
+   "china-economy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -32860,7 +34442,19 @@
   "where": [
    "glasgow"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2021-11-26-omicron",
@@ -33035,7 +34629,19 @@
   "era": "2023 (war of attrition)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2023-03-17-icc-putin-warrant",
@@ -33786,7 +35392,19 @@
   "era": "2024 (year of elections)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2024-06-25-kenya-parliament-stormed",
@@ -33819,7 +35437,19 @@
   "where": [
    "nairobi"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2024-07-13-trump-shot",
@@ -33854,6 +35484,18 @@
   ],
   "related_stories": [
    "2024-11-05-trump-elected"
+  ],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -33887,8 +35529,20 @@
   "marker": "political",
   "unplaced": "Announcement on social media.",
   "related_stories": [
-   "2021-01-20-biden-inaugurated",
-   "2024-11-05-trump-elected"
+   "2024-11-05-trump-elected",
+   "2021-01-20-biden-inaugurated"
+  ],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -35593,7 +37247,19 @@
   "where": [
    "astana"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "central-asia"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2019-03-23-baghuz-caliphate-ends",
@@ -35759,7 +37425,19 @@
   "where": [
    "algiers"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2019-04-04-haftar-tripoli-offensive",
@@ -35949,7 +37627,19 @@
   "where": [
    "colombo"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2019-05-10-us-china-tariffs-escalate",
@@ -38012,7 +39702,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -39062,7 +40762,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "turkey-erdogan"
   ]
  },
  {
@@ -39465,7 +41175,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -39563,7 +41283,20 @@
   "unplaced": "Currency crisis.",
   "related_stories": [
    "2018-03-08-steel-aluminum-tariffs",
-   "2019-10-09-operation-peace-spring"
+   "2019-10-09-operation-peace-spring",
+   "2016-07-15-turkey-coup-attempt"
+  ],
+  "storylines": [
+   "turkey-erdogan"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -39939,7 +41672,19 @@
   "era": "2018 (trade war and summitry)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2018-11-17-yellow-vests",
@@ -40336,7 +42081,19 @@
   "where": [
    "banjul"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-01-23-us-quits-tpp",
@@ -40492,7 +42249,21 @@
    "2019-03-25-golan-recognition",
    "2019-06-20-global-hawk-downed",
    "2019-10-09-operation-peace-spring",
-   "2018-05-08-us-quits-jcpoa"
+   "2018-05-08-us-quits-jcpoa",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa"
+  ],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -40854,7 +42625,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "turkey-erdogan"
   ]
  },
  {
@@ -40917,7 +42698,19 @@
   "era": "2017 (Trump's first year)",
   "marker": "strike",
   "unplaced": "Global cyberattack.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-05-19-rouhani-reelected",
@@ -41002,7 +42795,19 @@
   "where": [
    "manchester-arena"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-05-23-marawi-siege",
@@ -41581,7 +43386,19 @@
   "where": [
    "barcelona"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "isis-war"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-08-25-rohingya-exodus",
@@ -41699,7 +43516,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -41879,7 +43706,19 @@
   "where": [
    "barcelona"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-10-04-tongo-tongo-ambush",
@@ -41945,7 +43784,19 @@
   "where": [
    "mogadishu"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-10-16-kirkuk-retaken",
@@ -42161,6 +44012,18 @@
   ],
   "related_stories": [
    "2018-07-30-zimbabwe-election"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -42366,6 +44229,18 @@
   "unplaced": "Party conference.",
   "related_stories": [
    "2018-02-15-ramaphosa-president"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -42399,7 +44274,19 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2017-12-28-iran-dey-protests",
@@ -43486,7 +45373,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "turkey-erdogan"
   ]
  },
  {
@@ -43700,6 +45597,18 @@
   ],
   "related_stories": [
    "2023-08-30-gabon-coup"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -44426,7 +46335,22 @@
    "saudi-blames-iran-eu-gcc-postponed",
    "eu-china-rare-earth-green-channel",
    "2025-04-02-liberation-day",
-   "2018-03-08-steel-aluminum-tariffs"
+   "2018-03-08-steel-aluminum-tariffs",
+   "2015-07-14-jcpoa-agreed",
+   "2015-12-12-paris-climate-agreement",
+   "2013-11-24-iran-interim-deal"
+  ],
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -45086,7 +47010,19 @@
   "where": [
    "garissa"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-04-09-south-china-sea-reclamation",
@@ -45198,7 +47134,19 @@
   "where": [
    "bujumbura"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-05-08-cameron-majority",
@@ -45720,7 +47668,19 @@
   "where": [
    "shanghai"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "china-economy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2015-09-04-merkel-opens-border",
@@ -46337,7 +48297,20 @@
    "2017-06-01-us-quits-paris-agreement",
    "2021-09-15-aukus",
    "2016-11-04-paris-agreement-in-force",
-   "2015-07-14-jcpoa-agreed"
+   "2015-07-14-jcpoa-agreed",
+   "2011-03-19-libya-intervention"
+  ],
+  "storylines": [
+   "climate-diplomacy"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -47154,7 +49127,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -47635,6 +49618,18 @@
   ],
   "related_stories": [
    "2020-05-26-george-floyd-protests"
+  ],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -47712,6 +49707,18 @@
   ],
   "related_stories": [
    "2015-05-08-cameron-majority"
+  ],
+  "storylines": [
+   "europe-populism"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -48640,8 +50647,20 @@
    "bangui"
   ],
   "related_stories": [
-   "2013-12-05-france-sangaris-car",
-   "2018-07-30-wagner-car-journalists"
+   "2018-07-30-wagner-car-journalists",
+   "2013-12-05-france-sangaris-car"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -48706,6 +50725,18 @@
   ],
   "related_stories": [
    "2017-09-01-kenya-election-annulled"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -48860,7 +50891,19 @@
   "where": [
    "boston"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2013-04-24-rana-plaza",
@@ -49978,7 +52021,19 @@
   "where": [
    "washington-dc"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2013-12-05-france-sangaris-car",
@@ -50015,6 +52070,18 @@
   ],
   "related_stories": [
    "2013-03-24-seleka-takes-bangui"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -50043,7 +52110,19 @@
   "where": [
    "johannesburg"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2013-12-26-abe-yasukuni",
@@ -51248,6 +53327,18 @@
   ],
   "related_stories": [
    "2018-02-15-ramaphosa-president"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -51398,7 +53489,19 @@
   "era": "2012 (Xi's rise, Mali, whatever it takes)",
   "marker": "political",
   "unplaced": "National election.",
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2012-11-14-pillar-of-defense",
@@ -52362,7 +54465,17 @@
     "fields": [
      "causes"
     ]
+   },
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
    }
+  ],
+  "storylines": [
+   "africa-governance"
   ]
  },
  {
@@ -52801,7 +54914,19 @@
   "where": [
    "zuccotti-park"
   ],
-  "related_stories": []
+  "related_stories": [],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
+  ]
  },
  {
   "id": "2011-10-16-kenya-invades-somalia",
@@ -53336,6 +55461,18 @@
   ],
   "related_stories": [
    "2011-01-14-ben-ali-flees"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -53710,6 +55847,18 @@
   ],
   "related_stories": [
    "2020-10-05-kyrgyz-revolution"
+  ],
+  "storylines": [
+   "central-asia"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -54495,6 +56644,18 @@
   ],
   "related_stories": [
    "2017-09-01-kenya-election-annulled"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -54619,6 +56780,18 @@
   "unplaced": "National election.",
   "related_stories": [
    "2011-08-05-us-downgrade"
+  ],
+  "storylines": [
+   "us-domestic-politics"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {
@@ -54769,6 +56942,18 @@
   ],
   "related_stories": [
    "2011-04-11-gbagbo-captured"
+  ],
+  "storylines": [
+   "africa-governance"
+  ],
+  "revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+    "fields": [
+     "storylines"
+    ]
+   }
   ]
  },
  {

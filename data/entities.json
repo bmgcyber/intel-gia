@@ -624,7 +624,19 @@
   "id": "zaporizhzhia-npp",
   "name": "Zaporizhzhia Nuclear Power Plant",
   "type": "place",
-  "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant"
+  "wikipedia": "https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant",
+  "lat": 47.50833333,
+  "lon": 34.58444444,
+  "precision": "feature",
+  "location_revisions": [
+   {
+    "edition": "2026-10-13",
+    "why": "Phase C sweep: add coordinates from the Wikipedia article (Zaporizhzhia Nuclear Power Plant)",
+    "lat": 47.50833333,
+    "lon": 34.58444444,
+    "precision": "feature"
+   }
+  ]
  },
  {
   "id": "swift",
