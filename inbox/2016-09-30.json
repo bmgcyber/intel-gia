@@ -1,0 +1,482 @@
+{
+ "edition": "2016-09-30",
+ "stories": [
+  {
+   "id": "2016-07-08-nato-warsaw-summit",
+   "date": "2016-07-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "NATO agrees to station battalions in Poland and the Baltics",
+   "summary": "The Warsaw summit agreed rotating multinational battlegroups on the eastern flank, a response to Russia's 2014 seizure of Crimea.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Warsaw_NATO_summit"
+    }
+   ],
+   "entities": [
+    "nato",
+    "poland",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "military",
+   "where": [
+    "warsaw"
+   ]
+  },
+  {
+   "id": "2016-07-08-juba-clashes",
+   "date": "2016-07-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Africa",
+   "title": "Fighting in Juba between Kiir and Machar forces collapses South Sudan's peace deal",
+   "summary": "Riek Machar fled the country and the civil war that began in 2013 reignited.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Juba_%282016%29"
+    }
+   ],
+   "entities": [
+    "south-sudan",
+    "salva-kiir",
+    "riek-machar"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "military",
+   "where": [
+    "juba"
+   ]
+  },
+  {
+   "id": "2016-07-08-burhan-wani-kashmir-unrest",
+   "date": "2016-07-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Killing of militant Burhan Wani sets off months of unrest in Kashmir",
+   "summary": "Mass protests and a curfew followed; the use of pellet guns blinded many protesters.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016%E2%80%932017_Kashmir_unrest"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan"
+   ],
+   "marker": "political",
+   "unplaced": "Across the Kashmir Valley."
+  },
+  {
+   "id": "2016-07-12-south-china-sea-ruling",
+   "date": "2016-07-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Hague tribunal rules against China's South China Sea claims",
+   "summary": "The arbitral tribunal in the Philippines' case found no legal basis for the 'nine-dash line'; Beijing rejected the ruling and kept militarising its artificial islands.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/South_China_Sea_Arbitration"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china"
+    }
+   ],
+   "entities": [
+    "philippines",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific",
+    "southeast-asia"
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "The ruling underpins today's Philippine–Chinese clashes at Second Thomas and Scarborough shoals.",
+    "confidence": "likely"
+   },
+   "unplaced": "Ruling covers the whole South China Sea."
+  },
+  {
+   "id": "2016-07-14-nice-truck-attack",
+   "date": "2016-07-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "Truck attack on Nice's Bastille Day crowd kills 86",
+   "summary": "The Islamic State claimed the attack on the Promenade des Anglais.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Nice_truck_attack"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "http://www.aljazeera.com/news/2016/07/nice-attack-driver-lorry-attack-160715155251020.html"
+    }
+   ],
+   "entities": [
+    "france",
+    "islamic-state"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "nice"
+   ]
+  },
+  {
+   "id": "2016-07-15-turkey-coup-attempt",
+   "date": "2016-07-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Turkish soldiers try to overthrow Erdoğan; the coup fails overnight",
+   "summary": "Erdoğan blamed US-based cleric Fethullah Gülen and purged tens of thousands from the army, courts and schools, souring ties with Washington.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Turkish_coup_d%27%C3%A9tat_attempt"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jul/16/fethullah-gulen-who-is-the-man-blamed-by-turkeys-president-for-coup-attempt"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "recep-tayyip-erdogan",
+    "fethullah-gulen",
+    "united-states"
+   ],
+   "marker": "military",
+   "where": [
+    "ankara"
+   ]
+  },
+  {
+   "id": "2016-08-24-euphrates-shield",
+   "date": "2016-08-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Turkey sends troops into Syria, taking Jarabulus from the Islamic State",
+   "summary": "Operation Euphrates Shield with allied Syrian rebels also aimed to stop Kurdish forces linking their territories.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Euphrates_Shield"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/aug/24/turkey-launches-major-operation-against-isis-in-key-border-town"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "free-syrian-army",
+    "islamic-state",
+    "ypg",
+    "syria"
+   ],
+   "storylines": [
+    "levant-wars",
+    "isis-war"
+   ],
+   "causes": [
+    {
+     "story": "2016-07-15-turkey-coup-attempt",
+     "why": "Erdoğan reasserted control over the army",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "jarabulus"
+   ]
+  },
+  {
+   "id": "2016-08-31-rousseff-removed",
+   "date": "2016-08-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "Brazil's Senate removes Dilma Rousseff from office",
+   "summary": "She was convicted of breaking budget laws amid the Car Wash corruption scandal and a deep recession; Michel Temer replaced her.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff"
+    },
+    {
+     "name": "CNN",
+     "url": "http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote/index.html"
+    }
+   ],
+   "entities": [
+    "brazil",
+    "dilma-rousseff"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "brasilia"
+   ]
+  },
+  {
+   "id": "2016-09-18-uri-attack",
+   "date": "2016-09-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Jaish-e-Mohammed attack on an army base at Uri kills 19 Indian soldiers",
+   "summary": "India answered on Sep 29 with 'surgical strikes' across the Line of Control, which Pakistan denied took place.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Uri_attack"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Indian_Line_of_Control_strike"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2016/9/18/17-indian-soldiers-killed-in-attack-on-kashmir-base"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan",
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2016-07-08-burhan-wani-kashmir-unrest",
+     "why": "Kashmir unrest",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "uri"
+   ]
+  },
+  {
+   "id": "2016-08-31-bongo-reelected",
+   "date": "2016-08-31",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Africa",
+   "title": "Gabon's Ali Bongo is declared re-elected by a sliver amid fraud claims",
+   "summary": "Protesters set parliament on fire in Libreville; the Bongo dynasty was finally ousted in the 2023 coup.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Gabonese_presidential_election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2016/8/31/gabon-ali-bongo-wins-re-election-as-president"
+    }
+   ],
+   "entities": [
+    "gabon",
+    "ali-bongo"
+   ],
+   "marker": "political",
+   "where": [
+    "libreville"
+   ]
+  },
+  {
+   "id": "2016-09-28-mh17-jit-findings",
+   "date": "2016-09",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Russia/Eurasia",
+   "title": "Investigators find MH17 was downed by a Russian Buk missile fired from separatist territory",
+   "summary": "The Dutch-led team said the launcher came from Russia and was taken back afterwards; Moscow rejected the findings.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17"
+    }
+   ],
+   "entities": [
+    "russia",
+    "ukraine"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "unplaced": "Investigation report."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2016-07-08-nato-warsaw-summit",
+    "2016-09-28-mh17-jit-findings"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2016-07-08-juba-clashes"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2016-07-08-burhan-wani-kashmir-unrest",
+    "2016-09-18-uri-attack"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2016-07-12-south-china-sea-ruling"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2016-07-12-south-china-sea-ruling"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2016-07-14-nice-truck-attack",
+    "2016-08-24-euphrates-shield"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2016-08-24-euphrates-shield"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2016-08-31-rousseff-removed"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2016-09-18-uri-attack"
+   ]
+  }
+ ]
+}
