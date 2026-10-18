@@ -71665,6 +71665,1938 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2011-12-31": {
+   "sha256": "68e37072a5f181fa7a8a158c56ec5dd666cec20050fbff0fbe4b26723a8a5a5f",
+   "undo": {
+    "stories": {
+     "2011-10-16-kenya-invades-somalia": null,
+     "2011-10-20-gaddafi-killed": null,
+     "2011-10-27-greek-haircut": null,
+     "2011-11-08-iaea-iran-report": null,
+     "2011-11-16-berlusconi-out": null,
+     "2011-11-23-saleh-gcc-deal": null,
+     "2011-11-26-salala-incident": null,
+     "2011-11-29-uk-embassy-tehran": null,
+     "2011-12-10-moscow-protests": null,
+     "2011-12-17-kim-jong-il-dies": null,
+     "2011-12-18-us-leaves-iraq": null,
+     "2011-10-23-tunisia-election": null,
+     "2011-11-16-darwin-marines": null,
+     "2011-12-05-iran-captures-rq170": null,
+     "2011-12-21-ecb-ltro": null,
+     "2012-07-26-draghi-whatever-it-takes": {
+      "id": "2012-07-26-draghi-whatever-it-takes",
+      "date": "2012-07-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-09-30",
+      "region": "Europe",
+      "title": "Draghi pledges the ECB will do 'whatever it takes' to save the euro",
+      "summary": "His London remark and September's OMT bond-buying programme ended the acute phase of the crisis.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mario_Draghi"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Outright_Monetary_Transactions"
+       }
+      ],
+      "entities": [
+       "ecb",
+       "mario-draghi",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-09-30",
+      "storylines": [
+       "eurozone-crisis",
+       "central-banks-rates"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "london"
+      ],
+      "related_stories": []
+     },
+     "2012-01-17-tuareg-rebellion": {
+      "id": "2012-01-17-tuareg-rebellion",
+      "date": "2012-01-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Africa",
+      "title": "Tuareg rebels launch an uprising in northern Mali, armed from Libya's war",
+      "summary": "The MNLA, joined by fighters returning from Gaddafi's forces, allied with the jihadist Ansar Dine.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tuareg_rebellion_%282012%29"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mali_War"
+       }
+      ],
+      "entities": [
+       "mali",
+       "mnla",
+       "ansar-dine",
+       "libya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "military",
+      "unplaced": "Northern Mali.",
+      "related_stories": [
+       "2012-03-22-mali-coup"
+      ]
+     },
+     "2012-01-23-nusra-founded": {
+      "id": "2012-01-23-nusra-founded",
+      "date": "2012-01-23",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Middle East",
+      "title": "Jabhat al-Nusra announces itself in Syria",
+      "summary": "Ahmed al-Sharaa (al-Julani) founded it as an offshoot of the Islamic State of Iraq; it later became HTS, which took Damascus in 2024.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Al-Nusra_Front"
+       }
+      ],
+      "entities": [
+       "jabhat-al-nusra",
+       "syria",
+       "ahmed-al-sharaa"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "unplaced": "Online announcement.",
+      "related_stories": [
+       "2013-04-08-isil-founded"
+      ]
+     },
+     "2012-03-04-putin-returns": {
+      "id": "2012-03-04-putin-returns",
+      "date": "2012-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Putin wins back Russia's presidency with 63%",
+      "summary": "Observers reported flaws, and the March of the Millions on May 6 ended in clashes and prosecutions as he cracked down.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Russian_presidential_election"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bolotnaya_Square_case"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": [
+       "2018-03-18-putin-reelected"
+      ]
+     },
+     "2012-06-24-morsi-wins": {
+      "id": "2012-06-24-morsi-wins",
+      "date": "2012-06-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-06-30",
+      "region": "Africa",
+      "title": "Muslim Brotherhood's Mohamed Morsi wins Egypt's presidency",
+      "summary": "He took 51.7% in the only free presidential election in Egypt's history.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Egyptian_presidential_election"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2012/6/24/celebration-in-egypt-as-morsi-declared-winner"
+       }
+      ],
+      "entities": [
+       "egypt",
+       "mohamed-morsi",
+       "muslim-brotherhood"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-06-30",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "cairo"
+      ],
+      "related_stories": [
+       "2013-07-03-morsi-ousted",
+       "2012-11-22-morsi-decree"
+      ]
+     },
+     "2012-09-11-benghazi-attack": {
+      "id": "2012-09-11-benghazi-attack",
+      "date": "2012-09-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-09-30",
+      "region": "Africa",
+      "title": "Militants kill US Ambassador Chris Stevens in Benghazi",
+      "summary": "Ansar al-Sharia attacked the US compound; the attack became a long-running US political fight.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Benghazi_attack"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2012/sep/12/benghazi-attack-us-officials-consulate"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "libya",
+       "ansar-al-sharia-libya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "strike",
+      "where": [
+       "benghazi"
+      ],
+      "related_stories": []
+     },
+     "2012-04-10-heglig-crisis": {
+      "id": "2012-04-10-heglig-crisis",
+      "date": "2012-04-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-06-30",
+      "region": "Africa",
+      "title": "South Sudan seizes Sudan's Heglig oilfield in a brief border war",
+      "summary": "Southern troops were pushed back; a September deal on borders and oil resolved most issues.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heglig_Crisis"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2012/apr/11/sudan-south-border-war-crisis"
+       }
+      ],
+      "entities": [
+       "south-sudan",
+       "sudan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-06-30",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "military",
+      "where": [
+       "heglig"
+      ],
+      "related_stories": []
+     },
+     "2012-04-11-kim-jong-un-party-chief": {
+      "id": "2012-04-11-kim-jong-un-party-chief",
+      "date": "2012-04-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-06-30",
+      "region": "Asia-Pacific",
+      "title": "Kim Jong Un takes over North Korea's ruling party after his father's death",
+      "summary": "A party conference named Kim Jong Il 'eternal general secretary' and gave his son the top post.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-06-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "pyongyang"
+      ],
+      "related_stories": []
+     },
+     "2012-04-01-suu-kyi-elected": {
+      "id": "2012-04-01-suu-kyi-elected",
+      "date": "2012-04-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-06-30",
+      "region": "Asia-Pacific",
+      "title": "Aung San Suu Kyi wins a seat as Myanmar opens up",
+      "summary": "Her NLD won most of the by-election seats and Western sanctions eased.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Myanmar_by-elections"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2012/04/04/world/asia/myanmar-elections/"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "aung-san-suu-kyi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-06-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "unplaced": "By-elections nationwide.",
+      "related_stories": [
+       "2015-11-08-nld-wins-myanmar"
+      ]
+     },
+     "2012-02-21-greek-second-bailout": {
+      "id": "2012-02-21-greek-second-bailout",
+      "date": "2012-02",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Europe",
+      "title": "Greece's second bailout is ratified, with a big write-down for private bondholders",
+      "summary": "Recession and missed targets forced the second programme.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+       }
+      ],
+      "entities": [
+       "greece",
+       "european-union",
+       "imf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "storylines": [
+       "eurozone-crisis"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "athens"
+      ],
+      "related_stories": [
+       "2015-07-05-greek-referendum"
+      ]
+     },
+     "2012-07-18-damascus-bombing": {
+      "id": "2012-07-18-damascus-bombing",
+      "date": "2012-07-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-09-30",
+      "region": "Middle East",
+      "title": "Bombing kills Syria's defence minister as rebels push into Damascus and Aleppo",
+      "summary": "The battle for Aleppo began the next day and lasted until December 2016.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/18_July_2012_Damascus_bombing"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_%282012%E2%80%932016%29"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2012/jul/18/syria-rebels-kill-elite-damascus"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "strike",
+      "where": [
+       "damascus"
+      ],
+      "related_stories": [
+       "2016-12-22-aleppo-falls"
+      ]
+     },
+     "2013-12-15-south-sudan-civil-war": {
+      "id": "2013-12-15-south-sudan-civil-war",
+      "date": "2013-12-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-12-31",
+      "region": "Africa",
+      "title": "South Sudan descends into civil war between Kiir and Machar",
+      "summary": "Kiir accused his ex-deputy of a coup; fighting along Dinka–Nuer lines killed hundreds of thousands by 2018.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2013/dec/23/south-sudan-state-that-fell-apart-in-a-week"
+       }
+      ],
+      "entities": [
+       "south-sudan",
+       "salva-kiir",
+       "riek-machar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-12-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "military",
+      "where": [
+       "juba"
+      ],
+      "related_stories": [
+       "2016-07-08-juba-clashes"
+      ]
+     },
+     "2013-11-24-iran-interim-deal": {
+      "id": "2013-11-24-iran-interim-deal",
+      "date": "2013-11-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-12-31",
+      "region": "Middle East",
+      "title": "Iran and the P5+1 sign an interim nuclear deal in Geneva",
+      "summary": "The Joint Plan of Action froze parts of Iran's programme for limited sanctions relief and led to the JCPOA.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joint_Plan_of_Action"
+       }
+      ],
+      "entities": [
+       "iran",
+       "united-states",
+       "european-union",
+       "russia",
+       "china",
+       "hassan-rouhani"
+      ],
+      "causes": [
+       {
+        "story": "2013-06-14-rouhani-elected",
+        "why": "Rouhani's opening",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-12-31",
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "diplomacy",
+      "where": [
+       "geneva"
+      ],
+      "related_stories": [
+       "2013-06-14-rouhani-elected",
+       "2015-07-14-jcpoa-agreed",
+       "rare-earth-nov10",
+       "2021-11-29-jcpoa-vienna",
+       "2022-02-26-swift-cbr",
+       "2022-06-14-msp",
+       "2022-09-02-price-cap",
+       "2022-09-jcpoa-stall",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel",
+       "2026-02-05-new-start-expires",
+       "2026-09-18-graham-act-signed",
+       "2025-04-02-liberation-day",
+       "2025-11-06-c5-plus-1-summit",
+       "2023-08-24-brics-expansion",
+       "2024-10-02-china-coast-guard-arctic",
+       "2026-04-07-hormuz-resolution-veto",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2017-08-02-caatsa",
+       "2016-01-16-jcpoa-implementation",
+       "2016-11-04-paris-agreement-in-force",
+       "2014-03-18-crimea-annexed"
+      ]
+     },
+     "2013-04-08-isil-founded": {
+      "id": "2013-04-08-isil-founded",
+      "date": "2013-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Middle East",
+      "title": "Baghdadi's group expands into Syria as the 'Islamic State of Iraq and the Levant'",
+      "summary": "Al-Nusra rejected the merger and al-Qaeda later disowned ISIL.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamic_State"
+       }
+      ],
+      "entities": [
+       "islamic-state",
+       "abu-bakr-al-baghdadi",
+       "syria",
+       "iraq"
+      ],
+      "causes": [
+       {
+        "story": "2012-01-23-nusra-founded",
+        "why": "Baghdadi tried to absorb Nusra",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "isis-war"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "political",
+      "unplaced": "Announced online.",
+      "related_stories": [
+       "2012-01-23-nusra-founded",
+       "2014-06-10-fall-of-mosul",
+       "2014-06-29-caliphate-declared",
+       "2015-05-17-ramadi-falls",
+       "2014-08-08-us-strikes-isis-iraq"
+      ],
+      "revisions": [
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-05-16-haftar-operation-dignity": {
+      "id": "2014-05-16-haftar-operation-dignity",
+      "date": "2014-05-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-06-30",
+      "region": "Africa",
+      "title": "Khalifa Haftar launches 'Operation Dignity' in Benghazi",
+      "summary": "His campaign against Islamist militias split Libya into rival eastern and western governments.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Dignity"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Libyan_civil_war_%282014%E2%80%932020%29"
+       }
+      ],
+      "entities": [
+       "khalifa-haftar",
+       "libya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-06-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "military",
+      "where": [
+       "benghazi"
+      ],
+      "related_stories": [
+       "2015-12-17-libyan-political-agreement"
+      ]
+     },
+     "2014-09-21-houthis-take-sanaa": {
+      "id": "2014-09-21-houthis-take-sanaa",
+      "date": "2014-09-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-09-30",
+      "region": "Middle East",
+      "title": "Houthi rebels storm Yemen's capital Sanaa",
+      "summary": "Allied with ex-president Saleh, the Iran-backed movement took the city, leading to Hadi's ouster and the Saudi intervention.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Houthi_takeover_of_Yemen"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/middleeast/2014/09/yemen-houthi-rebels-advance-into-sanaa-201492091233845119.html"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "yemen",
+       "iran",
+       "ali-abdullah-saleh",
+       "abdrabbuh-mansur-hadi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-09-30",
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "military",
+      "where": [
+       "sanaa"
+      ],
+      "related_stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-03-25-jeddah-attack",
+       "houthis-saudi-oct15",
+       "houthis-hit-aden-palace",
+       "egypt-offers-to-defend-saudi",
+       "houthis-aden-airport-khamis-mushait",
+       "2017-12-04-saleh-killed",
+       "2015-01-22-houthis-oust-hadi",
+       "2015-03-26-saudi-intervention-yemen"
+      ]
+     },
+     "2014-05-22-thai-coup": {
+      "id": "2014-05-22-thai-coup",
+      "date": "2014-05-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-06-30",
+      "region": "Asia-Pacific",
+      "title": "Thailand's army seizes power under General Prayut",
+      "summary": "The junta ended months of political crisis; Prayut stayed in power until 2023.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2014_Thai_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2014/may/22/military-coup-thailand-peace-general-prayuth-chan-ocha"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "prayut-chan-o-cha"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-06-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": []
+     },
+     "2014-05-16-modi-wins": {
+      "id": "2014-05-16-modi-wins",
+      "date": "2014-05-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-06-30",
+      "region": "Asia-Pacific",
+      "title": "Narendra Modi's BJP wins India's first single-party majority in 30 years",
+      "summary": "The BJP took 282 seats on 31% of the vote.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2014_Indian_general_election"
+       }
+      ],
+      "entities": [
+       "india",
+       "narendra-modi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-06-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2016-07-08-burhan-wani-kashmir-unrest"
+      ]
+     },
+     "2015-11-08-nld-wins-myanmar": {
+      "id": "2015-11-08-nld-wins-myanmar",
+      "date": "2015-11-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-12-31",
+      "region": "Asia-Pacific",
+      "title": "Aung San Suu Kyi's NLD wins Myanmar's first free election in decades",
+      "summary": "The landslide began a power-sharing period with the army that ended in the 2021 coup.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_Myanmar_general_election"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2015/nov/11/aung-san-suu-kyi-wins-seat-myanmar-election-results-tallied"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "aung-san-suu-kyi",
+       "nld"
+      ],
+      "causes": [
+       {
+        "story": "2012-04-01-suu-kyi-elected",
+        "why": "Opening",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2015-12-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "unplaced": "National election.",
+      "related_stories": [
+       "2012-04-01-suu-kyi-elected",
+       "2021-02-01-myanmar-coup"
+      ],
+      "revisions": [
+       {
+        "edition": "2012-12-31",
+        "why": "2012 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2015-03-18-bardo-attack": {
+      "id": "2015-03-18-bardo-attack",
+      "date": "2015-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-03-31",
+      "region": "Africa",
+      "title": "Gunmen kill 21 tourists at Tunis's Bardo museum",
+      "summary": "In June a gunman killed 38 at a beach resort near Sousse, devastating Tunisia's tourism.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_Sousse_attacks"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2015/mar/18/eight-people-killed-in-attack-on-tunisia-bardo-museum"
+       }
+      ],
+      "entities": [
+       "tunisia",
+       "islamic-state"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-03-31",
+      "storylines": [
+       "isis-war"
+      ],
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "strike",
+      "where": [
+       "bardo-museum"
+      ],
+      "related_stories": []
+     },
+     "2013-06-05-qusayr-hezbollah": {
+      "id": "2013-06-05-qusayr-hezbollah",
+      "date": "2013-06-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2013-06-30",
+      "region": "Middle East",
+      "title": "Hezbollah and Assad retake Qusayr as Hezbollah openly joins Syria's war",
+      "summary": "Hezbollah's public intervention marked Iran's full commitment to saving Assad.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Second_Battle_of_al-Qusayr"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2013/jun/05/syria-army-seizes-qusair"
+       }
+      ],
+      "entities": [
+       "hezbollah",
+       "bashar-al-assad",
+       "syria",
+       "iran"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2013-06-30",
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+      "marker": "military",
+      "unplaced": "Qusayr, no Wikipedia coordinates.",
+      "related_stories": [
+       "2024-12-08-assad-falls",
+       "2016-12-22-aleppo-falls",
+       "2015-09-30-russia-enters-syria"
+      ]
+     },
+     "2012-12-12-nk-satellite-launch": {
+      "id": "2012-12-12-nk-satellite-launch",
+      "date": "2012-12-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-12-31",
+      "region": "Asia-Pacific",
+      "title": "North Korea puts its first satellite in orbit",
+      "summary": "The launch, condemned as a ballistic-missile test, followed a failed attempt in April.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-3_Unit_2"
+       },
+       {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/2012/12/11/world/asia/north-korea-rocket-launch/index.html"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-un"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2012-12-31",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "military",
+      "unplaced": "Sohae launch site.",
+      "related_stories": [
+       "2013-02-12-nk-third-nuclear-test"
+      ]
+     },
+     "2011-08-20-fall-of-tripoli": {
+      "id": "2011-08-20-fall-of-tripoli",
+      "date": "2011-08-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Africa",
+      "title": "Rebels seize Tripoli as Gaddafi's regime collapses",
+      "summary": "An uprising inside the city linked up with rebel forces backed by NATO air power.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Tripoli_%282011%29"
+       }
+      ],
+      "entities": [
+       "libya",
+       "muammar-gaddafi",
+       "nato"
+      ],
+      "causes": [
+       {
+        "story": "2011-03-19-libya-intervention",
+        "why": "NATO air support",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "military",
+      "where": [
+       "tripoli"
+      ],
+      "related_stories": [
+       "2011-03-19-libya-intervention"
+      ]
+     },
+     "2011-05-02-bin-laden-killed": {
+      "id": "2011-05-02-bin-laden-killed",
+      "date": "2011-05-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-06-30",
+      "region": "Asia-Pacific",
+      "title": "US SEALs kill Osama bin Laden in Abbottabad, Pakistan",
+      "summary": "His presence near Pakistan's military academy deepened US mistrust of Islamabad.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/may/02/bin-laden-body-buried-sea"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "osama-bin-laden",
+       "al-qaeda",
+       "pakistan",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "strike",
+      "where": [
+       "abbottabad"
+      ],
+      "related_stories": [
+       "2016-05-21-mansour-killed"
+      ]
+     },
+     "2011-01-14-ben-ali-flees": {
+      "id": "2011-01-14-ben-ali-flees",
+      "date": "2011-01-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "Tunisia's Ben Ali flees to Saudi Arabia after 23 years, igniting the Arab Spring",
+      "summary": "A month of protests set off by Mohamed Bouazizi's self-immolation toppled him and inspired uprisings across the region.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tunisian_revolution"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/jan/14/tunisian-president-dismisses-government-violence"
+       }
+      ],
+      "entities": [
+       "tunisia",
+       "zine-el-abidine-ben-ali"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "analysis": {
+       "text": "The Arab Spring's collapse into war in Libya, Syria and Yemen underlies many current conflicts.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "tunis"
+      ],
+      "related_stories": [
+       "2011-02-11-mubarak-resigns",
+       "2011-02-15-libya-uprising",
+       "2011-03-15-syria-uprising"
+      ]
+     },
+     "2011-03-15-syria-uprising": {
+      "id": "2011-03-15-syria-uprising",
+      "date": "2011-03-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Middle East",
+      "title": "Syria's uprising against Assad begins, centred on Daraa",
+      "summary": "Peaceful protests met with lethal force spiralled into civil war.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syrian_revolution"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2011/mar/30/syrian-protests-assad-blames-conspirators"
+       }
+      ],
+      "entities": [
+       "syria",
+       "bashar-al-assad"
+      ],
+      "causes": [
+       {
+        "story": "2011-01-14-ben-ali-flees",
+        "why": "Arab Spring contagion",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "analysis": {
+       "text": "The war that followed drew in Iran, Russia, Turkey and the US and produced ISIS and the HTS government.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "daraa"
+      ],
+      "related_stories": [
+       "2011-01-14-ben-ali-flees",
+       "2011-07-29-fsa-formed"
+      ]
+     },
+     "2011-02-11-mubarak-resigns": {
+      "id": "2011-02-11-mubarak-resigns",
+      "date": "2011-02-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Africa",
+      "title": "Mubarak resigns after 18 days of protest in Tahrir Square",
+      "summary": "He handed power to the military council (SCAF).",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_Egyptian_revolution"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2011/2/1/protesters-flood-egypt-streets"
+       }
+      ],
+      "entities": [
+       "egypt",
+       "hosni-mubarak"
+      ],
+      "causes": [
+       {
+        "story": "2011-01-14-ben-ali-flees",
+        "why": "Inspired by Tunisia",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "tahrir-square"
+      ],
+      "related_stories": [
+       "2011-01-14-ben-ali-flees"
+      ]
+     },
+     "2011-07-09-south-sudan-independence": {
+      "id": "2011-07-09-south-sudan-independence",
+      "date": "2011-07-09",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Africa",
+      "title": "South Sudan becomes the world's newest country",
+      "summary": "It took most of Sudan's oil, but its pipelines ran north.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/South_Sudan"
+       },
+       {
+        "name": "UN News",
+        "url": "https://news.un.org/en/story/2011/07/381552"
+       }
+      ],
+      "entities": [
+       "south-sudan",
+       "sudan",
+       "salva-kiir"
+      ],
+      "causes": [
+       {
+        "story": "2011-01-09-south-sudan-referendum",
+        "why": "Vote for secession",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "juba"
+      ],
+      "related_stories": [
+       "2011-01-09-south-sudan-referendum"
+      ]
+     },
+     "2011-03-30-thein-sein-sworn-in": {
+      "id": "2011-03-30-thein-sein-sworn-in",
+      "date": "2011-03-30",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-03-31",
+      "region": "Asia-Pacific",
+      "title": "Myanmar's junta gives way to a nominally civilian government under Thein Sein",
+      "summary": "His reforms freed Suu Kyi's party to compete.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thein_Sein"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "thein-sein"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-03-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "naypyidaw"
+      ],
+      "related_stories": []
+     },
+     "2011-07-29-fsa-formed": {
+      "id": "2011-07-29-fsa-formed",
+      "date": "2011-07-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Middle East",
+      "title": "Defecting officers form the Free Syrian Army",
+      "summary": "The uprising began to turn into an armed insurgency.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Free_Syrian_Army"
+       }
+      ],
+      "entities": [
+       "free-syrian-army",
+       "syria"
+      ],
+      "causes": [
+       {
+        "story": "2011-03-15-syria-uprising",
+        "why": "Repression drove defections",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "military",
+      "unplaced": "Announced by video.",
+      "related_stories": [
+       "2011-03-15-syria-uprising"
+      ]
+     },
+     "2011-07-03-yingluck-wins": {
+      "id": "2011-07-03-yingluck-wins",
+      "date": "2011-07-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-09-30",
+      "region": "Asia-Pacific",
+      "title": "Yingluck Shinawatra wins Thailand's election, becoming its first woman PM",
+      "summary": "Her brother Thaksin's camp returned to power; the army removed her government in 2014.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_Thai_general_election"
+       }
+      ],
+      "entities": [
+       "thailand",
+       "yingluck-shinawatra"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-09-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "where": [
+       "bangkok"
+      ],
+      "related_stories": []
+     },
+     "2011-04-05-hazare-hunger-strike": {
+      "id": "2011-04-05-hazare-hunger-strike",
+      "date": "2011-04-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2011-06-30",
+      "region": "Asia-Pacific",
+      "title": "Anna Hazare's hunger strike launches India's anti-corruption movement",
+      "summary": "Protests against Congress-era scandals helped prepare the ground for the BJP's 2014 victory.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anna_Hazare"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2011_Indian_anti-corruption_movement"
+       }
+      ],
+      "entities": [
+       "india",
+       "anna-hazare"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2011-06-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2011 (Arab Spring, Fukushima, bin Laden)",
+      "marker": "political",
+      "unplaced": "Protests in New Delhi.",
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "saudi-arabia--alliance--bahrain": null
+    },
+    "storylines": {
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement",
+       "2019-10-11-abiy-nobel",
+       "2018-04-02-abiy-pm",
+       "2018-07-09-ethiopia-eritrea-peace",
+       "2016-10-09-ethiopia-state-of-emergency",
+       "2013-09-21-westgate-attack",
+       "2013-12-15-south-sudan-civil-war",
+       "2012-02-09-shabaab-joins-al-qaeda",
+       "2012-04-10-heglig-crisis",
+       "2012-09-28-kismayo-falls",
+       "2011-01-09-south-sudan-referendum",
+       "2011-07-09-south-sudan-independence",
+       "2011-07-20-somalia-famine"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup",
+       "2021-09-05-guinea-coup",
+       "2023-08-30-gabon-coup",
+       "2024-03-24-senegal-faye",
+       "2019-04-04-haftar-tripoli-offensive",
+       "2019-10-23-russia-africa-summit",
+       "2018-07-30-wagner-car-journalists",
+       "2017-10-04-tongo-tongo-ambush",
+       "2016-03-30-gna-arrives-tripoli",
+       "2016-12-06-sirte-liberated",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-31-buhari-wins",
+       "2015-09-16-burkina-coup-attempt",
+       "2015-12-17-libyan-political-agreement",
+       "2014-04-14-chibok-kidnapping",
+       "2014-05-16-haftar-operation-dignity",
+       "2014-08-01-barkhane",
+       "2014-10-31-compaore-ousted",
+       "2013-01-11-operation-serval",
+       "2013-01-16-in-amenas",
+       "2012-01-17-tuareg-rebellion",
+       "2012-03-22-mali-coup",
+       "2012-09-11-benghazi-attack",
+       "2011-02-15-libya-uprising",
+       "2011-03-19-libya-intervention",
+       "2011-08-20-fall-of-tripoli",
+       "2011-08-26-abuja-un-bombing"
+      ],
+      "source": "threads.md"
+     },
+     "eurozone-crisis": {
+      "id": "eurozone-crisis",
+      "name": "Eurozone debt crisis",
+      "entities": [
+       "european-union",
+       "ecb",
+       "greece",
+       "imf"
+      ],
+      "stories": [
+       "2015-07-05-greek-referendum",
+       "2013-03-25-cyprus-bailout",
+       "2012-02-21-greek-second-bailout",
+       "2012-05-06-hollande-elected",
+       "2012-05-06-greek-election-syriza",
+       "2012-06-09-spain-bank-bailout",
+       "2012-07-26-draghi-whatever-it-takes"
+      ],
+      "source": "inbox"
+     },
+     "iran-war-hormuz": {
+      "id": "iran-war-hormuz",
+      "name": "US/Israel–Iran war & Hormuz",
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "united-states",
+       "israel",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2021-11-29-jcpoa-vienna",
+       "2022-03-27-negev-summit",
+       "2022-07-19-putin-tehran",
+       "2022-09-16-mahsa-amini",
+       "2022-09-jcpoa-stall",
+       "2022-10-iran-drones-russia",
+       "gfs-pride-sunk",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-09-28-iran-snapback",
+       "2025-12-28-iran-protests-begin",
+       "2024-04-13-iran-strikes-israel",
+       "2024-05-19-raisi-killed",
+       "2024-07-31-haniyeh-killed",
+       "2024-10-01-iran-missile-barrage",
+       "2023-10-06-narges-mohammadi-nobel",
+       "2024-10-26-israel-strikes-iran",
+       "2020-11-27-fakhrizadeh-killed",
+       "2020-07-02-natanz-fire",
+       "2021-04-11-natanz-sabotage",
+       "2021-06-18-raisi-elected",
+       "2026-04-07-hormuz-resolution-veto",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-07-19-stena-impero-seized",
+       "2019-09-14-abqaiq-attack",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-05-19-rouhani-reelected",
+       "2017-12-28-iran-dey-protests",
+       "2016-01-16-jcpoa-implementation",
+       "2015-07-14-jcpoa-agreed",
+       "2013-06-14-rouhani-elected",
+       "2013-11-24-iran-interim-deal"
+      ],
+      "source": "threads.md"
+     },
+     "yemen-houthis-saudi": {
+      "id": "yemen-houthis-saudi",
+      "name": "Yemen: Houthis vs Saudi / Red Sea",
+      "entities": [
+       "houthis",
+       "iran",
+       "saudi-arabia",
+       "yemen",
+       "red-sea",
+       "bab-el-mandeb",
+       "aramco"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2024-01-12-us-uk-strike-houthis",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-03-06-true-confidence",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2024-12-26-suez-revenue-loss",
+       "2020-04-25-stc-self-rule",
+       "2021-02-04-biden-yemen-shift",
+       "2019-09-14-abqaiq-attack",
+       "2018-06-13-hodeidah-offensive",
+       "2018-08-09-dahyan-bus-strike",
+       "2018-12-13-stockholm-agreement",
+       "2017-12-04-saleh-killed",
+       "2015-01-22-houthis-oust-hadi",
+       "2015-03-26-saudi-intervention-yemen",
+       "2014-09-21-houthis-take-sanaa"
+      ],
+      "source": "threads.md"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order",
+       "2021-08-15-fall-of-kabul",
+       "2021-08-26-kabul-airport-bombing",
+       "2019-09-07-camp-david-cancelled",
+       "2016-05-21-mansour-killed",
+       "2015-07-29-mullah-omar-death-revealed",
+       "2015-09-28-taliban-take-kunduz",
+       "2014-06-15-zarb-e-azb",
+       "2014-09-29-ghani-inaugurated",
+       "2014-12-16-peshawar-school-massacre",
+       "2014-12-28-isaf-ends",
+       "2013-05-11-sharif-wins",
+       "2012-10-09-malala-shot",
+       "2011-05-02-bin-laden-killed"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2021-07-21-nord-stream-2-deal",
+       "2021-11-08-belarus-border-crisis",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2023-09-30-fico-wins",
+       "2024-10-20-moldova-referendum",
+       "2024-11-28-georgia-suspends-eu-bid",
+       "2025-04-26-russia-claims-kursk",
+       "2025-06-01-operation-spiderweb",
+       "2025-09-10-drones-over-poland",
+       "2022-12-21-zelensky-washington",
+       "2023-10-10-avdiivka-offensive",
+       "2024-05-10-kharkiv-offensive",
+       "2026-05-14-kyiv-record-assault",
+       "2019-04-21-zelensky-elected",
+       "2019-08-02-inf-treaty-ends",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2018-03-04-skripal-poisoning",
+       "2018-03-18-putin-reelected",
+       "2018-11-25-kerch-strait-incident",
+       "2017-08-02-caatsa",
+       "2016-07-08-nato-warsaw-summit",
+       "2016-09-28-mh17-jit-findings",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-02-27-nemtsov-killed",
+       "2014-02-22-yanukovych-ousted",
+       "2014-03-18-crimea-annexed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-25-poroshenko-elected",
+       "2014-07-17-mh17-shot-down",
+       "2014-08-29-ilovaisk",
+       "2014-09-05-nato-wales-2pct",
+       "2014-12-16-ruble-crash",
+       "2013-11-21-euromaidan",
+       "2012-03-04-putin-returns"
+      ],
+      "source": "threads.md"
+     },
+     "korean-peninsula": {
+      "id": "korean-peninsula",
+      "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+      "entities": [
+       "south-korea",
+       "north-korea",
+       "russia",
+       "yoon-suk-yeol",
+       "lee-jae-myung",
+       "kim-jong-un"
+      ],
+      "stories": [
+       "2025-04-04-yoon-removed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-06-03-lee-jae-myung-elected",
+       "2025-10-10-hwasong-20-parade",
+       "2025-10-29-us-korea-gyeongju-deal",
+       "2026-02-19-yoon-life-sentence",
+       "2026-03-29-hwasong-20-engine-test",
+       "2026-09-20-dprk-hypersonic-test",
+       "2024-06-19-putin-kim-treaty",
+       "2024-10-18-dprk-troops-to-russia",
+       "2024-12-03-yoon-martial-law",
+       "2025-03-13-kursk-exit",
+       "2020-06-16-liaison-office-blown-up",
+       "2023-09-13-kim-putin-vostochny",
+       "2025-04-26-russia-claims-kursk",
+       "2019-02-28-hanoi-summit",
+       "2019-06-30-dmz-meeting",
+       "2018-02-09-pyeongchang-olympic-thaw",
+       "2018-04-27-panmunjom-summit",
+       "2018-06-12-singapore-summit",
+       "2017-02-13-kim-jong-nam-killed",
+       "2017-03-06-thaad-deployed",
+       "2017-03-10-park-removed",
+       "2017-07-04-hwasong-14-icbm",
+       "2017-09-03-north-korea-sixth-nuclear-test",
+       "2017-11-28-hwasong-15",
+       "2016-01-06-north-korea-fourth-test",
+       "2016-12-09-park-impeached",
+       "2013-02-12-nk-third-nuclear-test",
+       "2013-12-12-jang-executed",
+       "2012-04-11-kim-jong-un-party-chief",
+       "2012-12-12-nk-satellite-launch",
+       "2012-12-19-park-elected"
+      ],
+      "source": "inbox"
+     },
+     "isis-war": {
+      "id": "isis-war",
+      "name": "Islamic State: caliphate and the war against it",
+      "entities": [
+       "islamic-state",
+       "iraq",
+       "syria",
+       "united-states",
+       "sdf"
+      ],
+      "stories": [
+       "2016-03-22-brussels-bombings",
+       "2016-07-14-nice-truck-attack",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-06-sirte-liberated",
+       "2016-12-19-berlin-market-attack",
+       "2015-01-07-charlie-hebdo",
+       "2015-01-26-kobani-retaken",
+       "2015-02-15-isis-libya-copts",
+       "2015-03-07-boko-haram-pledges-isis",
+       "2015-03-18-bardo-attack",
+       "2015-05-17-ramadi-falls",
+       "2015-10-10-ankara-bombings",
+       "2015-10-31-metrojet-bombing",
+       "2015-11-13-paris-attacks",
+       "2015-12-28-ramadi-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-06-29-caliphate-declared",
+       "2014-08-03-sinjar-genocide",
+       "2014-08-08-us-strikes-isis-iraq",
+       "2013-04-08-isil-founded",
+       "2013-04-23-hawija-clashes",
+       "2012-07-19-ypg-takes-kobani"
+      ],
+      "source": "inbox"
+     },
+     "iran-proxy-network": {
+      "id": "iran-proxy-network",
+      "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+      "entities": [
+       "iran",
+       "irgc",
+       "kataib-hezbollah",
+       "iraq",
+       "houthis"
+      ],
+      "stories": [
+       "kataib-hezbollah-halt",
+       "houthis-hit-aramco",
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-01-abu-dhabi-attack",
+       "2022-08-29-baghdad-clashes",
+       "2022-10-27-sudani-govt",
+       "houthis-saudi-oct15",
+       "2025-05-06-us-houthi-truce",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-01-12-us-uk-strike-houthis",
+       "2024-01-28-tower-22",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-11-19-galaxy-leader-seized",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-07-20-israel-strikes-hodeidah",
+       "2023-10-08-hezbollah-support-front",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2020-05-07-kadhimi-pm",
+       "2019-10-01-iraq-protests",
+       "2019-12-27-k1-rocket-attack",
+       "2019-12-29-us-strikes-kataib-hezbollah",
+       "2019-12-31-baghdad-embassy-siege",
+       "2017-09-25-kurdish-referendum",
+       "2017-10-16-kirkuk-retaken",
+       "2014-06-10-fall-of-mosul",
+       "2014-09-21-houthis-take-sanaa",
+       "2013-06-05-qusayr-hezbollah",
+       "2011-03-14-gcc-crushes-bahrain"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-09-15-aukus",
+       "2021-10-04-kishida-pm",
+       "2023-02-04-spy-balloon",
+       "2023-08-05-second-thomas-shoal-water-cannon",
+       "2023-11-15-biden-xi-woodside",
+       "2022-11-14-biden-xi-bali",
+       "2019-01-02-xi-taiwan-speech",
+       "2019-06-09-hong-kong-protests",
+       "2018-03-11-xi-term-limits-scrapped",
+       "2017-10-24-xi-thought-enshrined",
+       "2016-05-20-tsai-inaugurated",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2014-03-18-sunflower-movement",
+       "2014-05-02-hysy981-standoff",
+       "2014-09-28-umbrella-movement",
+       "2014-07-01-japan-collective-self-defense",
+       "2013-01-22-philippines-files-arbitration",
+       "2013-03-14-xi-becomes-president",
+       "2013-11-23-china-ecs-adiz",
+       "2013-12-26-abe-yasukuni",
+       "2012-04-08-scarborough-standoff",
+       "2012-09-11-senkaku-purchase",
+       "2012-11-15-xi-general-secretary",
+       "2012-12-16-abe-returns"
+      ],
+      "source": "threads.md"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse",
+       "2023-07-26-fed-peak-rate",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2021-03-11-american-rescue-plan",
+       "2023-03-19-credit-suisse-rescue",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2013-04-04-boj-qqe",
+       "2013-06-19-taper-tantrum",
+       "2012-07-26-draghi-whatever-it-takes",
+       "2011-08-05-us-downgrade"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
