@@ -1666,25 +1666,6 @@
   "source": "inbox"
  },
  {
-  "id": "europe-cost-of-living",
-  "name": "Europe: energy shock, cost of living & the populist surge",
-  "entities": [
-   "france",
-   "european-union",
-   "inflation"
-  ],
-  "stories": [
-   "france-cost-of-living-riots",
-   "2020-07-21-ngeu",
-   "2021-10-europe-gas-crunch",
-   "2022-08-eu-gas-record",
-   "2022-09-23-uk-mini-budget",
-   "2022-10-25-sunak-pm",
-   "2011-05-30-germany-nuclear-exit"
-  ],
-  "source": "inbox"
- },
- {
   "id": "covid-shock",
   "name": "COVID-19 pandemic & the 2020 economic shock",
   "entities": [
@@ -2406,6 +2387,25 @@
    "2023-08-23-chandrayaan-3",
    "2007-01-11-china-asat-test",
    "2012-12-12-nk-satellite-launch"
+  ],
+  "source": "inbox"
+ },
+ {
+  "id": "europe-cost-of-living",
+  "name": "Europe: energy shock, cost of living & the populist surge",
+  "entities": [
+   "france",
+   "european-union",
+   "inflation"
+  ],
+  "stories": [
+   "france-cost-of-living-riots",
+   "2020-07-21-ngeu",
+   "2021-10-europe-gas-crunch",
+   "2022-08-eu-gas-record",
+   "2022-09-23-uk-mini-budget",
+   "2022-10-25-sunak-pm",
+   "2011-05-30-germany-nuclear-exit"
   ],
   "source": "inbox"
  }
