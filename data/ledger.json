@@ -2061,6 +2061,539 @@
     "date_saved": true,
     "hotzones_date": "2026-10-16"
    }
+  },
+  "2026-03-31": {
+   "sha256": "d777a07825bb21632a7684cd79d5f8086ab86191b9ca7c0631dc0a68b3a2d619",
+   "undo": {
+    "stories": {
+     "2025-12-29-justice-mission-drills": null,
+     "2026-01-03-maduro-captured": null,
+     "2026-01-06-us-venezuela-oil-deal": null,
+     "2026-01-08-iran-protest-crackdown": null,
+     "2026-01-09-stc-dissolution": null,
+     "2026-01-19-m23-leaves-uvira": null,
+     "2026-01-21-greenland-davos": null,
+     "2026-01-27-india-eu-fta": null,
+     "2026-01-29-tigray-clashes": null,
+     "2026-02-03-kadugli-siege-broken": null,
+     "2026-02-05-new-start-expires": null,
+     "2026-02-06-us-india-tariff-cut": null,
+     "2026-02-08-takaichi-landslide": null,
+     "2026-02-20-scotus-ieepa": null,
+     "2026-02-22-el-mencho-killed": null,
+     "2026-02-26-pakistan-afghanistan-war": null,
+     "2026-02-28-iran-war-begins": null,
+     "2026-03-02-hezbollah-joins-war": null,
+     "2026-03-08-mojtaba-khamenei": null,
+     "2026-03-11-iea-record-release": null,
+     "2026-03-13-kharg-strike": null,
+     "2026-03-13-cuba-talks": null,
+     "2026-03-16-kabul-hospital-strike": null,
+     "2026-03-17-hyperscaler-ai-debt": null,
+     "2026-03-washington-accords": null,
+     "2026-03-30-china-sanctions-furuya": null,
+     "2022-08-04-pla-drills": {
+      "id": "2022-08-04-pla-drills",
+      "date": "2022-08-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "China holds unprecedented drills encircling Taiwan",
+      "summary": "The PLA held live-fire exercises in zones around Taiwan, firing ballistic missiles over the island; Beijing also halted some US dialogues and sanctioned Pelosi.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Chinese military exercises around Taiwan",
+        "url": "https://en.wikipedia.org/wiki/2022_Chinese_military_exercises_around_Taiwan"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "united-states",
+       "japan"
+      ],
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-02-pelosi",
+        "why": "Retaliation for the visit",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "pla-drills",
+        "why": "2022 drills set the template for encirclement exercises",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Heightened US–China military tension",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-31-nvidia-ban",
+       "pla-drills",
+       "rare-earth-nov10"
+      ],
+      "marker": "military",
+      "unplaced": "The drills were zones around Taiwan, not one point."
+     },
+     "2022-03-05-us-venezuela-talks": {
+      "id": "2022-03-05-us-venezuela-talks",
+      "date": "2022-03-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US officials travel to Caracas for talks with Maduro",
+      "summary": "A senior US delegation met Nicolás Maduro in Caracas as Washington looked at energy options after the invasion.",
+      "sources": [
+       {
+        "name": "Wikipedia: Venezuela–United States relations",
+        "url": "https://en.wikipedia.org/wiki/Venezuela–United_States_relations"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "venezuela",
+       "nicolas-maduro",
+       "petroleum"
+      ],
+      "storylines": [
+       "venezuela-oil",
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Oil supply shock pushed Washington to re-engage Caracas",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "venezuela-oil",
+        "why": "First US–Maduro energy outreach after the invasion",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "venezuela-oil"
+      ]
+     },
+     "2022-09-16-mahsa-amini": {
+      "id": "2022-09-16-mahsa-amini",
+      "date": "2022-09-16",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Death of Mahsa Amini in morality-police custody sparks nationwide protests",
+      "summary": "Amini, 22, died after arrest by Iran's morality police. The 'Woman, Life, Freedom' protests that followed became the largest challenge to the Islamic Republic in years.",
+      "sources": [
+       {
+        "name": "Wikipedia: Death of Mahsa Amini",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini"
+       },
+       {
+        "name": "Wikipedia: Mahsa Amini protests",
+        "url": "https://en.wikipedia.org/wiki/Mahsa_Amini_protests"
+       }
+      ],
+      "entities": [
+       "iran",
+       "ali-khamenei",
+       "ebrahim-raisi",
+       "irgc"
+      ],
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "2022-09-jcpoa-stall",
+        "why": "Crackdown made a deal politically harder for the West",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-07-19-putin-tehran",
+       "2022-09-jcpoa-stall"
+      ]
+     },
+     "2022-04-07-plc": {
+      "id": "2022-04-07-plc",
+      "date": "2022-04-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Yemen's Hadi hands power to a Saudi-backed Presidential Leadership Council",
+      "summary": "President Hadi transferred his powers to an eight-member council chaired by Rashad al-Alimi, uniting anti-Houthi factions under Saudi and UAE sponsorship.",
+      "sources": [
+       {
+        "name": "Wikipedia: Presidential Leadership Council",
+        "url": "https://en.wikipedia.org/wiki/Presidential_Leadership_Council"
+       }
+      ],
+      "entities": [
+       "yemen",
+       "presidential-leadership-council",
+       "saudi-arabia",
+       "uae"
+      ],
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "causes": [
+       {
+        "story": "2022-04-02-yemen-truce",
+        "why": "Restructuring alongside the truce",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "saudi-offensive-mokha",
+        "why": "PLC forces now leading the offensive were formed in 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-04-02-yemen-truce",
+       "saudi-offensive-mokha"
+      ]
+     },
+     "2022-06-13-bunagana": {
+      "id": "2022-06-13-bunagana",
+      "date": "2022-06-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "M23 seizes Bunagana on DRC–Uganda border",
+      "summary": "M23 rebels, whose 2022 resurgence Kinshasa blames on Rwanda, captured the border town of Bunagana.",
+      "sources": [
+       {
+        "name": "Wikipedia: M23 campaign (2022–present)",
+        "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022–present)"
+       }
+      ],
+      "entities": [
+       "m23",
+       "drc",
+       "rwanda",
+       "bunagana"
+      ],
+      "storylines": [
+       "drc-m23-minerals"
+      ],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kabila-m23",
+        "why": "M23's 2022 resurgence began today's war",
+        "confidence": "likely"
+       },
+       {
+        "story": "rubaya-coltan",
+        "why": "M23 territorial expansion since 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "kabila-m23",
+       "rubaya-coltan"
+      ]
+     },
+     "2021-10-25-sudan-coup": {
+      "id": "2021-10-25-sudan-coup",
+      "date": "2021-10-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Africa",
+      "title": "Sudan's military seizes power from transitional government",
+      "summary": "Gen. Abdel Fattah al-Burhan dissolved the civilian-military transitional government and detained Prime Minister Abdalla Hamdok.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2021 Sudan coup d'état",
+        "url": "https://en.wikipedia.org/wiki/2021_Sudan_coup_d'état"
+       }
+      ],
+      "entities": [
+       "sudan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     },
+     "2022-07-31-zawahiri": {
+      "id": "2022-07-31-zawahiri",
+      "date": "2022-07-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Asia-Pacific",
+      "title": "US drone strike kills al-Qaeda leader Ayman al-Zawahiri in Kabul",
+      "summary": "Zawahiri was killed in a CIA strike in Kabul, showing that al-Qaeda's leader had been sheltering under Taliban rule.",
+      "sources": [
+       {
+        "name": "Wikipedia: Killing of Ayman al-Zawahiri",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Ayman_al-Zawahiri"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "al-qaeda",
+       "afghanistan"
+      ],
+      "storylines": [],
+      "causes": [],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": []
+     },
+     "2022-09-jcpoa-stall": {
+      "id": "2022-09-jcpoa-stall",
+      "date": "2022-09",
+      "date_precision": "month",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Iran nuclear talks stall after EU 'final text'",
+      "summary": "After the EU tabled a final JCPOA text in August, the exchanges stalled in September over Iranian demands including an end to the IAEA probe.",
+      "sources": [
+       {
+        "name": "Wikipedia: Joint Comprehensive Plan of Action",
+        "url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
+       }
+      ],
+      "entities": [
+       "iran",
+       "jcpoa",
+       "iaea",
+       "united-states",
+       "european-union"
+      ],
+      "storylines": [
+       "iran-war-hormuz"
+      ],
+      "causes": [
+       {
+        "story": "2021-11-29-jcpoa-vienna",
+        "why": "Culmination of the Vienna talks",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-09-16-mahsa-amini",
+        "why": "Crackdown made a deal politically harder for the West",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "us-iran-talks-deadlock",
+        "why": "Collapse of the JCPOA revival",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2021-11-29-jcpoa-vienna",
+       "2022-09-16-mahsa-amini",
+       "us-iran-talks-deadlock"
+      ]
+     },
+     "2022-03-31-spr-release": {
+      "id": "2022-03-31-spr-release",
+      "date": "2022-03-31",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US announces record 1m bpd release from strategic oil reserve",
+      "summary": "The White House announced a release of about 1 million barrels a day for six months from the Strategic Petroleum Reserve.",
+      "sources": [
+       {
+        "name": "Wikipedia: Strategic Petroleum Reserve (United States)",
+        "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "petroleum",
+       "joe-biden"
+      ],
+      "storylines": [
+       "global-oil"
+      ],
+      "causes": [
+       {
+        "story": "2022-03-07-oil-spike",
+        "why": "Response to price spike",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-03-07-oil-spike",
+       "2022-03-08-us-oil-ban",
+       "2022-07-15-biden-saudi"
+      ]
+     },
+     "2022-10-07-bis-controls": {
+      "id": "2022-10-07-bis-controls",
+      "date": "2022-10-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US imposes sweeping chip export controls on China",
+      "summary": "The Commerce Department restricted exports of advanced AI chips, chipmaking tools and US-person support to Chinese fabs.",
+      "sources": [
+       {
+        "name": "Wikipedia: United States New Export Controls on Advanced Computing and Semiconductors to China",
+        "url": "https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "semiconductors",
+       "nvidia",
+       "ai-data-centers"
+      ],
+      "storylines": [
+       "ai-compute-minerals",
+       "china-minerals-leverage"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-31-nvidia-ban",
+        "why": "Licence letter formalised into rules",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-08-09-chips-act",
+        "why": "Paired industrial and denial strategy",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "rare-earth-nov10",
+        "why": "Chinese mineral controls answer US chip controls",
+        "confidence": "likely"
+       },
+       {
+        "story": "ai-minerals",
+        "why": "AI compute became a strategic commodity",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "ai-minerals",
+       "rare-earth-nov10"
+      ],
+      "marker": "political",
+      "unplaced": "An export-control rule. The summary names no place."
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": null,
+     "us-tariffs-trade": null,
+     "central-banks-rates": null,
+     "levant-wars": null,
+     "sudan-war": null,
+     "pakistan-afghanistan-war": null,
+     "transatlantic-rift": null,
+     "gulf-realignment": null
+    },
+    "entities": {},
+    "entities_added": [
+     "abelardo-de-la-espriella",
+     "abiy-ahmed",
+     "ahmed-al-sharaa",
+     "andy-burnham",
+     "ankara",
+     "bamako",
+     "beirut",
+     "budapest",
+     "caracas",
+     "cjng",
+     "claudia-sheinbaum",
+     "cuba",
+     "davos",
+     "delcy-rodriguez",
+     "denmark",
+     "diesel",
+     "ebola",
+     "el-obeid",
+     "erbil",
+     "flavio-bolsonaro",
+     "gao",
+     "greenland",
+     "hamas",
+     "hezbollah",
+     "hungary",
+     "islamabad",
+     "kabul",
+     "kadugli",
+     "keir-starmer",
+     "kevin-warsh",
+     "kharg-island",
+     "mark-rutte",
+     "masoud-pezeshkian",
+     "miguel-diaz-canel",
+     "mojtaba-khamenei",
+     "new-start",
+     "opec",
+     "peter-magyar",
+     "reform-uk",
+     "rsf",
+     "sanae-takaichi",
+     "scarborough-shoal",
+     "sdf",
+     "stc",
+     "sudanese-armed-forces",
+     "syria",
+     "taliban",
+     "tapalpa",
+     "tehran",
+     "uganda",
+     "us-supreme-court",
+     "uvira",
+     "viktor-orban",
+     "who"
+    ],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
