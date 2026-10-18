@@ -34389,5 +34389,478 @@
    "2026-09-22-zelensky-trump-unga",
    "russia-332-drone-energy-strike"
   ]
+ },
+ {
+  "id": "2019-01-01-bolsonaro-inaugurated",
+  "date": "2019-01-01",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Americas",
+  "title": "Jair Bolsonaro is sworn in as Brazil's president",
+  "summary": "The far-right former army captain took office in Brasília, beginning a presidency that ended in his 2022 defeat by Lula and a coup plot.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Inauguration_of_Jair_Bolsonaro"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jan/01/jair-bolsonaro-inauguration-brazil-president"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "jair-bolsonaro"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "brasilia"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2019-01-02-xi-taiwan-speech",
+  "date": "2019-01-02",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Asia-Pacific",
+  "title": "Xi says Taiwan 'must and will be' unified and refuses to rule out force",
+  "summary": "In a speech on the 40th anniversary of a 1979 message to Taiwan, Xi pressed 'one country, two systems' and reserved 'all necessary means'. Tsai Ing-wen rejected the formula.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jan/02/all-necessary-means-xi-jinping-reserves-right-to-use-force-against-taiwan"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2019/01/02/asia/xi-jinping-taiwan-tsai-intl"
+   }
+  ],
+  "entities": [
+   "xi-jinping",
+   "china",
+   "taiwan",
+   "tsai-ing-wen"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "beijing"
+  ],
+  "related_stories": [
+   "2022-10-16-party-congress",
+   "2023-04-05-tsai-mccarthy",
+   "2020-01-11-tsai-reelected"
+  ]
+ },
+ {
+  "id": "2019-01-23-guaido-interim-president",
+  "date": "2019-01-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Americas",
+  "title": "Juan Guaidó declares himself Venezuela's interim president; the US recognises him",
+  "summary": "The opposition-led National Assembly called Maduro a usurper after his disputed 2018 re-election. The US and dozens of countries backed Guaidó; Russia, China and Cuba backed Maduro.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Venezuelan_presidential_crisis"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/jan/23/venezuela-protests-thousands-march-against-maduro-as-opposition-sees-chance-for-change"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2019/01/23/americas/venezuela-protests/index.html"
+   }
+  ],
+  "entities": [
+   "venezuela",
+   "juan-guaido",
+   "nicolas-maduro",
+   "united-states",
+   "russia",
+   "cuba"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "analysis": {
+   "text": "The failure of the Guaidó strategy left Washington looking for other ways to remove Maduro, up to the 2026 raid.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "venezuela-oil",
+   "western-hemisphere"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "caracas"
+  ],
+  "related_stories": [
+   "2019-01-28-pdvsa-sanctions",
+   "venezuela-oil",
+   "2022-03-05-us-venezuela-talks",
+   "us-weighs-shadow-fleet-relief",
+   "2026-01-03-maduro-captured",
+   "2026-03-13-cuba-talks",
+   "2026-10-12-cuba-blockade-bites",
+   "2025-09-02-boat-strikes-begin",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
+   "cuba-75pct-blackout-santa-cruz",
+   "2020-03-26-maduro-indicted"
+  ]
+ },
+ {
+  "id": "2019-01-28-pdvsa-sanctions",
+  "date": "2019-01-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Americas",
+  "title": "US sanctions Venezuela's state oil company PDVSA",
+  "summary": "The sanctions aimed to shift oil revenue to Guaidó's interim government and cut Maduro off from the US market, Venezuela's main buyer of crude.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sanctions_during_the_Venezuelan_crisis"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "venezuela",
+   "pdvsa",
+   "nicolas-maduro"
+  ],
+  "causes": [
+   {
+    "story": "2019-01-23-guaido-interim-president",
+    "why": "Pressure campaign to back Guaidó",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "venezuela-oil"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "energy",
+  "unplaced": "Sanctions decision.",
+  "related_stories": [
+   "2019-01-23-guaido-interim-president",
+   "venezuela-oil",
+   "2022-03-05-us-venezuela-talks",
+   "2026-01-03-maduro-captured",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2025-09-02-boat-strikes-begin",
+   "2025-11-16-ford-caribbean",
+   "2025-12-16-venezuela-tanker-blockade",
+   "2020-03-26-maduro-indicted"
+  ]
+ },
+ {
+  "id": "2019-02-14-pulwama-attack",
+  "date": "2019-02-14",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Asia-Pacific",
+  "title": "Suicide bombing in Pulwama kills 40 Indian paramilitary police",
+  "summary": "A local recruit of Pakistan-based Jaish-e-Mohammed rammed a convoy on the Jammu–Srinagar highway. India blamed Pakistan, which denied involvement.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Pulwama_attack"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/feb/15/indian-pm-modi-pakistan-pay-heavy-price-kashmir-bombing"
+   },
+   {
+    "name": "New York Times",
+    "url": "https://www.nytimes.com/2019/02/14/world/asia/pulwama-attack-kashmir.html"
+   }
+  ],
+  "entities": [
+   "india",
+   "pakistan",
+   "jaish-e-mohammed",
+   "narendra-modi"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "kashmir-india-pakistan",
+   "south-asia-security"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "where": [
+   "lethapora"
+  ],
+  "related_stories": [
+   "2019-02-26-balakot-strike"
+  ]
+ },
+ {
+  "id": "2019-02-26-balakot-strike",
+  "date": "2019-02-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Asia-Pacific",
+  "title": "India bombs Balakot in Pakistan; Pakistan downs an Indian jet the next day",
+  "summary": "Indian jets struck an alleged JeM camp; satellite imagery suggested little was hit. Pakistan captured pilot Abhinandan Varthaman and returned him days later.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_Balakot_airstrike"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2019/feb/26/pakistan-india-jets-breached-ceasefire-line-kashmir-bomb"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2019/02/26/india/india-pakistan-kashmir-analysis-intl/index.html"
+   }
+  ],
+  "entities": [
+   "india",
+   "pakistan",
+   "jaish-e-mohammed",
+   "narendra-modi",
+   "imran-khan"
+  ],
+  "causes": [
+   {
+    "story": "2019-02-14-pulwama-attack",
+    "why": "Retaliation for Pulwama",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "analysis": {
+   "text": "Balakot set the precedent of cross-border Indian strikes that India repeated on a larger scale in Operation Sindoor in 2025.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "kashmir-india-pakistan",
+   "south-asia-security"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "unplaced": "Balakot has no coordinates on Wikipedia.",
+  "related_stories": [
+   "2019-02-14-pulwama-attack"
+  ]
+ },
+ {
+  "id": "2019-02-28-hanoi-summit",
+  "date": "2019-02-28",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Asia-Pacific",
+  "title": "Trump–Kim summit in Hanoi collapses without a deal",
+  "summary": "The second summit was cut short over North Korea's demand for sanctions relief; Trump said Kim wanted all sanctions lifted.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2019_North_Korea%E2%80%93United_States_Hanoi_Summit"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2019/02/28/white-house-trump-kim-meetings-change-of-schedule.html"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "kim-jong-un",
+   "north-korea",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "korean-peninsula"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "diplomacy",
+  "where": [
+   "hanoi"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2019-03-19-nazarbayev-steps-down",
+  "date": "2019-03-19",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Russia/Eurasia",
+  "title": "Nursultan Nazarbayev resigns as Kazakhstan's president after 29 years",
+  "summary": "He handed the presidency to Kassym-Jomart Tokayev but kept the title of 'Elbasy' and the Security Council chairmanship; the capital was renamed after him.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev"
+   }
+  ],
+  "entities": [
+   "kazakhstan",
+   "nursultan-nazarbayev"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "era": "2019 (maximum pressure)",
+  "marker": "political",
+  "where": [
+   "astana"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2019-03-23-baghuz-caliphate-ends",
+  "date": "2019-03-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Middle East",
+  "title": "US-backed SDF takes Baghuz, ending the Islamic State's territorial caliphate",
+  "summary": "The last IS enclave on the Euphrates near the Iraqi border fell after a six-week battle; tens of thousands of fighters' relatives were moved to camps such as al-Hol.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Baghuz_Fawqani"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"
+   }
+  ],
+  "entities": [
+   "sdf",
+   "islamic-state",
+   "united-states",
+   "syria"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "military",
+  "where": [
+   "baghuz"
+  ],
+  "related_stories": [
+   "2026-08-20-sdf-integration"
+  ]
+ },
+ {
+  "id": "2019-03-25-golan-recognition",
+  "date": "2019-03-25",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Middle East",
+  "title": "Trump recognises Israeli sovereignty over the Golan Heights",
+  "summary": "The US became the first country to recognise Israel's 1981 de facto annexation of territory captured from Syria in 1967.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_recognition_of_the_Golan_Heights_as_part_of_Israel"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2019/03/25/politics/donald-trump-benjamin-netanyahu/index.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "israel",
+   "syria",
+   "donald-trump",
+   "benjamin-netanyahu"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2019 (maximum pressure)",
+  "marker": "diplomacy",
+  "where": [
+   "washington-dc"
+  ],
+  "related_stories": [
+   "us-iran-talks-deadlock",
+   "2026-02-28-iran-war-begins",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2020-08-13-abraham-accords",
+   "2020-12-14-sudan-delisted"
+  ]
+ },
+ {
+  "id": "2019-03-15-christchurch-shootings",
+  "date": "2019-03-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2019-03-31",
+  "region": "Asia-Pacific",
+  "title": "White supremacist gunman kills 51 at two Christchurch mosques",
+  "summary": "The livestreamed attack led Jacinda Ardern's government to ban most semi-automatic weapons within weeks.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings"
+   }
+  ],
+  "entities": [
+   "new-zealand",
+   "jacinda-ardern"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2019-03-31",
+  "era": "2019 (maximum pressure)",
+  "marker": "strike",
+  "where": [
+   "christchurch"
+  ],
+  "related_stories": []
  }
 ]
