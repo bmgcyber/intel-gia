@@ -1,0 +1,590 @@
+{
+ "edition": "2016-03-31",
+ "entities": [
+  {
+   "id": "south-sudan",
+   "name": "South Sudan",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/South_Sudan"
+  },
+  {
+   "id": "salva-kiir",
+   "name": "Salva Kiir",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salva_Kiir_Mayardit"
+  },
+  {
+   "id": "riek-machar",
+   "name": "Riek Machar",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Riek_Machar"
+  },
+  {
+   "id": "farc",
+   "name": "FARC",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia"
+  },
+  {
+   "id": "fidel-castro",
+   "name": "Fidel Castro",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fidel_Castro"
+  },
+  {
+   "id": "hillary-clinton",
+   "name": "Hillary Clinton",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hillary_Clinton"
+  },
+  {
+   "id": "barack-obama",
+   "name": "Barack Obama",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama"
+  },
+  {
+   "id": "dilma-rousseff",
+   "name": "Dilma Rousseff",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dilma_Rousseff"
+  },
+  {
+   "id": "fethullah-gulen",
+   "name": "Fethullah Gülen",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fethullah_G%C3%BClen"
+  },
+  {
+   "id": "akhtar-mansour",
+   "name": "Akhtar Mansour",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Akhtar_Mansur"
+  },
+  {
+   "id": "hibatullah-akhundzada",
+   "name": "Hibatullah Akhundzada",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hibatullah_Akhundzada"
+  },
+  {
+   "id": "gna-libya",
+   "name": "Government of National Accord (Libya)",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Government_of_National_Accord"
+  },
+  {
+   "id": "ali-bongo",
+   "name": "Ali Bongo",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ali_Bongo_Ondimba"
+  },
+  {
+   "id": "free-syrian-army",
+   "name": "Free Syrian Army",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Free_Syrian_Army"
+  },
+  {
+   "id": "vision-2030",
+   "name": "Saudi Vision 2030",
+   "type": "theme",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saudi_Vision_2030"
+  },
+  {
+   "id": "juan-manuel-santos",
+   "name": "Juan Manuel Santos",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Juan_Manuel_Santos"
+  },
+  {
+   "id": "nimr-al-nimr",
+   "name": "Nimr al-Nimr",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nimr_al-Nimr"
+  },
+  {
+   "id": "jarabulus",
+   "name": "Jarabulus",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jarabulus",
+   "lat": 36.8175,
+   "lon": 38.0111,
+   "precision": "city"
+  },
+  {
+   "id": "breitscheidplatz",
+   "name": "Breitscheidplatz, Berlin",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Breitscheidplatz",
+   "lat": 52.50483,
+   "lon": 13.33617,
+   "precision": "feature"
+  },
+  {
+   "id": "brussels-airport",
+   "name": "Brussels Airport",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brussels_Airport",
+   "lat": 50.90138889,
+   "lon": 4.48444444,
+   "precision": "feature"
+  },
+  {
+   "id": "uri",
+   "name": "Uri",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Uri%2C_Jammu_and_Kashmir",
+   "lat": 34.08611111,
+   "lon": 74.03333333,
+   "precision": "city"
+  },
+  {
+   "id": "sirte",
+   "name": "Sirte",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sirte",
+   "lat": 31.205,
+   "lon": 16.58861111,
+   "precision": "city"
+  },
+  {
+   "id": "warsaw",
+   "name": "Warsaw",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Warsaw",
+   "lat": 52.23,
+   "lon": 21.01111111,
+   "precision": "city"
+  },
+  {
+   "id": "bogota",
+   "name": "Bogotá",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+   "lat": 4.71111111,
+   "lon": -74.07222222,
+   "precision": "city"
+  },
+  {
+   "id": "manila",
+   "name": "Manila",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manila",
+   "lat": 14.5958,
+   "lon": 120.9772,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2016-01-02-nimr-executed-saudi-iran-split",
+   "date": "2016-01-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Saudi Arabia executes Shia cleric Nimr al-Nimr; Riyadh cuts ties with Iran",
+   "summary": "Protesters ransacked the Saudi embassy in Tehran on Jan 3 and Saudi Arabia severed diplomatic relations, which were restored in 2023 under a China-brokered deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Execution_of_Nimr_al-Nimr"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_relations"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jan/02/suadi-arabia-cleric-execution-unrest-predicted-shia-areas"
+    }
+   ],
+   "entities": [
+    "saudi-arabia",
+    "iran",
+    "nimr-al-nimr"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2016-01-06-north-korea-fourth-test",
+   "date": "2016-01-06",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "North Korea conducts its fourth nuclear test and claims a hydrogen bomb",
+   "summary": "A fifth test followed on Sep 9, the start of a rapid weapons push under Kim Jong Un.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/January_2016_North_Korean_nuclear_test"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/September_2016_North_Korean_nuclear_test"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jan/06/north-korean-nuclear-test-suspected-as-artificial-earthquake-detected"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "military",
+   "unplaced": "Punggye-ri test site."
+  },
+  {
+   "id": "2016-01-16-jcpoa-implementation",
+   "date": "2016-01-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Iran nuclear deal takes effect and sanctions are lifted",
+   "summary": "The IAEA certified Iran had cut its programme as required under the 2015 JCPOA, unlocking frozen assets and oil exports; a prisoner swap with the US came the same day.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jan/16/sanctions-against-iran-to-be-lifted-after-compliance-with-nuclear-deal"
+    }
+   ],
+   "entities": [
+    "iran",
+    "jcpoa",
+    "iaea",
+    "united-states",
+    "european-union"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "IAEA certification."
+  },
+  {
+   "id": "2016-01-20-oil-below-30",
+   "date": "2016-01-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Oil falls below $30 a barrel as the post-2014 glut peaks",
+   "summary": "US shale growth and OPEC's 2014 decision to defend market share drove prices from over $100 in 2014 to a 12-year low.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2010s_oil_glut"
+    }
+   ],
+   "entities": [
+    "opec",
+    "saudi-arabia",
+    "united-states"
+   ],
+   "storylines": [
+    "global-oil"
+   ],
+   "marker": "energy",
+   "unplaced": "Global market."
+  },
+  {
+   "id": "2016-03-22-brussels-bombings",
+   "date": "2016-03-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "Islamic State bombers kill 32 at Brussels airport and metro",
+   "summary": "The cell was linked to the November 2015 Paris attacks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_Brussels_bombings"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/ng-interactive/2016/mar/22/where-the-brussels-attackers-struck"
+    }
+   ],
+   "entities": [
+    "belgium",
+    "islamic-state"
+   ],
+   "storylines": [
+    "isis-war"
+   ],
+   "marker": "strike",
+   "where": [
+    "brussels-airport"
+   ]
+  },
+  {
+   "id": "2016-03-30-gna-arrives-tripoli",
+   "date": "2016-03-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Africa",
+   "title": "Libya's UN-backed unity government arrives in Tripoli",
+   "summary": "The Government of National Accord, formed under the 2015 Libyan Political Agreement, was rejected by Khalifa Haftar's eastern camp.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Government_of_National_Accord"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "http://www.aljazeera.com/news/2016/03/libya-backed-unity-government-arrives-tripoli-160330125804929.html"
+    }
+   ],
+   "entities": [
+    "libya",
+    "gna-libya",
+    "khalifa-haftar"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "political",
+   "unplaced": "Tripoli has no coordinates on its Wikipedia page."
+  },
+  {
+   "id": "2016-03-14-putin-partial-syria-withdrawal",
+   "date": "2016-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Russia/Eurasia",
+   "title": "Putin declares the Syria mission 'on the whole accomplished' and orders a partial pullout",
+   "summary": "Russian air power had turned the war in Assad's favour; most forces stayed and the Aleppo offensive followed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Russian_military_intervention_in_the_Syrian_civil_war"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin",
+    "syria",
+    "bashar-al-assad"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "military",
+   "unplaced": "Announcement in Moscow."
+  },
+  {
+   "id": "2016-02-01-zika-emergency",
+   "date": "2016-02",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Americas",
+   "title": "WHO declares the Zika-linked birth defects in Brazil a global emergency",
+   "summary": "The mosquito-borne virus spread through the Americas ahead of the Rio Olympics.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Zika_virus"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2016/02/01/health/zika-virus-public-health-emergency"
+    }
+   ],
+   "entities": [
+    "who",
+    "brazil"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "unplaced": "Region-wide outbreak."
+  },
+  {
+   "id": "2016-03-18-eu-turkey-migrant-deal",
+   "date": "2016-03-18",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "EU and Turkey agree a deal to stem migrant crossings to Greece",
+   "summary": "Ankara agreed to take back migrants in return for money and visa promises, after more than a million people reached Europe in 2015.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/European_migrant_crisis"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "turkey",
+    "greece",
+    "recep-tayyip-erdogan"
+   ],
+   "storylines": [
+    "europe-populism"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "brussels"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2016-01-02-nimr-executed-saudi-iran-split"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2016-01-06-north-korea-fourth-test"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2016-01-16-jcpoa-implementation"
+   ]
+  },
+  {
+   "id": "global-oil",
+   "name": "Global oil price & flows",
+   "entities": [
+    "petroleum",
+    "strait-of-hormuz",
+    "saudi-arabia",
+    "russia",
+    "venezuela"
+   ],
+   "stories": [
+    "2016-01-20-oil-below-30"
+   ]
+  },
+  {
+   "id": "isis-war",
+   "name": "Islamic State: caliphate and the war against it",
+   "entities": [
+    "islamic-state",
+    "iraq",
+    "syria",
+    "united-states",
+    "sdf"
+   ],
+   "stories": [
+    "2016-03-22-brussels-bombings"
+   ]
+  },
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2016-03-30-gna-arrives-tripoli"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2016-03-14-putin-partial-syria-withdrawal"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2016-02-01-zika-emergency"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2016-03-18-eu-turkey-migrant-deal"
+   ]
+  }
+ ]
+}
