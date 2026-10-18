@@ -1,0 +1,361 @@
+{
+ "edition": "2002-09-30",
+ "stories": [
+  {
+   "id": "2002-07-01-icc-founded",
+   "date": "2002-07-01",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Europe",
+   "title": "The International Criminal Court comes into being",
+   "summary": "The US, Russia and China stayed outside.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+    }
+   ],
+   "entities": [
+    "icc"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "the-hague"
+   ]
+  },
+  {
+   "id": "2002-07-09-african-union-launched",
+   "date": "2002-07-09",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "The African Union replaces the OAU",
+   "summary": "It was launched at a summit in Durban.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/African_Union"
+    }
+   ],
+   "entities": [
+    "african-union",
+    "south-africa"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "durban"
+   ]
+  },
+  {
+   "id": "2002-07-20-machakos-protocol",
+   "date": "2002-07-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "Sudan's government and the SPLM agree on self-determination for the South",
+   "summary": "The Machakos Protocol led to the 2005 peace deal.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Machakos_Protocol"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "south-sudan"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "nairobi"
+   ]
+  },
+  {
+   "id": "2002-07-30-pretoria-accord",
+   "date": "2002-07-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "Rwanda and Congo sign the Pretoria Accord",
+   "summary": "Rwanda agreed to withdraw troops in return for action against Hutu militias.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pretoria_Accord"
+    }
+   ],
+   "entities": [
+    "rwanda",
+    "drc"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pretoria"
+   ]
+  },
+  {
+   "id": "2002-08-07-uribe-takes-office",
+   "date": "2002-08-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Americas",
+   "title": "Álvaro Uribe takes office in Colombia",
+   "summary": "His 'democratic security' campaign with US Plan Colombia aid pushed back the FARC.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+    }
+   ],
+   "entities": [
+    "colombia",
+    "alvaro-uribe",
+    "farc"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "bogota"
+   ]
+  },
+  {
+   "id": "2002-08-14-iran-natanz-exposed",
+   "date": "2002-08-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Middle East",
+   "title": "An Iranian exile group reveals the secret Natanz enrichment site",
+   "summary": "The revelation started the international crisis over Iran's nuclear programme.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Natanz_Nuclear_Facility"
+    }
+   ],
+   "entities": [
+    "iran",
+    "iaea"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "political",
+   "where": [
+    "natanz"
+   ]
+  },
+  {
+   "id": "2002-09-17-koizumi-pyongyang",
+   "date": "2002-09-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Asia-Pacific",
+   "title": "Koizumi visits Pyongyang, and Kim Jong-il admits abducting Japanese",
+   "summary": "The admission hardened Japanese opinion.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93North_Korea_Pyongyang_Declaration"
+    }
+   ],
+   "entities": [
+    "japan",
+    "north-korea",
+    "kim-jong-il"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "pyongyang"
+   ]
+  },
+  {
+   "id": "2002-09-19-ivory-coast-war",
+   "date": "2002-09-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Africa",
+   "title": "A failed coup splits Ivory Coast into north and south",
+   "summary": "The division ran until the 2011 post-election war.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/First_Ivorian_Civil_War"
+    }
+   ],
+   "entities": [
+    "ivory-coast",
+    "laurent-gbagbo"
+   ],
+   "storylines": [
+    "africa-governance"
+   ],
+   "marker": "military",
+   "where": [
+    "abidjan"
+   ]
+  },
+  {
+   "id": "2002-09-20-bush-doctrine",
+   "date": "2002-09-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2002 (the euro, the 'axis of evil', the road to Iraq)",
+   "region": "Americas",
+   "title": "US security strategy embraces pre-emptive war",
+   "summary": "The doctrine underpinned the Iraq invasion.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bush_Doctrine"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "george-w-bush"
+   ],
+   "storylines": [
+    "war-on-terror",
+    "iraq-war"
+   ],
+   "marker": "political",
+   "where": [
+    "washington-dc"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "africa-governance",
+   "name": "Africa: coups, elections and governance",
+   "entities": [
+    "south-africa",
+    "kenya",
+    "nigeria",
+    "zimbabwe"
+   ],
+   "stories": [
+    "2002-07-09-african-union-launched",
+    "2002-09-19-ivory-coast-war"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2002-07-20-machakos-protocol"
+   ]
+  },
+  {
+   "id": "drc-m23-minerals",
+   "name": "DRC / M23 minerals war",
+   "entities": [
+    "drc",
+    "m23",
+    "rwanda",
+    "joseph-kabila",
+    "rubaya",
+    "coltan"
+   ],
+   "stories": [
+    "2002-07-30-pretoria-accord"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2002-08-07-uribe-takes-office"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2002-08-14-iran-natanz-exposed"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2002-09-17-koizumi-pyongyang"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2002-09-20-bush-doctrine"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2002-09-20-bush-doctrine"
+   ]
+  }
+ ]
+}
