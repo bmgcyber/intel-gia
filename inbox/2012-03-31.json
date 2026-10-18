@@ -1,0 +1,443 @@
+{
+ "edition": "2012-03-31",
+ "entities": [
+  {
+   "id": "mnla",
+   "name": "National Movement for the Liberation of Azawad",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/National_Movement_for_the_Liberation_of_Azawad"
+  },
+  {
+   "id": "ansar-dine",
+   "name": "Ansar Dine",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ansar_Dine"
+  },
+  {
+   "id": "jabhat-al-nusra",
+   "name": "al-Nusra Front",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al-Nusra_Front"
+  },
+  {
+   "id": "mario-draghi",
+   "name": "Mario Draghi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mario_Draghi"
+  },
+  {
+   "id": "bo-xilai",
+   "name": "Bo Xilai",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bo_Xilai"
+  },
+  {
+   "id": "ansar-al-sharia-libya",
+   "name": "Ansar al-Sharia (Libya)",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ansar_al-Sharia_%28Libya%29"
+  },
+  {
+   "id": "malala-yousafzai",
+   "name": "Malala Yousafzai",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Malala_Yousafzai"
+  },
+  {
+   "id": "mitt-romney",
+   "name": "Mitt Romney",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mitt_Romney"
+  },
+  {
+   "id": "syriza",
+   "name": "Syriza",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Syriza"
+  },
+  {
+   "id": "paraguay",
+   "name": "Paraguay",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paraguay"
+  },
+  {
+   "id": "mahmoud-abbas",
+   "name": "Mahmoud Abbas",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahmoud_Abbas"
+  },
+  {
+   "id": "mingora",
+   "name": "Mingora",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mingora",
+   "lat": 34.77166667,
+   "lon": 72.36,
+   "precision": "city"
+  },
+  {
+   "id": "heglig",
+   "name": "Heglig",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heglig",
+   "lat": 9.99944444,
+   "lon": 29.39861111,
+   "precision": "city"
+  },
+  {
+   "id": "chongqing",
+   "name": "Chongqing",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chongqing",
+   "lat": 29.5637,
+   "lon": 106.5504,
+   "precision": "city"
+  },
+  {
+   "id": "sittwe",
+   "name": "Sittwe",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sittwe",
+   "lat": 20.137,
+   "lon": 92.885,
+   "precision": "city"
+  },
+  {
+   "id": "kismayo",
+   "name": "Kismayo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kismayo",
+   "lat": -0.35805556,
+   "lon": 42.54527778,
+   "precision": "city"
+  },
+  {
+   "id": "senkaku-islands",
+   "name": "Senkaku Islands",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Senkaku_Islands",
+   "lat": 25.745,
+   "lon": 123.485,
+   "precision": "feature"
+  },
+  {
+   "id": "marikana",
+   "name": "Marikana",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marikana",
+   "lat": -25.698,
+   "lon": 27.472,
+   "precision": "city"
+  },
+  {
+   "id": "asuncion",
+   "name": "Asunción",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+   "lat": -25.28,
+   "lon": -57.63444444,
+   "precision": "city"
+  },
+  {
+   "id": "un-hq",
+   "name": "UN headquarters, New York",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations",
+   "lat": 40.74944444,
+   "lon": -73.96805556,
+   "precision": "feature"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2012-01-17-tuareg-rebellion",
+   "date": "2012-01-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Tuareg rebels launch an uprising in northern Mali, armed from Libya's war",
+   "summary": "The MNLA, joined by fighters returning from Gaddafi's forces, allied with the jihadist Ansar Dine.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tuareg_rebellion_%282012%29"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mali_War"
+    }
+   ],
+   "entities": [
+    "mali",
+    "mnla",
+    "ansar-dine",
+    "libya"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "military",
+   "unplaced": "Northern Mali."
+  },
+  {
+   "id": "2012-01-23-nusra-founded",
+   "date": "2012-01-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Middle East",
+   "title": "Jabhat al-Nusra announces itself in Syria",
+   "summary": "Ahmed al-Sharaa (al-Julani) founded it as an offshoot of the Islamic State of Iraq; it later became HTS, which took Damascus in 2024.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Al-Nusra_Front"
+    }
+   ],
+   "entities": [
+    "jabhat-al-nusra",
+    "syria",
+    "ahmed-al-sharaa"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "political",
+   "unplaced": "Online announcement."
+  },
+  {
+   "id": "2012-03-04-putin-returns",
+   "date": "2012-03-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Russia/Eurasia",
+   "title": "Putin wins back Russia's presidency with 63%",
+   "summary": "Observers reported flaws, and the March of the Millions on May 6 ended in clashes and prosecutions as he cracked down.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Russian_presidential_election"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bolotnaya_Square_case"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2012-03-15-bo-xilai-purged",
+   "date": "2012-03-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Asia-Pacific",
+   "title": "Bo Xilai is fired as Chongqing party chief",
+   "summary": "The scandal removed Xi's main rival before the leadership transition.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bo_Xilai"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/mar/30/bo-xilai-profile"
+    }
+   ],
+   "entities": [
+    "china",
+    "bo-xilai"
+   ],
+   "marker": "political",
+   "where": [
+    "chongqing"
+   ]
+  },
+  {
+   "id": "2012-03-22-mali-coup",
+   "date": "2012-03-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Mutinying soldiers overthrow Mali's President Touré",
+   "summary": "Angered by the handling of the rebellion, they left the north to fall within weeks; the MNLA declared 'Azawad' independent on Apr 6.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012_Malian_coup_d%27%C3%A9tat"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Azawad"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2012/mar/22/mali-rebels-coup"
+    }
+   ],
+   "entities": [
+    "mali",
+    "mnla"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2012-01-17-tuareg-rebellion",
+     "why": "Army anger over the rebellion",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "This began a cycle of coups and jihadist expansion that led to the 2020–21 juntas.",
+    "confidence": "likely"
+   },
+   "where": [
+    "bamako"
+   ]
+  },
+  {
+   "id": "2012-02-09-shabaab-joins-al-qaeda",
+   "date": "2012-02",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Africa",
+   "title": "Al-Shabaab's leaders pledge allegiance to al-Qaeda",
+   "summary": "The pledge widened internal splits within the Somali jihadist group.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Al-Shabaab_%28militant_group%29"
+    }
+   ],
+   "entities": [
+    "al-shabaab",
+    "al-qaeda",
+    "somalia"
+   ],
+   "storylines": [
+    "horn-of-africa-tigray"
+   ],
+   "marker": "political",
+   "unplaced": "Announced by video."
+  },
+  {
+   "id": "2012-02-21-greek-second-bailout",
+   "date": "2012-02",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2012 (Xi's rise, Mali, whatever it takes)",
+   "region": "Europe",
+   "title": "Greece's second bailout is ratified, with a big write-down for private bondholders",
+   "summary": "Recession and missed targets forced the second programme.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+    }
+   ],
+   "entities": [
+    "greece",
+    "european-union",
+    "imf"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "athens"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2012-01-17-tuareg-rebellion",
+    "2012-03-22-mali-coup"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2012-01-23-nusra-founded"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2012-03-04-putin-returns"
+   ]
+  },
+  {
+   "id": "horn-of-africa-tigray",
+   "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+   "entities": [
+    "ethiopia",
+    "eritrea",
+    "tplf"
+   ],
+   "stories": [
+    "2012-02-09-shabaab-joins-al-qaeda"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2012-02-21-greek-second-bailout"
+   ]
+  }
+ ]
+}
