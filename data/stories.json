@@ -26942,7 +26942,8 @@
   "related_stories": [
    "2022-07-31-zawahiri",
    "2025-10-19-afpak-doha-ceasefire",
-   "2021-04-14-us-afghan-exit-order"
+   "2021-04-14-us-afghan-exit-order",
+   "2021-08-15-fall-of-kabul"
   ]
  },
  {
@@ -27590,7 +27591,8 @@
   "unplaced": "Trade measures; no single site.",
   "related_stories": [
    "2022-04-19-solomon-pact",
-   "2020-10-06-quad-tokyo-malabar"
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-09-15-aukus"
   ]
  },
  {
@@ -28118,7 +28120,8 @@
   "related_stories": [
    "2021-12-wagner-mali",
    "2022-02-17-france-leaves-mali",
-   "2021-05-24-mali-second-coup"
+   "2021-05-24-mali-second-coup",
+   "2021-09-05-guinea-coup"
   ]
  },
  {
@@ -29956,7 +29959,8 @@
    "putin-security-zone",
    "2025-08-15-alaska-summit",
    "russia-332-drone-energy-strike",
-   "graham-waiver-bipartisan-backlash"
+   "graham-waiver-bipartisan-backlash",
+   "2021-07-12-putin-unity-essay"
   ]
  },
  {
@@ -30059,7 +30063,8 @@
    "washington-dc"
   ],
   "related_stories": [
-   "2020-02-29-doha-agreement"
+   "2020-02-29-doha-agreement",
+   "2021-08-15-fall-of-kabul"
   ]
  },
  {
@@ -30475,5 +30480,479 @@
    "2025-03-tplf-split",
    "tigray-federal-takeover-rubio"
   ]
+ },
+ {
+  "id": "2021-07-07-moise-assassinated",
+  "date": "2021-07-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Americas",
+  "title": "Haiti's President Jovenel Moïse is assassinated",
+  "summary": "Mercenaries, mostly Colombian, killed Moïse at his home in Port-au-Prince. The killing deepened a power vacuum that gangs filled.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Jovenel_Mo%C3%AFse"
+   },
+   {
+    "name": "The Guardian",
+    "url": "http://www.theguardian.com/world/2021/jul/07/haiti-president-jovenel-moise-reportedly-assassinated"
+   },
+   {
+    "name": "CNN",
+    "url": "https://edition.cnn.com/2021/07/07/americas/haiti-president-jovenel-moise-attack-intl/index.html"
+   }
+  ],
+  "entities": [
+   "haiti",
+   "jovenel-moise"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "analysis": {
+   "text": "The vacuum led to gang rule, the 2022 call for foreign troops and Henry's 2024 resignation.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "port-au-prince"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2021-07-11-cuba-protests",
+  "date": "2021-07-11",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Americas",
+  "title": "Cubans stage the largest protests since 1994",
+  "summary": "Shortages of food and medicine and a COVID surge drove protests across the island. The government arrested hundreds and charged at least 710 people, some with sedition.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Cuban_protests"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2021/07/11/americas/cuba-protests/index.html"
+   }
+  ],
+  "entities": [
+   "cuba",
+   "miguel-diaz-canel"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "havana"
+  ],
+  "related_stories": []
+ },
+ {
+  "id": "2021-07-12-putin-unity-essay",
+  "date": "2021-07-12",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Putin publishes his essay on the 'historical unity' of Russians and Ukrainians",
+  "summary": "Published on the Kremlin website after the first buildup, it argued Russians and Ukrainians were one people; Russian media reported it was made required reading for the military.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/On_the_Historical_Unity_of_Russians_and_Ukrainians"
+   }
+  ],
+  "entities": [
+   "vladimir-putin",
+   "russia",
+   "ukraine"
+  ],
+  "causes": [
+   {
+    "story": "2021-04-01-russia-spring-buildup",
+    "why": "Written after the spring buildup",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "analysis": {
+   "text": "The essay set out the ideological case Putin later used to justify the 2022 invasion.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "unplaced": "Online essay.",
+  "related_stories": [
+   "2021-04-01-russia-spring-buildup",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-02-24-invasion",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "2025-08-15-alaska-summit",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash"
+  ]
+ },
+ {
+  "id": "2021-07-21-nord-stream-2-deal",
+  "date": "2021-07-21",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Europe",
+  "title": "US and Germany settle their dispute over Nord Stream 2",
+  "summary": "Washington dropped efforts to block the Gazprom pipeline in exchange for German pledges to act if Russia used energy as a weapon. The line was completed in September but never entered service.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nord_Stream_2"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-germany-deal-nord-stream-2-pipeline-draws-ire-lawmakers-both-countries-2021-07-21/"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "germany",
+   "nord-stream",
+   "gazprom",
+   "angela-merkel"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "energy",
+  "unplaced": "Bilateral agreement.",
+  "related_stories": [
+   "2022-06-14-nordstream-cut"
+  ]
+ },
+ {
+  "id": "2021-08-15-fall-of-kabul",
+  "date": "2021-08-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Asia-Pacific",
+  "title": "Kabul falls to the Taliban as Ghani flees",
+  "summary": "After taking most provincial capitals in a week, the Taliban entered Kabul and restored the Islamic Emirate. The US and allies airlifted more than 120,000 people by Aug 30.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_Kabul_%282021%29"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/8/15/taliban-enter-kabul-from-all-sides"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/08/15/1027806863/the-taliban-seize-jalalabad-cutting-off-kabul-to-the-east"
+   }
+  ],
+  "entities": [
+   "taliban",
+   "afghanistan",
+   "ashraf-ghani",
+   "united-states",
+   "pakistan"
+  ],
+  "causes": [
+   {
+    "story": "2021-04-14-us-afghan-exit-order",
+    "why": "US withdrawal",
+    "confidence": "likely"
+   },
+   {
+    "story": "2020-02-29-doha-agreement",
+    "why": "Doha deal weakened the Afghan forces",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "analysis": {
+   "text": "Pakistan welcomed the Taliban's return but soon faced a resurgent TTP sheltering in Afghanistan, the root of the 2025–26 war.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "military",
+  "where": [
+   "kabul"
+  ],
+  "related_stories": [
+   "2021-04-14-us-afghan-exit-order",
+   "2020-02-29-doha-agreement",
+   "2021-08-26-kabul-airport-bombing",
+   "2026-02-26-pakistan-afghanistan-war",
+   "2026-03-16-kabul-hospital-strike",
+   "2026-10-05-taliban-diplomacy",
+   "2025-10-19-afpak-doha-ceasefire",
+   "2025-01-01-pakistan-deadliest-year",
+   "kurram-border-clash"
+  ]
+ },
+ {
+  "id": "2021-08-26-kabul-airport-bombing",
+  "date": "2021-08-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Asia-Pacific",
+  "title": "ISIS-K bombing at Kabul airport kills about 170 Afghans and 13 US troops",
+  "summary": "A suicide bomber struck crowds at the airport gates during the evacuation. A US retaliatory drone strike on Aug 29 killed ten civilians, including seven children.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Kabul_airport_attack"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/8/26/us-uk-australia-warn-of-terror-threat-at-kabul-airport"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2021/08/26/asia/afghanistan-kabul-airport-blast-intl/index.html"
+   }
+  ],
+  "entities": [
+   "isis-k",
+   "united-states",
+   "afghanistan",
+   "taliban"
+  ],
+  "causes": [
+   {
+    "story": "2021-08-15-fall-of-kabul",
+    "why": "Chaotic evacuation",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "pakistan-afghanistan-war"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "strike",
+  "where": [
+   "kabul-airport"
+  ],
+  "related_stories": [
+   "2021-08-15-fall-of-kabul",
+   "2020-02-29-doha-agreement",
+   "2021-04-14-us-afghan-exit-order"
+  ]
+ },
+ {
+  "id": "2021-09-05-guinea-coup",
+  "date": "2021-09-05",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Africa",
+  "title": "Special forces seize Guinea's President Alpha Condé",
+  "summary": "Col. Mamady Doumbouya dissolved the constitution after Condé had changed it to win a third term in 2020.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_Guinean_coup_d%27%C3%A9tat"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2021/9/5/heavy-gunfire-heard-in-guinea-capital-conakry-witnesses"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2021/09/05/elite-guinea-army-unit-said-it-has-toppled-long-time-president-alpha-conde.html"
+   }
+  ],
+  "entities": [
+   "guinea",
+   "mamady-doumbouya",
+   "ecowas"
+  ],
+  "causes": [
+   {
+    "story": "2020-08-18-mali-coup",
+    "why": "Regional coup wave",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "sahel"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "where": [
+   "conakry"
+  ],
+  "related_stories": [
+   "2020-08-18-mali-coup"
+  ]
+ },
+ {
+  "id": "2021-09-15-aukus",
+  "date": "2021-09-15",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Asia-Pacific",
+  "title": "Australia, the UK and the US announce AUKUS",
+  "summary": "The pact will give Australia nuclear-powered attack submarines and joint work on advanced technologies. Australia cancelled a French submarine contract worth €56bn, and China called it a 'cold-war mentality'.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/AUKUS"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/09/15/1037338887/why-biden-is-taking-the-rare-step-of-sharing-nuclear-submarine-tech-with-austral"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us/biden-announce-alliance-with-britain-australia-tech-cyber-defense-politico-2021-09-15/"
+   }
+  ],
+  "entities": [
+   "aukus",
+   "australia",
+   "united-kingdom",
+   "united-states",
+   "france",
+   "china"
+  ],
+  "causes": [
+   {
+    "story": "2020-05-australia-china-trade-war",
+    "why": "Australia's break with Beijing",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "diplomacy",
+  "unplaced": "Joint virtual announcement.",
+  "related_stories": [
+   "2020-05-australia-china-trade-war",
+   "2025-10-20-us-australia-minerals",
+   "2023-03-13-aukus-pathway",
+   "2020-06-30-hong-kong-nsl",
+   "2020-10-06-quad-tokyo-malabar",
+   "2021-03-12-quad-summit-anchorage"
+  ]
+ },
+ {
+  "id": "2021-09-20-evergrande-crisis",
+  "date": "2021-09-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Asia-Pacific",
+  "title": "Evergrande's collapse sets off China's property crisis",
+  "summary": "Shares of the world's most indebted developer plunged amid fears of contagion; it missed payments through the autumn and S&P declared it in default on Dec 17.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Evergrande_Group"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2021/sep/20/shares-in-chinas-evergrande-plunge-again-as-fears-of-contagion-grow"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2021/9/22/evergrande-turned-to-employees-clients-suppliers-for-cash"
+   }
+  ],
+  "entities": [
+   "evergrande",
+   "china",
+   "xi-jinping"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "analysis": {
+   "text": "The property bust pushed China to lean on exports, feeding the trade surpluses of 2025.",
+   "confidence": "possible"
+  },
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "unplaced": "Corporate debt crisis.",
+  "related_stories": []
+ },
+ {
+  "id": "2021-09-26-german-election",
+  "date": "2021-09-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2021-09-30",
+  "region": "Europe",
+  "title": "SPD narrowly wins Germany's post-Merkel election; Scholz forms a three-party coalition",
+  "summary": "The SPD took 25.7% against the CDU/CSU's record-low 24.1%. Olaf Scholz formed a coalition with the Greens and FDP and took office in December.",
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2021_German_federal_election"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2021/09/26/1040818820/social-democrats-beat-merkels-bloc-in-german-elections"
+   }
+  ],
+  "entities": [
+   "germany",
+   "olaf-scholz",
+   "angela-merkel"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2021-09-30",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2021 (post-pandemic recovery)",
+  "marker": "political",
+  "unplaced": "National election.",
+  "related_stories": []
  }
 ]

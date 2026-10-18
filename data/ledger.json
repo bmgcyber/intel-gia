@@ -35606,6 +35606,557 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2021-09-30": {
+   "sha256": "32bfdcfb34932158708c5c93e68d768fcddf6ba5fed3d3bc3052d5bb61f4cfe7",
+   "undo": {
+    "stories": {
+     "2021-07-07-moise-assassinated": null,
+     "2021-07-11-cuba-protests": null,
+     "2021-07-12-putin-unity-essay": null,
+     "2021-07-21-nord-stream-2-deal": null,
+     "2021-08-15-fall-of-kabul": null,
+     "2021-08-26-kabul-airport-bombing": null,
+     "2021-09-05-guinea-coup": null,
+     "2021-09-15-aukus": null,
+     "2021-09-20-evergrande-crisis": null,
+     "2021-09-26-german-election": null,
+     "2021-04-01-russia-spring-buildup": {
+      "id": "2021-04-01-russia-spring-buildup",
+      "date": "2021-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2021-06-30",
+      "region": "Russia/Eurasia",
+      "title": "Russia masses troops on Ukraine's border and in Crimea",
+      "summary": "In March–April 2021 Russia staged its largest buildup since 2014. Troops partly withdrew by June but left equipment in place, and a second buildup began in October.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prelude_to_the_2022_Russian_invasion_of_Ukraine"
+       },
+       {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2021/04/22/europe/russia-military-ukraine-border-exercises-intl/index.html"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2021/apr/09/kremlin-officials-say-russia-will-not-stand-aside-if-kyiv-launches-assault"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2021-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "military",
+      "unplaced": "Buildup along the whole border and in Crimea.",
+      "related_stories": [
+       "2021-06-16-biden-putin-geneva",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "trump-waives-russia-sanctions",
+       "putin-security-zone",
+       "2025-08-15-alaska-summit",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash"
+      ]
+     },
+     "2021-04-14-us-afghan-exit-order": {
+      "id": "2021-04-14-us-afghan-exit-order",
+      "date": "2021-04-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2021-06-30",
+      "region": "Asia-Pacific",
+      "title": "Biden orders all US troops out of Afghanistan by September 11",
+      "summary": "Biden said the remaining 2,500 troops would start leaving on May 1 and be gone by the 20th anniversary of 9/11. The Taliban launched a nationwide offensive as the pullout began.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2021_Taliban_offensive"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fall_of_Kabul_%282021%29"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "joe-biden",
+       "afghanistan",
+       "taliban"
+      ],
+      "causes": [
+       {
+        "story": "2020-02-29-doha-agreement",
+        "why": "Withdrawal under the Doha deal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2021-06-30",
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2021 (post-pandemic recovery)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2020-02-29-doha-agreement"
+      ]
+     },
+     "2020-02-29-doha-agreement": {
+      "id": "2020-02-29-doha-agreement",
+      "date": "2020-02-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-03-31",
+      "region": "Asia-Pacific",
+      "title": "US and Taliban sign the Doha deal on a full US withdrawal from Afghanistan",
+      "summary": "Washington agreed to withdraw all troops within 14 months; the Taliban pledged not to let al-Qaeda use Afghan soil and to open talks with Kabul, which began in Doha in September. The Afghan government was not a party.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2020/feb/29/us-taliban-sign-peace-agreement-afghanistan-war"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/02/afghanistan-taliban-sign-deal-america-longest-war-200213063412531.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States–Taliban_deal"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "taliban",
+       "afghanistan",
+       "al-qaeda",
+       "qatar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-03-31",
+      "analysis": {
+       "text": "The deal set the timetable for the August 2021 collapse of the Afghan republic and the Taliban's return.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "diplomacy",
+      "where": [
+       "doha"
+      ],
+      "related_stories": [
+       "2022-07-31-zawahiri",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2021-04-14-us-afghan-exit-order"
+      ]
+     },
+     "2020-08-18-mali-coup": {
+      "id": "2020-08-18-mali-coup",
+      "date": "2020-08-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2020-09-30",
+      "region": "Africa",
+      "title": "Mutinous soldiers oust Mali's President Keïta",
+      "summary": "After months of protests over insecurity and a disputed election, troops seized Kati base and arrested Keïta, who resigned. A junta led by Col. Assimi Goïta took power.",
+      "sources": [
+       {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/20200818-ecowas-calls-on-mali-soldiers-to-end-the-mutiny"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2020/08/gunfire-heard-mali-army-base-warnings-mutiny-200818111723901.html"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2020_Malian_coup_d'état"
+       }
+      ],
+      "entities": [
+       "mali",
+       "assimi-goita",
+       "ecowas",
+       "france"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-09-30",
+      "analysis": {
+       "text": "The first of the Sahel coups that ended France's mission and brought in Russia.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sahel"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "where": [
+       "kati"
+      ],
+      "related_stories": [
+       "2021-12-wagner-mali",
+       "2022-02-17-france-leaves-mali",
+       "2021-05-24-mali-second-coup"
+      ]
+     },
+     "2020-05-australia-china-trade-war": {
+      "id": "2020-05-australia-china-trade-war",
+      "date": "2020-05",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2020-06-30",
+      "region": "Asia-Pacific",
+      "title": "China punishes Australia with trade curbs after its call for a COVID inquiry",
+      "summary": "After Canberra called for an independent inquiry into the virus's origins, Beijing imposed tariffs on Australian barley, blocked some beef, then targeted wine, coal, lobster and timber. Australia did not back down.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/australian-lobster-timber-halted-by-chinese-customs-checks-fuels-trade-dispute-2020-11-02/"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Australia–China_trade_war"
+       }
+      ],
+      "entities": [
+       "china",
+       "australia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2020-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020 (pandemic year)",
+      "marker": "political",
+      "unplaced": "Trade measures; no single site.",
+      "related_stories": [
+       "2022-04-19-solomon-pact",
+       "2020-10-06-quad-tokyo-malabar"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "western-hemisphere": {
+      "id": "western-hemisphere",
+      "name": "US hemisphere campaign & Latin America's right turn",
+      "entities": [
+       "united-states",
+       "venezuela",
+       "cuba",
+       "mexico",
+       "colombia",
+       "brazil"
+      ],
+      "stories": [
+       "2026-01-03-maduro-captured",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-22-el-mencho-killed",
+       "2026-03-13-cuba-talks",
+       "2026-06-21-colombia-de-la-espriella",
+       "2026-10-04-brazil-first-round",
+       "2026-10-12-cuba-blockade-bites",
+       "venezuela-oil",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-20-cartels-fto",
+       "2025-09-02-boat-strikes-begin",
+       "2025-09-11-bolsonaro-convicted",
+       "2025-10-10-machado-nobel",
+       "2025-11-16-ford-caribbean",
+       "2025-12-14-kast-chile",
+       "2025-12-16-venezuela-tanker-blockade",
+       "2025-02-27-mexico-hands-over-capos",
+       "2025-07-31-mexico-tariff-reprieve",
+       "2026-06-07-peru-fujimori-wins",
+       "2026-07-01-usmca-review",
+       "2024-03-11-haiti-henry-resigns",
+       "2024-06-02-sheinbaum-elected",
+       "2024-07-28-venezuela-stolen-election",
+       "2024-11-05-trump-elected",
+       "2022-12-07-castillo-self-coup",
+       "2023-01-08-brasilia-attacks",
+       "2023-11-19-milei-elected",
+       "2023-12-03-essequibo-referendum",
+       "2024-01-09-ecuador-internal-conflict",
+       "2024-09-08-gonzalez-exile",
+       "2020-03-26-maduro-indicted",
+       "2020-10-18-bolivia-arce",
+       "2020-10-25-chile-plebiscite",
+       "2020-11-10-peru-crisis",
+       "2020-12-06-venezuela-assembly-vote"
+      ],
+      "source": "inbox"
+     },
+     "russia-ukraine": {
+      "id": "russia-ukraine",
+      "name": "Russia–Ukraine war & energy diplomacy",
+      "entities": [
+       "russia",
+       "ukraine",
+       "donald-trump",
+       "volodymyr-zelenskyy",
+       "steve-witkoff",
+       "starlink",
+       "spacex"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-10-europe-gas-crunch",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-belarus-drills",
+       "2022-02-22-nord-stream-2-halt",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-02-27-zeitenwende",
+       "2022-02-24-grain-halt",
+       "2022-03-04-zaporizhzhia",
+       "2022-03-08-us-oil-ban",
+       "2022-03-29-istanbul-talks",
+       "2022-04-03-bucha",
+       "2022-04-14-moskva",
+       "2022-04-27-gas-cutoff-poland",
+       "2022-05-18-finland-sweden",
+       "2022-05-18-repowereu",
+       "2022-05-20-mariupol",
+       "2022-06-03-eu-oil-embargo",
+       "2022-06-14-nordstream-cut",
+       "2022-06-23-himars",
+       "2022-06-23-ukraine-eu",
+       "2022-06-29-madrid",
+       "2022-07-19-putin-tehran",
+       "2022-07-22-grain-deal",
+       "2022-08-eu-gas-record",
+       "2022-09-06-kharkiv",
+       "2022-09-21-mobilization",
+       "2022-09-26-nord-stream-sabotage",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "2022-10-10-energy-strikes",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire-collapse",
+       "2025-02-28-oval-office-clash",
+       "2025-04-30-us-ukraine-minerals-deal",
+       "2025-06-25-nato-hague-5pct",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2025-09-22-putin-new-start-offer",
+       "2026-09-20-duma-election",
+       "2024-02-16-navalny-dies",
+       "2024-02-17-avdiivka-falls",
+       "2024-03-17-putin-fifth-term",
+       "2024-03-22-crocus-attack",
+       "2024-06-19-putin-kim-treaty",
+       "2024-08-06-kursk-incursion",
+       "2024-10-18-dprk-troops-to-russia",
+       "2022-11-11-kherson-liberated",
+       "2023-04-04-finland-joins-nato",
+       "2023-05-20-bakhmut-falls",
+       "2023-06-06-kakhovka-dam",
+       "2023-06-04-counteroffensive",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-17-russia-quits-grain-deal",
+       "2023-08-23-prigozhin-killed",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2024-03-07-sweden-joins-nato",
+       "2025-01-10-nsr-record",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2025-03-13-kursk-exit",
+       "2025-05-10-russia-arctic-buildup",
+       "2020-07-01-russia-referendum",
+       "2020-08-09-belarus-protests",
+       "2020-08-20-navalny-poisoned",
+       "2020-12-13-solarwinds-hack",
+       "2021-01-23-navalny-arrest-protests",
+       "2021-04-01-russia-spring-buildup",
+       "2021-05-23-ryanair-diversion",
+       "2021-06-16-biden-putin-geneva"
+      ],
+      "source": "threads.md"
+     },
+     "pakistan-afghanistan-war": {
+      "id": "pakistan-afghanistan-war",
+      "name": "Pakistan–Afghanistan war",
+      "entities": [
+       "pakistan",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-10-05-taliban-diplomacy",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2025-01-01-pakistan-deadliest-year",
+       "2020-02-29-doha-agreement",
+       "2021-04-14-us-afghan-exit-order"
+      ],
+      "source": "inbox"
+     },
+     "sahel": {
+      "id": "sahel",
+      "name": "Sahel insurgency & Russia",
+      "entities": [
+       "mali",
+       "sahel",
+       "jnim",
+       "africa-corps",
+       "fla",
+       "russia"
+      ],
+      "stories": [
+       "kidal",
+       "2021-12-wagner-mali",
+       "2022-01-24-burkina-coup",
+       "2022-02-17-france-leaves-mali",
+       "2022-03-27-moura",
+       "2022-05-16-mali-g5",
+       "2022-09-30-burkina-coup2",
+       "2025-06-06-wagner-leaves-mali",
+       "2025-09-jnim-fuel-blockade",
+       "2026-08-29-niger-mutiny",
+       "2024-07-06-aes-confederation",
+       "2023-06-24-prigozhin-mutiny",
+       "2023-07-26-niger-coup",
+       "2023-08-23-prigozhin-killed",
+       "2024-01-25-africa-corps-burkina",
+       "2024-08-05-us-leaves-agadez",
+       "2024-08-24-barsalogho-massacre",
+       "2025-01-29-aes-leaves-ecowas",
+       "2025-06-19-niger-nationalises-somair",
+       "2024-05-25-burkina-extends-transition",
+       "2020-08-18-mali-coup",
+       "2020-10-23-libya-ceasefire",
+       "2021-04-20-deby-killed",
+       "2021-05-24-mali-second-coup"
+      ],
+      "source": "threads.md"
+     },
+     "taiwan-indopacific": {
+      "id": "taiwan-indopacific",
+      "name": "Taiwan & Indo-Pacific",
+      "entities": [
+       "china",
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "japan"
+      ],
+      "stories": [
+       "pla-drills",
+       "rare-earth-nov10",
+       "2022-04-19-solomon-pact",
+       "2022-05-23-ipef",
+       "2022-08-02-pelosi",
+       "2022-08-04-pla-drills",
+       "2022-10-16-party-congress",
+       "2022-10-04-dprk-over-japan",
+       "pla-patrol-oct14-15",
+       "2025-04-02-strait-thunder",
+       "2025-09-10-scarborough-nature-reserve",
+       "2025-10-21-takaichi-pm",
+       "2025-11-07-takaichi-taiwan-remarks",
+       "2024-01-13-lai-elected-taiwan",
+       "2024-10-27-japan-ldp-loses-majority",
+       "2022-12-16-japan-security-strategy",
+       "2023-03-13-aukus-pathway",
+       "2023-04-05-tsai-mccarthy",
+       "2020-01-11-tsai-reelected",
+       "2020-05-australia-china-trade-war",
+       "2020-06-30-hong-kong-nsl",
+       "2020-08-28-abe-resigns",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-07-whitsun-reef",
+       "2021-03-12-quad-summit-anchorage"
+      ],
+      "source": "threads.md"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns",
+       "2026-07-08-nato-ankara",
+       "2026-09-18-greenland-deal",
+       "2026-10-13-hungary-lifts-accession-veto",
+       "trump-disgrace-eu-summit",
+       "2025-01-07-trump-greenland-panama",
+       "2025-02-28-oval-office-clash",
+       "2025-03-18-germany-debt-brake",
+       "2025-05-01-reform-local-elections",
+       "2025-06-25-nato-hague-5pct",
+       "2025-07-27-eu-us-turnberry",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2024-07-04-labour-landslide",
+       "2024-07-07-france-hung-parliament",
+       "2024-11-05-trump-elected",
+       "2024-11-06-german-coalition-collapses",
+       "2023-12-14-eu-opens-ukraine-talks",
+       "2025-03-14-svalbard-militarisation-row",
+       "2025-03-11-greenland-election",
+       "2020-01-31-brexit",
+       "2020-08-12-east-med-standoff",
+       "2020-11-03-us-election",
+       "2020-12-24-uk-eu-trade-deal",
+       "2021-01-06-capitol-attack",
+       "2021-01-20-biden-inaugurated"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
