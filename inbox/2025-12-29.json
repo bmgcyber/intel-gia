@@ -1,0 +1,142 @@
+{
+ "edition": "2025-12-29",
+ "stories": [
+  {
+   "id": "2025-01-07-us-rsf-genocide",
+   "date": "2025-01-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Africa",
+   "title": "US determines the RSF committed genocide and sanctions Hemedti and UAE-based firms",
+   "summary": "Blinken concluded the RSF and allied militias had committed genocide in Darfur. Treasury sanctioned Hemedti and seven RSF-linked companies in the UAE that supplied money and weapons. On May 5, 2025 the ICJ rejected provisional measures in Sudan's genocide case against the UAE and removed it from its list for manifest lack of jurisdiction; Khartoum then cut ties with Abu Dhabi.",
+   "sources": [
+    {
+     "name": "US State Department (archived)",
+     "url": "https://2021-2025.state.gov/genocide-determination-in-sudan-and-imposing-accountability-measures/"
+    },
+    {
+     "name": "US Treasury",
+     "url": "https://home.treasury.gov/news/press-releases/jy2772"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/us-impose-sanctions-sudan-rsf-leader-dagalo-sources-say-2025-01-07/"
+    },
+    {
+     "name": "ICJ (Sudan v. UAE)",
+     "url": "https://www.icj-cij.org/case/197"
+    },
+    {
+     "name": "Reuters (ties cut)",
+     "url": "https://www.reuters.com/world/sudan-cut-ties-with-uae-defence-council-says-2025-05-06/"
+    }
+   ],
+   "entities": [
+    "rsf",
+    "sudan",
+    "united-states",
+    "uae",
+    "icj"
+   ],
+   "storylines": [
+    "sudan-war",
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2024-05-10-el-fasher-siege",
+     "why": "RSF atrocities in Darfur",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "Policy decisions in Washington and The Hague."
+  },
+  {
+   "id": "2025-11-17-hasina-death-sentence",
+   "date": "2025-11-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2025 (Trump's return)",
+   "region": "Asia-Pacific",
+   "title": "Bangladesh tribunal sentences the exiled Sheikh Hasina to death",
+   "summary": "The International Crimes Tribunal convicted her in absentia of crimes against humanity over the 2024 crackdown, in which the UN says up to 1,400 died. India has not extradited her, and her Awami League was barred from the coming election.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/bangladeshs-ousted-pm-hasina-convicted-students-crackdown-case-2025-11-17/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2025/11/17/tension-high-as-bangladesh-tribunal-convicts-ex-pm-hasina"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2025/nov/17/ousted-bangladesh-pm-sheikh-hasina-found-guilty-of-crimes-against-humanity"
+    }
+   ],
+   "entities": [
+    "sheikh-hasina",
+    "bangladesh",
+    "india",
+    "muhammad-yunus"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "causes": [
+    {
+     "story": "2024-08-05-hasina-flees",
+     "why": "Accountability for the 2024 crackdown",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "dhaka"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2025-01-07-us-rsf-genocide"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2025-01-07-us-rsf-genocide"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2025-11-17-hasina-death-sentence"
+   ]
+  }
+ ]
+}
