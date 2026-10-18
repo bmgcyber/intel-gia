@@ -22322,6 +22322,200 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2025-12-29": {
+   "sha256": "0bbe5073bac4474eaaf3e3f98e8ed75a029ceebbdbb47fe992e183018b3737c1",
+   "undo": {
+    "stories": {
+     "2025-01-07-us-rsf-genocide": null,
+     "2025-11-17-hasina-death-sentence": null,
+     "2024-05-10-el-fasher-siege": {
+      "id": "2024-05-10-el-fasher-siege",
+      "date": "2024-05-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-12-30",
+      "region": "Africa",
+      "title": "RSF tightens its siege of El Fasher, the army's last Darfur stronghold",
+      "summary": "Heavy fighting in May 2024 sealed off North Darfur's capital and nearby camps such as Abu Shouk and Zamzam. The siege lasted until the city fell in October 2025.",
+      "sources": [
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/article/2024/may/24/sudan-darfur-el-fasher-abu-shouk-displaced-people-camp-rsf"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_El_Fasher"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudanese-armed-forces",
+       "sudan",
+       "el-fasher"
+      ],
+      "causes": [
+       {
+        "story": "2023-12-18-wad-madani-falls",
+        "why": "RSF momentum",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-12-30",
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "military",
+      "where": [
+       "el-fasher"
+      ],
+      "related_stories": [
+       "2023-12-18-wad-madani-falls",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration"
+      ]
+     },
+     "2024-08-05-hasina-flees": {
+      "id": "2024-08-05-hasina-flees",
+      "date": "2024-08-05",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2024-09-30",
+      "region": "Asia-Pacific",
+      "title": "Student-led uprising topples Bangladesh's Sheikh Hasina, who flees to India",
+      "summary": "After weeks of protests over job quotas and a crackdown that killed hundreds, Hasina resigned and flew to India. Muhammad Yunus became head of an interim government.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/bangladesh-protesters-call-march-dhaka-defiance-curfew-2024-08-05/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2024/8/5/sheikh-hasina-a-critical-misstep-and-the-end-of-15-years-of-rule"
+       },
+       {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2024/08/05/world/asia/bangladesh-protests-looting-prime-minister-residence.html"
+       }
+      ],
+      "entities": [
+       "bangladesh",
+       "sheikh-hasina",
+       "india"
+      ],
+      "causes": [
+       {
+        "story": "2022-07-sri-lanka-flight",
+        "why": "Second South Asian leader ousted by street protests",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2024-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2024 (wars widen; election year)",
+      "marker": "political",
+      "where": [
+       "dhaka"
+      ],
+      "related_stories": [
+       "2022-07-sri-lanka-flight"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "sudan-war": {
+      "id": "sudan-war",
+      "name": "Sudan: army vs RSF",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces"
+      ],
+      "stories": [
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2024-08-01-zamzam-famine",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec",
+       "2026-08-07-mecca-pact",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-10-05-mecca-pact-activated",
+       "2026-10-10-riyadh-airport-strike",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-saudi-oct15",
+       "2025-05-03-opec-plus-hikes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-09-09-israel-strikes-doha",
+       "2025-09-17-saudi-pakistan-pact",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2023-03-10-saudi-iran-beijing",
+       "2023-08-24-brics-expansion"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
