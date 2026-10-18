@@ -91863,6 +91863,1874 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2008-12-31": {
+   "sha256": "5e7f873b2b0c5638aba3c9359bbc7f0f20ae52c6ff23911ed4985724caf27958",
+   "undo": {
+    "stories": {
+     "2008-10-03-tarp-signed": null,
+     "2008-10-06-iceland-banks-collapse": null,
+     "2008-10-10-us-india-nuclear-deal": null,
+     "2008-11-04-obama-elected": null,
+     "2008-11-09-china-stimulus": null,
+     "2008-11-15-g20-washington-summit": null,
+     "2008-11-15-sirius-star-seized": null,
+     "2008-11-25-fed-qe1": null,
+     "2008-11-26-mumbai-attacks": null,
+     "2008-11-27-iraq-sofa": null,
+     "2008-11-25-thai-airports-seized": null,
+     "2008-12-23-guinea-coup": null,
+     "2008-12-27-operation-cast-lead": null,
+     "2009-01-20-obama-inaugurated": {
+      "id": "2009-01-20-obama-inaugurated",
+      "date": "2009-01-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Americas",
+      "title": "Barack Obama is inaugurated as US president amid the financial crisis",
+      "summary": "He promised to end the Iraq war, refocus on Afghanistan and engage adversaries such as Iran.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "us-domestic-politics"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2009-02-10-israel-election-netanyahu": {
+      "id": "2009-02-10-israel-election-netanyahu",
+      "date": "2009-02-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Middle East",
+      "title": "Israel's election hands Netanyahu a path back to power",
+      "summary": "Kadima won the most seats, but Likud formed a right-wing coalition; Netanyahu took office on March 31 and went on to dominate Israeli politics.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_Israeli_legislative_election"
+       }
+      ],
+      "entities": [
+       "israel",
+       "benjamin-netanyahu"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "levant-wars"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "jerusalem"
+      ],
+      "related_stories": []
+     },
+     "2009-02-27-obama-iraq-drawdown": {
+      "id": "2009-02-27-obama-iraq-drawdown",
+      "date": "2009-02-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Middle East",
+      "title": "Obama sets August 2010 as the end of US combat operations in Iraq",
+      "summary": "Under the 2008 status-of-forces deal, US troops left Iraqi cities by June 30, 2009 and were due out of Iraq by the end of 2011.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Withdrawal_of_United_States_troops_from_Iraq_%282007%E2%80%932011%29"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iraq",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "iraq-war"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "military",
+      "where": [
+       "baghdad"
+      ],
+      "related_stories": [
+       "2014-08-08-us-strikes-isis-iraq",
+       "2011-12-18-us-leaves-iraq",
+       "2010-09-01-operation-new-dawn",
+       "2010-03-07-iraq-election"
+      ]
+     },
+     "2009-03-18-fed-expands-qe1": {
+      "id": "2009-03-18-fed-expands-qe1",
+      "date": "2009-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Americas",
+      "title": "The Fed expands QE1 and begins buying long-term Treasuries",
+      "summary": "Quantitative easing became the central tool of crisis policy and set the template for later rounds.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quantitative_easing"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "global-financial-crisis",
+       "central-banks-rates"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": [
+       "2010-11-03-fed-qe2"
+      ]
+     },
+     "2009-04-02-g20-london-summit": {
+      "id": "2009-04-02-g20-london-summit",
+      "date": "2009-04-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Europe",
+      "title": "G20 leaders in London pledge about $1 trillion to fight the crisis",
+      "summary": "The summit tripled IMF resources and confirmed the G20 as the main forum for crisis response.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_G20_London_summit"
+       }
+      ],
+      "entities": [
+       "g20",
+       "imf",
+       "united-kingdom"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "global-financial-crisis"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "diplomacy",
+      "where": [
+       "london"
+      ],
+      "related_stories": []
+     },
+     "2009-02-17-us-stimulus": {
+      "id": "2009-02-17-us-stimulus",
+      "date": "2009-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-03-31",
+      "region": "Americas",
+      "title": "Obama signs the $787bn American Recovery and Reinvestment Act",
+      "summary": "The stimulus was the core US fiscal answer to the recession.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "barack-obama"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-03-31",
+      "storylines": [
+       "global-financial-crisis"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "washington-dc"
+      ],
+      "related_stories": []
+     },
+     "2009-05-07-eastern-partnership": {
+      "id": "2009-05-07-eastern-partnership",
+      "date": "2009-05-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Europe",
+      "title": "EU launches the Eastern Partnership with six former Soviet states",
+      "summary": "Ukraine, Moldova, Georgia, Belarus, Armenia and Azerbaijan were offered association deals, which Moscow saw as an incursion.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eastern_Partnership"
+       }
+      ],
+      "entities": [
+       "european-union",
+       "ukraine",
+       "moldova",
+       "georgia",
+       "belarus",
+       "armenia",
+       "azerbaijan"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "russia-ukraine",
+       "europe-populism"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "diplomacy",
+      "where": [
+       "prague"
+      ],
+      "related_stories": [
+       "2013-11-21-euromaidan"
+      ]
+     },
+     "2009-09-28-guinea-stadium-massacre": {
+      "id": "2009-09-28-guinea-stadium-massacre",
+      "date": "2009-09-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-09-30",
+      "region": "Africa",
+      "title": "Guinea's junta troops massacre opposition protesters in a Conakry stadium",
+      "summary": "Soldiers killed over 150 people and raped many women; junta leader Moussa Dadis Camara was later convicted.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_Guinean_protests"
+       }
+      ],
+      "entities": [
+       "guinea",
+       "moussa-dadis-camara"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-09-30",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "military",
+      "where": [
+       "conakry"
+      ],
+      "related_stories": [
+       "2021-09-05-guinea-coup"
+      ]
+     },
+     "2009-04-11-thai-red-shirts-pattaya": {
+      "id": "2009-04-11-thai-red-shirts-pattaya",
+      "date": "2009-04-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Asia-Pacific",
+      "title": "Red Shirt protesters storm the ASEAN summit in Pattaya",
+      "summary": "The summit was cancelled and leaders evacuated; the Thaksin-aligned movement went on to its 2010 Bangkok occupation.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_Thai_political_unrest"
+       }
+      ],
+      "entities": [
+       "thailand"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "pattaya"
+      ],
+      "related_stories": [
+       "2010-05-19-thai-crackdown"
+      ]
+     },
+     "2009-05-25-nk-second-nuclear-test": {
+      "id": "2009-05-25-nk-second-nuclear-test",
+      "date": "2009-05-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Asia-Pacific",
+      "title": "North Korea conducts its second nuclear test",
+      "summary": "It followed an April rocket launch and UN censure; Pyongyang quit the Six-Party Talks, and the UN tightened sanctions in Resolution 1874.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2009_North_Korean_nuclear_test"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "kim-jong-il"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "military",
+      "where": [
+       "punggye-ri"
+      ],
+      "related_stories": [
+       "2013-02-12-nk-third-nuclear-test"
+      ]
+     },
+     "2009-11-25-dubai-world-standstill": {
+      "id": "2009-11-25-dubai-world-standstill",
+      "date": "2009-11-25",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-12-31",
+      "region": "Middle East",
+      "title": "Dubai World asks creditors to freeze its debts, shaking markets",
+      "summary": "Abu Dhabi bailed Dubai out, shifting power within the UAE toward the capital.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dubai_World"
+       }
+      ],
+      "entities": [
+       "uae",
+       "dubai-world"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-12-31",
+      "storylines": [
+       "global-financial-crisis"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "dubai"
+      ],
+      "related_stories": []
+     },
+     "2009-10-20-greece-deficit-revealed": {
+      "id": "2009-10-20-greece-deficit-revealed",
+      "date": "2009-10-20",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-12-31",
+      "region": "Europe",
+      "title": "Greece's new government reveals a far larger deficit than reported",
+      "summary": "Papandreou's admission set off the sovereign-debt crisis that engulfed the eurozone.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+       }
+      ],
+      "entities": [
+       "greece",
+       "george-papandreou",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-12-31",
+      "storylines": [
+       "eurozone-crisis"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "political",
+      "where": [
+       "athens"
+      ],
+      "related_stories": [
+       "2010-05-02-greek-bailout"
+      ]
+     },
+     "2009-12-01-lisbon-treaty-in-force": {
+      "id": "2009-12-01-lisbon-treaty-in-force",
+      "date": "2009-12-01",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-12-31",
+      "region": "Europe",
+      "title": "The Lisbon Treaty takes effect, creating an EU president and foreign-policy chief",
+      "summary": "Its Article 50 created the exit procedure later used by the UK.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Lisbon"
+       }
+      ],
+      "entities": [
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-12-31",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "diplomacy",
+      "where": [
+       "brussels"
+      ],
+      "related_stories": [
+       "2016-06-23-brexit-referendum"
+      ]
+     },
+     "2009-05-08-swat-offensive": {
+      "id": "2009-05-08-swat-offensive",
+      "date": "2009-05-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2009-06-30",
+      "region": "Asia-Pacific",
+      "title": "Pakistan's army launches an offensive to retake Swat from the Pakistani Taliban",
+      "summary": "Operation Rah-e-Rast followed the collapse of a peace deal; the Taliban there later shot Malala Yousafzai.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Swat"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "ttp"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2009-06-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2009 (financial-crisis aftermath, Obama's first year, Iran's Green Movement)",
+      "marker": "military",
+      "where": [
+       "mingora"
+      ],
+      "related_stories": [
+       "2012-10-09-malala-shot"
+      ]
+     },
+     "2010-08-04-kenya-constitution": {
+      "id": "2010-08-04-kenya-constitution",
+      "date": "2010-08-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-09-30",
+      "region": "Africa",
+      "title": "Kenyans approve a new constitution",
+      "summary": "It devolved power, and in 2017 its Supreme Court annulled a presidential vote.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_Kenyan_constitutional_referendum"
+       }
+      ],
+      "entities": [
+       "kenya"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-09-30",
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "nairobi"
+      ],
+      "related_stories": [
+       "2017-09-01-kenya-election-annulled"
+      ],
+      "storylines": [
+       "africa-governance"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2012-03-04-putin-returns": {
+      "id": "2012-03-04-putin-returns",
+      "date": "2012-03-04",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2012-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Putin wins back Russia's presidency with 63%",
+      "summary": "Observers reported flaws, and the March of the Millions on May 6 ended in clashes and prosecutions as he cracked down.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2012_Russian_presidential_election"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bolotnaya_Square_case"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin"
+      ],
+      "causes": [
+       {
+        "story": "2011-12-10-moscow-protests",
+        "why": "Faced mass protests",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2012-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2012 (Xi's rise, Mali, whatever it takes)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": [
+       "2011-12-10-moscow-protests",
+       "2018-03-18-putin-reelected"
+      ],
+      "revisions": [
+       {
+        "edition": "2011-12-31",
+        "why": "2011 backfill: thread forward to later stories",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "2014-03-18-sunflower-movement": {
+      "id": "2014-03-18-sunflower-movement",
+      "date": "2014-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-03-31",
+      "region": "Asia-Pacific",
+      "title": "Taiwan students occupy parliament against a China trade pact",
+      "summary": "The Sunflower Movement blocked the services agreement with Beijing and boosted the DPP, which won the presidency in 2016.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sunflower_Student_Movement"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "political",
+      "where": [
+       "legislative-yuan"
+      ],
+      "related_stories": [
+       "2016-05-20-tsai-inaugurated"
+      ]
+     },
+     "2014-03-18-crimea-annexed": {
+      "id": "2014-03-18-crimea-annexed",
+      "date": "2014-03-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2014-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Russia annexes Crimea after a referendum held under occupation",
+      "summary": "Unmarked Russian troops seized the peninsula in late February; the US and EU imposed the first sanctions on Russia.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2014/mar/18/red-square-rally-vladimir-putin-crimea"
+       }
+      ],
+      "entities": [
+       "russia",
+       "vladimir-putin",
+       "crimea",
+       "ukraine",
+       "united-states",
+       "european-union"
+      ],
+      "causes": [
+       {
+        "story": "2014-02-22-yanukovych-ousted",
+        "why": "Moscow's response to the revolution",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2014-03-31",
+      "analysis": {
+       "text": "Crimea was the start of the Russo-Ukrainian war that escalated into the 2022 invasion.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "military",
+      "where": [
+       "simferopol"
+      ],
+      "related_stories": [
+       "2014-02-22-yanukovych-ousted",
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-02-26-swift-cbr",
+       "2022-05-20-mariupol",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-08-crimea-bridge",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "trump-waives-russia-sanctions",
+       "putin-security-zone",
+       "2026-04-23-eu-90bn-loan",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-08-15-alaska-summit",
+       "2025-11-20-28-point-plan",
+       "2025-12-18-eu-90bn-loan-agreed",
+       "2025-09-22-putin-new-start-offer",
+       "2025-02-18-riyadh-us-russia-talks",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "2021-04-01-russia-spring-buildup",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2023-03-17-icc-putin-warrant",
+       "2018-11-25-kerch-strait-incident",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-07-14-jcpoa-agreed",
+       "2014-04-12-donbas-war-begins",
+       "2014-05-21-russia-china-gas-deal",
+       "2014-09-05-nato-wales-2pct",
+       "2015-09-30-russia-enters-syria",
+       "2016-07-08-nato-warsaw-summit",
+       "2017-08-02-caatsa"
+      ]
+     },
+     "2017-11-15-mugabe-coup": {
+      "id": "2017-11-15-mugabe-coup",
+      "date": "2017-11-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2017-12-31",
+      "region": "Africa",
+      "title": "Zimbabwe's army takes control and ends Robert Mugabe's 37-year rule",
+      "summary": "The military moved after Mugabe sacked vice-president Emmerson Mnangagwa; Mugabe resigned on Nov 21 and Mnangagwa took over.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2017_Zimbabwean_coup_d%27%C3%A9tat"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2017/nov/15/mugabe-family-military-takes-control-zimbabwe-mnangagwa"
+       }
+      ],
+      "entities": [
+       "zimbabwe",
+       "robert-mugabe",
+       "emmerson-mnangagwa"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2017-12-31",
+      "era": "2017 (Trump's first year)",
+      "marker": "political",
+      "where": [
+       "harare"
+      ],
+      "related_stories": [
+       "2018-07-30-zimbabwe-election"
+      ],
+      "storylines": [
+       "africa-governance"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2016-09-18-uri-attack": {
+      "id": "2016-09-18-uri-attack",
+      "date": "2016-09-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2016-09-30",
+      "region": "Asia-Pacific",
+      "title": "Jaish-e-Mohammed attack on an army base at Uri kills 19 Indian soldiers",
+      "summary": "India answered on Sep 29 with 'surgical strikes' across the Line of Control, which Pakistan denied took place.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_Uri_attack"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_Indian_Line_of_Control_strike"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2016/9/18/17-indian-soldiers-killed-in-attack-on-kashmir-base"
+       }
+      ],
+      "entities": [
+       "india",
+       "pakistan",
+       "jaish-e-mohammed",
+       "narendra-modi"
+      ],
+      "causes": [
+       {
+        "story": "2016-07-08-burhan-wani-kashmir-unrest",
+        "why": "Kashmir unrest",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2016-09-30",
+      "storylines": [
+       "kashmir-india-pakistan",
+       "south-asia-security"
+      ],
+      "era": "2016 (Brexit and Trump)",
+      "marker": "strike",
+      "where": [
+       "uri"
+      ],
+      "related_stories": [
+       "2016-07-08-burhan-wani-kashmir-unrest",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked"
+      ]
+     },
+     "2015-08-24-china-black-monday": {
+      "id": "2015-08-24-china-black-monday",
+      "date": "2015-08-24",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2015-09-30",
+      "region": "Asia-Pacific",
+      "title": "China's stock crash triggers a global 'Black Monday'",
+      "summary": "The bursting of the Shanghai bubble and a surprise yuan devaluation shook world markets.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015%E2%80%932016_Chinese_stock_market_turbulence"
+       },
+       {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2015/aug/24/china-stock-market-fall-effects-global-economy-shares-interest-rates-inflation"
+       }
+      ],
+      "entities": [
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2015-09-30",
+      "era": "2015 (refugees, Iran deal, Russia in Syria)",
+      "marker": "political",
+      "where": [
+       "shanghai"
+      ],
+      "related_stories": [],
+      "storylines": [
+       "china-economy"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-13",
+        "why": "Phase C archive sweep: add missing marker/location/storyline threading",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "2010-11-13-suu-kyi-released": {
+      "id": "2010-11-13-suu-kyi-released",
+      "date": "2010-11-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-12-31",
+      "region": "Asia-Pacific",
+      "title": "Myanmar frees Aung San Suu Kyi after a junta-run election",
+      "summary": "The army-backed USDP had won the Nov 7 vote.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
+       },
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010_Myanmar_general_election"
+       }
+      ],
+      "entities": [
+       "myanmar",
+       "aung-san-suu-kyi"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-12-31",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "yangon"
+      ],
+      "related_stories": [
+       "2011-03-30-thein-sein-sworn-in"
+      ]
+     },
+     "2010-12-17-bouazizi": {
+      "id": "2010-12-17-bouazizi",
+      "date": "2010-12-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2010-12-31",
+      "region": "Africa",
+      "title": "Tunisian vendor Mohamed Bouazizi sets himself on fire in Sidi Bouzid",
+      "summary": "His protest at police harassment sparked the uprising that toppled Ben Ali and launched the Arab Spring.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mohamed_Bouazizi"
+       }
+      ],
+      "entities": [
+       "tunisia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2010-12-31",
+      "storylines": [
+       "gulf-realignment"
+      ],
+      "era": "2010 (eurozone bailouts, Korean clashes, WikiLeaks)",
+      "marker": "political",
+      "where": [
+       "sidi-bouzid"
+      ],
+      "related_stories": [
+       "2011-01-14-ben-ali-flees"
+      ]
+     },
+     "2014-11-27-opec-no-cut": {
+      "id": "2014-11-27-opec-no-cut",
+      "date": "2014-11",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2014-12-31",
+      "region": "Middle East",
+      "title": "Saudi-led OPEC refuses to cut output as US shale floods the market",
+      "summary": "The decision to defend market share accelerated the oil crash that began in mid-2014; prices fell below $30 by January 2016.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2010s_oil_glut"
+       }
+      ],
+      "entities": [
+       "opec",
+       "saudi-arabia",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2014-12-31",
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2014 (Crimea and the caliphate)",
+      "marker": "energy",
+      "unplaced": "OPEC meeting in Vienna.",
+      "related_stories": [
+       "2016-01-20-oil-below-30",
+       "2014-12-16-ruble-crash"
+      ]
+     },
+     "2008-09-15-lehman-collapse": {
+      "id": "2008-09-15-lehman-collapse",
+      "date": "2008-09-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-09-30",
+      "region": "Americas",
+      "title": "Lehman Brothers files for the largest bankruptcy in US history",
+      "summary": "Its failure froze credit markets worldwide and turned the slump into a global panic.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers"
+       }
+      ],
+      "entities": [
+       "lehman-brothers",
+       "united-states",
+       "federal-reserve"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-09-30",
+      "storylines": [
+       "global-financial-crisis"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "new-york-city"
+      ],
+      "related_stories": []
+     },
+     "2008-08-08-russia-georgia-war": {
+      "id": "2008-08-08-russia-georgia-war",
+      "date": "2008-08-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-09-30",
+      "region": "Russia/Eurasia",
+      "title": "Russia and Georgia go to war over South Ossetia",
+      "summary": "Russian forces routed Georgia in five days, and Moscow recognised South Ossetia and Abkhazia; it was the first sign Russia would use force against NATO's eastward pull.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War"
+       }
+      ],
+      "entities": [
+       "russia",
+       "georgia",
+       "mikheil-saakashvili",
+       "dmitry-medvedev"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-09-30",
+      "storylines": [
+       "russia-ukraine",
+       "south-caucasus"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "military",
+      "where": [
+       "tskhinvali"
+      ],
+      "related_stories": []
+     },
+     "2008-06-27-yongbyon-tower-demolished": {
+      "id": "2008-06-27-yongbyon-tower-demolished",
+      "date": "2008-06-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Asia-Pacific",
+      "title": "North Korea blows up Yongbyon's cooling tower after a nuclear declaration",
+      "summary": "The Six-Party deal broke down months later over verification.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Six-party_talks"
+       }
+      ],
+      "entities": [
+       "north-korea",
+       "united-states",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "storylines": [
+       "korean-peninsula"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "diplomacy",
+      "where": [
+       "yongbyon"
+      ],
+      "related_stories": [
+       "2017-03-06-thaad-deployed"
+      ]
+     },
+     "2008-06-12-ireland-rejects-lisbon": {
+      "id": "2008-06-12-ireland-rejects-lisbon",
+      "date": "2008-06-12",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Europe",
+      "title": "Irish voters reject the Lisbon Treaty",
+      "summary": "A second vote in 2009 passed after guarantees from Brussels.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_Bill_2008"
+       }
+      ],
+      "entities": [
+       "ireland",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "dublin"
+      ],
+      "related_stories": []
+     },
+     "2008-08-18-musharraf-resigns": {
+      "id": "2008-08-18-musharraf-resigns",
+      "date": "2008-08-18",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-09-30",
+      "region": "Asia-Pacific",
+      "title": "Pervez Musharraf resigns as Pakistan's president to avoid impeachment",
+      "summary": "Asif Ali Zardari succeeded him.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
+       }
+      ],
+      "entities": [
+       "pakistan",
+       "pervez-musharraf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-09-30",
+      "storylines": [
+       "south-asia-security"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": []
+     },
+     "2008-02-28-kenya-power-sharing": {
+      "id": "2008-02-28-kenya-power-sharing",
+      "date": "2008-02-28",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Africa",
+      "title": "Kofi Annan brokers a power-sharing deal to end Kenya's post-election violence",
+      "summary": "Over 1,000 people had been killed after the disputed December 2007 vote; Raila Odinga became prime minister.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007%E2%80%932008_Kenyan_crisis"
+       }
+      ],
+      "entities": [
+       "kenya",
+       "raila-odinga"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "diplomacy",
+      "where": [
+       "nairobi"
+      ],
+      "related_stories": []
+     },
+     "2008-03-02-medvedev-elected": {
+      "id": "2008-03-02-medvedev-elected",
+      "date": "2008-03-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Russia/Eurasia",
+      "title": "Dmitry Medvedev is elected Russia's president with Putin as prime minister",
+      "summary": "The tandem kept Putin in charge until his return to the presidency in 2012.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Russian_presidential_election"
+       }
+      ],
+      "entities": [
+       "russia",
+       "dmitry-medvedev",
+       "vladimir-putin"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "moscow"
+      ],
+      "related_stories": []
+     },
+     "2008-03-22-ma-ying-jeou-elected": {
+      "id": "2008-03-22-ma-ying-jeou-elected",
+      "date": "2008-03-22",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Asia-Pacific",
+      "title": "Ma Ying-jeou wins Taiwan's presidency on a pledge of closer ties with China",
+      "summary": "His deals with Beijing later provoked the 2014 Sunflower protests.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Taiwanese_presidential_election"
+       }
+      ],
+      "entities": [
+       "taiwan",
+       "ma-ying-jeou",
+       "china"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "taipei"
+      ],
+      "related_stories": []
+     },
+     "2008-04-03-nato-bucharest-summit": {
+      "id": "2008-04-03-nato-bucharest-summit",
+      "date": "2008-04-03",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Europe",
+      "title": "NATO's Bucharest summit promises Ukraine and Georgia will one day join",
+      "summary": "No membership action plan was given; Moscow treated the pledge as a red line.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Bucharest_summit"
+       }
+      ],
+      "entities": [
+       "nato",
+       "ukraine",
+       "georgia",
+       "russia"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "diplomacy",
+      "where": [
+       "bucharest"
+      ],
+      "related_stories": [
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2025-11-20-28-point-plan",
+       "2023-06-04-counteroffensive"
+      ]
+     },
+     "2008-02-17-kosovo-independence": {
+      "id": "2008-02-17-kosovo-independence",
+      "date": "2008-02-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Europe",
+      "title": "Kosovo declares independence from Serbia",
+      "summary": "The US and most EU states recognised it; Russia called it a precedent, citing it over Abkhazia, South Ossetia and later Crimea.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Kosovo_declaration_of_independence"
+       }
+      ],
+      "entities": [
+       "kosovo",
+       "serbia",
+       "russia",
+       "european-union"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "storylines": [
+       "europe-populism"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "pristina"
+      ],
+      "related_stories": []
+     },
+     "2008-03-29-zimbabwe-election": {
+      "id": "2008-03-29-zimbabwe-election",
+      "date": "2008-03-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-03-31",
+      "region": "Africa",
+      "title": "Tsvangirai beats Mugabe in Zimbabwe's first round, and a violent runoff follows",
+      "summary": "Tsvangirai pulled out of the June runoff; a power-sharing deal followed in September.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2008_Zimbabwean_presidential_election"
+       }
+      ],
+      "entities": [
+       "zimbabwe",
+       "robert-mugabe",
+       "morgan-tsvangirai"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-03-31",
+      "storylines": [
+       "africa-governance"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "harare"
+      ],
+      "related_stories": []
+     },
+     "2008-05-02-cyclone-nargis": {
+      "id": "2008-05-02-cyclone-nargis",
+      "date": "2008-05-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Asia-Pacific",
+      "title": "Cyclone Nargis devastates Myanmar's Irrawaddy delta",
+      "summary": "The junta blocked foreign aid at first and went ahead with its constitutional referendum.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyclone_Nargis"
+       }
+      ],
+      "entities": [
+       "myanmar"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "storylines": [
+       "southeast-asia"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "where": [
+       "yangon"
+      ],
+      "related_stories": []
+     },
+     "2008-04-food-price-crisis": {
+      "id": "2008-04-food-price-crisis",
+      "date": "2008-04",
+      "date_precision": "month",
+      "kind": "backfill",
+      "edition": "2008-06-30",
+      "region": "Africa",
+      "title": "Food riots spread as world grain prices hit records",
+      "summary": "Protests hit dozens of countries from Haiti to Egypt.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2007%E2%80%932008_world_food_price_crisis"
+       }
+      ],
+      "entities": [
+       "food-security",
+       "wheat"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-06-30",
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "political",
+      "unplaced": "Global, with riots in many countries.",
+      "related_stories": []
+     },
+     "2008-07-11-oil-peaks-147": {
+      "id": "2008-07-11-oil-peaks-147",
+      "date": "2008-07-11",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2008-09-30",
+      "region": "Middle East",
+      "title": "Oil peaks at about $147 a barrel before collapsing",
+      "summary": "Prices fell to the $30s by December as the recession hit demand.",
+      "sources": [
+       {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2000s_energy_crisis"
+       }
+      ],
+      "entities": [
+       "petroleum",
+       "opec"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2008-09-30",
+      "storylines": [
+       "global-oil"
+      ],
+      "era": "2008 (Lehman and the crash, Russia–Georgia war, Mumbai attacks)",
+      "marker": "energy",
+      "unplaced": "Global oil market.",
+      "related_stories": []
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {
+     "russia--rivalry--georgia": null
+    },
+    "storylines": {
+     "global-financial-crisis": {
+      "id": "global-financial-crisis",
+      "name": "Global financial crisis 2007–09",
+      "entities": [
+       "federal-reserve",
+       "imf",
+       "g20",
+       "united-states"
+      ],
+      "stories": [
+       "2009-02-17-us-stimulus",
+       "2009-03-18-fed-expands-qe1",
+       "2009-04-02-g20-london-summit",
+       "2009-09-25-g20-pittsburgh",
+       "2009-11-25-dubai-world-standstill",
+       "2008-03-16-bear-stearns-rescue",
+       "2008-09-07-fannie-freddie-seized",
+       "2008-09-15-lehman-collapse"
+      ],
+      "source": "inbox"
+     },
+     "south-asia-security": {
+      "id": "south-asia-security",
+      "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+      "entities": [
+       "pakistan",
+       "india",
+       "afghanistan",
+       "taliban"
+      ],
+      "stories": [
+       "2025-05-07-operation-sindoor",
+       "2025-10-19-afpak-doha-ceasefire",
+       "2026-02-26-pakistan-afghanistan-war",
+       "2026-03-16-kabul-hospital-strike",
+       "2026-10-05-taliban-diplomacy",
+       "2025-11-14-bihar-nda-sweep",
+       "2024-06-04-modi-loses-majority",
+       "2024-08-05-hasina-flees",
+       "2023-09-09-delhi-g20",
+       "2025-11-17-hasina-death-sentence",
+       "2026-02-12-bangladesh-election",
+       "2023-05-09-imran-khan-arrested",
+       "2023-07-12-imf-pakistan-sba",
+       "2024-02-08-pakistan-election",
+       "2025-01-01-pakistan-deadliest-year",
+       "2025-03-11-jaffar-express",
+       "2025-05-20-munir-field-marshal",
+       "2024-10-21-pakistan-26th-amendment",
+       "2025-01-17-khan-al-qadir-conviction",
+       "2020-06-15-galwan-clash",
+       "2023-08-05-khan-jailed",
+       "2023-09-18-canada-india-row",
+       "2024-01-30-khan-convictions",
+       "2025-09-08-nepal-gen-z",
+       "2025-12-20-khan-toshakhana-ii",
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-05-23-modi-reelected",
+       "2019-08-05-article-370-revoked",
+       "2019-12-11-india-caa",
+       "2018-07-25-imran-khan-elected",
+       "2017-06-16-doklam-standoff",
+       "2016-09-18-uri-attack",
+       "2014-05-16-modi-wins",
+       "2013-05-11-sharif-wins",
+       "2011-04-05-hazare-hunger-strike",
+       "2010-07-29-pakistan-floods",
+       "2009-05-08-swat-offensive",
+       "2009-05-18-ltte-defeated",
+       "2009-10-17-south-waziristan-offensive",
+       "2008-02-18-pakistan-election-ppp",
+       "2008-08-18-musharraf-resigns",
+       "2008-09-20-islamabad-marriott-bombing"
+      ],
+      "source": "inbox"
+     },
+     "us-domestic-politics": {
+      "id": "us-domestic-politics",
+      "name": "US domestic politics",
+      "entities": [
+       "united-states"
+      ],
+      "stories": [
+       "2010-11-02-us-midterms",
+       "2011-09-17-occupy-wall-street",
+       "2012-11-06-obama-reelected",
+       "2013-04-15-boston-bombing",
+       "2013-10-01-us-shutdown",
+       "2014-08-09-ferguson",
+       "2017-01-27-travel-ban",
+       "2017-12-22-tax-cuts-signed",
+       "2018-11-06-us-midterms",
+       "2020-05-26-george-floyd-protests",
+       "2024-07-13-trump-shot",
+       "2024-07-21-biden-withdraws",
+       "2009-01-20-obama-inaugurated"
+      ],
+      "source": "inbox"
+     },
+     "china-economy": {
+      "id": "china-economy",
+      "name": "China's economy and property crisis",
+      "entities": [
+       "china",
+       "evergrande"
+      ],
+      "stories": [
+       "2015-08-24-china-black-monday",
+       "2020-11-03-ant-ipo-halted",
+       "2021-09-20-evergrande-crisis",
+       "2022-04-shanghai-lockdown",
+       "2023-01-08-china-reopens",
+       "2023-10-18-country-garden-default",
+       "2008-08-08-beijing-olympics"
+      ],
+      "source": "inbox"
+     },
+     "horn-of-africa-tigray": {
+      "id": "horn-of-africa-tigray",
+      "name": "Horn of Africa: Tigray war and Ethiopia-Eritrea tension",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "2025-03-tplf-split",
+       "2024-01-01-ethiopia-somaliland-mou",
+       "2024-12-11-ankara-declaration",
+       "2020-07-21-gerd-first-filling",
+       "2020-11-04-tigray-war",
+       "2021-06-28-tdf-retakes-mekelle",
+       "2021-11-02-ethiopia-emergency",
+       "2022-11-02-pretoria-agreement",
+       "2019-10-11-abiy-nobel",
+       "2018-04-02-abiy-pm",
+       "2018-07-09-ethiopia-eritrea-peace",
+       "2016-10-09-ethiopia-state-of-emergency",
+       "2013-09-21-westgate-attack",
+       "2013-12-15-south-sudan-civil-war",
+       "2012-02-09-shabaab-joins-al-qaeda",
+       "2012-04-10-heglig-crisis",
+       "2012-09-28-kismayo-falls",
+       "2011-01-09-south-sudan-referendum",
+       "2011-07-09-south-sudan-independence",
+       "2011-07-20-somalia-famine",
+       "2011-10-16-kenya-invades-somalia",
+       "2009-04-08-maersk-alabama-hijacked"
+      ],
+      "source": "inbox"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed",
+       "2026-09-16-fed-hikes",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week",
+       "2025-10-21-meta-hyperion-debt",
+       "2025-12-10-fed-third-cut",
+       "2024-09-18-fed-jumbo-cut",
+       "2023-03-10-svb-collapse",
+       "2023-07-26-fed-peak-rate",
+       "2020-03-15-fed-zero-rates",
+       "2020-03-18-ecb-pepp",
+       "2021-03-11-american-rescue-plan",
+       "2023-03-19-credit-suisse-rescue",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "2013-04-04-boj-qqe",
+       "2013-06-19-taper-tantrum",
+       "2012-07-26-draghi-whatever-it-takes",
+       "2011-08-05-us-downgrade",
+       "2011-12-21-ecb-ltro",
+       "2010-11-03-fed-qe2",
+       "2009-03-18-fed-expands-qe1"
+      ],
+      "source": "inbox"
+     },
+     "kashmir-india-pakistan": {
+      "id": "kashmir-india-pakistan",
+      "name": "Kashmir & the India–Pakistan crises",
+      "entities": [
+       "india",
+       "pakistan",
+       "jaish-e-mohammed",
+       "narendra-modi"
+      ],
+      "stories": [
+       "2019-02-14-pulwama-attack",
+       "2019-02-26-balakot-strike",
+       "2019-08-05-article-370-revoked",
+       "2016-07-08-burhan-wani-kashmir-unrest",
+       "2016-09-18-uri-attack"
+      ],
+      "source": "inbox"
+     },
+     "iraq-war": {
+      "id": "iraq-war",
+      "name": "Iraq war and occupation 2003–11",
+      "entities": [
+       "iraq",
+       "united-states",
+       "nouri-al-maliki"
+      ],
+      "stories": [
+       "2009-02-27-obama-iraq-drawdown",
+       "2010-09-01-operation-new-dawn",
+       "2011-12-18-us-leaves-iraq",
+       "2010-03-07-iraq-election",
+       "2008-03-25-battle-of-basra"
+      ],
+      "source": "inbox"
+     },
+     "southeast-asia": {
+      "id": "southeast-asia",
+      "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+      "entities": [
+       "myanmar",
+       "thailand",
+       "cambodia",
+       "indonesia",
+       "vietnam"
+      ],
+      "stories": [
+       "2025-03-28-myanmar-earthquake",
+       "2025-07-24-thai-cambodia-border-war",
+       "2025-08-29-indonesia-protests",
+       "2025-10-26-kl-accords",
+       "2025-12-08-thai-cambodia-war-resumes",
+       "2026-01-28-msci-indonesia-freeze",
+       "2026-01-23-to-lam-new-term",
+       "2026-01-30-myanmar-junta-election",
+       "2026-02-08-thai-election-anutin",
+       "msci-indonesia-standalone",
+       "2023-10-27-operation-1027",
+       "2024-08-03-lashio-falls",
+       "2024-12-20-arakan-army-ann",
+       "2025-01-18-kunming-ceasefire",
+       "2025-04-22-lashio-handback",
+       "2020-10-15-thai-emergency",
+       "2020-11-08-myanmar-election",
+       "2021-02-01-myanmar-coup",
+       "2024-02-14-prabowo-elected",
+       "2019-11-11-gambia-v-myanmar",
+       "2018-05-09-mahathir-wins",
+       "2018-08-27-un-myanmar-genocide-call",
+       "2017-05-23-marawi-siege",
+       "2017-08-25-rohingya-exodus",
+       "2016-06-30-duterte-drug-war",
+       "2016-07-12-south-china-sea-ruling",
+       "2015-04-09-south-china-sea-reclamation",
+       "2015-08-17-bangkok-bombing",
+       "2015-11-08-nld-wins-myanmar",
+       "2014-05-02-hysy981-standoff",
+       "2014-05-22-thai-coup",
+       "2013-01-22-philippines-files-arbitration",
+       "2012-04-01-suu-kyi-elected",
+       "2012-04-08-scarborough-standoff",
+       "2012-06-08-rakhine-riots",
+       "2011-03-30-thein-sein-sworn-in",
+       "2011-07-03-yingluck-wins",
+       "2010-05-19-thai-crackdown",
+       "2010-11-13-suu-kyi-released",
+       "2009-04-11-thai-red-shirts-pattaya",
+       "2008-05-02-cyclone-nargis"
+      ],
+      "source": "inbox"
+     },
+     "africa-governance": {
+      "id": "africa-governance",
+      "name": "Africa: coups, elections and governance",
+      "entities": [
+       "south-africa",
+       "kenya",
+       "nigeria",
+       "zimbabwe"
+      ],
+      "stories": [
+       "2010-08-04-kenya-constitution",
+       "2010-11-28-ivory-coast-runoff",
+       "2011-04-11-gbagbo-captured",
+       "2011-10-23-tunisia-election",
+       "2012-08-16-marikana-massacre",
+       "2013-03-04-kenyatta-elected",
+       "2013-03-24-seleka-takes-bangui",
+       "2013-12-05-mandela-dies",
+       "2013-12-05-france-sangaris-car",
+       "2014-05-28-sisi-elected",
+       "2015-04-26-burundi-third-term",
+       "2016-08-31-bongo-reelected",
+       "2017-01-21-gambia-jammeh-exits",
+       "2017-09-01-kenya-election-annulled",
+       "2017-11-15-mugabe-coup",
+       "2017-12-18-ramaphosa-anc-leader",
+       "2018-02-15-ramaphosa-president",
+       "2018-07-30-zimbabwe-election",
+       "2019-04-02-bouteflika-resigns",
+       "2020-10-20-endsars-lekki",
+       "2023-02-25-tinubu-elected",
+       "2024-05-29-anc-loses-majority",
+       "2024-06-25-kenya-parliament-stormed",
+       "2025-10-14-madagascar-coup",
+       "2026-03-09-madagascar-government-dismissed",
+       "2009-03-17-madagascar-coup",
+       "2009-07-26-boko-haram-uprising",
+       "2009-08-04-niger-tandja-referendum",
+       "2009-09-28-guinea-stadium-massacre",
+       "2008-02-28-kenya-power-sharing",
+       "2008-03-29-zimbabwe-election",
+       "2008-08-06-mauritania-coup"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2026-08-20-sdf-integration",
+       "2026-10-gaza-phase-two-stalled",
+       "2026-10-14-lebanon-yellow-line",
+       "2025-01-19-gaza-ceasefire",
+       "2025-03-10-sdf-damascus-deal",
+       "2025-03-18-gaza-war-resumes",
+       "2025-05-13-trump-lifts-syria-sanctions",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2025-08-22-gaza-famine",
+       "2025-09-09-israel-strikes-doha",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2025-11-17-unsc-2803",
+       "2026-07-17-knesset-dissolves",
+       "2024-05-07-rafah-offensive",
+       "2024-07-31-haniyeh-killed",
+       "2024-09-17-pager-attacks",
+       "2024-10-16-sinwar-killed",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2024-12-08-assad-falls",
+       "2023-10-07-hamas-attack",
+       "2023-10-27-gaza-ground-invasion",
+       "2023-11-24-gaza-hostage-truce",
+       "2024-01-26-icj-provisional-measures",
+       "2024-03-18-gaza-famine-warning",
+       "2024-11-21-icc-netanyahu-warrant",
+       "2023-05-07-syria-arab-league",
+       "2024-04-01-damascus-consulate-strike",
+       "2024-06-10-unsc-2735",
+       "2024-11-30-aleppo-falls",
+       "2024-12-01-sna-tell-rifaat",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2020-03-05-idlib-ceasefire",
+       "2020-08-04-beirut-blast",
+       "2020-08-13-abraham-accords",
+       "2021-05-10-gaza-war",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2025-03-06-alawite-massacres",
+       "2025-07-13-sweida-clashes",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-23-baghuz-caliphate-ends",
+       "2019-03-25-golan-recognition",
+       "2019-10-09-operation-peace-spring",
+       "2019-10-17-lebanon-protests",
+       "2019-10-27-baghdadi-killed",
+       "2018-01-20-operation-olive-branch",
+       "2018-02-07-battle-of-khasham",
+       "2018-02-18-eastern-ghouta-assault",
+       "2018-04-07-douma-chemical-attack",
+       "2018-04-14-us-uk-france-strike-syria",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2018-06-19-southern-syria-offensive",
+       "2018-09-17-idlib-sochi-deal",
+       "2017-01-23-astana-talks",
+       "2017-04-04-khan-shaykhun-sarin",
+       "2017-04-07-shayrat-strike",
+       "2017-07-10-mosul-liberated",
+       "2017-10-17-raqqa-falls",
+       "2017-12-06-jerusalem-recognition",
+       "2016-03-14-putin-partial-syria-withdrawal",
+       "2016-08-24-euphrates-shield",
+       "2016-10-17-mosul-offensive",
+       "2016-12-19-karlov-assassinated",
+       "2016-12-22-aleppo-falls",
+       "2015-01-26-kobani-retaken",
+       "2015-07-20-suruc-bombing-pkk-war",
+       "2015-09-30-russia-enters-syria",
+       "2015-11-24-turkey-downs-su-24",
+       "2014-07-08-gaza-war",
+       "2013-06-05-qusayr-hezbollah",
+       "2013-08-21-ghouta-sarin",
+       "2013-09-14-syria-chemical-deal",
+       "2012-01-23-nusra-founded",
+       "2012-05-25-houla-massacre",
+       "2012-07-18-damascus-bombing",
+       "2012-08-20-obama-red-line",
+       "2012-07-19-ypg-takes-kobani",
+       "2012-11-14-pillar-of-defense",
+       "2012-11-29-un-palestine-observer",
+       "2011-03-15-syria-uprising",
+       "2011-07-29-fsa-formed",
+       "2010-05-31-gaza-flotilla-raid",
+       "2009-02-10-israel-election-netanyahu",
+       "2009-06-04-obama-cairo-speech",
+       "2008-05-21-doha-agreement-lebanon"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
