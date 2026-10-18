@@ -1,0 +1,604 @@
+{
+ "edition": "2003-12-31",
+ "stories": [
+  {
+   "id": "2003-10-15-shenzhou-5",
+   "date": "2003-10-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "China launches its first astronaut",
+   "summary": "Yang Liwei's flight made China the third nation to put a person in orbit.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shenzhou_5"
+    }
+   ],
+   "entities": [
+    "china"
+   ],
+   "marker": "political",
+   "where": [
+    "jiuquan"
+   ]
+  },
+  {
+   "id": "2003-10-17-bolivia-gas-war",
+   "date": "2003-10-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Americas",
+   "title": "Bolivia's gas protests force out President Sánchez de Lozada",
+   "summary": "The revolt over gas exports propelled Evo Morales.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bolivian_gas_conflict"
+    }
+   ],
+   "entities": [
+    "bolivia",
+    "evo-morales"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "energy",
+   "where": [
+    "la-paz"
+   ]
+  },
+  {
+   "id": "2003-10-21-tehran-declaration",
+   "date": "2003-10-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Iran agrees with Britain, France and Germany to suspend enrichment",
+   "summary": "The deal followed revelations of the Natanz site.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran"
+    }
+   ],
+   "entities": [
+    "iran",
+    "united-kingdom",
+    "france",
+    "germany"
+   ],
+   "storylines": [
+    "iran-war-hormuz"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tehran"
+   ]
+  },
+  {
+   "id": "2003-10-25-khodorkovsky-arrested",
+   "date": "2003-10-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Russia/Eurasia",
+   "title": "Russia arrests Yukos chief Mikhail Khodorkovsky",
+   "summary": "The case brought the oil industry under Kremlin control and cowed the oligarchs.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
+    }
+   ],
+   "entities": [
+    "russia",
+    "mikhail-khodorkovsky",
+    "vladimir-putin"
+   ],
+   "marker": "political",
+   "where": [
+    "novosibirsk"
+   ]
+  },
+  {
+   "id": "2003-11-15-istanbul-bombings",
+   "date": "2003-11-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Al-Qaeda-linked bombers hit synagogues, the British consulate and HSBC in Istanbul",
+   "summary": "The attacks came in two waves.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Istanbul_bombings"
+    }
+   ],
+   "entities": [
+    "turkey",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "istanbul"
+   ]
+  },
+  {
+   "id": "2003-11-23-rose-revolution",
+   "date": "2003-11-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Russia/Eurasia",
+   "title": "Georgia's Rose Revolution forces out Eduard Shevardnadze",
+   "summary": "Moscow saw the first colour revolution as Western-backed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rose_Revolution"
+    }
+   ],
+   "entities": [
+    "georgia",
+    "mikheil-saakashvili"
+   ],
+   "storylines": [
+    "south-caucasus"
+   ],
+   "marker": "political",
+   "where": [
+    "tbilisi"
+   ]
+  },
+  {
+   "id": "2003-12-07-united-russia-wins",
+   "date": "2003-12-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Russia/Eurasia",
+   "title": "United Russia sweeps the Duma election",
+   "summary": "The result gave Putin a compliant parliament.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Russian_legislative_election"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "marker": "political",
+   "where": [
+    "moscow"
+   ]
+  },
+  {
+   "id": "2003-12-13-saddam-captured",
+   "date": "2003-12-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "US troops capture Saddam Hussein near Tikrit",
+   "summary": "The insurgency continued.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Red_Dawn"
+    }
+   ],
+   "entities": [
+    "saddam-hussein",
+    "united-states",
+    "iraq"
+   ],
+   "storylines": [
+    "iraq-war"
+   ],
+   "marker": "military",
+   "where": [
+    "tikrit"
+   ]
+  },
+  {
+   "id": "2003-12-19-libya-gives-up-wmd",
+   "date": "2003-12-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Africa",
+   "title": "Libya agrees to give up its weapons-of-mass-destruction programmes",
+   "summary": "Gaddafi's deal came after secret talks with the US and UK.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction"
+    }
+   ],
+   "entities": [
+    "libya",
+    "muammar-gaddafi",
+    "united-states",
+    "united-kingdom"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "tripoli"
+   ]
+  },
+  {
+   "id": "2003-12-26-bam-earthquake",
+   "date": "2003-12-26",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Middle East",
+   "title": "Earthquake flattens the Iranian city of Bam",
+   "summary": "US aid flights arrived despite the absence of relations.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake"
+    }
+   ],
+   "entities": [
+    "iran"
+   ],
+   "marker": "political",
+   "where": [
+    "bam"
+   ]
+  },
+  {
+   "id": "2003-11-26-loc-ceasefire",
+   "date": "2003-11",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2003 (the Iraq invasion, SARS, the Rose Revolution)",
+   "region": "Asia-Pacific",
+   "title": "India and Pakistan agree a ceasefire on the Line of Control",
+   "summary": "It led to a peace process that the 2008 Mumbai attacks broke.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Line_of_Control"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan"
+   ],
+   "storylines": [
+    "kashmir-india-pakistan"
+   ],
+   "marker": "diplomacy",
+   "unplaced": "Along the Line of Control in Kashmir."
+  }
+ ],
+ "corrections": [
+  {
+   "id": "2004-01-04-saakashvili-elected",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-11-23-rose-revolution",
+     "why": "Revolution",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-02-04-aq-khan-confession",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-12-19-libya-gives-up-wmd",
+     "why": "Libya's disclosures exposed Khan",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-03-25-blair-meets-gaddafi",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-12-19-libya-gives-up-wmd",
+     "why": "WMD deal",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-04-04-first-battle-of-fallujah",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-05-16-de-baathification",
+     "why": "Sunni insurgency",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-04-28-abu-ghraib",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-03-20-iraq-invasion",
+     "why": "Occupation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-06-28-iraq-sovereignty-handover",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-03-20-iraq-invasion",
+     "why": "Occupation",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-03-11-madrid-bombings",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-03-20-iraq-invasion",
+     "why": "Spain's role in Iraq",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-10-17-zarqawi-pledges-to-al-qaeda",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-08-19-un-baghdad-bombing",
+     "why": "Zarqawi's campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-09-09-us-calls-darfur-genocide",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-02-26-darfur-rebellion",
+     "why": "Darfur war",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-11-22-orange-revolution",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-11-23-rose-revolution",
+     "why": "Colour revolution",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2004-05-29-khobar-massacre",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-05-12-riyadh-compound-bombings",
+     "why": "Al-Qaeda's Saudi campaign",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2005-05-31-khodorkovsky-sentenced",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-10-25-khodorkovsky-arrested",
+     "why": "Trial",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2005-12-18-morales-elected",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-10-17-bolivia-gas-war",
+     "why": "Gas revolt",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2005-06-24-ahmadinejad-elected",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-10-21-tehran-declaration",
+     "why": "Hardliners opposed the freeze",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2005-11-05-mar-del-plata-summit",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-05-25-kirchner-takes-office",
+     "why": "Kirchner's stance",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2006-12-30-saddam-executed",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-12-13-saddam-captured",
+     "why": "Capture",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2008-11-26-mumbai-attacks",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2003-11-26-loc-ceasefire",
+     "why": "Broke the peace process",
+     "confidence": "possible"
+    }
+   ]
+  },
+  {
+   "id": "2007-01-10-iraq-surge-announced",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2006-12-06-iraq-study-group",
+     "why": "Bush rejected the ISG",
+     "confidence": "likely"
+    },
+    {
+     "story": "2006-02-22-samarra-mosque-bombing",
+     "why": "Sectarian war",
+     "confidence": "likely"
+    },
+    {
+     "story": "2006-11-07-us-midterms-democrats",
+     "why": "Political pressure",
+     "confidence": "possible"
+    },
+    {
+     "story": "2003-03-20-iraq-invasion",
+     "why": "War",
+     "confidence": "likely"
+    }
+   ]
+  },
+  {
+   "id": "2014-06-10-fall-of-mosul",
+   "why": "2003 backfill: thread forward to later stories",
+   "causes": [
+    {
+     "story": "2013-04-08-isil-founded",
+     "why": "ISIL's growth in Syria",
+     "confidence": "likely"
+    },
+    {
+     "story": "2003-05-16-de-baathification",
+     "why": "Ex-officers in IS",
+     "confidence": "possible"
+    }
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2003-10-17-bolivia-gas-war"
+   ]
+  },
+  {
+   "id": "iran-war-hormuz",
+   "name": "US/Israel–Iran war & Hormuz",
+   "entities": [
+    "iran",
+    "irgc",
+    "strait-of-hormuz",
+    "united-states",
+    "israel",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "stories": [
+    "2003-10-21-tehran-declaration"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2003-11-15-istanbul-bombings"
+   ]
+  },
+  {
+   "id": "south-caucasus",
+   "name": "South Caucasus: Karabakh wars & settlement",
+   "entities": [
+    "armenia",
+    "azerbaijan",
+    "russia",
+    "turkey"
+   ],
+   "stories": [
+    "2003-11-23-rose-revolution"
+   ]
+  },
+  {
+   "id": "iraq-war",
+   "name": "Iraq war and occupation 2003–11",
+   "entities": [
+    "iraq",
+    "united-states",
+    "nouri-al-maliki"
+   ],
+   "stories": [
+    "2003-12-13-saddam-captured"
+   ]
+  },
+  {
+   "id": "kashmir-india-pakistan",
+   "name": "Kashmir & the India–Pakistan crises",
+   "entities": [
+    "india",
+    "pakistan",
+    "jaish-e-mohammed",
+    "narendra-modi"
+   ],
+   "stories": [
+    "2003-11-26-loc-ceasefire"
+   ]
+  }
+ ]
+}
