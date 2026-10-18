@@ -1,0 +1,556 @@
+{
+ "edition": "2013-03-31",
+ "entities": [
+  {
+   "id": "mohamed-morsi",
+   "name": "Mohamed Morsi",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Morsi"
+  },
+  {
+   "id": "muslim-brotherhood",
+   "name": "Muslim Brotherhood",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muslim_Brotherhood"
+  },
+  {
+   "id": "cyprus",
+   "name": "Cyprus",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cyprus"
+  },
+  {
+   "id": "hugo-chavez",
+   "name": "Hugo Chávez",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez"
+  },
+  {
+   "id": "bank-of-japan",
+   "name": "Bank of Japan",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bank_of_Japan"
+  },
+  {
+   "id": "edward-snowden",
+   "name": "Edward Snowden",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Snowden"
+  },
+  {
+   "id": "aqim",
+   "name": "Al-Qaeda in the Islamic Maghreb",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb"
+  },
+  {
+   "id": "tamim-bin-hamad-al-thani",
+   "name": "Tamim bin Hamad Al Thani",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani"
+  },
+  {
+   "id": "gezi-park",
+   "name": "Gezi Park, Istanbul",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gezi_Park",
+   "lat": 41.03833333,
+   "lon": 28.98694444,
+   "precision": "feature"
+  },
+  {
+   "id": "westgate-mall",
+   "name": "Westgate shopping mall, Nairobi",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack",
+   "lat": -1.25694444,
+   "lon": 36.80333333,
+   "precision": "feature"
+  },
+  {
+   "id": "lampedusa",
+   "name": "Lampedusa",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lampedusa",
+   "lat": 35.515,
+   "lon": 12.58,
+   "precision": "city"
+  },
+  {
+   "id": "tacloban",
+   "name": "Tacloban",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tacloban",
+   "lat": 11.24,
+   "lon": 125.0,
+   "precision": "city"
+  },
+  {
+   "id": "rabaa-mosque",
+   "name": "Rabaa al-Adawiya Mosque, Cairo",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rabaa_Al-Adawiya_Mosque",
+   "lat": 30.0668,
+   "lon": 31.3258,
+   "precision": "feature"
+  },
+  {
+   "id": "ghouta",
+   "name": "Ghouta",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ghouta",
+   "lat": 33.5,
+   "lon": 36.42083333,
+   "precision": "sector"
+  },
+  {
+   "id": "in-amenas",
+   "name": "In Amenas",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/In_Amenas",
+   "lat": 28.04083333,
+   "lon": 9.54305556,
+   "precision": "city"
+  },
+  {
+   "id": "savar",
+   "name": "Savar Upazila",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Savar_Upazila",
+   "lat": 23.8583,
+   "lon": 90.2667,
+   "precision": "city"
+  },
+  {
+   "id": "boston",
+   "name": "Boston",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boston",
+   "lat": 42.36027778,
+   "lon": -71.05777778,
+   "precision": "city"
+  },
+  {
+   "id": "nicosia",
+   "name": "Nicosia",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicosia",
+   "lat": 35.1725,
+   "lon": 33.365,
+   "precision": "city"
+  },
+  {
+   "id": "konna",
+   "name": "Konna",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Konna",
+   "lat": 14.94666667,
+   "lon": -3.89333333,
+   "precision": "city"
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Berlin",
+   "lat": 52.52,
+   "lon": 13.405,
+   "precision": "city"
+  },
+  {
+   "id": "johannesburg",
+   "name": "Johannesburg",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johannesburg",
+   "lat": -26.20444444,
+   "lon": 28.04555556,
+   "precision": "city"
+  },
+  {
+   "id": "hawija",
+   "name": "Hawija",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hawija",
+   "lat": 35.325,
+   "lon": 43.77222222,
+   "precision": "city"
+  }
+ ],
+ "stories": [
+  {
+   "id": "2013-01-11-operation-serval",
+   "date": "2013-01-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "France intervenes in Mali to halt a jihadist advance",
+   "summary": "Islamists who had seized the north in 2012 pushed toward Konna; French troops retook the northern cities within weeks.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Serval"
+    }
+   ],
+   "entities": [
+    "france",
+    "mali"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "marker": "military",
+   "where": [
+    "konna"
+   ]
+  },
+  {
+   "id": "2013-01-16-in-amenas",
+   "date": "2013-01-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "Jihadists linked to Belmokhtar seize Algeria's In Amenas gas plant",
+   "summary": "Algerian special forces stormed the facility after four days; dozens of foreign hostages died.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/In_Amenas_hostage_crisis"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2013/jan/16/british-nationals-workers-kidnapped-algeria"
+    }
+   ],
+   "entities": [
+    "algeria",
+    "aqim"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2013-01-11-operation-serval",
+     "why": "Attackers cited the French intervention in Mali",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "in-amenas"
+   ]
+  },
+  {
+   "id": "2013-01-22-philippines-files-arbitration",
+   "date": "2013-01-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Philippines takes China to arbitration over the South China Sea",
+   "summary": "Manila filed under UNCLOS after China took control of Scarborough Shoal in 2012; China refused to take part.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/South_China_Sea_Arbitration"
+    }
+   ],
+   "entities": [
+    "philippines",
+    "china"
+   ],
+   "storylines": [
+    "southeast-asia",
+    "taiwan-indopacific"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "manila"
+   ]
+  },
+  {
+   "id": "2013-02-12-nk-third-nuclear-test",
+   "date": "2013-02-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "North Korea conducts its third nuclear test, the first under Kim Jong Un",
+   "summary": "The UN tightened sanctions; Pyongyang's crisis rhetoric followed in the spring.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_North_Korean_nuclear_test"
+    }
+   ],
+   "entities": [
+    "north-korea",
+    "kim-jong-un"
+   ],
+   "storylines": [
+    "korean-peninsula"
+   ],
+   "marker": "military",
+   "where": [
+    "punggye-ri"
+   ]
+  },
+  {
+   "id": "2013-03-05-chavez-dies",
+   "date": "2013-03-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Americas",
+   "title": "Hugo Chávez dies; Nicolás Maduro narrowly wins the April succession vote",
+   "summary": "Maduro beat Henrique Capriles on Apr 14 by a slim margin the opposition disputed.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Venezuelan_presidential_election"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2013/03/05/world/americas/obit-venezuela-chavez/index.html"
+    }
+   ],
+   "entities": [
+    "venezuela",
+    "hugo-chavez",
+    "nicolas-maduro"
+   ],
+   "storylines": [
+    "venezuela-oil",
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "caracas"
+   ]
+  },
+  {
+   "id": "2013-03-14-xi-becomes-president",
+   "date": "2013-03-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Asia-Pacific",
+   "title": "Xi Jinping becomes China's president, completing his takeover",
+   "summary": "Party chief since November 2012, Xi launched a broad anti-corruption purge and centralised power.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Xi_Jinping"
+    }
+   ],
+   "entities": [
+    "china",
+    "xi-jinping"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2013-03-24-seleka-takes-bangui",
+   "date": "2013-03-24",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "Séléka rebels seize Bangui and oust Central African Republic's Bozizé",
+   "summary": "The capture began sectarian conflict that later drew in UN peacekeepers and Russian Wagner forces.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Bangui_%282013%29"
+    }
+   ],
+   "entities": [
+    "central-african-republic"
+   ],
+   "marker": "military",
+   "where": [
+    "bangui"
+   ]
+  },
+  {
+   "id": "2013-03-25-cyprus-bailout",
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Europe",
+   "title": "Cyprus accepts a €10bn bailout that hits large bank deposits",
+   "summary": "Eurozone ministers forced losses on uninsured depositors and imposed capital controls.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis"
+    }
+   ],
+   "entities": [
+    "cyprus",
+    "european-union",
+    "ecb"
+   ],
+   "storylines": [
+    "eurozone-crisis"
+   ],
+   "marker": "political",
+   "where": [
+    "nicosia"
+   ]
+  },
+  {
+   "id": "2013-03-04-kenyatta-elected",
+   "date": "2013-03-04",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2013 (Xi, Snowden, Ghouta, Euromaidan)",
+   "region": "Africa",
+   "title": "Uhuru Kenyatta defeats Raila Odinga in Kenya's presidential vote",
+   "summary": "Kenyatta won despite facing ICC charges over the 2007–08 post-election violence.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2013_Kenyan_general_election"
+    }
+   ],
+   "entities": [
+    "kenya",
+    "uhuru-kenyatta"
+   ],
+   "marker": "political",
+   "where": [
+    "nairobi"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "sahel",
+   "name": "Sahel insurgency & Russia",
+   "entities": [
+    "mali",
+    "sahel",
+    "jnim",
+    "africa-corps",
+    "fla",
+    "russia"
+   ],
+   "stories": [
+    "2013-01-11-operation-serval",
+    "2013-01-16-in-amenas"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2013-01-22-philippines-files-arbitration"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2013-01-22-philippines-files-arbitration",
+    "2013-03-14-xi-becomes-president"
+   ]
+  },
+  {
+   "id": "korean-peninsula",
+   "name": "Korean Peninsula: martial-law aftermath & the North Korea–Russia axis",
+   "entities": [
+    "south-korea",
+    "north-korea",
+    "russia",
+    "yoon-suk-yeol",
+    "lee-jae-myung",
+    "kim-jong-un"
+   ],
+   "stories": [
+    "2013-02-12-nk-third-nuclear-test"
+   ]
+  },
+  {
+   "id": "venezuela-oil",
+   "name": "Venezuela reopening & oil reroute",
+   "entities": [
+    "venezuela",
+    "pdvsa",
+    "ofac",
+    "india",
+    "reliance",
+    "nicolas-maduro"
+   ],
+   "stories": [
+    "2013-03-05-chavez-dies"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2013-03-05-chavez-dies"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2013-03-14-xi-becomes-president"
+   ]
+  },
+  {
+   "id": "eurozone-crisis",
+   "name": "Eurozone debt crisis",
+   "entities": [
+    "european-union",
+    "ecb",
+    "greece",
+    "imf"
+   ],
+   "stories": [
+    "2013-03-25-cyprus-bailout"
+   ]
+  }
+ ]
+}
