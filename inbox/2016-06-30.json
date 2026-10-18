@@ -1,0 +1,286 @@
+{
+ "edition": "2016-06-30",
+ "stories": [
+  {
+   "id": "2016-04-03-panama-papers",
+   "date": "2016-04-03",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "Panama Papers leak exposes the offshore wealth of world leaders",
+   "summary": "11.5 million files from Mossack Fonseca led to the resignation of Iceland's PM and, in 2017, the disqualification of Pakistan's Nawaz Sharif.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Panama_Papers"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore"
+    }
+   ],
+   "entities": [
+    "pakistan"
+   ],
+   "marker": "political",
+   "unplaced": "Global leak."
+  },
+  {
+   "id": "2016-04-25-vision-2030",
+   "date": "2016-04-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Middle East",
+   "title": "Mohammed bin Salman launches Saudi Vision 2030",
+   "summary": "The plan to diversify away from oil included selling part of Aramco; many of its megaprojects were later scaled back.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Saudi_Vision_2030"
+    }
+   ],
+   "entities": [
+    "mohammed-bin-salman",
+    "saudi-arabia",
+    "vision-2030",
+    "aramco"
+   ],
+   "storylines": [
+    "gulf-realignment"
+   ],
+   "causes": [
+    {
+     "story": "2016-01-20-oil-below-30",
+     "why": "Oil crash exposed fiscal dependence",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "energy",
+   "where": [
+    "riyadh"
+   ]
+  },
+  {
+   "id": "2016-05-20-tsai-inaugurated",
+   "date": "2016-05-20",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Tsai Ing-wen takes office as Taiwan's president; Beijing freezes contacts",
+   "summary": "The DPP leader declined to endorse the '1992 consensus' and China cut official communication.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tsai_Ing-wen"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/20160520-taiwan-first-female-president-inauguration-tsai-ing-wen"
+    }
+   ],
+   "entities": [
+    "tsai-ing-wen",
+    "taiwan",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "marker": "political",
+   "where": [
+    "taipei"
+   ]
+  },
+  {
+   "id": "2016-05-21-mansour-killed",
+   "date": "2016-05-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "US drone kills Taliban leader Akhtar Mansour in Pakistan",
+   "summary": "Hibatullah Akhundzada, a reclusive cleric who later became Afghanistan's supreme leader, succeeded him.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Akhtar_Mansur"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/may/21/us-airstrike-taliban-leader-mullah-akhtar-mansoor"
+    }
+   ],
+   "entities": [
+    "akhtar-mansour",
+    "hibatullah-akhundzada",
+    "taliban",
+    "united-states",
+    "pakistan",
+    "barack-obama"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "strike",
+   "unplaced": "Balochistan, location not precisely given."
+  },
+  {
+   "id": "2016-06-23-brexit-referendum",
+   "date": "2016-06-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Europe",
+   "title": "Britain votes 52–48 to leave the European Union",
+   "summary": "David Cameron resigned and Theresa May took over on Jul 13; it was the biggest blow yet to European integration.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/politics/2016/jun/25/article-50-brexit-debate-britain-eu"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "european-union",
+    "theresa-may"
+   ],
+   "storylines": [
+    "transatlantic-rift",
+    "europe-populism"
+   ],
+   "marker": "political",
+   "analysis": {
+    "text": "Brexit and Trump's win months later marked the populist turn that shaped Western politics to today.",
+    "confidence": "likely"
+   },
+   "unplaced": "National referendum."
+  },
+  {
+   "id": "2016-06-30-duterte-drug-war",
+   "date": "2016-06-30",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2016 (Brexit and Trump)",
+   "region": "Asia-Pacific",
+   "title": "Rodrigo Duterte becomes Philippine president and launches a bloody drug war",
+   "summary": "Thousands were killed by police and vigilantes; he also tilted Manila toward Beijing after the South China Sea ruling.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Philippine_drug_war"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2016/jul/01/philippines-president-rodrigo-duterte-urges-people-to-kill-drug-addicts"
+    }
+   ],
+   "entities": [
+    "rodrigo-duterte",
+    "philippines"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "political",
+   "where": [
+    "manila"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2016-04-25-vision-2030"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2016-05-20-tsai-inaugurated"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2016-05-21-mansour-killed"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2016-06-23-brexit-referendum"
+   ]
+  },
+  {
+   "id": "europe-populism",
+   "name": "Europe's populist wave & the EU's eastern frontier",
+   "entities": [
+    "european-union",
+    "hungary",
+    "slovakia",
+    "netherlands",
+    "poland",
+    "romania",
+    "georgia",
+    "moldova"
+   ],
+   "stories": [
+    "2016-06-23-brexit-referendum"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2016-06-30-duterte-drug-war"
+   ]
+  }
+ ]
+}
