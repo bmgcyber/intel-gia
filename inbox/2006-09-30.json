@@ -1,0 +1,356 @@
+{
+ "edition": "2006-09-30",
+ "stories": [
+  {
+   "id": "2006-07-02-mexico-calderon-wins",
+   "date": "2006-07-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Americas",
+   "title": "Felipe Calderón narrowly wins Mexico's disputed election",
+   "summary": "López Obrador refused to accept the result.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Mexican_general_election"
+    }
+   ],
+   "entities": [
+    "mexico",
+    "felipe-calderon",
+    "andres-manuel-lopez-obrador"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "marker": "political",
+   "where": [
+    "mexico-city"
+   ]
+  },
+  {
+   "id": "2006-07-11-mumbai-train-bombings",
+   "date": "2006-07-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "Bombs on Mumbai's commuter trains kill over 200",
+   "summary": "India blamed Pakistan-based militants.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Mumbai_train_bombings"
+    }
+   ],
+   "entities": [
+    "india",
+    "pakistan",
+    "lashkar-e-taiba"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "strike",
+   "where": [
+    "mumbai"
+   ]
+  },
+  {
+   "id": "2006-07-12-lebanon-war",
+   "date": "2006-07-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Middle East",
+   "title": "Hezbollah's cross-border raid triggers a 34-day war with Israel",
+   "summary": "Hezbollah survived Israel's air and ground campaign, and its standing rose across the region.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    }
+   ],
+   "entities": [
+    "hezbollah",
+    "israel",
+    "lebanon",
+    "hassan-nasrallah"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-proxy-network"
+   ],
+   "marker": "military",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2006-08-10-transatlantic-plot",
+   "date": "2006-08-10",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Europe",
+   "title": "UK police foil a plot to blow up transatlantic airliners with liquid explosives",
+   "summary": "The plot led to the liquids limits for air travellers.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "al-qaeda"
+   ],
+   "storylines": [
+    "war-on-terror"
+   ],
+   "marker": "strike",
+   "where": [
+    "london"
+   ]
+  },
+  {
+   "id": "2006-08-11-unsc-1701",
+   "date": "2006-08-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Middle East",
+   "title": "UN Resolution 1701 ends the Lebanon war",
+   "summary": "It barred armed groups south of the Litani and expanded UNIFIL; its disarmament terms were never met.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1701"
+    }
+   ],
+   "entities": [
+    "lebanon",
+    "israel",
+    "hezbollah"
+   ],
+   "storylines": [
+    "levant-wars"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "un-hq"
+   ]
+  },
+  {
+   "id": "2006-09-02-operation-medusa",
+   "date": "2006-09-02",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "NATO's Operation Medusa fights the Taliban west of Kandahar",
+   "summary": "The battle marked the Taliban's return as a conventional threat.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Operation_Medusa"
+    }
+   ],
+   "entities": [
+    "nato",
+    "taliban",
+    "afghanistan",
+    "canada"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war",
+    "war-on-terror"
+   ],
+   "marker": "military",
+   "where": [
+    "panjwayi"
+   ]
+  },
+  {
+   "id": "2006-09-05-waziristan-accord",
+   "date": "2006-09-05",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "Pakistan signs a truce with militants in North Waziristan",
+   "summary": "The accord gave the Taliban and al-Qaeda room to regroup.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Waziristan_Accord"
+    }
+   ],
+   "entities": [
+    "pakistan",
+    "taliban"
+   ],
+   "storylines": [
+    "pakistan-afghanistan-war"
+   ],
+   "marker": "diplomacy",
+   "where": [
+    "miranshah"
+   ]
+  },
+  {
+   "id": "2006-09-19-thai-coup",
+   "date": "2006-09-19",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "Thailand's military ousts Thaksin Shinawatra",
+   "summary": "The coup opened a long struggle between Thaksin's supporters and the royalist establishment.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2006_Thai_coup_d%27%C3%A9tat"
+    }
+   ],
+   "entities": [
+    "thailand",
+    "thaksin-shinawatra"
+   ],
+   "storylines": [
+    "southeast-asia"
+   ],
+   "marker": "military",
+   "where": [
+    "bangkok"
+   ]
+  },
+  {
+   "id": "2006-06-sri-lanka-eelam-war-iv",
+   "date": "2006-07",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2006 (Iraq's sectarian war, the Lebanon war, North Korea's first test)",
+   "region": "Asia-Pacific",
+   "title": "Fighting resumes between Sri Lanka's army and the Tamil Tigers",
+   "summary": "Eelam War IV ended with the LTTE's destruction in 2009.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Eelam_War_IV"
+    }
+   ],
+   "entities": [
+    "sri-lanka",
+    "ltte"
+   ],
+   "storylines": [
+    "south-asia-security"
+   ],
+   "marker": "military",
+   "unplaced": "Northern and eastern Sri Lanka."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2006-07-02-mexico-calderon-wins"
+   ]
+  },
+  {
+   "id": "south-asia-security",
+   "name": "South Asia: Pakistan's two fronts (India and Afghanistan)",
+   "entities": [
+    "pakistan",
+    "india",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2006-07-11-mumbai-train-bombings",
+    "2006-06-sri-lanka-eelam-war-iv"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2006-07-12-lebanon-war",
+    "2006-08-11-unsc-1701"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2006-07-12-lebanon-war"
+   ]
+  },
+  {
+   "id": "war-on-terror",
+   "name": "9/11 and the war on terror",
+   "entities": [
+    "al-qaeda",
+    "united-states",
+    "taliban",
+    "osama-bin-laden"
+   ],
+   "stories": [
+    "2006-08-10-transatlantic-plot",
+    "2006-09-02-operation-medusa"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2006-09-02-operation-medusa",
+    "2006-09-05-waziristan-accord"
+   ]
+  },
+  {
+   "id": "southeast-asia",
+   "name": "Southeast Asia: Myanmar's war, Thai–Cambodian border, Indonesia's unrest",
+   "entities": [
+    "myanmar",
+    "thailand",
+    "cambodia",
+    "indonesia",
+    "vietnam"
+   ],
+   "stories": [
+    "2006-09-19-thai-coup"
+   ]
+  }
+ ]
+}
