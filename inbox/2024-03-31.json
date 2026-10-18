@@ -1,0 +1,539 @@
+{
+ "edition": "2024-03-31",
+ "stories": [
+  {
+   "id": "2024-01-12-us-uk-strike-houthis",
+   "date": "2024-01-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "US and UK begin airstrikes on the Houthis over Red Sea shipping attacks",
+   "summary": "After weeks of Houthi missile and drone attacks on merchant ships, the US and UK, with allied support, struck Houthi targets across Yemen. Strikes continued into 2025.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/middle-east/reactions-us-british-strikes-against-houthis-yemen-2024-01-12/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/1/12/world-reacts-to-us-uk-attacks-on-houthi-targets-in-yemen"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/US–UK_airstrikes_on_Yemen"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "united-kingdom",
+    "houthis",
+    "yemen",
+    "red-sea"
+   ],
+   "storylines": [
+    "yemen-houthis-saudi",
+    "iran-proxy-network"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "where": [
+    "sanaa"
+   ]
+  },
+  {
+   "id": "2024-01-13-lai-elected-taiwan",
+   "date": "2024-01-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Asia-Pacific",
+   "title": "Lai Ching-te wins Taiwan's presidency, a third straight DPP term that Beijing opposed",
+   "summary": "The DPP's Lai won the three-way race on Jan 13, though his party lost its legislative majority. Beijing called him a separatist and later staged large drills after his May inauguration.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/1/13/taiwan-ruling-partys-lai-wins-presidential-election"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/world-reactions-taiwan-election-2024-01-14/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Taiwanese_presidential_election"
+    }
+   ],
+   "entities": [
+    "taiwan",
+    "lai-ching-te",
+    "china"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2022-08-04-pla-drills",
+     "why": "Cross-strait tension since Pelosi's 2022 visit",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "taipei"
+   ]
+  },
+  {
+   "id": "2024-01-28-tower-22",
+   "date": "2024-01-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Middle East",
+   "title": "Drone attack on Tower 22 in Jordan kills three US soldiers",
+   "summary": "An Iran-backed Iraqi militia coalition, the Islamic Resistance in Iraq, struck the US outpost, killing three soldiers and wounding dozens, the first US deaths from enemy fire in the region since the Gaza war began. The US retaliated in Iraq and Syria in February.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/biden-says-three-us-service-members-killed-drone-attack-us-forces-jordan-2024-01-28/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20240128-three-us-troops-killed-in-jordan-biden-vows-reprisal"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/1/28/three-us-service-members-killed-in-jordan-drone-attack-biden-says"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tower_22_drone_attack"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "kataib-hezbollah",
+    "iran",
+    "iraq"
+   ],
+   "storylines": [
+    "iran-proxy-network"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "unplaced": "Tower 22 is a remote outpost; no place entity."
+  },
+  {
+   "id": "2024-02-16-navalny-dies",
+   "date": "2024-02-16",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Russia/Eurasia",
+   "title": "Alexei Navalny dies in an Arctic penal colony",
+   "summary": "Russian prison authorities said Putin's best-known opponent died at IK-3 in Kharp while serving a 19-year sentence. Western leaders blamed the Kremlin.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/hundreds-gather-across-europe-mourn-navalny-denounce-putin-2024-02-16/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/2/16/brutally-murdered-world-reacts-to-alexei-navalnys-death-in-prison"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2024/feb/16/world-leaders-praise-alexei-navalnys-courage-and-blame-putin-for-his-death"
+    }
+   ],
+   "entities": [
+    "alexei-navalny",
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "Kharp penal colony; no place entity."
+  },
+  {
+   "id": "2024-02-17-avdiivka-falls",
+   "date": "2024-02-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Russia/Eurasia",
+   "title": "Ukraine withdraws from Avdiivka as ammunition runs short",
+   "summary": "Ukraine's new army chief Syrskyi ordered troops out of the Donetsk-area stronghold after a four-month Russian assault, as US aid stalled in Congress. It was Russia's biggest gain since Bakhmut.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/ukrainian-troops-withdraw-avdiivka-ammunition-shortage-bites-2024-02-17/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/2/17/ukraine-troops-withdraw-from-frontline-city-of-avdiivka-army-chief-says"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Avdiivka_(2023–2024)"
+    }
+   ],
+   "entities": [
+    "ukraine",
+    "russia",
+    "donetsk"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "avdiivka"
+   ]
+  },
+  {
+   "id": "2024-03-11-haiti-henry-resigns",
+   "date": "2024-03-11",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Americas",
+   "title": "Haiti's Ariel Henry agrees to resign after gangs storm prisons and seize the capital",
+   "summary": "Gangs freed more than 4,700 inmates in early March and blocked Henry's return. He agreed to step down for a transitional council, clearing the way for a Kenya-led security mission.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2024/03/11/americas/haiti-pm-ariel-henry-resigns-gang-violence-intl-hnk/index.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/3/7/haiti-extends-state-of-emergency-as-violence-and-displacement-soar"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Haitian_jailbreak"
+    }
+   ],
+   "entities": [
+    "haiti"
+   ],
+   "storylines": [
+    "western-hemisphere"
+   ],
+   "causes": [
+    {
+     "story": "2022-10-haiti-fuel",
+     "why": "Gang control grew from the 2022 fuel blockade",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "where": [
+    "port-au-prince"
+   ]
+  },
+  {
+   "id": "2024-03-17-putin-fifth-term",
+   "date": "2024-03-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Russia/Eurasia",
+   "title": "Putin wins a fifth term with a claimed 88% in a tightly controlled vote",
+   "summary": "The Mar 15–17 election, with no real opposition and votes held in occupied Ukrainian regions, gave Putin his highest official share. The EU said it did not recognise the vote in occupied territory.",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html"
+    },
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/03/18/russia-ukraine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-russian-presidential-elections-and-their-non-applicability-on-ukrainian-territory/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2024_Russian_presidential_election"
+    }
+   ],
+   "entities": [
+    "russia",
+    "vladimir-putin"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [
+    {
+     "story": "2024-02-16-navalny-dies",
+     "why": "Main opponent dead a month earlier",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A national election."
+  },
+  {
+   "id": "2024-03-22-crocus-attack",
+   "date": "2024-03-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2024 (wars widen; election year)",
+   "region": "Russia/Eurasia",
+   "title": "Islamic State gunmen kill more than 140 at Moscow's Crocus City Hall",
+   "summary": "Four gunmen linked to ISIS-K attacked a sold-out concert and set the hall on fire. It was the deadliest attack in Russia in two decades. The Kremlin tried to link Ukraine despite IS's claim.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/shooting-blast-reported-concert-hall-near-moscow-agencies-2024-03-22/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20240322-gunmen-in-combat-fatigues-open-fire-at-moscow-concert-hall"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/3/23/moscow-concert-hall-attack-why-is-isil-targeting"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Crocus_City_Hall_attack"
+    }
+   ],
+   "entities": [
+    "isis-k",
+    "russia"
+   ],
+   "storylines": [
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "strike",
+   "where": [
+    "crocus-city-hall"
+   ]
+  }
+ ],
+ "storylines": [
+  {
+   "id": "yemen-houthis-saudi",
+   "name": "Yemen: Houthis vs Saudi / Red Sea",
+   "entities": [
+    "houthis",
+    "iran",
+    "saudi-arabia",
+    "yemen",
+    "red-sea",
+    "bab-el-mandeb",
+    "aramco"
+   ],
+   "stories": [
+    "2024-01-12-us-uk-strike-houthis"
+   ]
+  },
+  {
+   "id": "iran-proxy-network",
+   "name": "Iran's proxy network (Iraq, Lebanon, Yemen)",
+   "entities": [
+    "iran",
+    "irgc",
+    "kataib-hezbollah",
+    "iraq",
+    "houthis"
+   ],
+   "stories": [
+    "2024-01-12-us-uk-strike-houthis",
+    "2024-01-28-tower-22"
+   ]
+  },
+  {
+   "id": "taiwan-indopacific",
+   "name": "Taiwan & Indo-Pacific",
+   "entities": [
+    "china",
+    "taiwan",
+    "pla",
+    "lai-ching-te",
+    "japan"
+   ],
+   "stories": [
+    "2024-01-13-lai-elected-taiwan"
+   ]
+  },
+  {
+   "id": "russia-ukraine",
+   "name": "Russia–Ukraine war & energy diplomacy",
+   "entities": [
+    "russia",
+    "ukraine",
+    "donald-trump",
+    "volodymyr-zelenskyy",
+    "steve-witkoff",
+    "starlink",
+    "spacex"
+   ],
+   "stories": [
+    "2024-02-16-navalny-dies",
+    "2024-02-17-avdiivka-falls",
+    "2024-03-17-putin-fifth-term",
+    "2024-03-22-crocus-attack"
+   ]
+  },
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2024-03-11-haiti-henry-resigns"
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "alexei-navalny",
+   "name": "Alexei Navalny",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Navalny"
+  },
+  {
+   "id": "yahya-sinwar",
+   "name": "Yahya Sinwar",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yahya_Sinwar"
+  },
+  {
+   "id": "hassan-nasrallah",
+   "name": "Hassan Nasrallah",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hassan_Nasrallah"
+  },
+  {
+   "id": "ismail-haniyeh",
+   "name": "Ismail Haniyeh",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ismail_Haniyeh"
+  },
+  {
+   "id": "sheikh-hasina",
+   "name": "Sheikh Hasina",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sheikh_Hasina"
+  },
+  {
+   "id": "bangladesh",
+   "name": "Bangladesh",
+   "type": "country",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh"
+  },
+  {
+   "id": "hts",
+   "name": "Hay'at Tahrir al-Sham",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hay%27at_Tahrir_al-Sham"
+  },
+  {
+   "id": "bashar-al-assad",
+   "name": "Bashar al-Assad",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bashar_al-Assad"
+  },
+  {
+   "id": "alliance-of-sahel-states",
+   "name": "Alliance of Sahel States",
+   "type": "organization",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States"
+  },
+  {
+   "id": "isis-k",
+   "name": "Islamic State – Khorasan Province",
+   "type": "group",
+   "wikipedia": "https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Khorasan_Province"
+  },
+  {
+   "id": "emmanuel-macron",
+   "name": "Emmanuel Macron",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "id": "shigeru-ishiba",
+   "name": "Shigeru Ishiba",
+   "type": "person",
+   "wikipedia": "https://en.wikipedia.org/wiki/Shigeru_Ishiba"
+  },
+  {
+   "id": "avdiivka",
+   "name": "Avdiivka",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Avdiivka",
+   "lat": 48.14527778,
+   "lon": 37.745,
+   "precision": "city"
+  },
+  {
+   "id": "crocus-city-hall",
+   "name": "Crocus City Hall",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Crocus_City_Hall",
+   "lat": 55.82583333,
+   "lon": 37.39027778,
+   "precision": "feature"
+  },
+  {
+   "id": "sudzha",
+   "name": "Sudzha",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sudzha",
+   "lat": 51.1914,
+   "lon": 35.2706,
+   "precision": "city"
+  },
+  {
+   "id": "rafah",
+   "name": "Rafah",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rafah",
+   "lat": 31.2725,
+   "lon": 34.25861111,
+   "precision": "city"
+  },
+  {
+   "id": "zamzam-camp",
+   "name": "Zamzam camp",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zamzam_refugee_camp",
+   "lat": 13.48852222,
+   "lon": 25.31066667,
+   "precision": "feature"
+  },
+  {
+   "id": "dhaka",
+   "name": "Dhaka",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dhaka",
+   "lat": 23.76444444,
+   "lon": 90.38888889,
+   "precision": "city"
+  },
+  {
+   "id": "port-au-prince",
+   "name": "Port-au-Prince",
+   "type": "place",
+   "wikipedia": "https://en.wikipedia.org/wiki/Port-au-Prince",
+   "lat": 18.53638889,
+   "lon": -72.34638889,
+   "precision": "city"
+  }
+ ]
+}
