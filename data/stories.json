@@ -2152,7 +2152,8 @@
    "2022-09-02-price-cap",
    "2022-10-05-opec-cut",
    "diesel-deal",
-   "venezuela-oil"
+   "venezuela-oil",
+   "2026-09-18-graham-act-signed"
   ]
  },
  {
@@ -3559,7 +3560,8 @@
   "effects": [],
   "related_stories": [
    "2022-02-04-no-limits",
-   "2022-05-18-finland-sweden"
+   "2022-05-18-finland-sweden",
+   "2026-07-08-nato-ankara"
   ]
  },
  {
@@ -4683,7 +4685,8 @@
    "2022-03-25-jeddah-attack",
    "2022-04-02-yemen-truce",
    "houthis-hit-aramco",
-   "saudi-offensive-mokha"
+   "saudi-offensive-mokha",
+   "2026-07-20-houthi-saudi-blockade"
   ],
   "marker": "diplomacy",
   "unplaced": "The truce covered Yemen. The summary names no town."
@@ -4912,7 +4915,8 @@
   "related_stories": [
    "2022-10-08-crimea-bridge",
    "2022-10-iran-drones-russia",
-   "energy-ceasefire"
+   "energy-ceasefire",
+   "2026-08-13-russian-diesel-lows"
   ],
   "marker": "energy",
   "where": [
@@ -5077,7 +5081,8 @@
    "2021-10-10-iraq-election",
    "2021-11-07-kadhimi-drone",
    "2022-08-29-baghdad-clashes",
-   "kataib-hezbollah-halt"
+   "kataib-hezbollah-halt",
+   "2026-09-30-us-leaves-iraq"
   ]
  },
  {
@@ -7261,7 +7266,9 @@
   ],
   "related_stories": [
    "2026-01-27-india-eu-fta",
-   "trump-disgrace-eu-summit"
+   "trump-disgrace-eu-summit",
+   "2026-07-08-nato-ankara",
+   "2026-09-18-greenland-deal"
   ]
  },
  {
@@ -7355,7 +7362,9 @@
   "era": "2026 (Iran war year)",
   "marker": "military",
   "unplaced": "Western Tigray fighting; the sources name no town we can pin.",
-  "related_stories": []
+  "related_stories": [
+   "2026-09-23-tplf-offensive"
+  ]
  },
  {
   "id": "2026-02-03-kadugli-siege-broken",
@@ -8343,7 +8352,8 @@
    "2026-02-28-iran-war-begins",
    "2026-04-08-israel-strikes-lebanon",
    "2026-04-13-us-blockade-iran",
-   "2026-06-17-islamabad-mou"
+   "2026-06-17-islamabad-mou",
+   "2026-08-07-mecca-pact"
   ]
  },
  {
@@ -8504,7 +8514,8 @@
    "irgc-mine-supertanker-brent-110",
    "2026-02-28-iran-war-begins",
    "2026-03-11-iea-record-release",
-   "2026-03-13-kharg-strike"
+   "2026-03-13-kharg-strike",
+   "2026-07-08-mou-collapses"
   ]
  },
  {
@@ -8542,7 +8553,9 @@
   "where": [
    "scarborough-shoal"
   ],
-  "related_stories": []
+  "related_stories": [
+   "2026-07-23-scarborough-water-cannon"
+  ]
  },
  {
   "id": "2026-04-23-eu-90bn-loan",
@@ -8835,7 +8848,8 @@
    "2022-03-16-fed-hike",
    "2022-06-15-fed-75",
    "coreweave-ai-credit-shock",
-   "tech-selloff-worst-week"
+   "tech-selloff-worst-week",
+   "2026-09-16-fed-hikes"
   ]
  },
  {
@@ -8913,7 +8927,8 @@
    "pla-patrol-oct14-15",
    "coreweave-ai-credit-shock",
    "trump-waives-russia-sanctions",
-   "eu-china-rare-earth-green-channel"
+   "eu-china-rare-earth-green-channel",
+   "2026-09-23-us-china-fragile-truce"
   ]
  },
  {
@@ -9107,7 +9122,8 @@
    "irgc-mine-supertanker-brent-110",
    "2026-02-28-iran-war-begins",
    "2026-04-07-iran-ceasefire-islamabad",
-   "2026-04-08-israel-strikes-lebanon"
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-07-08-mou-collapses"
   ]
  },
  {
@@ -9198,5 +9214,1050 @@
   "marker": "political",
   "unplaced": "A resignation announcement; no event site.",
   "related_stories": []
+ },
+ {
+  "id": "2026-07-08-mou-collapses",
+  "date": "2026-07-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Islamabad deal collapses; US strikes Iran again and reimposes the blockade",
+  "summary": "The memorandum broke down over who controlled shipping: Iran attacked tankers using a southern route near Omani waters. The US struck back from Jun 26, rescinded its oil licence and launched extensive airstrikes on Jul 7. Trump declared the deal 'over' on Jul 8 and reimposed the blockade from Jul 14. An Iranian strike killed three US troops in Jordan on Jul 17.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iran",
+   "irgc",
+   "strait-of-hormuz"
+  ],
+  "causes": [
+   {
+    "story": "2026-06-17-islamabad-mou",
+    "why": "Vague clauses on control of the strait",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-04-13-us-blockade-iran",
+    "why": "Rival claims to control the strait",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "iran-war-hormuz",
+   "global-oil"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "unplaced": "Strikes and sea attacks across the Gulf; no single site.",
+  "related_stories": [
+   "2026-06-17-islamabad-mou",
+   "2026-04-13-us-blockade-iran",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-08-17-mou-expires",
+   "2026-09-10-east-west-pipeline-attack",
+   "2026-09-16-fed-hikes",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "kataib-hezbollah-halt",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-09-26-trump-rejects-iran-plan"
+  ]
+ },
+ {
+  "id": "2026-07-08-nato-ankara",
+  "date": "2026-07-08",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Europe",
+  "title": "NATO's Ankara summit pledges €70bn for Ukraine",
+  "summary": "At the Ankara summit, allies reaffirmed Article 5, backed the target of 5% of GDP for defence by 2035, and pledged €70 billion for Ukraine in 2026 with at least as much in 2027. Trump said Ukraine would get a licence to produce Patriot interceptors.",
+  "sources": [
+   {
+    "name": "NATO (Ankara declaration)",
+    "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/nato-summit-takeaways-trump-ukraine-iran-albania-4821e7c6f2ab0b8a729d0e798bfe6359"
+   },
+   {
+    "name": "Janes",
+    "url": "https://www.janes.com/defence-intelligence-insights/defence-news/air/nato-summit-2026-allies-pledge-usd80-billion-in-aid-to-ukraine-in-both-2026-and-2027"
+   }
+  ],
+  "entities": [
+   "nato",
+   "turkey",
+   "ukraine",
+   "united-states",
+   "mark-rutte"
+  ],
+  "causes": [
+   {
+    "story": "2026-01-21-greenland-davos",
+    "why": "Alliance patched up after the Greenland crisis",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-06-29-madrid",
+    "why": "Madrid named Russia the main threat; Ankara funds that judgment",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "transatlantic-rift",
+   "russia-ukraine"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "where": [
+   "ankara"
+  ],
+  "related_stories": [
+   "2026-01-21-greenland-davos",
+   "2022-06-29-madrid",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts"
+  ]
+ },
+ {
+  "id": "2026-07-20-houthi-saudi-blockade",
+  "date": "2026-07-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Houthis declare a naval blockade on Saudi shipping",
+  "summary": "Yemen's Houthis declared a maritime embargo on Saudi vessels in the Bab el-Mandeb. CRS says they resumed attacks on Saudi Arabia and Saudi-linked shipping in July, after airstrikes attributed to Riyadh diverted a flight from Iran carrying Houthi personnel. That ended the cross-border calm that had held since the 2022 truce.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/yemen-saudi-arabia-maritime-embargo-fd7c4a3911f7eee18251483fc8af768c"
+   },
+   {
+    "name": "Africa Center for Strategic Studies",
+    "url": "https://africacenter.org/spotlight/2026-houthi-red-sea-threats/"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "saudi-arabia",
+   "yemen",
+   "bab-el-mandeb",
+   "red-sea"
+  ],
+  "causes": [
+   {
+    "story": "2026-07-08-mou-collapses",
+    "why": "Renewed US–Iran war widened the Houthi front",
+    "confidence": "possible"
+   },
+   {
+    "story": "2022-10-02-truce-expires",
+    "why": "The 2022 truce never became a settlement",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "yemen-houthis-saudi",
+   "iran-proxy-network"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "unplaced": "Declared over the Bab el-Mandeb, which has no coordinates in the place list.",
+  "related_stories": [
+   "2026-07-08-mou-collapses",
+   "2022-10-02-truce-expires",
+   "2026-08-07-mecca-pact",
+   "2026-09-10-houthis-seize-mokha",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-21-saada-strike",
+   "2022-03-25-jeddah-attack",
+   "2022-04-02-yemen-truce",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace"
+  ]
+ },
+ {
+  "id": "2026-07-23-scarborough-water-cannon",
+  "date": "2026-07-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Asia-Pacific",
+  "title": "Chinese coast guard fires water cannon at Philippine ships at Scarborough",
+  "summary": "Chinese coast guard vessels fired water cannon at Philippine fisheries and coast guard ships near Scarborough Shoal on Jul 23–24, with one ship coming within about seven metres. China said it drove away vessels operating illegally in its waters.",
+  "sources": [
+   {
+    "name": "Rappler",
+    "url": "https://www.rappler.com/philippines/china-scarborough-shoal-encounter-july-23-2026/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/south-china-sea-philippines-scarborough-shoal-66eccdf9a171a1acd7bd1d8b13aeb1e3"
+   },
+   {
+    "name": "CNA",
+    "url": "https://www.channelnewsasia.com/asia/philippines-china-water-cannon-scarborough-shoal-confrontation-6275331"
+   }
+  ],
+  "entities": [
+   "china",
+   "philippines"
+  ],
+  "causes": [
+   {
+    "story": "2026-04-15-scarborough-blocked",
+    "why": "China tightening control of the shoal",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "where": [
+   "scarborough-shoal"
+  ],
+  "related_stories": [
+   "2026-04-15-scarborough-blocked"
+  ]
+ },
+ {
+  "id": "2026-08-07-mecca-pact",
+  "date": "2026-08-07",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Saudi Arabia, Pakistan and Turkey sign the Mecca mutual-defence pact",
+  "summary": "Saudi Arabia, Pakistan and Turkey signed the Mecca Joint Defence Agreement, under which an attack on one is an attack on all.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "pakistan",
+   "turkey"
+  ],
+  "causes": [
+   {
+    "story": "2026-07-20-houthi-saudi-blockade",
+    "why": "Houthi threat to Saudi shipping",
+    "confidence": "possible"
+   },
+   {
+    "story": "2026-04-07-iran-ceasefire-islamabad",
+    "why": "Pakistan's rising value to Gulf and US partners",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Riyadh is hedging against an unreliable US umbrella by buying Sunni military depth, with Pakistan's nuclear status in the background.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "gulf-realignment",
+   "yemen-houthis-saudi"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "The sources do not name the signing venue.",
+  "related_stories": [
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-04-07-iran-ceasefire-islamabad"
+  ]
+ },
+ {
+  "id": "2026-08-13-russian-diesel-lows",
+  "date": "2026-08-13",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Ukraine's drone campaign drives Russian diesel exports to multi-year lows",
+  "summary": "The IEA said Ukrainian drone strikes cut Russian refinery runs to about 3.8 million barrels a day, a 20-year low, and diesel output by about 30%. Bloomberg reported diesel and gasoil exports fell to 80,000 barrels a day in early August. Moscow imposed its first diesel export ban in July and was set to extend curbs through October.",
+  "sources": [
+   {
+    "name": "IEA",
+    "url": "https://www.iea.org/commentaries/russian-refining-sector-struggles-amid-intensifying-ukrainian-attacks"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/russian-diesel-flows-are-lowest-in-years-as-drones-hit-refiners"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russia-set-extend-diesel-export-ban-until-end-october-vedomosti-reports-2026-09-16/"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "russia",
+   "diesel",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-10-energy-strikes",
+    "why": "Ukraine's answer to Russia's long war on its grid",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Kyiv's refinery strikes plus Hormuz created the diesel shortage that later made Russian diesel a bargaining chip for Washington.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine",
+   "global-oil"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "unplaced": "Strikes on many refineries across Russia; no single site.",
+  "related_stories": [
+   "2022-10-10-energy-strikes",
+   "2026-09-22-zelensky-trump-unga",
+   "diesel-deal",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "iea-diesel-release",
+   "trump-waives-russia-sanctions"
+  ]
+ },
+ {
+  "id": "2026-08-17-mou-expires",
+  "date": "2026-08-17",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "US–Iran memorandum expires with no final deal",
+  "summary": "The 60-day window for a final US–Iran deal closed on Aug 17. Diplomacy stalled. Two days later Trump announced an 'Economic D-Day' sanctions drive, and Israeli forces stayed in southern Lebanon (about 5% of Lebanese territory, per CRS).",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iran",
+   "israel",
+   "lebanon"
+  ],
+  "causes": [
+   {
+    "story": "2026-07-08-mou-collapses",
+    "why": "Deal already broken in July",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "iran-war-hormuz",
+   "levant-wars"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "A deadline lapse; no site.",
+  "related_stories": [
+   "2026-07-08-mou-collapses",
+   "2026-09-26-trump-rejects-iran-plan",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "2022-03-27-negev-summit",
+   "2022-10-11-israel-lebanon",
+   "2026-02-28-iran-war-begins",
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-06-17-islamabad-mou"
+  ]
+ },
+ {
+  "id": "2026-08-20-sdf-integration",
+  "date": "2026-08-20",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Syria's Kurdish-led SDF merges into the army and dissolves; US delists Syria",
+  "summary": "SDF leader Mazloum Abdi said integration with Damascus was complete on Aug 20, and the SDF formally dissolved on Aug 25, after a January government offensive took much of its territory. On Aug 24 the US removed Syria from its state sponsors of terrorism list and delisted HTS.",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/live-news/20260820-syrian-kurds-announce-completion-of-civil-military-integration-with-damascus"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/syrias-kurdish-led-sdf-dissolves-part-integration-with-damascus-2026-08-25/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/syrian-democratic-forces-dissolution-mazloum-abdi-1b7d210c96d2c608007b0411db25f453"
+   },
+   {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger"
+   }
+  ],
+  "entities": [
+   "syria",
+   "sdf",
+   "ahmed-al-sharaa",
+   "united-states"
+  ],
+  "causes": [],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Damascus is consolidating with Washington's blessing, closing a front Turkey cared about and opening Syria to Gulf investment.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "levant-wars"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A political merger; no single site.",
+  "related_stories": []
+ },
+ {
+  "id": "2026-09-10-houthis-seize-mokha",
+  "date": "2026-09-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Houthis seize Mokha and tighten their grip on Bab el-Mandeb",
+  "summary": "During a September ground offensive the Houthis took the Red Sea port of Mokha and coastal areas next to the Bab el-Mandeb, and The National reported they seized a key island in the strait. CRS says they closed the strait to Saudi-linked shipping. The National reported traffic through the strait halved, to about 15 crossings a day from 30.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port"
+   },
+   {
+    "name": "The National",
+    "url": "https://www.thenationalnews.com/business/energy/2026/09/12/ship-traffic-in-bab-al-mandeb-strait-halves-as-houthis-seize-control-of-key-island/"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "yemen",
+   "mokha",
+   "bab-el-mandeb",
+   "red-sea",
+   "presidential-leadership-council"
+  ],
+  "causes": [
+   {
+    "story": "2026-07-20-houthi-saudi-blockade",
+    "why": "Escalation from naval blockade to ground offensive",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "yemen-houthis-saudi",
+   "global-oil"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "unplaced": "Mokha has no coordinates in the place list yet.",
+  "related_stories": [
+   "2026-07-20-houthi-saudi-blockade",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-04-02-yemen-truce",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace"
+  ]
+ },
+ {
+  "id": "2026-09-10-east-west-pipeline-attack",
+  "date": "2026-09-10",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Drones from Iraq hit Saudi Arabia's East-West pipeline; flows halted",
+  "summary": "Drones launched from Iraq struck sections of the East-West pipeline, which carries crude to Yanbu on the Red Sea, in the Riyadh and Medina areas. Saudi Arabia shut it as a precaution. Saudi Arabia attributed the attack to Iraq-based groups and held off retaliating; Iraq dismissed a security commander and ordered an investigation.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/energy/saudi-east-west-oil-pipeline-was-temporarily-shut-down-after-attacks-state-media-2026-09-11/"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/c62m933465eo"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq"
+   },
+   {
+    "name": "Saudi Press Agency",
+    "url": "https://www.spa.gov.sa/en/w2674017"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "saudi-arabia",
+   "aramco",
+   "iraq",
+   "iran",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "2026-07-08-mou-collapses",
+    "why": "Renewed war widened attacks on Gulf energy",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Hitting the Hormuz bypass shows Iran's network can threaten both Gulf exits at once.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-proxy-network",
+   "global-oil",
+   "gulf-realignment"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "strike",
+  "unplaced": "Sources name only the Riyadh and Medina areas, not exact sites.",
+  "related_stories": [
+   "2026-07-08-mou-collapses",
+   "2026-09-30-us-leaves-iraq",
+   "hormuz-attacks-surge",
+   "houthis-hit-aramco",
+   "2022-03-25-jeddah-attack",
+   "houthis-saudi-oct15",
+   "yanbu-missile-intercepted"
+  ]
+ },
+ {
+  "id": "2026-09-16-fed-hikes",
+  "date": "2026-09-16",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Americas",
+  "title": "Warsh's Fed raises rates for the first time in three years",
+  "summary": "The Fed raised its target range by a quarter point to 3.75%–4.00%, its first hike in three years, defying Trump. Warsh said price stability remained the priority.",
+  "sources": [
+   {
+    "name": "Federal Reserve statement",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "kevin-warsh",
+   "inflation",
+   "united-states",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2026-05-13-warsh-confirmed",
+    "why": "New chair",
+    "confidence": "likely"
+   },
+   {
+    "story": "2026-07-08-mou-collapses",
+    "why": "Oil shock kept inflation hot",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "central-banks-rates"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A policy decision; no site.",
+  "related_stories": [
+   "2026-05-13-warsh-confirmed",
+   "2026-07-08-mou-collapses",
+   "2022-03-16-fed-hike",
+   "2022-06-15-fed-75",
+   "coreweave-ai-credit-shock",
+   "tech-selloff-worst-week"
+  ]
+ },
+ {
+  "id": "2026-09-18-graham-act-signed",
+  "date": "2026-09-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Americas",
+  "title": "Trump signs the Russia and Iran sanctions act",
+  "summary": "Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act. It authorised tariffs of up to 500% on Russian goods and up to 100% on the top five buyers of Russian crude or gas, due to take effect Oct 18. The Kremlin said new sanctions would make a peace deal harder.",
+  "sources": [
+   {
+    "name": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-says-new-us-sanctions-if-signed-by-trump-would-make-ukraine-peace-deal-2026-09-17/"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "russia",
+   "iran",
+   "india",
+   "china",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2022-03-08-us-oil-ban",
+    "why": "Escalates the sanctions regime begun in 2022",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "russia-ukraine",
+   "us-tariffs-trade"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "political",
+  "unplaced": "A bill signing; no event site.",
+  "related_stories": [
+   "2022-03-08-us-oil-ban",
+   "us-iran-talks-deadlock",
+   "diesel-deal",
+   "venezuela-oil",
+   "2022-05-23-ipef",
+   "gfs-pride-sunk",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "us-weighs-shadow-fleet-relief",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "trump-waives-russia-sanctions",
+   "2026-01-06-us-venezuela-oil-deal",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-05-new-start-expires",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-02-20-scotus-ieepa",
+   "2026-02-28-iran-war-begins",
+   "2026-05-14-trump-xi-beijing",
+   "2026-09-22-zelensky-trump-unga",
+   "2026-09-26-trump-rejects-iran-plan"
+  ]
+ },
+ {
+  "id": "2026-09-18-greenland-deal",
+  "date": "2026-09-18",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Europe",
+  "title": "US, Denmark and Greenland agree an expanded US military presence",
+  "summary": "The three governments agreed to expand the permanent US military presence in Greenland while recognising Danish sovereignty and Greenlandic self-determination. The text, signed Sep 22, gives the US new defence areas and bars non-NATO states from persistent bases.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-us-denmark-greenland-entered-into-agreement-us-control-over-security-2026-09-18/"
+   },
+   {
+    "name": "Danish PM's Office",
+    "url": "https://english.stm.dk/press/press-releases/agreement-between-greenland-denmark-and-the-united-states/"
+   },
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/trump-greenland-military-denmark-4cf77cb4608b685a70410bd679479193"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "denmark",
+   "greenland",
+   "nato"
+  ],
+  "causes": [
+   {
+    "story": "2026-01-21-greenland-davos",
+    "why": "Davos 'framework' turned into a treaty",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "transatlantic-rift"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Negotiated agreement; no single site.",
+  "related_stories": [
+   "2026-01-21-greenland-davos"
+  ]
+ },
+ {
+  "id": "2026-09-22-zelensky-trump-unga",
+  "date": "2026-09-22",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Russia/Eurasia",
+  "title": "Zelenskyy tells Trump at the UN that Ukraine is ready for an energy ceasefire",
+  "summary": "Meeting Trump at the UN General Assembly, Zelenskyy said Ukraine supported a full halt to strikes on energy infrastructure, including refineries, if Russia did the same.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/ukraines-zelenskiy-says-he-discussed-peace-efforts-energy-ceasefire-with-trump-2026-09-22/"
+   },
+   {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/zelensky-meets-trump-at-un-amid-push-for-russia-ukraine-energy-truce/"
+   }
+  ],
+  "entities": [
+   "ukraine",
+   "volodymyr-zelenskyy",
+   "united-states",
+   "donald-trump",
+   "russia"
+  ],
+  "causes": [
+   {
+    "story": "2026-08-13-russian-diesel-lows",
+    "why": "Refinery strikes were Kyiv's bargaining chip",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "russia-ukraine"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Meeting at the UN in New York; no place entity yet.",
+  "related_stories": [
+   "2026-08-13-russian-diesel-lows",
+   "energy-ceasefire",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-24-invasion",
+   "2022-06-23-himars",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "trump-waives-russia-sanctions",
+   "russia-grid-strikes-oct16",
+   "2026-09-18-graham-act-signed"
+  ]
+ },
+ {
+  "id": "2026-09-23-tplf-offensive",
+  "date": "2026-09-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Africa",
+  "title": "Tigray's leaders declare a 'defensive war' as TPLF forces attack",
+  "summary": "Tigray's regional government said it had entered a defensive war after reported federal drone and artillery strikes. TPLF forces took Tigray's main airports and attacked federal positions in Afar and Amhara as part of a seven-group alliance against Abiy Ahmed. Ethiopian Airlines suspended flights to three Tigray airports.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ethiopias-tigray-region-government-announces-it-has-entered-defensive-war-2026-09-23/"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
+   },
+   {
+    "name": "Al Jazeera (alliance)",
+    "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed"
+   },
+   {
+    "name": "Reuters (allies)",
+    "url": "https://www.reuters.com/world/africa/flush-with-allies-tigrays-leaders-face-internal-discord-new-ethiopia-war-2026-09-24/"
+   }
+  ],
+  "entities": [
+   "tplf",
+   "ethiopia",
+   "abiy-ahmed",
+   "eritrea"
+  ],
+  "causes": [
+   {
+    "story": "2026-01-29-tigray-clashes",
+    "why": "January clashes were the prelude",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Eritrea is widely believed to back the TPLF, which Asmara denies. That turns an Ethiopian civil war into an Ethiopia–Eritrea contest over Red Sea access.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "horn-of-africa-tigray"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "unplaced": "Attacks across Tigray, Afar and Amhara; no single site.",
+  "related_stories": [
+   "2026-01-29-tigray-clashes",
+   "ethiopia-tigray-advance"
+  ]
+ },
+ {
+  "id": "2026-09-23-us-china-fragile-truce",
+  "date": "2026-09-23",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Asia-Pacific",
+  "title": "Soybeans, planes and rare earths: the US–China truce looks fragile",
+  "summary": "CNBC reported that China's farm purchases under the May truce were uneven and that the deal's rare-earth and aircraft pieces remained fragile ahead of the Nov 10 expiry of China's suspension of its rare-earth controls.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "china",
+   "rare-earths"
+  ],
+  "causes": [
+   {
+    "story": "2026-05-14-trump-xi-beijing",
+    "why": "Implementation of the May deals",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "us-tariffs-trade",
+   "china-minerals-leverage"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "Trade trend; no site.",
+  "related_stories": [
+   "2026-05-14-trump-xi-beijing",
+   "rare-earth-nov10",
+   "ai-minerals",
+   "2022-06-14-msp",
+   "pla-patrol-oct14-15",
+   "eu-china-rare-earth-green-channel"
+  ]
+ },
+ {
+  "id": "2026-09-26-trump-rejects-iran-plan",
+  "date": "2026-09-26",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Trump rejects Iran's seven-day plan to reopen Hormuz",
+  "summary": "Iran offered to reopen the strait within seven days if the US ended its blockade, released frozen assets and waived oil sanctions. Trump said the offer 'would not be acceptable' and that Iran wanted a deal because it was 'losing so badly'. CRS had reported in mid-September that the two sides were again trading limited strikes amid a redoubled US sanctions campaign.",
+  "sources": [
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cqgmrr9ekr7ko"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893"
+   },
+   {
+    "name": "Congressional Research Service",
+    "url": "https://www.congress.gov/crs-product/R48887"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iran",
+   "strait-of-hormuz",
+   "donald-trump"
+  ],
+  "causes": [
+   {
+    "story": "2026-08-17-mou-expires",
+    "why": "No deal after the window closed",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "storylines": [
+   "iran-war-hormuz"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "diplomacy",
+  "unplaced": "A statement; no site.",
+  "related_stories": [
+   "2026-08-17-mou-expires",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed"
+  ]
+ },
+ {
+  "id": "2026-09-30-us-leaves-iraq",
+  "date": "2026-09-30",
+  "date_precision": "day",
+  "kind": "backfill",
+  "edition": "2026-09-30",
+  "region": "Middle East",
+  "title": "Last US troops leave Iraq",
+  "summary": "The US completed its withdrawal from Iraq, pulling its last troops from an air base in the Erbil area. Iran-backed militias celebrated, and Kurdish officials warned of a security vacuum.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/iraq-us-withdrawal-militias-disarmament-kurds-a097a39f3d1a3515adc2ba3298a6816f"
+   },
+   {
+    "name": "NPR",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete"
+   },
+   {
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com/world/middle-east/us-pulls-last-troops-iraq-kurdish-concerns-fears-iran-influence-rcna600639"
+   }
+  ],
+  "entities": [
+   "united-states",
+   "iraq",
+   "kataib-hezbollah",
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "2022-10-27-sudani-govt",
+    "why": "Iran-aligned blocs have run Iraq's government since 2022",
+    "confidence": "possible"
+   },
+   {
+    "story": "2026-09-10-east-west-pipeline-attack",
+    "why": "Attacks from Iraqi soil raised the cost of staying",
+    "confidence": "speculative"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-09-30",
+  "analysis": {
+   "text": "Iran's allies get Iraq to themselves. The open question is whether the militias stand down or turn on the Kurds and the Gulf.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-proxy-network"
+  ],
+  "era": "2026 (Iran war year)",
+  "marker": "military",
+  "where": [
+   "erbil"
+  ],
+  "related_stories": [
+   "2022-10-27-sudani-govt",
+   "2026-09-10-east-west-pipeline-attack",
+   "kataib-hezbollah-halt",
+   "2021-10-10-iraq-election",
+   "2021-11-07-kadhimi-drone",
+   "2022-08-29-baghdad-clashes"
+  ]
  }
 ]

@@ -3519,6 +3519,821 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-09-30": {
+   "sha256": "5002d3b1d726044034d89d00a422b53da65771392ae937ad4a5f69c9786c90af",
+   "undo": {
+    "stories": {
+     "2026-07-08-mou-collapses": null,
+     "2026-07-08-nato-ankara": null,
+     "2026-07-20-houthi-saudi-blockade": null,
+     "2026-07-23-scarborough-water-cannon": null,
+     "2026-08-07-mecca-pact": null,
+     "2026-08-13-russian-diesel-lows": null,
+     "2026-08-17-mou-expires": null,
+     "2026-08-20-sdf-integration": null,
+     "2026-09-10-houthis-seize-mokha": null,
+     "2026-09-10-east-west-pipeline-attack": null,
+     "2026-09-16-fed-hikes": null,
+     "2026-09-18-graham-act-signed": null,
+     "2026-09-18-greenland-deal": null,
+     "2026-09-22-zelensky-trump-unga": null,
+     "2026-09-23-tplf-offensive": null,
+     "2026-09-23-us-china-fragile-truce": null,
+     "2026-09-26-trump-rejects-iran-plan": null,
+     "2026-09-30-us-leaves-iraq": null,
+     "2026-06-17-islamabad-mou": {
+      "id": "2026-06-17-islamabad-mou",
+      "date": "2026-06-17",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "US and Iran sign the Islamabad Memorandum: blockade lifted, Hormuz reopened for 60 days",
+      "summary": "Trump and President Masoud Pezeshkian signed a memorandum ending military operations 'on all fronts, including in Lebanon'. The US lifted its blockade and issued oil waivers, and Iran agreed to free passage through Hormuz for 60 days while a final deal was negotiated. A separate US-brokered Israel–Lebanon 'Trilateral Framework' linked any Israeli pullback to verified disarmament of armed groups.",
+      "sources": [
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/R48887"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "pakistan",
+       "masoud-pezeshkian",
+       "strait-of-hormuz",
+       "israel"
+      ],
+      "causes": [
+       {
+        "story": "2026-04-13-us-blockade-iran",
+        "why": "Blockade pressure pushed both sides to a deal",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "unplaced": "The sources do not say where it was signed.",
+      "related_stories": [
+       "2026-04-13-us-blockade-iran",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-02-28-iran-war-begins",
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-04-08-israel-strikes-lebanon"
+      ]
+     },
+     "2026-04-13-us-blockade-iran": {
+      "id": "2026-04-13-us-blockade-iran",
+      "date": "2026-04-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "US imposes a naval blockade on Iranian ports",
+      "summary": "After the Islamabad talks failed, the US blockaded all shipping to and from Iranian ports from Apr 13. The ceasefire largely held. A US effort in May to escort ships out of the strait ('Project Freedom') was paused after two days, reportedly because Saudi Arabia refused the use of its airspace.",
+      "sources": [
+       {
+        "name": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/R48887"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "strait-of-hormuz",
+       "persian-gulf",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "2026-04-07-iran-ceasefire-islamabad",
+        "why": "Talks failed",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Both sides now claimed to control the strait, Washington by blockade and Tehran by force. CRS says that dispute is what wrecked the June deal.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "unplaced": "Enforced at sea around Iran's ports; no single site.",
+      "related_stories": [
+       "2026-04-07-iran-ceasefire-islamabad",
+       "2026-06-17-islamabad-mou",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "venezuela-oil",
+       "gfs-pride-sunk",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike"
+      ]
+     },
+     "2026-01-21-greenland-davos": {
+      "id": "2026-01-21-greenland-davos",
+      "date": "2026-01-21",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Europe",
+      "title": "Trump drops Greenland tariff threat after European troops deploy",
+      "summary": "Trump had threatened 10% tariffs, rising to 25% in June, on eight European countries that joined Denmark's Operation Arctic Endurance in Greenland. At Davos on Jan 21 he dropped the tariffs, said he would not use force, and announced a 'framework' on Arctic security after talks with NATO's Mark Rutte. Denmark and Greenland rejected any transfer of sovereignty.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/davos/determined-seize-greenland-trump-faces-tough-reception-davos-2026-01-21/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/22/trumps-greenland-framework-deal-what-we-know-about-it-what-we-dont"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/greenland-denmark-us-trump-eu-tariffs-4e63efa690604004c69fc89a7c14e7c2"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "donald-trump",
+       "greenland",
+       "denmark",
+       "nato",
+       "european-union",
+       "mark-rutte"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "analysis": {
+       "text": "Allies learned that collective pushback works, and also that Washington will use tariffs against NATO members. Both lessons pushed Europe to hedge, including with the India trade deal days later.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "transatlantic-rift"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "where": [
+       "davos"
+      ],
+      "related_stories": [
+       "2026-01-27-india-eu-fta",
+       "trump-disgrace-eu-summit"
+      ]
+     },
+     "2022-06-29-madrid": {
+      "id": "2022-06-29-madrid",
+      "date": "2022-06-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Europe",
+      "title": "NATO's Madrid summit names Russia the main threat and China a challenge",
+      "summary": "NATO's new Strategic Concept called Russia the most significant and direct threat and said China poses systemic challenges. Turkey dropped its block on Finland and Sweden.",
+      "sources": [
+       {
+        "name": "Wikipedia: 2022 Madrid summit",
+        "url": "https://en.wikipedia.org/wiki/2022_Madrid_summit"
+       }
+      ],
+      "entities": [
+       "nato",
+       "russia",
+       "china",
+       "turkey",
+       "finland",
+       "sweden"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-05-18-finland-sweden",
+        "why": "Accession deal reached",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-02-04-no-limits",
+        "why": "Sino-Russian alignment entered NATO doctrine",
+        "confidence": "possible"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-02-04-no-limits",
+       "2022-05-18-finland-sweden"
+      ]
+     },
+     "2022-10-02-truce-expires": {
+      "id": "2022-10-02-truce-expires",
+      "date": "2022-10-02",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Yemen truce expires without renewal",
+      "summary": "The UN truce lapsed after six months when parties failed to agree an expansion; in practice large-scale fighting stayed limited.",
+      "sources": [
+       {
+        "name": "Reuters (truce)",
+        "url": "https://www.reuters.com/world/middle-east/yemens-warring-parties-agree-two-month-ceasefire-says-un-envoy-2022-04-01/"
+       },
+       {
+        "name": "Wikipedia: Houthi–Saudi conflict",
+        "url": "https://en.wikipedia.org/wiki/Houthi–Saudi_conflict"
+       }
+      ],
+      "entities": [
+       "yemen",
+       "houthis",
+       "saudi-arabia"
+      ],
+      "storylines": [
+       "yemen-houthis-saudi"
+      ],
+      "causes": [
+       {
+        "story": "2022-04-02-yemen-truce",
+        "why": "End of the truce period",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "houthis-hit-aramco",
+        "why": "De-escalation of 2022 never became a settlement",
+        "confidence": "possible"
+       }
+      ],
+      "related_stories": [
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha"
+      ],
+      "marker": "diplomacy",
+      "unplaced": "The truce covered Yemen. The summary names no town."
+     },
+     "2026-04-15-scarborough-blocked": {
+      "id": "2026-04-15-scarborough-blocked",
+      "date": "2026-04-15",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Asia-Pacific",
+      "title": "China moves to block the entrance to Scarborough Shoal",
+      "summary": "Satellite images showed China moving to block the entrance to Scarborough Shoal, which the Philippines also claims. Beijing later proposed a national nature reserve at the shoal, which the US said in August was an effort to claim the South China Sea.",
+      "sources": [
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-moves-block-entrance-disputed-south-china-sea-shoal-images-show-2026-04-15/"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea"
+       }
+      ],
+      "entities": [
+       "china",
+       "philippines",
+       "united-states"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "where": [
+       "scarborough-shoal"
+      ],
+      "related_stories": []
+     },
+     "2026-04-07-iran-ceasefire-islamabad": {
+      "id": "2026-04-07-iran-ceasefire-islamabad",
+      "date": "2026-04-07",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Middle East",
+      "title": "Pakistan brokers a US–Iran ceasefire; Islamabad talks end without a deal",
+      "summary": "Trump agreed to a two-week ceasefire conditional on Iran fully reopening Hormuz. Days later, Vice President JD Vance led talks with Iranian officials in Islamabad, which ended without a broader deal. Trump extended the ceasefire indefinitely on Apr 21, with Pakistan, Qatar and others continuing to mediate.",
+      "sources": [
+       {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/04/07/iran-2-week-ceasfire-trump-pakistan"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/us-iran-leave-door-open-dialogue-after-tense-islamabad-talks-2026-04-13/"
+       },
+       {
+        "name": "AP (extension)",
+        "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "iran",
+       "pakistan"
+      ],
+      "causes": [
+       {
+        "story": "2026-03-13-kharg-strike",
+        "why": "Pressure on Iran's oil hub preceded the ceasefire",
+        "confidence": "possible"
+       },
+       {
+        "story": "2026-02-28-iran-war-begins",
+        "why": "Six weeks of war",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Pakistan gained standing in Washington and the Gulf as the indispensable mediator while at war with Afghanistan, a role that later helped it into the Saudi defence pact.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "pakistan-afghanistan-war"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "where": [
+       "islamabad"
+      ],
+      "related_stories": [
+       "2026-03-13-kharg-strike",
+       "2026-02-28-iran-war-begins",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou"
+      ]
+     },
+     "2022-10-10-energy-strikes": {
+      "id": "2022-10-10-energy-strikes",
+      "date": "2022-10-10",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Russia/Eurasia",
+      "title": "Russia launches mass missile strikes on Ukraine's power grid",
+      "summary": "Starting 10 October, Russia hit Ukrainian cities and energy infrastructure, beginning a winter campaign against the grid.",
+      "sources": [
+       {
+        "name": "Wikipedia: Russian strikes against Ukrainian infrastructure",
+        "url": "https://en.wikipedia.org/wiki/Russian_strikes_against_Ukrainian_infrastructure"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "kyiv",
+       "lviv",
+       "ternopil",
+       "zhytomyr",
+       "dnipro",
+       "kremenchuk",
+       "zaporizhzhia",
+       "kharkiv"
+      ],
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-10-08-crimea-bridge",
+        "why": "Moscow called the strikes retaliation for the bridge",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "energy-ceasefire",
+        "why": "Energy-strike war began in October 2022",
+        "confidence": "likely"
+       },
+       {
+        "story": "2022-10-iran-drones-russia",
+        "why": "Part of the energy-strike campaign",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2022-10-08-crimea-bridge",
+       "2022-10-iran-drones-russia",
+       "energy-ceasefire"
+      ],
+      "marker": "energy",
+      "where": [
+       "kyiv",
+       "lviv",
+       "ternopil",
+       "zhytomyr",
+       "dnipro",
+       "kremenchuk",
+       "zaporizhzhia",
+       "kharkiv"
+      ]
+     },
+     "2026-05-13-warsh-confirmed": {
+      "id": "2026-05-13-warsh-confirmed",
+      "date": "2026-05-13",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Americas",
+      "title": "Senate confirms Kevin Warsh as Fed chair as inflation climbs",
+      "summary": "The Senate confirmed Kevin Warsh as Federal Reserve chair by 54–45, largely along party lines, as inflation picked up.",
+      "sources": [
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/fed-warsh-senate-confirmation-b665712fa5d40d3fcea53d80d0a79c64"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/"
+       },
+       {
+        "name": "US Senate roll call",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00120.htm"
+       }
+      ],
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "united-states",
+       "inflation"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-28-iran-war-begins",
+        "why": "War-driven energy inflation framed the new chair's task",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "storylines": [
+       "central-banks-rates"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "political",
+      "unplaced": "A Senate vote; no event site.",
+      "related_stories": [
+       "2026-02-28-iran-war-begins",
+       "2022-03-16-fed-hike",
+       "2022-06-15-fed-75",
+       "coreweave-ai-credit-shock",
+       "tech-selloff-worst-week"
+      ]
+     },
+     "2022-03-08-us-oil-ban": {
+      "id": "2022-03-08-us-oil-ban",
+      "date": "2022-03-08",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Americas",
+      "title": "US bans imports of Russian oil and gas",
+      "summary": "President Biden banned US imports of Russian oil, LNG and coal.",
+      "sources": [
+       {
+        "name": "Wikipedia: International sanctions during the Russo-Ukrainian War",
+        "url": "https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "russia",
+       "petroleum",
+       "joe-biden"
+      ],
+      "storylines": [
+       "global-oil",
+       "russia-ukraine"
+      ],
+      "causes": [
+       {
+        "story": "2022-02-24-invasion",
+        "why": "Sanctions escalation",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [],
+      "related_stories": [
+       "2022-02-24-invasion",
+       "2022-03-31-spr-release",
+       "2022-07-15-biden-saudi",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "diesel-deal",
+       "venezuela-oil"
+      ]
+     },
+     "2026-01-29-tigray-clashes": {
+      "id": "2026-01-29-tigray-clashes",
+      "date": "2026-01-29",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-03-31",
+      "region": "Africa",
+      "title": "Clashes erupt in Tigray; Ethiopian Airlines halts flights",
+      "summary": "Fighting broke out between Ethiopian federal troops and Tigrayan forces in western Tigray. Ethiopian Airlines cancelled flights to the region as fears grew of a return to war.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/1/29/clashes-between-government-troops-and-tigrayan-forces-erupt-in-ethiopia"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/africa/ethiopian-airlines-cancels-flights-tigray-region-after-clashes-2026-01-29/"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cn40r3v770lo"
+       },
+       {
+        "name": "Addis Standard",
+        "url": "https://addisstandard.com/tigray-interim-administration-urges-restoration-of-basic-services-amid-renewed-tensions/"
+       }
+      ],
+      "entities": [
+       "ethiopia",
+       "tplf"
+      ],
+      "causes": [],
+      "effects": [],
+      "batch": "inbox-2026-03-31",
+      "storylines": [
+       "horn-of-africa-tigray"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "military",
+      "unplaced": "Western Tigray fighting; the sources name no town we can pin.",
+      "related_stories": []
+     },
+     "2026-05-14-trump-xi-beijing": {
+      "id": "2026-05-14-trump-xi-beijing",
+      "date": "2026-05-14",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2026-06-30",
+      "region": "Asia-Pacific",
+      "title": "Trump–Xi Beijing summit: farm buys, Boeing jets, rare-earth access; H200 sales cleared",
+      "summary": "At a May 14–15 summit in Beijing, the White House said China committed to buy at least $17 billion a year of US farm goods through 2028 and 200 Boeing aircraft, and to improve rare-earth access. Reuters reported the US cleared Nvidia H200 sales to about 10 Chinese firms. Trump later said China had not bought the H200s.",
+      "sources": [
+       {
+        "name": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+       },
+       {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+       },
+       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/"
+       },
+       {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/livecoverage/iran-us-china-news-2026/card/china-hasn-t-bought-nvidia-s-h200-chips-trump-says-gpzR19U84duc9kNmz7i1"
+       }
+      ],
+      "entities": [
+       "united-states",
+       "china",
+       "donald-trump",
+       "xi-jinping",
+       "rare-earths",
+       "nvidia",
+       "semiconductors"
+      ],
+      "causes": [
+       {
+        "story": "2026-02-20-scotus-ieepa",
+        "why": "Losing IEEPA tariffs pushed Washington toward a negotiated truce",
+        "confidence": "possible"
+       },
+       {
+        "story": "2022-10-07-bis-controls",
+        "why": "Chip controls are the main US bargaining chip",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-06-30",
+      "analysis": {
+       "text": "Beijing traded purchases for time and kept its real lever, rare-earth licensing, in place with a Nov 10 expiry. Refusing H200s signals it is betting on domestic chips.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "us-tariffs-trade",
+       "china-minerals-leverage",
+       "ai-compute-minerals"
+      ],
+      "era": "2026 (Iran war year)",
+      "marker": "diplomacy",
+      "where": [
+       "beijing"
+      ],
+      "related_stories": [
+       "2026-02-20-scotus-ieepa",
+       "2022-10-07-bis-controls",
+       "rare-earth-nov10",
+       "ai-minerals",
+       "2022-06-14-msp",
+       "2022-08-09-chips-act",
+       "2022-08-31-nvidia-ban",
+       "pla-patrol-oct14-15",
+       "coreweave-ai-credit-shock",
+       "trump-waives-russia-sanctions",
+       "eu-china-rare-earth-green-channel"
+      ]
+     },
+     "2022-10-27-sudani-govt": {
+      "id": "2022-10-27-sudani-govt",
+      "date": "2022-10-27",
+      "date_precision": "day",
+      "kind": "backfill",
+      "era": "2021-22 (pre-war to Ukraine war year 1)",
+      "region": "Middle East",
+      "title": "Iraq forms a government backed by Iran-aligned blocs",
+      "summary": "Mohammed Shia al-Sudani's cabinet won confidence, backed by the Coordination Framework after the Sadrists left parliament.",
+      "sources": [
+       {
+        "name": "Wikipedia: Mohammed Shia' Al Sudani",
+        "url": "https://en.wikipedia.org/wiki/Mohammed_Shia'_Al_Sudani"
+       }
+      ],
+      "entities": [
+       "iraq",
+       "iran",
+       "kataib-hezbollah",
+       "muqtada-al-sadr"
+      ],
+      "storylines": [
+       "iran-proxy-network"
+      ],
+      "causes": [
+       {
+        "story": "2022-08-29-baghdad-clashes",
+        "why": "Sadr's exit opened the way",
+        "confidence": "likely"
+       }
+      ],
+      "batch": "backfill-2021-22",
+      "effects": [
+       {
+        "story": "kataib-hezbollah-halt",
+        "why": "Iran-aligned blocs gained control of Iraqi government in 2022",
+        "confidence": "likely"
+       }
+      ],
+      "related_stories": [
+       "2021-10-10-iraq-election",
+       "2021-11-07-kadhimi-drone",
+       "2022-08-29-baghdad-clashes",
+       "kataib-hezbollah-halt"
+      ]
+     }
+    },
+    "zones": {},
+    "links": {},
+    "relationships": {},
+    "storylines": {
+     "us-tariffs-trade": {
+      "id": "us-tariffs-trade",
+      "name": "US tariffs & the trade realignment",
+      "entities": [
+       "united-states",
+       "china",
+       "india",
+       "european-union",
+       "us-supreme-court"
+      ],
+      "stories": [
+       "2026-01-27-india-eu-fta",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing"
+      ],
+      "source": "inbox"
+     },
+     "central-banks-rates": {
+      "id": "central-banks-rates",
+      "name": "Inflation, rates & the Fed",
+      "entities": [
+       "federal-reserve",
+       "kevin-warsh",
+       "inflation",
+       "united-states"
+      ],
+      "stories": [
+       "2026-03-17-hyperscaler-ai-debt",
+       "2026-05-13-warsh-confirmed"
+      ],
+      "source": "inbox"
+     },
+     "levant-wars": {
+      "id": "levant-wars",
+      "name": "Levant: Lebanon, Gaza & Syria after the wars",
+      "entities": [
+       "israel",
+       "hezbollah",
+       "lebanon",
+       "hamas",
+       "syria"
+      ],
+      "stories": [
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon"
+      ],
+      "source": "inbox"
+     },
+     "transatlantic-rift": {
+      "id": "transatlantic-rift",
+      "name": "Transatlantic rift & Europe's realignment",
+      "entities": [
+       "united-states",
+       "european-union",
+       "nato",
+       "greenland",
+       "denmark",
+       "hungary",
+       "united-kingdom"
+      ],
+      "stories": [
+       "2026-01-21-greenland-davos",
+       "2026-04-12-orban-ousted",
+       "2026-04-23-eu-90bn-loan",
+       "2026-06-22-starmer-resigns"
+      ],
+      "source": "inbox"
+     },
+     "gulf-realignment": {
+      "id": "gulf-realignment",
+      "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+      "entities": [
+       "saudi-arabia",
+       "uae",
+       "pakistan",
+       "turkey",
+       "opec"
+      ],
+      "stories": [
+       "2026-01-09-stc-dissolution",
+       "2026-04-28-uae-quits-opec"
+      ],
+      "source": "inbox"
+     }
+    },
+    "entities": {},
+    "entities_added": [],
+    "date_saved": false,
+    "hotzones_date": null
+   }
   }
  }
 }
