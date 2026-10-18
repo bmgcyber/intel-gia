@@ -1,0 +1,889 @@
+{
+ "edition": "2026-06-30",
+ "stories": [
+  {
+   "id": "2026-04-07-iran-ceasefire-islamabad",
+   "date": "2026-04-07",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Middle East",
+   "title": "Pakistan brokers a US–Iran ceasefire; Islamabad talks end without a deal",
+   "summary": "Trump agreed to a two-week ceasefire conditional on Iran fully reopening Hormuz. Days later, Vice President JD Vance led talks with Iranian officials in Islamabad, which ended without a broader deal. Trump extended the ceasefire indefinitely on Apr 21, with Pakistan, Qatar and others continuing to mediate.",
+   "sources": [
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2026/04/07/iran-2-week-ceasfire-trump-pakistan"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/us-iran-leave-door-open-dialogue-after-tense-islamabad-talks-2026-04-13/"
+    },
+    {
+     "name": "AP (extension)",
+     "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iran",
+    "pakistan"
+   ],
+   "storylines": [
+    "iran-war-hormuz",
+    "pakistan-afghanistan-war"
+   ],
+   "causes": [
+    {
+     "story": "2026-03-13-kharg-strike",
+     "why": "Pressure on Iran's oil hub preceded the ceasefire",
+     "confidence": "possible"
+    },
+    {
+     "story": "2026-02-28-iran-war-begins",
+     "why": "Six weeks of war",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Pakistan gained standing in Washington and the Gulf as the indispensable mediator while at war with Afghanistan, a role that later helped it into the Saudi defence pact.",
+    "confidence": "possible"
+   },
+   "where": [
+    "islamabad"
+   ]
+  },
+  {
+   "id": "2026-04-08-israel-strikes-lebanon",
+   "date": "2026-04-08",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Middle East",
+   "title": "Israel's heaviest Lebanon strikes stall the Hormuz reopening",
+   "summary": "A day into the US–Iran ceasefire, Israel launched its largest strikes of the war on Hezbollah across Lebanon, including Beirut. Some ships had begun to transit Hormuz, but CRS reports that Iran halted traffic in response to the Israeli attacks in Lebanon.",
+   "sources": [
+    {
+     "name": "Congressional Research Service",
+     "url": "https://www.congress.gov/crs-product/R48887"
+    },
+    {
+     "name": "Wikipedia: Timeline of the Israel–Hezbollah conflict (2 March 2026 – present)",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Israel%E2%80%93Hezbollah_conflict_(2_March_2026_%E2%80%93_present)"
+    }
+   ],
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "iran",
+    "strait-of-hormuz"
+   ],
+   "storylines": [
+    "levant-wars",
+    "iran-war-hormuz"
+   ],
+   "causes": [
+    {
+     "story": "2026-03-02-hezbollah-joins-war",
+     "why": "Continuing Lebanon front",
+     "confidence": "likely"
+    },
+    {
+     "story": "2026-04-07-iran-ceasefire-islamabad",
+     "why": "Lebanon was left out of the ceasefire in practice",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "strike",
+   "where": [
+    "beirut"
+   ]
+  },
+  {
+   "id": "2026-04-12-orban-ousted",
+   "date": "2026-04-12",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Europe",
+   "title": "Orbán ousted after 16 years as Magyar's Tisza wins a landslide",
+   "summary": "Péter Magyar's pro-EU Tisza party won a two-thirds majority in Hungary's election, ending Viktor Orbán's 16-year rule. Magyar promised a democratic reset with an eye on frozen EU funds.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/"
+    },
+    {
+     "name": "Reuters (Magyar)",
+     "url": "https://www.reuters.com/world/europe/hungarians-look-changed-future-after-pro-eu-magyars-election-landslide-2026-04-13/"
+    }
+   ],
+   "entities": [
+    "hungary",
+    "viktor-orban",
+    "peter-magyar",
+    "european-union"
+   ],
+   "storylines": [
+    "transatlantic-rift",
+    "russia-ukraine"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "Moscow lost its most reliable veto inside the EU and NATO.",
+    "confidence": "likely"
+   },
+   "where": [
+    "budapest"
+   ]
+  },
+  {
+   "id": "2026-04-13-us-blockade-iran",
+   "date": "2026-04-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Middle East",
+   "title": "US imposes a naval blockade on Iranian ports",
+   "summary": "After the Islamabad talks failed, the US blockaded all shipping to and from Iranian ports from Apr 13. The ceasefire largely held. A US effort in May to escort ships out of the strait ('Project Freedom') was paused after two days, reportedly because Saudi Arabia refused the use of its airspace.",
+   "sources": [
+    {
+     "name": "Congressional Research Service",
+     "url": "https://www.congress.gov/crs-product/R48887"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iran",
+    "strait-of-hormuz",
+    "persian-gulf",
+    "petroleum"
+   ],
+   "storylines": [
+    "iran-war-hormuz",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2026-04-07-iran-ceasefire-islamabad",
+     "why": "Talks failed",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Both sides now claimed to control the strait, Washington by blockade and Tehran by force. CRS says that dispute is what wrecked the June deal.",
+    "confidence": "likely"
+   },
+   "unplaced": "Enforced at sea around Iran's ports; no single site."
+  },
+  {
+   "id": "2026-04-15-scarborough-blocked",
+   "date": "2026-04-15",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Asia-Pacific",
+   "title": "China moves to block the entrance to Scarborough Shoal",
+   "summary": "Satellite images showed China moving to block the entrance to Scarborough Shoal, which the Philippines also claims. Beijing later proposed a national nature reserve at the shoal, which the US said in August was an effort to claim the South China Sea.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/china-moves-block-entrance-disputed-south-china-sea-shoal-images-show-2026-04-15/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea"
+    }
+   ],
+   "entities": [
+    "china",
+    "philippines",
+    "united-states"
+   ],
+   "storylines": [
+    "taiwan-indopacific"
+   ],
+   "causes": [],
+   "marker": "military",
+   "where": [
+    "scarborough-shoal"
+   ]
+  },
+  {
+   "id": "2026-04-23-eu-90bn-loan",
+   "date": "2026-04-23",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Europe",
+   "title": "EU finalises a €90bn Ukraine loan after Hungary lifts its veto",
+   "summary": "The EU Council finalised a €90 billion loan to Ukraine for 2026–27, funded by EU borrowing and backed by the EU budget, along with a 20th sanctions package. Ukraine repays only once it receives Russian reparations. Hungary dropped its veto after oil flows through the Druzhba pipeline resumed.",
+   "sources": [
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/23/council-finalises-90-billion-support-loan-to-ukraine/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/europe/eu-formally-approves-ukraine-loan-20th-sanctions-package-against-russia-2026-04-23/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto"
+    }
+   ],
+   "entities": [
+    "european-union",
+    "ukraine",
+    "russia",
+    "hungary"
+   ],
+   "storylines": [
+    "russia-ukraine",
+    "transatlantic-rift"
+   ],
+   "causes": [
+    {
+     "story": "2026-04-12-orban-ousted",
+     "why": "Change of government ended the Hungarian veto",
+     "confidence": "likely"
+    },
+    {
+     "story": "2022-02-26-swift-cbr",
+     "why": "Repayment is tied to Russian assets frozen since 2022",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "A Council decision; no single site."
+  },
+  {
+   "id": "2026-04-25-mali-offensive",
+   "date": "2026-04-25",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Africa",
+   "title": "JNIM and Tuareg rebels sweep Mali; Kidal falls and the defence minister is killed",
+   "summary": "Al-Qaeda-linked JNIM and the Tuareg separatist FLA launched coordinated attacks across Mali, including near Bamako and in Gao, Sévaré and Mopti. The FLA took Kidal after Malian troops and Russia's Africa Corps withdrew. Defence Minister Sadio Camara was killed.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/mali-attack-tuareg-separatists-jnim-a945998cb00044e8c52db0362baaed10"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cy818zdv831o"
+    },
+    {
+     "name": "BBC (Africa Corps)",
+     "url": "https://www.bbc.com/news/articles/cvgz409r5l3o"
+    },
+    {
+     "name": "Reuters graphics",
+     "url": "https://www.reuters.com/graphics/MALI-SECURITY/SAHEL/zgvolldmopd/"
+    }
+   ],
+   "entities": [
+    "mali",
+    "jnim",
+    "fla",
+    "africa-corps",
+    "russia",
+    "assimi-goita"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2022-02-17-france-leaves-mali",
+     "why": "French exit left Russia as Mali's sole security partner",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-12-wagner-mali",
+     "why": "Russian forces in Mali since 2021",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "military",
+   "analysis": {
+    "text": "Russia's Africa Corps could not hold several fronts at once, which dented Moscow's pitch as a regime protector in the Sahel.",
+    "confidence": "likely"
+   },
+   "where": [
+    "kidal",
+    "gao"
+   ]
+  },
+  {
+   "id": "2026-04-28-bamako-blockade",
+   "date": "2026-04-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Africa",
+   "title": "JNIM declares a blockade of Bamako",
+   "summary": "Days after its offensive, JNIM announced a full blockade of Mali's capital, setting up checkpoints, attacking trucks and calling on Malians to rise up. It had first targeted fuel imports in September 2025.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/africa/al-qaeda-linked-insurgents-call-malians-rise-up-establish-sharia-law-2026-05-01/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo"
+    },
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2026/05/mali-bamako-siege/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/mali-junta-trucks-ambush-jnim-fla-a312c70a1b660de91783076bf69484cd"
+    }
+   ],
+   "entities": [
+    "jnim",
+    "mali"
+   ],
+   "storylines": [
+    "sahel"
+   ],
+   "causes": [
+    {
+     "story": "2026-04-25-mali-offensive",
+     "why": "Follow-on to the offensive",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "bamako"
+   ]
+  },
+  {
+   "id": "2026-04-28-uae-quits-opec",
+   "date": "2026-04-28",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Middle East",
+   "title": "UAE quits OPEC, exposing a deep Saudi rift",
+   "summary": "The UAE announced it would leave OPEC and OPEC+ from May 1 after nearly 60 years, citing its expanded capacity. Reuters reported the move laid bare a widening rift with Saudi Arabia, though OPEC+ was expected to hold together with a smaller share of world output.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/opec-united-arab-emirates-leaving-cartel-4966108c3fafacb67181152216deda14"
+    },
+    {
+     "name": "Reuters (Saudi rift)",
+     "url": "https://www.reuters.com/world/middle-east/uae-oil-break-exposes-deepening-saudi-rift-gulf-power-shifts-2026-04-29/"
+    },
+    {
+     "name": "Reuters (OPEC+ outlook)",
+     "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/"
+    }
+   ],
+   "entities": [
+    "uae",
+    "opec",
+    "opec-plus",
+    "saudi-arabia",
+    "petroleum"
+   ],
+   "storylines": [
+    "gulf-realignment",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2026-01-09-stc-dissolution",
+     "why": "Saudi–UAE split over Yemen",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-10-05-opec-cut",
+     "why": "Saudi-led quota politics the UAE resented",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "energy",
+   "analysis": {
+    "text": "With Hormuz shut, the exit costs Abu Dhabi little now; it is a bet on pumping freely after the war and a statement of independence from Riyadh.",
+    "confidence": "likely"
+   },
+   "unplaced": "A policy decision; no site."
+  },
+  {
+   "id": "2026-05-13-warsh-confirmed",
+   "date": "2026-05-13",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Americas",
+   "title": "Senate confirms Kevin Warsh as Fed chair as inflation climbs",
+   "summary": "The Senate confirmed Kevin Warsh as Federal Reserve chair by 54–45, largely along party lines, as inflation picked up.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/fed-warsh-senate-confirmation-b665712fa5d40d3fcea53d80d0a79c64"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/"
+    },
+    {
+     "name": "US Senate roll call",
+     "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00120.htm"
+    }
+   ],
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "united-states",
+    "inflation"
+   ],
+   "storylines": [
+    "central-banks-rates"
+   ],
+   "causes": [
+    {
+     "story": "2026-02-28-iran-war-begins",
+     "why": "War-driven energy inflation framed the new chair's task",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A Senate vote; no event site."
+  },
+  {
+   "id": "2026-05-14-trump-xi-beijing",
+   "date": "2026-05-14",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Asia-Pacific",
+   "title": "Trump–Xi Beijing summit: farm buys, Boeing jets, rare-earth access; H200 sales cleared",
+   "summary": "At a May 14–15 summit in Beijing, the White House said China committed to buy at least $17 billion a year of US farm goods through 2028 and 200 Boeing aircraft, and to improve rare-earth access. Reuters reported the US cleared Nvidia H200 sales to about 10 Chinese firms. Trump later said China had not bought the H200s.",
+   "sources": [
+    {
+     "name": "White House fact sheet",
+     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://www.wsj.com/livecoverage/iran-us-china-news-2026/card/china-hasn-t-bought-nvidia-s-h200-chips-trump-says-gpzR19U84duc9kNmz7i1"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "china",
+    "donald-trump",
+    "xi-jinping",
+    "rare-earths",
+    "nvidia",
+    "semiconductors"
+   ],
+   "storylines": [
+    "us-tariffs-trade",
+    "china-minerals-leverage",
+    "ai-compute-minerals"
+   ],
+   "causes": [
+    {
+     "story": "2026-02-20-scotus-ieepa",
+     "why": "Losing IEEPA tariffs pushed Washington toward a negotiated truce",
+     "confidence": "possible"
+    },
+    {
+     "story": "2022-10-07-bis-controls",
+     "why": "Chip controls are the main US bargaining chip",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "analysis": {
+    "text": "Beijing traded purchases for time and kept its real lever, rare-earth licensing, in place with a Nov 10 expiry. Refusing H200s signals it is betting on domestic chips.",
+    "confidence": "likely"
+   },
+   "where": [
+    "beijing"
+   ]
+  },
+  {
+   "id": "2026-05-17-ebola-pheic",
+   "date": "2026-05-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Africa",
+   "title": "WHO declares the Congo–Uganda Ebola outbreak a global health emergency",
+   "summary": "The WHO declared an epidemic of Bundibugyo-virus Ebola in the Democratic Republic of the Congo and Uganda a Public Health Emergency of International Concern. The outbreak began in Congo's Ituri province, with cases in Kampala.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
+    },
+    {
+     "name": "WHO (outbreak news)",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON605"
+    }
+   ],
+   "entities": [
+    "who",
+    "ebola",
+    "drc",
+    "uganda"
+   ],
+   "storylines": [
+    "drc-m23-minerals"
+   ],
+   "causes": [],
+   "marker": "political",
+   "analysis": {
+    "text": "An epidemic in a war zone strains Kinshasa further and complicates any M23 settlement in the east.",
+    "confidence": "speculative"
+   },
+   "unplaced": "Outbreak across Ituri and Uganda; no single site."
+  },
+  {
+   "id": "2026-05-22-china-japan-rare-earths",
+   "date": "2026-05-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Asia-Pacific",
+   "title": "China squeezes Japan over heavy rare earths",
+   "summary": "Reuters reported China cut off several heavy rare earths to Japan for at least four months, a repeat of its 2010 showdown. Japan's stockpiles, lower usage and other suppliers softened the blow.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/asia-pacific/china-squeezes-japan-over-rare-earths-repeat-2010-showdown-2026-05-22/"
+    },
+    {
+     "name": "CSIS",
+     "url": "https://www.csis.org/analysis/takaichi-landslide-shows-limits-chinese-economic-coercion"
+    }
+   ],
+   "entities": [
+    "china",
+    "japan",
+    "rare-earths",
+    "sanae-takaichi"
+   ],
+   "storylines": [
+    "china-minerals-leverage",
+    "taiwan-indopacific"
+   ],
+   "causes": [
+    {
+     "story": "2026-02-08-takaichi-landslide",
+     "why": "Coercion over Takaichi's Taiwan stance continued",
+     "confidence": "likely"
+    },
+    {
+     "story": "2021-12-china-rare-earth-group",
+     "why": "State control of the sector makes targeted cut-offs possible",
+     "confidence": "possible"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "An export restriction; no site."
+  },
+  {
+   "id": "2026-06-el-obeid-atrocity-warning",
+   "date": "2026-06",
+   "date_precision": "month",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Africa",
+   "title": "UN warns of mass-atrocity risk as the RSF closes on El Obeid",
+   "summary": "The UN Security Council and the US State Department warned of the threat of atrocities by the RSF and allied forces around El Obeid, the North Kordofan capital sheltering large numbers of displaced people.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/06/1167773"
+    },
+    {
+     "name": "US State Department",
+     "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/threats-of-atrocities-around-el-obeid-by-the-rapid-support-forces-and-their-allied-forces"
+    }
+   ],
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "storylines": [
+    "sudan-war"
+   ],
+   "causes": [
+    {
+     "story": "2026-02-03-kadugli-siege-broken",
+     "why": "Fighting shifted across Kordofan",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "military",
+   "where": [
+    "el-obeid"
+   ]
+  },
+  {
+   "id": "2026-06-17-islamabad-mou",
+   "date": "2026-06-17",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Middle East",
+   "title": "US and Iran sign the Islamabad Memorandum: blockade lifted, Hormuz reopened for 60 days",
+   "summary": "Trump and President Masoud Pezeshkian signed a memorandum ending military operations 'on all fronts, including in Lebanon'. The US lifted its blockade and issued oil waivers, and Iran agreed to free passage through Hormuz for 60 days while a final deal was negotiated. A separate US-brokered Israel–Lebanon 'Trilateral Framework' linked any Israeli pullback to verified disarmament of armed groups.",
+   "sources": [
+    {
+     "name": "Congressional Research Service",
+     "url": "https://www.congress.gov/crs-product/R48887"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+    }
+   ],
+   "entities": [
+    "united-states",
+    "iran",
+    "pakistan",
+    "masoud-pezeshkian",
+    "strait-of-hormuz",
+    "israel"
+   ],
+   "storylines": [
+    "iran-war-hormuz",
+    "global-oil"
+   ],
+   "causes": [
+    {
+     "story": "2026-04-13-us-blockade-iran",
+     "why": "Blockade pressure pushed both sides to a deal",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "diplomacy",
+   "unplaced": "The sources do not say where it was signed."
+  },
+  {
+   "id": "2026-06-21-colombia-de-la-espriella",
+   "date": "2026-06-21",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Americas",
+   "title": "Trump-endorsed outsider de la Espriella wins Colombia's presidency",
+   "summary": "Right-wing outsider Abelardo de la Espriella narrowly beat leftist Iván Cepeda in Colombia's runoff, about 49.7% to 48.7% in the preliminary count. He has proposed handling relations with Venezuela through the US State Department.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/americas/colombia-votes-runoff-pitting-leftist-reformer-against-law-and-order-newcomer-2026-06-21/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/clye4ky2yzpo"
+    },
+    {
+     "name": "El País",
+     "url": "https://elpais.com/america-colombia/2026-08-01/abelardo-de-la-espriella-delega-a-washington-su-estrategia-frente-a-venezuela.html"
+    }
+   ],
+   "entities": [
+    "colombia",
+    "abelardo-de-la-espriella",
+    "united-states",
+    "venezuela"
+   ],
+   "storylines": [
+    "western-hemisphere",
+    "venezuela-oil"
+   ],
+   "causes": [
+    {
+     "story": "2022-06-19-petro",
+     "why": "Ends the leftist turn that began with Petro's 2022 win",
+     "confidence": "likely"
+    }
+   ],
+   "marker": "political",
+   "unplaced": "A national election; no single site."
+  },
+  {
+   "id": "2026-06-22-starmer-resigns",
+   "date": "2026-06-22",
+   "date_precision": "day",
+   "kind": "backfill",
+   "era": "2026 (Iran war year)",
+   "region": "Europe",
+   "title": "Starmer resigns after Reform UK's local-election surge",
+   "summary": "UK Prime Minister Keir Starmer resigned after Labour lost about 1,500 council seats in the May 7 elections while Reform UK gained about 1,450. Andy Burnham succeeded him as prime minister on July 20.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over"
+    },
+    {
+     "name": "Reuters (local elections)",
+     "url": "https://www.reuters.com/world/uk/uks-labour-party-suffers-heavy-early-losses-reform-gains-elections-2026-05-08/"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518"
+    }
+   ],
+   "entities": [
+    "united-kingdom",
+    "keir-starmer",
+    "andy-burnham",
+    "reform-uk"
+   ],
+   "storylines": [
+    "transatlantic-rift"
+   ],
+   "causes": [],
+   "marker": "political",
+   "unplaced": "A resignation announcement; no event site."
+  }
+ ],
+ "storylines": [
+  {
+   "id": "western-hemisphere",
+   "name": "US hemisphere campaign & Latin America's right turn",
+   "entities": [
+    "united-states",
+    "venezuela",
+    "cuba",
+    "mexico",
+    "colombia",
+    "brazil"
+   ],
+   "stories": [
+    "2026-06-21-colombia-de-la-espriella"
+   ]
+  },
+  {
+   "id": "us-tariffs-trade",
+   "name": "US tariffs & the trade realignment",
+   "entities": [
+    "united-states",
+    "china",
+    "india",
+    "european-union",
+    "us-supreme-court"
+   ],
+   "stories": [
+    "2026-05-14-trump-xi-beijing"
+   ]
+  },
+  {
+   "id": "central-banks-rates",
+   "name": "Inflation, rates & the Fed",
+   "entities": [
+    "federal-reserve",
+    "kevin-warsh",
+    "inflation",
+    "united-states"
+   ],
+   "stories": [
+    "2026-05-13-warsh-confirmed"
+   ]
+  },
+  {
+   "id": "levant-wars",
+   "name": "Levant: Lebanon, Gaza & Syria after the wars",
+   "entities": [
+    "israel",
+    "hezbollah",
+    "lebanon",
+    "hamas",
+    "syria"
+   ],
+   "stories": [
+    "2026-04-08-israel-strikes-lebanon"
+   ]
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan: army vs RSF",
+   "entities": [
+    "sudan",
+    "rsf",
+    "sudanese-armed-forces"
+   ],
+   "stories": [
+    "2026-06-el-obeid-atrocity-warning"
+   ]
+  },
+  {
+   "id": "pakistan-afghanistan-war",
+   "name": "Pakistan–Afghanistan war",
+   "entities": [
+    "pakistan",
+    "afghanistan",
+    "taliban"
+   ],
+   "stories": [
+    "2026-04-07-iran-ceasefire-islamabad"
+   ]
+  },
+  {
+   "id": "transatlantic-rift",
+   "name": "Transatlantic rift & Europe's realignment",
+   "entities": [
+    "united-states",
+    "european-union",
+    "nato",
+    "greenland",
+    "denmark",
+    "hungary",
+    "united-kingdom"
+   ],
+   "stories": [
+    "2026-04-12-orban-ousted",
+    "2026-04-23-eu-90bn-loan",
+    "2026-06-22-starmer-resigns"
+   ]
+  },
+  {
+   "id": "gulf-realignment",
+   "name": "Gulf realignment: Saudi–UAE split & the Mecca pact",
+   "entities": [
+    "saudi-arabia",
+    "uae",
+    "pakistan",
+    "turkey",
+    "opec"
+   ],
+   "stories": [
+    "2026-04-28-uae-quits-opec"
+   ]
+  }
+ ]
+}
