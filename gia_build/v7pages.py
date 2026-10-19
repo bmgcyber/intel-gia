@@ -11,8 +11,8 @@ CSS = """:root{--bg:#0b0f14;--fg:#f3efe7;--mute:#a8a8a8;--line:#223041;--acc:#f3
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
 header,main{max-width:860px;margin:0 auto;padding:16px}header h1{font-size:1.4rem;margin:.2em 0}header .meta{color:var(--mute);font-size:.9rem}
 a{color:var(--acc);text-decoration:underline;text-decoration-color:#8d8d8d;text-underline-offset:3px;text-decoration-thickness:1px}a:hover{color:#f4f4f4;text-decoration-color:#f4f4f4;text-decoration-thickness:2px}h2{font-size:1.15rem;border-bottom:1px solid var(--line);padding-bottom:4px;margin-top:1.6em}h3{font-size:1rem}
-.card{border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin:12px 0}.k{color:var(--mute);font-size:.85rem}
-.chip{display:inline-block;border:1px solid var(--line);border-radius:12px;padding:2px 10px;margin:2px 4px 2px 0;font-size:.85rem;min-height:28px}
+.card{border:1px solid var(--line);border-radius:2px;padding:12px 14px;margin:12px 0}.k{color:var(--mute);font-size:.85rem}
+.chip{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:2px 10px;margin:2px 4px 2px 0;font-size:.85rem;min-height:28px}
 table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
 th{color:var(--mute);font-weight:600;font-size:.85rem}.num{text-align:right}.st-accepted{color:var(--ok)}.st-rejected{color:var(--no)}
 blockquote{border-left:1px solid var(--line);margin:0;padding:0 12px;color:var(--mute)}code{background:#111821;padding:0 4px;border-radius:3px}
