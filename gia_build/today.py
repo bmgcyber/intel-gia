@@ -99,6 +99,10 @@ def _short(t, n=72): return t if len(t) <= n else t[:n - 2].rsplit(" ", 1)[0] + 
 
 # ---------- board: hotzones + today's stories ----------
 def board(regions, latest, zones, lines, places_of, ddisp):
+    ssev = {}
+    for z in zones:
+        for sid in z.get("stories") or []:
+            if SEV_RANK.get(z["severity"], 0) > SEV_RANK.get(ssev.get(sid, ""), 0): ssev[sid] = z["severity"]
     cards, quiet = [], []
     for i, r in enumerate(regions):
         st = [s for s in latest if s.get("region") == r]
@@ -112,7 +116,7 @@ def board(regions, latest, zones, lines, places_of, ddisp):
             pl = ", ".join(e["name"] for e in places_of(s)) or "Not pinned"
             sl = " · ".join(esc(lines[x]["name"]) for x in s.get("storylines") or [] if x in lines)
             g = GLYPH.get(s.get("marker"), "○")
-            lis += (f'<li{" class=x" if k >= BOARD_KEEP else ""}><span class="gl" title="{esc(s.get("marker") or "")}">{g}</span><a href="history/trace-{esc(s["id"])}.html">{esc(_short(s["title"]))}</a>'
+            lis += (f'<li data-fsev="{ssev.get(s["id"], "none")}"{" class=x" if k >= BOARD_KEEP else ""}><span class="gl" title="{esc(s.get("marker") or "")}">{g}</span><a href="history/trace-{esc(s["id"])}.html">{esc(_short(s["title"]))}</a>'
                     f' <span class="where">· {esc(pl)}{(" · " + sl) if sl else ""}</span></li>')
         zchips = "".join(f'<a class="chip" href="history/zone-{esc(z["id"])}.html">◉ {esc(z["name"])} · {sev_word(z["severity"])}</a>' for z in zs)
         head = meter(top) if top else '<span class="meta">no hot zone linked to today\'s stories</span>'
@@ -192,7 +196,7 @@ def connect(latest, by_id, zone_links, zones_by_id, ddisp):
         li = (f'<div class="cxg"><p class="cxlab">What led to this</p><ul>{czli}</ul></div>' if czli else "")
         li += (f'<div class="cxg"><p class="cxlab">What this led to</p><ul>{efli}</ul></div>' if efli else "")
         n_conn += len(cz) + len(ef)
-        cards += f'<div class="conn{" x" if n_cards >= CONN_KEEP else ""}"><h3><a href="history/trace-{esc(s["id"])}.html">{esc(s["title"])}</a></h3>{li}</div>'
+        cards += f'<div class="conn{" x" if n_cards >= CONN_KEEP else ""}" data-fsev="{ssev.get(s["id"], "none")}"><h3><a href="history/trace-{esc(s["id"])}.html">{esc(s["title"])}</a></h3>{li}</div>'
         n_cards += 1
     zl = sorted(zone_links, key=lambda l: (not (today & set(l.get("stories") or [])), l["id"]))
     zl = [l for l in zl if l["from"] in zones_by_id and l["to"] in zones_by_id]

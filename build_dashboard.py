@@ -404,7 +404,16 @@ def world_map_dashboard(ls=9, labels_only=False, ns=11):
     if notes: out.append(f'<desc>{esc(". ".join(notes))}.</desc>')
     MAP_STATS.update(placed=placed_n,numbered=list(hidden),shortened=list(shortened),zones=len(HZ['zones']),labels=LAB_GEOM,pins=list(pinc),halos=dict(halos),tight_fallback=list(dict.fromkeys(TIGHT_FALLBACK)),repaired=list(REPAIRED))
     out.append('</svg>'); svg="".join(out)
-    leg='<div class="legend hzk"><b>Hot zones</b> '+" ".join(f'<span><i class="sw-{k}" style="background:{c}"></i>{_sev_word(k)}</span>' for k,(c,_) in SEV.items())+'</div>'
+    # The legend is the control surface: the key that teaches severity is the key that filters it.
+    # Real checkboxes, so it is keyboard- and screen-reader-native; CSS :has() does the filtering,
+    # so this needs no JavaScript and degrades to "everything visible".
+    _chips="".join(f'<input type="checkbox" class="fsw" id="f-{k}" checked>'
+                   f'<label class="fchip" for="f-{k}"><i class="sw-{k}" style="background:{c}"></i>{_sev_word(k)}</label>'
+                   for k,(c,_) in SEV.items())
+    _chips+=('<input type="checkbox" class="fsw" id="f-none" checked>'
+             '<label class="fchip" for="f-none"><i class="sw-none"></i>unranked</label>')
+    leg=('<div class="legend hzk" role="group" aria-label="Filter by severity"><b>Hot zones</b> '+_chips+'</div>'
+         '<p class="fnone">Every severity is filtered out. Re-enable one above to see the stories.</p>')
     # print-only (spec "Palette rulings 01:50" §5): each numbered key row also prints the critical glyph + LEVEL word
     _zsev={z['name']:z['severity'] for z in HZ['zones']}
     if hidden: leg+='<div class="legend nlab"><b>Numbered</b> '+" ".join(f'<span><b class="nmk">{k}</b> {esc(n)}<span class="pr-only"> · {_sev_word(_zsev.get(n,"watch"),_zsev.get(n,"watch").upper())}</span></span>' for k,n in enumerate(hidden,1))+'</div>'
@@ -500,7 +509,7 @@ CSS="""body{margin:0;background:#0b0f14;color:#d6dde6;font:14px/1.5 Arial,Helvet
 h1{margin:0;font-size:28px;line-height:1.15;letter-spacing:.04em;color:#fff}h1 b{color:var(--gia-accent-ui)}h2{color:var(--gia-h2);font-size:22px;line-height:1.25;letter-spacing:-.01em;font-weight:600;margin:40px 0 14px;padding:0}
 main{padding:0 24px 40px;max-width:1300px;margin:auto}.meta,small{color:#7f8fa3;font-size:12px}
 .boardgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.reg{background:#111821;border:1px solid #223041;border-radius:8px;padding:8px}.reg ul{margin:6px 0 0;padding-left:16px}
-.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.skip{position:absolute;left:-9999px;top:0;z-index:10;background:#111821;color:#f3efe7;padding:10px 14px;border:1px solid #223041}.skip:focus{left:8px;top:8px}.snav{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:10px;font-size:13px}.snav a{color:#d6dde6;min-height:44px;display:inline-flex;align-items:center}@media print{.skip,.snav{display:none!important}}.row p,.row .an{max-width:72ch}.row .an{margin-top:8px}.corr{font-style:normal}.card h3{margin:0 0 6px;font-size:17px;line-height:1.3;color:#fff}
+.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.skip{position:absolute;left:-9999px;top:0;z-index:10;background:#111821;color:#f3efe7;padding:10px 14px;border:1px solid #223041}.skip:focus{left:8px;top:8px}.snav{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:10px;font-size:13px}.snav a{color:#d6dde6;min-height:44px;display:inline-flex;align-items:center}@media print{.skip,.snav{display:none!important}}.fsw{position:absolute;width:1px;height:1px;opacity:0;margin:0}.fchip{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 10px;margin-right:2px;border:1px solid transparent;border-radius:2px;cursor:pointer;user-select:none}.fchip:hover{background:#172230}.fsw:focus-visible+.fchip{outline:var(--gia-focus-px) solid var(--gia-focus);outline-offset:-2px}.fsw:not(:checked)+.fchip{opacity:.4}.fsw:not(:checked)+.fchip i{box-shadow:inset 0 0 0 1px #8d8d8d;background:transparent!important}.sw-none{display:inline-block;width:10px;height:10px;border-radius:50%;box-shadow:inset 0 0 0 1px #8d8d8d}.fnone{display:none;color:#7f8fa3;font-size:13px;margin:10px 0}body:has(#f-critical:not(:checked)) [data-fsev="critical"],body:has(#f-critical:not(:checked)) .hz-critical,body:has(#f-critical:not(:checked)) .ls-critical{display:none}body:has(#f-high:not(:checked)) [data-fsev="high"],body:has(#f-high:not(:checked)) .hz-high,body:has(#f-high:not(:checked)) .ls-high{display:none}body:has(#f-elevated:not(:checked)) [data-fsev="elevated"],body:has(#f-elevated:not(:checked)) .hz-elevated,body:has(#f-elevated:not(:checked)) .ls-elevated{display:none}body:has(#f-watch:not(:checked)) [data-fsev="watch"],body:has(#f-watch:not(:checked)) .hz-watch,body:has(#f-watch:not(:checked)) .ls-watch{display:none}body:has(#f-none:not(:checked)) [data-fsev="none"]{display:none}body:has(#f-critical:not(:checked)):has(#f-high:not(:checked)):has(#f-elevated:not(:checked)):has(#f-watch:not(:checked)):has(#f-none:not(:checked)) .fnone{display:block}@media print{.fsw,.fnone{display:none!important}.fchip{min-height:0;padding:0 6px}}.row p,.row .an{max-width:72ch}.row .an{margin-top:8px}.corr{font-style:normal}.card h3{margin:0 0 6px;font-size:17px;line-height:1.3;color:#fff}
 ::selection{background:#2d3f55;color:#f3efe7}html{scrollbar-color:#2a3a4d #0b0f14;scrollbar-width:thin;caret-color:var(--gia-accent-ui)}::-webkit-scrollbar{width:11px;height:11px}::-webkit-scrollbar-track{background:#0b0f14}::-webkit-scrollbar-thumb{background:#2a3a4d;border:2px solid #0b0f14;border-radius:6px}::-webkit-scrollbar-thumb:hover{background:#3a4e66}.conf{font-style:normal;font-size:11px;padding:1px 6px;border-radius:8px;margin-right:6px;text-transform:uppercase}.likely{background:#173d24;color:#7fe0a0}.possible{background:#4d3208;color:#ffbf5a}.speculative{background:#3a1430;color:#ff8bd2}
 .chip{display:inline-block;margin:3px 4px 0 0;padding:1px 8px;border-radius:10px;background:var(--gia-chip-bg);border:1px solid var(--gia-chip-border);color:var(--gia-link);font-size:12px;text-decoration:none}
 .idx{columns:4;list-style:none;padding:0}.idx li{break-inside:avoid}
@@ -606,7 +615,7 @@ def edition_row(s):
     # The reported fact and the judgment on it are the product; the dashboard rendered only the fact.
     judg=(f'<p class="an"><span class="conf {c}">{c}</span>{esc(an.get("text",""))}</p>' if an else '')
     rev="".join(f'<div class="meta corr">Corrected in {esc(v.get("edition",""))}: {esc(v.get("why",""))}</div>' for v in s.get("revisions") or [])
-    return (f'<article class="row"><h3><a href="history/trace-{s["id"]}.html">{esc(s["title"])}</a></h3>'
+    return (f'<article class="row" data-fsev="{sev or "none"}"><h3><a href="history/trace-{s["id"]}.html">{esc(s["title"])}</a></h3>'
             f'<div class="meta">{ddisp(s)} · {esc(s.get("region",""))} · {esc(loc)}{(" " + _row_meter(sev)) if sev else ""}</div>'
             f'<p>{esc(s["summary"])}</p>{rev}{judg}</article>')
 
