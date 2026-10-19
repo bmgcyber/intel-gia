@@ -554,7 +554,7 @@ _nz=len(HZ['zones']); _np=len({e['id'] for _s in LATEST for e in story_places(_s
 assert '<a ' not in WMAP, "static map must carry no links inside"
 WMAP_SVG=WMAP
 WMAP=(f'<a id="map" class="maplink" href="map.html" aria-label="Open the full hot-zone map: {_nz} zones, {_np} pinned places, {_nu} stories not pinned">'
-      f'{WMAP}<span class="mapopen">{ICON_MAP}<span>Open map</span></span></a>')
+      f'{WMAP}<span class="mapopen">{ICON_MAP}<span>Full map page</span></span></a>')
 # ---- Today phone static map (<672 px): Designer spec.md v3, approved for r3 (Director 03:20); gia_build/phonemap.py ----
 from gia_build import phonemap as _PM
 _pm_pins=[]; _pm_seen=set()

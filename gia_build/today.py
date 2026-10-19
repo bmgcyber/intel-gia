@@ -52,7 +52,7 @@ CSS = FONTS + W600 + """body{font-family:"IBM Plex Sans",system-ui,-apple-system
 .leaflet-popup-content a{color:#161616;text-decoration-color:#6f6f6f}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (min-width:672px){.row h3 a,.rcard li>a,.conn h3 a,.conn li>a,.zlinks a,.sltl li>a,.sltl h3 a,.chip,main .meta a,header .meta a,.cal a,.mkt a{display:inline-block;min-height:24px;line-height:20px;padding:2px 0;box-sizing:border-box}.chip{padding:2px 8px}}
 @media print{.up{color:#005d5d}.down{color:#9f1853}.gbtn,.mapopen{display:none}}
-.tsec{margin-top:6px}.empty{color:#aaa398;font-size:13px;padding:10px 12px;border:1px dashed #34312d;border-radius:2px;margin:6px 0}
+.tsec{margin-top:6px}.empty{color:#7f8fa3;font-size:13px;padding:2px 0;margin:4px 0}.qrow{color:#7f8fa3;font-size:13px;margin:10px 0 0}
 .rcard{background:#111821;border:1px solid #223041;border-radius:2px;padding:12px 14px;break-inside:avoid}.rcard h3{margin:0 0 8px;font-size:16px;color:#f3efe7;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .rcard ul{margin:4px 0 0;padding:0;list-style:none}.rcard li{font-size:13px;margin:0 0 6px}.rcard .gl{display:inline-block;width:14px;text-align:center;margin-right:4px}.rcard .where{color:#8f897e;font-size:12px}
 .meter{display:inline-flex;gap:2px;align-items:center;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em}.meter i{display:inline-block;width:6px;height:12px;background:#34312d}.meter b{margin-left:4px}
@@ -99,9 +99,11 @@ def _short(t, n=72): return t if len(t) <= n else t[:n - 2].rsplit(" ", 1)[0] + 
 
 # ---------- board: hotzones + today's stories ----------
 def board(regions, latest, zones, lines, places_of, ddisp):
-    cards = []
+    cards, quiet = [], []
     for i, r in enumerate(regions):
         st = [s for s in latest if s.get("region") == r]
+        if not st:                      # a card saying "nothing here" twice is dead grid; one line says it once
+            quiet.append(r); continue
         ids = {s["id"] for s in st}
         zs = sorted([z for z in zones if ids & set(z.get("stories") or [])], key=lambda z: -SEV_RANK.get(z["severity"], 0))
         top = zs[0]["severity"] if zs else None
@@ -122,7 +124,9 @@ def board(regions, latest, zones, lines, places_of, ddisp):
                       f'{("<div>" + zchips + "</div>") if zchips else ""}</div>'))
     cards.sort(key=lambda c: c[0])
     note = '<div class="meta">Regions ranked by the most severe hot zone that lists one of today\'s stories (then by story count). Severity is the hot zone\'s filed severity.</div>'
-    body = f'<div class="boardgrid rank">{"".join(c[1] for c in cards)}</div>' if latest else _empty("No stories filed for this edition.")
+    grid = f'<div class="boardgrid rank">{"".join(c[1] for c in cards)}</div>' if cards else ""
+    qrow = f'<p class="qrow">Nothing filed this edition: {", ".join(esc(q) for q in quiet)}.</p>' if quiet else ""
+    body = (grid + qrow) if latest else _empty("No stories filed for this edition.")
     return _sec("sec-board", "board", "Regional situation board", body, note)
 
 # ---------- markets: data/markets.json ----------
