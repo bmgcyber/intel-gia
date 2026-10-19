@@ -172,8 +172,13 @@ def markets(items, edition, stories):
 # ---------- connections: today's causes/effects + hotzone links ----------
 def connect(latest, by_id, zone_links, zones_by_id, ddisp):
     today = {s["id"] for s in latest}
+    # Same ordering the board uses: a story inherits the worst severity of any zone listing it.
+    ssev = {}
+    for z in zones_by_id.values():
+        for sid in z.get("stories") or []:
+            if SEV_RANK.get(z["severity"], 0) > SEV_RANK.get(ssev.get(sid, ""), 0): ssev[sid] = z["severity"]
     cards, n_cards, n_conn = "", 0, 0
-    for s in sorted(latest, key=lambda s: s["date"], reverse=True):
+    for s in sorted(latest, key=lambda s: (SEV_RANK.get(ssev.get(s["id"], ""), 0), s["date"]), reverse=True):
         cz = [c for c in s.get("causes") or [] if c["story"] in by_id]
         ef = [e for e in s.get("effects") or [] if e["story"] in by_id]
         if not cz and not ef:
@@ -343,7 +348,7 @@ html,body,main,header,section{background:#fff!important}
 .legend i,.meter i{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 
 .critg-svg{stroke:none}
-.empty{color:#54504a;border-color:#d9d4cb}
+.qrow{color:#54504a!important}.empty{color:#54504a;border-color:#d9d4cb}
 }
 """
 PRINT_CSS = PRINT_CSS.replace("PRINT_HALO_SW", f"{2 * UI.PRINT_HALO_PX}px").replace("PRINT_LEADER", UI.PRINT_LEADER).replace("PRINT_NS_PX", f"{UI.PRINT_NS_UNITS:g}")   # r5: visible halo = half the stroke

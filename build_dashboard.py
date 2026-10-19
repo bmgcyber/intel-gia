@@ -500,7 +500,7 @@ CSS="""body{margin:0;background:#0b0f14;color:#d6dde6;font:14px/1.5 Arial,Helvet
 h1{margin:0;font-size:28px;line-height:1.15;letter-spacing:.04em;color:#fff}h1 b{color:var(--gia-accent-ui)}h2{color:var(--gia-h2);font-size:22px;line-height:1.25;letter-spacing:-.01em;font-weight:600;margin:40px 0 14px;padding:0}
 main{padding:0 24px 40px;max-width:1300px;margin:auto}.meta,small{color:#7f8fa3;font-size:12px}
 .boardgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.reg{background:#111821;border:1px solid #223041;border-radius:8px;padding:8px}.reg ul{margin:6px 0 0;padding-left:16px}
-.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.card h3{margin:0 0 6px;font-size:17px;line-height:1.3;color:#fff}
+.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.skip{position:absolute;left:-9999px;top:0;z-index:10;background:#111821;color:#f3efe7;padding:10px 14px;border:1px solid #223041}.skip:focus{left:8px;top:8px}.snav{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:10px;font-size:13px}.snav a{color:#d6dde6;min-height:44px;display:inline-flex;align-items:center}@media print{.skip,.snav{display:none!important}}.row p,.row .an{max-width:72ch}.row .an{margin-top:8px}.corr{font-style:normal}.card h3{margin:0 0 6px;font-size:17px;line-height:1.3;color:#fff}
 ::selection{background:#2d3f55;color:#f3efe7}html{scrollbar-color:#2a3a4d #0b0f14;scrollbar-width:thin;caret-color:var(--gia-accent-ui)}::-webkit-scrollbar{width:11px;height:11px}::-webkit-scrollbar-track{background:#0b0f14}::-webkit-scrollbar-thumb{background:#2a3a4d;border:2px solid #0b0f14;border-radius:6px}::-webkit-scrollbar-thumb:hover{background:#3a4e66}.conf{font-style:normal;font-size:11px;padding:1px 6px;border-radius:8px;margin-right:6px;text-transform:uppercase}.likely{background:#173d24;color:#7fe0a0}.possible{background:#4d3208;color:#ffbf5a}.speculative{background:#3a1430;color:#ff8bd2}
 .chip{display:inline-block;margin:3px 4px 0 0;padding:1px 8px;border-radius:10px;background:var(--gia-chip-bg);border:1px solid var(--gia-chip-border);color:var(--gia-link);font-size:12px;text-decoration:none}
 .idx{columns:4;list-style:none;padding:0}.idx li{break-inside:avoid}
@@ -589,23 +589,38 @@ pathcards="".join(f'<div class="pathcard"><b>{esc(info["title"])}</b><div class=
 # only top-level demos
 pathcards="".join(f'<div class="pathcard"><b>{esc(v["title"])}</b><div class="meta">{len(v["steps"])} slides · {ddisp(ST[k])} → {ddisp(ST[v["goal"]])}</div><p class="meta">{esc(ST[k]["title"])} → … → {esc(ST[v["goal"]]["title"])}</p><a class="pathbtn" href="history/path-{k}/slide-01.html">▶ Play path</a></div>' for k,v in PATH_INDEX.items() if "root" not in v)
 
+from gia_build.today import SEV_RANK as _SEV_RANK, meter as _row_meter
+# A story inherits the worst severity of any hot zone that lists it. One ordering for the
+# whole page: the board already ranked this way; the stories and the connect section did not.
+_STORY_SEV={}
+for _z in HZ["zones"]:
+    for _sid in _z.get("stories") or []:
+        if _SEV_RANK.get(_z["severity"],0) > _SEV_RANK.get(_STORY_SEV.get(_sid,""),0): _STORY_SEV[_sid]=_z["severity"]
+def _srank(s): return _SEV_RANK.get(_STORY_SEV.get(s["id"],""),0)
+
 def edition_row(s):
     named=", ".join(ent["name"] for ent in story_places(s))
     loc=named or s.get("unplaced") or "Location not placed yet"
+    sev=_STORY_SEV.get(s["id"])
+    an=s.get("analysis") or {}; c=an.get("confidence","")
+    # The reported fact and the judgment on it are the product; the dashboard rendered only the fact.
+    judg=(f'<p class="an"><span class="conf {c}">{c}</span>{esc(an.get("text",""))}</p>' if an else '')
+    rev="".join(f'<div class="meta corr">Corrected in {esc(v.get("edition",""))}: {esc(v.get("why",""))}</div>' for v in s.get("revisions") or [])
     return (f'<article class="row"><h3><a href="history/trace-{s["id"]}.html">{esc(s["title"])}</a></h3>'
-            f'<div class="meta">{ddisp(s)} · {esc(s.get("region",""))} · {esc(loc)}</div><p>{esc(s["summary"])}</p></article>')
+            f'<div class="meta">{ddisp(s)} · {esc(s.get("region",""))} · {esc(loc)}{(" " + _row_meter(sev)) if sev else ""}</div>'
+            f'<p>{esc(s["summary"])}</p>{rev}{judg}</article>')
 
 from gia_build import today as _today  # Today sections (sec-board/markets/connect/storylines/calendar), from data/ only
 TS=_today.sections(D,regions=REG,latest=LATEST,all_stories=S,by_id=ST,zones=HZ['zones'],zone_links=HZ['links'],lines=SL,edition=ed,places_of=story_places,ddisp=ddisp)
 out=f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GIA World Intel — {ed}</title><style>{CSS}{_today.CSS}/*mp*/{_PM.CSS}/*/mp*/</style></head><body id="top">
-<header><h1>GIA <b>//</b> WORLD INTEL</h1><div class="meta">Edition {ed} · {len(LATEST)} stories today · {len(S)} in the archive · <a href="history/index.html">Archive</a></div></header><main>
+<a class="skip" href="#sec-stories">Skip to today's stories</a><header><h1>GIA <b>//</b> WORLD INTEL</h1><div class="meta">Edition {ed} · {len(LATEST)} stories today · {len(S)} in the archive · <a href="history/index.html">Archive</a></div><nav class="snav" aria-label="Sections"><a href="#sec-map">Map</a><a href="#sec-board">Board</a><a href="#sec-stories">Stories</a><a href="#sec-connect">Connections</a><a href="#sec-storylines">Storylines</a></nav><div class="meta" hidden></div></header><main>
 <section id="sec-map"><h2 id="world">Right now</h2><div id="gia-fallback">{WMAP_DASH}{PHONE_EXTRA}</div>{LEAF_DASH}{WLEG}</section>
 {TS["board"]}
-{TS["markets"]}
+<section id="sec-stories"><h2 id="stories">Today, {ed}</h2><div class="meta">Each title opens the trace page, with sources, the causal chain, and any path.</div>{"".join(edition_row(s) for s in sorted(LATEST,key=lambda s:(_srank(s),s['date']),reverse=True))}</section>
 {TS["connect"]}
 {TS["storylines"]}
+{TS["markets"]}
 {TS["calendar"]}
-<section id="sec-stories"><h2 id="stories">Today, {ed}</h2><div class="meta">Each title opens the trace page, with sources, the causal chain, and any path.</div>{"".join(edition_row(s) for s in sorted(LATEST,key=lambda s:s['date'],reverse=True))}</section>
 <p class="meta">Paths, the full regional board, all storylines, and the entity index are in the <a href="history/index.html">archive</a>. Generated by build_dashboard.py.</p></main>
 </body></html>"""
 open(f"{D}/dashboard.html","w").write(out)

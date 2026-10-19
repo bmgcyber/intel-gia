@@ -5,7 +5,7 @@
 """
 ACCENT_UI = "#a8a8a8"   # Carbon gray 40 (Designer 01:43 / Director 01:50)
 FOCUS = "#ffffff"
-PATH = "#c3a6ff"   # path / trail / NOW (judgment layer); 2D slides, Leaflet and globe all purple, no yellow (Director 01:35 ET)
+PATH = "#c3a6ff"; PATH_PRINT = "#6929c4"   # purple 70: the judgment layer needs an ink twin like every other token   # path / trail / NOW (judgment layer); 2D slides, Leaflet and globe all purple, no yellow (Director 01:35 ET)
 # Severity (Director 01:37 ET): ONE screen + ONE print token per level (data/SCHEMA.md: critical|high|elevated|watch).
 # Current values = Today's Carbon set (the old map set was Apple system colours: #ff3b30 #ff9f0a #ffd60a #64d2ff).
 # Designer posts the final values; edit only this table.
@@ -68,7 +68,7 @@ ROOT_CSS = (f":root{{--gia-accent-ui:{ACCENT_UI};--gia-accent-ui-print:{ACCENT_U
             + "".join(f"--gia-sev-{k}:{c};--gia-sev-{k}-print:{p};--gia-sev-{k}-outline:{o};" for k, (c, p, o) in SEV.items())
             + f"--gia-sev-outline-px:{SEV_OUTLINE_PX};--gia-sev-glyph:{SEV_GLYPH}}}"
             + f"@media print{{:root{{--gia-focus:{FOCUS_PRINT};--gia-sev-glyph:{SEV_GLYPH_PRINT};--gia-link:{LINK_PRINT};--gia-link-rule:{LINK_RULE_PRINT};"
-            f"--gia-h2:{HEAD_PRINT};--gia-h4:{HEAD_PRINT};--gia-example-tx:{EXAMPLE_PRINT[0]};--gia-example-a:{EXAMPLE_PRINT[1][0]};"
+            f"--gia-path:{PATH_PRINT};--gia-h2:{HEAD_PRINT};--gia-h4:{HEAD_PRINT};--gia-example-tx:{EXAMPLE_PRINT[0]};--gia-example-a:{EXAMPLE_PRINT[1][0]};"
             f"--gia-example-b:{EXAMPLE_PRINT[1][1]};--gia-example-edge:{EXAMPLE_PRINT[2]}}}}}")
 # Link/chip/example rules (shared CSS). Focus keeps --gia-focus (:focus-visible) everywhere.
 LINK_CSS = ("a{color:var(--gia-link);text-decoration:underline;text-decoration-color:var(--gia-link-rule);text-decoration-thickness:var(--gia-link-rule-px);"
