@@ -9411,7 +9411,9 @@
    "2003-08-27-six-party-talks-begin",
    "2002-05-24-moscow-treaty",
    "2001-07-16-sino-russian-treaty",
-   "iran-seven-day-hormuz-offer"
+   "iran-seven-day-hormuz-offer",
+   "ukraine-blackout-push-oct18",
+   "oil-eases-monday-russia-waiver"
   ],
   "revisions": [
    {
@@ -76029,7 +76031,8 @@
    "2018-05-08-us-quits-jcpoa",
    "2017-01-27-travel-ban",
    "2017-08-02-caatsa",
-   "second-mine-tanker-ukmto-record"
+   "second-mine-tanker-ukmto-record",
+   "trump-endorses-netanyahu"
   ]
  },
  {
@@ -76124,7 +76127,8 @@
    "2015-03-26-saudi-intervention-yemen",
    "2011-03-14-gcc-crushes-bahrain",
    "2010-06-09-unsc-1929",
-   "iran-seven-day-hormuz-offer"
+   "iran-seven-day-hormuz-offer",
+   "hormuz-two-tankers-mines-claim-oct18"
   ]
  },
  {
@@ -76413,7 +76417,8 @@
    "2026-05-14-kyiv-record-assault",
    "2015-02-12-minsk-ii",
    "2014-03-18-crimea-annexed",
-   "graham-waiver-bipartisan-backlash"
+   "graham-waiver-bipartisan-backlash",
+   "ukraine-blackout-push-oct18"
   ]
  },
  {
@@ -76771,7 +76776,8 @@
    "2024-10-01-israel-invades-lebanon",
    "2006-07-12-lebanon-war",
    "2006-08-11-unsc-1701",
-   "2000-05-israel-leaves-lebanon"
+   "2000-05-israel-leaves-lebanon",
+   "trump-endorses-netanyahu"
   ]
  },
  {
@@ -77233,7 +77239,8 @@
    "pla-patrol-oct15-16",
    "2025-12-29-justice-mission-drills",
    "2025-04-02-strait-thunder",
-   "2023-04-05-tsai-mccarthy"
+   "2023-04-05-tsai-mccarthy",
+   "pla-patrol-oct18-19"
   ]
  },
  {
@@ -77415,7 +77422,8 @@
   "marker": "political",
   "unplaced": "National polling; no single site.",
   "related_stories": [
-   "2026-10-04-brazil-first-round"
+   "2026-10-04-brazil-first-round",
+   "brazil-btg-nexus-oct19"
   ]
  },
  {
@@ -77536,6 +77544,486 @@
    "2024-07-06-aes-confederation",
    "2025-01-29-aes-leaves-ecowas",
    "2014-08-01-barkhane"
+  ]
+ },
+ {
+  "id": "trump-endorses-netanyahu",
+  "date": "2026-10-18",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Middle East",
+  "title": "Trump endorses Netanyahu nine days before Israel's election, tying Iran war to Bibi's survival",
+  "summary": "On Oct 18 President Trump endorsed Benjamin Netanyahu for re-election in Israel's Oct 27 Knesset vote, calling him a 'Great Warrior Prime Minister' and saying that if Israel chose 'anyone other than Bibi', America would have to finish the Iran war alone and he was 'not inclined to do so'. Axios called it the first explicit public endorsement of an Israeli candidate by a US president. Trump told Axios he had always planned to endorse but did not want to do it too soon; Netanyahu thanked him and said 'Together we will complete the mission.' Rival Gadi Eisenkot told Channel 12 the election is a domestic Israeli issue. Most mainstream polls still show neither Zionist bloc at 61 seats; Channel 14 and i24 have shown Likud ahead of Yashar! with the right-religious bloc near or at a majority.",
+  "sources": [
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections"
+   },
+   {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/"
+   }
+  ],
+  "entities": [
+   "donald-trump",
+   "benjamin-netanyahu",
+   "israel",
+   "gadi-eisenkot",
+   "likud",
+   "yashar",
+   "iran",
+   "united-states",
+   "knesset"
+  ],
+  "causes": [
+   {
+    "story": "lebanon-tampa-talks-demands",
+    "why": "The vote falls in the same week as US-mediated Israel–Lebanon talks and while the Iran war and Gaza ceasefire freeze continue",
+    "confidence": "possible"
+   },
+   {
+    "story": "iran-seven-day-hormuz-offer",
+    "why": "Trump tied the endorsement to finishing the Iran war and to whether Israel has a partner he will work with",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "The endorsement raises the odds that a Netanyahu win or a prolonged caretaker under him keeps the door open to a second US–Israeli campaign against Iran after the Nov 3 US midterms, which is oil-market event risk. But oil over the next month still depends more on Hormuz transits and Iran's standing seven-day reopening offer than on the Israeli result, and no government in the first mandate period remains the likely path on mainstream polls.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "levant-wars",
+   "iran-war-hormuz",
+   "gulf-realignment"
+  ],
+  "marker": "political",
+  "unplaced": "US endorsement of an Israeli election; no single event site.",
+  "related_stories": [
+   "lebanon-tampa-talks-demands",
+   "iran-seven-day-hormuz-offer",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "2022-03-27-negev-summit",
+   "gfs-pride-sunk",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-06-17-islamabad-mou",
+   "2026-08-17-mou-expires",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-13-israel-strikes-iran",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2026-07-17-knesset-dissolves",
+   "2024-04-13-iran-strikes-israel",
+   "2020-01-03-soleimani-killed",
+   "2020-08-13-abraham-accords",
+   "2020-12-14-sudan-delisted",
+   "2021-06-13-bennett-government",
+   "2023-03-26-israel-judicial-protests",
+   "2022-11-01-netanyahu-returns",
+   "2019-03-25-golan-recognition",
+   "2019-06-20-global-hawk-downed",
+   "2018-05-08-us-quits-jcpoa",
+   "2018-05-14-jerusalem-embassy-gaza",
+   "2017-01-27-travel-ban",
+   "2017-08-02-caatsa",
+   "2017-12-06-jerusalem-recognition",
+   "2010-06-17-stuxnet",
+   "gaza-drone-strikes-oct17",
+   "oil-eases-monday-russia-waiver"
+  ]
+ },
+ {
+  "id": "hormuz-two-tankers-mines-claim-oct18",
+  "date": "2026-10-18",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Middle East",
+  "title": "IRGC says two crude tankers catch fire after mine strikes; UKMTO traffic still ~70% below pre-war",
+  "summary": "Iran's IRGC said on Oct 18 that two oil tankers, each carrying about two million barrels, caught fire after hitting naval mines in the Strait of Hormuz; IRNA said the vessels had switched off positioning and radar and used a route Iran had not authorised. Ship names were not released. CENTCOM has disputed similar mine claims, saying it has cleared the strait of mines and that vessels are being struck by projectiles. UKMTO's week-to-Oct-16 overview recorded 254 combined Hormuz transits (125 outbound, 129 inbound), about 70% below pre-conflict levels, and 12 vessel attacks that week (Al Jazeera; AP/CBS have also cited 10). IMF PortWatch showed only 2 tanker transits on Oct 11 against a pre-crisis baseline near 85 a day. Brent eased toward about $107–108 early Monday from Friday's five-month high near $110.",
+  "sources": [
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+   },
+   {
+    "name": "Anadolu (UKMTO)",
+    "url": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-transits-remain-70-below-pre-conflict-levels-uk-maritime-agency/4091608"
+   },
+   {
+    "name": "Straits Daily Brief / PortWatch",
+    "url": "https://straits.live/briefs/2026-10-19"
+   },
+   {
+    "name": "CNBC-TV18",
+    "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-crude-west-asia-conflict-strait-of-hormuz-russia-ukraine-war-supply-saudi-houthi-attacks-20014556.htm"
+   }
+  ],
+  "entities": [
+   "iran",
+   "irgc",
+   "strait-of-hormuz",
+   "ukmto",
+   "petroleum",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "second-mine-tanker-ukmto-record",
+    "why": "Continuation of the same disputed mine/projectile attack wave and UKMTO weekly high",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "The mine-versus-projectile dispute matters for attribution and insurance, but either way the strait remains a wartime bottleneck: UKMTO all-ship traffic is deeply suppressed and PortWatch tanker counts are near zero on some days, which keeps the diesel and freight premium elevated even when Brent dips on the Russia waiver narrative.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-war-hormuz",
+   "global-oil"
+  ],
+  "marker": "strike",
+  "unplaced": "Strait of Hormuz theater; Bryan has not approved pinning the strait.",
+  "related_stories": [
+   "second-mine-tanker-ukmto-record",
+   "oil-eases-monday-russia-waiver",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "houthis-hit-aramco",
+   "kataib-hezbollah-halt",
+   "venezuela-oil",
+   "gfs-pride-sunk",
+   "us-weighs-shadow-fleet-relief",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-11-iea-record-release",
+   "2026-03-13-kharg-strike",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2024-04-13-iran-strikes-israel",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2019-06-20-global-hawk-downed",
+   "2010-06-09-unsc-1929",
+   "iran-seven-day-hormuz-offer"
+  ]
+ },
+ {
+  "id": "ukraine-blackout-push-oct18",
+  "date": "2026-10-18",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Europe",
+  "title": "Zelenskyy says Russia is seeking a nationwide blackout after fresh strikes on energy sites",
+  "summary": "President Zelenskyy said on Oct 18 that Russia had carried out 76 attacks on Ukraine's energy and oil-and-gas sectors in the week since Trump announced an energy cease-fire on social media, and that overnight strikes hit power stations in the Vinnytsia, Zhytomyr, Khmelnytskyi and Odesa regions. Ukraine's Air Force said Russia launched 180 combat drones overnight, of which 152 were intercepted, with impacts at 20 locations; regional officials reported civilian deaths in Zaporizhzhia and Poltava. Zelenskyy said Russia launched nearly 2,700 attack drones, 1,700 guided bombs and 66 missiles over the past week. He also said Starshield connection speeds across Ukraine remained significantly limited; Secretary Rubio called reports that the White House ordered a slowdown 'categorically false' and said Ukraine does not currently have Starshield access.",
+  "sources": [
+   {
+    "name": "RFE/RL",
+    "url": "https://www.rferl.org/a/ukraine-russia-drone-attacks-zelenskyy-airports/33878787.html"
+   },
+   {
+    "name": "Kyiv Independent",
+    "url": "https://kyivindependent.com/russian-drones-hit-western-ukraine-as-nationwide-attacks-kill-10-injure-73/"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "volodymyr-zelenskyy",
+   "odesa",
+   "kyiv",
+   "vladimir-putin",
+   "donald-trump",
+   "marco-rubio",
+   "starlink",
+   "spacex"
+  ],
+  "causes": [
+   {
+    "story": "russia-332-drone-energy-strike",
+    "why": "Next wave of the same pre-winter grid campaign after the 332-drone strike",
+    "confidence": "likely"
+   },
+   {
+    "story": "trump-waives-russia-sanctions",
+    "why": "Zelenskyy frames the week's energy assault against Trump's announced pause and the diesel/sanctions waiver track",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "Moscow is pressing the pre-winter grid campaign while Washington's waiver and contested Starshield/Starlink friction raise Kyiv's sense that pressure is being applied for a bad deal. Europe carries more of the winter energy and air-defence load if US leverage stays tilted toward Moscow.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "russia-ukraine",
+   "transatlantic-rift"
+  ],
+  "marker": "strike",
+  "where": [
+   "odesa",
+   "kyiv"
+  ],
+  "related_stories": [
+   "russia-332-drone-energy-strike",
+   "trump-waives-russia-sanctions",
+   "energy-ceasefire",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-02-24-invasion",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "2022-10-10-energy-strikes",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "lutsk-blackout-volyn",
+   "putin-security-zone",
+   "russia-grid-strikes-oct16",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2021-04-01-russia-spring-buildup",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2026-05-14-kyiv-record-assault",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed",
+   "graham-waiver-bipartisan-backlash",
+   "poland-starlink-arson-russia-gang"
+  ]
+ },
+ {
+  "id": "pla-patrol-oct18-19",
+  "date": "2026-10-19",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Asia-Pacific",
+  "title": "Taiwan tracks 5 PLA sorties, 6 PLAN ships and 9 official ships; three cross the median line",
+  "summary": "Taiwan's Ministry of National Defense said that from 6 a.m. Oct 18 to 6 a.m. Oct 19 (UTC+8) it detected 5 PLA aircraft sorties, 6 PLAN ships and 9 official ships around Taiwan; 3 of the 5 sorties crossed the Taiwan Strait median line into the northern, central and southwestern ADIZ. ROC forces responded with CAP aircraft, navy ships and coastal missile systems. The prior 24-hour window had logged 2 sorties, 5 navy ships and 9 official ships.",
+  "sources": [
+   {
+    "name": "Taiwan MND",
+    "url": "https://www.mnd.gov.tw/en/news/plaact/88010"
+   }
+  ],
+  "entities": [
+   "taiwan",
+   "pla",
+   "china",
+   "taipei"
+  ],
+  "causes": [
+   {
+    "story": "pla-patrol-oct17-18",
+    "why": "Next daily MND patrol log after the Oct 17–18 window",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "The tempo is grey-zone pressure, not a surge toward invasion, but it keeps Japan and the Philippines watching US bandwidth while Hormuz and Ukraine dominate White House attention.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "taiwan-indopacific"
+  ],
+  "marker": "military",
+  "where": [
+   "taipei"
+  ],
+  "related_stories": [
+   "pla-patrol-oct17-18",
+   "pla-drills",
+   "2022-08-02-pelosi",
+   "2022-08-04-pla-drills",
+   "pla-patrol-oct14-15",
+   "pla-patrol-oct15-16",
+   "dongsha-coast-guard-incursion",
+   "2025-12-29-justice-mission-drills",
+   "2025-04-02-strait-thunder",
+   "2023-04-05-tsai-mccarthy"
+  ]
+ },
+ {
+  "id": "brazil-btg-nexus-oct19",
+  "date": "2026-10-19",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Americas",
+  "title": "BTG/Nexus keeps Brazil's Oct 25 runoff a technical tie as Flávio's lead narrows",
+  "summary": "A BTG/Nexus poll released Oct 19 (fieldwork Oct 16–18, n=2,002) gave Flávio Bolsonaro 46.5% and Lula 45.9% in the Oct 25 presidential runoff, within a ±2-point margin of error; Flávio's share fell from 47.9% and Lula's rose from 45.1% in the prior round. Blank/null stayed 4.7%; undecided rose to 2.9%. About 90.9% said their decision would not change. Flávio won the first round 47.03% to 45.16%.",
+  "sources": [
+   {
+    "name": "Reuters via UOL",
+    "url": "https://economia.uol.com.br/noticias/reuters/2026/10/19/flavio-bolsonaro-com-465-e-lula-com-459-seguem-em-empate-tecnico-no-2-turno-mostra-btgnexus.htm"
+   },
+   {
+    "name": "Exame (Vox prior)",
+    "url": "https://exame.com/brasil/pesquisa-vox-brasil-lula-tem-51-e-flavio-bolsonaro-49-em-empate-tecnico/"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "lula",
+   "flavio-bolsonaro",
+   "brasilia"
+  ],
+  "causes": [
+   {
+    "story": "brazil-runoff-dead-heat",
+    "why": "Next poll print in the same dead-heat runoff campaign",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "Six days out, either outcome remains live. A Flávio win would extend the region's rightward tilt and tighten Brasilia's alignment with Washington's hemisphere agenda; a recount fight is possible either way if the margin stays inside a point or two.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "marker": "political",
+  "where": [
+   "brasilia"
+  ],
+  "related_stories": [
+   "brazil-runoff-dead-heat",
+   "2026-10-04-brazil-first-round"
+  ]
+ },
+ {
+  "id": "oil-eases-monday-russia-waiver",
+  "date": "2026-10-19",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-19",
+  "region": "Middle East",
+  "title": "Brent slips toward $107–108 as traders weigh Hormuz attacks against the Russia sanctions waiver",
+  "summary": "Brent futures fell about 1.3–1.8% in early Monday trade toward roughly $107–108 a barrel after Friday's jump toward $110, while WTI was quoted near $100–101. Reuters and CNBC-TV18 tied the dip to Trump's waiver of some Russia energy sanctions and to reports that US escorts had moved large crude volumes through Hormuz, even as Iran claimed fresh tanker mine strikes and UKMTO traffic remained about 70% below pre-war levels. US stock-index futures rose, with Nasdaq 100 futures up about 1% as AI-linked names bounced from Friday's selloff; the 10-year Treasury yield was near 5.09%.",
+  "sources": [
+   {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777"
+   },
+   {
+    "name": "CNBC-TV18",
+    "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-crude-west-asia-conflict-strait-of-hormuz-russia-ukraine-war-supply-saudi-houthi-attacks-20014556.htm"
+   },
+   {
+    "name": "Anadolu (UKMTO)",
+    "url": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-transits-remain-70-below-pre-conflict-levels-uk-maritime-agency/4091608"
+   }
+  ],
+  "entities": [
+   "petroleum",
+   "iran",
+   "russia",
+   "united-states",
+   "donald-trump",
+   "strait-of-hormuz"
+  ],
+  "causes": [
+   {
+    "story": "hormuz-two-tankers-mines-claim-oct18",
+    "why": "Monday oil trade is pricing the weekend Hormuz claims against the waiver narrative",
+    "confidence": "likely"
+   },
+   {
+    "story": "trump-waives-russia-sanctions",
+    "why": "Waiver headlines are the main cited reason for the early-week oil dip",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-19",
+  "analysis": {
+   "text": "The market is splitting the difference: waiver and escort headlines cap the front-month spike, while physical diesel and freight still price a blocked strait. A renewed Hormuz spike remains the upside risk into Israel's vote and the US midterms.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "global-oil",
+   "iran-war-hormuz",
+   "central-banks-rates"
+  ],
+  "marker": "energy",
+  "unplaced": "Global oil price move; no single event pin.",
+  "related_stories": [
+   "hormuz-two-tankers-mines-claim-oct18",
+   "trump-waives-russia-sanctions",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "houthis-hit-aramco",
+   "diesel-deal",
+   "venezuela-oil",
+   "2022-03-08-us-oil-ban",
+   "2022-09-02-price-cap",
+   "2022-10-05-opec-cut",
+   "gfs-pride-sunk",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "iea-diesel-release",
+   "us-weighs-shadow-fleet-relief",
+   "gulf-of-oman-tanker-fires",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-06-us-india-tariff-cut",
+   "2026-02-28-iran-war-begins",
+   "2026-03-11-iea-record-release",
+   "2026-03-13-kharg-strike",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-22-zelensky-trump-unga",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2026-10-02-g7-diesel-release",
+   "2025-06-22-midnight-hammer",
+   "2025-08-15-alaska-summit",
+   "2025-08-27-india-50pct-tariff",
+   "2025-10-22-rosneft-lukoil-sanctions",
+   "2020-01-03-soleimani-killed",
+   "2019-06-20-global-hawk-downed",
+   "2019-10-09-operation-peace-spring",
+   "2018-05-08-us-quits-jcpoa",
+   "2017-01-27-travel-ban",
+   "2017-04-07-shayrat-strike",
+   "2017-08-02-caatsa",
+   "2016-10-07-russia-election-interference",
+   "2015-07-14-jcpoa-agreed",
+   "2013-11-24-iran-interim-deal",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "graham-waiver-bipartisan-backlash",
+   "trump-endorses-netanyahu"
   ]
  }
 ]

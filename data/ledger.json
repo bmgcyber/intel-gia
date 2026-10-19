@@ -128858,6 +128858,980 @@
     "date_saved": false,
     "hotzones_date": null
    }
+  },
+  "2026-10-19": {
+   "sha256": "c73c35943383a96041a7edd2befdf0790002f824fab26f7307c99479d3060223",
+   "undo": {
+    "stories": {
+     "trump-endorses-netanyahu": null,
+     "hormuz-two-tankers-mines-claim-oct18": null,
+     "ukraine-blackout-push-oct18": null,
+     "pla-patrol-oct18-19": null,
+     "brazil-btg-nexus-oct19": null,
+     "oil-eases-monday-russia-waiver": null,
+     "lebanon-tampa-talks-demands": {
+      "id": "lebanon-tampa-talks-demands",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "Lebanon's army delegation will demand an end to Israeli attacks at Oct 20 talks in Tampa",
+      "summary": "Lebanon's presidency said on Oct 17 that a military delegation will present Beirut's demand for an end to Israeli attacks at a trilateral meeting with Israel and the US in Tampa, Florida on Oct 20. Under a US-brokered deal Beirut pledged to disarm Hezbollah in return for a gradual Israeli withdrawal, but Hezbollah refuses to disarm while Israeli forces remain on Lebanese land, and Israel continues to strike southern Lebanon. The current war began on March 2.",
+      "sources": [
+       {
+        "name": "Reuters via WZUU",
+        "url": "https://wzuu.com/2026/10/17/lebanon-says-military-delegation-will-press-for-halt-to-israeli-attacks-at-us-talks/"
+       }
+      ],
+      "entities": [
+       "lebanon",
+       "israel",
+       "hezbollah",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2026-10-14-lebanon-yellow-line",
+        "why": "Beirut's demands target the occupation zone Israel is hardening",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Holding the talks at a US military hub signals Washington wants a security arrangement, not a political peace. Without a Hezbollah disarmament mechanism Israel is unlikely to give up its 'Yellow Line' positions before its Oct 27 election.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "unplaced": "A statement about talks to be held in Tampa, Florida on Oct 20; the event has not happened yet.",
+      "related_stories": [
+       "2026-10-14-lebanon-yellow-line",
+       "2022-10-11-israel-lebanon",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2006-07-12-lebanon-war",
+       "2006-08-11-unsc-1701",
+       "2000-05-israel-leaves-lebanon"
+      ]
+     },
+     "iran-seven-day-hormuz-offer": {
+      "id": "iran-seven-day-hormuz-offer",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "Iran says its seven-day plan to reopen Hormuz, sent via Qatar, is 'still on the table'",
+      "summary": "Foreign Minister Abbas Araghchi said on Oct 17 that Tehran had sent Washington, through mediator Qatar, a 'specific seven-day plan' under which the Strait of Hormuz could reopen and normal traffic resume if Iran's conditions were met: 'The choice is now America's.' On Oct 18 he told Iranian media the offer stood; if Washington accepts, the strait would open within six days and US-Iran talks would resume on the seventh. He said US military action had blocked the June memorandum of understanding. Iran first presented the plan in mid-September after a temporary ceasefire collapsed, and has acknowledged a US reply ('observations' it is reviewing); AP, via CBS, reported that Trump rejected a Tehran proposal to end the war and open the strait late last month. Iran has not published the full text, but Reuters reported its conditions include lifting the US blockade of its ports, cancelling US sanctions on its oil exports and a halt to hostilities on all fronts; Iran's Supreme National Security Council secretary said Washington had not answered all seven conditions. A main sticking point is sequencing: Washington wants Iran's nuclear programme addressed from the start, while Tehran wants a first phase limited to reopening the strait. Trump told Newsmax on Oct 15 he would not use nuclear weapons or send ground troops and expects a deal after the Nov 3 midterms; CBS reported the Pentagon has prepared plans to use the MOAB on Iranian military sites if ordered.",
+      "sources": [
+       {
+        "name": "Iran International",
+        "url": "https://www.iranintl.com/en/202610179732"
+       },
+       {
+        "name": "Reuters via Arab News",
+        "url": "https://www.arabnews.com/middle-east/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-3006986"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+       },
+       {
+        "name": "CBS News live",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+       }
+      ],
+      "entities": [
+       "iran",
+       "abbas-araghchi",
+       "united-states",
+       "donald-trump",
+       "qatar",
+       "strait-of-hormuz",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "us-iran-talks-deadlock",
+        "why": "The offer is the latest move in deadlocked indirect US-Iran talks",
+        "confidence": "likely"
+       },
+       {
+        "story": "irgc-mine-supertanker-brent-110",
+        "why": "Mine strikes raise the price of rejecting Iran's terms",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Re-pitching a month-old offer before the midterms gives Trump a way to cut pump prices, while mines and attacks keep raising the cost of saying no. But Iran's published terms, an end to the port blockade and oil sanctions, are what Washington has shown no sign of giving up before Nov 3, and the US insistence on nuclear talks first makes a quick deal unlikely.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "unplaced": "A diplomatic proposal relayed through Qatar; no event site.",
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "irgc-mine-supertanker-brent-110",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "trump-waives-russia-sanctions",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-22-midnight-hammer",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2020-01-03-soleimani-killed",
+       "2019-06-20-global-hawk-downed",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-01-27-travel-ban",
+       "2017-08-02-caatsa",
+       "second-mine-tanker-ukmto-record"
+      ]
+     },
+     "second-mine-tanker-ukmto-record": {
+      "id": "second-mine-tanker-ukmto-record",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "IRGC says a second tanker hit a mine; US says ships are being hit by projectiles as UKMTO logs a record week of attacks",
+      "summary": "Iran's IRGC said a second tanker carrying about 2 million barrels caught fire after hitting a naval mine in the Strait of Hormuz, after the first on Oct 17; IRNA said both had switched off positioning and radar and used a route Iran had not authorised. The ships' names were not released. CENTCOM disputes the mine claims: it says it has cleared the strait of mines and that vessels are being struck by projectiles, and it said the container ship GFS Pride, which sank on Oct 15, was hit by an IRGC projectile rather than a mine. UKMTO said at least 12 ships were attacked in the week to Oct 16, per Al Jazeera (AP, via CBS, reported 10), a weekly high since the war began on Feb 28, adding that most attacked vessels now refuse to report; one sank and two were disabled. AP reported that since early July most attacks have occurred off Oman, where the US military guides vessels. A tanker was hit by an RPG fired from a small boat about 78 nautical miles northeast of Jubail, and on Oct 18 a tug off the UAE was struck by two projectiles, with one minor casualty. CENTCOM's Adm. Brad Cooper said 400 ships and 100 million barrels moved through Hormuz in the past week; Kpler put flows at 11.6 million b/d in the seven days to Oct 13, about 68% of pre-war.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+       },
+       {
+        "name": "Al Jazeera (UKMTO weekly)",
+        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+       },
+       {
+        "name": "CBS News live",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "ukmto",
+       "united-states",
+       "uae",
+       "saudi-arabia",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "irgc-mine-supertanker-brent-110",
+        "why": "Second mine strike in two days in the same campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Most attacks are still off Oman, where US forces escort ships, but new strikes in the Gulf off Saudi Arabia and the UAE suggest Iran can reach shipping beyond the strait itself. Under-reporting by owners means the true risk is higher than official counts, which keeps insurance and freight costs climbing even when volumes hold.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "unplaced": "The IRGC gave no position for either tanker, and the other attacks were reported only as offshore areas.",
+      "related_stories": [
+       "irgc-mine-supertanker-brent-110",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "kataib-hezbollah-halt",
+       "venezuela-oil",
+       "2022-03-25-jeddah-attack",
+       "2022-03-27-negev-summit",
+       "2022-07-15-biden-saudi",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "houthis-saudi-oct15",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-13-us-blockade-iran",
+       "2026-04-28-uae-quits-opec",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-10-east-west-pipeline-attack",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-05-03-opec-plus-hikes",
+       "2024-04-13-iran-strikes-israel",
+       "2023-08-24-brics-expansion",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2019-05-12-fujairah-tanker-sabotage",
+       "2019-06-20-global-hawk-downed",
+       "2019-09-14-abqaiq-attack",
+       "2017-06-05-qatar-blockade",
+       "2015-03-26-saudi-intervention-yemen",
+       "2011-03-14-gcc-crushes-bahrain",
+       "2010-06-09-unsc-1929",
+       "iran-seven-day-hormuz-offer"
+      ]
+     },
+     "russia-332-drone-energy-strike": {
+      "id": "russia-332-drone-energy-strike",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Europe",
+      "title": "Russia fires 332 drones in 'one of its largest' strikes on Ukraine's grid",
+      "summary": "Ukraine's air force said Russia launched 332 attack drones, including 31 jet-powered ones, four Kalibr cruise missiles, Kh-22/32 cruise missiles and Iskander-M or KN-23 ballistic missiles overnight into Oct 17, and that 289 drones were downed; strikes hit 22 locations. Zelenskyy called it 'one of the largest strikes on Ukraine's energy infrastructure', saying more than 15 generation and transmission sites were targeted and Lutsk, Rivne, Zhytomyr, Vinnytsia, Shepetivka, Slavuta and Netishyn were hit worst. Regional officials said seven people were killed and about 90 injured; FAB-250 glide bombs hit two apartment blocks in Sloviansk. The strike came the same night Trump signed his Oct 16 order waiving Graham Act sanctions; on Oct 16 Putin had ordered forces to continue 'massive and coordinated strikes'. Zelenskyy said the US decision to 'completely disregard' the Graham sanctions law 'only encourages' Putin. Ukraine's General Staff rejected Gen. Gerasimov's claim of 1,800 km² and 92 settlements taken since Sept 1; ISW assesses a net Russian loss of 122 km² in that period.",
+      "sources": [
+       {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/"
+       },
+       {
+        "name": "RFE/RL",
+        "url": "https://www.rferl.org/a/russia-ukraine-civilians-killed-attack/33878396.html"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/russia-ukraine-war-trump-sanctions-energy-07e1dfc41bdad7b3292c6c263005fabc"
+       },
+       {
+        "name": "ISW / Critical Threats",
+        "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-17-2026"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "lutsk",
+       "rivne",
+       "zhytomyr",
+       "sloviansk",
+       "volodymyr-zelenskyy",
+       "vladimir-putin",
+       "north-korea"
+      ],
+      "causes": [
+       {
+        "story": "russia-grid-strikes-oct16",
+        "why": "Next night of the same pre-winter grid campaign",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-waives-russia-sanctions",
+        "why": "The strike coincided with the waiver the same night; at most the waiver removed a cost of pressing on",
+        "confidence": "speculative"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Western Ukraine's grid around the nuclear-linked Netishyn and Slavuta area is now a priority target, which stretches repair crews before winter. Inflated battlefield claims and grid strikes may be two halves of one message to Washington, that Russia is winning so Kyiv should be pressed; the strike was ordered before the waiver, so it was not a reply to it.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "russia-ukraine"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "lutsk",
+       "rivne",
+       "zhytomyr",
+       "sloviansk"
+      ],
+      "related_stories": [
+       "russia-grid-strikes-oct16",
+       "trump-waives-russia-sanctions",
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-10-energy-strikes",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "lutsk-blackout-volyn",
+       "putin-security-zone",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-08-15-alaska-summit",
+       "2025-04-28-dprk-confirms-kursk-troops",
+       "2024-06-19-putin-kim-treaty",
+       "2025-03-13-kursk-exit",
+       "2021-04-01-russia-spring-buildup",
+       "2021-07-12-putin-unity-essay",
+       "2023-03-17-icc-putin-warrant",
+       "2023-09-13-kim-putin-vostochny",
+       "2025-04-26-russia-claims-kursk",
+       "2026-05-14-kyiv-record-assault",
+       "2015-02-12-minsk-ii",
+       "2014-03-18-crimea-annexed",
+       "graham-waiver-bipartisan-backlash"
+      ]
+     },
+     "trump-waives-russia-sanctions": {
+      "id": "trump-waives-russia-sanctions",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-17",
+      "region": "Americas",
+      "title": "Trump waives much of the new Russia sanctions law two days before it takes effect",
+      "summary": "Trump signed an executive order on Friday night suspending many sanctions, restrictions and duties in the Russia sanctions law Congress passed and he signed in September, telling Congress the pause was in the US 'national interest'. The law gave him power to levy tariffs of up to 100% on the top five buyers of Russian oil and gas, chiefly China and India, and sanctioned senior Russian figures including Putin, Russian financial institutions and the shadow fleet; the BBC said many of those provisions were waived. Kremlin envoy Kirill Dmitriev called it 'an important and truly historic moment'. Zelenskyy said the sanctions 'could have helped enormously'; Democratic Rep. Don Beyer called it a 'surrender to Putin'.",
+      "sources": [
+       {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+       },
+       {
+        "name": "The Guardian (Ukraine war briefing)",
+        "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "united-states",
+       "russia",
+       "vladimir-putin",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "china",
+       "india",
+       "petroleum",
+       "ofac"
+      ],
+      "causes": [
+       {
+        "story": "diesel-deal",
+        "why": "The Russian diesel deal set the frame of easing Russia pressure to cut US fuel prices",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-disgrace-eu-summit",
+        "why": "The waiver followed Trump's open break with Zelenskyy over refinery strikes",
+        "confidence": "likely"
+       },
+       {
+        "story": "2026-09-18-graham-act-signed",
+        "why": "The waiver hollows out the act before it takes effect",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-17",
+      "analysis": {
+       "text": "The waiver completes a pivot: Washington is now trading Russia pressure for lower fuel prices before Nov 3, after the diesel deal, the energy pause and the Starshield curbs. Secondary tariffs on China and India were also the one tool that could have hit Russian oil revenue hard, so their removal eases pressure on Beijing and Delhi too. Expect Europe to carry more of Ukraine's financing and sanctions burden.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "russia-ukraine",
+       "global-oil",
+       "us-tariffs-trade"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "Executive order signed in Washington; a policy act with no event site.",
+      "related_stories": [
+       "diesel-deal",
+       "trump-disgrace-eu-summit",
+       "2026-09-18-graham-act-signed",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "energy-ceasefire",
+       "venezuela-oil",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-04-no-limits",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-03-08-us-oil-ban",
+       "2022-05-23-ipef",
+       "2022-06-23-himars",
+       "2022-09-02-price-cap",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-01-06-us-venezuela-oil-deal",
+       "2026-02-05-new-start-expires",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-20-scotus-ieepa",
+       "2026-05-14-trump-xi-beijing",
+       "2026-08-13-russian-diesel-lows",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-02-28-oval-office-clash",
+       "2025-04-02-liberation-day",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-08-refinery-strikes",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2025-10-30-busan-truce",
+       "2025-11-20-28-point-plan",
+       "2025-12-08-h200-china",
+       "2025-09-22-putin-new-start-offer",
+       "2025-11-06-c5-plus-1-summit",
+       "2023-08-24-brics-expansion",
+       "2023-09-09-delhi-g20",
+       "2024-10-02-china-coast-guard-arctic",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2020-01-15-phase-one-deal",
+       "2020-10-06-quad-tokyo-malabar",
+       "2021-03-12-quad-summit-anchorage",
+       "2021-04-01-russia-spring-buildup",
+       "2021-06-16-biden-putin-geneva",
+       "2021-07-12-putin-unity-essay",
+       "2023-03-17-icc-putin-warrant",
+       "2022-12-21-zelensky-washington",
+       "2026-05-14-kyiv-record-assault",
+       "2019-05-10-us-china-tariffs-escalate",
+       "2019-05-15-huawei-entity-list",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2019-10-09-operation-peace-spring",
+       "2019-12-02-power-of-siberia",
+       "2018-03-08-steel-aluminum-tariffs",
+       "2018-07-06-us-china-tariffs-begin",
+       "2017-04-07-shayrat-strike",
+       "2017-08-02-caatsa",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2015-07-14-jcpoa-agreed",
+       "2014-03-18-crimea-annexed",
+       "2014-05-21-russia-china-gas-deal",
+       "2013-11-24-iran-interim-deal",
+       "2011-03-19-libya-intervention",
+       "2009-06-16-first-bric-summit",
+       "2007-02-10-putin-munich-speech",
+       "2007-02-13-six-party-deal",
+       "2003-08-27-six-party-talks-begin",
+       "2002-05-24-moscow-treaty",
+       "2001-07-16-sino-russian-treaty",
+       "iran-seven-day-hormuz-offer"
+      ],
+      "revisions": [
+       {
+        "edition": "2026-10-14",
+        "why": "2026 backfill: link to the earlier 2026 events that led here",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-10-06",
+        "why": "Republishing the 2026-10-18 edition rolled this story back to its state before that edition; restore the later archive fix",
+        "fields": [
+         "storylines"
+        ]
+       }
+      ]
+     },
+     "pla-patrol-oct17-18": {
+      "id": "pla-patrol-oct17-18",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Asia-Pacific",
+      "title": "Taiwan tracks 2 PLA sorties, 5 navy ships and 9 'official' ships",
+      "summary": "Taiwan's defence ministry detected 2 PLA aircraft sorties, 5 PLAN ships and 9 official ships around Taiwan from 6 a.m. Oct 17 to 6 a.m. Oct 18 (UTC+8); both sorties crossed the median line into the northern and central ADIZ, and Taiwan responded with combat air patrols, navy ships and coastal missile systems.",
+      "sources": [
+       {
+        "name": "Taiwan Ministry of National Defense",
+        "url": "https://www.mnd.gov.tw/En/news/plaact/88008"
+       }
+      ],
+      "entities": [
+       "china",
+       "taiwan",
+       "pla"
+      ],
+      "causes": [
+       {
+        "story": "dongsha-coast-guard-incursion",
+        "why": "Continued coast-guard-heavy grey-zone pressure",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "The high count of government ships against few aircraft fits Beijing's shift toward coast-guard 'law enforcement' pressure seen at Dongsha this week.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "taiwan-indopacific"
+      ],
+      "era": "2020s",
+      "marker": "military",
+      "unplaced": "Activity spread across Taiwan's northern and central ADIZ; no single point.",
+      "related_stories": [
+       "dongsha-coast-guard-incursion",
+       "pla-drills",
+       "2022-08-04-pla-drills",
+       "pla-patrol-oct14-15",
+       "pla-patrol-oct15-16",
+       "2025-12-29-justice-mission-drills",
+       "2025-04-02-strait-thunder",
+       "2023-04-05-tsai-mccarthy"
+      ]
+     },
+     "brazil-runoff-dead-heat": {
+      "id": "brazil-runoff-dead-heat",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Americas",
+      "title": "Brazil's Oct 25 runoff is a dead heat between Lula and Flávio Bolsonaro",
+      "summary": "A Vox Brasil poll taken Oct 15-17 gave Lula 51% of valid votes to Flávio Bolsonaro's 49%, within the margin of error. Datafolha (Oct 15) had Bolsonaro 51%, Lula 49% of valid votes (47% to 45% of total votes; Vox's total-vote figures were Lula 46.4%, Bolsonaro 44.6%), and Ipespe had Bolsonaro 48%, Lula 46%; PoderData/Aya found a 50-50 tie. Bolsonaro won the first round 47.03% to 45.16%. Lula said he backs lowering the age of criminal responsibility to 16 for heinous crimes, a shift toward the opposition's security line.",
+      "sources": [
+       {
+        "name": "Exame (Vox Brasil)",
+        "url": "https://exame.com/brasil/pesquisa-vox-brasil-lula-tem-51-e-flavio-bolsonaro-49-em-empate-tecnico/"
+       },
+       {
+        "name": "G1 (Datafolha)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml"
+       },
+       {
+        "name": "Peter's World (Americas update)",
+        "url": "https://petersworld.org/cuba-security-update-oct-17/"
+       }
+      ],
+      "entities": [
+       "brazil",
+       "lula",
+       "flavio-bolsonaro"
+      ],
+      "causes": [
+       {
+        "story": "2026-10-04-brazil-first-round",
+        "why": "Runoff race set by the first round",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "A Bolsonaro win would extend Latin America's right turn and align Brazil with Washington's hemisphere agenda; a narrow result either way raises the risk of a disputed count.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "era": "2020s",
+      "marker": "political",
+      "unplaced": "National polling; no single site.",
+      "related_stories": [
+       "2026-10-04-brazil-first-round"
+      ]
+     }
+    },
+    "zones": {
+     "hormuz": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz",
+      "lat": 26.6,
+      "lon": 56.3,
+      "severity": "critical",
+      "note": "Iran's 7-day reopening offer via Qatar; 2nd tanker hits mine; record 12 attacks in a week",
+      "label_dx": 8,
+      "label_dy": -14,
+      "entities": [
+       "strait-of-hormuz",
+       "iran",
+       "irgc",
+       "persian-gulf",
+       "petroleum",
+       "united-states",
+       "iea",
+       "ukmto",
+       "abbas-araghchi"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "us-weighs-shadow-fleet-relief",
+       "iea-diesel-release",
+       "irgc-mine-supertanker-brent-110",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record"
+      ]
+     },
+     "cuba": {
+      "id": "cuba",
+      "name": "Cuba (grid & oil siege)",
+      "lat": 22.3,
+      "lon": -79.8,
+      "severity": "elevated",
+      "note": "75% of island dark at peak; peso 800/USD; UN embargo vote Oct 27-28",
+      "entities": [
+       "cuba",
+       "havana",
+       "santa-cruz-del-norte",
+       "united-states"
+      ],
+      "stories": [
+       "cuba-75pct-blackout-santa-cruz",
+       "2026-10-12-cuba-blockade-bites"
+      ],
+      "label_dx": 10,
+      "label_dy": -10
+     },
+     "ukraine": {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "lat": 49.5,
+      "lon": 32.0,
+      "severity": "critical",
+      "note": "332-drone strike on the grid; Kyiv rejects Gerasimov's gain claims",
+      "label_dx": -62,
+      "label_dy": -10,
+      "entities": [
+       "ukraine",
+       "russia",
+       "volodymyr-zelenskyy",
+       "starlink",
+       "spacex",
+       "sloviansk"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "lutsk-blackout-volyn",
+       "russia-grid-strikes-oct16",
+       "trump-waives-russia-sanctions",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang"
+      ]
+     },
+     "russia": {
+      "id": "russia",
+      "name": "Russia (oil/diesel)",
+      "lat": 55.7,
+      "lon": 37.6,
+      "severity": "high",
+      "note": "Sanctions waiver stands as Congress recesses; sabotage via criminal proxies alleged",
+      "entities": [
+       "russia",
+       "petroleum",
+       "steve-witkoff",
+       "european-union"
+      ],
+      "stories": [
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "putin-security-zone",
+       "trump-waives-russia-sanctions",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang"
+      ]
+     },
+     "lebanon": {
+      "id": "lebanon",
+      "name": "Lebanon (Israel–Hezbollah)",
+      "lat": 33.3,
+      "lon": 35.5,
+      "severity": "elevated",
+      "note": "Israeli strikes continue; talks in Tampa Oct 20",
+      "entities": [
+       "lebanon",
+       "israel",
+       "hezbollah",
+       "beirut"
+      ],
+      "stories": [
+       "lebanon-tampa-talks-demands",
+       "2026-10-14-lebanon-yellow-line"
+      ],
+      "label_dx": -178,
+      "label_dy": -8
+     },
+     "taiwan": {
+      "id": "taiwan",
+      "name": "Taiwan Strait",
+      "lat": 24.0,
+      "lon": 120.0,
+      "severity": "high",
+      "note": "2 sorties, 5 PLAN and 9 official ships; coast-guard pressure",
+      "entities": [
+       "taiwan",
+       "pla",
+       "lai-ching-te",
+       "china",
+       "pratas-island"
+      ],
+      "stories": [
+       "pla-drills",
+       "pla-patrol-oct14-15",
+       "pla-patrol-oct15-16",
+       "dongsha-coast-guard-incursion",
+       "pla-patrol-oct17-18"
+      ]
+     },
+     "yemen": {
+      "id": "yemen",
+      "name": "Yemen / Bab el-Mandeb",
+      "lat": 13.3,
+      "lon": 43.4,
+      "severity": "critical",
+      "note": "Missiles hit Aden airport; Yemen rejects Iran's mediation",
+      "label_dx": -60,
+      "label_dy": 32,
+      "entities": [
+       "houthis",
+       "yemen",
+       "bab-el-mandeb",
+       "red-sea",
+       "mokha",
+       "iran",
+       "aden"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-aden-airport-khamis-mushait",
+       "egypt-offers-to-defend-saudi"
+      ]
+     },
+     "saudi": {
+      "id": "saudi",
+      "name": "Saudi (Aramco)",
+      "lat": 25.5,
+      "lon": 48.5,
+      "severity": "high",
+      "note": "Missiles at Khamis Mushait intercepted; Egypt offers to defend the kingdom",
+      "label_dx": -105,
+      "label_dy": -12,
+      "entities": [
+       "saudi-arabia",
+       "aramco",
+       "houthis",
+       "petroleum",
+       "riyadh",
+       "yanbu",
+       "egypt"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-aden-airport-khamis-mushait",
+       "egypt-offers-to-defend-saudi"
+      ]
+     },
+     "venezuela": {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "lat": 8.0,
+      "lon": -66.0,
+      "severity": "elevated",
+      "note": "Talks turn to election rules; opposition march Oct 22",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "venezuela-talks-election-rules"
+      ]
+     },
+     "mali": {
+      "id": "mali",
+      "name": "Mali / Sahel",
+      "lat": 18.4,
+      "lon": 1.4,
+      "severity": "elevated",
+      "note": "IS claims 400 JNIM dead in Oudalan; 734 tankers reach Bamako",
+      "entities": [
+       "mali",
+       "kidal",
+       "sahel",
+       "africa-corps",
+       "jnim",
+       "fla",
+       "issp"
+      ],
+      "stories": [
+       "kidal",
+       "sahel-jnim-issp-oudalan"
+      ]
+     },
+     "tigray": {
+      "id": "tigray",
+      "name": "Tigray / Ethiopia-Eritrea border",
+      "lat": 14.12444444,
+      "lon": 38.72388889,
+      "severity": "elevated",
+      "note": "Federal forces claim Axum to Zalambessa; Eritrea calls it 'war'",
+      "entities": [
+       "ethiopia",
+       "eritrea",
+       "tplf",
+       "mekelle",
+       "axum",
+       "zalambessa"
+      ],
+      "stories": [
+       "ethiopia-tigray-advance",
+       "tigray-federal-takeover-rubio"
+      ],
+      "label_dx": 8,
+      "label_dy": 24
+     },
+     "drc": {
+      "id": "drc",
+      "name": "Eastern DRC",
+      "lat": -1.5,
+      "lon": 29.0,
+      "severity": "high",
+      "note": "Kabila's PPRD suspended; generals grounded; Belgium contacts frozen",
+      "entities": [
+       "drc",
+       "m23",
+       "joseph-kabila",
+       "rubaya",
+       "coltan",
+       "rwanda",
+       "felix-tshisekedi"
+      ],
+      "stories": [
+       "kabila-m23",
+       "rubaya-coltan",
+       "kabila-frn-succeeds-afc",
+       "kinshasa-suspends-kabila-party"
+      ]
+     },
+     "china": {
+      "id": "china",
+      "name": "China (rare earths)",
+      "lat": 35.0,
+      "lon": 105.0,
+      "severity": "high",
+      "note": "Draft curbs on AI models and chip designs; Yasukuni protest to Tokyo",
+      "entities": [
+       "china",
+       "rare-earths",
+       "gallium",
+       "mp-materials"
+      ],
+      "stories": [
+       "rare-earth-nov10",
+       "ai-minerals",
+       "pla-patrol-oct14-15",
+       "eu-china-rare-earth-green-channel",
+       "china-draft-ai-export-controls",
+       "takaichi-yasukuni-offering"
+      ]
+     },
+     "south-china-sea": {
+      "id": "south-china-sea",
+      "name": "South China Sea (Philippines)",
+      "lat": 12.0,
+      "lon": 115.0,
+      "severity": "watch",
+      "note": "9 Chinese assets shadow Philippine frigate at Scarborough",
+      "entities": [
+       "philippines",
+       "china"
+      ],
+      "stories": [
+       "ph-rebukes-china-envoy",
+       "scarborough-shadowing-miguel-malvar"
+      ]
+     }
+    },
+    "links": {
+     "lebanon--hormuz": {
+      "id": "lebanon--hormuz",
+      "from": "lebanon",
+      "to": "hormuz",
+      "label": "Hezbollah front in Iran's war",
+      "entities": [
+       "hezbollah",
+       "iran"
+      ],
+      "stories": [
+       "lebanon-tampa-talks-demands",
+       "iran-seven-day-hormuz-offer"
+      ]
+     }
+    },
+    "relationships": {},
+    "storylines": {},
+    "entities": {},
+    "entities_added": [
+     "gadi-eisenkot",
+     "likud",
+     "odesa",
+     "yashar"
+    ],
+    "date_saved": true,
+    "hotzones_date": "2026-10-18"
+   }
   }
  }
 }
