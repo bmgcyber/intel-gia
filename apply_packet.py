@@ -6,7 +6,7 @@ links, storylines, and relationships. A bare slug that is not declared is an
 error, and the whole packet is rejected. Nothing is written unless the packet
 is valid. See data/SCHEMA.md.
 """
-import argparse, copy, hashlib, json, re, sys, urllib.error, urllib.request
+import argparse, copy, hashlib, json, math, re, sys, urllib.error, urllib.parse, urllib.request
 from collections import Counter
 from datetime import datetime
 from pathlib import Path
@@ -21,17 +21,46 @@ SEVERITY = {"critical", "high", "elevated", "watch"}
 PLACE_PRECISIONS = {"city", "sector", "feature"}
 MARKERS = {"military", "strike", "diplomacy", "energy", "political"}
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-PACKET_KEYS = {"edition", "entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections"}
-STORY_KEYS = {"id", "date", "date_precision", "kind", "era", "edition", "region", "title", "summary", "analysis", "sources", "entities", "storylines", "causes", "where", "marker", "unplaced"}
-CORRECTION_FIELDS = ["title", "summary", "analysis", "sources", "entities", "storylines", "causes", "region", "date", "date_precision", "kind", "era", "where", "marker", "unplaced"]
+PACKET_KEYS = {"edition", "entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections", "markets", "calendar", "brief", "reports", "assessment_log"}
+STORY_KEYS = {"id", "date", "date_precision", "kind", "era", "edition", "region", "title", "summary", "analysis", "sources", "entities", "storylines", "causes", "where", "marker", "unplaced", "lede"}
+CORRECTION_FIELDS = ["title", "summary", "analysis", "sources", "entities", "storylines", "causes", "region", "date", "date_precision", "kind", "era", "where", "marker", "unplaced", "lede"]
 ENTITY_KEYS = {"id", "name", "type", "wikipedia"}
 PLACE_KEYS = ENTITY_KEYS | {"lat", "lon", "precision"}
-ZONE_KEYS = {"id", "name", "lat", "lon", "severity", "note", "entities", "stories", "label_dx", "label_dy"}
+ZONE_KEYS = {"id", "name", "lat", "lon", "severity", "note", "entities", "stories", "label_dx", "label_dy",
+             "area", "area_source"}
 LINK_KEYS = {"id", "from", "to", "label", "entities", "stories"}
 REL_KEYS = {"id", "a", "b", "type", "start", "end", "stated", "actual", "confidence", "evidence"}
-LINE_KEYS = {"id", "name", "entities", "stories", "source"}
+LINE_KEYS = {"id", "name", "short_name", "entities", "stories", "source"}
+LEDE_MAX, SHORT_NAME_MAX = 160, 24
 PLACE_CORRECTION_KEYS = {"id", "lat", "lon", "precision", "why"}
-LIST_KEYS = ("entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections")
+LIST_KEYS = ("entities", "storylines", "zones", "links", "relationships", "stories", "corrections", "place_corrections", "calendar", "reports", "assessment_log")
+# Optional edition sections (v7). A packet without them behaves exactly as before.
+MARKET_KEYS = {"asset", "label", "as_of", "value", "unit", "change", "change_unit", "basis", "note", "source", "stories", "series"}
+CHANGE_UNITS = {"%", "bp", "abs"}
+SERIES_MAX = 400
+CALENDAR_KEYS = {"id", "date", "date_precision", "end", "time", "tz", "title", "kind", "region", "note", "sources", "stories", "storylines", "entities"}
+CAL_PRECISIONS = {"year", "month", "day", "quarter", "range"}  # story date_precision + quarter, range
+QUARTER = re.compile(r"^(\d{4})-Q([1-4])$")
+DATETIME = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2})?(?:Z|[+-]\d{2}:\d{2})$")
+REPORT_KEYS = {"id", "title", "date", "author", "body", "stories", "storylines", "sources"}
+REPORT_BODY_MAX = 200_000
+LOG_KEYS = {"id", "date", "status", "scope", "raised_by", "author", "title", "reason", "stories", "storylines",
+            "confidence_from", "confidence_to", "wording_from", "wording_to", "sources", "supersedes", "revision_edition"}
+LOG_STATUS = {"accepted", "rejected"}
+LOG_SCOPES = {"story", "brief", "site"}
+# Hot-zone area geometry (theaters drawn as areas, never pins). Precision of point
+# locations stays the existing place `precision` (city|sector|feature); no second field.
+AREA_MAX_VERTICES = 400
+AREA_POINT_KM = 25   # a zone's point (marker/label anchor, often on the coast) must be inside its area or within this distance of its edge
+AREA_COUNTRY_KM = 100  # an area zone must lie within this distance of a country it names
+CALENDAR_KINDS = {"election", "econ", "talks", "deadline", "military", "other"}
+BRIEF_KEYS = {"bottom_line", "board", "threads", "connections", "deep_dive", "next_up"}
+BOARD_KEYS = {"region", "status", "trend", "note", "stories"}
+TRENDS = {"up", "flat", "down"}
+THREAD_KEYS = {"storyline", "note"}
+CONNECTION_KEYS = {"title", "confidence", "steps", "stories"}
+DEEP_DIVE_KEYS = {"title", "summary", "analysis", "sources", "stories"}
+TIME = re.compile(r"^(?:[01]\d|2[0-3]):[0-5]\d$")
 
 class PacketError(Exception):
     def __init__(self, errors):
@@ -293,6 +322,13 @@ class Corpus:
         self.ledger = load_json(ledger_path) if ledger_path.exists() else {"packets": {}}
         paths = data / "paths.json"
         self.paths = load_json(paths) if paths.exists() else {}
+        # Optional files: created only when a packet first carries the section.
+        self.markets = load_json(data / "markets.json") if (data / "markets.json").exists() else []
+        self.calendar = load_json(data / "calendar.json") if (data / "calendar.json").exists() else []
+        self.briefs = load_json(data / "briefs.json") if (data / "briefs.json").exists() else []
+        self.reports = load_json(data / "reports.json") if (data / "reports.json").exists() else []
+        # Red Team assessment log. Not `corrections` (a packet section that rewrites stories).
+        self.assessment_log = load_json(data / "assessment_log.json") if (data / "assessment_log.json").exists() else []
         self.dirty = set()
         self.reindex()
 
@@ -303,6 +339,11 @@ class Corpus:
         self.zone = {z["id"]: z for z in self.hotzones.get("zones", [])}
         self.link = {l["id"]: l for l in self.hotzones.get("links", [])}
         self.rel = {r["id"]: r for r in self.relationships}
+        self.market = {m["id"]: m for m in self.markets}
+        self.event = {c["id"]: c for c in self.calendar}
+        self.brief = {b["edition"]: b for b in self.briefs}
+        self.report = {r["id"]: r for r in self.reports}
+        self.logged = {c["id"]: c for c in self.assessment_log}
 
     def save(self):
         data = self.root / "data"
@@ -316,6 +357,17 @@ class Corpus:
             dump_json(data / "hotzones.json", self.hotzones)
         if "relationships" in self.dirty:
             dump_json(data / "relationships.json", self.relationships)
+        if "markets" in self.dirty:
+            dump_json(data / "markets.json", sorted(self.markets, key=lambda m: (m["as_of"], m["id"])))
+        if "calendar" in self.dirty:
+            dump_json(data / "calendar.json", sorted(self.calendar, key=lambda c: (cal_start(c["date"]), c["date"], c["id"])))
+        if "briefs" in self.dirty:
+            dump_json(data / "briefs.json", sorted(self.briefs, key=lambda b: b["edition"]))
+        if "reports" in self.dirty:
+            dump_json(data / "reports.json", sorted(self.reports, key=lambda r: (r["date"], r["id"])))
+        if "assessment_log" in self.dirty:
+            # append-only: file order is filing order (edition, then packet order)
+            dump_json(data / "assessment_log.json", self.assessment_log)
         if "ledger" in self.dirty:
             dump_json(data / "ledger.json", self.ledger)
         self.dirty.clear()
@@ -326,22 +378,36 @@ class Undo:
         self.relationships, self.storylines = {}, {}
         self.entities = {}
         self.entities_added = []
+        self.markets, self.calendar, self.briefs = {}, {}, {}
+        self.reports, self.assessment_log = {}, {}
         self.date_saved = False
         self.hotzones_date = None
 
     def to_json(self):
-        return {
+        out = {
             "stories": self.stories, "zones": self.zones, "links": self.links,
             "relationships": self.relationships, "storylines": self.storylines,
             "entities": self.entities,
             "entities_added": self.entities_added, "date_saved": self.date_saved,
             "hotzones_date": self.hotzones_date,
         }
+        # Only written when used, so ledgers for packets without these sections are unchanged.
+        if self.markets:
+            out["markets"] = self.markets
+        if self.calendar:
+            out["calendar"] = self.calendar
+        if self.briefs:
+            out["briefs"] = self.briefs
+        if self.reports:
+            out["reports"] = self.reports
+        if self.assessment_log:
+            out["assessment_log"] = self.assessment_log
+        return out
 
     @classmethod
     def from_json(cls, raw):
         undo = cls()
-        for name in ("stories", "zones", "links", "relationships", "storylines"):
+        for name in ("stories", "zones", "links", "relationships", "storylines", "markets", "calendar", "briefs", "reports", "assessment_log"):
             setattr(undo, name, (raw or {}).get(name) or {})
         undo.entities = (raw or {}).get("entities") or {}
         undo.entities_added = list((raw or {}).get("entities_added") or [])
@@ -379,6 +445,27 @@ def restore(corpus, undo):
     if undo.storylines:
         corpus.storylines = put_back(corpus.storylines, undo.storylines)
         corpus.dirty.add("storylines")
+    if undo.markets:
+        corpus.markets = put_back(corpus.markets, undo.markets)
+        corpus.dirty.add("markets")
+    if undo.calendar:
+        corpus.calendar = put_back(corpus.calendar, undo.calendar)
+        corpus.dirty.add("calendar")
+    if undo.reports:
+        corpus.reports = put_back(corpus.reports, undo.reports)
+        corpus.dirty.add("reports")
+    if undo.assessment_log:
+        corpus.assessment_log = put_back(corpus.assessment_log, undo.assessment_log)
+        corpus.dirty.add("assessment_log")
+    if undo.briefs:
+        by = {b["edition"]: b for b in corpus.briefs}
+        for ed, before in undo.briefs.items():
+            if before is None:
+                by.pop(ed, None)
+            else:
+                by[ed] = copy.deepcopy(before)
+        corpus.briefs = [by[b["edition"]] for b in corpus.briefs if b["edition"] in by]
+        corpus.dirty.add("briefs")
     if undo.entities:
         by = {item["id"]: i for i, item in enumerate(corpus.entities)}
         for ident, before in undo.entities.items():
@@ -487,16 +574,530 @@ def integrity(corpus):
             req(ident, entities, line["id"], "entity")
         for ident in line.get("stories") or []:
             req(ident, stories, line["id"], "story")
+    for fig in corpus.markets:
+        for ident in fig.get("stories") or []:
+            req(ident, stories, fig["id"], "story")
+    for item in corpus.calendar:
+        for ident in item.get("stories") or []:
+            req(ident, stories, item["id"], "story")
+        for ident in item.get("entities") or []:
+            req(ident, entities, item["id"], "entity")
+        for ident in item.get("storylines") or []:
+            req(ident, lines, item["id"], "storyline")
+    events = set(corpus.event)
+    for b in corpus.briefs:
+        where = f"brief {b['edition']}"
+        for row in b.get("board") or []:
+            for ident in row.get("stories") or []:
+                req(ident, stories, where, "story")
+        for t in b.get("threads") or []:
+            req(t.get("storyline"), lines, where, "storyline")
+        for c in b.get("connections") or []:
+            for ident in c.get("stories") or []:
+                req(ident, stories, where, "story")
+        for ident in (b.get("deep_dive") or {}).get("stories") or []:
+            req(ident, stories, where, "story")
+        for ident in b.get("next_up") or []:
+            req(ident, events, where, "calendar item")
+    for r in corpus.reports:
+        for ident in r.get("stories") or []:
+            req(ident, stories, r["id"], "story")
+        for ident in r.get("storylines") or []:
+            req(ident, lines, r["id"], "storyline")
+        for kind, ident in md_refs(r.get("body", "")):
+            req(ident, stories if kind == "story" else lines, r["id"], kind)
+    logged = set(corpus.logged)
+    superseded = Counter(c["supersedes"] for c in corpus.assessment_log if c.get("supersedes"))
+    for ident, n in superseded.items():
+        if n > 1:
+            errors.append(f"integrity: assessment log entry {ident} is superseded {n} times")
+    for c in corpus.assessment_log:
+        for ident in c.get("stories") or []:
+            req(ident, stories, c["id"], "story")
+        for ident in c.get("storylines") or []:
+            req(ident, lines, c["id"], "storyline")
+        if c.get("supersedes"):
+            req(c["supersedes"], logged, c["id"], "assessment log entry")
     return errors
+
+def is_datetime(value):
+    if not isinstance(value, str) or not DATETIME.fullmatch(value):
+        return False
+    try:
+        datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return True
+
+def is_date_or_datetime(value):
+    return precision_of(value) == "day" or is_datetime(value)
+
+def cal_start(value):
+    """Sort key / first day of a calendar date of any precision."""
+    m = QUARTER.fullmatch(value or "")
+    if m:
+        return f"{m.group(1)}-{3 * int(m.group(2)) - 2:02d}-01"
+    value = value or ""
+    if len(value) == 4:
+        return value + "-01-01"
+    return value if len(value) != 7 else value + "-01"
+
+MD_LINK = re.compile(r"\[([^\]\n]*)\]\(([^)\s]+)\)")
+MD_RAW_HTML = re.compile(r"<\s*[A-Za-z!/?]")
+
+def md_refs(body):
+    out = []
+    for _, target in MD_LINK.findall(body or ""):
+        if target.startswith("story:"):
+            out.append(("story", target[6:]))
+        elif target.startswith("storyline:"):
+            out.append(("storyline", target[10:]))
+    return out
+
+def check_markdown(body, path, errors, known_stories, known_lines):
+    """Safe subset: headings, paragraphs, lists, blockquote, hr, bold/italic/code, links.
+    No raw HTML, no images, links only http(s), #anchor, story:<id>, storyline:<id>."""
+    if not isinstance(body, str) or not body.strip():
+        errors.append(f"{path}.body must be non-empty Markdown text")
+        return
+    if len(body) > REPORT_BODY_MAX:
+        errors.append(f"{path}.body must be at most {REPORT_BODY_MAX} characters")
+    if MD_RAW_HTML.search(body):
+        errors.append(f"{path}.body must not contain raw HTML")
+    if "![" in body:
+        errors.append(f"{path}.body must not embed images")
+    for _, target in MD_LINK.findall(body):
+        if target.startswith(("https://", "http://", "#")):
+            continue
+        if target.startswith("story:"):
+            if target[6:] not in known_stories:
+                errors.append(f"{path}.body links unknown story {target[6:]}")
+        elif target.startswith("storyline:"):
+            if target[10:] not in known_lines:
+                errors.append(f"{path}.body links unknown storyline {target[10:]}")
+        else:
+            errors.append(f"{path}.body link {target} must be http(s), #anchor, story: or storyline:")
+
+def rings_of(area):
+    return [area["coordinates"]] if area.get("type") == "Polygon" else list(area.get("coordinates") or [])
+
+def check_area(area, path, errors):
+    if not isinstance(area, dict) or area.get("type") not in ("Polygon", "MultiPolygon") or set(area) - {"type", "coordinates"}:
+        errors.append(f"{path} must be a GeoJSON Polygon or MultiPolygon geometry")
+        return False
+    polys = rings_of(area)
+    if not isinstance(area.get("coordinates"), list) or not polys:
+        errors.append(f"{path}.coordinates must be a non-empty list")
+        return False
+    count = 0
+    for poly in polys:
+        if not isinstance(poly, list) or not poly:
+            errors.append(f"{path} polygon must be a list of rings"); return False
+        for ring in poly:
+            if not isinstance(ring, list) or len(ring) < 4:
+                errors.append(f"{path} ring needs at least 4 positions"); return False
+            for pt in ring:
+                if (not isinstance(pt, list) or len(pt) != 2 or not all(is_num(v) for v in pt)
+                        or not -180 <= pt[0] <= 180 or not -90 <= pt[1] <= 90):
+                    errors.append(f"{path} position must be [lon, lat] in range"); return False
+            if ring[0] != ring[-1]:
+                errors.append(f"{path} ring must be closed"); return False
+            count += len(ring)
+    if count > AREA_MAX_VERTICES:
+        errors.append(f"{path} has {count} vertices; simplify to at most {AREA_MAX_VERTICES}")
+        return False
+    return True
+
+def point_in_area(lon, lat, area):
+    def in_ring(ring):
+        inside = False
+        for (x1, y1), (x2, y2) in zip(ring, ring[1:]):
+            if (y1 > lat) != (y2 > lat) and lon < (x2 - x1) * (lat - y1) / (y2 - y1) + x1:
+                inside = not inside
+        return inside
+    return any(in_ring(poly[0]) and not any(in_ring(h) for h in poly[1:]) for poly in rings_of(area))
+
+# Country outlines for the "falls inside its stated country/theater" check: the vendored
+# Natural Earth 1:110m admin-0 file already in data/ (public domain). Entities match by
+# name or Wikipedia title; microstates absent at 1:110m (e.g. Bahrain) are "unchecked".
+_COUNTRIES = {}
+
+def country_shapes(root):
+    key = str(root)
+    if key not in _COUNTRIES:
+        shapes = {}
+        for path in (Path(root) / "data" / "ne110.geojson", Path(__file__).resolve().parent / "data" / "ne110.geojson"):
+            if path.exists():
+                for feat in load_json(path).get("features") or []:
+                    props, geom = feat.get("properties") or {}, feat.get("geometry")
+                    if not geom or geom.get("type") not in ("Polygon", "MultiPolygon"):
+                        continue
+                    for k in ("NAME", "NAME_LONG", "ADMIN", "GEOUNIT", "BRK_NAME", "NAME_EN", "FORMAL_EN"):
+                        if props.get(k):
+                            shapes.setdefault(props[k].lower(), geom)
+                break
+        _COUNTRIES[key] = shapes
+    return _COUNTRIES[key]
+
+def country_shape(root, entity):
+    if not entity or entity.get("type") != "country":
+        return None
+    shapes = country_shapes(root)
+    title = urllib.parse.unquote(str(entity.get("wikipedia") or "").rsplit("/", 1)[-1]).replace("_", " ").lower()
+    return shapes.get(str(entity.get("name") or "").lower()) or shapes.get(title)
+
+def _km(lon1, lat1, lon2, lat2):
+    k = math.cos(math.radians((lat1 + lat2) / 2))
+    return math.hypot((lon2 - lon1) * 111.32 * k, (lat2 - lat1) * 110.57)
+
+def _seg_km(lon, lat, a, b):
+    k = math.cos(math.radians(lat)) * 111.32
+    ax, ay, bx, by = (a[0] - lon) * k, (a[1] - lat) * 110.57, (b[0] - lon) * k, (b[1] - lat) * 110.57
+    dx, dy = bx - ax, by - ay
+    t = 0.0 if dx == dy == 0 else max(0.0, min(1.0, -(ax * dx + ay * dy) / (dx * dx + dy * dy)))
+    return math.hypot(ax + t * dx, ay + t * dy)
+
+def km_to_shape(lon, lat, shape):
+    """0 inside the shape, else the distance (km, local equirectangular) to its edge."""
+    if point_in_area(lon, lat, shape):
+        return 0.0
+    return min(_seg_km(lon, lat, a, b) for poly in rings_of(shape) for ring in poly for a, b in zip(ring, ring[1:]))
+
+def km_between(area, shape):
+    pts_a = [pt for poly in rings_of(area) for pt in poly[0]]
+    pts_b = [pt for poly in rings_of(shape) for pt in poly[0]]
+    if any(point_in_area(x, y, shape) for x, y in pts_a) or any(point_in_area(x, y, area) for x, y in pts_b):
+        return 0.0
+    return min(min(km_to_shape(x, y, shape) for x, y in pts_a), min(km_to_shape(x, y, area) for x, y in pts_b))
+
+def check_area_theater(root, item, path, entities, errors):
+    """An area zone must name at least one country entity, and lie within AREA_COUNTRY_KM of
+    at least one of the named countries we have an outline for."""
+    countries = [entities.get(e) for e in item.get("entities") or [] if (entities.get(e) or {}).get("type") == "country"]
+    if not countries:
+        errors.append(f"{path}.area: name at least one country entity the area borders or lies in")
+        return
+    shaped = [c for c in countries if country_shape(root, c)]
+    if shaped and min(km_between(item["area"], country_shape(root, c)) for c in shaped) > AREA_COUNTRY_KM:
+        errors.append(f"{path}.area is not within {AREA_COUNTRY_KM} km of any named country ({', '.join(c['id'] for c in shaped)})")
+
+def market_items(packet, errors):
+    """markets[] has no id of its own: the key is asset + as_of (one figure per asset per day)."""
+    if "markets" not in packet:
+        return []
+    value = packet["markets"]
+    if not isinstance(value, list):
+        errors.append("markets must be a list")
+        return []
+    out, seen = [], set()
+    for i, item in enumerate(value):
+        path = f"markets[{i}]"
+        if not isinstance(item, dict):
+            errors.append(f"{path} must be an object")
+            continue
+        if not need_slug(item.get("asset"), f"{path}.asset", errors):
+            continue
+        if not is_date_or_datetime(item.get("as_of")):
+            errors.append(f"{path}.as_of must be YYYY-MM-DD or an ISO date-time with offset (YYYY-MM-DDTHH:MM[:SS]±HH:MM or Z)")
+            continue
+        ident = f"{item['asset']}--{item['as_of']}"
+        if ident in seen:
+            errors.append(f"{path} duplicate figure {ident}")
+            continue
+        seen.add(ident)
+        out.append(dict(item, id=ident))
+    return out
+
+def check_number(item, key, path, errors, required=False):
+    if key not in item:
+        if required:
+            errors.append(f"{path}.{key} is required")
+        return
+    if not is_num(item[key]) or item[key] != item[key] or item[key] in (float("inf"), float("-inf")):
+        errors.append(f"{path}.{key} must be a number")
+
+def check_source(source, path, errors):
+    if not isinstance(source, dict):
+        errors.append(f"{path} must be an object with name and url")
+        return
+    unknown(source, {"name", "url"}, path, errors)
+    need_str(source, "name", path, errors)
+    check_url(source.get("url"), f"{path}.url", errors)
+
+def check_series(series, as_of, path, errors):
+    if not isinstance(series, list) or not series or len(series) > SERIES_MAX:
+        errors.append(f"{path} must be a list of 1..{SERIES_MAX} [YYYY-MM-DD, number] points")
+        return
+    last = ""
+    for i, point in enumerate(series):
+        if (not isinstance(point, list) or len(point) != 2 or not is_date_or_datetime(point[0])
+                or not is_num(point[1]) or point[1] != point[1] or point[1] in (float("inf"), float("-inf"))):
+            errors.append(f"{path}[{i}] must be [YYYY-MM-DD or ISO date-time, number]")
+            return
+        if point[0] <= last:
+            errors.append(f"{path}[{i}] dates must be strictly ascending")
+            return
+        if point[0][:10] > as_of[:10] or (len(point[0]) > 10 and len(as_of) > 10 and point[0] > as_of):
+            errors.append(f"{path}[{i}] is after as_of")
+            return
+        last = point[0]
+
+def check_short(item, key, limit, path, errors):
+    if key in item and need_str(item, key, path, errors) and len(item[key]) > limit:
+        errors.append(f"{path}.{key} must be at most {limit} characters")
+
+def market_fields(item):
+    return {k: v for k, v in item.items() if k not in ("id",)}
+
+def validate_markets(corpus, items, edition, known_stories, errors):
+    for item in items:
+        path = f"markets.{item['id']}"
+        unknown({k: v for k, v in item.items() if k != "id"}, MARKET_KEYS, path, errors)
+        need_str(item, "label", path, errors)
+        need_str(item, "unit", path, errors)
+        check_number(item, "value", path, errors, required=True)
+        check_number(item, "change", path, errors)
+        if "change" in item and item.get("change_unit") not in CHANGE_UNITS:
+            errors.append(f"{path}.change_unit must be one of %, bp, abs")
+        elif "change_unit" in item and "change" not in item:
+            errors.append(f"{path}.change_unit needs change")
+        if "series" in item:
+            check_series(item["series"], item["as_of"], f"{path}.series", errors)
+        for key in ("basis", "note"):
+            if key in item:
+                need_str(item, key, path, errors)
+        if item["as_of"][:10] > edition:
+            errors.append(f"{path}.as_of is after the edition")
+        check_source(item.get("source"), f"{path}.source", errors)
+        check_id_list(item.get("stories", []), f"{path}.stories", known_stories, errors, "story")
+        have = corpus.market.get(item["id"])
+        if have and {k: v for k, v in have.items() if k not in ("id", "edition")} != market_fields(item):
+            errors.append(f"{path} was already recorded by edition {have.get('edition')}; a figure is not rewritten")
+
+def validate_calendar(corpus, items, known_stories, known_entities, errors, known_lines=()):
+    for item in items:
+        path = f"calendar.{item['id']}"
+        unknown(item, CALENDAR_KEYS, path, errors)
+        need_str(item, "title", path, errors)
+        if "kind" in item and item["kind"] not in CALENDAR_KINDS:
+            errors.append(f"{path}.kind must be one of {', '.join(sorted(CALENDAR_KINDS))}")
+        if "region" in item and item["region"] not in REGIONS:
+            errors.append(f"{path}.region must be a known region")
+        check_id_list(item.get("storylines", []), f"{path}.storylines", known_lines, errors, "storyline")
+        prec = item.get("date_precision", "day")
+        date = item.get("date")
+        if prec not in CAL_PRECISIONS:
+            errors.append(f"{path}.date_precision must be year, month, day, quarter or range")
+        elif "date" not in item:
+            errors.append(f"{path}.date is required; undated items belong in the brief text")
+        elif prec in ("day", "range") and precision_of(date) != "day":
+            errors.append(f"{path}.date must be a YYYY-MM-DD date for {prec} precision")
+        elif prec == "year" and precision_of(date) != "year":
+            errors.append(f"{path}.date must be YYYY for year precision")
+        elif prec == "month" and precision_of(date) != "month":
+            errors.append(f"{path}.date must be YYYY-MM for month precision")
+        elif prec == "quarter" and not (isinstance(date, str) and QUARTER.fullmatch(date)):
+            errors.append(f"{path}.date must be YYYY-Qn for quarter precision")
+        if prec == "range":
+            if precision_of(item.get("end")) != "day":
+                errors.append(f"{path}.end must be a YYYY-MM-DD date for range precision")
+            elif isinstance(date, str) and item["end"] <= date:
+                errors.append(f"{path}.end must be after date")
+        elif "end" in item:
+            errors.append(f"{path}.end needs date_precision range")
+        if prec in ("year", "month", "quarter") and "time" in item:
+            errors.append(f"{path}.time needs day or range precision")
+        if "time" in item and (not isinstance(item["time"], str) or not TIME.fullmatch(item["time"])):
+            errors.append(f"{path}.time must be HH:MM (24h)")
+        if "tz" in item:
+            need_str(item, "tz", path, errors)
+        elif "time" in item:
+            errors.append(f"{path}.time needs tz (e.g. America/New_York)")
+        if "note" in item:
+            need_str(item, "note", path, errors)
+        check_sources(item.get("sources"), path, errors)
+        check_id_list(item.get("stories", []), f"{path}.stories", known_stories, errors, "story")
+        check_id_list(item.get("entities", []), f"{path}.entities", known_entities, errors, "entity")
+
+def validate_reports(corpus, items, edition, known_stories, known_lines, errors):
+    for item in items:
+        path = f"reports.{item['id']}"
+        unknown(item, REPORT_KEYS, path, errors)
+        for key in ("title", "author"):
+            need_str(item, key, path, errors)
+        if precision_of(item.get("date")) != "day":
+            errors.append(f"{path}.date must be a YYYY-MM-DD date")
+        elif item["date"] > edition:
+            errors.append(f"{path}.date is after the edition")
+        check_markdown(item.get("body"), path, errors, known_stories, known_lines)
+        check_id_list(item.get("stories", []), f"{path}.stories", known_stories, errors, "story")
+        check_id_list(item.get("storylines", []), f"{path}.storylines", known_lines, errors, "storyline")
+        if "sources" in item:
+            check_sources(item["sources"], path, errors)
+        have = corpus.report.get(item["id"])
+        if have and {k: v for k, v in have.items() if k != "edition"} != item:
+            errors.append(f"{path} was filed by edition {have.get('edition')}; a report is not rewritten (file a new id)")
+
+def validate_assessment_log(corpus, items, edition, known_stories, known_lines, errors, corrected=frozenset()):
+    """Red Team assessment log. Append-only: an id is written once; resending identical
+    content is a no-op; there is no update or delete path. A later view of a point is a
+    new entry with `supersedes`. `revision_edition` points at the edition whose story
+    correction (`revisions[]`) or republish carried the change."""
+    logged = set(corpus.logged)
+    superseded = {c["supersedes"] for c in corpus.assessment_log if c.get("supersedes")}
+    for item in items:
+        path = f"assessment_log.{item['id']}"
+        unknown(item, LOG_KEYS, path, errors)
+        for key in ("author", "title", "reason"):
+            need_str(item, key, path, errors)
+        if not is_date_or_datetime(item.get("date")):
+            errors.append(f"{path}.date must be YYYY-MM-DD or an ISO date-time with offset")
+        elif item["date"][:10] > edition:
+            errors.append(f"{path}.date is after the edition")
+        if item.get("status") not in LOG_STATUS:
+            errors.append(f"{path}.status must be accepted or rejected")
+        scope = item.get("scope", "story")
+        if scope not in LOG_SCOPES:
+            errors.append(f"{path}.scope must be story, brief or site")
+        if "raised_by" in item:
+            need_str(item, "raised_by", path, errors)
+        if scope == "story" and not item.get("stories"):
+            errors.append(f"{path}.stories must name at least one story for scope story")
+        check_id_list(item.get("stories", []), f"{path}.stories", known_stories, errors, "story")
+        check_id_list(item.get("storylines", []), f"{path}.storylines", known_lines, errors, "storyline")
+        if ("confidence_from" in item) != ("confidence_to" in item):
+            errors.append(f"{path} needs both confidence_from and confidence_to")
+        for key in ("confidence_from", "confidence_to"):
+            if key in item and item[key] not in CONFIDENCE:
+                errors.append(f"{path}.{key} must be likely, possible or speculative")
+        for key in ("wording_from", "wording_to"):
+            if key in item:
+                need_str(item, key, path, errors)
+        if item.get("status") == "rejected":
+            if "wording_to" in item:
+                errors.append(f"{path} is rejected; it cannot carry wording_to")
+            if item.get("confidence_from") != item.get("confidence_to"):
+                errors.append(f"{path} is rejected; confidence cannot change")
+        if "sources" in item:
+            check_sources(item["sources"], path, errors)
+        sup = item.get("supersedes")
+        if sup is not None:
+            if sup == item["id"]:
+                errors.append(f"{path} cannot supersede itself")
+            elif sup not in logged:
+                errors.append(f"{path}.supersedes unknown assessment log entry {sup}")
+            elif sup in superseded and corpus.logged.get(item["id"]) is None:
+                errors.append(f"{path}.supersedes {sup}, which is already superseded")
+            else:
+                superseded.add(sup)
+        led = item.get("revision_edition")
+        if led is not None:
+            if precision_of(led) != "day":
+                errors.append(f"{path}.revision_edition must be a YYYY-MM-DD edition")
+            elif led != edition and led not in (corpus.ledger.get("packets") or {}):
+                errors.append(f"{path}.revision_edition {led} has no ledger entry")
+            elif item.get("status") == "rejected":
+                errors.append(f"{path} is rejected; it cannot point at a revision")
+            else:
+                for sid in item.get("stories") or []:
+                    story = corpus.story.get(sid)
+                    if story is None or sid in corrected:
+                        continue  # unknown ids are reported above; this packet's own corrections count
+                    if story.get("edition") != led and not any(r.get("edition") == led for r in story.get("revisions") or []):
+                        errors.append(f"{path}: story {sid} has no revision or republish in edition {led}")
+        have = corpus.logged.get(item["id"])
+        if have and {k: v for k, v in have.items() if k != "edition"} != item:
+            errors.append(f"{path} already logged by edition {have.get('edition')}; the log is append-only (file a new id with supersedes)")
+        logged.add(item["id"])
+
+def brief_items(packet, errors):
+    if "brief" not in packet:
+        return []
+    if not isinstance(packet["brief"], dict):
+        errors.append("brief must be an object")
+        return []
+    return [packet["brief"]]
+
+def validate_brief(item, known_stories, known_lines, known_events, errors):
+    path = "brief"
+    unknown(item, BRIEF_KEYS, path, errors)
+    need_str(item, "bottom_line", path, errors)
+    def objects(key):
+        value = item.get(key, [])
+        if not isinstance(value, list):
+            errors.append(f"{path}.{key} must be a list")
+            return []
+        out = []
+        for i, row in enumerate(value):
+            if not isinstance(row, dict):
+                errors.append(f"{path}.{key}[{i}] must be an object")
+            else:
+                out.append((f"{path}.{key}[{i}]", row))
+        return out
+    seen = set()
+    for p, row in objects("board"):
+        unknown(row, BOARD_KEYS, p, errors)
+        if row.get("region") not in REGIONS:
+            errors.append(f"{p}.region must be a known region")
+        elif row["region"] in seen:
+            errors.append(f"{p} duplicate region {row['region']}")
+        seen.add(row.get("region"))
+        if row.get("status") not in SEVERITY:
+            errors.append(f"{p}.status must be critical, high, elevated or watch")
+        if "trend" in row and row["trend"] not in TRENDS:
+            errors.append(f"{p}.trend must be up, flat or down")
+        need_str(row, "note", p, errors)
+        check_id_list(row.get("stories", []), f"{p}.stories", known_stories, errors, "story")
+    for p, row in objects("threads"):
+        unknown(row, THREAD_KEYS, p, errors)
+        if row.get("storyline") not in known_lines:
+            errors.append(f"{p}.storyline unknown storyline {row.get('storyline')}")
+        if "note" in row:
+            need_str(row, "note", p, errors)
+    for p, row in objects("connections"):
+        unknown(row, CONNECTION_KEYS, p, errors)
+        need_str(row, "title", p, errors)
+        if row.get("confidence") not in CONFIDENCE:
+            errors.append(f"{p}.confidence must be likely, possible or speculative")
+        steps = row.get("steps")
+        if not isinstance(steps, list) or len(steps) < 2 or not all(isinstance(x, str) and x.strip() for x in steps):
+            errors.append(f"{p}.steps must list at least two non-empty strings")
+        if not row.get("stories"):
+            errors.append(f"{p}.stories must cite at least one story")
+        check_id_list(row.get("stories", []), f"{p}.stories", known_stories, errors, "story")
+    if "deep_dive" in item:
+        dd = item["deep_dive"]
+        if not isinstance(dd, dict):
+            errors.append(f"{path}.deep_dive must be an object")
+        else:
+            p = f"{path}.deep_dive"
+            unknown(dd, DEEP_DIVE_KEYS, p, errors)
+            need_str(dd, "title", p, errors)
+            need_str(dd, "summary", p, errors)
+            check_analysis(dd.get("analysis"), p, errors)
+            check_sources(dd.get("sources"), p, errors)
+            check_id_list(dd.get("stories", []), f"{p}.stories", known_stories, errors, "story")
+    if "next_up" in item:
+        check_id_list(item["next_up"], f"{path}.next_up", known_events, errors, "calendar item")
+
+DROPPED = []  # publish-log lines for items dropped (not rejected) by the last validate()
 
 def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=None):
     errors = []
+    DROPPED.clear()
     unknown(packet, PACKET_KEYS, "packet", errors)
     if packet.get("edition") != edition:
         errors.append(f"edition must be {edition}")
     lists = {key: as_objects(packet, key, errors) for key in LIST_KEYS}
+    lists["markets"] = market_items(packet, errors)
+    lists["brief"] = brief_items(packet, errors)
     if not any(lists.values()):
         errors.append("packet has nothing to apply")
+    # Director 2026-10-18: a calendar item with no source is DROPPED (named in the publish log),
+    # not a reason to reject the packet. A sources value that is present but malformed still rejects.
+    lists["calendar"], dropped = [c for c in lists["calendar"] if c.get("sources") not in (None, [])], \
+        [c["id"] for c in lists["calendar"] if c.get("sources") in (None, [])]
+    DROPPED.extend(f"dropped calendar.{i}: no source (a calendar item needs at least one source)" for i in dropped)
     known_entities = set(corpus.entity) | {e["id"] for e in lists["entities"]}
     known_lines = (set(corpus.line) - gone["storylines"]) | {s["id"] for s in lists["storylines"]}
     known_zones = (set(corpus.zone) - gone["zones"]) | {z["id"] for z in lists["zones"]}
@@ -531,6 +1132,7 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
         path = f"storylines.{item['id']}"
         unknown(item, LINE_KEYS, path, errors)
         need_str(item, "name", path, errors)
+        check_short(item, "short_name", SHORT_NAME_MAX, path, errors)
         have = corpus.line.get(item["id"]) if item["id"] not in gone["storylines"] else None
         if have and have.get("name") != item.get("name"):
             errors.append(f"{path} already exists with a different name")
@@ -544,16 +1146,17 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
         if new:
             for key in ("name", "note"):
                 need_str(item, key, path, errors)
-            if not is_num(item.get("lat")) or not -90 <= item.get("lat", 999) <= 90:
-                errors.append(f"{path}.lat must be a latitude")
-            if not is_num(item.get("lon")) or not -180 <= item.get("lon", 999) <= 180:
-                errors.append(f"{path}.lon must be a longitude")
+            if "area" not in item or "lat" in item or "lon" in item:
+                if not is_num(item.get("lat")) or not -90 <= item.get("lat", 999) <= 90:
+                    errors.append(f"{path}.lat must be a latitude")
+                if not is_num(item.get("lon")) or not -180 <= item.get("lon", 999) <= 180:
+                    errors.append(f"{path}.lon must be a longitude")
             if item.get("severity") not in SEVERITY:
                 errors.append(f"{path}.severity must be critical, high, elevated, or watch")
             if not item.get("entities"):
                 errors.append(f"{path}.entities must name at least one entity")
         else:
-            present = [k for k in ("name", "lat", "lon", "severity", "note", "entities", "stories", "label_dx", "label_dy") if k in item]
+            present = [k for k in ("name", "lat", "lon", "severity", "note", "entities", "stories", "label_dx", "label_dy", "area", "area_source") if k in item]
             if not present:
                 errors.append(f"{path} does not change the zone")
             if "severity" in item and item["severity"] not in SEVERITY:
@@ -566,6 +1169,25 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
                 need_str(item, "name", path, errors)
             if "note" in item:
                 need_str(item, "note", path, errors)
+        if not new and "area" not in item and ("lat" in item or "lon" in item) and (corpus.zone.get(item["id"]) or {}).get("area"):
+            base = corpus.zone[item["id"]]
+            lat, lon = item.get("lat", base.get("lat")), item.get("lon", base.get("lon"))
+            if is_num(lat) and is_num(lon) and km_to_shape(lon, lat, base["area"]) > AREA_POINT_KM:
+                errors.append(f"{path} lat/lon is more than {AREA_POINT_KM} km outside its area")
+        if "area" in item or "area_source" in item:
+            if "area_source" not in item:
+                errors.append(f"{path}.area needs area_source (Natural Earth, IHO or another named authority)")
+            else:
+                check_source(item["area_source"], f"{path}.area_source", errors)
+            if "area" not in item:
+                errors.append(f"{path}.area_source needs area")
+            elif check_area(item["area"], f"{path}.area", errors):
+                ents = dict(corpus.entity, **{e["id"]: e for e in lists["entities"]})
+                check_area_theater(corpus.root, dict(item, entities=union((corpus.zone.get(item["id"]) or {}).get("entities") if not new else [], item.get("entities") or [])), path, ents, errors)
+                base = {} if new else (corpus.zone.get(item["id"]) or {})
+                lat, lon = item.get("lat", base.get("lat")), item.get("lon", base.get("lon"))
+                if is_num(lat) and is_num(lon) and km_to_shape(lon, lat, item["area"]) > AREA_POINT_KM:
+                    errors.append(f"{path} lat/lon is more than {AREA_POINT_KM} km outside its area")
         for key in ("label_dx", "label_dy"):
             if key in item and not is_num(item[key]):
                 errors.append(f"{path}.{key} must be a number")
@@ -641,6 +1263,7 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
             errors.append(f"{path}.kind must be a known kind")
         need_str(item, "title", path, errors)
         need_str(item, "summary", path, errors)
+        check_short(item, "lede", LEDE_MAX, path, errors)
         check_analysis(item.get("analysis"), path, errors)
         check_sources(item.get("sources"), path, errors)
         if not item.get("entities"):
@@ -667,6 +1290,7 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
             continue
         if not any(k in item for k in CORRECTION_FIELDS):
             errors.append(f"{path} does not change the story")
+        check_short(item, "lede", LEDE_MAX, path, errors)
         if "region" in item and item["region"] not in REGIONS:
             errors.append(f"{path}.region must be a known region")
         if "kind" in item and item["kind"] not in KINDS:
@@ -715,6 +1339,15 @@ def validate(corpus, packet, edition, gone, owned, wikipedia, prior_entities=Non
         if (base.get("lat"), base.get("lon"), base.get("precision")) == (item.get("lat"), item.get("lon"), item.get("precision")):
             errors.append(f"{path} does not change the place")
 
+    validate_markets(corpus, lists["markets"], edition, known_stories, errors)
+    validate_calendar(corpus, lists["calendar"], known_stories, known_entities, errors, known_lines)
+    known_events = set(corpus.event) | {c["id"] for c in lists["calendar"]}
+    for item in lists["brief"]:
+        validate_brief(item, known_stories, known_lines, known_events, errors)
+    validate_reports(corpus, lists["reports"], edition, known_stories, known_lines, errors)
+    validate_assessment_log(corpus, lists["assessment_log"], edition, known_stories, known_lines, errors,
+                            {c["id"] for c in lists["corrections"]} | {s["id"] for s in lists["stories"]})
+
     latest = max(corpus.ledger.get("packets") or {"": {}})
     if latest and edition < latest and (lists["zones"] or lists["links"]):
         errors.append(f"hot zone snapshot is owned by edition {latest}")
@@ -758,6 +1391,7 @@ def apply_changes(corpus, lists, edition, owned, counts):
             remember(undo.storylines, item["id"], None)
             corpus.storylines.append({
                 "id": item["id"], "name": item["name"],
+                **({"short_name": item["short_name"]} if "short_name" in item else {}),
                 "entities": list(item.get("entities") or []),
                 "stories": list(item.get("stories") or []),
                 "source": item.get("source") or "inbox",
@@ -769,6 +1403,8 @@ def apply_changes(corpus, lists, edition, owned, counts):
             before = copy.deepcopy(have)
             have["entities"] = union(have.get("entities"), item.get("entities") or [])
             have["stories"] = union(have.get("stories"), item.get("stories") or [])
+            if "short_name" in item:
+                have["short_name"] = item["short_name"]
             if have != before:
                 undo.storylines[item["id"]] = before
                 counts["storyline"] += 1
@@ -779,10 +1415,10 @@ def apply_changes(corpus, lists, edition, owned, counts):
         have = corpus.zone.get(item["id"])
         if have is None:
             remember(undo.zones, item["id"], None)
-            zone = {k: item[k] for k in ("id", "name", "lat", "lon", "severity", "note")}
+            zone = {k: item[k] for k in ("id", "name", "lat", "lon", "severity", "note") if k in item}
             zone["entities"] = list(item.get("entities") or [])
             zone["stories"] = list(item.get("stories") or [])
-            for key in ("label_dx", "label_dy"):
+            for key in ("label_dx", "label_dy", "area", "area_source"):
                 if key in item:
                     zone[key] = item[key]
             corpus.hotzones["zones"].append(zone)
@@ -790,9 +1426,9 @@ def apply_changes(corpus, lists, edition, owned, counts):
             corpus.reindex()
         else:
             before = copy.deepcopy(have)
-            for key in ("name", "lat", "lon", "severity", "note", "label_dx", "label_dy"):
+            for key in ("name", "lat", "lon", "severity", "note", "label_dx", "label_dy", "area", "area_source"):
                 if key in item:
-                    have[key] = item[key]
+                    have[key] = copy.deepcopy(item[key])
             if "entities" in item:
                 have["entities"] = union(have.get("entities"), item["entities"])
             if "stories" in item:
@@ -873,6 +1509,8 @@ def apply_changes(corpus, lists, edition, owned, counts):
             stored["storylines"] = list(item["storylines"])
         if item.get("era"):
             stored["era"] = item["era"]
+        if item.get("lede"):
+            stored["lede"] = item["lede"]
         stored["marker"] = item["marker"]
         if item.get("where"):
             stored["where"] = list(item["where"])
@@ -927,6 +1565,68 @@ def apply_changes(corpus, lists, edition, owned, counts):
         counts["place"] += 1
         corpus.dirty.add("entities")
 
+    for item in lists["markets"]:
+        if item["id"] in corpus.market:
+            continue  # identical restatement of a recorded figure
+        remember(undo.markets, item["id"], None)
+        fig = {"id": item["id"]}
+        fig.update({k: copy.deepcopy(item[k]) for k in sorted(MARKET_KEYS) if k in item})
+        fig["edition"] = edition
+        corpus.markets.append(fig)
+        counts["market"] += 1
+        corpus.dirty.add("markets")
+
+    for item in lists["calendar"]:
+        have = corpus.event.get(item["id"])
+        remember(undo.calendar, item["id"], have)
+        new = {k: copy.deepcopy(item[k]) for k in ("id", "date", "date_precision", "end", "time", "tz", "title", "kind", "region", "note", "sources") if k in item}
+        if have is None:
+            new.update(stories=list(item.get("stories", [])), storylines=list(item.get("storylines", [])),
+                       entities=list(item.get("entities", [])), edition=edition)
+            corpus.calendar.append(new)
+            counts["calendar"] += 1
+            corpus.dirty.add("calendar")
+            continue
+        new.update(stories=union(have.get("stories"), item.get("stories", [])),
+                   storylines=union(have.get("storylines"), item.get("storylines", [])),
+                   entities=union(have.get("entities"), item.get("entities", [])),
+                   edition=have.get("edition", edition))
+        before = {k: v for k, v in have.items() if k != "updated"}
+        if new != before:
+            new["updated"] = edition
+            corpus.calendar[corpus.calendar.index(have)] = new
+            counts["calendar"] += 1
+            corpus.dirty.add("calendar")
+        else:
+            undo.calendar.pop(item["id"], None)
+
+    for item in lists["reports"]:
+        if item["id"] in corpus.report:
+            continue  # identical resend
+        remember(undo.reports, item["id"], None)
+        corpus.reports.append(dict(copy.deepcopy(item), edition=edition))
+        counts["report"] += 1
+        corpus.dirty.add("reports")
+
+    for item in lists["assessment_log"]:
+        if item["id"] in corpus.logged:
+            continue  # identical resend
+        remember(undo.assessment_log, item["id"], None)
+        corpus.assessment_log.append(dict(copy.deepcopy(item), edition=edition))
+        corpus.logged[item["id"]] = corpus.assessment_log[-1]
+        counts["log"] += 1
+        corpus.dirty.add("assessment_log")
+
+    for item in lists["brief"]:
+        have = corpus.brief.get(edition)
+        stored = {"edition": edition}
+        stored.update({k: copy.deepcopy(item[k]) for k in ("bottom_line", "board", "threads", "connections", "deep_dive", "next_up") if k in item})
+        if have != stored:
+            remember(undo.briefs, edition, have)
+            corpus.briefs = [b for b in corpus.briefs if b["edition"] != edition] + [stored]
+            counts["brief"] += 1
+            corpus.dirty.add("briefs")
+
     recompute_related(corpus, undo, touched)
     corpus.reindex()
     return undo
@@ -937,7 +1637,7 @@ def format_counts(counts):
         ("story", "story"), ("correction", "correction"), ("entity", "entity"),
         ("place", "place correction"),
         ("zone", "zone"), ("link", "link"), ("relationship", "relationship"),
-        ("storyline", "storyline"),
+        ("storyline", "storyline"), ("market", "market figure"), ("calendar", "calendar item"), ("brief", "brief"), ("report", "report"), ("log", "assessment-log item"),
     ):
         n = counts.get(key, 0)
         if n:
@@ -1007,7 +1707,10 @@ def apply_all(root, paths=None, wikipedia=None, dry_run=False):
         chosen = [Path(p) for p in paths]
     notes = []
     for path in chosen:
+        DROPPED.clear()
         note = merge_packet(corpus, path, wiki)
+        drops = [("dry-run " if dry_run else "") + f"{path.stem}: {d}" for d in DROPPED]
+        notes.extend(drops)
         if dry_run:
             notes.append("dry-run " + note)
             continue

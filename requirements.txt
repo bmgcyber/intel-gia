@@ -1,0 +1,8 @@
+# Build-time only. build_dashboard.py reads exact IBM Plex Sans SemiBold advance
+# widths out of vendor/fonts2/*.woff2 (fontTools), which the phone/static map label
+# solver needs to place boxes against the ink the browser actually draws.
+# brotli is required to decompress woff2; without it fontTools raises, the build
+# silently falls back to estimated widths, and gia_build/phonemap.py raises
+# ValueError on long zone names (e.g. "Tigray / Ethiopia-Eritrea border").
+fonttools==4.67.0
+Brotli==1.2.0
