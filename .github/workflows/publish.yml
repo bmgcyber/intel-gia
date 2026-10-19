@@ -33,7 +33,6 @@ jobs:
           mkdir -p site
           cp dashboard.html site/index.html
           cp dashboard.html site/dashboard.html
-          cp dashboard-cesium.html site/dashboard-cesium.html
           cp map.html site/map.html
           cp -a history site/history
           cp -a vendor site/vendor

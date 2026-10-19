@@ -7,15 +7,15 @@ from .md import render
 from .ui_tokens import PRINT_FORCE_LIGHT as _PFL, UPRIGHT_CSS as _UPR, fonts as _fonts
 
 esc = lambda s: html.escape(str(s), quote=True)
-CSS = """:root{--bg:#0f1419;--fg:#e6e1d6;--mute:#9aa3ad;--line:#2a323c;--acc:#d9a441;--ok:#6fae7a;--no:#c96a5b}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+CSS = """:root{--bg:#0b0f14;--fg:#f3efe7;--mute:#a8a8a8;--line:#223041;--acc:#f3efe7;--ok:#42be65;--no:#ff832b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
 header,main{max-width:860px;margin:0 auto;padding:16px}header h1{font-size:1.4rem;margin:.2em 0}header .meta{color:var(--mute);font-size:.9rem}
-a{color:var(--acc)}h2{font-size:1.15rem;border-bottom:1px solid var(--line);padding-bottom:4px;margin-top:1.6em}h3{font-size:1rem}
+a{color:var(--acc);text-decoration:underline;text-decoration-color:#8d8d8d;text-underline-offset:3px;text-decoration-thickness:1px}a:hover{color:#f4f4f4;text-decoration-color:#f4f4f4;text-decoration-thickness:2px}h2{font-size:1.15rem;border-bottom:1px solid var(--line);padding-bottom:4px;margin-top:1.6em}h3{font-size:1rem}
 .card{border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin:12px 0}.k{color:var(--mute);font-size:.85rem}
 .chip{display:inline-block;border:1px solid var(--line);border-radius:12px;padding:2px 10px;margin:2px 4px 2px 0;font-size:.85rem;min-height:28px}
 table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
 th{color:var(--mute);font-weight:600;font-size:.85rem}.num{text-align:right}.st-accepted{color:var(--ok)}.st-rejected{color:var(--no)}
-blockquote{border-left:3px solid var(--line);margin:0;padding:0 12px;color:var(--mute)}code{background:#1b222b;padding:0 4px;border-radius:3px}
+blockquote{border-left:1px solid var(--line);margin:0;padding:0 12px;color:var(--mute)}code{background:#111821;padding:0 4px;border-radius:3px}
 del{color:var(--mute)}ins{text-decoration:none;color:var(--fg);background:#22301f}
 @media (max-width:720px){body{font-size:17px}table,thead,tbody,tr,th,td{display:block}thead{display:none}tr{border-bottom:1px solid var(--line);padding:6px 0}td{border:0;padding:2px 0}td[data-k]::before{content:attr(data-k) ": ";color:var(--mute)}.num{text-align:left}}
 @page{size:letter portrait}@media print{body{background:#fff;color:#000}a{color:#000}}"""

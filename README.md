@@ -31,7 +31,7 @@ python3 build_dashboard.py
 python3 -m http.server 8000
 ```
 
-Open `http://localhost:8000/dashboard.html`. Cesium needs that server. Leaflet and the static map work from the file directly. `python3 apply_packet.py --skip-wikipedia` skips the article check when offline.
+Open `http://localhost:8000/dashboard.html`. Leaflet needs that server; the static map works from the file directly. `python3 apply_packet.py --skip-wikipedia` skips the article check when offline.
 
 ## Pages
 

@@ -53,18 +53,18 @@ CSS = FONTS + W600 + """body{font-family:"IBM Plex Sans",system-ui,-apple-system
 @media (min-width:672px){.row h3 a,.rcard li>a,.conn h3 a,.conn li>a,.zlinks a,.sltl li>a,.sltl h3 a,.chip,main .meta a,header .meta a,.cal a,.mkt a{display:inline-block;min-height:24px;line-height:20px;padding:2px 0;box-sizing:border-box}.chip{padding:2px 8px}}
 @media print{.up{color:#005d5d}.down{color:#9f1853}.gbtn,.mapopen{display:none}}
 .tsec{margin-top:6px}.empty{color:#aaa398;font-size:13px;padding:10px 12px;border:1px dashed #34312d;border-radius:2px;margin:6px 0}
-.rcard{background:#111821;border:1px solid #223041;border-left:4px solid #4a4640;border-radius:2px;padding:10px 12px;break-inside:avoid}.rcard h3{margin:0 0 6px;font-size:15px;color:#f3efe7;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.rcard{background:#111821;border:1px solid #223041;border-radius:2px;padding:12px 14px;break-inside:avoid}.rcard h3{margin:0 0 8px;font-size:16px;color:#f3efe7;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .rcard ul{margin:4px 0 0;padding:0;list-style:none}.rcard li{font-size:13px;margin:0 0 6px}.rcard .gl{display:inline-block;width:14px;text-align:center;margin-right:4px}.rcard .where{color:#8f897e;font-size:12px}
 .meter{display:inline-flex;gap:2px;align-items:center;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em}.meter i{display:inline-block;width:6px;height:12px;background:#34312d}.meter b{margin-left:4px}
 .boardgrid.rank>.rcard:first-child{grid-column:span 2}
 .mkt td,.mkt th{font-variant-numeric:tabular-nums}.mkt td.num{text-align:right;white-space:nowrap;font-family:ui-monospace,Menlo,Consolas,monospace}.up{color:#08bdba}.down{color:#ee5396}.flat{color:#aaa398}
-.conn{background:#111821;border:1px solid #223041;border-left:3px solid #c3a6ff;border-radius:2px;padding:10px 12px;margin-bottom:8px}.conn h3{margin:0 0 4px;font-size:14px;color:#f3efe7}
-.conn ol{margin:4px 0 0;padding-left:18px}.conn li{font-size:13px;margin:0 0 4px}.zlinks{columns:2;padding-left:18px;font-size:13px}.zlinks li{break-inside:avoid;margin-bottom:4px}.judg{color:#c3a6ff}
+.conn{background:#111821;border:1px solid #223041;border-radius:2px;padding:12px 14px;margin-bottom:10px}.conn h3{margin:0 0 4px;font-size:14px;color:#f3efe7}
+.cxg{margin:10px 0 0}.cxlab{margin:0 0 6px;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--gia-path)}.conn ul{margin:0;padding:0;list-style:none}.conn ol{margin:4px 0 0;padding-left:18px}.conn li{font-size:13px;margin:0;padding:8px 0;border-top:1px solid #1c2735}.conn li:first-child{border-top:0;padding-top:0}.zlinks{columns:2;padding-left:18px;font-size:13px}.zlinks li{break-inside:avoid;margin-bottom:4px}.judg{color:#c3a6ff}
 .sltl{background:#111821;border:1px solid #223041;border-radius:2px;padding:10px 12px;break-inside:avoid}.sltl h3{margin:0 0 4px;font-size:14px}.sltl ol{margin:4px 0 0;padding-left:0;list-style:none;border-left:2px solid #c3a6ff55}.sltl li{margin:0 0 4px;padding-left:10px;font-size:12px}.sltl li.today{color:#f3efe7;font-weight:600}.sltl li.today:before{content:"● ";color:#c3a6ff}
 .cal td:first-child{white-space:nowrap;color:#f3efe7;font-weight:600;width:190px;font-family:ui-monospace,Menlo,Consolas,monospace}
 @media (max-width:671px){main{padding:0 16px 32px}header{padding:12px 16px}.boardgrid{grid-template-columns:1fr}.boardgrid.rank>.rcard:first-child{grid-column:auto}.zlinks{columns:1}.idx{columns:1}.two{grid-template-columns:1fr}
 .mkt,.mkt tbody,.mkt tr,.mkt td,.cal,.cal tbody,.cal tr,.cal td{display:block;width:auto}.mkt tr:first-child{display:none}.mkt tr,.cal tr{border-bottom:1px solid #1f2a36;padding:6px 0}.mkt td,.cal td{border:0;padding:2px 0;text-align:left!important}
-#gia-fallback svg{width:100%;height:auto}}
+#gia-fallback svg:not(.ci):not(.critg){width:100%;height:auto}}
 .more{display:flex;justify-content:space-between;align-items:center;gap:12px;width:100%;box-sizing:border-box;min-height:44px;margin:8px 0 0;padding:10px 0;border-top:1px solid #393939;color:var(--gia-link);text-decoration:none;font:600 14px/20px "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
 .more.ph{display:none}.more .ml{font:inherit}.more .mn{font-family:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;font-variant-numeric:tabular-nums;font-weight:500}.more .ci{width:16px;height:16px;fill:currentColor;flex:none}
 .sltl li.mrow{padding-left:0;list-style:none}.sltl li.mrow:before{content:none}
@@ -85,7 +85,7 @@ def load(root, name):
         return json.load(f) or []
 
 def _sec(sid, anchor, title, body, note=""):
-    return f'<section id="{sid}" class="tsec"><h2 id="{anchor}">{title}</h2>{note}{body}</section>'
+    return f'<section id="{sid}" class="tsec"><h2 id="{anchor}">{title}</h2>{body}</section>'
 
 def _empty(text): return f'<div class="empty">{esc(text)}</div>'
 
@@ -118,7 +118,7 @@ def board(regions, latest, zones, lines, places_of, ddisp):
         more = _more(f"#{rid}", len(st) - BOARD_KEEP, f"more in {r}") if len(st) > BOARD_KEEP else ""
         body = f'<ul>{lis}</ul>{more}' if lis else '<div class="meta">No stories this edition.</div>'
         cards.append(((-(SEV_RANK.get(top, 0)), -len(st), i),
-                      f'<div class="rcard" id="{rid}" style="border-left-color:{SEV_COL.get(top, "#4a4640")}"><h3>{esc(r)} <small>({len(st)})</small> {head}</h3>{body}'
+                      f'<div class="rcard" id="{rid}" style="border-color:{SEV_COL.get(top, "#4a4640")}"><h3>{esc(r)} <small>({len(st)})</small> {head}</h3>{body}'
                       f'{("<div>" + zchips + "</div>") if zchips else ""}</div>'))
     cards.sort(key=lambda c: c[0])
     note = '<div class="meta">Regions ranked by the most severe hot zone that lists one of today\'s stories (then by story count). Severity is the hot zone\'s filed severity.</div>'
@@ -174,12 +174,16 @@ def connect(latest, by_id, zone_links, zones_by_id, ddisp):
         ef = [e for e in s.get("effects") or [] if e["story"] in by_id]
         if not cz and not ef:
             continue
-        li = "".join(f'<li><a href="history/trace-{esc(c["story"])}.html">{esc(_short(by_id[c["story"]]["title"], 80))}</a> <span class="meta">{ddisp(by_id[c["story"]])}</span> '
-                     f'<span class="judg">→ led to this</span><div class="an"><span class="conf {esc(c["confidence"])}">{esc(c["confidence"])}</span>{esc(c["why"])}</div></li>' for c in cz)
-        li += "".join(f'<li><span class="judg">this →</span> <a href="history/trace-{esc(e["story"])}.html">{esc(_short(by_id[e["story"]]["title"], 80))}</a> <span class="meta">{ddisp(by_id[e["story"]])}</span>'
-                      f'<div class="an"><span class="conf {esc(e["confidence"])}">{esc(e["confidence"])}</span>{esc(e["why"])}</div></li>' for e in ef)
+        # Causes and effects are opposite directions; one numbered list mixing them reads as a
+        # sequence it is not. Each direction gets its own labelled group instead.
+        czli = "".join(f'<li><a href="history/trace-{esc(c["story"])}.html">{esc(_short(by_id[c["story"]]["title"], 80))}</a> <span class="meta">{ddisp(by_id[c["story"]])}</span>'
+                       f'<div class="an"><span class="conf {esc(c["confidence"])}">{esc(c["confidence"])}</span>{esc(c["why"])}</div></li>' for c in cz)
+        efli = "".join(f'<li><a href="history/trace-{esc(e["story"])}.html">{esc(_short(by_id[e["story"]]["title"], 80))}</a> <span class="meta">{ddisp(by_id[e["story"]])}</span>'
+                       f'<div class="an"><span class="conf {esc(e["confidence"])}">{esc(e["confidence"])}</span>{esc(e["why"])}</div></li>' for e in ef)
+        li = (f'<div class="cxg"><p class="cxlab">What led to this</p><ul>{czli}</ul></div>' if czli else "")
+        li += (f'<div class="cxg"><p class="cxlab">What this led to</p><ul>{efli}</ul></div>' if efli else "")
         n_conn += len(cz) + len(ef)
-        cards += f'<div class="conn{" x" if n_cards >= CONN_KEEP else ""}"><h3><a href="history/trace-{esc(s["id"])}.html">{esc(s["title"])}</a></h3><ol>{li}</ol></div>'
+        cards += f'<div class="conn{" x" if n_cards >= CONN_KEEP else ""}"><h3><a href="history/trace-{esc(s["id"])}.html">{esc(s["title"])}</a></h3>{li}</div>'
         n_cards += 1
     zl = sorted(zone_links, key=lambda l: (not (today & set(l.get("stories") or [])), l["id"]))
     zl = [l for l in zl if l["from"] in zones_by_id and l["to"] in zones_by_id]
@@ -328,12 +332,12 @@ td,th{border-bottom:.6pt solid #d9d4cb!important;padding:2pt 3pt!important;font-
 .wmap .hz-elevated{fill:var(--gia-sev-elevated-print);stroke:var(--gia-sev-elevated-print)}.wmap .hz-watch{fill:var(--gia-sev-watch-print);stroke:var(--gia-sev-watch-print)}
 .legend.hzk span,.legend.nlab .pr-only,.meter b{font-size:10.5pt!important}
 /* r4 (Director 04:24 item 2; QA round 5 §6): numbered key row at 10.5pt; map halos at full strength (solid print-token ring,
-   no 12% wash); light page + dark text even with background graphics on; key swatches always print; Cesium credit dark */
+   no 12% wash); light page + dark text even with background graphics on; key swatches always print */
 .legend.nlab,.legend.nlab span,.legend.nlab>b{font-size:10.5pt!important;line-height:14pt}.legend.nlab b.nmk{width:14pt;height:14pt;font-size:9pt!important}
 .wmap .hz{opacity:1!important;fill:none!important;stroke-opacity:1!important;stroke-width:2.5px!important}
 html,body,main,header,section{background:#fff!important}
 .legend i,.meter i{-webkit-print-color-adjust:exact;print-color-adjust:exact}
-.cesium-widget-credits,.cesium-widget-credits *,.cesium-credit-lightbox,.cesium-credit-lightbox *{color:#141312!important;background:transparent!important;text-shadow:none!important}.cesium-viewer-bottom,.cesium-widget-credits{background:#fff!important;padding:3pt 4pt!important}
+
 .critg-svg{stroke:none}
 .empty{color:#54504a;border-color:#d9d4cb}
 }

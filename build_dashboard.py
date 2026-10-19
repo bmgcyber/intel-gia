@@ -425,9 +425,9 @@ LAZY_MAP_JS=("(function(){var b=document.getElementById('gia-map-open'),l=docume
  "var s=document.createElement('script');s.src=l.dataset.leaflet;s.onload=function(){var g=document.createElement('script');g.src=l.dataset.giamap;"
  "g.onload=function(){b.hidden=true;};document.body.appendChild(g);};s.onerror=function(){b.lastChild.textContent='Map unavailable (offline?)';if(h&&h.dataset.mount)h.dataset.state='failed';};document.body.appendChild(s);}"
  "b.hidden=false;b.addEventListener('click',go);if(location.hash==='#map'||location.hash==='#interactive'||/[?&]map=1/.test(location.search))go();addEventListener('hashchange',function(){if(location.hash==='#map'||location.hash==='#interactive')go();});})();")
-from gia_build.today import ICON_MAP, ICON_GLOBE
+from gia_build.today import ICON_MAP
 # Neutral button (Designer spec, Director-approved): Carbon layer-02 #393939, text #f4f4f4 14 px, 48 px tall,
-# 1 px border-strong #6f6f6f, Carbon icon. No red, no purple. to_cesium() swaps this exact string.
+# 1 px border-strong #6f6f6f, Carbon icon. No red, no purple.
 MAP_BTN=f'<button type="button" id="gia-map-open" class="gbtn" hidden style="margin:6px 0">{ICON_MAP}<span>Open interactive map</span></button>'
 def leaflet_html(data, vprefix, height=520):
     js=json.dumps(data,ensure_ascii=False).replace('</','<\\/')
@@ -497,11 +497,11 @@ def card(s,pre="history/",home="",anchor=True):
             +(_HT.group(sls_l, f"s-{s['id']}") if sls else '')+chain(s,pre)+(f'<div class="rel">Related: {rel}</div>' if rel else '')+'</article>')
 
 CSS="""body{margin:0;background:#0b0f14;color:#d6dde6;font:14px/1.5 Arial,Helvetica,sans-serif}header{padding:16px 24px;border-bottom:1px solid #1f2a36;background:#0f1722}
-h1{margin:0;font-size:20px;letter-spacing:.08em;color:#fff}h1 b{color:var(--gia-accent-ui)}h2{color:var(--gia-h2);font-size:13px;letter-spacing:.12em;text-transform:uppercase;border-left:3px solid var(--gia-accent-ui);padding-left:8px;margin-top:26px}
+h1{margin:0;font-size:28px;line-height:1.15;letter-spacing:.04em;color:#fff}h1 b{color:var(--gia-accent-ui)}h2{color:var(--gia-h2);font-size:22px;line-height:1.25;letter-spacing:-.01em;font-weight:600;margin:40px 0 14px;padding:0}
 main{padding:0 24px 40px;max-width:1300px;margin:auto}.meta,small{color:#7f8fa3;font-size:12px}
 .boardgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.reg{background:#111821;border:1px solid #223041;border-radius:8px;padding:8px}.reg ul{margin:6px 0 0;padding-left:16px}
-.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.card h3{margin:0 0 4px;font-size:15px;color:#fff}
-.conf{font-style:normal;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;text-transform:uppercase}.likely{background:#173d24;color:#7fe0a0}.possible{background:#4d3208;color:#ffbf5a}.speculative{background:#3a1430;color:#ff8bd2}
+.card{background:#111821;border:1px solid #223041;border-radius:8px;padding:12px 14px;margin-bottom:12px}.card h3{margin:0 0 6px;font-size:17px;line-height:1.3;color:#fff}
+::selection{background:#2d3f55;color:#f3efe7}html{scrollbar-color:#2a3a4d #0b0f14;scrollbar-width:thin;caret-color:var(--gia-accent-ui)}::-webkit-scrollbar{width:11px;height:11px}::-webkit-scrollbar-track{background:#0b0f14}::-webkit-scrollbar-thumb{background:#2a3a4d;border:2px solid #0b0f14;border-radius:6px}::-webkit-scrollbar-thumb:hover{background:#3a4e66}.conf{font-style:normal;font-size:11px;padding:1px 6px;border-radius:8px;margin-right:6px;text-transform:uppercase}.likely{background:#173d24;color:#7fe0a0}.possible{background:#4d3208;color:#ffbf5a}.speculative{background:#3a1430;color:#ff8bd2}
 .chip{display:inline-block;margin:3px 4px 0 0;padding:1px 8px;border-radius:10px;background:var(--gia-chip-bg);border:1px solid var(--gia-chip-border);color:var(--gia-link);font-size:12px;text-decoration:none}
 .idx{columns:4;list-style:none;padding:0}.idx li{break-inside:avoid}
 .wmap{border:1px solid #223041;border-radius:8px;display:block}.wmap .zs{fill:#000;font-size:11px;font-weight:600}.wmap .zl{fill:#fff;font-size:11px;font-weight:600}
@@ -528,7 +528,7 @@ table{width:100%;border-collapse:collapse;font-size:12px}td,th{border-bottom:1px
 
 from gia_build.today import GBTN_CSS as _GBTN_CSS, CRIT_CSS as _CRIT_CSS
 CSS+=":where(b,strong,h1,h2,h3,h4,h5,h6,th){font-weight:600}"+UI.UPRIGHT_CSS+UI.NOTE_CSS+UI.LINK_CSS+UI.TAP_CSS+_GBTN_CSS+_CRIT_CSS+_HT.CSS+MK.ROOT_CSS+UI.ROOT_CSS
-# Path slides (2D and their -cesium copies): non-severity accents move from #ff5a4f to --path #c3a6ff (spec.md 19 Oct
+# Path slides: non-severity accents move from #ff5a4f to --path #c3a6ff (spec.md 19 Oct
 # "Map labels at AA"; Director 01:23 ET). Severity reds elsewhere are unchanged.
 # spec.md 19 Oct "Non-severity reds -> tokens": on slides too, tip/badge/h2/year/current-row/tree/wordmark take
 # --gia-accent-ui (base CSS); only the progress bar and the 2D trail take --path.
@@ -599,7 +599,7 @@ from gia_build import today as _today  # Today sections (sec-board/markets/conne
 TS=_today.sections(D,regions=REG,latest=LATEST,all_stories=S,by_id=ST,zones=HZ['zones'],zone_links=HZ['links'],lines=SL,edition=ed,places_of=story_places,ddisp=ddisp)
 out=f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GIA World Intel — {ed}</title><style>{CSS}{_today.CSS}/*mp*/{_PM.CSS}/*/mp*/</style></head><body id="top">
 <header><h1>GIA <b>//</b> WORLD INTEL</h1><div class="meta">Edition {ed} · {len(LATEST)} stories today · {len(S)} in the archive · <a href="history/index.html">Archive</a></div></header><main>
-<section id="sec-map"><h2 id="world">Right now</h2><div class="meta">Rings are hot zones, colored by severity. Pins are places named in today's stories. Square military, X strike, diamond diplomacy, triangle energy, hollow ring political. A story with no honest place has no pin. Interactive map (Leaflet, Esri dark-gray tiles) when JavaScript and the network are available; static map otherwise.</div><div id="gia-fallback">{WMAP_DASH}{PHONE_EXTRA}</div>{LEAF_DASH}{WLEG}</section>
+<section id="sec-map"><h2 id="world">Right now</h2><div id="gia-fallback">{WMAP_DASH}{PHONE_EXTRA}</div>{LEAF_DASH}{WLEG}</section>
 {TS["board"]}
 {TS["markets"]}
 {TS["connect"]}
@@ -691,7 +691,7 @@ def related_ents(stories,exclude=()):
 def HFONT(pre):
     return (_today.fonts(pre)+'body{font-family:"IBM Plex Sans",Arial,Helvetica,sans-serif}'
             'svg text[font-family="Arial"]{font-family:"IBM Plex Sans",Arial,sans-serif}'
-            '.cesium-viewer,.cesium-viewer *,.gia-badge,.gia-badge *{font-family:"IBM Plex Sans",Arial,sans-serif}')
+            '.gia-badge,.gia-badge *{font-family:"IBM Plex Sans",Arial,sans-serif}')
 def page(fn,title,sub,stories,extra="",exclude=()):
     years=sorted({s['date'][:4] for s in stories}); jump=" · ".join(f'<a href="#y{y}">{y}</a>' for y in years)
     open(f"{HD}/{fn}","w").write(f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} — history</title><style>{CSS}{HFONT("../")}{UI.PRINT_FORCE_LIGHT}</style></head><body id="top">
@@ -882,36 +882,8 @@ json.dump({k:{"title":v["title"],"goal":v["goal"],"steps":[x[0] for x in v["step
 print("wrote dashboard.html;", len(list(glob.glob(f"{HD}/**/*.html",recursive=True))),"history html;",
       len(PATH_INDEX),"path index keys;", sum(1 for k,v in PATH_INDEX.items() if 'root' not in v),"demo paths")
 
-# ---- Parallel CesiumJS 3D build (derived from the Leaflet pages) ----
 import re as _re
-CES="https://cdnjs.cloudflare.com/ajax/libs/cesium/1.122.0/"
-def to_cesium(h, vprefix):
-    h=h.replace(MAP_BTN, f'<link rel="stylesheet" href="{CES}Widgets/widgets.css">')
-    h=h.replace('<div id="gia-leaflet" style="display:none;','<div id="gia-cesium" style="display:none;overflow:hidden;')
-    # r5 (Director 05:58 item 4): never print the dark globe canvas; print its static fallback map instead
-    h=h.replace('</head>','<style>@media print{#gia-cesium{display:none!important}#gia-fallback{display:block!important}}</style></head>',1)
-    h=_re.sub(r'<script id="gia-map-loader"[^>]*>.*?</script>',
-              lambda m: f'<script>window.CESIUM_BASE_URL="{CES}";</script><script src="{CES}Cesium.js"></script><script src="{vprefix}vendor/gia-cesium.js"></script>', h, flags=_re.S)
-    return h
-def add_toggle(h, href, label):
-    icon=ICON_MAP if "2D" in label else ICON_GLOBE
-    return h.replace('</header>', f'<div class="meta" style="margin-top:8px"><a class="gbtn" href="{href}">{icon}<span>{label}</span></a></div></header>',1)
-dash=open(f"{D}/dashboard.html").read()
-ced=to_cesium(dash,"")
-ced=_re.sub(r'<!--mp-->.*?<!--/mp-->','',ced,flags=_re.S); ced=_re.sub(r'/\*mp\*/.*?/\*/mp\*/','',ced,flags=_re.S)   # phone map: Today only (globe page weight)
-ced=_re.sub(r'(history/path-[^"/]+/)slide-(\d\d)\.html', r'\1slide-\2-cesium.html', ced)
-ced=ced.replace('Interactive map (Leaflet,','Interactive 3D globe (CesiumJS 1.122, served over http;').replace('<title>GIA World Intel','<title>GIA 3D (Cesium) World Intel')
-open(f"{D}/dashboard-cesium.html","w").write(add_toggle(ced,"dashboard.html","↩ 2D Leaflet version"))
-open(f"{D}/dashboard.html","w").write(add_toggle(dash,"dashboard-cesium.html","Try 3D Cesium version"))
-for f in glob.glob(f"{HD}/path-*/slide-??.html"):
-    h=open(f).read(); base=os.path.basename(f); c=base.replace('.html','-cesium.html')
-    ch=to_cesium(h,"../../")
-    ch=_re.sub(r'href="slide-(\d\d)\.html"', r'href="slide-\1-cesium.html"', ch)
-    ch=ch.replace('href="../../dashboard.html"','href="../../dashboard-cesium.html"')
-    open(f.replace(base,c),"w").write(add_toggle(ch,base,"↩ 2D Leaflet version of this slide"))
-    open(f,"w").write(add_toggle(h,c,"3D Cesium version of this slide"))
 print("static map labels:", {k: v for k, v in MAP_STATS.items() if k not in ("labels", "pins", "halos")})
 if os.environ.get("GIA_MAP_GEOM"):   # label audit geometry, written OUTSIDE the site (tests / QA), never into the build dir
     MAP_STATS["phone"]={str(k):v for k,v in PHONE_CHECK.items()}
     json.dump(MAP_STATS, open(os.environ["GIA_MAP_GEOM"], "w"), default=list)
-print("cesium build: dashboard-cesium.html +", len(glob.glob(f"{HD}/path-*/slide-??-cesium.html")), "cesium slides")

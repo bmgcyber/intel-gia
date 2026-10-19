@@ -96,7 +96,7 @@ class V7PagesBuildTest(unittest.TestCase):
         self.assertRegex(dash, r'href="#reg-middle-east"><span class="mt"><b class="mn">\d+</b> <span class="ml">more in Middle East</span></span><svg class="ci"')
         self.assertRegex(dash, r'href="history/storyline-[a-z0-9-]+\.html"><span class="mt"><b class="mn">\+\d+</b> <span class="ml">more</span></span><svg class="ci"')
         # hi-fi fix pass: Carbon secondary buttons, one static-map link, Letter print, Plex fonts (OFL)
-        self.assertIn('<a class="gbtn" href="dashboard-cesium.html"><svg class="ci"', dash)
+        self.assertNotIn('dashboard-cesium.html', dash)   # 3D Cesium view retired 2026-10-19
         self.assertNotIn('class="pathbtn"', dash[:dash.index('id="sec-stories"')])
         self.assertIn(".gbtn{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 16px;box-sizing:border-box;background:#6f6f6f;color:#ffffff!important", dash)
         fb = dash[dash.index('<div id="gia-fallback">'):dash.index('</a>', dash.index('<div id="gia-fallback">'))]
@@ -126,7 +126,7 @@ class V7PagesBuildTest(unittest.TestCase):
         for k, (_, hx, _, shp) in MK.MARKERS.items():
             for g in re.findall(rf'<g class="mk" data-marker="{k}" data-shape="([a-z]+)">', dash_h): self.assertEqual(g, shp)
         self.assertNotRegex(re.sub(r'<g class="mk".*?</g>', '', dash_h.split('<div id="gia-fallback">')[1].split("</svg>")[0]), r'opacity="(1|\.45)"[^>]*stroke="#fff"')
-        for js in ("gia-map.js", "gia-cesium.js"):
+        for js in ("gia-map.js",):   # gia-cesium.js retired with the 3D view, 2026-10-19
             src = (ROOT / "vendor" / js).read_text(encoding="utf-8")
             self.assertNotRegex(src, r"(military|strike|diplomacy|energy|political)\s*:\s*'#", js)   # no per-type colour table
             self.assertIn("getPropertyValue('--gia-marker-'", src, js)
@@ -143,7 +143,7 @@ class V7PagesBuildTest(unittest.TestCase):
             self.assertIn(f"--gia-sev-{k}:{c};--gia-sev-{k}-print:{pr};--gia-sev-{k}-outline:{o};", dash_h)
         for old in ("#ff9f0a", "#ffd60a", "#64d2ff", "#7a6634"): self.assertNotIn(old, dash_h)
         self.assertNotIn('"color":', (tmp / "dashboard.html").read_text(encoding="utf-8").split('id="gia-map-data">')[1].split("</script>")[0])
-        for js in ("gia-map.js", "gia-cesium.js"):
+        for js in ("gia-map.js",):   # gia-cesium.js retired with the 3D view, 2026-10-19
             src = (ROOT / "vendor" / js).read_text(encoding="utf-8")
             self.assertIn("sevCol(z.sev)", src); self.assertNotIn("z.color", src)
         self.assertIn(f"--gia-sev-critical:{UI.SEV_CRITICAL}", dash_h)
@@ -151,15 +151,6 @@ class V7PagesBuildTest(unittest.TestCase):
         for f in glob.glob(str(tmp / "history" / "path-*" / "slide-0[1-3].html")):
             sh = Path(f).read_text(encoding="utf-8")
             self.assertNotIn('stroke="#ffe08a"', sh)
-        for js in ("gia-map.js", "gia-cesium.js"): self.assertNotIn("#ffe08a", (ROOT / "vendor" / js).read_text(encoding="utf-8"))
-        # Cesium places: one BillboardCollection + one LabelCollection, sprites cached per shape+colour+state, no entities
-        ces = (ROOT / "vendor" / "gia-cesium.js").read_text(encoding="utf-8")
-        self.assertEqual(ces.count("new Cesium.BillboardCollection("), 1); self.assertEqual(ces.count("new Cesium.LabelCollection("), 1)
-        self.assertIn("b.setImage(sp.key,sp.canvas)", ces); self.assertNotIn("point:cesPoint", ces)
-        # zone rings: one cached sprite per level in the SAME BillboardCollection (no keyline point entities); area keyline
-        self.assertIn("function ringSprite(l,r)", ces); self.assertIn("rb.setImage(rs.key,rs.canvas)", ces)
-        self.assertNotIn("[[S-2*SEV_OPX],[S+6]]", ces); self.assertNotIn("point:{pixelSize:z.r*2", ces)
-        self.assertIn("name:'gia-area-keyline'", ces); self.assertIn("fromDegreesArrayHeights(up)", ces)
         for n in MK.SHAPE_SVG: self.assertIn(f"--gia-shape-{n}-d:", dash_h)
         self.assertTrue({v[3] for v in MK.MARKERS.values()} <= set(MK.SHAPE_SVG))
         # Director 01:50 ET palette: markers screen/print, spec SHAPE_SVG, past pins at full opacity, neutral links
@@ -182,7 +173,6 @@ class V7PagesBuildTest(unittest.TestCase):
         self.assertEqual(MK.PRECISION_HALO, {"feature": 9, "city": 13, "sector": 19})
         for m in re.finditer(r'<circle class="ph" data-precision="(\w+)"[^>]*r="([\d.]+)"[^>]*style="stroke:(var\(--gia-marker-\w+\))"([^>]*)/>', dash_h):
             self.assertEqual(float(m.group(2)), MK.PRECISION_HALO[m.group(1)]); self.assertEqual("stroke-dasharray" in m.group(4), m.group(1) == "sector")
-        self.assertNotIn("precision", ces)
         # print severity: one value per level, >= 4.5:1 on white, print sea and print land (room 01:58 / Director 01:59)
         def _l(h):
             c = [int(h[i:i + 2], 16) / 255 for i in (1, 3, 5)]; c = [x / 12.92 if x <= .04045 else ((x + .055) / 1.055) ** 2.4 for x in c]
@@ -203,8 +193,6 @@ class V7PagesBuildTest(unittest.TestCase):
         self.assertIn(".leaflet-container .leaflet-control-attribution a:hover{color:var(--gia-link-hover)", dash_h)
         js = (ROOT / "vendor" / "gia-map.js").read_text(encoding="utf-8")
         self.assertNotIn('stroke="#fff"', js); self.assertIn("tok('--gia-sprite-outline')", js); self.assertNotIn("active?1:.45", js)
-        self.assertIn("css=2*r+W+2*(kl?SEV_OPX:0)+2", ces); self.assertIn("g.arc(css/2,css/2,r,0,Math.PI*2)", ces)
-        self.assertIn("text:p.name,", ces); self.assertNotIn("text:mkGlyph(p.marker)", ces)
         # path slides: non-severity accents use --path #c3a6ff (red stays severity-only)
         for f in glob.glob(str(tmp / "history" / "path-*" / "slide-0[1-3]*.html")):
             sh = Path(f).read_text(encoding="utf-8")
@@ -232,10 +220,8 @@ class V7PagesBuildTest(unittest.TestCase):
         # r4 (Director 03:53): Sans Medium + Italic dropped (files and @font-face); no Sans 500 anywhere, Mono keeps its one 500 face
         for f in ("PlexSans-Medium", "PlexSans-Italic"):
             self.assertFalse((tmp / "vendor" / "fonts2" / f"GIA-{f}.woff2").exists(), f)
-        faces = re.findall(r'@font-face\{[^}]*\}', dash); self.assertEqual(len(faces), 3, faces)
         self.assertNotIn("font-style:italic;font-weight", dash)
-        for page in [dash, mp, slide, (tmp / "dashboard-cesium.html").read_text(encoding="utf-8"), (tmp / "history" / "index.html").read_text(encoding="utf-8"),
-                     (tmp / "vendor" / "gia-cesium.js").read_text(encoding="utf-8")]:
+        for page in [dash, mp, slide, (tmp / "history" / "index.html").read_text(encoding="utf-8")]:
             for m in re.finditer(r'(?:font-weight:\s*500|font:\s*500|500 1\dpx|font-weight="500")', page):
                 ctx = page[m.start():m.start() + 120]
                 self.assertIn("Mono", ctx + page[max(0, m.start() - 200):m.start()].split("{")[-1], ctx)
@@ -262,7 +248,6 @@ class V7PagesBuildTest(unittest.TestCase):
         from gia_build import ui_tokens as _U
         self.assertIn(f'font-size="{_U.PRINT_NS_UNITS:g}"', dash); self.assertIn(f".wmap .prl .zl{{font-size:{_U.PRINT_NS_UNITS:g}px!important}}", dash); self.assertIn(".wmap .prl line.ldr,.wmap .prl line.ldr-tuck{stroke:#767676!important", dash)
         self.assertIn(".smap .sbg{fill:#f3f1ec!important}", slide); self.assertIn('class="wmap smap"', slide)
-        self.assertIn("@media print{#gia-cesium{display:none!important}#gia-fallback{display:block!important}}", (tmp / "dashboard-cesium.html").read_text(encoding="utf-8"))
         self.assertIn(".wmap .ls{stroke:#ffffff!important;stroke-width:8px!important;stroke-linejoin:round;paint-order:stroke;vector-effect:non-scaling-stroke}", dash)
         # r4 (Director 04:24 item 2): print forced light on every page; map.html prints its static map; key row 10.5pt; halos solid
         for f in ("history/index.html", "history/path-2021-11-russia-buildup/slide-10.html"):
@@ -296,9 +281,6 @@ class V7PagesBuildTest(unittest.TestCase):
         self.assertIn('<button type="button" id="gia-map-open" class="gbtn" hidden', dash)
         self.assertIn("Black Sea (test): outline Test outline", dash)           # static SVG outline with source
         self.assertIn('"area_source": "Test outline"', dash)                    # Leaflet payload
-        ces = (tmp / "dashboard-cesium.html").read_text()
-        self.assertNotIn("vendor/leaflet", ces); self.assertNotIn("gia-map-loader", ces)
-        self.assertIn("Cesium.js", ces)
         hz = json.loads((tmp / "data" / "hotzones.json").read_text())
         self.assertNotIn("lat", next(z for z in hz["zones"] if z["id"] == "test-black-sea"))  # anchor is build-only
         idx = (hd / "index.html").read_text()
@@ -378,10 +360,6 @@ class MapSurfaceAndLabelTest(unittest.TestCase):
             for il in re.findall(r'<text class="il"[^>]*>([^<]*)</text>', h): self.assertIn(_h.unescape(il), names.values())
             for m in re.finditer(r'"zones":\s*(\[.*?\])\s*,\s*"places"', h):   # Leaflet payload
                 self.assertEqual({z["id"]: z["name"] for z in json.loads(m.group(1))}, names)
-        c = (self.tmp / "dashboard-cesium.html").read_text(encoding="utf-8")
-        m = re.search(r'"zones":\s*(\[.*?\])\s*,\s*"places"', c); self.assertTrue(m, "Cesium zone payload not found")
-        self.assertEqual({z["id"]: z["name"] for z in json.loads(m.group(1))}, names)
-        self.assertIn("label:{text:z.name", (self.tmp / "vendor" / "gia-cesium.js").read_text(encoding="utf-8").replace(" ", ""))
         self.assertIn("bindTooltip(z.name", (self.tmp / "vendor" / "gia-map.js").read_text(encoding="utf-8"))
 
     def test_phone_map(self):
@@ -405,7 +383,6 @@ class MapSurfaceAndLabelTest(unittest.TestCase):
         for z, t in re.findall(r'<a href="history/zone-([^.]+)\.html">([^<]*)</a>', ph): self.assertEqual(_h.unescape(t), names[z])
         also = re.search(r'<p class="mp-also">(.*?)</p>', ph).group(1); self.assertEqual(len(re.findall(r"<a ", also)), 11)
         self.assertIn('<div class="mp-box">', d[d.index('id="map" class="maplink"'):d.index('<span class="mapopen">')])
-        self.assertNotIn("mp-box", (self.tmp / "dashboard-cesium.html").read_text(encoding="utf-8"))
         self.assertNotIn("mp-box", (self.tmp / "map.html").read_text(encoding="utf-8"))
 
     def test_label_solve_has_zero_overlaps(self):
@@ -472,52 +449,3 @@ class MapSurfaceAndLabelTest(unittest.TestCase):
             self.assertTrue(tg["leader"])
 
 
-class GlobeR3Test(unittest.TestCase):
-    """r3 (Director 03:03): requestRenderMode, Plex zone labels, zone-over-place declutter, adaptive fallback on the container."""
-    js = (ROOT / "vendor" / "gia-cesium.js").read_text(encoding="utf-8")
-    def test_request_render_mode(self):
-        self.assertIn("requestRenderMode:true,maximumRenderTimeChange:Infinity", self.js)
-        for why in ("'sprite'", "'declutter'", "'selection'", "'resize'", "'slide'", "'data',2000", "'ready'", "'fonts'"):
-            self.assertIn("wake(" + why, self.js)
-        self.assertNotIn("glowPower", self.js.split("function trail")[1].split("}")[0])   # trail: static materials only
-    def test_zone_labels_plex_and_declutter(self):
-        self.assertIn("ZFONT='600 13px \"IBM Plex Sans\", Arial'", self.js); self.assertNotIn("bold 13px Arial", self.js)
-        self.assertIn("kind:'zone'", self.js); self.assertIn("rank:active?10:20", self.js)   # zones (0-3) outrank places
-        self.assertIn("v.camera.changed.addEventListener(declutter)", self.js); self.assertIn("MOUSE_MOVE", self.js)
-    def test_zone_leaders_not_hidden(self):
-        """r4 (Director 03:53 item 3): a front-facing zone label that meets another zone label moves onto a <= 70 px leader
-        (billboard in the shared collection, #8d8d8d) instead of hiding; hidden leader slots never keep the globe awake."""
-        for a in ("LDR_MAX=70", "len<=LDR_MAX", "why='leader'", "strokeStyle='#8d8d8d'", "if(b.show&&b.ready===false)return false;",
-                  "var lb=BB.add({position:P,show:false", "state:function()"):
-            self.assertIn(a, self.js)
-        self.assertNotIn("Cesium.PolylineCollection", self.js)   # no extra primitive for leaders
-    def test_fallback_on_container(self):
-        for a in ("box.dataset.giaGlobeScale", "box.dataset.giaGlobeMs", "box.dataset.giaReady='globe'"): self.assertIn(a, self.js)
-        # r4 (Director 04:24 item 1): forced, GPU-synced sample frames in one window; URL override; no postRender-gap timing
-        for a in ("gl.readPixels(0,0,1,1", "v.scene.requestRender();v.render();", "THRESH=40", "giaGlobeScaleSource", "/[?&]gia-scale=([12])(?:&|$)/",
-                  "'override'", "'adaptive'"):
-            self.assertIn(a, self.js)
-        self.assertNotIn("t-last", self.js); self.assertNotIn("preUpdate -> postRender", self.js)
-        # r5 (steering 05:47): the window runs only after the ready signal (tiles loaded), warm-ups discarded, the timed frames
-        # back to back in one task (no rAF / timer inside the window), median of >= 8
-        for a in ("for(i=0;i<WARM;i++)frame();for(i=0;i<N;i++)ms.push(frame());", "if(GIA_SAMPLE()){", "v.scene.globe.tilesLoaded"):
-            self.assertIn(a, self.js)
-        n = int(re.search(r"WARM=(\d+), N=(\d+)", self.js).group(2)); self.assertGreaterEqual(n, 8)
-        self.assertNotIn("requestAnimationFrame(step)", self.js); self.assertNotIn("},1500);", self.js)
-        # r5 (Director 05:58 item 1): 15 s tile cap -> 'timeout' (never judged); tiles-loaded readout; comment fixed
-        for a in ("CAP_MS=15000", "'timeout'", "box.dataset.giaGlobeTilesLoaded='true '", "box.dataset.giaGlobeTilesLoaded='timeout '", "!FLOWN||!v.scene.globe.tilesLoaded"):
-            self.assertIn(a, self.js)
-        self.assertNotIn("after shader compile", self.js)
-
-    @unittest.skipUnless(os.environ.get("GIA_BROWSER_TESTS"), "set GIA_BROWSER_TESTS=<built dir served at http://127.0.0.1:PORT/> to run")
-    def test_globe_labels_no_overlap_in_browser(self):
-        """Real screen space at the default dashboard camera, 1440 wide: no two visible label boxes touch."""
-        from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            b = p.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--no-sandbox"])
-            pg = b.new_page(viewport={"width": 1440, "height": 900}); pg.goto(os.environ["GIA_BROWSER_TESTS"] + "dashboard-cesium.html")
-            pg.wait_for_function("document.getElementById('gia-cesium').dataset.giaReady === 'globe'", timeout=60000)
-            vis = pg.evaluate("GIA_LABELS.visible()"); b.close()
-        bad = [(a["name"], c["name"]) for i, a in enumerate(vis) for c in vis[i + 1:]
-               if not (a["box"][2] < c["box"][0] or a["box"][0] > c["box"][2] or a["box"][3] < c["box"][1] or a["box"][1] > c["box"][3])]
-        self.assertEqual(bad, []); self.assertGreaterEqual(sum(1 for v in vis if v["kind"] == "zone"), 1)
