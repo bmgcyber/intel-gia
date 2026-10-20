@@ -10,7 +10,7 @@ esc = lambda s: html.escape(str(s), quote=True)
 SEV_RANK = {"critical": 4, "high": 3, "elevated": 2, "watch": 1}
 from gia_build import ui_tokens as UI
 SEV_COL = {k: v[0] for k, v in UI.SEV.items()}  # ui_tokens.SEV only
-from gia_build.markers import GLYPH  # one definition (gia_build/markers.py)
+from gia_build import markers as MK  # one definition (gia_build/markers.py)
 MON = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 # IBM Carbon icons (@carbon/icons 11.90.0, Apache-2.0; studio/engineer/icons/SOURCES.md), path data verbatim.
 ICON_ARROW_DOWN = '<svg class="ci" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d="M12.3 9.3 8.5 13.1 8.5 1 7.5 1 7.5 13.1 3.7 9.3 3 10 8 15 13 10z"/></svg>'
@@ -54,7 +54,7 @@ CSS = FONTS + W600 + """body{font-family:"IBM Plex Sans",system-ui,-apple-system
 @media print{.up{color:#005d5d}.down{color:#9f1853}.gbtn,.mapopen{display:none}}
 .tsec{margin-top:6px}.empty{color:#7f8fa3;font-size:13px;padding:2px 0;margin:4px 0}.qrow{color:#7f8fa3;font-size:13px;margin:10px 0 0}
 .rcard{background:#111821;border:1px solid #223041;border-radius:2px;padding:12px 14px;break-inside:avoid}.rcard h3{margin:0 0 8px;font-size:16px;color:#f3efe7;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-.rcard ul{margin:4px 0 0;padding:0;list-style:none}.rcard li{font-size:13px;margin:0 0 6px}.rcard .gl{display:inline-block;width:14px;text-align:center;margin-right:4px}.rcard .where{color:#8f897e;font-size:12px}
+.rcard ul{margin:4px 0 0;padding:0;list-style:none}.rcard li{font-size:13px;margin:0 0 6px}.rcard .mkin{flex:none;vertical-align:-2px;margin-right:6px}.gl{display:inline-block;width:14px;text-align:center;margin-right:4px}.rcard .where{color:#8f897e;font-size:12px}
 .meter{display:inline-flex;gap:2px;align-items:center;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em}.meter i{display:inline-block;width:6px;height:12px;background:#34312d}.meter b{margin-left:4px}
 .boardgrid.rank>.rcard:first-child{grid-column:span 2}
 .mkt td,.mkt th{font-variant-numeric:tabular-nums}.mkt td.num{text-align:right;white-space:nowrap;font-family:ui-monospace,Menlo,Consolas,monospace}.up{color:#08bdba}.down{color:#ee5396}.flat{color:#aaa398}
@@ -115,8 +115,8 @@ def board(regions, latest, zones, lines, places_of, ddisp):
         for k, s in enumerate(sorted(st, key=lambda s: s["date"], reverse=True)):
             pl = ", ".join(e["name"] for e in places_of(s)) or "Not pinned"
             sl = " · ".join(esc(lines[x]["name"]) for x in s.get("storylines") or [] if x in lines)
-            g = GLYPH.get(s.get("marker"), "○")
-            lis += (f'<li data-fsev="{ssev.get(s["id"], "none")}"{" class=x" if k >= BOARD_KEEP else ""}><span class="gl" title="{esc(s.get("marker") or "")}">{g}</span><a href="history/trace-{esc(s["id"])}.html">{esc(_short(s["title"]))}</a>'
+            g = MK.inline_svg(s.get("marker"))
+            lis += (f'<li data-fsev="{ssev.get(s["id"], "none")}"{" class=x" if k >= BOARD_KEEP else ""}>{g}<a href="history/trace-{esc(s["id"])}.html">{esc(_short(s["title"]))}</a>'
                     f' <span class="where">· {esc(pl)}{(" · " + sl) if sl else ""}</span></li>')
         zchips = "".join(f'<a class="chip" href="history/zone-{esc(z["id"])}.html">◉ {esc(z["name"])} · {sev_word(z["severity"])}</a>' for z in zs)
         head = meter(top) if top else '<span class="meta">no hot zone linked to today\'s stories</span>'

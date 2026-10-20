@@ -71,4 +71,14 @@ ROOT_CSS = ROOT_CSS[:-1] + "".join(
     f"--gia-precision-sector-dash:{HALO['dash']['sector']};--gia-label:{LABEL['active'][0]};--gia-label-past:{LABEL['past'][0]};"
     + "".join(f"--gia-precision-{p}:{r};" for p, r in PRECISION_HALO.items())) + "}" + (
     "@media print{:root{" + "".join(f"--gia-marker-{k}:{c};" for k, c in PRINT.items()) + f"--gia-sprite-outline:{SPRITE['outline_print']}}}}}")
+def inline_svg(m, px=13):
+    """One small marker for text rows (board lists). Same path data, same --gia-marker-* token and
+    same label the map and the legend already use, so the key the legend teaches is the key the rest
+    of the page honours. role=img + aria-label, because a title= on a span is not reliably announced."""
+    k = kind(m); d, paint, w = SHAPE_SVG[MARKERS[k][3]]
+    ink = (f'fill="{color(k)}"' if paint == "fill"
+           else f'fill="none" stroke="{color(k)}" stroke-width="{w}" stroke-linecap="round" stroke-linejoin="round"')
+    return (f'<svg class="mkin" width="{px}" height="{px}" viewBox="0 0 16 16" role="img" aria-label="{label(k)}">'
+            f'<path d="{d}" {ink}/></svg>')
+
 GLYPH = {k: v[2] for k, v in MARKERS.items()}
