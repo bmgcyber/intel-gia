@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-26",
  "zones": [
   {
    "id": "hormuz",
@@ -7,7 +7,7 @@
    "lat": 26.6,
    "lon": 56.3,
    "severity": "critical",
-   "note": "Iran's standing 7-day offer still on table; mine vs projectile dispute; UKMTO all-ship ~70% below pre-war, PortWatch tankers near zero on some days",
+   "note": "Qatari mediators in Tehran; Trump 'deal or finish them off'; UKMTO all-ship ~70% below pre-war (241 transits wk to Oct 21), PortWatch 2 tankers Oct 18",
    "label_dx": 8,
    "label_dy": -14,
    "entities": [
@@ -19,7 +19,8 @@
     "united-states",
     "iea",
     "ukmto",
-    "abbas-araghchi"
+    "abbas-araghchi",
+    "qatar"
    ],
    "stories": [
     "hormuz-attacks-surge",
@@ -33,7 +34,9 @@
     "second-mine-tanker-ukmto-record",
     "hormuz-two-tankers-mines-claim-oct18",
     "oil-eases-monday-russia-waiver",
-    "trump-endorses-netanyahu"
+    "trump-endorses-netanyahu",
+    "qatar-mediators-tehran-oct25",
+    "hormuz-ukmto-week-oct21"
    ]
   },
   {
@@ -42,7 +45,7 @@
    "lat": 13.3,
    "lon": 43.4,
    "severity": "critical",
-   "note": "Missiles hit Aden airport; Yemen rejects Iran mediation; Houthi fire on Saudi targets continues",
+   "note": "Coalition says it destroyed two launchers in Sanaa; Houthi fire on Saudi airports and oil sites escalates",
    "label_dx": -60,
    "label_dy": 32,
    "entities": [
@@ -52,7 +55,8 @@
     "red-sea",
     "mokha",
     "iran",
-    "aden"
+    "aden",
+    "sanaa"
    ],
    "stories": [
     "houthis-hit-aramco",
@@ -61,7 +65,8 @@
     "saudi-blames-iran-eu-gcc-postponed",
     "yanbu-missile-intercepted",
     "houthis-aden-airport-khamis-mushait",
-    "egypt-offers-to-defend-saudi"
+    "egypt-offers-to-defend-saudi",
+    "houthis-east-west-pipeline-riyadh"
    ]
   },
   {
@@ -70,7 +75,7 @@
    "lat": 25.5,
    "lon": 48.5,
    "severity": "high",
-   "note": "Khamis Mushait intercepts; Egypt offers to defend the kingdom if requested",
+   "note": "Houthis claim East-West pipeline pumping stations and Riyadh airport; missile intercepted; no Saudi damage confirmation",
    "label_dx": -105,
    "label_dy": -12,
    "entities": [
@@ -88,7 +93,8 @@
     "saudi-blames-iran-eu-gcc-postponed",
     "yanbu-missile-intercepted",
     "houthis-aden-airport-khamis-mushait",
-    "egypt-offers-to-defend-saudi"
+    "egypt-offers-to-defend-saudi",
+    "houthis-east-west-pipeline-riyadh"
    ]
   },
   {
@@ -115,7 +121,7 @@
    "lat": 49.5,
    "lon": 32.0,
    "severity": "critical",
-   "note": "Zelenskyy: Russia seeking nationwide blackout; 76 energy attacks in a week; Starshield limits contested",
+   "note": "153 drones plus missiles Oct 24-25; Zelenskyy asks US to unblock Patriot interceptors; trilateral talks eyed ~Nov 10",
    "label_dx": -62,
    "label_dy": -10,
    "entities": [
@@ -125,7 +131,8 @@
     "starlink",
     "spacex",
     "sloviansk",
-    "odesa"
+    "odesa",
+    "kharkiv"
    ],
    "stories": [
     "energy-ceasefire",
@@ -139,7 +146,9 @@
     "russia-332-drone-energy-strike",
     "graham-waiver-bipartisan-backlash",
     "poland-starlink-arson-russia-gang",
-    "ukraine-blackout-push-oct18"
+    "ukraine-blackout-push-oct18",
+    "russia-strikes-oct24-patriot-shortage",
+    "witkoff-putin-trilateral-talks"
    ]
   },
   {
@@ -148,7 +157,7 @@
    "lat": 55.7,
    "lon": 37.6,
    "severity": "high",
-   "note": "Waiver still standing; oil dips on the narrative while Ukraine grid strikes continue",
+   "note": "Putin agrees in principle to technical-level three-way talks; Ushakov says deal 'still needs work'",
    "entities": [
     "russia",
     "petroleum",
@@ -164,7 +173,8 @@
     "graham-waiver-bipartisan-backlash",
     "poland-starlink-arson-russia-gang",
     "oil-eases-monday-russia-waiver",
-    "ukraine-blackout-push-oct18"
+    "ukraine-blackout-push-oct18",
+    "witkoff-putin-trilateral-talks"
    ]
   },
   {
@@ -262,16 +272,18 @@
    "lat": 8.0,
    "lon": -66.0,
    "severity": "elevated",
-   "note": "Talks on election rules; opposition march Oct 22",
+   "note": "Lula's re-election in Brazil complicates Washington's push to isolate Caracas",
    "entities": [
     "venezuela",
     "pdvsa",
     "ofac",
-    "nicolas-maduro"
+    "nicolas-maduro",
+    "lula"
    ],
    "stories": [
     "venezuela-oil",
-    "venezuela-talks-election-rules"
+    "venezuela-talks-election-rules",
+    "brazil-lula-wins-runoff"
    ]
   },
   {
@@ -336,17 +348,19 @@
    "lat": 13.2,
    "lon": 28.5,
    "severity": "high",
-   "note": "Army strikes Nyala; RSF drones hit El Obeid and Kordofan mines",
+   "note": "One year since El Fasher fell; rights groups document abuses; drone war continues in Kordofan",
    "entities": [
     "sudan",
     "rsf",
     "sudanese-armed-forces",
     "el-obeid",
-    "nyala"
+    "nyala",
+    "el-fasher"
    ],
    "stories": [
     "sudan-nyala-strikes",
-    "2026-10-09-el-obeid-drones"
+    "2026-10-09-el-obeid-drones",
+    "el-fasher-one-year-on"
    ],
    "label_dx": -150,
    "label_dy": 18
@@ -357,7 +371,7 @@
    "lat": 33.3,
    "lon": 35.5,
    "severity": "elevated",
-   "note": "US-mediated military talks in Tampa Oct 20; Israeli strikes continue",
+   "note": "Tampa talks ended without breakthrough; Israel votes Oct 27, final polls show deadlock",
    "entities": [
     "lebanon",
     "israel",
@@ -367,7 +381,9 @@
    "stories": [
     "lebanon-tampa-talks-demands",
     "2026-10-14-lebanon-yellow-line",
-    "trump-endorses-netanyahu"
+    "trump-endorses-netanyahu",
+    "lebanon-tampa-no-breakthrough",
+    "israel-final-polls-oct23"
    ],
    "label_dx": -178,
    "label_dy": -8
@@ -399,12 +415,13 @@
    "lat": 22.3,
    "lon": -79.8,
    "severity": "elevated",
-   "note": "Forecast peak shortfall hit 75.5% after Santa Cruz plant fire; peso ~800/USD; UN embargo vote Oct 27–28",
+   "note": "UN embargo vote Oct 27-28; Havana accuses US of pressuring votes; grid crisis continues",
    "entities": [
     "cuba",
     "havana",
     "santa-cruz-del-norte",
-    "united-states"
+    "united-states",
+    "united-nations"
    ],
    "stories": [
     "cuba-75pct-blackout-santa-cruz",
@@ -574,18 +591,21 @@
    "id": "hormuz--ukraine",
    "from": "hormuz",
    "to": "ukraine",
-   "label": "Oil price → US eases Russia, presses Kyiv",
+   "label": "Gulf war drains Patriot interceptors",
    "entities": [
     "petroleum",
     "donald-trump",
     "ukraine",
-    "strait-of-hormuz"
+    "strait-of-hormuz",
+    "united-states",
+    "iran"
    ],
    "stories": [
     "trump-disgrace-eu-summit",
     "starshield-curbs-white-house",
     "iea-diesel-release",
-    "trump-waives-russia-sanctions"
+    "trump-waives-russia-sanctions",
+    "russia-strikes-oct24-patriot-shortage"
    ]
   },
   {
@@ -680,6 +700,21 @@
     "iran-seven-day-hormuz-offer",
     "trump-endorses-netanyahu",
     "hormuz-two-tankers-mines-claim-oct18"
+   ]
+  },
+  {
+   "id": "saudi--hormuz",
+   "from": "saudi",
+   "to": "hormuz",
+   "label": "Bypass pipeline under fire while strait stays shut",
+   "entities": [
+    "aramco",
+    "houthis",
+    "strait-of-hormuz"
+   ],
+   "stories": [
+    "houthis-east-west-pipeline-riyadh",
+    "hormuz-ukmto-week-oct21"
    ]
   }
  ]

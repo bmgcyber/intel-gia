@@ -18674,7 +18674,8 @@
    "2026-10-09-el-obeid-drones",
    "2023-04-15-sudan-war-begins",
    "2023-05-11-jeddah-declaration",
-   "2023-12-18-wad-madani-falls"
+   "2023-12-18-wad-madani-falls",
+   "el-fasher-one-year-on"
   ],
   "revisions": [
    {
@@ -76032,7 +76033,8 @@
    "2017-01-27-travel-ban",
    "2017-08-02-caatsa",
    "second-mine-tanker-ukmto-record",
-   "trump-endorses-netanyahu"
+   "trump-endorses-netanyahu",
+   "qatar-mediators-tehran-oct25"
   ]
  },
  {
@@ -76318,7 +76320,8 @@
    "2015-03-26-saudi-intervention-yemen",
    "2014-09-21-houthis-take-sanaa",
    "2009-08-11-yemen-scorched-earth",
-   "egypt-offers-to-defend-saudi"
+   "egypt-offers-to-defend-saudi",
+   "houthis-east-west-pipeline-riyadh"
   ]
  },
  {
@@ -76777,7 +76780,8 @@
    "2006-07-12-lebanon-war",
    "2006-08-11-unsc-1701",
    "2000-05-israel-leaves-lebanon",
-   "trump-endorses-netanyahu"
+   "trump-endorses-netanyahu",
+   "lebanon-tampa-no-breakthrough"
   ]
  },
  {
@@ -76913,7 +76917,8 @@
    "2023-12-18-wad-madani-falls",
    "2024-05-10-el-fasher-siege",
    "2025-01-11-wad-madani-retaken",
-   "2019-04-11-bashir-ousted"
+   "2019-04-11-bashir-ousted",
+   "el-fasher-one-year-on"
   ]
  },
  {
@@ -77638,7 +77643,8 @@
    "2017-12-06-jerusalem-recognition",
    "2010-06-17-stuxnet",
    "gaza-drone-strikes-oct17",
-   "oil-eases-monday-russia-waiver"
+   "oil-eases-monday-russia-waiver",
+   "israel-final-polls-oct23"
   ]
  },
  {
@@ -77720,7 +77726,8 @@
    "2020-01-08-iran-retaliates-ps752",
    "2019-06-20-global-hawk-downed",
    "2010-06-09-unsc-1929",
-   "iran-seven-day-hormuz-offer"
+   "iran-seven-day-hormuz-offer",
+   "hormuz-ukmto-week-oct21"
   ]
  },
  {
@@ -77812,7 +77819,8 @@
    "2015-02-12-minsk-ii",
    "2014-03-18-crimea-annexed",
    "graham-waiver-bipartisan-backlash",
-   "poland-starlink-arson-russia-gang"
+   "poland-starlink-arson-russia-gang",
+   "witkoff-putin-trilateral-talks"
   ]
  },
  {
@@ -77916,7 +77924,8 @@
   ],
   "related_stories": [
    "brazil-runoff-dead-heat",
-   "2026-10-04-brazil-first-round"
+   "2026-10-04-brazil-first-round",
+   "brazil-lula-wins-runoff"
   ]
  },
  {
@@ -78023,7 +78032,722 @@
    "iran-seven-day-hormuz-offer",
    "second-mine-tanker-ukmto-record",
    "graham-waiver-bipartisan-backlash",
-   "trump-endorses-netanyahu"
+   "trump-endorses-netanyahu",
+   "central-bank-week-oct26"
+  ]
+ },
+ {
+  "id": "israel-final-polls-oct23",
+  "date": "2026-10-23",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Middle East",
+  "title": "Final Israeli polls: Eisenkot's Yashar! leads, neither bloc near 61 before Oct 27 vote",
+  "summary": "The final legal TV polls, published Oct 23, gave the anti-Netanyahu bloc led by Gadi Eisenkot 52 (Kan), 54 (Channel 13) and 56 (Channel 12) seats against exactly 50 for Netanyahu's bloc, with Arab-majority parties at 14-16. Yashar! led Likud in all three (22-23 vs 19-21); Bennett's list was third. The Direct Polls survey for i24NEWS instead gave Netanyahu's bloc 59 and Eisenkot's 47. Exit polls are due at 22:00 Israel time (4 PM ET) on Oct 27.",
+  "sources": [
+   {
+    "name": "Haaretz",
+    "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/last-polls-before-election-day-put-eisenkot-ahead-both-sides-short-of-majority/000001a1-69fe-d34e-a1b9-ffff12940000"
+   },
+   {
+    "name": "Ynet",
+    "url": "https://www.ynetnews.com/article/s1wppltnme"
+   },
+   {
+    "name": "i24NEWS",
+    "url": "https://www.i24news.tv/en/news/israeli-elections/artc-final-election-polls-point-to-deadlock-as-neither-bloc-secures-a-majority"
+   }
+  ],
+  "entities": [
+   "israel",
+   "benjamin-netanyahu",
+   "gadi-eisenkot",
+   "yashar",
+   "likud",
+   "naftali-bennett",
+   "knesset"
+  ],
+  "causes": [
+   {
+    "story": "trump-endorses-netanyahu",
+    "why": "Polls closed out the campaign after Trump's endorsement tied the Iran war to Netanyahu's survival",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "Deadlock is the base case: neither camp reaches 61 without crossing a stated red line (the opposition relying on Arab parties, or Netanyahu needing a large polling miss). Threshold outcomes for small lists can swing about four seats each, so election-night exit polls may mislead. A drawn-out caretaker period keeps Netanyahu in office and the Iran war decision with him; that is the oil-relevant channel.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars",
+   "iran-war-hormuz"
+  ],
+  "marker": "political",
+  "unplaced": "Nationwide polling ahead of a national election; no single event site.",
+  "related_stories": [
+   "trump-endorses-netanyahu",
+   "2026-07-17-knesset-dissolves",
+   "2021-06-13-bennett-government",
+   "2023-03-26-israel-judicial-protests",
+   "2022-11-01-netanyahu-returns",
+   "gaza-drone-strikes-oct17"
+  ]
+ },
+ {
+  "id": "brazil-lula-wins-runoff",
+  "date": "2026-10-25",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Americas",
+  "title": "Lula wins Brazil runoff 51.79% to 48.21%; Flávio Bolsonaro refuses to concede and seeks annulment",
+  "summary": "Brazil's electoral court (TSE) declared Lula re-elected on Oct 25 with 64,256,232 votes (51.79%) to Flávio Bolsonaro's 59,826,041 (48.21%), with 100% of sections counted and turnout of 80.8%. Flávio had led the first round 47.03% to 45.16%. He told supporters in Brasília he would seek annulment, calling a two-hour polling extension 'inexplicable'. Lula faces a hostile Congress. US-listed Brazilian assets sold off overnight: BRL futures fell about 10% and the Brazil ETF (EWZ) and Petrobras ADRs traded sharply lower before B3 opened.",
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o"
+   },
+   {
+    "name": "G1",
+    "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/uslisted-brazilian-shares-slump-after-shock-lula-election-win-4971697"
+   },
+   {
+    "name": "Bloomberg Línea",
+    "url": "https://www.bloomberglinea.com.br/mercados/virada-de-lula-reverte-rali-eleitoral-e-derruba-ativos-brasileiros-antes-da-abertura-da-b3/"
+   }
+  ],
+  "entities": [
+   "brazil",
+   "lula",
+   "flavio-bolsonaro",
+   "brasilia",
+   "petrobras"
+  ],
+  "causes": [
+   {
+    "story": "brazil-btg-nexus-oct19",
+    "why": "The runoff that polls had shown as a technical tie was decided",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "The legal challenge is unlikely to overturn a 4.4-million-vote margin, but a non-concession keeps street and institutional tension high for weeks. The market shock is about fiscal credibility and a hostile Congress rather than the result's legitimacy; thin overnight trade probably overstates the move, so the B3 open and the finance-minister signal matter more. Regionally, a Lula term breaks the run of right-leaning wins and complicates Washington's push to isolate Caracas and Havana.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "western-hemisphere"
+  ],
+  "marker": "political",
+  "where": [
+   "brasilia"
+  ],
+  "related_stories": [
+   "brazil-btg-nexus-oct19",
+   "2026-10-04-brazil-first-round",
+   "2014-03-17-car-wash-begins",
+   "brazil-runoff-dead-heat"
+  ]
+ },
+ {
+  "id": "qatar-mediators-tehran-oct25",
+  "date": "2026-10-25",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Middle East",
+  "title": "Qatari mediators in Tehran in US-coordinated push as Trump weighs 'deal or finish them off'",
+  "summary": "Qatari mediators were in Tehran on Oct 25 in an effort coordinated with the United States to reduce tensions, according to reports carried by Al Arabiya. Trump told Fox News 'Do I make a deal with them or do I finish them off? That's the only question,' and said 'There will not be a strike today.' Iran's ambassador to Pakistan said Tehran had offered via Pakistani mediators to reopen the Strait of Hormuz if the US lifted its naval blockade; IRGC-affiliated Tasnim denied any new proposal and said Iran stands by seven conditions. Foreign ministers of Turkey, Saudi Arabia, Egypt, Pakistan, the UK, France, Germany and Italy met in Istanbul on Oct 23 to warn against renewed attacks.",
+  "sources": [
+   {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/202610250633"
+   },
+   {
+    "name": "Iran International",
+    "url": "https://www.iranintl.com/en/202610250887"
+   },
+   {
+    "name": "Dawn / Reuters",
+    "url": "https://www.dawn.com/news/2039730"
+   },
+   {
+    "name": "Al Arabiya",
+    "url": "https://english.alarabiya.net/News/middle-east/2026/10/25/qatari-mediators-reportedly-in-tehran-in-uscoordinated-effort-to-ease-tensions"
+   }
+  ],
+  "entities": [
+   "qatar",
+   "iran",
+   "united-states",
+   "donald-trump",
+   "pakistan",
+   "irgc",
+   "abbas-araghchi",
+   "strait-of-hormuz",
+   "tehran"
+  ],
+  "causes": [
+   {
+    "story": "iran-seven-day-hormuz-offer",
+    "why": "Tasnim says Iran still stands by the earlier seven-day plan and seven conditions now being mediated",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "Both sides are bargaining over sequencing (blockade relief versus reopening and nuclear terms), not over whether to talk. Tehran's mixed messaging likely reflects factional splits between the foreign ministry and the IRGC. A strike decision is unlikely before Israel's Oct 27 vote settles; a sequenced blockade-for-strait swap is possible within weeks but fragile, given the June memorandum's collapse.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "iran-war-hormuz",
+   "gulf-realignment"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "tehran"
+  ],
+  "related_stories": [
+   "iran-seven-day-hormuz-offer",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "kataib-hezbollah-halt",
+   "gfs-pride-sunk",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-01-08-iran-protest-crackdown",
+   "2026-02-28-iran-war-begins",
+   "2026-03-13-kharg-strike",
+   "2026-04-07-iran-ceasefire-islamabad",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-18-graham-act-signed",
+   "2026-09-26-trump-rejects-iran-plan",
+   "2025-06-22-midnight-hammer",
+   "2025-10-10-gaza-ceasefire-trump-plan",
+   "2024-04-13-iran-strikes-israel",
+   "2020-01-03-soleimani-killed",
+   "2020-01-08-iran-retaliates-ps752",
+   "2019-06-20-global-hawk-downed",
+   "2018-05-08-us-quits-jcpoa",
+   "2017-01-27-travel-ban",
+   "2017-08-02-caatsa",
+   "2010-06-09-unsc-1929",
+   "second-mine-tanker-ukmto-record",
+   "trump-endorses-netanyahu",
+   "hormuz-two-tankers-mines-claim-oct18",
+   "oil-eases-monday-russia-waiver",
+   "hormuz-ukmto-week-oct21"
+  ]
+ },
+ {
+  "id": "hormuz-ukmto-week-oct21",
+  "date": "2026-10-23",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Middle East",
+  "title": "UKMTO: Hormuz transits still ~70% below pre-war; PortWatch shows 2 tankers on Oct 18",
+  "summary": "UKMTO's weekly overview (produced Oct 23) counted 114 outbound and 127 inbound Strait of Hormuz transits in the seven days to Oct 21 (125 and 129 the week before), about 70% below pre-conflict levels. AIS-visible transits rose to 47 from 42; US-stated facilitated transits outnumber them roughly 4 to 1 and cannot be independently verified by UKMTO. About 80% of transits are energy carriers. IMF PortWatch data through Oct 18 shows 2 tanker transits that day.",
+  "sources": [
+   {
+    "name": "UKMTO weekly overview",
+    "url": "https://www.ukmto.org/-/media/ukmto/products/20261023-ukmto_vra_overview_u.pdf"
+   },
+   {
+    "name": "CK Economics (IMF PortWatch series)",
+    "url": "https://www.ckeconomics.com/data/strait-of-hormuz-daily-tanker-transits"
+   }
+  ],
+  "entities": [
+   "ukmto",
+   "strait-of-hormuz",
+   "petroleum",
+   "united-states",
+   "iran"
+  ],
+  "causes": [
+   {
+    "story": "hormuz-two-tankers-mines-claim-oct18",
+    "why": "Attacks and mine claims the prior week kept traffic suppressed",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "Traffic has stabilised at a low plateau rather than recovering; most of it now moves dark or under US facilitation, which keeps insurance and freight costs high regardless of daily Brent swings.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "iran-war-hormuz",
+   "global-oil"
+  ],
+  "marker": "energy",
+  "unplaced": "Strait-wide weekly traffic statistic; strait pin not approved.",
+  "related_stories": [
+   "hormuz-two-tankers-mines-claim-oct18",
+   "hormuz-attacks-surge",
+   "us-iran-talks-deadlock",
+   "houthis-hit-aramco",
+   "venezuela-oil",
+   "gfs-pride-sunk",
+   "us-weighs-shadow-fleet-relief",
+   "gulf-of-oman-tanker-fires",
+   "irgc-mine-supertanker-brent-110",
+   "2026-02-28-iran-war-begins",
+   "2026-03-11-iea-record-release",
+   "2026-03-13-kharg-strike",
+   "2026-04-13-us-blockade-iran",
+   "2026-06-17-islamabad-mou",
+   "2026-07-08-mou-collapses",
+   "2026-09-26-trump-rejects-iran-plan",
+   "iran-seven-day-hormuz-offer",
+   "second-mine-tanker-ukmto-record",
+   "oil-eases-monday-russia-waiver",
+   "qatar-mediators-tehran-oct25"
+  ]
+ },
+ {
+  "id": "houthis-east-west-pipeline-riyadh",
+  "date": "2026-10-26",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Middle East",
+  "title": "Houthis claim strikes on Saudi East-West pipeline pumping stations and Riyadh airport",
+  "summary": "The Houthis said early Oct 26 they fired a ballistic missile at King Khalid International Airport in Riyadh and drones at pumping stations on the East-West crude pipeline. The Saudi-led coalition said a missile toward Riyadh was intercepted and that coalition strikes destroyed two launchers in Sanaa. There was no immediate Saudi confirmation of pipeline damage. On Oct 24 the Houthis also claimed strikes on airports in Riyadh, Dammam and Najran, Khamis Mushait air base, an Aramco site in Yanbu and the Rabigh refinery; Saudi Arabia did not confirm those either.",
+  "sources": [
+   {
+    "name": "Anadolu",
+    "url": "https://www.aa.com.tr/en/middle-east/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline/4100562"
+   },
+   {
+    "name": "Al-Monitor / Reuters",
+    "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-fighting"
+   },
+   {
+    "name": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
+   }
+  ],
+  "entities": [
+   "houthis",
+   "saudi-arabia",
+   "aramco",
+   "riyadh",
+   "yanbu",
+   "sanaa",
+   "yemen",
+   "petroleum"
+  ],
+  "causes": [
+   {
+    "story": "houthis-aden-airport-khamis-mushait",
+    "why": "Continuation of the Houthi campaign against Saudi airports and air bases",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "The East-West line to Yanbu is Saudi Arabia's main bypass around a largely shut Hormuz, so even unconfirmed claims add a risk premium. Confirmed damage would hit the one route keeping Saudi Red Sea exports flowing, a clear upside risk for Brent and freight.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "yemen-houthis-saudi",
+   "global-oil",
+   "iran-war-hormuz"
+  ],
+  "marker": "strike",
+  "where": [
+   "riyadh"
+  ],
+  "related_stories": [
+   "houthis-aden-airport-khamis-mushait",
+   "houthis-hit-aramco",
+   "saudi-offensive-mokha",
+   "2022-01-21-saada-strike",
+   "2022-03-25-jeddah-attack",
+   "2022-04-02-yemen-truce",
+   "2022-10-02-truce-expires",
+   "houthis-saudi-oct15",
+   "houthis-hit-aden-palace",
+   "saudi-blames-iran-eu-gcc-postponed",
+   "yanbu-missile-intercepted",
+   "2026-07-20-houthi-saudi-blockade",
+   "2026-09-10-east-west-pipeline-attack",
+   "2021-02-04-biden-yemen-shift",
+   "2019-09-14-abqaiq-attack",
+   "2018-06-13-hodeidah-offensive",
+   "2018-08-09-dahyan-bus-strike",
+   "2018-12-13-stockholm-agreement",
+   "2017-12-04-saleh-killed",
+   "2015-03-26-saudi-intervention-yemen",
+   "2009-08-11-yemen-scorched-earth",
+   "egypt-offers-to-defend-saudi"
+  ]
+ },
+ {
+  "id": "witkoff-putin-trilateral-talks",
+  "date": "2026-10-21",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Europe",
+  "title": "Putin tells Witkoff he will resume three-way US-Russia-Ukraine talks, likely in the UAE in November",
+  "summary": "US envoy Steve Witkoff met Zelenskyy and European leaders in Oslo, then Putin in St. Petersburg on Oct 21. Russia agreed in principle to resume trilateral talks, initially at technical level, around Nov 10, possibly in Abu Dhabi (AP, Axios). Kremlin aide Yuri Ushakov said a deal 'still needs work'.",
+  "sources": [
+   {
+    "name": "AP",
+    "url": "https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91"
+   },
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://abcnews.com/International/ukraine-unblock-patriot-missile-delivery-zelenskyy-after-deadly/story?id=137550094"
+   }
+  ],
+  "entities": [
+   "steve-witkoff",
+   "vladimir-putin",
+   "volodymyr-zelenskyy",
+   "russia",
+   "ukraine",
+   "united-states",
+   "abu-dhabi",
+   "saint-petersburg",
+   "oslo"
+  ],
+  "causes": [
+   {
+    "story": "ukraine-blackout-push-oct18",
+    "why": "The envoy round came as Russia escalated strikes on Ukraine's grid",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "The format is back but positions are not closer. Russia gains time to press the winter grid campaign while appearing cooperative to Washington. Expect low-level talks with little substance before the US midterms.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine",
+   "transatlantic-rift"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "saint-petersburg",
+   "oslo"
+  ],
+  "related_stories": [
+   "ukraine-blackout-push-oct18",
+   "russia-strikes-oct24-patriot-shortage",
+   "energy-ceasefire",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-21-recognition",
+   "2022-02-24-invasion",
+   "2022-06-23-himars",
+   "2022-09-21-mobilization",
+   "2022-09-30-annexation",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "russia-grid-strikes-oct16",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-11-20-28-point-plan",
+   "2025-09-22-putin-new-start-offer",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2021-04-01-russia-spring-buildup",
+   "2021-06-16-biden-putin-geneva",
+   "2021-07-12-putin-unity-essay",
+   "2023-03-17-icc-putin-warrant",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2016-10-07-russia-election-interference",
+   "2015-02-12-minsk-ii",
+   "2014-03-18-crimea-annexed",
+   "2007-02-10-putin-munich-speech",
+   "2002-05-24-moscow-treaty",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash"
+  ]
+ },
+ {
+  "id": "russia-strikes-oct24-patriot-shortage",
+  "date": "2026-10-25",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Europe",
+  "title": "Russia launches 153 drones plus missiles; Zelenskyy asks US to unblock Patriot interceptors",
+  "summary": "Ukraine's air force said Russia launched 153 drones and unspecified cruise missiles overnight Oct 24-25; 119 drones were downed or suppressed and impacts hit 15 locations. Four people were killed in Dnipropetrovsk region; a hypermarket in Kharkiv burned, and thermal plants, substations, coal mines and grain storage were hit across nine regions. Zelenskyy said agreed deliveries of Patriot interceptors must be 'unblocked'; he has said Ukraine needs about 350 a month and received 24 in three months. Russia said it intercepted 532 Ukrainian drones over 22 regions.",
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://abcnews.com/International/ukraine-unblock-patriot-missile-delivery-zelenskyy-after-deadly/story?id=137550094"
+   },
+   {
+    "name": "Ukrainska Pravda",
+    "url": "https://www.pravda.com.ua/eng/news/2026/10/25/8059619/"
+   }
+  ],
+  "entities": [
+   "russia",
+   "ukraine",
+   "volodymyr-zelenskyy",
+   "kharkiv",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "witkoff-putin-trilateral-talks",
+    "why": "Strikes continued days after the Witkoff meetings",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "The Iran war is draining the same interceptor stockpile Ukraine depends on, so the Gulf and Ukraine theaters now compete directly for US air defence. That raises Europe's winter energy risk and the pressure on European production.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "russia-ukraine",
+   "iran-war-hormuz"
+  ],
+  "marker": "strike",
+  "where": [
+   "kharkiv"
+  ],
+  "related_stories": [
+   "witkoff-putin-trilateral-talks",
+   "energy-ceasefire",
+   "diesel-deal",
+   "2021-11-russia-buildup",
+   "2021-12-17-russia-drafts",
+   "2022-02-24-invasion",
+   "2022-06-23-himars",
+   "2022-10-10-energy-strikes",
+   "energy-ceasefire-collapse",
+   "trump-disgrace-eu-summit",
+   "starshield-curbs-white-house",
+   "lutsk-blackout-volyn",
+   "trump-waives-russia-sanctions",
+   "putin-security-zone",
+   "russia-grid-strikes-oct16",
+   "2026-09-22-zelensky-trump-unga",
+   "2025-02-28-oval-office-clash",
+   "2025-08-15-alaska-summit",
+   "2025-11-20-28-point-plan",
+   "2025-02-18-riyadh-us-russia-talks",
+   "2022-12-21-zelensky-washington",
+   "2026-05-14-kyiv-record-assault",
+   "2019-09-24-trump-ukraine-impeachment-inquiry",
+   "2014-03-18-crimea-annexed",
+   "russia-332-drone-energy-strike",
+   "graham-waiver-bipartisan-backlash",
+   "ukraine-blackout-push-oct18"
+  ]
+ },
+ {
+  "id": "lebanon-tampa-no-breakthrough",
+  "date": "2026-10-22",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Middle East",
+  "title": "Lebanon-Israel military talks at CENTCOM in Tampa end without a breakthrough",
+  "summary": "US-mediated Lebanon-Israel military talks at CENTCOM in Tampa ended without a breakthrough. Israel sought direct military coordination and a role in monitoring Hezbollah disarmament; Lebanon demanded independent verification and an end to Israeli strikes. The sides agreed to keep talking, but no next session was set.",
+  "sources": [
+   {
+    "name": "The New Arab",
+    "url": "https://www.newarab.com/news/lebanon-israel-talks-us-end-without-breakthrough"
+   },
+   {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough"
+   }
+  ],
+  "entities": [
+   "lebanon",
+   "israel",
+   "hezbollah",
+   "united-states",
+   "tampa"
+  ],
+  "causes": [
+   {
+    "story": "lebanon-tampa-talks-demands",
+    "why": "The talks previewed in that story took place and stalled on the same demands",
+    "confidence": "likely"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "With Israel voting Oct 27, neither side has room to concede; the southern Lebanon front stays a low-grade, strike-driven conflict through any Israeli coalition talks.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "levant-wars",
+   "iran-proxy-network"
+  ],
+  "marker": "diplomacy",
+  "where": [
+   "tampa"
+  ],
+  "related_stories": [
+   "lebanon-tampa-talks-demands",
+   "2022-10-11-israel-lebanon",
+   "2026-03-02-hezbollah-joins-war",
+   "2026-04-08-israel-strikes-lebanon",
+   "2026-08-17-mou-expires",
+   "2026-10-14-lebanon-yellow-line",
+   "2025-08-05-lebanon-disarm-hezbollah",
+   "2024-09-17-pager-attacks",
+   "2024-11-27-israel-hezbollah-ceasefire",
+   "2023-10-08-hezbollah-support-front",
+   "2024-10-01-israel-invades-lebanon",
+   "2006-07-12-lebanon-war",
+   "2006-08-11-unsc-1701",
+   "2000-05-israel-leaves-lebanon"
+  ]
+ },
+ {
+  "id": "el-fasher-one-year-on",
+  "date": "2026-10-26",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Africa",
+  "title": "One year after RSF capture, rights groups document killings and detention in El Fasher",
+  "summary": "Marking a year since the RSF took El Fasher, Amnesty International published new testimony of unlawful killings, detention and torture and said fewer than 70,000 residents remain in a city once home to over a million. Human Rights Watch called the capture a 'cataclysm'. Dabanga reported the UN rights chief as saying drone strikes killed 306 people in three weeks across Sudan.",
+  "sources": [
+   {
+    "name": "Amnesty International",
+    "url": "https://www.amnesty.org/en/latest/news/2026/10/sudan-el-fasher-civilians-suffer-unlawful-killings-detention-and-torture-one-year-after-citys-capture-by-the-rsf-new-testimony/"
+   },
+   {
+    "name": "Human Rights Watch",
+    "url": "https://www.hrw.org/news/2026/10/26/sudan-one-year-on-from-the-cataclysm-of-el-fasher"
+   },
+   {
+    "name": "Dabanga",
+    "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-chief-sudan-drone-strikes-killed-306-in-three-weeks"
+   }
+  ],
+  "entities": [
+   "rsf",
+   "el-fasher"
+  ],
+  "causes": [
+   {
+    "story": "2025-10-26-el-fasher-falls",
+    "why": "Anniversary of the RSF capture",
+    "confidence": "likely"
+   },
+   {
+    "story": "sudan-nyala-strikes",
+    "why": "Air and drone war continues across Darfur and Kordofan",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "Darfur is consolidating as an RSF-held zone while the war's active front sits in Kordofan; accountability pressure is rising but has not changed battlefield behaviour or the external supply lines.",
+   "confidence": "likely"
+  },
+  "storylines": [
+   "sudan-war"
+  ],
+  "marker": "political",
+  "where": [
+   "el-fasher"
+  ],
+  "related_stories": [
+   "2025-10-26-el-fasher-falls",
+   "sudan-nyala-strikes"
+  ]
+ },
+ {
+  "id": "central-bank-week-oct26",
+  "date": "2026-10-26",
+  "date_precision": "day",
+  "kind": "event",
+  "edition": "2026-10-26",
+  "region": "Americas",
+  "title": "Fed, ECB and BOJ all expected to hold this week, with December hikes in view as oil keeps inflation hot",
+  "summary": "The FOMC meets Oct 27-28 and is widely expected to hold, with economists' focus on signals of a December hike (Reuters). The ECB decides Oct 29 and is expected to hold its deposit rate at 2.50% after September's hike; the BOJ decides Oct 30 and is expected to hold at 1.25%. US PCE data is due Oct 29-30. GIA Markets: 10-year Treasury near 4.97%, gold near $4,010 after a 4% weekly drop, TTF gas near EUR 97/MWh.",
+  "sources": [
+   {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/economy-news/fed-to-hit-pause-on-rate-hikes-but-maybe-not-for-long-4971871"
+   },
+   {
+    "name": "Reuters via Investing.com (ECB)",
+    "url": "https://www.investing.com/news/economy-news/ready-for-a-french-test-five-questions-for-the-ecb-4971518"
+   },
+   {
+    "name": "Newsquawk week ahead",
+    "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+   },
+   {
+    "name": "CNBC (gold)",
+    "url": "https://www.cnbc.com/2026/10/26/gold-gains-on-softer-oil-prices-fed-decision-in-focus.html"
+   }
+  ],
+  "entities": [
+   "federal-reserve",
+   "ecb",
+   "bank-of-japan",
+   "petroleum",
+   "united-states"
+  ],
+  "causes": [
+   {
+    "story": "oil-eases-monday-russia-waiver",
+    "why": "Oil has since climbed back to six-month highs, keeping inflation pressure on central banks",
+    "confidence": "possible"
+   }
+  ],
+  "effects": [],
+  "batch": "inbox-2026-10-26",
+  "analysis": {
+   "text": "Oil above $110 is pushing every major central bank toward a hawkish hold, so the war is now a rates story as much as an energy one. A Hormuz deal would be the single biggest dovish surprise; a pipeline or strait escalation would firm December-hike pricing.",
+   "confidence": "possible"
+  },
+  "storylines": [
+   "central-banks-rates",
+   "global-oil"
+  ],
+  "marker": "political",
+  "unplaced": "Multi-country monetary policy calendar; no single event site.",
+  "related_stories": [
+   "oil-eases-monday-russia-waiver",
+   "tech-selloff-worst-week"
   ]
  }
 ]

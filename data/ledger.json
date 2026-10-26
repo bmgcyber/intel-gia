@@ -129832,6 +129832,1114 @@
     "date_saved": true,
     "hotzones_date": "2026-10-18"
    }
+  },
+  "2026-10-26": {
+   "sha256": "211889d065f7c8924257ce5fc214de4c822ba4559c4ac29251db8f78a8fe5ed1",
+   "undo": {
+    "stories": {
+     "israel-final-polls-oct23": null,
+     "brazil-lula-wins-runoff": null,
+     "qatar-mediators-tehran-oct25": null,
+     "hormuz-ukmto-week-oct21": null,
+     "houthis-east-west-pipeline-riyadh": null,
+     "witkoff-putin-trilateral-talks": null,
+     "russia-strikes-oct24-patriot-shortage": null,
+     "lebanon-tampa-no-breakthrough": null,
+     "el-fasher-one-year-on": null,
+     "central-bank-week-oct26": null,
+     "trump-endorses-netanyahu": {
+      "id": "trump-endorses-netanyahu",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-19",
+      "region": "Middle East",
+      "title": "Trump endorses Netanyahu nine days before Israel's election, tying Iran war to Bibi's survival",
+      "summary": "On Oct 18 President Trump endorsed Benjamin Netanyahu for re-election in Israel's Oct 27 Knesset vote, calling him a 'Great Warrior Prime Minister' and saying that if Israel chose 'anyone other than Bibi', America would have to finish the Iran war alone and he was 'not inclined to do so'. Axios called it the first explicit public endorsement of an Israeli candidate by a US president. Trump told Axios he had always planned to endorse but did not want to do it too soon; Netanyahu thanked him and said 'Together we will complete the mission.' Rival Gadi Eisenkot told Channel 12 the election is a domestic Israeli issue. Most mainstream polls still show neither Zionist bloc at 61 seats; Channel 14 and i24 have shown Likud ahead of Yashar! with the right-religious bloc near or at a majority.",
+      "sources": [
+       {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections"
+       },
+       {
+        "name": "Times of Israel",
+        "url": "https://www.timesofisrael.com/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/"
+       }
+      ],
+      "entities": [
+       "donald-trump",
+       "benjamin-netanyahu",
+       "israel",
+       "gadi-eisenkot",
+       "likud",
+       "yashar",
+       "iran",
+       "united-states",
+       "knesset"
+      ],
+      "causes": [
+       {
+        "story": "lebanon-tampa-talks-demands",
+        "why": "The vote falls in the same week as US-mediated Israel–Lebanon talks and while the Iran war and Gaza ceasefire freeze continue",
+        "confidence": "possible"
+       },
+       {
+        "story": "iran-seven-day-hormuz-offer",
+        "why": "Trump tied the endorsement to finishing the Iran war and to whether Israel has a partner he will work with",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-19",
+      "analysis": {
+       "text": "The endorsement raises the odds that a Netanyahu win or a prolonged caretaker under him keeps the door open to a second US–Israeli campaign against Iran after the Nov 3 US midterms, which is oil-market event risk. But oil over the next month still depends more on Hormuz transits and Iran's standing seven-day reopening offer than on the Israeli result, and no government in the first mandate period remains the likely path on mainstream polls.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars",
+       "iran-war-hormuz",
+       "gulf-realignment"
+      ],
+      "marker": "political",
+      "unplaced": "US endorsement of an Israeli election; no single event site.",
+      "related_stories": [
+       "lebanon-tampa-talks-demands",
+       "iran-seven-day-hormuz-offer",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "2022-03-27-negev-summit",
+       "gfs-pride-sunk",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-06-17-islamabad-mou",
+       "2026-08-17-mou-expires",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-13-israel-strikes-iran",
+       "2025-06-22-midnight-hammer",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2026-07-17-knesset-dissolves",
+       "2024-04-13-iran-strikes-israel",
+       "2020-01-03-soleimani-killed",
+       "2020-08-13-abraham-accords",
+       "2020-12-14-sudan-delisted",
+       "2021-06-13-bennett-government",
+       "2023-03-26-israel-judicial-protests",
+       "2022-11-01-netanyahu-returns",
+       "2019-03-25-golan-recognition",
+       "2019-06-20-global-hawk-downed",
+       "2018-05-08-us-quits-jcpoa",
+       "2018-05-14-jerusalem-embassy-gaza",
+       "2017-01-27-travel-ban",
+       "2017-08-02-caatsa",
+       "2017-12-06-jerusalem-recognition",
+       "2010-06-17-stuxnet",
+       "gaza-drone-strikes-oct17",
+       "oil-eases-monday-russia-waiver"
+      ]
+     },
+     "brazil-btg-nexus-oct19": {
+      "id": "brazil-btg-nexus-oct19",
+      "date": "2026-10-19",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-19",
+      "region": "Americas",
+      "title": "BTG/Nexus keeps Brazil's Oct 25 runoff a technical tie as Flávio's lead narrows",
+      "summary": "A BTG/Nexus poll released Oct 19 (fieldwork Oct 16–18, n=2,002) gave Flávio Bolsonaro 46.5% and Lula 45.9% in the Oct 25 presidential runoff, within a ±2-point margin of error; Flávio's share fell from 47.9% and Lula's rose from 45.1% in the prior round. Blank/null stayed 4.7%; undecided rose to 2.9%. About 90.9% said their decision would not change. Flávio won the first round 47.03% to 45.16%.",
+      "sources": [
+       {
+        "name": "Reuters via UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2026/10/19/flavio-bolsonaro-com-465-e-lula-com-459-seguem-em-empate-tecnico-no-2-turno-mostra-btgnexus.htm"
+       },
+       {
+        "name": "Exame (Vox prior)",
+        "url": "https://exame.com/brasil/pesquisa-vox-brasil-lula-tem-51-e-flavio-bolsonaro-49-em-empate-tecnico/"
+       }
+      ],
+      "entities": [
+       "brazil",
+       "lula",
+       "flavio-bolsonaro",
+       "brasilia"
+      ],
+      "causes": [
+       {
+        "story": "brazil-runoff-dead-heat",
+        "why": "Next poll print in the same dead-heat runoff campaign",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-19",
+      "analysis": {
+       "text": "Six days out, either outcome remains live. A Flávio win would extend the region's rightward tilt and tighten Brasilia's alignment with Washington's hemisphere agenda; a recount fight is possible either way if the margin stays inside a point or two.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "western-hemisphere"
+      ],
+      "marker": "political",
+      "where": [
+       "brasilia"
+      ],
+      "related_stories": [
+       "brazil-runoff-dead-heat",
+       "2026-10-04-brazil-first-round"
+      ]
+     },
+     "iran-seven-day-hormuz-offer": {
+      "id": "iran-seven-day-hormuz-offer",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "Iran says its seven-day plan to reopen Hormuz, sent via Qatar, is 'still on the table'",
+      "summary": "Foreign Minister Abbas Araghchi said on Oct 17 that Tehran had sent Washington, through mediator Qatar, a 'specific seven-day plan' under which the Strait of Hormuz could reopen and normal traffic resume if Iran's conditions were met: 'The choice is now America's.' On Oct 18 he told Iranian media the offer stood; if Washington accepts, the strait would open within six days and US-Iran talks would resume on the seventh. He said US military action had blocked the June memorandum of understanding. Iran first presented the plan in mid-September after a temporary ceasefire collapsed, and has acknowledged a US reply ('observations' it is reviewing); AP, via CBS, reported that Trump rejected a Tehran proposal to end the war and open the strait late last month. Iran has not published the full text, but Reuters reported its conditions include lifting the US blockade of its ports, cancelling US sanctions on its oil exports and a halt to hostilities on all fronts; Iran's Supreme National Security Council secretary said Washington had not answered all seven conditions. A main sticking point is sequencing: Washington wants Iran's nuclear programme addressed from the start, while Tehran wants a first phase limited to reopening the strait. Trump told Newsmax on Oct 15 he would not use nuclear weapons or send ground troops and expects a deal after the Nov 3 midterms; CBS reported the Pentagon has prepared plans to use the MOAB on Iranian military sites if ordered.",
+      "sources": [
+       {
+        "name": "Iran International",
+        "url": "https://www.iranintl.com/en/202610179732"
+       },
+       {
+        "name": "Reuters via Arab News",
+        "url": "https://www.arabnews.com/middle-east/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-3006986"
+       },
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+       },
+       {
+        "name": "CBS News live",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+       }
+      ],
+      "entities": [
+       "iran",
+       "abbas-araghchi",
+       "united-states",
+       "donald-trump",
+       "qatar",
+       "strait-of-hormuz",
+       "petroleum"
+      ],
+      "causes": [
+       {
+        "story": "us-iran-talks-deadlock",
+        "why": "The offer is the latest move in deadlocked indirect US-Iran talks",
+        "confidence": "likely"
+       },
+       {
+        "story": "irgc-mine-supertanker-brent-110",
+        "why": "Mine strikes raise the price of rejecting Iran's terms",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Re-pitching a month-old offer before the midterms gives Trump a way to cut pump prices, while mines and attacks keep raising the cost of saying no. But Iran's published terms, an end to the port blockade and oil sanctions, are what Washington has shown no sign of giving up before Nov 3, and the US insistence on nuclear talks first makes a quick deal unlikely.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "unplaced": "A diplomatic proposal relayed through Qatar; no event site.",
+      "related_stories": [
+       "us-iran-talks-deadlock",
+       "irgc-mine-supertanker-brent-110",
+       "hormuz-attacks-surge",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "trump-waives-russia-sanctions",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-18-graham-act-signed",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2025-06-22-midnight-hammer",
+       "2025-10-10-gaza-ceasefire-trump-plan",
+       "2020-01-03-soleimani-killed",
+       "2019-06-20-global-hawk-downed",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-01-27-travel-ban",
+       "2017-08-02-caatsa",
+       "second-mine-tanker-ukmto-record",
+       "trump-endorses-netanyahu"
+      ]
+     },
+     "hormuz-two-tankers-mines-claim-oct18": {
+      "id": "hormuz-two-tankers-mines-claim-oct18",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-19",
+      "region": "Middle East",
+      "title": "IRGC says two crude tankers catch fire after mine strikes; UKMTO traffic still ~70% below pre-war",
+      "summary": "Iran's IRGC said on Oct 18 that two oil tankers, each carrying about two million barrels, caught fire after hitting naval mines in the Strait of Hormuz; IRNA said the vessels had switched off positioning and radar and used a route Iran had not authorised. Ship names were not released. CENTCOM has disputed similar mine claims, saying it has cleared the strait of mines and that vessels are being struck by projectiles. UKMTO's week-to-Oct-16 overview recorded 254 combined Hormuz transits (125 outbound, 129 inbound), about 70% below pre-conflict levels, and 12 vessel attacks that week (Al Jazeera; AP/CBS have also cited 10). IMF PortWatch showed only 2 tanker transits on Oct 11 against a pre-crisis baseline near 85 a day. Brent eased toward about $107–108 early Monday from Friday's five-month high near $110.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+       },
+       {
+        "name": "Anadolu (UKMTO)",
+        "url": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-transits-remain-70-below-pre-conflict-levels-uk-maritime-agency/4091608"
+       },
+       {
+        "name": "Straits Daily Brief / PortWatch",
+        "url": "https://straits.live/briefs/2026-10-19"
+       },
+       {
+        "name": "CNBC-TV18",
+        "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-crude-west-asia-conflict-strait-of-hormuz-russia-ukraine-war-supply-saudi-houthi-attacks-20014556.htm"
+       }
+      ],
+      "entities": [
+       "iran",
+       "irgc",
+       "strait-of-hormuz",
+       "ukmto",
+       "petroleum",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "second-mine-tanker-ukmto-record",
+        "why": "Continuation of the same disputed mine/projectile attack wave and UKMTO weekly high",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-19",
+      "analysis": {
+       "text": "The mine-versus-projectile dispute matters for attribution and insurance, but either way the strait remains a wartime bottleneck: UKMTO all-ship traffic is deeply suppressed and PortWatch tanker counts are near zero on some days, which keeps the diesel and freight premium elevated even when Brent dips on the Russia waiver narrative.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "iran-war-hormuz",
+       "global-oil"
+      ],
+      "marker": "strike",
+      "unplaced": "Strait of Hormuz theater; Bryan has not approved pinning the strait.",
+      "related_stories": [
+       "second-mine-tanker-ukmto-record",
+       "oil-eases-monday-russia-waiver",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "kataib-hezbollah-halt",
+       "venezuela-oil",
+       "gfs-pride-sunk",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2024-04-13-iran-strikes-israel",
+       "2020-01-03-soleimani-killed",
+       "2020-01-08-iran-retaliates-ps752",
+       "2019-06-20-global-hawk-downed",
+       "2010-06-09-unsc-1929",
+       "iran-seven-day-hormuz-offer"
+      ]
+     },
+     "houthis-aden-airport-khamis-mushait": {
+      "id": "houthis-aden-airport-khamis-mushait",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "Missiles land at Aden airport; Saudi Arabia intercepts missiles aimed at Khamis Mushait",
+      "summary": "Two missiles landed on the grounds of Aden International Airport late on Oct 16, about 500 metres from a Yemenia flight preparing to leave for Cairo; Aden security blamed the Houthis, the second attack on the airport in under a week, and no casualties were reported. The Houthi-run Saba agency said the target was a military camp next to the airport. Early on Oct 18 the coalition said it destroyed two ballistic missiles fired toward Khamis Mushait and a drone aimed at Riyadh, where residents received a phone alert. Office tenants of Riyadh's Kingdom Center tower were told to work remotely. Houthi media said Saudi strikes killed 12 people in Taiz and Dhamar. The WSJ, citing people briefed on intelligence from Saudi Arabia and Yemen's anti-Houthi alliance, reported Iran is giving the Houthis targeting help, intelligence and training; Tehran denies a role. A Saudi National Guard helicopter crashed near Najran, killing two pilots; the coalition blamed a technical fault.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means"
+       },
+       {
+        "name": "Reuters via Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/article-911943"
+       },
+       {
+        "name": "CBS News live (AFP/AP)",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+       },
+       {
+        "name": "WSJ",
+        "url": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107"
+       },
+       {
+        "name": "Iran International (on the WSJ report)",
+        "url": "https://www.iranintl.com/en/202610179732"
+       }
+      ],
+      "entities": [
+       "houthis",
+       "aden",
+       "saudi-arabia",
+       "riyadh",
+       "iran",
+       "yemen",
+       "presidential-leadership-council"
+      ],
+      "causes": [
+       {
+        "story": "houthis-hit-aden-palace",
+        "why": "Follow-on strike on Aden after the palace attack",
+        "confidence": "likely"
+       },
+       {
+        "story": "yanbu-missile-intercepted",
+        "why": "Same Houthi missile campaign against the kingdom",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Striking Aden puts the government's seat and its Saudi backers' headquarters in range while Houthi forces hold the Bab el-Mandeb coast. The goal looks like pushing Riyadh toward a deal on Houthi terms rather than conquest of the south.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "yemen-houthis-saudi",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "aden"
+      ],
+      "related_stories": [
+       "houthis-hit-aden-palace",
+       "yanbu-missile-intercepted",
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "2022-01-abu-dhabi-attack",
+       "2022-01-21-saada-strike",
+       "2022-03-25-jeddah-attack",
+       "2022-04-02-yemen-truce",
+       "2022-04-07-plc",
+       "2022-10-02-truce-expires",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "2026-01-09-stc-dissolution",
+       "2026-07-20-houthi-saudi-blockade",
+       "2026-09-10-houthis-seize-mokha",
+       "2025-12-03-stc-seizes-hadramawt",
+       "2021-02-04-biden-yemen-shift",
+       "2019-09-14-abqaiq-attack",
+       "2018-06-13-hodeidah-offensive",
+       "2018-08-09-dahyan-bus-strike",
+       "2018-12-13-stockholm-agreement",
+       "2017-12-04-saleh-killed",
+       "2015-03-26-saudi-intervention-yemen",
+       "2014-09-21-houthis-take-sanaa",
+       "2009-08-11-yemen-scorched-earth",
+       "egypt-offers-to-defend-saudi"
+      ]
+     },
+     "ukraine-blackout-push-oct18": {
+      "id": "ukraine-blackout-push-oct18",
+      "date": "2026-10-18",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-19",
+      "region": "Europe",
+      "title": "Zelenskyy says Russia is seeking a nationwide blackout after fresh strikes on energy sites",
+      "summary": "President Zelenskyy said on Oct 18 that Russia had carried out 76 attacks on Ukraine's energy and oil-and-gas sectors in the week since Trump announced an energy cease-fire on social media, and that overnight strikes hit power stations in the Vinnytsia, Zhytomyr, Khmelnytskyi and Odesa regions. Ukraine's Air Force said Russia launched 180 combat drones overnight, of which 152 were intercepted, with impacts at 20 locations; regional officials reported civilian deaths in Zaporizhzhia and Poltava. Zelenskyy said Russia launched nearly 2,700 attack drones, 1,700 guided bombs and 66 missiles over the past week. He also said Starshield connection speeds across Ukraine remained significantly limited; Secretary Rubio called reports that the White House ordered a slowdown 'categorically false' and said Ukraine does not currently have Starshield access.",
+      "sources": [
+       {
+        "name": "RFE/RL",
+        "url": "https://www.rferl.org/a/ukraine-russia-drone-attacks-zelenskyy-airports/33878787.html"
+       },
+       {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-drones-hit-western-ukraine-as-nationwide-attacks-kill-10-injure-73/"
+       }
+      ],
+      "entities": [
+       "russia",
+       "ukraine",
+       "volodymyr-zelenskyy",
+       "odesa",
+       "kyiv",
+       "vladimir-putin",
+       "donald-trump",
+       "marco-rubio",
+       "starlink",
+       "spacex"
+      ],
+      "causes": [
+       {
+        "story": "russia-332-drone-energy-strike",
+        "why": "Next wave of the same pre-winter grid campaign after the 332-drone strike",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-waives-russia-sanctions",
+        "why": "Zelenskyy frames the week's energy assault against Trump's announced pause and the diesel/sanctions waiver track",
+        "confidence": "possible"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-19",
+      "analysis": {
+       "text": "Moscow is pressing the pre-winter grid campaign while Washington's waiver and contested Starshield/Starlink friction raise Kyiv's sense that pressure is being applied for a bad deal. Europe carries more of the winter energy and air-defence load if US leverage stays tilted toward Moscow.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "russia-ukraine",
+       "transatlantic-rift"
+      ],
+      "marker": "strike",
+      "where": [
+       "odesa",
+       "kyiv"
+      ],
+      "related_stories": [
+       "russia-332-drone-energy-strike",
+       "trump-waives-russia-sanctions",
+       "energy-ceasefire",
+       "diesel-deal",
+       "2021-11-russia-buildup",
+       "2021-12-17-russia-drafts",
+       "2022-02-21-recognition",
+       "2022-02-24-invasion",
+       "2022-09-21-mobilization",
+       "2022-09-30-annexation",
+       "2022-10-10-energy-strikes",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "lutsk-blackout-volyn",
+       "putin-security-zone",
+       "russia-grid-strikes-oct16",
+       "2026-09-22-zelensky-trump-unga",
+       "2025-02-28-oval-office-clash",
+       "2025-08-15-alaska-summit",
+       "2025-02-18-riyadh-us-russia-talks",
+       "2021-04-01-russia-spring-buildup",
+       "2021-07-12-putin-unity-essay",
+       "2023-03-17-icc-putin-warrant",
+       "2026-05-14-kyiv-record-assault",
+       "2019-09-24-trump-ukraine-impeachment-inquiry",
+       "2016-10-07-russia-election-interference",
+       "2015-02-12-minsk-ii",
+       "2014-03-18-crimea-annexed",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang"
+      ]
+     },
+     "lebanon-tampa-talks-demands": {
+      "id": "lebanon-tampa-talks-demands",
+      "date": "2026-10-17",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Middle East",
+      "title": "Lebanon's army delegation will demand an end to Israeli attacks at Oct 20 talks in Tampa",
+      "summary": "Lebanon's presidency said on Oct 17 that a military delegation will present Beirut's demand for an end to Israeli attacks at a trilateral meeting with Israel and the US in Tampa, Florida on Oct 20. Under a US-brokered deal Beirut pledged to disarm Hezbollah in return for a gradual Israeli withdrawal, but Hezbollah refuses to disarm while Israeli forces remain on Lebanese land, and Israel continues to strike southern Lebanon. The current war began on March 2.",
+      "sources": [
+       {
+        "name": "Reuters via WZUU",
+        "url": "https://wzuu.com/2026/10/17/lebanon-says-military-delegation-will-press-for-halt-to-israeli-attacks-at-us-talks/"
+       }
+      ],
+      "entities": [
+       "lebanon",
+       "israel",
+       "hezbollah",
+       "united-states"
+      ],
+      "causes": [
+       {
+        "story": "2026-10-14-lebanon-yellow-line",
+        "why": "Beirut's demands target the occupation zone Israel is hardening",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Holding the talks at a US military hub signals Washington wants a security arrangement, not a political peace. Without a Hezbollah disarmament mechanism Israel is unlikely to give up its 'Yellow Line' positions before its Oct 27 election.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "levant-wars",
+       "iran-proxy-network"
+      ],
+      "era": "2020s",
+      "marker": "diplomacy",
+      "unplaced": "A statement about talks to be held in Tampa, Florida on Oct 20; the event has not happened yet.",
+      "related_stories": [
+       "2026-10-14-lebanon-yellow-line",
+       "2022-10-11-israel-lebanon",
+       "2026-03-02-hezbollah-joins-war",
+       "2026-04-08-israel-strikes-lebanon",
+       "2026-08-17-mou-expires",
+       "2025-08-05-lebanon-disarm-hezbollah",
+       "2024-09-17-pager-attacks",
+       "2024-11-27-israel-hezbollah-ceasefire",
+       "2023-10-08-hezbollah-support-front",
+       "2024-10-01-israel-invades-lebanon",
+       "2006-07-12-lebanon-war",
+       "2006-08-11-unsc-1701",
+       "2000-05-israel-leaves-lebanon",
+       "trump-endorses-netanyahu"
+      ]
+     },
+     "2025-10-26-el-fasher-falls": {
+      "id": "2025-10-26-el-fasher-falls",
+      "date": "2025-10-26",
+      "date_precision": "day",
+      "kind": "backfill",
+      "edition": "2025-12-31",
+      "region": "Africa",
+      "title": "RSF takes El Fasher after an 18-month siege, followed by mass killings",
+      "summary": "The RSF captured North Darfur's capital. The WHO said about 460 people were killed at the Saudi Hospital. OHCHR later documented more than 6,000 killings on Oct 25–27 and said the violations amount to war crimes.",
+      "sources": [
+       {
+        "name": "OHCHR",
+        "url": "https://www.ohchr.org/en/press-releases/2026/02/sudan-rsf-violations-capture-el-fasher-amount-war-crimes"
+       },
+       {
+        "name": "AP",
+        "url": "https://apnews.com/article/sudan-hospital-rsf-darfur-fasher-who-3ac305299da5ee388429f3352ca5c6fa"
+       },
+       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c364jgkge46o"
+       },
+       {
+        "name": "Yale HRL",
+        "url": "https://ysph.yale.edu/download-file/21697a62-b8a2-4692-b30a-6e984e96bb08/"
+       }
+      ],
+      "entities": [
+       "rsf",
+       "sudan",
+       "sudanese-armed-forces",
+       "who"
+      ],
+      "causes": [
+       {
+        "story": "2025-03-21-khartoum-retaken",
+        "why": "Driven from the capital, the RSF consolidated Darfur",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-08-01-zamzam-famine",
+        "why": "Siege and famine around El Fasher",
+        "confidence": "likely"
+       },
+       {
+        "story": "2024-05-10-el-fasher-siege",
+        "why": "The fall ended an 18-month siege",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2025-12-31",
+      "analysis": {
+       "text": "With all of Darfur held, the RSF turned east into Kordofan, toward Babanusa, Kadugli and El Obeid.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2025 (Trump's return)",
+      "marker": "military",
+      "where": [
+       "el-fasher"
+      ],
+      "related_stories": [
+       "2025-03-21-khartoum-retaken",
+       "2024-08-01-zamzam-famine",
+       "2024-05-10-el-fasher-siege",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2026-10-09-el-obeid-drones",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls"
+      ],
+      "revisions": [
+       {
+        "edition": "2024-12-31",
+        "why": "2024 backfill: link to 2024 causes",
+        "fields": [
+         "causes"
+        ]
+       },
+       {
+        "edition": "2026-09-28",
+        "why": "Phase D gap backfill: link to earlier causes",
+        "fields": [
+         "causes"
+        ]
+       }
+      ]
+     },
+     "sudan-nyala-strikes": {
+      "id": "sudan-nyala-strikes",
+      "date": "2026-10-16",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-18",
+      "region": "Africa",
+      "title": "Army air strikes hit RSF seat in Nyala; RSF says 30 civilians died in a market",
+      "summary": "Sudan's army said Oct 16 air attacks on Nyala, capital of South Darfur and seat of the RSF's self-declared administration, killed dozens of RSF fighters and destroyed command centres. The RSF said an army drone hit a busy livestock market, killing 30 civilians including 17 women and five children; the rights group Emergency Lawyers said the drone was army-affiliated. Neither claim was independently verified. A government source told Al Jazeera the RSF hit mining sites in South Kordofan with drones. The Centre for Information Resilience reported army and allied Joint Forces gains in North Kordofan, including Sawdiri and al-Mazroub, while RSF drones keep hitting El Obeid, which shelters a growing displaced population.",
+      "sources": [
+       {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/2550"
+       },
+       {
+        "name": "Anadolu",
+        "url": "https://aa.com.tr/en/middle-east/sudanese-army-strikes-inflict-heavy-losses-on-rsf-in-darfur-s-nyala-regional-government/4092539"
+       },
+       {
+        "name": "Centre for Information Resilience",
+        "url": "https://www.info-res.org/sudan-witness/articles/north-kordofan-saf-and-joint-forces-advance-as-uav-strikes-threaten-el-obeid/"
+       }
+      ],
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces",
+       "nyala",
+       "el-obeid"
+      ],
+      "causes": [
+       {
+        "story": "2026-10-09-el-obeid-drones",
+        "why": "Escalating drone exchange between the army and the RSF",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-18",
+      "analysis": {
+       "text": "Both sides are now fighting a drone war of attrition against each other's economic base, the RSF against gold mines and the army against the RSF capital, with civilians as the main casualties. The army's Kordofan gains make El Obeid the pivot of the war's middle front.",
+       "confidence": "likely"
+      },
+      "storylines": [
+       "sudan-war"
+      ],
+      "era": "2020s",
+      "marker": "strike",
+      "where": [
+       "nyala"
+      ],
+      "related_stories": [
+       "2026-10-09-el-obeid-drones",
+       "2026-02-03-kadugli-siege-broken",
+       "2026-06-el-obeid-atrocity-warning",
+       "2025-03-21-khartoum-retaken",
+       "2025-10-26-el-fasher-falls",
+       "2023-04-15-sudan-war-begins",
+       "2023-05-11-jeddah-declaration",
+       "2023-12-18-wad-madani-falls",
+       "2024-05-10-el-fasher-siege",
+       "2025-01-11-wad-madani-retaken",
+       "2019-04-11-bashir-ousted"
+      ]
+     },
+     "oil-eases-monday-russia-waiver": {
+      "id": "oil-eases-monday-russia-waiver",
+      "date": "2026-10-19",
+      "date_precision": "day",
+      "kind": "event",
+      "edition": "2026-10-19",
+      "region": "Middle East",
+      "title": "Brent slips toward $107–108 as traders weigh Hormuz attacks against the Russia sanctions waiver",
+      "summary": "Brent futures fell about 1.3–1.8% in early Monday trade toward roughly $107–108 a barrel after Friday's jump toward $110, while WTI was quoted near $100–101. Reuters and CNBC-TV18 tied the dip to Trump's waiver of some Russia energy sanctions and to reports that US escorts had moved large crude volumes through Hormuz, even as Iran claimed fresh tanker mine strikes and UKMTO traffic remained about 70% below pre-war levels. US stock-index futures rose, with Nasdaq 100 futures up about 1% as AI-linked names bounced from Friday's selloff; the 10-year Treasury yield was near 5.09%.",
+      "sources": [
+       {
+        "name": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777"
+       },
+       {
+        "name": "CNBC-TV18",
+        "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-crude-west-asia-conflict-strait-of-hormuz-russia-ukraine-war-supply-saudi-houthi-attacks-20014556.htm"
+       },
+       {
+        "name": "Anadolu (UKMTO)",
+        "url": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-transits-remain-70-below-pre-conflict-levels-uk-maritime-agency/4091608"
+       }
+      ],
+      "entities": [
+       "petroleum",
+       "iran",
+       "russia",
+       "united-states",
+       "donald-trump",
+       "strait-of-hormuz"
+      ],
+      "causes": [
+       {
+        "story": "hormuz-two-tankers-mines-claim-oct18",
+        "why": "Monday oil trade is pricing the weekend Hormuz claims against the waiver narrative",
+        "confidence": "likely"
+       },
+       {
+        "story": "trump-waives-russia-sanctions",
+        "why": "Waiver headlines are the main cited reason for the early-week oil dip",
+        "confidence": "likely"
+       }
+      ],
+      "effects": [],
+      "batch": "inbox-2026-10-19",
+      "analysis": {
+       "text": "The market is splitting the difference: waiver and escort headlines cap the front-month spike, while physical diesel and freight still price a blocked strait. A renewed Hormuz spike remains the upside risk into Israel's vote and the US midterms.",
+       "confidence": "possible"
+      },
+      "storylines": [
+       "global-oil",
+       "iran-war-hormuz",
+       "central-banks-rates"
+      ],
+      "marker": "energy",
+      "unplaced": "Global oil price move; no single event pin.",
+      "related_stories": [
+       "hormuz-two-tankers-mines-claim-oct18",
+       "trump-waives-russia-sanctions",
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "houthis-hit-aramco",
+       "diesel-deal",
+       "venezuela-oil",
+       "2022-03-08-us-oil-ban",
+       "2022-09-02-price-cap",
+       "2022-10-05-opec-cut",
+       "gfs-pride-sunk",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "iea-diesel-release",
+       "us-weighs-shadow-fleet-relief",
+       "gulf-of-oman-tanker-fires",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "irgc-mine-supertanker-brent-110",
+       "2026-01-08-iran-protest-crackdown",
+       "2026-02-06-us-india-tariff-cut",
+       "2026-02-28-iran-war-begins",
+       "2026-03-11-iea-record-release",
+       "2026-03-13-kharg-strike",
+       "2026-04-13-us-blockade-iran",
+       "2026-06-17-islamabad-mou",
+       "2026-07-08-mou-collapses",
+       "2026-09-18-graham-act-signed",
+       "2026-09-22-zelensky-trump-unga",
+       "2026-09-26-trump-rejects-iran-plan",
+       "2026-10-02-g7-diesel-release",
+       "2025-06-22-midnight-hammer",
+       "2025-08-15-alaska-summit",
+       "2025-08-27-india-50pct-tariff",
+       "2025-10-22-rosneft-lukoil-sanctions",
+       "2020-01-03-soleimani-killed",
+       "2019-06-20-global-hawk-downed",
+       "2019-10-09-operation-peace-spring",
+       "2018-05-08-us-quits-jcpoa",
+       "2017-01-27-travel-ban",
+       "2017-04-07-shayrat-strike",
+       "2017-08-02-caatsa",
+       "2016-10-07-russia-election-interference",
+       "2015-07-14-jcpoa-agreed",
+       "2013-11-24-iran-interim-deal",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record",
+       "graham-waiver-bipartisan-backlash",
+       "trump-endorses-netanyahu"
+      ]
+     }
+    },
+    "zones": {
+     "hormuz": {
+      "id": "hormuz",
+      "name": "Strait of Hormuz",
+      "lat": 26.6,
+      "lon": 56.3,
+      "severity": "critical",
+      "note": "Iran's standing 7-day offer still on table; mine vs projectile dispute; UKMTO all-ship ~70% below pre-war, PortWatch tankers near zero on some days",
+      "label_dx": 8,
+      "label_dy": -14,
+      "entities": [
+       "strait-of-hormuz",
+       "iran",
+       "irgc",
+       "persian-gulf",
+       "petroleum",
+       "united-states",
+       "iea",
+       "ukmto",
+       "abbas-araghchi"
+      ],
+      "stories": [
+       "hormuz-attacks-surge",
+       "us-iran-talks-deadlock",
+       "gfs-pride-sunk",
+       "gulf-of-oman-tanker-fires",
+       "us-weighs-shadow-fleet-relief",
+       "iea-diesel-release",
+       "irgc-mine-supertanker-brent-110",
+       "iran-seven-day-hormuz-offer",
+       "second-mine-tanker-ukmto-record",
+       "hormuz-two-tankers-mines-claim-oct18",
+       "oil-eases-monday-russia-waiver",
+       "trump-endorses-netanyahu"
+      ]
+     },
+     "saudi": {
+      "id": "saudi",
+      "name": "Saudi (Aramco)",
+      "lat": 25.5,
+      "lon": 48.5,
+      "severity": "high",
+      "note": "Khamis Mushait intercepts; Egypt offers to defend the kingdom if requested",
+      "label_dx": -105,
+      "label_dy": -12,
+      "entities": [
+       "saudi-arabia",
+       "aramco",
+       "houthis",
+       "petroleum",
+       "riyadh",
+       "yanbu",
+       "egypt"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-aden-airport-khamis-mushait",
+       "egypt-offers-to-defend-saudi"
+      ]
+     },
+     "yemen": {
+      "id": "yemen",
+      "name": "Yemen / Bab el-Mandeb",
+      "lat": 13.3,
+      "lon": 43.4,
+      "severity": "critical",
+      "note": "Missiles hit Aden airport; Yemen rejects Iran mediation; Houthi fire on Saudi targets continues",
+      "label_dx": -60,
+      "label_dy": 32,
+      "entities": [
+       "houthis",
+       "yemen",
+       "bab-el-mandeb",
+       "red-sea",
+       "mokha",
+       "iran",
+       "aden"
+      ],
+      "stories": [
+       "houthis-hit-aramco",
+       "saudi-offensive-mokha",
+       "houthis-saudi-oct15",
+       "saudi-blames-iran-eu-gcc-postponed",
+       "yanbu-missile-intercepted",
+       "houthis-aden-airport-khamis-mushait",
+       "egypt-offers-to-defend-saudi"
+      ]
+     },
+     "lebanon": {
+      "id": "lebanon",
+      "name": "Lebanon (Israel–Hezbollah)",
+      "lat": 33.3,
+      "lon": 35.5,
+      "severity": "elevated",
+      "note": "US-mediated military talks in Tampa Oct 20; Israeli strikes continue",
+      "entities": [
+       "lebanon",
+       "israel",
+       "hezbollah",
+       "beirut"
+      ],
+      "stories": [
+       "lebanon-tampa-talks-demands",
+       "2026-10-14-lebanon-yellow-line",
+       "trump-endorses-netanyahu"
+      ],
+      "label_dx": -178,
+      "label_dy": -8
+     },
+     "ukraine": {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "lat": 49.5,
+      "lon": 32.0,
+      "severity": "critical",
+      "note": "Zelenskyy: Russia seeking nationwide blackout; 76 energy attacks in a week; Starshield limits contested",
+      "label_dx": -62,
+      "label_dy": -10,
+      "entities": [
+       "ukraine",
+       "russia",
+       "volodymyr-zelenskyy",
+       "starlink",
+       "spacex",
+       "sloviansk",
+       "odesa"
+      ],
+      "stories": [
+       "energy-ceasefire",
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "lutsk-blackout-volyn",
+       "russia-grid-strikes-oct16",
+       "trump-waives-russia-sanctions",
+       "russia-332-drone-energy-strike",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang",
+       "ukraine-blackout-push-oct18"
+      ]
+     },
+     "russia": {
+      "id": "russia",
+      "name": "Russia (oil/diesel)",
+      "lat": 55.7,
+      "lon": 37.6,
+      "severity": "high",
+      "note": "Waiver still standing; oil dips on the narrative while Ukraine grid strikes continue",
+      "entities": [
+       "russia",
+       "petroleum",
+       "steve-witkoff",
+       "european-union"
+      ],
+      "stories": [
+       "diesel-deal",
+       "energy-ceasefire-collapse",
+       "trump-disgrace-eu-summit",
+       "putin-security-zone",
+       "trump-waives-russia-sanctions",
+       "graham-waiver-bipartisan-backlash",
+       "poland-starlink-arson-russia-gang",
+       "oil-eases-monday-russia-waiver",
+       "ukraine-blackout-push-oct18"
+      ]
+     },
+     "sudan-kordofan": {
+      "id": "sudan-kordofan",
+      "name": "Sudan (Kordofan / Darfur)",
+      "lat": 13.2,
+      "lon": 28.5,
+      "severity": "high",
+      "note": "Army strikes Nyala; RSF drones hit El Obeid and Kordofan mines",
+      "entities": [
+       "sudan",
+       "rsf",
+       "sudanese-armed-forces",
+       "el-obeid",
+       "nyala"
+      ],
+      "stories": [
+       "sudan-nyala-strikes",
+       "2026-10-09-el-obeid-drones"
+      ],
+      "label_dx": -150,
+      "label_dy": 18
+     },
+     "venezuela": {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "lat": 8.0,
+      "lon": -66.0,
+      "severity": "elevated",
+      "note": "Talks on election rules; opposition march Oct 22",
+      "entities": [
+       "venezuela",
+       "pdvsa",
+       "ofac",
+       "nicolas-maduro"
+      ],
+      "stories": [
+       "venezuela-oil",
+       "venezuela-talks-election-rules"
+      ]
+     },
+     "cuba": {
+      "id": "cuba",
+      "name": "Cuba (grid & oil siege)",
+      "lat": 22.3,
+      "lon": -79.8,
+      "severity": "elevated",
+      "note": "Forecast peak shortfall hit 75.5% after Santa Cruz plant fire; peso ~800/USD; UN embargo vote Oct 27–28",
+      "entities": [
+       "cuba",
+       "havana",
+       "santa-cruz-del-norte",
+       "united-states"
+      ],
+      "stories": [
+       "cuba-75pct-blackout-santa-cruz",
+       "2026-10-12-cuba-blockade-bites"
+      ],
+      "label_dx": 10,
+      "label_dy": -10
+     }
+    },
+    "links": {
+     "saudi--hormuz": null,
+     "hormuz--ukraine": {
+      "id": "hormuz--ukraine",
+      "from": "hormuz",
+      "to": "ukraine",
+      "label": "Oil price → US eases Russia, presses Kyiv",
+      "entities": [
+       "petroleum",
+       "donald-trump",
+       "ukraine",
+       "strait-of-hormuz"
+      ],
+      "stories": [
+       "trump-disgrace-eu-summit",
+       "starshield-curbs-white-house",
+       "iea-diesel-release",
+       "trump-waives-russia-sanctions"
+      ]
+     }
+    },
+    "relationships": {},
+    "storylines": {},
+    "entities": {},
+    "entities_added": [
+     "saint-petersburg",
+     "tampa"
+    ],
+    "date_saved": true,
+    "hotzones_date": "2026-10-19"
+   }
   }
  }
 }
