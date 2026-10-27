@@ -1,0 +1,476 @@
+{
+  "edition": "2026-10-27",
+  "stories": [
+    {
+      "id": "israel-votes-oct27",
+      "date": "2026-10-27",
+      "region": "Middle East",
+      "marker": "political",
+      "unplaced": "Nationwide national election; no single event site.",
+      "title": "Israel votes in first national election since Oct 7; record early turnout, exit polls at 22:00",
+      "summary": "Israelis voted on Oct 27 in the first Knesset election since the October 7, 2023 attack. The Central Elections Committee put turnout at 16.7% by 10 a.m. (15.9% at the same hour in 2022), the highest at that hour since 1981, with 7.33 million eligible voters. Netanyahu's Likud and allies face an alliance led by Gadi Eisenkot's Yashar with Bennett's Together, Lieberman's Israel Our Home and Golan's Democrats. Netanyahu said Trump was prepared to act again on Iran only if he remained in power; Eisenkot said Trump would cooperate with any elected leader. Polls close at 22:00 Israel time (4 PM ET); official results are due by Nov 4.",
+      "analysis": {
+        "text": "High early turnout helps whichever camp mobilises its base better; heavy Arab turnout would tilt the arithmetic toward Eisenkot, who rules out Arab partners but could lean on outside support. A hung result keeps Netanyahu as caretaker, possibly into a new election next year, which leaves the Iran decision in his hands.",
+        "confidence": "likely"
+      },
+      "sources": [
+        {
+          "name": "Reuters via Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/10/netanyahus-political-survival-line-israel-votes"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/turnout-at-16-7-as-of-10-a-m-1-2-million-votes-cast/"
+        },
+        {
+          "name": "Reuters graphics",
+          "url": "https://www.reuters.com/graphics/ISRAEL-ELECTION/RESULTS/akvelybkapr/"
+        }
+      ],
+      "entities": [
+        "israel",
+        "benjamin-netanyahu",
+        "gadi-eisenkot",
+        "yashar",
+        "likud",
+        "naftali-bennett",
+        "knesset",
+        "donald-trump",
+        "iran"
+      ],
+      "storylines": [
+        "levant-wars",
+        "iran-war-hormuz"
+      ],
+      "causes": [
+        {
+          "story": "israel-final-polls-oct23",
+          "why": "The vote the final polls showed deadlocked took place",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "tehran-four-way-talks-oct26",
+      "date": "2026-10-26",
+      "region": "Middle East",
+      "marker": "diplomacy",
+      "where": [
+        "tehran"
+      ],
+      "title": "Saudi, Turkish and Pakistani security chiefs meet Iran in Tehran; agree to keep talking",
+      "summary": "Saudi Defence Minister Prince Khalid bin Salman, Pakistan's army chief Field Marshal Asim Munir and Turkish intelligence chief Ibrahim Kalin met Iranian counterparts in Tehran on Oct 26, the first high-level contact between Iran and the three Mecca defence pact signatories (August) since the war spread to Saudi Arabia and Yemen. A joint statement said the four agreed to continue dialogue on regional peace and security. A Pakistani official told Reuters the agenda covered a regional non-aggression network, US-Iran talks, Houthi attacks, Hormuz and the US blockade. Separately, Iran's armed forces chief Maj. Gen. Ali Abdollahi said Hormuz is 'completely closed' to vessels outside Iran's designated route.",
+      "analysis": {
+        "text": "Riyadh is opening its own channel to Tehran rather than relying only on Washington, a hedge against a war it did not start but is absorbing. The talks do not bind the Houthis or the IRGC navy, so they cap escalation risk more than they reopen the strait.",
+        "confidence": "possible"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera / Reuters",
+          "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks"
+        },
+        {
+          "name": "Tasnim",
+          "url": "https://www.tasnimnews.ir/en/news/2026/10/27/3733299/no-safety-for-violating-vessels-in-strait-of-hormuz-top-iranian-general"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/27/oil-eases-on-mideast-diplomacy-hopes-saudi-attacks-stoke-supply-woes.html"
+        }
+      ],
+      "entities": [
+        "iran",
+        "saudi-arabia",
+        "turkey",
+        "pakistan",
+        "asim-munir",
+        "irgc",
+        "strait-of-hormuz",
+        "tehran",
+        "houthis"
+      ],
+      "storylines": [
+        "gulf-realignment",
+        "iran-war-hormuz",
+        "yemen-houthis-saudi"
+      ],
+      "causes": [
+        {
+          "story": "qatar-mediators-tehran-oct25",
+          "why": "Regional mediation in Tehran widened from Qatar to the Mecca pact states",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "houthi-barrage-eastern-province-oct27",
+      "date": "2026-10-27",
+      "region": "Middle East",
+      "marker": "strike",
+      "unplaced": "Missiles aimed at a whole province and drones at southern regions; interceptions, no confirmed impact site.",
+      "title": "Coalition says it intercepted 3 Houthi ballistic missiles aimed at Eastern Province and 4 drones",
+      "summary": "Saudi-led coalition spokesman Turki al-Maliki said on Oct 27 that three Houthi ballistic missiles aimed at Saudi Arabia's Eastern Province and four drones heading to southern regions were intercepted, with no casualties; Civil Defence issued alerts in the Eastern Province and Al Kharj. The coalition said it downed three more drones over Riyadh and the south on Oct 26 and destroyed five missile-storage tunnels, four launchers and a depot in Yemen. The attacks came hours after the Tehran four-way talks.",
+      "analysis": {
+        "text": "Targeting the Eastern Province, home of Abqaiq and Ras Tanura, after the East-West pipeline claims means the Houthis are probing both of Saudi Arabia's export routes. Interceptions so far mean no lost barrels, but each salvo keeps a premium in Brent.",
+        "confidence": "possible"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera / Reuters",
+          "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones"
+        },
+        {
+          "name": "Al-Monitor / Reuters",
+          "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-fighting"
+        }
+      ],
+      "entities": [
+        "houthis",
+        "saudi-arabia",
+        "yemen",
+        "petroleum"
+      ],
+      "storylines": [
+        "yemen-houthis-saudi",
+        "global-oil"
+      ],
+      "causes": [
+        {
+          "story": "houthis-east-west-pipeline-riyadh",
+          "why": "Houthi fire on Saudi energy and airports continued a day later",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "brazil-ibovespa-crash-oct26",
+      "date": "2026-10-26",
+      "region": "Americas",
+      "marker": "political",
+      "where": [
+        "brasilia"
+      ],
+      "title": "Ibovespa falls 13.9%, dollar jumps 8.2% to R$5.40 after Lula win; Treasury and central bank intervene",
+      "summary": "Brazil's Ibovespa closed down 13.88% at 176,608 on Oct 26, its biggest one-day fall since March 2020, after a 10% drop at the open triggered a circuit breaker; the dollar rose 8.2% to R$5.40. The Treasury cancelled debt auctions and bought back about R$7.1 billion of fixed-rate NTN-F and R$7.7 billion of inflation-linked NTN-B bonds; the central bank sold currency swaps worth about US$3.75 billion. Finance Minister Dario Durigan said the government would formally target the midpoint of its primary-surplus goal, raise next year's surplus and review mandatory spending. Folha reported Lula is weighing central bank chief Gabriel Galípolo among candidates to run the economic team. Citi and BCA downgraded Brazilian assets.",
+      "analysis": {
+        "text": "Coordinated Treasury and central-bank action stopped the disorderly part of the move; whether it holds depends on who runs the economic team and whether the fiscal promise gets numbers. Moving Galípolo would calm fiscal fears but raise questions about central-bank independence.",
+        "confidence": "possible"
+      },
+      "sources": [
+        {
+          "name": "O Globo",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/lula-se-reune-com-ministros-da-fazenda-e-do-planejamento-apos-queda-da-bolsa-e-alta-do-dolar.ghtml"
+        },
+        {
+          "name": "O Globo (Durigan)",
+          "url": "https://oglobo.globo.com/economia/fabio-graner/noticia/2026/10/26/ministro-da-fazenda-diz-que-tesouro-fara-intervencao-em-titulos-publicos-apos-mercado-reagir-a-vitoria-de-lula.ghtml"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/brazil-finance-minister-signals-more-ambitious-primary-surplus-for-next-year-4973475"
+        },
+        {
+          "name": "Folha",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/10/equipe-de-lula-prepara-pec-para-buscar-centro-da-meta-fiscal-e-preve-menos-credito-subsidiado.shtml"
+        },
+        {
+          "name": "Investing.com (downgrades)",
+          "url": "https://www.investing.com/news/stock-market-news/citi-bca-downgrade-brazilian-assets-after-lula-comeback-4974254"
+        }
+      ],
+      "entities": [
+        "brazil",
+        "lula",
+        "brasilia"
+      ],
+      "storylines": [
+        "western-hemisphere"
+      ],
+      "causes": [
+        {
+          "story": "brazil-lula-wins-runoff",
+          "why": "Markets had priced a Flávio Bolsonaro win",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "kyiv-ballistic-strike-oct26",
+      "date": "2026-10-27",
+      "region": "Europe",
+      "marker": "strike",
+      "where": [
+        "kyiv"
+      ],
+      "title": "Russian ballistic missiles hit Kyiv's Southern Bridge, university dorm and clinics; one killed",
+      "summary": "Russia struck Kyiv with ballistic missiles in waves on the evening of Oct 26 and after 3 a.m. Oct 27, killing one person and injuring 15, according to the State Emergency Service. The Southern Bridge over the Dnipro, a university dormitory, medical facilities and metro infrastructure were damaged, and emergency power cuts followed. Overnight Oct 25-26 Russia also launched 140 drones (70 jet-powered Shaheds) and four missiles; the air force said 112 drones and three missiles were downed, with hits at 15 locations.",
+      "analysis": {
+        "text": "Ballistic missiles are the threat that only Patriot-class interceptors stop, so the Kyiv waves land precisely on the shortage Zelenskyy flagged this week. Expect Moscow to keep the pressure on before the possible Nov 10 talks.",
+        "confidence": "likely"
+      },
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
+        },
+        {
+          "name": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059832/"
+        },
+        {
+          "name": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/10/26/guided-bombs-on-izium-strikes-on-zaporizhzhia-russian-overnight-attacks-wound-six-later-strikes-kill-three/"
+        }
+      ],
+      "entities": [
+        "russia",
+        "ukraine",
+        "kyiv"
+      ],
+      "storylines": [
+        "russia-ukraine"
+      ],
+      "causes": [
+        {
+          "story": "russia-strikes-oct24-patriot-shortage",
+          "why": "Strikes continued as the interceptor shortage persisted",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "eu-gas-storage-low-oct27",
+      "date": "2026-10-27",
+      "region": "Europe",
+      "marker": "energy",
+      "unplaced": "Europe-wide gas market and storage data; no single site.",
+      "title": "EU gas storage ~74.6%, lowest for late October since 2009, as TTF hits four-year high",
+      "summary": "Dutch TTF gas settled at a four-year high of about EUR 97/MWh on Oct 26 and traded near EUR 96 on Oct 27, up about 234% this year. EU storage is about 74.6% full, the lowest for late October since 2009, against a norm near 86%. Norway's Oseberg field has an outage; Qatar has shipped no LNG to Europe since May; the EU ban on Russian LNG starts in January 2027. Euronews estimated about EUR 600 in extra winter costs per gas-heated home.",
+      "analysis": {
+        "text": "Europe enters winter with thin buffers and two of its three marginal suppliers (Qatar, Russia) unavailable, so cold weather alone could force demand curbs. That turns the Gulf war into a European cost-of-living and political issue within weeks.",
+        "confidence": "likely"
+      },
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://ng.investing.com/news/commodities-news/european-gas-pauses-4day-surge-depleted-storage-leaves-floor-under-curves-2759112"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills"
+        }
+      ],
+      "entities": [
+        "natural-gas",
+        "european-union",
+        "norway",
+        "qatar"
+      ],
+      "storylines": [
+        "europe-cost-of-living",
+        "global-oil",
+        "iran-war-hormuz"
+      ],
+      "causes": [
+        {
+          "story": "france-cost-of-living-riots",
+          "why": "Energy costs were already driving unrest in Europe",
+          "confidence": "possible"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "algeria-approves-niger-deployment",
+      "date": "2026-10-25",
+      "region": "Africa",
+      "marker": "military",
+      "where": [
+        "algiers"
+      ],
+      "title": "Algeria's parliament approves troop deployment to Niger, breaking non-intervention doctrine",
+      "summary": "Both houses of Algeria's parliament approved on Oct 25 a proposal to deploy troops to Niger; numbers and timing were not disclosed. A senator said the mission is to secure economic infrastructure, not to wage war. Nearly two months earlier Algeria sent Su-30 jets and support aircraft to Niamey after what it called an attempt to destabilise Niger's military government.",
+      "analysis": {
+        "text": "Algeria is stepping into the space left by France and filled partly by Russia's Africa Corps, which could cut across Moscow's role and Morocco's Sahel ambitions. A foreign troop presence also raises the stakes for JNIM and IS-Sahel.",
+        "confidence": "possible"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera via Africa Center",
+          "url": "https://africacenter.org/daily-media-review/africa-media-review-for-october-26-2026/"
+        }
+      ],
+      "entities": [
+        "algeria",
+        "niger",
+        "niamey",
+        "algiers"
+      ],
+      "storylines": [
+        "sahel"
+      ],
+      "causes": [
+        {
+          "story": "2026-08-29-niger-mutiny",
+          "why": "Algeria first sent jets after the destabilisation attempt in Niger",
+          "confidence": "possible"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "ebola-tumaini-trial-bunia",
+      "date": "2026-10-23",
+      "region": "Africa",
+      "marker": "political",
+      "where": [
+        "bunia"
+      ],
+      "title": "Ebola vaccine trial starts in Bunia as DRC outbreak passes 9,700 cases and reaches Nigeria",
+      "summary": "WHO chief Tedros said the first participants were vaccinated in Bunia on Oct 23 in the Tumaini trial testing whether Ervebo protects against the Bundibugyo Ebola strain behind DR Congo's worst-ever outbreak, which has passed 9,700 cases and 4,600 deaths since May. Uganda introduced 21-day quarantine for people arriving from DRC. Nigeria's first Ebola patient in over a decade, a diplomat's wife in Abuja, had not travelled to DRC, making it the fourth affected country.",
+      "analysis": {
+        "text": "An outbreak this large in the M23-contested east, now with an unexplained case in Nigeria, is a regional security and trade problem, not just a health one. It strains aid already stretched by the war economy.",
+        "confidence": "likely"
+      },
+      "sources": [
+        {
+          "name": "Le Monde / AFP via Africa Center",
+          "url": "https://africacenter.org/daily-media-review/africa-media-review-for-october-26-2026/"
+        }
+      ],
+      "entities": [
+        "ebola",
+        "drc",
+        "bunia",
+        "who",
+        "uganda",
+        "nigeria"
+      ],
+      "storylines": [
+        "drc-m23-minerals"
+      ],
+      "causes": [
+        {
+          "story": "2026-05-17-ebola-pheic",
+          "why": "The outbreak declared in May kept spreading",
+          "confidence": "likely"
+        }
+      ],
+      "edition": "2026-10-27"
+    },
+    {
+      "id": "rsf-drones-five-substations",
+      "date": "2026-10-25",
+      "region": "Africa",
+      "marker": "strike",
+      "unplaced": "Coordinated strikes on five power stations across three states.",
+      "title": "RSF drones hit five power stations, blacking out much of eastern Sudan",
+      "summary": "A Sudanese government official said RSF drones hit two power stations each in Al-Jazira and Gedaref states and one in White Nile, causing outages across large parts of all three army-held states. UN rights chief Volker Türk said at least 306 people were killed by drone strikes in the first three weeks of October.",
+      "analysis": {
+        "text": "Hitting the grid in army-held states is the RSF's way to impose costs far from the front, mirroring the energy war in Ukraine. It deepens the world's largest hunger crisis.",
+        "confidence": "likely"
+      },
+      "sources": [
+        {
+          "name": "Guardian via Africa Center",
+          "url": "https://africacenter.org/daily-media-review/africa-media-review-for-october-26-2026/"
+        }
+      ],
+      "entities": [
+        "rsf",
+        "sudan",
+        "sudanese-armed-forces"
+      ],
+      "storylines": [
+        "sudan-war"
+      ],
+      "causes": [
+        {
+          "story": "el-fasher-one-year-on",
+          "why": "The drone war continued after the El Fasher anniversary",
+          "confidence": "possible"
+        }
+      ],
+      "edition": "2026-10-27"
+    }
+  ],
+  "zones": [
+    {
+      "id": "hormuz",
+      "severity": "critical",
+      "note": "Iran's armed forces chief says strait 'completely closed' outside Iran's route; Saudi, Turkish, Pakistani chiefs in Tehran; UKMTO ~70% below pre-war, PortWatch 2 tankers Oct 18",
+      "stories": [
+        "tehran-four-way-talks-oct26"
+      ]
+    },
+    {
+      "id": "saudi",
+      "severity": "high",
+      "note": "3 Houthi ballistic missiles at Eastern Province and drones intercepted Oct 27; Riyadh opens own channel to Tehran",
+      "stories": [
+        "houthi-barrage-eastern-province-oct27",
+        "tehran-four-way-talks-oct26"
+      ]
+    },
+    {
+      "id": "yemen",
+      "severity": "critical",
+      "note": "Coalition says it destroyed five missile tunnels and four launchers; Houthi salvos continue",
+      "stories": [
+        "houthi-barrage-eastern-province-oct27"
+      ]
+    },
+    {
+      "id": "lebanon",
+      "severity": "elevated",
+      "note": "Israel votes Oct 27; exit polls 4 PM ET, official results by Nov 4",
+      "stories": [
+        "israel-votes-oct27"
+      ]
+    },
+    {
+      "id": "ukraine",
+      "severity": "critical",
+      "note": "Ballistic waves hit Kyiv's Southern Bridge, dorm, clinics; 140 drones Oct 25-26",
+      "stories": [
+        "kyiv-ballistic-strike-oct26"
+      ]
+    },
+    {
+      "id": "sudan-kordofan",
+      "severity": "high",
+      "note": "RSF drones knock out five power stations in Al-Jazira, Gedaref, White Nile",
+      "stories": [
+        "rsf-drones-five-substations"
+      ]
+    },
+    {
+      "id": "mali",
+      "severity": "elevated",
+      "note": "Algeria's parliament approves troop deployment to Niger",
+      "stories": [
+        "algeria-approves-niger-deployment"
+      ],
+      "entities": [
+        "algeria"
+      ]
+    },
+    {
+      "id": "drc",
+      "severity": "high",
+      "note": "Ebola outbreak past 9,700 cases; vaccine trial starts in Bunia; case in Nigeria",
+      "stories": [
+        "ebola-tumaini-trial-bunia"
+      ],
+      "entities": [
+        "ebola",
+        "bunia"
+      ]
+    }
+  ]
+}
