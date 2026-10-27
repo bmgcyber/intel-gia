@@ -1,5 +1,5 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "zones": [
   {
    "id": "hormuz",
@@ -7,7 +7,7 @@
    "lat": 26.6,
    "lon": 56.3,
    "severity": "critical",
-   "note": "Qatari mediators in Tehran; Trump 'deal or finish them off'; UKMTO all-ship ~70% below pre-war (241 transits wk to Oct 21), PortWatch 2 tankers Oct 18",
+   "note": "Iran's armed forces chief says strait 'completely closed' outside Iran's route; Saudi, Turkish, Pakistani chiefs in Tehran; UKMTO ~70% below pre-war, PortWatch 2 tankers Oct 18",
    "label_dx": 8,
    "label_dy": -14,
    "entities": [
@@ -36,7 +36,8 @@
     "oil-eases-monday-russia-waiver",
     "trump-endorses-netanyahu",
     "qatar-mediators-tehran-oct25",
-    "hormuz-ukmto-week-oct21"
+    "hormuz-ukmto-week-oct21",
+    "tehran-four-way-talks-oct26"
    ]
   },
   {
@@ -45,7 +46,7 @@
    "lat": 13.3,
    "lon": 43.4,
    "severity": "critical",
-   "note": "Coalition says it destroyed two launchers in Sanaa; Houthi fire on Saudi airports and oil sites escalates",
+   "note": "Coalition says it destroyed five missile tunnels and four launchers; Houthi salvos continue",
    "label_dx": -60,
    "label_dy": 32,
    "entities": [
@@ -66,7 +67,8 @@
     "yanbu-missile-intercepted",
     "houthis-aden-airport-khamis-mushait",
     "egypt-offers-to-defend-saudi",
-    "houthis-east-west-pipeline-riyadh"
+    "houthis-east-west-pipeline-riyadh",
+    "houthi-barrage-eastern-province-oct27"
    ]
   },
   {
@@ -75,7 +77,7 @@
    "lat": 25.5,
    "lon": 48.5,
    "severity": "high",
-   "note": "Houthis claim East-West pipeline pumping stations and Riyadh airport; missile intercepted; no Saudi damage confirmation",
+   "note": "3 Houthi ballistic missiles at Eastern Province and drones intercepted Oct 27; Riyadh opens own channel to Tehran",
    "label_dx": -105,
    "label_dy": -12,
    "entities": [
@@ -94,7 +96,9 @@
     "yanbu-missile-intercepted",
     "houthis-aden-airport-khamis-mushait",
     "egypt-offers-to-defend-saudi",
-    "houthis-east-west-pipeline-riyadh"
+    "houthis-east-west-pipeline-riyadh",
+    "houthi-barrage-eastern-province-oct27",
+    "tehran-four-way-talks-oct26"
    ]
   },
   {
@@ -121,7 +125,7 @@
    "lat": 49.5,
    "lon": 32.0,
    "severity": "critical",
-   "note": "153 drones plus missiles Oct 24-25; Zelenskyy asks US to unblock Patriot interceptors; trilateral talks eyed ~Nov 10",
+   "note": "Ballistic waves hit Kyiv's Southern Bridge, dorm, clinics; 140 drones Oct 25-26",
    "label_dx": -62,
    "label_dy": -10,
    "entities": [
@@ -148,7 +152,8 @@
     "poland-starlink-arson-russia-gang",
     "ukraine-blackout-push-oct18",
     "russia-strikes-oct24-patriot-shortage",
-    "witkoff-putin-trilateral-talks"
+    "witkoff-putin-trilateral-talks",
+    "kyiv-ballistic-strike-oct26"
    ]
   },
   {
@@ -228,7 +233,7 @@
    "lat": -1.5,
    "lon": 29.0,
    "severity": "high",
-   "note": "Kabila's PPRD and 12 parties suspended; generals grounded; Belgium contacts frozen",
+   "note": "Ebola outbreak past 9,700 cases; vaccine trial starts in Bunia; case in Nigeria",
    "entities": [
     "drc",
     "m23",
@@ -236,13 +241,16 @@
     "rubaya",
     "coltan",
     "rwanda",
-    "felix-tshisekedi"
+    "felix-tshisekedi",
+    "ebola",
+    "bunia"
    ],
    "stories": [
     "kabila-m23",
     "rubaya-coltan",
     "kabila-frn-succeeds-afc",
-    "kinshasa-suspends-kabila-party"
+    "kinshasa-suspends-kabila-party",
+    "ebola-tumaini-trial-bunia"
    ]
   },
   {
@@ -251,7 +259,7 @@
    "lat": 18.4,
    "lon": 1.4,
    "severity": "elevated",
-   "note": "IS claims 400 JNIM dead in Oudalan; fuel convoys still racing JNIM blockade",
+   "note": "Algeria's parliament approves troop deployment to Niger",
    "entities": [
     "mali",
     "kidal",
@@ -259,11 +267,13 @@
     "africa-corps",
     "jnim",
     "fla",
-    "issp"
+    "issp",
+    "algeria"
    ],
    "stories": [
     "kidal",
-    "sahel-jnim-issp-oudalan"
+    "sahel-jnim-issp-oudalan",
+    "algeria-approves-niger-deployment"
    ]
   },
   {
@@ -348,7 +358,7 @@
    "lat": 13.2,
    "lon": 28.5,
    "severity": "high",
-   "note": "One year since El Fasher fell; rights groups document abuses; drone war continues in Kordofan",
+   "note": "RSF drones knock out five power stations in Al-Jazira, Gedaref, White Nile",
    "entities": [
     "sudan",
     "rsf",
@@ -360,7 +370,8 @@
    "stories": [
     "sudan-nyala-strikes",
     "2026-10-09-el-obeid-drones",
-    "el-fasher-one-year-on"
+    "el-fasher-one-year-on",
+    "rsf-drones-five-substations"
    ],
    "label_dx": -150,
    "label_dy": 18
@@ -371,7 +382,7 @@
    "lat": 33.3,
    "lon": 35.5,
    "severity": "elevated",
-   "note": "Tampa talks ended without breakthrough; Israel votes Oct 27, final polls show deadlock",
+   "note": "Israel votes Oct 27; exit polls 4 PM ET, official results by Nov 4",
    "entities": [
     "lebanon",
     "israel",
@@ -383,7 +394,8 @@
     "2026-10-14-lebanon-yellow-line",
     "trump-endorses-netanyahu",
     "lebanon-tampa-no-breakthrough",
-    "israel-final-polls-oct23"
+    "israel-final-polls-oct23",
+    "israel-votes-oct27"
    ],
    "label_dx": -178,
    "label_dy": -8
